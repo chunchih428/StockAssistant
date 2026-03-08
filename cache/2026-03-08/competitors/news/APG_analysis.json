@@ -1,0 +1,75 @@
+{
+  "ticker": "APG",
+  "company": "APi Group",
+  "analysis_date": "2026-03-08",
+  "source_file": "cache/2026-03-08/competitors/news/APG.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 4,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司憑藉強勁的檢測業務增長、併購策略以及在數據中心領域的曝險，展現出長期雙位數 EPS 增長的潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "APi Group’s Record Q3 Underscores Inspection Growth And Acquisition-Led Expansion",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 22:12",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司發布創紀錄的第 3 季財報，顯示其核心檢測業務表現強勁，且併購策略成功推動了業務規模擴張，為股價提供實質基本面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "What Offers Api Group Corp. (APG) a Long Runway for Double-Digit EPS Growth?",
+      "publisher": "Yahoo",
+      "date": "2026-03-04 21:26",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "SouthernSun 資產管理公司指出 APG 具備長期雙位數每股盈餘 (EPS) 增長的潛力，強化了市場對其成長軌跡的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "How The APi Group (APG) Narrative Is Shifting With Recurring Revenue And Data Center Exposure",
+      "publisher": "Simply Wall St.",
+      "date": "2026-02-28 15:12",
+      "impact": "medium",
+      "category": "業務轉型",
+      "reason": "分析指出公司業務結構轉向高黏著度的經常性收入，並成功切入數據中心市場，提升了市場對其估值的評價。"
+    },
+    {
+      "rank": 4,
+      "title": "APi Group Corporation (APG): A Bull Case Theory",
+      "publisher": "Insider Monkey",
+      "date": "2026-02-28 18:55",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "該報導整理了看多 APG 的核心論點，進一步鞏固了市場對該公司未來表現的樂觀預期。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Janus, APi, AGCO, WESCO, and Bel Fuse Shares Are Falling, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-04 04:47",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受中東地緣政治緊張導致原油價格波動影響，市場出現避險情緒，導致 APG 股價隨大盤出現短期回調，屬外部因素而非公司基本面惡化。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Time To Reassess APi Group (APG) After A 75% One Year Rally?",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 12:33",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "在股價一年內上漲 75% 後，市場開始討論其估值是否合理，這篇報導旨在引導投資人重新評估風險與報酬，並未給出明確的買賣建議。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

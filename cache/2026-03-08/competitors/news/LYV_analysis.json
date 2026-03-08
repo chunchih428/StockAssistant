@@ -1,0 +1,38 @@
+{
+  "ticker": "LYV",
+  "company": "Live Nation Entertainment",
+  "analysis_date": "2026-03-08",
+  "source_file": "cache/2026-03-08/competitors/news/LYV.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "美國司法部針對 Live Nation 展開的反壟斷訴訟成為壓抑股價的主要不確定性因素。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Live Nation DOJ Antitrust Trial Puts Strong Stock Performance Under Scrutiny",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 23:11",
+      "impact": "high",
+      "category": "法規監管",
+      "reason": "美國司法部對 Live Nation 提起反壟斷訴訟，此舉可能導致公司面臨業務拆分或商業模式被迫調整的風險，對長期營運穩定性構成重大威脅。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Assessing Live Nation Entertainment (LYV) Valuation After Recent Share Price Momentum",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 11:12",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導針對近期股價強勁表現進行估值評估，屬於中性的市場分析，旨在探討股價動能與基本面是否匹配，未提供明確的買進或賣出建議。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

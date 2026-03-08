@@ -1,0 +1,102 @@
+{
+  "ticker": "GM",
+  "company": "General Motors",
+  "analysis_date": "2026-03-08",
+  "source_file": "cache/2026-03-08/competitors/news/GM.json",
+  "summary": {
+    "total_articles": 19,
+    "bullish_count": 7,
+    "bearish_count": 5,
+    "neutral_count": 7,
+    "overall_sentiment": "neutral",
+    "key_theme": "通用汽車近期股價表現強勁，但在地緣政治風險與法律訴訟壓力下，市場對於其估值是否過高出現分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Tesla and General Motors: BofA Bets Big on Autonomy and ICE Dominance With Bold Price Targets",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 00:11",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "美國銀行 (Bank of America) 看好通用汽車在內燃機車款的市場主導地位及自動駕駛技術的潛力，給予正面評級，為股價提供強勁支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "GM CarBravo Shift Links Used Car Strategy With Undervalued Stock Story",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 07:18",
+      "impact": "medium",
+      "category": "業務策略",
+      "reason": "通用汽車將旗下認證中古車計畫整合至 CarBravo 平台，此舉有助於提升二手車業務效率並強化獲利結構，市場視為價值重估的催化劑。"
+    },
+    {
+      "rank": 3,
+      "title": "We test drove the new Corvette. Why it's a 'bargain' at $200K",
+      "publisher": "Yahoo",
+      "date": "2026-03-07 06:32",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "新款 2026 年式 Corvette ZR1 獲得市場高度評價，展現通用汽車在高端跑車市場的定價能力與品牌影響力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ford, GM, Stellantis stocks slide after U.S.-Iran strikes hit markets",
+      "publisher": "Yahoo",
+      "date": "2026-03-03 00:47",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "受美伊衝突升級導致全球油價飆升影響，汽車類股普遍遭到拋售，反映出投資人對供應鏈成本與宏觀經濟不確定性的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Does Iowa’s Data-Privacy Lawsuit Against OnStar Reframe the Bull Case For General Motors (GM)?",
+      "publisher": "Yahoo",
+      "date": "2026-03-02 12:21",
+      "impact": "medium",
+      "category": "法規與訴訟",
+      "reason": "愛荷華州檢察長針對 OnStar 提出數據隱私訴訟，可能對通用汽車的軟體服務業務與品牌聲譽造成長期法律風險。"
+    },
+    {
+      "rank": 3,
+      "title": "3 Reasons to Sell GM and 1 Stock to Buy Instead",
+      "publisher": "Yahoo",
+      "date": "2026-03-04 19:24",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "分析指出通用汽車過去六個月漲幅已達 32.8%，跑贏大盤，部分投資人開始獲利了結，認為股價已反映過多樂觀情緒。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "GM, Ford, Stellantis stocks fell for week ending March 6",
+      "publisher": "Yahoo",
+      "date": "2026-03-07 23:16",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "總結性報導指出底特律三大車廠本週股價下跌，屬於市場正常的波動修正，無特殊單一事件驅動。"
+    },
+    {
+      "rank": 2,
+      "title": "Is General Motors Company Stock Outperforming the Nasdaq?",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 16:17",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討通用汽車過去一年表現優於納斯達克指數的現象，屬於回顧性分析，對未來股價走勢影響中性。"
+    },
+    {
+      "rank": 3,
+      "title": "9 Years Ago, Warren Buffett Predicted This Investment Would Pay Off: Here's How It's Doing",
+      "publisher": "Yahoo",
+      "date": "2026-03-04 03:50",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "回顧巴菲特對通用汽車的歷史投資績效，屬於市場花絮，對當前營運基本面無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

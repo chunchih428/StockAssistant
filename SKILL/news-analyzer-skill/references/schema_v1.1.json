@@ -1,0 +1,100 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "News Analysis Output v1.1",
+  "description": "Structured sentiment analysis of financial news for a single ticker",
+  "type": "object",
+  "required": [
+    "ticker", "company", "analysis_date", "source_file",
+    "summary", "bullish", "bearish", "neutral",
+    "_schema_version", "_schema_notes"
+  ],
+  "properties": {
+    "ticker": {
+      "type": "string",
+      "description": "Uppercase ticker symbol, e.g. AMZN"
+    },
+    "company": {
+      "type": "string",
+      "description": "Full company name, e.g. Amazon.com Inc."
+    },
+    "analysis_date": {
+      "type": "string",
+      "format": "date",
+      "description": "Date of analysis in YYYY-MM-DD"
+    },
+    "source_file": {
+      "type": "string",
+      "description": "Relative path to the input news JSON"
+    },
+    "summary": {
+      "type": "object",
+      "required": [
+        "total_articles", "bullish_count", "bearish_count",
+        "neutral_count", "overall_sentiment", "key_theme"
+      ],
+      "properties": {
+        "total_articles": { "type": "integer", "minimum": 0 },
+        "bullish_count": { "type": "integer", "minimum": 0 },
+        "bearish_count": { "type": "integer", "minimum": 0 },
+        "neutral_count": { "type": "integer", "minimum": 0 },
+        "overall_sentiment": {
+          "type": "string",
+          "enum": ["bullish", "bearish", "neutral", "mixed"]
+        },
+        "key_theme": {
+          "type": "string",
+          "description": "One-sentence summary in Traditional Chinese"
+        }
+      }
+    },
+    "bullish": { "$ref": "#/$defs/articleArray" },
+    "bearish": { "$ref": "#/$defs/articleArray" },
+    "neutral": { "$ref": "#/$defs/articleArray" },
+    "_schema_version": { "type": "string" },
+    "_schema_notes": {
+      "type": "object",
+      "properties": {
+        "impact_levels": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "sentiment_options": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "common_categories": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "articleArray": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "rank", "title", "publisher", "date",
+          "impact", "category", "reason"
+        ],
+        "properties": {
+          "rank": { "type": "integer", "minimum": 1 },
+          "title": { "type": "string" },
+          "publisher": { "type": "string" },
+          "date": { "type": "string" },
+          "impact": {
+            "type": "string",
+            "enum": ["high", "medium", "low"]
+          },
+          "category": { "type": "string" },
+          "reason": {
+            "type": "string",
+            "minLength": 20,
+            "description": "Detailed analysis in Traditional Chinese, 2-4 sentences"
+          }
+        }
+      }
+    }
+  }
+}

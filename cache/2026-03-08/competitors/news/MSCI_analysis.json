@@ -1,0 +1,84 @@
+{
+  "ticker": "MSCI",
+  "company": "MSCI",
+  "analysis_date": "2026-03-08",
+  "source_file": "cache/2026-03-08/competitors/news/MSCI.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 4,
+    "bearish_count": 1,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "MSCI 透過併購 Compass Financial 與 Vantager 積極擴張多資產類別與數據分析能力，市場對其 AI 相關擔憂逐漸消退。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "MSCI Expands Multi-Asset and Alternative Index Capabilities With Acquisition of Compass Financial Technologies",
+      "publisher": "Yahoo",
+      "date": "2026-03-03 21:06",
+      "impact": "high",
+      "category": "企業併購",
+      "reason": "MSCI 透過收購 Compass Financial Technologies 強化在替代性資產與多資產指數的計算能力，有助於擴大其在金融數據市場的護城河，選此篇作為代表是因為其官方公告涵蓋了完整的策略意圖。"
+    },
+    {
+      "rank": 2,
+      "title": "MSCI’s Vantager Deal Puts Data Growth Against Recent Share Weakness",
+      "publisher": "Yahoo",
+      "date": "2026-03-03 19:09",
+      "impact": "medium",
+      "category": "企業併購",
+      "reason": "收購 Vantager 旨在強化數據與分析能力，顯示公司在股價疲軟之際仍積極投入研發與擴張，展現長期成長潛力。"
+    },
+    {
+      "rank": 3,
+      "title": "Jim Cramer Says AI Fears Around MSCI “Were Dead Wrong”",
+      "publisher": "Yahoo",
+      "date": "2026-03-01 08:04",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "知名財經評論員 Jim Cramer 公開表示市場對 MSCI 在 AI 領域的擔憂是錯誤的，有助於改善投資人情緒並修正市場對該股的估值偏見。"
+    },
+    {
+      "rank": 4,
+      "title": "Here's How Much You Would Have Made Owning MSCI Stock In The Last 15 Years",
+      "publisher": "Benzinga",
+      "date": "2026-03-02 19:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "回顧過去 15 年的強勁績效，有助於強化長期投資人對 MSCI 商業模式與成長性的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "MSCI (MSCI) Down 5.8% Since Last Earnings Report: Can It Rebound?",
+      "publisher": "Zacks",
+      "date": "2026-02-27 16:30",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "自上次財報發布以來股價下跌 5.8%，反映市場對其短期獲利成長或估值調整的擔憂，對股價構成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "MSCI to Participate in the RBC Capital Markets Global Financial Institutions Conference",
+      "publisher": "Yahoo",
+      "date": "2026-03-03 00:34",
+      "impact": "low",
+      "category": "投資人關係",
+      "reason": "公司參與金融機構會議屬於常規投資人關係活動，旨在與機構投資人溝通，未直接涉及重大財務變動。"
+    },
+    {
+      "rank": 2,
+      "title": "MSCI Inc. (MSCI) Presents at 47th Annual Raymond James Institutional Investor Conference Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-03 18:42",
+      "impact": "low",
+      "category": "投資人關係",
+      "reason": "會議逐字稿內容為公司營運現況的說明，屬於例行性資訊揭露，對股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

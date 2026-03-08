@@ -1,0 +1,11 @@
+{
+  "model": "claude-sonnet-4-6",
+  "max_tokens": 4096,
+  "skip_tickers": [],
+  "only_tickers": [],
+  "cache_ttl": {
+    "technical_hours": 20,
+    "news_hours": 120,
+    "company_info_days": 30
+  }
+}

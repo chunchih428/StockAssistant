@@ -1,0 +1,84 @@
+{
+  "ticker": "CCJ",
+  "company": "Cameco",
+  "analysis_date": "2026-03-08",
+  "source_file": "cache/2026-03-08/holdings/news/CCJ.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 4,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "Cameco 成功簽署價值 26 億美元的長期鈾供應合約，顯著提升了公司未來的營收能見度與市場地位。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cameco Signs $2.6B Long-Term Uranium Supply Agreement With India To Deliver Nearly 22M Pounds Of U3O8 From 2027 Through 2035",
+      "publisher": "Benzinga",
+      "date": "2026-03-02 12:31",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "此合約金額高達 26 億美元，且鎖定 2027 至 2035 年的長期交付，為公司帶來極高的現金流穩定性與營收能見度。"
+    },
+    {
+      "rank": 2,
+      "title": "Cameco: Profit And Committed Sales Expansion In An Appealing Industry",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-05 17:52",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "分析指出公司在核能產業復甦背景下，透過擴大承諾銷售量，展現了強勁的獲利成長潛力。"
+    },
+    {
+      "rank": 3,
+      "title": "Cameco India Uranium Pact Deepens Nuclear Ties And Revenue Visibility",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-06 22:12",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "此篇報導深入分析了與印度簽署合約對公司長期營收能見度的正面影響，並強化了其在國際核能供應鏈的戰略地位。"
+    },
+    {
+      "rank": 4,
+      "title": "This Is What Whales Are Betting On Cameco",
+      "publisher": "Benzinga",
+      "date": "2026-03-06 23:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "觀察到機構投資人（Whales）對 Cameco 的資金佈局，顯示市場對該股後市表現仍具信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cameco Stock Still Looks Frothy - Reiterate Sell",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-04 05:57",
+      "impact": "medium",
+      "category": "投資評級",
+      "reason": "分析師認為目前股價估值過高（Frothy），建議賣出，提醒投資人需注意短期漲幅過大後的修正風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Cameco is more than a uranium miner",
+      "publisher": "Financial Post",
+      "date": "2026-03-05 18:47",
+      "impact": "low",
+      "category": "公司策略",
+      "reason": "文章探討 Cameco 的多元化業務與核能產業角色，屬於產業分析性質，未直接對股價產生立即性的多空影響。"
+    },
+    {
+      "rank": 2,
+      "title": "India Secures Long-Term Uranium Supply — India signs $1.9B Cameco uranium deal, seals major Kazatomprom pact to fuel nuclear push toward 100 GW by 2047.",
+      "publisher": "Benzinga",
+      "date": "2026-03-03 16:10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此新聞與上述 26 億美元合約內容重疊，僅側重於印度核能政策，故選取 26 億美元合約新聞作為主要利多代表。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

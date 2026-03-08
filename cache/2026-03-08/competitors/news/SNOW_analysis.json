@@ -1,0 +1,57 @@
+{
+  "ticker": "SNOW",
+  "company": "Snowflake",
+  "analysis_date": "2026-03-08",
+  "source_file": "cache/2026-03-08/competitors/news/SNOW.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "Mixed",
+    "key_theme": "Snowflake 在財報表現優於預期與 AI 成長潛力下，仍面臨法律訴訟風險與年初以來股價回調的壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Snowflake earnings beat as Goldman Sachs sees AI upside",
+      "publisher": "TheStreet",
+      "date": "2026-03-05T05:37:00Z",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "Snowflake 最新財報表現優於市場預期，且高盛分析師看好其在 AI 領域的成長潛力，為股價提供強勁的基本面支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Snowflake Lawsuits Confront AI Growth Deals And Expanding Data Platform",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-06T04:33:57Z",
+      "impact": "medium",
+      "category": "法律訴訟",
+      "reason": "公司面臨與 AI 成長交易及數據平台擴張相關的法律訴訟，可能引發市場對公司治理與合規性的擔憂，增加營運不確定性。"
+    },
+    {
+      "rank": 2,
+      "title": "Down 23% in the YTD, Should You Buy the Dip in Snowflake Stock?",
+      "publisher": "Barchart",
+      "date": "2026-03-04T19:10:13Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "年初至今股價下跌 23 %，反映出市場對其估值與成長動能的修正，投資人對於是否進場抄底持謹慎態度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Snowflake Inc. (SNOW) Presents at Morgan Stanley Technology, Media & Telecom Conference 2026 Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-04 05:22",
+      "impact": "low",
+      "category": "法說會",
+      "reason": "管理層在摩根士丹利科技會議上分享公司願景，屬於例行性溝通，未釋出顯著影響股價的重大突發訊息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
