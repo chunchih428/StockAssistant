@@ -1,0 +1,85 @@
+name: Scheduled Run
+
+on:
+  schedule:
+    # Every day at 01:00 UTC (09:00 Asia/Taipei)
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scheduled-run
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        shell: bash
+        run: |
+          if [ -f requirements.txt ]; then
+            python -m pip install --upgrade pip
+            pip install -r requirements.txt
+          else
+            echo "No requirements.txt found, skipping dependency install."
+          fi
+
+      - name: Validate required secrets
+        shell: bash
+        run: |
+          missing=()
+          if [ -z "${FINNHUB_API_KEY}" ]; then
+            missing+=("FINNHUB_API_KEY")
+          fi
+          if [ -z "${ANTHROPIC_API_KEY}" ] && [ -z "${GEMINI_API_KEY}" ]; then
+            missing+=("ANTHROPIC_API_KEY or GEMINI_API_KEY")
+          fi
+          if [ "${#missing[@]}" -gt 0 ]; then
+            echo "::error::Missing required GitHub secrets: ${missing[*]}"
+            echo "::error::Go to Settings > Secrets and variables > Actions to add them."
+            exit 1
+          fi
+
+      - name: Run scheduled task
+        shell: bash
+        run: |
+          if [ -f pre_run.py ]; then
+            python pre_run.py
+          elif [ -f scripts/update_analysis.py ]; then
+            python scripts/update_analysis.py
+          elif [ -f stock_assistant.py ]; then
+            python stock_assistant.py
+          else
+            echo "No known entry script found."
+            echo "Expected one of: pre_run.py, scripts/update_analysis.py, stock_assistant.py"
+            exit 1
+          fi
+
+      - name: Commit and push changes
+        shell: bash
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add -A
+            git commit -m "chore: automated scheduled update"
+            git push
+          else
+            echo "No changes to commit."
+          fi
