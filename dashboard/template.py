@@ -386,13 +386,13 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
           </div>
         </div>
         <div style="overflow-y:auto;padding:.25rem;flex:1">
-          <button v-for="(s,i) in filtered" :key="s.symbol" @click="pick(s)" style="width:100%;display:flex;align-items:center;justify-content:space-between;padding:.55rem .75rem;border-radius:.5rem;border:none;cursor:pointer;font-size:.85rem;text-align:left;transition:background .1s" :style="idx===oidx(s)?'background:#eff6ff;color:#1d4ed8':'background:transparent;color:#334155'">
-            <div style="display:flex;align-items:center;gap:.5rem">
+          <button v-for="(s,i) in filtered" :key="s.symbol" @click="pick(s)" style="width:100%;display:flex;align-items:center;justify-content:space-between;gap:.5rem;padding:.55rem .75rem;border-radius:.5rem;border:none;cursor:pointer;font-size:.85rem;text-align:left;transition:background .1s" :style="idx===oidx(s)?'background:#eff6ff;color:#1d4ed8':'background:transparent;color:#334155'">
+            <div style="display:flex;align-items:center;gap:.5rem;min-width:0;flex:1">
               <span style="font-weight:700">{{s.symbol}}</span>
-              <span style="font-size:.8rem;opacity:.7">{{s.company}}</span>
-              <span style="font-size:.66rem;font-weight:700;padding:.08rem .38rem;border-radius:.42rem" :style="newsSentStyle(s)">{{newsSentLabel(s)}}</span>
+              <span style="font-size:.8rem;opacity:.7;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">{{s.company}}</span>
+              <span style="font-size:.66rem;font-weight:700;padding:.08rem .38rem;border-radius:.42rem;white-space:nowrap;flex:0 0 auto" :style="newsSentStyle(s)">{{newsSentLabel(s)}}</span>
             </div>
-            <div style="display:flex;align-items:center;gap:.5rem">
+            <div style="display:flex;align-items:center;gap:.5rem;flex:0 0 auto;white-space:nowrap;padding-left:.35rem">
               <span :class="s.pnl_pct>=0?'text-up':'text-down'" style="font-size:.78rem;font-weight:600">{{s.pnl_pct>=0?'+':''}}{{s.pnl_pct.toFixed(1)}}%</span>
               <span style="font-weight:600">{{s.price?'$'+s.price.toFixed(2):'N/A'}}</span>
             </div>
@@ -531,10 +531,10 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
                 </tr>
               </thead>
               <tbody>
-                <tr v-for="comp in competitorData" :key="comp.symbol" :style="comp.isCurrent?'background:#f0f9ff;font-weight:600':''" style="border-bottom:1px solid #f1f5f9">
+                <tr v-for="comp in competitorData" :key="comp.symbol" @click="!comp.isCurrent&&goDetail(comp.symbol)" :style="(comp.isCurrent?'background:#f0f9ff;font-weight:600;':'')+(!comp.isCurrent?'cursor:pointer;':'')" style="border-bottom:1px solid #f1f5f9">
                   <td style="padding:.5rem .5rem">
                     <div style="display:flex;align-items:center;gap:.4rem">
-                      <span :style="comp.isCurrent?'color:#0284c7':'color:#334155'">{{comp.symbol}}</span>
+                      <button @click.stop="goDetail(comp.symbol)" :disabled="comp.isCurrent" :style="comp.isCurrent?'color:#0284c7;background:none;border:none;padding:0;font:inherit':'color:#2563eb;background:none;border:none;padding:0;font:inherit;cursor:pointer;text-decoration:underline'" style="line-height:1">{{comp.symbol}}</button>
                       <span v-if="comp.isCurrent" style="font-size:.65rem;background:#0284c7;color:#fff;padding:.1rem .3rem;border-radius:.25rem">當前</span>
                     </div>
                   </td>
