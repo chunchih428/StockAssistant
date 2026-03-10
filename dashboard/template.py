@@ -534,7 +534,7 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
                 <tr v-for="comp in competitorData" :key="comp.symbol" @click="!comp.isCurrent&&goDetail(comp.symbol)" :style="(comp.isCurrent?'background:#f0f9ff;font-weight:600;':'')+(!comp.isCurrent?'cursor:pointer;':'')" style="border-bottom:1px solid #f1f5f9">
                   <td style="padding:.5rem .5rem">
                     <div style="display:flex;align-items:center;gap:.4rem">
-                      <button @click.stop="goDetail(comp.symbol)" :disabled="comp.isCurrent" :style="comp.isCurrent?'color:#0284c7;background:none;border:none;padding:0;font:inherit':'color:#2563eb;background:none;border:none;padding:0;font:inherit;cursor:pointer;text-decoration:underline'" style="line-height:1">{{comp.symbol}}</button>
+                      <button @click.stop="goDetail(comp.symbol)" :disabled="comp.isCurrent" :style="comp.isCurrent?'color:#0284c7;background:none;border:none;padding:0;font:inherit':'color:#334155;background:none;border:none;padding:0;font:inherit;cursor:pointer;text-decoration:none'" style="line-height:1">{{comp.symbol}}</button>
                       <span v-if="comp.isCurrent" style="font-size:.65rem;background:#0284c7;color:#fff;padding:.1rem .3rem;border-radius:.25rem">當前</span>
                     </div>
                   </td>
