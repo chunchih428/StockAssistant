@@ -76,6 +76,17 @@ COMPETITORS_FILE = BASE_DIR / "config" / "competitors.json"
 CANDIDATES_FILE = BASE_DIR / "config" / "candidates.txt"
 
 
+def configure_yfinance_cache():
+    """Force yfinance sqlite cache into a writable project-local directory."""
+    yf_cache_dir = CACHE_DIR / "_yfinance"
+    yf_cache_dir.mkdir(parents=True, exist_ok=True)
+    try:
+        from yfinance import cache as yf_cache
+        yf_cache.set_cache_location(str(yf_cache_dir))
+    except Exception as e:
+        print(f"  [WARN] yfinance cache path 設定失敗: {e}")
+
+
 def configure_default_mode():
     """重置為預設正式環境路徑。"""
     global PORTFOLIO_FILE, CONFIG_FILE, COMPANY_NAMES_FILE
@@ -395,6 +406,8 @@ def main():
     if '--test' in sys.argv:
         configure_test_mode()
         print("  [測試模式] 使用 tests/test_e2e/holdings.csv，快取寫入 tests/test_e2e/test_cache/")
+
+    configure_yfinance_cache()
 
     # Handle --open flag
     if '--open' in sys.argv:
