@@ -24,6 +24,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -59,17 +61,7 @@ jobs:
       - name: Run scheduled task
         shell: bash
         run: |
-          if [ -f pre_run.py ]; then
-            python pre_run.py
-          elif [ -f scripts/update_analysis.py ]; then
-            python scripts/update_analysis.py
-          elif [ -f stock_assistant.py ]; then
-            python stock_assistant.py
-          else
-            echo "No known entry script found."
-            echo "Expected one of: pre_run.py, scripts/update_analysis.py, stock_assistant.py"
-            exit 1
-          fi
+          python stock_assistant.py
 
       - name: Commit and push changes
         shell: bash
