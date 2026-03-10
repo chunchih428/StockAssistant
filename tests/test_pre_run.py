@@ -645,7 +645,7 @@ class TestStockPrerunCoverageExtra(unittest.TestCase):
     @patch("pre_run.requests.get")
     @patch("pre_run.os.environ.get", return_value="k")
     @patch("pre_run.time.sleep")
-    def test_auto_populate_fetches_candidate_roots_only(self, _sleep, _env, mock_get):
+    def test_auto_populate_fetches_candidate_roots_and_keeps_direct_candidate_peers(self, _sleep, _env, mock_get):
         with tempfile.TemporaryDirectory() as td:
             base = Path(td)
             cfg_dir = base / "config"
@@ -669,8 +669,33 @@ class TestStockPrerunCoverageExtra(unittest.TestCase):
             pre = StockPrerun(str(base / "p.csv"), str(cfg_dir / "config.json"), str(base / "s.txt"), str(cfg_dir / "c.json"))
             pre.auto_populate_competitors({"AAPL"})
             data = json.loads((cfg_dir / "competitors.json").read_text(encoding="utf-8"))
-            self.assertIn("TSLA", data.get("competitors", {}))
-            self.assertNotIn("MSFT", data.get("competitors", {}))
+            self.assertIn("TSLA", data.get("candidates", {}))
+            self.assertIn("MSFT", data.get("competitors", {}))
+
+    @patch("pre_run.os.environ.get", return_value=None)
+    @patch("pre_run.time.sleep")
+    def test_auto_populate_candidates_key_cleanup_by_candidates_txt(self, _sleep, _env):
+        with tempfile.TemporaryDirectory() as td:
+            base = Path(td)
+            cfg_dir = base / "config"
+            cfg_dir.mkdir(parents=True, exist_ok=True)
+            comp = cfg_dir / "competitors.json"
+            comp.write_text(
+                json.dumps(
+                    {
+                        "holdings": {"AAPL": ["MSFT"]},
+                        "competitors": {"MSFT": []},
+                        "candidates": {"OLD": ["AMD"]},
+                    }
+                ),
+                encoding="utf-8",
+            )
+            (cfg_dir / "candidates.txt").write_text("NVDA\n", encoding="utf-8")
+            pre = StockPrerun(str(base / "p.csv"), str(cfg_dir / "config.json"), str(base / "s.txt"), str(cfg_dir / "c.json"))
+            pre.auto_populate_competitors({"AAPL"})
+            data = json.loads(comp.read_text(encoding="utf-8"))
+            self.assertIn("NVDA", data["candidates"])
+            self.assertNotIn("OLD", data["candidates"])
 
     def test_process_cache_no_mgr(self):
         pre = self._new_pre()

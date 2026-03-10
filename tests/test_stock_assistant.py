@@ -858,6 +858,25 @@ class TestMain(unittest.TestCase):
             self.assertIn('NVDA', syms)
             self.assertNotIn('AAPL', syms)
 
+    def test_fetch_competitor_data_includes_candidate_peers(self):
+        cache_mgr = MagicMock()
+        with patch.object(stock_assistant, 'CANDIDATES_FILE', MagicMock(spec=Path)) as mock_candidates, \
+             patch.object(stock_assistant, 'COMPETITORS_FILE', MagicMock(spec=Path)) as mock_comp, \
+             patch('stock_assistant.fetch_holdings_data', return_value=[] ) as mock_fetch:
+            mock_comp.exists.return_value = True
+            mock_comp.read_text.return_value = json.dumps(
+                {'holdings': {'AAPL': ['MSFT']}, 'competitors': {}, 'candidates': {'NVDA': ['AMD']}}
+            )
+            mock_candidates.exists.return_value = True
+            mock_candidates.read_text.return_value = "NVDA\n"
+
+            stock_assistant.fetch_competitor_data([{'symbol': 'AAPL'}], cache_mgr, {}, {})
+            competitor_stocks = mock_fetch.call_args[0][0]
+            syms = {s['symbol'] for s in competitor_stocks}
+            self.assertIn('NVDA', syms)
+            self.assertIn('AMD', syms)
+            self.assertIn('MSFT', syms)
+
     def test_fetch_competitor_data_candidates_read_error(self):
         cache_mgr = MagicMock()
         with patch.object(stock_assistant, 'CANDIDATES_FILE', MagicMock(spec=Path)) as mock_candidates, \

@@ -556,14 +556,6 @@
       "NTAP",
       "HPQ"
     ],
-    "AVGO": [
-      "NVDA",
-      "MU",
-      "AMD",
-      "INTC",
-      "TXN",
-      "ADI"
-    ],
     "MU": [
       "NVDA",
       "AVGO",
@@ -684,14 +676,6 @@
       "ACM",
       "STRL"
     ],
-    "ACM": [
-      "PWR",
-      "FIX",
-      "EME",
-      "MTZ",
-      "APG",
-      "STRL"
-    ],
     "STRL": [
       "FIX",
       "EME",
@@ -747,6 +731,120 @@
       "LCID",
       "SEV",
       "FFAI"
-    ]
+    ],
+    "OKTA": [
+      "CRWV",
+      "MDB",
+      "VRSN",
+      "TWLO",
+      "AKAM",
+      "GDDY"
+    ],
+    "GDDY": [],
+    "APLD": [
+      "TWLO",
+      "AKAM",
+      "OKTA",
+      "GDDY",
+      "DOCN",
+      "FSLY"
+    ],
+    "FSLY": [
+      "GDDY",
+      "APLD",
+      "DOCN",
+      "WYFI",
+      "RXT",
+      "CMRC"
+    ],
+    "WYFI": [],
+    "RXT": [],
+    "GD": [],
+    "TDG": [],
+    "LHX": [],
+    "AXON": [],
+    "RKLB": [],
+    "FTAI": [],
+    "DIOD": [],
+    "POWI": [],
+    "AMBA": [],
+    "NVTS": [],
+    "MXL": [],
+    "PENG": [],
+    "APA": [],
+    "RRC": [],
+    "MTDR": [],
+    "CHRD": [],
+    "CRK": [],
+    "CNX": [],
+    "EMR": [],
+    "AME": [],
+    "ROK": [],
+    "HUBB": [],
+    "NXT": [],
+    "RRX": [],
+    "DY": []
+  },
+  "candidates": {
+    "ACM": [
+      "FIX",
+      "EME",
+      "MTZ",
+      "APG",
+      "STRL",
+      "DY"
+    ],
+    "AVGO": [
+      "NVDA",
+      "MU",
+      "AMD",
+      "INTC",
+      "TXN",
+      "ADI"
+    ],
+    "DOCN": [
+      "OKTA",
+      "GDDY",
+      "APLD",
+      "FSLY",
+      "WYFI",
+      "RXT"
+    ],
+    "HEI": [
+      "GD",
+      "TDG",
+      "LHX",
+      "AXON",
+      "RKLB",
+      "FTAI"
+    ],
+    "SKYT": [
+      "DIOD",
+      "POWI",
+      "AMBA",
+      "NVTS",
+      "MXL",
+      "PENG"
+    ],
+    "SM": [
+      "APA",
+      "RRC",
+      "MTDR",
+      "CHRD",
+      "CRK",
+      "CNX"
+    ],
+    "VRT": [
+      "EMR",
+      "AME",
+      "ROK",
+      "HUBB",
+      "NXT",
+      "RRX"
+    ],
+    "COPX": [],
+    "SPOT": [],
+    "AAPL": [],
+    "TW": []
   }
 }

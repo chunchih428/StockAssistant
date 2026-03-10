@@ -74,21 +74,27 @@ class StockPrerun:
     def _skip_path(self):
         return self.CONFIG_FILE.parent / "competitor_skip.json"
 
-    def _candidates_path(self):
-        return self.CONFIG_FILE.parent / "candidates.txt"
+    def _candidate_paths(self):
+        paths = []
+        primary = self.CONFIG_FILE.parent / "candidates.txt"
+        paths.append(primary)
+        fallback = self.CONFIG_FILE.parent.parent / "candidates.txt"
+        if fallback != primary:
+            paths.append(fallback)
+        return paths
 
     def _load_candidates(self):
-        p = self._candidates_path()
-        if not p.exists():
-            return set()
         out = set()
-        try:
-            for raw in p.read_text(encoding="utf-8").splitlines():
-                line = raw.split("#", 1)[0].strip().upper()
-                if self._is_us_peer_symbol(line):
-                    out.add(line)
-        except Exception:
-            return set()
+        for p in self._candidate_paths():
+            if not p.exists():
+                continue
+            try:
+                for raw in p.read_text(encoding="utf-8").splitlines():
+                    line = raw.split("#", 1)[0].strip().upper()
+                    if self._is_us_peer_symbol(line):
+                        out.add(line)
+            except Exception:
+                continue
         return out
 
     def _load_skip_registry(self):
@@ -268,12 +274,14 @@ class StockPrerun:
             print(f"  [WARN] 競品設定讀取失敗: {comp_path}")
             return
 
-        if "holdings" in raw or "competitors" in raw:
+        if "holdings" in raw or "competitors" in raw or "candidates" in raw:
             holdings_map = dict(raw.get("holdings", {}))
             competitors_map = dict(raw.get("competitors", {}))
+            candidates_map = dict(raw.get("candidates", {}))
         else:
             holdings_map = dict(raw)
             competitors_map = {}
+            candidates_map = {}
             changed = True
 
         portfolio_set = {
@@ -300,18 +308,30 @@ class StockPrerun:
             normalized_competitors[sym_u] = self._normalize_peer_list(peers, sym_u)
         competitors_map = normalized_competitors
 
+        normalized_candidates = {}
+        for sym, peers in candidates_map.items():
+            sym_u = str(sym).strip().upper()
+            if not self._is_us_peer_symbol(sym_u):
+                continue
+            normalized_candidates[sym_u] = self._normalize_peer_list(peers, sym_u)
+        candidates_map = normalized_candidates
+
         def _map_for(symbol):
-            return holdings_map if symbol in portfolio_set else competitors_map
+            if symbol in portfolio_set:
+                return holdings_map
+            if symbol in candidate_set:
+                return candidates_map
+            return competitors_map
 
         api_key = os.environ.get("FINNHUB_API_KEY")
         pending = list(sorted(fetch_root_set))
         seen = set(pending)
 
-        for sym in list(holdings_map.keys()) + list(competitors_map.keys()):
+        for sym in list(holdings_map.keys()) + list(candidates_map.keys()) + list(competitors_map.keys()):
             if sym not in seen:
                 pending.append(sym)
                 seen.add(sym)
-        for peers in list(holdings_map.values()) + list(competitors_map.values()):
+        for peers in list(holdings_map.values()) + list(candidates_map.values()) + list(competitors_map.values()):
             for p in peers:
                 if p not in seen:
                     pending.append(p)
@@ -374,26 +394,41 @@ class StockPrerun:
                 holdings_map.pop(sym, None)
                 changed = True
 
+        for sym in list(candidates_map.keys()):
+            if sym not in candidate_set:
+                candidates_map.pop(sym, None)
+                changed = True
+        for sym in list(candidate_set):
+            if sym not in candidates_map:
+                candidates_map[sym] = []
+                changed = True
+
         for sym in list(competitors_map.keys()):
-            if sym in portfolio_set:
+            if sym in portfolio_set or sym in candidate_set:
                 competitors_map.pop(sym, None)
                 changed = True
 
         direct_holdings_peers = set()
         for hs in portfolio_set:
             direct_holdings_peers.update(holdings_map.get(hs, []))
-        allowed_competitors = (direct_holdings_peers - portfolio_set) | candidate_set
+        direct_candidate_peers = set()
+        for cs in candidate_set:
+            direct_candidate_peers.update(candidates_map.get(cs, []))
+        allowed_competitors = (
+            (direct_holdings_peers - portfolio_set)
+            | (direct_candidate_peers - portfolio_set - candidate_set)
+        )
         for sym in list(competitors_map.keys()):
             if sym not in allowed_competitors:
                 competitors_map.pop(sym, None)
                 changed = True
 
-        for m in (holdings_map, competitors_map):
+        for m in (holdings_map, candidates_map, competitors_map):
             for k, v in list(m.items()):
                 if v is None:
                     m[k] = []  # pragma: no cover
 
-        payload = {"holdings": holdings_map, "competitors": competitors_map}
+        payload = {"holdings": holdings_map, "competitors": competitors_map, "candidates": candidates_map}
         if changed:
             comp_path.parent.mkdir(parents=True, exist_ok=True)
             comp_path.write_text(
@@ -411,15 +446,26 @@ class StockPrerun:
         except Exception:
             return
 
-        if "holdings" in raw or "competitors" in raw:
+        if "holdings" in raw or "competitors" in raw or "candidates" in raw:
             holdings_map = raw.get("holdings", {})
+            competitors_map = raw.get("competitors", {})
+            candidates_map = raw.get("candidates", {})
         else:
             holdings_map = raw
+            competitors_map = {}
+            candidates_map = {}
 
-        targets = set(portfolio_symbols) if portfolio_symbols is not None else set(holdings_map.keys())
+        if portfolio_symbols is not None:
+            targets = set(portfolio_symbols) | self._load_candidates()
+        else:
+            targets = set(holdings_map.keys()) | self._load_candidates()
+        merged_map = {}
+        merged_map.update(holdings_map)
+        merged_map.update(candidates_map)
+        merged_map.update(competitors_map)
         missing = []
         for sym in targets:
-            for comp in holdings_map.get(sym, []):
+            for comp in merged_map.get(sym, []):
                 if comp and comp not in company_names:
                     missing.append(comp)
 

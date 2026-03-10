@@ -26,15 +26,29 @@ def generate_html(results, allocation, options, generated_at):
 def _build_interactive_dashboard(results, allocation, options, generated_at):
     """建構互動式儀表板 HTML。"""
     competitors_map = {}
+    candidate_symbols = []
     comp_path = Path(__file__).resolve().parent.parent / 'config' / 'competitors.json'
+    candidates_path = Path(__file__).resolve().parent.parent / 'candidates.txt'
     if comp_path.exists():
         try:
             _comp_raw = json.loads(comp_path.read_text(encoding='utf-8'))
-            if 'holdings' in _comp_raw or 'competitors' in _comp_raw:
+            if 'holdings' in _comp_raw or 'competitors' in _comp_raw or 'candidates' in _comp_raw:
                 competitors_map.update(_comp_raw.get('holdings', {}))
+                competitors_map.update(_comp_raw.get('candidates', {}))
                 competitors_map.update(_comp_raw.get('competitors', {}))
             else:
                 competitors_map = _comp_raw
+        except Exception:
+            pass
+    if candidates_path.exists():
+        try:
+            raw_lines = candidates_path.read_text(encoding='utf-8').splitlines()
+            for line in raw_lines:
+                sym = line.strip().upper()
+                if not sym or sym.startswith('#'):
+                    continue
+                if sym not in candidate_symbols:
+                    candidate_symbols.append(sym)
         except Exception:
             pass
 
@@ -153,7 +167,13 @@ def _build_interactive_dashboard(results, allocation, options, generated_at):
     }
 
     embedded_json = json.dumps(
-        {'stocks': stocks_data, 'allocation': alloc_data, 'options': options_data, 'generated_at': generated_at},
+        {
+            'stocks': stocks_data,
+            'allocation': alloc_data,
+            'options': options_data,
+            'generated_at': generated_at,
+            'candidates': candidate_symbols,
+        },
         ensure_ascii=False,
         default=str,
     )

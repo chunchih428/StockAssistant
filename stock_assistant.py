@@ -73,7 +73,7 @@ SYSTEM_PROMPT_FILE = BASE_DIR / "system_prompt.txt"
 CACHE_DIR = BASE_DIR / "cache"
 COMPANY_NAMES_FILE = BASE_DIR / "config" / "company_names.json"
 COMPETITORS_FILE = BASE_DIR / "config" / "competitors.json"
-CANDIDATES_FILE = BASE_DIR / "config" / "candidates.txt"
+CANDIDATES_FILE = BASE_DIR / "candidates.txt"
 
 
 def configure_yfinance_cache():
@@ -105,7 +105,7 @@ def configure_default_mode():
     if _can_reset(COMPETITORS_FILE):
         COMPETITORS_FILE = BASE_DIR / "config" / "competitors.json"
     if _can_reset(CANDIDATES_FILE):
-        CANDIDATES_FILE = BASE_DIR / "config" / "candidates.txt"
+        CANDIDATES_FILE = BASE_DIR / "candidates.txt"
     if _can_reset(CACHE_DIR):
         CACHE_DIR = BASE_DIR / "cache"
     if _can_reset(RESULTS_FILE):
@@ -328,9 +328,10 @@ def fetch_competitor_data(stocks, cache_mgr, company_names, config=None):
 
     try:
         _comp_raw = json.loads(comp_path.read_text(encoding='utf-8'))
-        if 'holdings' in _comp_raw or 'competitors' in _comp_raw:
+        if 'holdings' in _comp_raw or 'competitors' in _comp_raw or 'candidates' in _comp_raw:
             competitors_map = {}
             competitors_map.update(_comp_raw.get('holdings', {}))
+            competitors_map.update(_comp_raw.get('candidates', {}))
             competitors_map.update(_comp_raw.get('competitors', {}))
         else:
             competitors_map = _comp_raw
@@ -343,21 +344,28 @@ def fetch_competitor_data(stocks, cache_mgr, company_names, config=None):
     is_us_ticker = lambda sym: isinstance(sym, str) and re.fullmatch(r"[A-Z]{1,5}", sym) and "." not in sym
 
     candidate_symbols = set()
-    if CANDIDATES_FILE.exists():
+    candidate_paths = [CANDIDATES_FILE]
+    legacy_candidates_path = BASE_DIR / "config" / "candidates.txt"
+    if legacy_candidates_path not in candidate_paths:
+        candidate_paths.append(legacy_candidates_path)
+    for cp in candidate_paths:
+        if not cp.exists():
+            continue
         try:
-            for raw in CANDIDATES_FILE.read_text(encoding='utf-8').splitlines():
+            for raw in cp.read_text(encoding='utf-8').splitlines():
                 line = raw.split('#', 1)[0].strip().upper()
                 if line and is_us_ticker(line) and line not in portfolio_symbols:
                     candidate_symbols.add(line)
         except Exception:
-            print(f"  [WARN] candidates 讀取失敗，略過: {CANDIDATES_FILE}")
+            print(f"  [WARN] candidates 讀取失敗，略過: {cp}")
 
-    # 收集所有競品 symbols（只保留持股直接競品 + candidates）
+    # 收集所有競品 symbols（持股/候選的直接競品 + candidates）
     competitor_symbols = set()
+    root_symbols = portfolio_symbols | candidate_symbols
     for symbol, comps in competitors_map.items():
-        if symbol in portfolio_symbols:
+        if symbol in root_symbols:
             for comp in comps:
-                if comp and comp not in portfolio_symbols:
+                if comp and is_us_ticker(comp) and comp not in portfolio_symbols:
                     competitor_symbols.add(comp)
     competitor_symbols.update(candidate_symbols)
 

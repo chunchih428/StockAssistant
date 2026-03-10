@@ -1,0 +1,74 @@
+{
+  "ticker": "ADI",
+  "company": "Analog Devices",
+  "analysis_date": "2026-03-08",
+  "source_file": "cache/2026-03-08/competitors/news/ADI.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 5,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司管理層對工業與資料中心市場復甦持樂觀態度，配合強勁的財務基本面與技術面突破訊號，獲得華爾街分析師正面評價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Analog Devices CFO Sees Industrial, Data Center Strength as Cycle Turns at Morgan Stanley Conference",
+      "publisher": "Yahoo",
+      "date": "2026-03-04 03:47",
+      "impact": "high",
+      "category": "營運展望",
+      "reason": "CFO Richard Puccio 明確指出工業與資料中心業務正處於週期轉折點，展現公司特定成長動能，為市場注入強心針。"
+    },
+    {
+      "rank": 2,
+      "title": "Analog Devices Inc. (NASDAQ:ADI) Combines Accelerating Growth with Bullish Technical Setup",
+      "publisher": "ChartMill",
+      "date": "2026-03-05 18:02",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "該報導綜合了獲利成長加速與強勁的技術面上升趨勢，選此篇作為代表，因其涵蓋了基本面與技術面的雙重利多分析。"
+    },
+    {
+      "rank": 3,
+      "title": "Wall Street Analysts Think Analog Devices (ADI) Is a Good Investment: Is It?",
+      "publisher": "Yahoo",
+      "date": "2026-03-04 22:30",
+      "impact": "medium",
+      "category": "市場評級",
+      "reason": "華爾街平均經紀商建議 (ABR) 維持在「買入」評級，顯示機構投資人對 ADI 的長期投資價值仍具信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Assessing Analog Devices (ADI) Valuation After Earnings Beat Dividend Hike And Ongoing Buybacks",
+      "publisher": "Simply Wall St.",
+      "date": "2026-02-28 02:16",
+      "impact": "medium",
+      "category": "財務政策",
+      "reason": "公司透過財報優於預期、調升股利以及持續進行的庫藏股計畫，展現對股東回報的承諾與穩健的現金流。"
+    },
+    {
+      "rank": 5,
+      "title": "Analog Devices Inc (NASDAQ:ADI) Combines Strong Fundamentals with Technical Breakout Potential",
+      "publisher": "ChartMill",
+      "date": "2026-03-02 17:42",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "強調銷售成長與技術面突破潛力，與後續的技術分析報導觀點一致，確認了市場對該股的正面技術預期。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Analog Devices, Inc. (ADI) Presents at Morgan Stanley Technology, Media & Telecom Conference 2026 Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-04 01:12",
+      "impact": "low",
+      "category": "會議紀錄",
+      "reason": "此為會議逐字稿，屬於資訊揭露性質，內容已由其他新聞報導摘要並分析，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

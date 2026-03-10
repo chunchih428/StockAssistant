@@ -1,0 +1,75 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-03-08",
+  "source_file": "cache/2026-03-08/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "Neutral",
+    "key_theme": "市場對 QQQ 的估值與成長潛力存在分歧，同時面臨地緣政治風險與槓桿型 ETF 的結構性隱憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "QQQ: It Is Actually Cheaper Than VOO -- And I Can Prove It",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-07 12:51",
+      "impact": "medium",
+      "category": "投資分析",
+      "reason": "文章指出 QQQ 在成長調整後的估值比 VOO 更具吸引力，且能提供完整的 AI 產業曝險，具備長期成長潛力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Surviving 'Epic Fury' And The Asian Stock Market Crash",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-05 00:00",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "地緣政治衝突導致油價飆升並引發市場拋售，分析師警告 QQQ 的韌性可能減弱，建議轉向現金部位。"
+    },
+    {
+      "rank": 2,
+      "title": "TQQQ Holders Face a Risk That Has Nothing to Do With the Nasdaq Falling",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-03-07T16:07:48Z",
+      "impact": "medium",
+      "category": "風險警示",
+      "reason": "雖然討論的是 TQQQ，但其結構性風險（如波動率衰減）會影響投資人對納斯達克 100 指數相關產品的信心。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Looking at Invesco QQQ? This ETF Is Probably a Better Bet",
+      "publisher": "Motley Fool",
+      "date": "2026-03-07T17:22:00Z",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "僅為投資組合建議，將 QQQ 與其他 ETF 進行比較，未對 QQQ 本身提供明確的買賣訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "The Zacks Analyst Blog Highlights SPY, DIA, QQQ, WCLD, XTL, RSPC, IHF and XOP",
+      "publisher": "Zacks",
+      "date": "2026-03-06T10:10:00Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為分析師部落格的綜合性市場回顧，提及 QQQ 作為市場觀察標的之一，無實質影響力。"
+    },
+    {
+      "rank": 3,
+      "title": "Small Caps Lead a Quiet Rebound While Breadth Stays Range-Bound",
+      "publisher": "ChartMill",
+      "date": "2026-03-03 21:28",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "描述 QQQ 處於盤整狀態，反映市場缺乏明確方向，屬於客觀的技術面描述。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

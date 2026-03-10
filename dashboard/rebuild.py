@@ -137,9 +137,10 @@ def rebuild_dashboard(
     if competitors_file.exists():
         try:
             _comp_raw = json.loads(competitors_file.read_text(encoding='utf-8'))
-            if 'holdings' in _comp_raw or 'competitors' in _comp_raw:
+            if 'holdings' in _comp_raw or 'competitors' in _comp_raw or 'candidates' in _comp_raw:
                 competitors_map = {}
                 competitors_map.update(_comp_raw.get('holdings', {}))
+                competitors_map.update(_comp_raw.get('candidates', {}))
                 competitors_map.update(_comp_raw.get('competitors', {}))
             else:
                 competitors_map = _comp_raw

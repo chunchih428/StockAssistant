@@ -120,6 +120,9 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
           <button class="view-btn" :class="{active:view==='competitors'}" @click="switchView('competitors')">
             <span style="display:flex;align-items:center;gap:.35rem"><svg width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>競品</span>
           </button>
+          <button class="view-btn" :class="{active:view==='candidates'}" @click="switchView('candidates')">
+            <span style="display:flex;align-items:center;gap:.35rem"><svg width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.86L12 17.77 5.82 21l1.18-6.86-5-4.87 6.91-1.01z"/></svg>候選</span>
+          </button>
         </div>
         <div style="text-align:right">
           <p style="font-size:.7rem;color:#94a3b8;margin-bottom:.15rem">投資組合總值</p>
@@ -365,7 +368,7 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
   </main>
 
   <!-- ==================== DETAIL / COMPETITORS VIEW ==================== -->
-  <main v-if="view==='detail'||view==='competitors'" style="max-width:76rem;margin:0 auto;padding:1.5rem">
+  <main v-if="view==='detail'||view==='competitors'||view==='candidates'" style="max-width:76rem;margin:0 auto;padding:1.5rem">
 
     <!-- Stock Selector -->
     <div style="position:relative;max-width:24rem;margin-bottom:1.25rem">
@@ -404,7 +407,11 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
 
     <div v-if="ddOpen" @click="ddOpen=false" style="position:fixed;inset:0;z-index:40"></div>
 
-    <div :style="anim?'opacity:0;transition:opacity .15s':'opacity:1;transition:opacity .15s'">
+    <div v-if="view==='candidates'&&!candidateStocks.length" class="panel" style="padding:1.25rem;color:#64748b;font-size:.9rem">
+      候選清單沒有可顯示的標的。請確認 `candidates.txt` 內代號是否已在本次資料中載入。
+    </div>
+
+    <div v-else :style="anim?'opacity:0;transition:opacity .15s':'opacity:1;transition:opacity .15s'">
 
       <!-- Hero Card -->
       <div class="panel anim" style="padding:1.5rem 2rem;margin-bottom:1.25rem;position:relative;overflow:hidden">
@@ -650,7 +657,8 @@ createApp({
   computed:{
     cur(){return this.data.stocks[this.idx]||{}},
     ri(){const r=this.cur.recommendation;return r&&r!=='unknown'?RI[r]:null},
-    filtered(){const v=this.view;const base=v==='competitors'?this.data.stocks.filter(s=>s.category==='競品參考'):v==='detail'?this.data.stocks.filter(s=>s.category!=='競品參考'):this.data.stocks;const dropdownBase=base.filter(s=>s.news_analysis&&s.technical&&Object.keys(s.technical).length>0);const now=new Date();const today=now.getFullYear()+'-'+String(now.getMonth()+1).padStart(2,'0')+'-'+String(now.getDate()).padStart(2,'0');const sorted=dropdownBase.slice().sort((a,b)=>{const ea=a.fundamental&&a.fundamental.next_earnings_date;const eb=b.fundamental&&b.fundamental.next_earnings_date;const fa=ea&&ea>=today;const fb=eb&&eb>=today;if(fa&&fb)return ea<eb?-1:ea>eb?1:0;if(fa)return-1;if(fb)return 1;if(!ea&&!eb)return 0;if(!ea)return eb<today?1:-1;if(!eb)return ea<today?-1:1;return ea<eb?-1:ea>eb?1:0});const q=this.sq.toLowerCase();if(!q)return sorted;return sorted.filter(s=>s.symbol.toLowerCase().includes(q)||s.company.toLowerCase().includes(q))},
+    filtered(){const v=this.view;const base=v==='competitors'?this.data.stocks.filter(s=>s.category==='競品參考'):v==='candidates'?this.candidateStocks:v==='detail'?this.data.stocks.filter(s=>s.category!=='競品參考'):this.data.stocks;const dropdownBase=base.filter(s=>s.news_analysis&&s.technical&&Object.keys(s.technical).length>0);const source=dropdownBase.length?dropdownBase:base;const now=new Date();const today=now.getFullYear()+'-'+String(now.getMonth()+1).padStart(2,'0')+'-'+String(now.getDate()).padStart(2,'0');const sorted=source.slice().sort((a,b)=>{const ea=a.fundamental&&a.fundamental.next_earnings_date;const eb=b.fundamental&&b.fundamental.next_earnings_date;const fa=ea&&ea>=today;const fb=eb&&eb>=today;if(fa&&fb)return ea<eb?-1:ea>eb?1:0;if(fa)return-1;if(fb)return 1;if(!ea&&!eb)return 0;if(!ea)return eb<today?1:-1;if(!eb)return ea<today?-1:1;return ea<eb?-1:ea>eb?1:0});const q=this.sq.toLowerCase();if(!q)return sorted;return sorted.filter(s=>s.symbol.toLowerCase().includes(q)||s.company.toLowerCase().includes(q))},
+    candidateStocks(){const list=Array.isArray(this.data.candidates)?this.data.candidates:[];if(!list.length)return[];const set=new Set(list.map(s=>String(s||'').toUpperCase()));return this.data.stocks.filter(s=>set.has(String(s.symbol||'').toUpperCase()))},
     pp(){const s=this.cur;if(!s.price||!s.technical||!s.technical.high_52w||!s.technical.low_52w)return 50;const r=s.technical.high_52w-s.technical.low_52w;return r<=0?50:Math.max(0,Math.min(100,(s.price-s.technical.low_52w)/r*100))},
     vr(){const t=this.cur.technical||{};return t.current_vol&&t.avg_vol_20d?t.current_vol/t.avg_vol_20d:0},
     earningsInfo(){const f=this.cur.fundamental||{};const ed=f.next_earnings_date;if(!ed)return null;const d=new Date(ed+'T00:00:00');const now=new Date();const diff=Math.ceil((d-now)/(1000*60*60*24));const mm=String(d.getMonth()+1).padStart(2,'0');const dd=String(d.getDate()).padStart(2,'0');const label=d.getFullYear()+'/'+mm+'/'+dd+(diff>=0?' ('+diff+'天後)':' (已過)');if(diff<=14&&diff>=0)return{label,bg:'#fef2f2',border:'#fecaca',color:'#dc2626'};if(diff<=30&&diff>=0)return{label,bg:'#fffbeb',border:'#fde68a',color:'#d97706'};return{label,bg:'#f0f9ff',border:'#bae6fd',color:'#0284c7'}},
@@ -666,7 +674,7 @@ createApp({
     categories(){const map={};this.data.allocation.positions.forEach(p=>{const c=p.category||'未分類';if(c==='競品參考')return;if(!map[c])map[c]={name:c,items:[],totalMV:0,totalPnl:0,totalCost:0,open:true};map[c].items.push(p);map[c].totalMV+=p.market_value;map[c].totalPnl+=p.pnl;map[c].totalCost+=p.cost_total});const order=['長期霸主','長期穩健','中期題材(股票)','短期投機(股票)','未分類'];return order.filter(k=>map[k]).map(k=>map[k]).concat(Object.keys(map).filter(k=>!order.includes(k)).map(k=>map[k]))},
   },
   methods:{
-    switchView(v){if(v===this.view)return;this.sq='';this.ddOpen=false;this.ao=false;this.naNeut=false;this.ftab='valuation';this.view=v;if(v==='detail'||v==='competitors'){if(this.filtered.length>0)this.idx=this.oidx(this.filtered[0])}window.scrollTo(0,0)},
+    switchView(v){if(v===this.view)return;this.sq='';this.ddOpen=false;this.ao=false;this.naNeut=false;this.ftab='valuation';this.view=v;if(v==='detail'||v==='competitors'||v==='candidates'){if(this.filtered.length>0)this.idx=this.oidx(this.filtered[0])}window.scrollTo(0,0)},
     pick(s){const i=this.oidx(s);if(i===this.idx){this.ddOpen=false;return}this.anim=true;this.ddOpen=false;this.sq='';this.ao=false;this.naNeut=false;this.ftab='valuation';setTimeout(()=>{this.idx=i;this.anim=false},150)},
     goSym(sym){const i=this.data.stocks.findIndex(s=>s.symbol===sym);if(i>=0&&i!==this.idx){this.anim=true;this.ao=false;this.naNeut=false;this.ftab='valuation';setTimeout(()=>{this.idx=i;this.anim=false},150)}},
     goDetail(sym){const i=this.data.stocks.findIndex(s=>s.symbol===sym);if(i>=0){this.idx=i;this.view='detail';this.ao=false;this.naNeut=false;this.ftab='valuation';window.scrollTo(0,0)}},
