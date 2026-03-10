@@ -1,0 +1,84 @@
+{
+  "ticker": "M",
+  "company": "Macy's",
+  "analysis_date": "2026-03-08",
+  "source_file": "cache/2026-03-08/competitors/news/M.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 1,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場對 Macy's 即將公布的第 4 季財報持謹慎態度，擔憂關稅與利潤率壓力導致股價近期表現疲軟。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Macy's (M) Valuation Check As Dividend Rises And Earnings Update Approaches",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 01:10",
+      "impact": "medium",
+      "category": "股利政策",
+      "reason": "董事會批准增加股利發放，顯示管理層對現金流的信心，為投資人提供了一定的下檔保護與價值支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Here's Why Macy's (M) Fell More Than Broader Market",
+      "publisher": "Yahoo",
+      "date": "2026-03-07 06:45",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價單日下跌 4.79 %，表現遜於大盤，反映出市場對於零售業疲軟需求與即將到來的財報風險感到擔憂。此篇選為代表，因其直接解釋了近期股價下挫的具體數據與市場情緒。"
+    },
+    {
+      "rank": 2,
+      "title": "OneWater, Macy's, and Bath and Body Works Shares Plummet, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-02-28 00:06",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "近期股價出現顯著回調，顯示投資人對於零售板塊的拋售壓力，Macy's 作為其中一員受到市場情緒連帶影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Should You Buy, Hold or Sell Macy's Stock Before Q4 Earnings?",
+      "publisher": "Yahoo",
+      "date": "2026-03-03 00:52",
+      "impact": "medium",
+      "category": "財報預測",
+      "reason": "分析指出公司面臨關稅與利潤率壓力，儘管有「Bold New Chapter」策略支撐，但市場對其短期獲利能力仍存疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Macy’s, Inc. to Report Fourth Quarter and Fiscal Year 2025 Results on March 18, 2026",
+      "publisher": "Yahoo",
+      "date": "2026-03-03 21:30",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "僅為例行性的財報日期公告，市場已將此日期納入預期，本身不具備多空方向性。"
+    },
+    {
+      "rank": 2,
+      "title": "Target, Best Buy, Costco, Macy's, Walmart and Amazon are part of Zacks Earnings Preview",
+      "publisher": "Yahoo",
+      "date": "2026-03-02 14:43",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 Macy's 列入零售業財報預覽清單，屬於行業整體趨勢觀察，並未針對公司個別基本面進行評級調整。"
+    },
+    {
+      "rank": 3,
+      "title": "Here's Why Macy's (M) Fell More Than Broader Market",
+      "publisher": "Zacks",
+      "date": "2026-03-06 22:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此篇與 Yahoo 報導內容重複，僅作為市場波動的客觀事實陳述，未提供額外的新增資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

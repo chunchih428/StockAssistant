@@ -1,0 +1,120 @@
+{
+  "ticker": "CME",
+  "company": "CME",
+  "analysis_date": "2026-03-08",
+  "source_file": "cache/2026-03-08/competitors/news/CME.json",
+  "summary": {
+    "total_articles": 14,
+    "bullish_count": 5,
+    "bearish_count": 1,
+    "neutral_count": 8,
+    "overall_sentiment": "bullish",
+    "key_theme": "CME Group 受惠於強勁的交易量成長與多元化產品需求，儘管面臨分析師評級下調的短期壓力，整體市場表現仍優於大盤。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "CME Group Sets New Monthly ADV Record of 37.6 Million Contracts in February, Up 14% Year Over Year",
+      "publisher": "Yahoo",
+      "date": "2026-03-03 20:30",
+      "impact": "high",
+      "category": "營運數據",
+      "reason": "2 月份平均每日交易量 (ADV) 達到 3760 萬份合約，年增 14%，顯示核心業務動能強勁，為股價提供堅實基本面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "CME Group Reaches New Open Interest and Volume Records in Dairy Futures and Options",
+      "publisher": "Yahoo",
+      "date": "2026-03-04 00:30",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "乳製品期貨與選擇權產品創下未平倉量與交易量紀錄，證明公司在利基市場的擴張策略成功，有助於營收多元化。"
+    },
+    {
+      "rank": 3,
+      "title": "CME (CME) Up 6.5% Since Last Earnings Report: Can It Continue?",
+      "publisher": "Yahoo",
+      "date": "2026-03-07 00:30",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "自上次財報發布以來股價上漲 6.5%，市場對其後續獲利成長預期保持樂觀，動能指標顯示買盤持續。"
+    },
+    {
+      "rank": 4,
+      "title": "Is CME Group Stock Outperforming the Dow?",
+      "publisher": "Yahoo",
+      "date": "2026-03-02 22:33",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "過去一年表現優於道瓊工業指數，顯示其作為金融基礎設施提供者的防禦性與成長性兼具，吸引投資人青睞。"
+    },
+    {
+      "rank": 5,
+      "title": "Top Stock Reports for Berkshire Hathaway, KLA & CME",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 05:28",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報告指出 CME 成功受惠於 AI 驅動的市場需求與交易活動增加，相較於其他金融機構表現更為穩健。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Argus Research Downgrades CME Group to Hold",
+      "publisher": "Benzinga",
+      "date": "2026-03-04 16:41",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師 Stephen Biggar 將評級從「買進」下調至「持有」，反映出對股價估值過高或短期成長空間受限的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "CME Group Inc. (CME) Presents at 47th Annual Raymond James Institutional Investor Conference",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-03 19:32",
+      "impact": "low",
+      "category": "法說會",
+      "reason": "公司參與機構投資者會議，主要為例行性業務說明與策略溝通，未有重大突發性利多或利空消息。"
+    },
+    {
+      "rank": 2,
+      "title": "Forecasting The Future: 9 Analyst Projections For CME Group",
+      "publisher": "Benzinga",
+      "date": "2026-03-04 17:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "彙整 9 位分析師的預測，市場觀點分歧，反映出投資人對於未來利率環境與交易量波動的觀望態度。"
+    },
+    {
+      "rank": 3,
+      "title": "Farmer sentiment rebounds, but future expectations continue to slide",
+      "publisher": "Yahoo",
+      "date": "2026-03-03 22:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Purdue University 與 CME Group 合作的農業經濟晴雨表顯示農民信心回升，但對未來預期仍保守，對 CME 股價影響間接且有限。"
+    },
+    {
+      "rank": 4,
+      "title": "What the Options Market Tells Us About CME Group",
+      "publisher": "Benzinga",
+      "date": "2026-03-02 23:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "選擇權市場數據分析，提供市場對股價波動率的看法，屬於技術性觀察，無明確方向性指引。"
+    },
+    {
+      "rank": 5,
+      "title": "The Zacks Analyst Blog Highlights Berkshire Hathaway, KLA, CME Group",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 16:35",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此篇為綜合性市場評論，重複提及 CME 面臨混合壓力，內容與其他報告重疊，故列為中性參考。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

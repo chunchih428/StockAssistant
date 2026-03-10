@@ -1,0 +1,192 @@
+{
+  "ticker": "AMD",
+  "company": "AMD",
+  "analysis_date": "2026-03-08",
+  "source_file": "cache/2026-03-08/competitors/news/AMD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 7,
+    "bearish_count": 9,
+    "neutral_count": 4,
+    "overall_sentiment": "bearish",
+    "key_theme": "儘管 AMD 在 AI 基礎設施與產品創新上取得重大進展，但市場對美國政府潛在的晶片出口管制政策感到擔憂，導致股價近期面臨顯著壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "AMD Meta AI Deal Puts Valuation Gap And Growth Story In Focus",
+      "publisher": "Yahoo",
+      "date": "2026-03-08 01:10",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "AMD 與 Meta 達成多年期、吉瓦級 (gigawatt-scale) 的 AI 基礎設施合作，此類大型合約證明了 AMD 在資料中心市場的競爭力，為長期營收成長提供強大支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "AMD Unveils World's First Copilot+ Desktop Chips",
+      "publisher": "Yahoo",
+      "date": "2026-03-08 00:30",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "發布全球首款 Copilot+ 桌上型處理器，展現其在 AI PC 領域的技術領先地位，有助於鞏固其在消費級市場的市佔率。"
+    },
+    {
+      "rank": 3,
+      "title": "AMD Seeks Long Term Role In Global AI And 6G Infrastructure",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 23:09",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "透過超過 1,000 億美元的客製化 AI 晶片合約，AMD 展現了其在 AI 與 6G 基礎設施領域的長期戰略佈局，強化投資人信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Flex’s U.S. AMD GPU Production Deepens AI Data Center Role",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 16:09",
+      "impact": "low",
+      "category": "供應鏈管理",
+      "reason": "與 Flex 擴大合作在美國生產 Instinct GPU，有助於降低地緣政治風險並提升供應鏈韌性。"
+    },
+    {
+      "rank": 5,
+      "title": "Is AMD Stock Going to $300? — Rapid income growth and an attractive forward P/E ratio",
+      "publisher": "Yahoo",
+      "date": "2026-03-08 01:46",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "分析師指出強勁的收入成長與具吸引力的預期本益比 (Forward P/E)，認為股價具備長期上漲潛力。"
+    },
+    {
+      "rank": 6,
+      "title": "Here Is What You Need To Know Before Investing In Advanced Micro Devices, Inc. (AMD)",
+      "publisher": "Yahoo",
+      "date": "2026-03-07 20:10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "AMD 被列入 ARK Invest 2026 年前 10 大股票精選名單，獲得知名機構投資人的背書。"
+    },
+    {
+      "rank": 7,
+      "title": "The Best Stocks to Invest $1,000 in Right Now",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 07:54",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "被媒體評選為當前值得投資的頂級股票之一，有助於提升散戶投資人的關注度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Nvidia, AMD Could Face Worldwide AI Chip Export Controls Imposed By the Trump Administration",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 07:20",
+      "impact": "high",
+      "category": "法規與政策",
+      "reason": "川普政府考慮實施更嚴格的全球 AI 晶片出口管制，這將直接衝擊 AMD 的海外營收與全球市場佈局，是目前最大的不確定性來源。"
+    },
+    {
+      "rank": 2,
+      "title": "Advanced Micro Devices (AMD) Down 16% Since FQ4 2025 Earnings, Here’s Why",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 21:47",
+      "impact": "medium",
+      "category": "股價表現",
+      "reason": "自 2025 年第四季財報以來股價下跌 16%，反映出市場對財報指引或成長速度的擔憂，短期賣壓沉重。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Advanced Micro Devices Stock Plummeted 15.4% Last Month",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 21:40",
+      "impact": "medium",
+      "category": "股價表現",
+      "reason": "上個月股價重挫 15.4%，儘管公司基本面良好，但市場情緒轉趨保守，導致技術性賣壓湧現。"
+    },
+    {
+      "rank": 4,
+      "title": "Nvidia, AMD fall on Trump admin. reports",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 02:24",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場對出口管制報導的直接反應，導致 AMD 股價隨大盤與同業下跌，顯示市場對政策風險的高度敏感。"
+    },
+    {
+      "rank": 5,
+      "title": "US Mulls Requiring Permits for Global Nvidia, AMD AI Chip Sales",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 01:41",
+      "impact": "medium",
+      "category": "法規與政策",
+      "reason": "美國政府考慮要求晶片銷售許可，這將增加營運成本並拖延出貨時程，對 AMD 的全球供應鏈造成干擾。"
+    },
+    {
+      "rank": 6,
+      "title": "Update: Market Chatter: Nvidia, AMD Could Face US Draft Rules",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 17:12",
+      "impact": "low",
+      "category": "法規與政策",
+      "reason": "持續的市場傳言加劇了投資人的恐慌情緒，導致股價在缺乏明確政策細節下持續承壓。"
+    },
+    {
+      "rank": 7,
+      "title": "AMD and Nvidia Are on a Tough Run. New U.S. Chip Export Rules Wouldn’t Help.",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 23:43",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "評論指出在當前股價疲軟的背景下，出口管制將進一步惡化公司的獲利前景。"
+    },
+    {
+      "rank": 8,
+      "title": "New U.S. AI Chip Curbs May Pressure Nvidia, AMD",
+      "publisher": "Yahoo",
+      "date": "2026-03-07 02:38",
+      "impact": "low",
+      "category": "法規與政策",
+      "reason": "重申出口管制對 AI 處理器全球出貨量的潛在負面影響，持續壓抑市場買氣。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "White Falcon Capital Management’s Views on Advanced Micro Devices (AMD)",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 20:55",
+      "impact": "low",
+      "category": "投資觀點",
+      "reason": "基金經理人發布投資信件，提供對 AMD 的長期看法，屬於機構投資人的觀點分享，對短期股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Should Meta’s Massive New AMD AI Buildout Require Action From Meta Platforms (META) Investors?",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 09:13",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "文章重點在於 Meta 投資人的決策，雖提及 AMD 的合作，但對 AMD 本身股價無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "AMD Expands AI Portfolio With New Ryzen Chips: Can the Tech Deliver?",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 00:31",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "介紹 Ryzen AI 400 系列晶片，屬於例行性產品更新，市場已預期此類技術進展。"
+    },
+    {
+      "rank": 4,
+      "title": "Trump Admin Weighs New Export Rules That Ties Chip Purchase To Investments In US Data Centers",
+      "publisher": "Benzinga",
+      "date": "2026-03-06 07:12",
+      "impact": "low",
+      "category": "法規與政策",
+      "reason": "報導政府考慮將晶片採購與美國資料中心投資掛鉤，屬於政策討論階段，具體影響尚不明確。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

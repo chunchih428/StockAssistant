@@ -1,0 +1,93 @@
+{
+  "ticker": "SNAP",
+  "company": "Snap",
+  "analysis_date": "2026-03-08",
+  "source_file": "cache/2026-03-08/competitors/news/SNAP.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "Neutral",
+    "key_theme": "Snap 在財報後展現營收回升與訂閱服務成長潛力，但面臨華爾街投行下調目標價的估值壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Snap Revenue Rebound And Snapchat Plus Growth Reshape Profitability Outlook",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-08",
+      "impact": "high",
+      "category": "財報分析",
+      "reason": "Snapchat Plus 訂閱用戶成長與營收回升，直接改善了公司的獲利前景，是推動股價上漲的核心基本面因素。"
+    },
+    {
+      "rank": 2,
+      "title": "Snap (SNAP) Up 4.3% Since Last Earnings Report: Can It Continue?",
+      "publisher": "Yahoo",
+      "date": "2026-03-07",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "財報發布後股價上漲 4.3 %，顯示市場對其營運表現給予正面回饋，投資人正關注後續獲利預估是否能支撐漲勢。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Freedom Capital and Morgan Stanley Cut SNAP Price Targets",
+      "publisher": "Insider Monkey",
+      "date": "2026-02-27",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Morgan Stanley 與 Freedom Capital 同步下調目標價，反映出機構投資人對 Snap 短期成長動能與獲利能力的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "The Half-Million Bet Buried In SNAP's Options Tape",
+      "publisher": "Benzinga",
+      "date": "2026-03-06",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "期權市場出現大額押注，暗示部分專業投資人可能在為股價波動或下行風險進行避險，對短期股價情緒構成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Morgan Stanley Maintains a Hold Rating on Snap Inc. (SNAP)",
+      "publisher": "Insider Monkey",
+      "date": "2026-02-28",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "維持「持有」評級代表分析師對該股目前缺乏明確的買入或賣出訊號，處於觀望狀態。"
+    },
+    {
+      "rank": 2,
+      "title": "Q4 Earnings Highlights: Snap (NYSE:SNAP) Vs The Rest Of The Social Networking Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-03-07",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "將 Snap 與同業進行比較，屬於中性的產業分析，有助於投資人評估其在社交媒體板塊中的相對競爭力。"
+    },
+    {
+      "rank": 3,
+      "title": "Is There Now An Opportunity In Snap (SNAP) After A Sharp Share Price Slide",
+      "publisher": "Yahoo",
+      "date": "2026-03-03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討股價下跌後的投資機會，屬於市場情緒分析，並未提供具體買賣建議，僅提供投資人思考維度。"
+    },
+    {
+      "rank": 4,
+      "title": "Snap Inc. (SNAP) is Attracting Investor Attention: Here is What You Should Know",
+      "publisher": "Zacks",
+      "date": "2026-02-27",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為一般性的投資人關注度報導，缺乏具體的財務數據或重大事件驅動，對股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
