@@ -35,7 +35,7 @@ class PortfolioService:
         if open_fn is None:
             open_fn = open
 
-        print(f"  [Portfolio] 頛?: {self.portfolio_file}")
+        print(f"  [Portfolio] 載入持股: {self.portfolio_file}")
         with open_fn(self.portfolio_file, "r", encoding="utf-8-sig", newline="") as f:
             reader = csv_reader_cls(f)
             for row in reader:
@@ -131,7 +131,7 @@ class PortfolioService:
                 stocks_map[symbol] = cur
 
         stocks = list(stocks_map.values())
-        print(f"  [Portfolio] ?∠巨 {len(stocks)} 瑼?| ?豢?甈?{len(options)} 蝑?| ?暸? ${cash:,.2f}")
+        print(f"  [Portfolio] 股票 {len(stocks)} 檔 | 選擇權 {len(options)} 筆 | 現金 ${cash:,.2f}")
         return stocks, options, cash
 
     @staticmethod
