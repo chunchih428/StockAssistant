@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 import csv
 import re
 from pathlib import Path
@@ -35,7 +35,7 @@ class PortfolioService:
         if open_fn is None:
             open_fn = open
 
-        print(f"  [Portfolio] 載入持股: {self.portfolio_file}")
+        print(f"  [Portfolio] 頛?: {self.portfolio_file}")
         with open_fn(self.portfolio_file, "r", encoding="utf-8-sig", newline="") as f:
             reader = csv_reader_cls(f)
             for row in reader:
@@ -45,25 +45,43 @@ class PortfolioService:
                     symbol_raw = (
                         row.get("symbol")
                         or row.get("ticker")
-                        or row.get("代號")
                         or row.get("股名")
                         or ""
                     )
                     shares_raw = row.get("shares")
                     if shares_raw in (None, ""):
-                        shares_raw = row.get("股數", 0)
+                        shares_raw = row.get("股數")
+                    if shares_raw in (None, "") and isinstance(row, dict):
+                        for k, v in row.items():
+                            if isinstance(k, str) and ("share" in k.lower() or "股數" in k):
+                                shares_raw = v
+                                break
+                    if shares_raw in (None, ""):
+                        shares_raw = 0
                     cost_raw = row.get("cost_basis")
                     if cost_raw in (None, ""):
-                        cost_raw = row.get("成本")
+                        cost_raw = row.get("price")
                     if cost_raw in (None, ""):
                         cost_raw = row.get("買價")
-                    if cost_raw in (None, ""):
-                        cost_raw = row.get("買入價")
+                    if cost_raw in (None, "") and isinstance(row, dict):
+                        for k, v in row.items():
+                            if isinstance(k, str) and (
+                                "cost" in k.lower() or "price" in k.lower() or "成本" in k or "價格" in k
+                            ):
+                                cost_raw = v
+                                break
                     if cost_raw in (None, ""):
                         cost_raw = row.get("price", 0)
                     category_raw = row.get("category")
                     if category_raw in (None, ""):
-                        category_raw = row.get("類別", "")
+                        category_raw = row.get("類別")
+                    if category_raw in (None, "") and isinstance(row, dict):
+                        for k, v in row.items():
+                            if isinstance(k, str) and ("category" in k.lower() or "分類" in k):
+                                category_raw = v
+                                break
+                    if category_raw in (None, ""):
+                        category_raw = ""
 
                 symbol = str(symbol_raw).strip().upper()
                 if not symbol:
@@ -113,7 +131,7 @@ class PortfolioService:
                 stocks_map[symbol] = cur
 
         stocks = list(stocks_map.values())
-        print(f"  [Portfolio] 股票 {len(stocks)} 檔 | 選擇權 {len(options)} 筆 | 現金 ${cash:,.2f}")
+        print(f"  [Portfolio] ?∠巨 {len(stocks)} 瑼?| ?豢?甈?{len(options)} 蝑?| ?暸? ${cash:,.2f}")
         return stocks, options, cash
 
     @staticmethod
@@ -144,6 +162,46 @@ class PortfolioService:
         return None
 
     @staticmethod
+    def _pick_option_quote_from_contract_ticker(contract_symbol, ticker_cls):
+        """Fallback: query option premium by contract ticker via yfinance."""
+        if not contract_symbol:
+            return None
+        try:
+            tk = ticker_cls(contract_symbol)
+        except Exception:
+            return None
+
+        try:
+            fi = getattr(tk, "fast_info", None)
+            if fi:
+                for key in ("lastPrice", "regularMarketPrice", "last_price"):
+                    val = PortfolioService._safe_float(fi.get(key), None)
+                    if val and val > 0:
+                        return val
+        except Exception:
+            pass
+
+        try:
+            info = getattr(tk, "info", None) or {}
+            for key in ("regularMarketPrice", "currentPrice", "previousClose"):
+                val = PortfolioService._safe_float(info.get(key), None)
+                if val and val > 0:
+                    return val
+        except Exception:
+            pass
+
+        try:
+            hist = tk.history(period="5d", interval="1d")
+            if hist is not None and not getattr(hist, "empty", True):
+                val = PortfolioService._safe_float(hist["Close"].dropna().iloc[-1], None)
+                if val and val > 0:
+                    return val
+        except Exception:
+            pass
+
+        return None
+
+    @staticmethod
     def enrich_option_market_data(options, ticker_cls=None, print_fn=print):
         if ticker_cls is None:
             ticker_cls = yf.Ticker
@@ -162,32 +220,36 @@ class PortfolioService:
                 chain = ticker_cls(underlying).option_chain(expiry)
             except Exception as exc:
                 print_fn(f"    [Options] {underlying} {expiry} 報價失敗: {exc}")
-                continue
+                chain = None
 
             for option in group:
-                option_type = option.get("type")
-                quotes_df = chain.calls if option_type == "Call" else chain.puts
-                if quotes_df is None or getattr(quotes_df, "empty", True):
-                    continue
-
-                row = None
                 yf_contract_symbol = PortfolioService._to_yf_contract_symbol(option)
-                if yf_contract_symbol and "contractSymbol" in quotes_df.columns:
-                    hit = quotes_df.loc[quotes_df["contractSymbol"] == yf_contract_symbol]
-                    if not hit.empty:
-                        row = hit.iloc[0]
+                premium = None
 
-                if row is None and "strike" in quotes_df.columns:
-                    strike = PortfolioService._safe_float(option.get("strike"), None)
-                    if strike is not None:
-                        hit = quotes_df.loc[(quotes_df["strike"] - strike).abs() < 0.01]
-                        if not hit.empty:
-                            row = hit.iloc[0]
+                if chain is not None:
+                    option_type = option.get("type")
+                    quotes_df = chain.calls if option_type == "Call" else chain.puts
+                    if quotes_df is not None and not getattr(quotes_df, "empty", True):
+                        row = None
+                        if yf_contract_symbol and "contractSymbol" in quotes_df.columns:
+                            hit = quotes_df.loc[quotes_df["contractSymbol"] == yf_contract_symbol]
+                            if not hit.empty:
+                                row = hit.iloc[0]
 
-                if row is None:
-                    continue
+                        if row is None and "strike" in quotes_df.columns:
+                            strike = PortfolioService._safe_float(option.get("strike"), None)
+                            if strike is not None:
+                                hit = quotes_df.loc[(quotes_df["strike"] - strike).abs() < 0.01]
+                                if not hit.empty:
+                                    row = hit.iloc[0]
 
-                premium = PortfolioService._pick_option_quote(row)
+                        if row is not None:
+                            premium = PortfolioService._pick_option_quote(row)
+
+                if premium is None:
+                    premium = PortfolioService._pick_option_quote_from_contract_ticker(
+                        yf_contract_symbol, ticker_cls
+                    )
                 if premium is None:
                     continue
 
@@ -203,7 +265,7 @@ class PortfolioService:
                 option["pnl"] = pnl
                 option["pnl_pct"] = pnl_pct
 
-            print_fn(f"    [Options] {underlying} {expiry} 已更新 {len(group)} 筆報價")
+            print_fn(f"    [Options] {underlying} {expiry} 完成更新 {len(group)} 筆")
         return options
 
     @staticmethod
