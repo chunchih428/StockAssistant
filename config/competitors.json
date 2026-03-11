@@ -988,8 +988,22 @@
       "TW",
       "FDS"
     ],
-    "FDS": [],
-    "MORN": []
+    "FDS": [
+      "COIN",
+      "NDAQ",
+      "MSCI",
+      "CBOE",
+      "TW",
+      "MORN"
+    ],
+    "MORN": [
+      "NDAQ",
+      "MSCI",
+      "CBOE",
+      "TW",
+      "FDS",
+      "MKTX"
+    ]
   },
   "candidates": {
     "ACM": [
