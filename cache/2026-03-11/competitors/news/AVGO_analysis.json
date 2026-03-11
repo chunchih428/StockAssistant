@@ -1,0 +1,129 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-03-08",
+  "source_file": "cache/2026-03-08/competitors/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Broadcom 憑藉強勁的 AI 晶片需求與亮眼的財報表現，成功引領市場對半導體產業成長的樂觀預期。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Broadcom beats on earnings and guidance as AI revenue doubles",
+      "publisher": "CNBC",
+      "date": "2026-03-05 19:33",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "Broadcom 第一季財報表現優於預期，且 AI 相關營收翻倍成長，為股價提供強勁的基本面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom (AVGO) CEO Forecasts $100B+ in AI Chip Sales by 2027",
+      "publisher": "Yahoo",
+      "date": "2026-03-07 03:44",
+      "impact": "high",
+      "category": "市場展望",
+      "reason": "執行長 Tan 對 2027 年 AI 晶片銷售額突破 1,000 億美元的預測，極大提升了市場對公司長期成長潛力的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Broadcom Expands AI And Telecom Role With 2nm SoCs And VMware Update",
+      "publisher": "Yahoo",
+      "date": "2026-03-08 05:11",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "公司推出業界首款 2nm AI 定製運算 SoC 平台，展現其在先進製程與資料中心架構的技術領先地位。"
+    },
+    {
+      "rank": 4,
+      "title": "Morgan Stanley resets Broadcom price target after earnings",
+      "publisher": "Yahoo",
+      "date": "2026-03-07 10:37",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "摩根士丹利在財報後調整目標價，反映出華爾街對其營收年增 29% 的強勁表現給予正面評價。"
+    },
+    {
+      "rank": 5,
+      "title": "Cramer Names Broadcom “An Undervalued Stock”, Despite Recent Declines",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 19:10",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "Jim Cramer 公開稱 Broadcom 為被低估的股票，有助於吸引散戶投資人關注並支撐股價回升。"
+    },
+    {
+      "rank": 6,
+      "title": "Jensen Quality Growth Equity Bets on Broadcom (AVGO), the Core Supplier in the Global AI Build-Out",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 22:15",
+      "impact": "low",
+      "category": "機構投資",
+      "reason": "Jensen Investment Management 將 Broadcom 視為全球 AI 基礎建設的核心供應商，顯示機構法人對其長期持倉的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Is Marvell Finally Closing the Gap on Broadcom? Cramer Thinks So",
+      "publisher": "Yahoo",
+      "date": "2026-03-08 05:08",
+      "impact": "low",
+      "category": "競爭分析",
+      "reason": "市場開始討論競爭對手 Marvell 是否正在縮小與 Broadcom 的技術差距，可能對 Broadcom 的市場壟斷地位構成潛在威脅。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom Shares Rise 5% Post Q1 Earnings: Buy, Sell or Hold?",
+      "publisher": "Yahoo",
+      "date": "2026-03-07 02:04",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "儘管財報亮眼，但分析指出公司估值已處於溢價狀態，提醒投資人需留意高估值帶來的回調風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Stocks making the biggest moves midday: Victoria’s Secret, United Airlines, Broadcom, Trade Desk, Okta & more",
+      "publisher": "CNBC",
+      "date": "2026-03-05 20:52",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為盤中股價波動的例行報導，未提供新的基本面分析。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom earnings, AI's PR problem, Musk takes the stand and more in Morning Squawk",
+      "publisher": "CNBC",
+      "date": "2026-03-05 16:26",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "屬於晨間新聞摘要，提及 Broadcom 財報為當日重點，但未深入分析。"
+    },
+    {
+      "rank": 3,
+      "title": "Stocks making the biggest moves premarket: BJ's Wholesale, Broadcom, Trade Desk, StubHub & more",
+      "publisher": "CNBC",
+      "date": "2026-03-05 15:37",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "盤前股價變動通知，屬於市場資訊彙整。"
+    },
+    {
+      "rank": 4,
+      "title": "Cramer's Stop Trading: Broadcom — CNBC’s Jim Cramer explains why he is keeping an eye on shares of Broadcom.",
+      "publisher": "CNBC",
+      "date": "2026-03-06 18:08",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "Jim Cramer 表示持續關注該股，未給出明確的買賣建議。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

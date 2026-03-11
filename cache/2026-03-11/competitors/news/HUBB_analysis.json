@@ -1,0 +1,48 @@
+{
+  "ticker": "HUBB",
+  "company": "Hubbell Inc",
+  "analysis_date": "2026-03-11",
+  "source_file": "cache/2026-03-11/competitors/news/HUBB.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "Neutral",
+    "key_theme": "Hubbell 股價近期經歷回調，市場正評估其估值吸引力，同時公司透過參與投資人會議尋求與市場溝通。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Is It Too Late To Consider Hubbell (HUBB) After Its Recent Share Price Pullback?",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 23:20",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "文章探討 Hubbell 在經歷股價回調後的投資價值，暗示市場對其基本面仍具信心，認為回調可能提供買入機會。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "nLIGHT, Tutor Perini, Vertiv, Hubbell, and Vicor Shares Plummet, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-03 20:32",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "報導指出 Hubbell 股價出現顯著下跌，反映出市場對該類股或整體工業板塊的短期賣壓，對股價短期走勢構成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Hubbell to Participate in Upcoming Investor Conference",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 14:00",
+      "impact": "low",
+      "category": "公司活動",
+      "reason": "公司宣布參與投資人會議，屬於例行性的投資人關係活動，旨在提升市場透明度，對股價無直接且立即的影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

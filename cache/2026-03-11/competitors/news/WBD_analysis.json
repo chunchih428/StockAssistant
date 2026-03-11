@@ -1,0 +1,93 @@
+{
+  "ticker": "WBD",
+  "company": "Warner",
+  "analysis_date": "2026-03-10",
+  "source_file": "cache/2026-03-10/competitors/news/WBD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 2,
+    "bearish_count": 10,
+    "neutral_count": 8,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場高度關注 Paramount Skydance 以 1,100 億美元收購 Warner Bros. Discovery 的交易進展，以及該併購案對 WBD 未來營運策略與市場地位的潛在衝擊。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Paramount CEO David Ellison: The Warner Bros. transaction will be positive for both CBS News and CNN",
+      "publisher": "CNBC",
+      "date": "2026-03-05 10:52",
+      "impact": "medium",
+      "category": "併購交易",
+      "reason": "Paramount 執行長 David Ellison 公開表示該交易對 CBS News 與 CNN 具有正面綜效，暗示合併後可能強化新聞業務的競爭力與市場影響力。"
+    },
+    {
+      "rank": 2,
+      "title": "Tencent Is Said to Be Back On Paramount-Warner Bros Deal With Fresh Funding",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 02:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "騰訊傳出提供額外資金支持該併購案，顯示外部資本對此交易案仍具信心，有助於提升交易完成的可能性。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Paramount Skydance Warner Bros Deal Reshapes Media Scale And Investor Risks",
+      "publisher": "Yahoo",
+      "date": "2026-03-08 18:10",
+      "impact": "high",
+      "category": "併購交易",
+      "reason": "該交易規模高達 1,100 億美元，市場擔憂合併後帶來的債務壓力與整合風險，對 WBD 現有股東權益造成不確定性。"
+    },
+    {
+      "rank": 2,
+      "title": "Paramount may unwind WBD’s sports strategy if merger goes through",
+      "publisher": "CNBC",
+      "date": "2026-03-06 06:54",
+      "impact": "high",
+      "category": "營運策略",
+      "reason": "分析指出 Paramount 可能會拆解 WBD 目前的核心體育賽事轉播策略，這將直接影響 WBD 的內容資產價值與長期營收模式。"
+    },
+    {
+      "rank": 3,
+      "title": "Veteran media exec: Paramount's acquisition of Warner Bros. will likely result in reduced output",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 13:00",
+      "impact": "medium",
+      "category": "營運策略",
+      "reason": "媒體產業專家預測合併後將導致內容產出減少，可能削弱 WBD 在好萊塢的製作實力與市場份額。"
+    },
+    {
+      "rank": 4,
+      "title": "Top Midday Decliners — Warner Bros. Discovery (WBD) is the target of a $110 billion acquisition by Paramount Skydance (PSKY",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 18:41",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "WBD 被列為盤中跌幅較大的個股，反映市場對於併購案細節與未來股價表現的擔憂情緒。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Wells Fargo Reinstates Equal-Weight on Warner Bros. Discovery, Announces $31 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-03-09 09:45",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "富國銀行分析師 Steven Cahall 給予 WBD「中立」評級，並設定 31 美元目標價，顯示在併購案明朗前，華爾街對其持觀望態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Where Warner Bros. Discovery Stands With Analysts",
+      "publisher": "Benzinga",
+      "date": "2026-03-09 10:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "彙整市場分析師對 WBD 的看法，提供投資人參考，但未提出新的利多或利空觀點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "CRWV",
+  "company": "CoreWeave",
+  "analysis_date": "2026-03-08",
+  "source_file": "cache/2026-03-08/competitors/news/CRWV.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 4,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "CoreWeave 透過與 Perplexity 簽署 AI 推論工作負載的長期合作協議，顯著增強了市場對其雲端基礎設施擴張能力的信心。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Oppenheimer Initiates Coverage On CoreWeave with Outperform Rating, Announces Price Target of $140",
+      "publisher": "Benzinga",
+      "date": "2026-03-06 21:15",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Oppenheimer 分析師 Param Singh 給予優於大盤評級，並設定 140 美元目標價，顯示華爾街對其長期成長潛力的高度認可。"
+    },
+    {
+      "rank": 2,
+      "title": "Will Perplexity's AI Workloads Accelerate CRWV's Next Leg of Expansion?",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 22:19",
+      "impact": "high",
+      "category": "業務合作",
+      "reason": "與 Perplexity 達成多年度合作協議，將在 NVIDIA GB200 叢集上運行 AI 推論工作，這是公司業務規模擴張的關鍵里程碑。"
+    },
+    {
+      "rank": 3,
+      "title": "Barclays Remain a Buy on CoreWeave (CRWV)",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 01:18",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Barclays 分析師 Raimo Lenschow 重申買入評級，將其視為最具潛力的新興 AI 股票之一。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bernstein Initiates Coverage On CoreWeave with Underperform Rating, Announces Price Target of $56",
+      "publisher": "Benzinga",
+      "date": "2026-03-05 15:19",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Bernstein 給予劣於大盤評級，目標價僅 56 美元，反映出市場對於公司估值與競爭壓力的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Jim Cramer on CoreWeave: “I’d Rather Have You Buy NVIDIA”",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 19:45",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "知名財經評論員 Jim Cramer 公開建議投資人選擇 NVIDIA 而非 CoreWeave，對散戶情緒可能造成負面影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Citigroup Maintains Buy on CoreWeave, Lowers Price Target to $126",
+      "publisher": "Benzinga",
+      "date": "2026-03-04 22:44",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "儘管維持買入評級，但花旗將目標價從 135 美元下調至 126 美元，顯示對短期股價動能的修正。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "As CoreWeave Seeks $8.5B in Funding, Should You Buy, Sell, or Hold CRWV Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 00:22",
+      "impact": "medium",
+      "category": "財務融資",
+      "reason": "公司尋求 85 億美元融資以支持與 Meta 的合作，雖然有助於擴張，但高額資本支出引發投資人對財務槓桿的審視。"
+    },
+    {
+      "rank": 2,
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 06:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為產業概覽報導，提及 CoreWeave 但未提供具體影響股價的重大新資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

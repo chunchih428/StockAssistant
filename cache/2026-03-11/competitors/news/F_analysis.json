@@ -1,0 +1,129 @@
+{
+  "ticker": "F",
+  "company": "Ford",
+  "analysis_date": "2026-03-08",
+  "source_file": "cache/2026-03-08/competitors/news/F.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 4,
+    "bearish_count": 13,
+    "neutral_count": 3,
+    "overall_sentiment": "bearish",
+    "key_theme": "大規模召回事件與電動車銷售疲軟嚴重打擊市場信心，儘管分析師仍看好其長期價值與監管利多。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "BofA Resumes Coverage on Ford (F), Sets $17 Target on Regulatory Tailwinds",
+      "publisher": "Yahoo",
+      "date": "2026-03-07 01:15",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "美國銀行 (BofA) 重啟對 Ford 的研究覆蓋，並給予 17 美元目標價，主要看好政策法規帶來的潛在利多。"
+    },
+    {
+      "rank": 2,
+      "title": "GM and Ford: Bank of America Names 2 Top Auto Stocks to Buy for 2026",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 19:14",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "被列為 2026 年首選汽車股之一，顯示機構投資者在股價回調時仍看好其長期配置價值。"
+    },
+    {
+      "rank": 3,
+      "title": "5 Low P/B Ratio Stocks That You May Consider Buying in March",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 21:17",
+      "impact": "low",
+      "category": "價值投資",
+      "reason": "Ford 被歸類為低股價淨值比 (P/B) 股票，對於價值型投資者而言具有吸引力，暗示股價可能被低估。"
+    },
+    {
+      "rank": 4,
+      "title": "A Small Tweak Could Make Ford's Hidden Gem Even More Valuable",
+      "publisher": "Yahoo",
+      "date": "2026-03-08 08:25",
+      "impact": "low",
+      "category": "產品優化",
+      "reason": "公司透過微調產品策略提升客戶價值，雖影響較小，但顯示管理層在核心業務上的持續優化努力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ford Recalls Millions of Cars. The Stock Is Down.",
+      "publisher": "Barrons.com",
+      "date": "2026-03-06 21:14",
+      "impact": "high",
+      "category": "產品召回",
+      "reason": "彙整多項召回事件，總計約 240 萬輛汽車受影響，直接導致股價下跌，且召回成本對財務造成顯著壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Ford Reports 5.5% Decline In February US Sales Amid EV Pullback",
+      "publisher": "Yahoo",
+      "date": "2026-03-08 04:30",
+      "impact": "high",
+      "category": "銷售數據",
+      "reason": "二月美國銷售額下滑 5.5%，反映出電動車需求疲軟及公司被迫縮減電動車業務的困境。"
+    },
+    {
+      "rank": 3,
+      "title": "Ford's February EV Slump: Why the F-150 Lightning is Losing Charge",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 21:40",
+      "impact": "medium",
+      "category": "電動車業務",
+      "reason": "F-150 Lightning 銷量暴跌 71%，顯示 Ford 在電動皮卡市場面臨嚴峻的競爭與需求轉向壓力。"
+    },
+    {
+      "rank": 4,
+      "title": "Ford’s EV Reset And Modular Platform Shift Raise New Valuation Questions",
+      "publisher": "Yahoo",
+      "date": "2026-03-07 11:12",
+      "impact": "medium",
+      "category": "公司策略",
+      "reason": "CEO Jim Farley 公開承認電動車策略失誤，市場對其轉型模組化平台的估值與執行力產生疑慮。"
+    },
+    {
+      "rank": 5,
+      "title": "BlueOval SK to lay off 150 employees at Tennessee plant",
+      "publisher": "Yahoo",
+      "date": "2026-03-07 05:57",
+      "impact": "low",
+      "category": "人事異動",
+      "reason": "田納西州電池廠裁員 150 人，反映出與 SK On 合作重組電池業務後的縮編壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ford Motor Co. Executive Chairman Bill Ford on 123 years of driving American progress",
+      "publisher": "CNBC",
+      "date": "2026-03-04 20:27",
+      "impact": "low",
+      "category": "公司願景",
+      "reason": "董事長 Bill Ford 回顧公司歷史與未來願景，屬於品牌形象宣傳，對短期股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Ford Motor Stock: Is F Outperforming the Consumer Cyclical Sector?",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 01:07",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "探討 Ford 在消費週期性板塊的相對表現，提供客觀數據分析，無明確買賣建議。"
+    },
+    {
+      "rank": 3,
+      "title": "Rivian Wants R2 To Accomplish Something Ford, GM Couldn't",
+      "publisher": "Benzinga",
+      "date": "2026-03-06 21:49",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "提及 Rivian 的競爭目標，雖涉及 Ford，但重點在於對手動態，對 Ford 本身影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

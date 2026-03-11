@@ -1,0 +1,38 @@
+{
+  "ticker": "VRSN",
+  "company": "VeriSign",
+  "analysis_date": "2026-03-10",
+  "source_file": "cache/2026-03-10/competitors/news/VRSN.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對於 VeriSign 的估值與潛在法律風險存在分歧，多頭看好其商業模式，空頭則擔憂監管壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "VeriSign, Inc. (VRSN): A Bull Case Theory",
+      "publisher": "Insider Monkey",
+      "date": "2026-02-28",
+      "impact": "medium",
+      "category": "投資分析",
+      "reason": "該文章深入探討了 VeriSign 作為 .com 域名註冊管理機構的壟斷優勢與強大的現金流能力，強調其商業模式的護城河是支撐股價長期成長的核心動力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Assessing VeriSign (VRSN) Valuation As Recent Trading Puts Legal Risks In Focus",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-01",
+      "impact": "medium",
+      "category": "法規與風險",
+      "reason": "文章指出市場近期交易行為反映了對公司面臨法律與監管風險的擔憂，這可能影響其定價能力與未來的獲利成長空間，進而對估值造成壓力。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

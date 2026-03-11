@@ -1,0 +1,111 @@
+{
+  "ticker": "APLD",
+  "company": "Applied Digital",
+  "analysis_date": "2026-03-11",
+  "source_file": "cache/2026-03-11/competitors/news/APLD.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 4,
+    "bearish_count": 4,
+    "neutral_count": 2,
+    "overall_sentiment": "Mixed",
+    "key_theme": "公司積極透過 21.5 億美元債務融資擴張 AI 資料中心產能，雖獲市場看好其成長潛力，但高槓桿風險、關聯交易疑慮及執行難度引發分析師降評。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Applied Digital Prices $2.15B Of 6.750% Senior Secured Notes Due 2031 To Fund 200 MW Polaris Forge 2 AI Factory Campus In North Dakota",
+      "publisher": "Benzinga",
+      "date": "2026-03-04",
+      "impact": "high",
+      "category": "資本運作",
+      "reason": "成功定價 21.5 億美元的優先擔保票據，為 Polaris Forge 2 AI 資料中心提供關鍵資金，展現公司在資本市場的籌資能力與擴張決心。"
+    },
+    {
+      "rank": 2,
+      "title": "Babcock & Wilcox Receives Full Notice To Proceed On $2.4B Design-Build Agreement With Base Electron, Backed By Applied Digital, To Deliver 1.2 GW Of New Gen Capacity",
+      "publisher": "Benzinga",
+      "date": "2026-03-04",
+      "impact": "high",
+      "category": "基礎建設",
+      "reason": "透過與 Babcock & Wilcox 合作，確保 1.2 GW 的電力供應，解決 AI 資料中心最核心的能源瓶頸，為長期營運奠定基礎。"
+    },
+    {
+      "rank": 3,
+      "title": "APLD Rises 58% in 6 Months: Three Key Reasons to Hold the Stock Now",
+      "publisher": "Zacks",
+      "date": "2026-03-10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "過去 6 個月股價上漲 58 %，反映市場對其轉型 AI 資料中心策略的認可，分析師建議持有的觀點強化了投資人信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Applied Digital: Gigawatt Ambitions Clouded By Related-Party Transactions",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "雖然指出關聯交易風險，但同時肯定公司在 AI 資料中心領域的轉型策略，並看好其在低空置率環境下的市場需求潛力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Applied Digital: The Bull Case Requires Near Perfection (Rating Downgrade)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-10",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師將評級下調至「賣出」，主因是估值過高以及執行層面的風險，認為公司若要維持成長，營運表現必須達到近乎完美的程度。"
+    },
+    {
+      "rank": 2,
+      "title": "How Investors Are Reacting To Applied Digital (APLD) Massive Debt Deal, Nvidia Exit and CoreWeave Risks",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-10",
+      "impact": "high",
+      "category": "風險評估",
+      "reason": "市場對公司背負巨額債務、Nvidia 退出合作以及 CoreWeave 相關風險感到擔憂，這些因素對股價構成顯著壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "Applied Digital’s Multi Billion Push Tests AI Data Center Thesis",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-09",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "探討公司數十億美元的擴張計畫是否過於激進，質疑其 AI 資料中心商業模式的長期可持續性與資本回報率。"
+    },
+    {
+      "rank": 4,
+      "title": "Babcock & Wilcox Will Deliver 1.2 GW of Gas-fired Capacity for Applied Digital Data Centers",
+      "publisher": "POWER Magazine",
+      "date": "2026-03-09",
+      "impact": "low",
+      "category": "基礎建設",
+      "reason": "此報導雖為中性技術細節，但因涉及與 Babcock & Wilcox 的複雜合約，市場擔憂其對公司現金流的長期負擔。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Applied Digital Prices $2.15 Billion Debt Deal To Build Massive AI Campus",
+      "publisher": "Benzinga",
+      "date": "2026-03-04",
+      "impact": "low",
+      "category": "資本運作",
+      "reason": "此報導為債務融資事件的摘要，重複了已知的融資細節，對股價影響力較小。"
+    },
+    {
+      "rank": 2,
+      "title": "Babcock & Wilcox Rockets On $2.4 Billion AI Data Center Project, Reports Q4 Results",
+      "publisher": "Benzinga",
+      "date": "2026-03-04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "新聞焦點在於 Babcock & Wilcox 的股價表現，雖然提及 Applied Digital 的合作案，但對 APLD 本身股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,38 @@
+{
+  "ticker": "VSAT",
+  "company": "ViaSat",
+  "analysis_date": "2026-03-10",
+  "source_file": "cache/2026-03-10/competitors/news/VSAT.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "Viasat 股價在經歷顯著漲幅後，技術面呈現強勢突破，市場正評估其後續估值空間與動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "ViaSat (VSAT) Recently Broke Out Above the 20-Day Moving Average",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 14:35",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "股價突破 20 日移動平均線，通常被視為短期動能轉強的技術訊號，有利於吸引趨勢交易者進場。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Too Late To Consider Viasat (VSAT) After A 4.7x One Year Surge?",
+      "publisher": "Yahoo",
+      "date": "2026-03-03 09:21",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該文章探討股價在一年內飆升 4.7 倍後的估值合理性，屬於中性觀點，提醒投資人需審慎評估後續成長潛力與獲利了結風險。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

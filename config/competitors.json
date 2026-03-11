@@ -740,7 +740,14 @@
       "AKAM",
       "GDDY"
     ],
-    "GDDY": [],
+    "GDDY": [
+      "MDB",
+      "VRSN",
+      "TWLO",
+      "AKAM",
+      "OKTA",
+      "APLD"
+    ],
     "APLD": [
       "TWLO",
       "AKAM",
@@ -757,33 +764,232 @@
       "RXT",
       "CMRC"
     ],
-    "WYFI": [],
-    "RXT": [],
-    "GD": [],
-    "TDG": [],
-    "LHX": [],
-    "AXON": [],
-    "RKLB": [],
-    "FTAI": [],
-    "DIOD": [],
-    "POWI": [],
-    "AMBA": [],
-    "NVTS": [],
-    "MXL": [],
-    "PENG": [],
-    "APA": [],
-    "RRC": [],
-    "MTDR": [],
-    "CHRD": [],
-    "CRK": [],
-    "CNX": [],
-    "EMR": [],
-    "AME": [],
-    "ROK": [],
-    "HUBB": [],
-    "NXT": [],
-    "RRX": [],
-    "DY": []
+    "WYFI": [
+      "APLD",
+      "DOCN",
+      "FSLY",
+      "RXT",
+      "CMRC",
+      "BLZE"
+    ],
+    "RXT": [
+      "DOCN",
+      "FSLY",
+      "WYFI",
+      "CMRC",
+      "BLZE",
+      "CXDO"
+    ],
+    "GD": [
+      "BA",
+      "LMT",
+      "NOC",
+      "HWM",
+      "TDG",
+      "LHX"
+    ],
+    "TDG": [
+      "BA",
+      "LMT",
+      "NOC",
+      "HWM",
+      "GD",
+      "LHX"
+    ],
+    "LHX": [
+      "LMT",
+      "NOC",
+      "HWM",
+      "GD",
+      "TDG",
+      "AXON"
+    ],
+    "AXON": [
+      "NOC",
+      "HWM",
+      "GD",
+      "TDG",
+      "LHX",
+      "RKLB"
+    ],
+    "RKLB": [
+      "HWM",
+      "GD",
+      "TDG",
+      "LHX",
+      "AXON",
+      "HEI"
+    ],
+    "FTAI": [
+      "BCC",
+      "MGRC",
+      "DXPE",
+      "DNOW",
+      "XMTR",
+      "WLFC"
+    ],
+    "DIOD": [
+      "SLAB",
+      "ALGM",
+      "RGTI",
+      "OLED",
+      "SYNA",
+      "PI"
+    ],
+    "POWI": [
+      "RGTI",
+      "OLED",
+      "SYNA",
+      "DIOD",
+      "PI",
+      "AMBA"
+    ],
+    "AMBA": [
+      "OLED",
+      "SYNA",
+      "DIOD",
+      "PI",
+      "POWI",
+      "NVTS"
+    ],
+    "NVTS": [
+      "SYNA",
+      "DIOD",
+      "PI",
+      "POWI",
+      "AMBA",
+      "SKYT"
+    ],
+    "MXL": [
+      "PI",
+      "POWI",
+      "AMBA",
+      "NVTS",
+      "SKYT",
+      "PENG"
+    ],
+    "PENG": [
+      "POWI",
+      "AMBA",
+      "NVTS",
+      "SKYT",
+      "MXL",
+      "WOLF"
+    ],
+    "APA": [
+      "PR",
+      "OVV",
+      "VNOM",
+      "AR",
+      "RRC",
+      "MTDR"
+    ],
+    "RRC": [
+      "PR",
+      "OVV",
+      "VNOM",
+      "AR",
+      "APA",
+      "MTDR"
+    ],
+    "MTDR": [
+      "VNOM",
+      "AR",
+      "APA",
+      "RRC",
+      "CHRD",
+      "SM"
+    ],
+    "CHRD": [
+      "AR",
+      "APA",
+      "RRC",
+      "MTDR",
+      "SM",
+      "CRK"
+    ],
+    "CRK": [
+      "RRC",
+      "MTDR",
+      "CHRD",
+      "SM",
+      "CNX",
+      "CRC"
+    ],
+    "CNX": [
+      "MTDR",
+      "CHRD",
+      "SM",
+      "CRK",
+      "CRC",
+      "MGY"
+    ],
+    "EMR": [
+      "VRT",
+      "AME",
+      "ROK",
+      "HUBB",
+      "NXT",
+      "RRX"
+    ],
+    "AME": [
+      "VRT",
+      "EMR",
+      "ROK",
+      "HUBB",
+      "NXT",
+      "RRX"
+    ],
+    "ROK": [
+      "VRT",
+      "EMR",
+      "AME",
+      "HUBB",
+      "NXT",
+      "RRX"
+    ],
+    "HUBB": [
+      "VRT",
+      "EMR",
+      "AME",
+      "ROK",
+      "NXT",
+      "RRX"
+    ],
+    "NXT": [
+      "VRT",
+      "EMR",
+      "AME",
+      "ROK",
+      "HUBB",
+      "RRX"
+    ],
+    "RRX": [
+      "EMR",
+      "AME",
+      "ROK",
+      "HUBB",
+      "NXT",
+      "GNRC"
+    ],
+    "DY": [
+      "EME",
+      "MTZ",
+      "APG",
+      "STRL",
+      "ACM",
+      "VMI"
+    ],
+    "CBOE": [
+      "MCO",
+      "COIN",
+      "NDAQ",
+      "MSCI",
+      "TW",
+      "FDS"
+    ],
+    "FDS": [],
+    "MORN": []
   },
   "candidates": {
     "ACM": [
@@ -845,6 +1051,13 @@
     "COPX": [],
     "SPOT": [],
     "AAPL": [],
-    "TW": []
+    "TW": [
+      "COIN",
+      "NDAQ",
+      "MSCI",
+      "CBOE",
+      "FDS",
+      "MORN"
+    ]
   }
 }

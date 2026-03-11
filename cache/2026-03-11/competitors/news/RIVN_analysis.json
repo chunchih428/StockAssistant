@@ -1,0 +1,65 @@
+{
+  "ticker": "RIVN",
+  "company": "Rivian Automotive",
+  "analysis_date": "2026-03-08",
+  "source_file": "cache/2026-03-08/competitors/news/RIVN.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "Rivian 透過策略性合作與技術展示，持續強化其在電動車生態系與電網整合的市場地位。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Here's Why Rivian (RIVN) Stock Is a Buy Before March 12",
+      "publisher": "Motley Fool",
+      "date": "2026-03-06",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析師看好 3 月 12 日前的潛在催化劑，認為市場低估了 Rivian 的成長潛力，建議投資人提前布局。"
+    },
+    {
+      "rank": 2,
+      "title": "EnergyHub Partnership on Grid-Aware EV Charging Might Change The Case For Investing In Rivian (RIVN)",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-07",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 EnergyHub 的合作將提升其電網感知充電技術，有助於擴大 Rivian 在能源管理領域的競爭優勢，提升長期投資價值。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Rivian Automotive, Inc. (RIVN) Presents at Morgan Stanley Technology, Media & Telecom Conference 2026 Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-05",
+      "impact": "low",
+      "category": "法說會與會議",
+      "reason": "公司於摩根士丹利科技媒體電信會議中說明營運近況，內容多為例行性業務更新，未出現重大轉折性消息。"
+    },
+    {
+      "rank": 2,
+      "title": "Rivian Automotive, Inc. (RIVN) Presents at J.P. Morgan 2026 Global Leveraged Finance Conference Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-03",
+      "impact": "low",
+      "category": "法說會與會議",
+      "reason": "於摩根大通槓桿融資會議中說明財務策略，主要針對債務結構與資金運用進行說明，屬於常規財務溝通。"
+    },
+    {
+      "rank": 3,
+      "title": "Spotlight on Rivian Automotive: Analyzing the Surge in Options Activity",
+      "publisher": "Benzinga",
+      "date": "2026-03-03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出選擇權交易量激增，反映市場情緒波動，但未涉及公司基本面變動，僅為技術面與籌碼面觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

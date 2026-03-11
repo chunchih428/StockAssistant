@@ -1,0 +1,56 @@
+{
+  "ticker": "CXT",
+  "company": "Crane NXT",
+  "analysis_date": "2026-03-08",
+  "source_file": "cache/2026-03-08/competitors/news/CXT.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 0,
+    "bearish_count": 3,
+    "neutral_count": 2,
+    "overall_sentiment": "bearish",
+    "key_theme": "受貿易緊張局勢與獲利展望下調影響，機構投資人對 CXT 的短期成長動能持保守態度。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Crane NXT, Co. (CXT) Drops as Trade Tensions and Outlook Cut Weigh",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 23:29",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Invesco Ltd 在 Q4 2025 投資信中指出，貿易緊張局勢加劇以及公司獲利展望遭下調，直接對股價造成下行壓力，此為目前最核心的利空因素。"
+    },
+    {
+      "rank": 2,
+      "title": "Here’s What Weighing on Crane NXT (CXT)",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-02 16:21",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "SouthernSun Asset Management 在其小型股策略報告中明確指出壓抑 CXT 股價的負面因素，該報導涵蓋了機構投資人對公司基本面的擔憂，具備指標性意義。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Do Options Traders Know Something About Crane NXT Stock We Don't?",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 03:57",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "選擇權市場的異常波動通常暗示市場對未來股價走勢存在分歧，雖未明確指向利多或利空，但提醒投資人需密切關注資金流向。"
+    },
+    {
+      "rank": 2,
+      "title": "Assessing Crane NXT (CXT) Valuation After Recent Mixed Share Price Performance",
+      "publisher": "Yahoo",
+      "date": "2026-03-04 11:13",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "針對近期 US$ 48.17 的收盤價進行估值評估，屬於中性的市場回顧，旨在分析股價波動後的合理性，並未提供新的基本面利多或利空訊息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

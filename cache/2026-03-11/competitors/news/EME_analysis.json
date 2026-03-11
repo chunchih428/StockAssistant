@@ -1,0 +1,93 @@
+{
+  "ticker": "EME",
+  "company": "EMCOR",
+  "analysis_date": "2026-03-08",
+  "source_file": "cache/2026-03-08/competitors/news/EME.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 6,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "EMCOR Group 憑藉強勁的 2025 年財報與 2026 年財測上調，獲得分析師調升目標價，儘管股價短期波動，但基本面成長動能強勁。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "How Investors Are Reacting To EMCOR Group (EME) Raising 2026 Guidance After Strong 2025 Results",
+      "publisher": "Yahoo",
+      "date": "2026-03-08 05:12",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司公布 2025 年第四季營收達 45.13 億美元，並上調 2026 年財測，顯示業務成長動能優於預期，為股價提供強勁支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "UBS Maintains Buy on EMCOR Group, Raises Price Target to $945",
+      "publisher": "Benzinga",
+      "date": "2026-03-06 23:12",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "瑞銀 (UBS) 分析師 Avinatan Jaroslawicz 維持買入評級，並將目標價大幅調升至 945 美元，反映市場對其長期獲利能力的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "EMCOR's Electrical Segment Surges in Q4: Structural Upside?",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 01:36",
+      "impact": "medium",
+      "category": "營運分析",
+      "reason": "電氣部門營收年增 45.8% 達 13.6 億美元，且積壓訂單 (RPO) 高達 44.6 億美元，預示未來獲利結構將持續優化。"
+    },
+    {
+      "rank": 4,
+      "title": "Stifel Maintains Buy on EMCOR Group, Raises Price Target to $814",
+      "publisher": "Benzinga",
+      "date": "2026-03-03 21:52",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Stifel 分析師 Brian Brophy 將目標價從 754 美元調升至 814 美元，顯示專業機構對其成長前景的一致看好。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Emcor Group (EME) Dips More Than Broader Market: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 06:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 2.95%，主要反映市場在經歷長期漲勢後的獲利了結賣壓，屬於技術性修正而非基本面惡化。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "EMCOR Group, Inc. Announces Participation in Upcoming Investor Event",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 22:31",
+      "impact": "low",
+      "category": "公司活動",
+      "reason": "公司宣布參與投資人活動，屬於例行性投資人關係事務，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Trending Stock EMCOR Group, Inc. (EME) a Buy Now?",
+      "publisher": "Yahoo",
+      "date": "2026-03-03 22:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章僅為針對熱門股的技術性分析與討論，未提供新的實質財務數據或重大消息。"
+    },
+    {
+      "rank": 3,
+      "title": "EMCOR Record Revenues And S&P 500 Debut Raise Valuation Questions",
+      "publisher": "Yahoo",
+      "date": "2026-03-02 08:22",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "探討公司在納入 S&P 500 指數後的估值合理性，雖然提及收購 Miller Electric 的擴張，但對高估值風險持保留態度。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,120 @@
+{
+  "ticker": "SO",
+  "company": "Southern Company",
+  "analysis_date": "2026-03-10",
+  "source_file": "cache/2026-03-10/competitors/news/SO.json",
+  "summary": {
+    "total_articles": 11,
+    "bullish_count": 5,
+    "bearish_count": 1,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "華爾街分析師近期密集上調 Southern Company 的評級與目標價，反映市場對其長期成長潛力與營運穩定性的高度信心。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "TD Cowen Maintains Buy on Southern, Raises Price Target to $112",
+      "publisher": "Benzinga",
+      "date": "2026-03-06 20:45",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Shelby Tucker 將目標價從 $108 上調至 $112，顯示對公司未來獲利能力的看好，直接推升市場信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Evercore ISI Group Upgrades Southern to Outperform, Raises Price Target to $111",
+      "publisher": "Benzinga",
+      "date": "2026-03-05 18:42",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Nicholas Amicucci 將評級從 In-Line 上調至 Outperform，顯示該機構認為 Southern 的表現將優於大盤。"
+    },
+    {
+      "rank": 3,
+      "title": "Southern’s Record US$26.5b DOE Loan And What It Means For Valuation",
+      "publisher": "Simply Wall St.",
+      "date": "2026-02-27 05:11",
+      "impact": "medium",
+      "category": "財務融資",
+      "reason": "獲得美國能源部 265 億美元的創紀錄貸款，顯著降低了公司的資本成本，為長期基礎設施建設提供強大資金支持。"
+    },
+    {
+      "rank": 4,
+      "title": "Keybanc Upgrades Southern to Sector Weight",
+      "publisher": "Benzinga",
+      "date": "2026-03-04 15:36",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "將評級從 Underweight 上調至 Sector Weight，代表分析師對該股的負面看法已消除，轉向中性偏多。"
+    },
+    {
+      "rank": 5,
+      "title": "How Investors Are Reacting To Southern (SO) Analyst Upgrades And A Key Leadership Appointment",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 09:12",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "Mississippi Power 任命 Fredie Carmichael 為副總裁，顯示公司內部管理層結構調整，有助於區域業務穩定。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Is Southern Company Stock Underperforming the S&P 500?",
+      "publisher": "Barchart",
+      "date": "2026-02-27 11:49",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討股價相對於 S&P 500 指數的表現，若長期落後大盤可能引發部分追求成長型投資人的賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Southern Stock: A Deep Dive Into Analyst Perspectives (13 Ratings)",
+      "publisher": "Benzinga",
+      "date": "2026-03-06 22:01",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "彙整 13 位分析師的綜合觀點，提供市場對該股的共識評級，屬於資訊整理性質。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Southern (SO) Still Attractively Priced After Strong Multi Year Share Gains?",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 14:13",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對股價長期上漲後的估值合理性進行討論，提醒投資人關注獲利回吐風險。"
+    },
+    {
+      "rank": 3,
+      "title": "What Does the Market Think About Southern Co?",
+      "publisher": "Benzinga",
+      "date": "2026-03-04 20:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場情緒概覽，未提供具體利多或利空消息，僅為市場關注度分析。"
+    },
+    {
+      "rank": 4,
+      "title": "Evercore ISI Group Upgrades Southern (SO)",
+      "publisher": "Fintel",
+      "date": "2026-03-06 08:03",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "重複報導 Evercore ISI 的評級上調，作為資訊更新，無額外分析價值。"
+    },
+    {
+      "rank": 5,
+      "title": "Keybanc Upgrades Southern (SO)",
+      "publisher": "Fintel",
+      "date": "2026-03-05 08:03",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "重複報導 Keybanc 的評級上調，僅為數據同步。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

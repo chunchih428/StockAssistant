@@ -1,0 +1,93 @@
+{
+  "ticker": "MORN",
+  "company": "Morningstar",
+  "analysis_date": "2026-03-11",
+  "source_file": "cache/2026-03-11/competitors/news/MORN.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Morningstar 積極推動 AI 技術整合至核心諮詢平台，並透過學術合作與 ESG 業務擴張強化市場領導地位。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Morningstar Introduces AI Assistant Built into the Advisor Workflow",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 12:30",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "將 AI 助手嵌入旗艦平台 Direct Advisory Suite，有助於提升金融專業人士的工作效率，增強產品競爭力與客戶黏著度。此處彙整了多篇關於 AI 助手發布的報導，選定此篇作為代表，因其詳細說明了技術整合的具體應用場景。"
+    },
+    {
+      "rank": 2,
+      "title": "Morningstar Expands ESG Data And Retirement Platforms With New Leadership",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 03:14",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "透過高層人事異動與 ESG 數據調查，顯示公司在關鍵成長領域（ESG 與退休規劃）的持續投入，有助於鞏固其在資產管理諮詢領域的市佔率。"
+    },
+    {
+      "rank": 3,
+      "title": "Morningstar Contributes Nearly $5 Million to University of Illinois Gies College of Business",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 13:00",
+      "impact": "low",
+      "category": "企業社會責任",
+      "reason": "捐贈 500 萬美元予伊利諾大學，雖屬慈善行為，但有助於提升品牌形象並與學術界建立人才連結，長期來看對企業聲譽有正面影響。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Morningstar, Intercontinental Exchange, and Fiserv Stocks Trade Down",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 23:21",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受資產管理產業整體情緒低迷影響，市場對該產業風險的擔憂導致股價短期承壓，屬於系統性風險而非公司基本面惡化。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Morningstar Unveils Agenda for 2026 Morningstar Investment Conference",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 12:00",
+      "impact": "low",
+      "category": "活動公告",
+      "reason": "公布年度投資大會議程屬於例行性企業活動，對股價影響有限，主要反映公司持續經營的常態。"
+    },
+    {
+      "rank": 2,
+      "title": "How to bust myths about private investments, per Morningstar",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 20:06",
+      "impact": "low",
+      "category": "研究報告",
+      "reason": "發布關於私募資產的研究報告，展現公司專業研究能力，但屬於日常業務產出，對股價無直接驅動作用。"
+    },
+    {
+      "rank": 3,
+      "title": "Morningstar Launches AI Assistant for Flagship Platform",
+      "publisher": "Wealth Management",
+      "date": "2026-03-09 10:00",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "此為與上述 AI 助手發布相關的重複報導，僅作為資訊補充，未提供額外影響股價的關鍵資訊。"
+    },
+    {
+      "rank": 4,
+      "title": "Morningstar Launches AI Assistant for Flagship Platform",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 10:00",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "此為與上述 AI 助手發布相關的重複報導，未提供額外影響股價的關鍵資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

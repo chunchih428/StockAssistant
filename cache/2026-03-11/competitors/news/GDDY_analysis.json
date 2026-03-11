@@ -1,0 +1,75 @@
+{
+  "ticker": "GDDY",
+  "company": "GoDaddy",
+  "analysis_date": "2026-03-11",
+  "source_file": "cache/2026-03-11/competitors/news/GDDY.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "neutral",
+    "key_theme": "市場對 GoDaddy 的估值與成長前景存在分歧，儘管近期財報表現穩健，但面臨法律調查風險與分析師下調目標價的壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "GoDaddy (GDDY) Is Up 7.8% After Discounted .coms Hit 2026 Outlook And Spur Legal Probe – Has The Bull Case Changed?",
+      "publisher": "Yahoo",
+      "date": "2026-03-08 15:09",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "公司 2025 年第四季營收達 12.7 億美元，顯示核心業務成長動能強勁，且 .com 折扣策略成功達成 2026 年展望，為股價提供基本面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Is GoDaddy (GDDY) Pricing Look Attractive After Recent Share Price Pullback",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 04:11",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討股價回調後的投資價值，認為當前市場價格可能低於內在價值，吸引價值型投資人關注。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "B. Riley Cuts Target Price on Go Daddy (GDDY) to $215",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-02 14:48",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "B. Riley 下調目標價反映了對公司未來獲利成長空間的保守預期，對市場信心造成短期負面影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Evercore ISI Lowers its Price Target on GoDaddy Inc. (GDDY) to $95 and Maintains an In Line Rating",
+      "publisher": "Yahoo",
+      "date": "2026-03-04 05:48",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Evercore ISI 將目標價下調至 95 美元，儘管維持中立評級，但大幅下調目標價顯示分析師對其估值溢價的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "GoDaddy’s Alexandra Rosen Reveals Small Business Outlook for 2026",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 16:24",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "高層 Alexandra Rosen 分享 2026 年小企業展望，屬於例行性的產業趨勢分析，未直接涉及公司財務變動。"
+    },
+    {
+      "rank": 2,
+      "title": "What Small Businesses Tell Us About the Economy That Wall Street Can't",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 14:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "基於 GoDaddy 小企業研究實驗室的數據分析，提供宏觀經濟洞察，對公司股價影響間接且有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
