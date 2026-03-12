@@ -1,0 +1,74 @@
+{
+  "ticker": "RIVN",
+  "company": "Rivian Automotive",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/RIVN.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 4,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 R2 SUV 車型發布的強勁需求預期，以及分析師調升評級與目標價，共同推動了 Rivian 的股價上漲。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Rivian Stock Jumps As Analyst Sees Massive Demand For Upcoming R2",
+      "publisher": "Benzinga",
+      "date": "2026-03-10 10:59",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "分析師看好 R2 SUV 的市場需求，直接導致股價單日上漲 9.45 %，是近期最強勁的利多訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "TD Cowen Upgrades Rivian Automotive to Buy, Raises Price Target to $20",
+      "publisher": "Benzinga",
+      "date": "2026-03-10 06:40",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "TD Cowen 分析師 Itay Michaeli 將評級從「持有」調升至「買入」，並將目標價上調至 20 美元，顯示專業機構對其基本面轉趨樂觀。"
+    },
+    {
+      "rank": 3,
+      "title": "Rivian: R2 Launch And Technology Advances Create A Long-Term Opportunity",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-10 13:00",
+      "impact": "medium",
+      "category": "產業分析",
+      "reason": "文章指出 R2 車型發布、RAP1 AI 自動駕駛技術以及與 Volkswagen 的合資企業是推動長期利潤率擴張與成長的關鍵驅動力。"
+    },
+    {
+      "rank": 4,
+      "title": "This CrowdStrike Analyst Turns Bullish; Here Are Top 5 Upgrades For Tuesday",
+      "publisher": "Benzinga",
+      "date": "2026-03-10 08:32",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "將 Rivian 列入週二前 5 大升級名單，進一步強化了市場對該股的正面情緒氛圍。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "16 Analysts Assess Rivian Automotive: What You Need To Know",
+      "publisher": "Benzinga",
+      "date": "2026-03-10 08:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "彙整了 16 位分析師的綜合評估，屬於市場資訊整理，提供投資人多空觀點的平衡參考。"
+    },
+    {
+      "rank": 2,
+      "title": "Rivian Automotive, Inc. (RIVN) Presents at Morgan Stanley Technology, Media & Telecom Conference 2026 Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-05 15:46",
+      "impact": "low",
+      "category": "公司會議",
+      "reason": "公司參與摩根士丹利科技媒體電信大會的會議紀錄，屬於例行性投資人關係活動，未有突發性重大影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

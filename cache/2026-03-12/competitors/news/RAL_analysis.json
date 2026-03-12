@@ -1,0 +1,37 @@
+{
+  "ticker": "RAL",
+  "company": "Ralliant",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/RAL.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "股東積極主義推動資本配置優化，且市場估值顯示股價具備折價吸引力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Irenic Capital Management Asks Increased Share Buy-Backs from Ralliant Corporation (RAL)",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-04",
+      "impact": "high",
+      "category": "股東行動主義",
+      "reason": "Irenic Capital Management 作為積極型投資人，要求 Ralliant 增加股票回購規模，此舉通常被市場視為管理層對公司未來現金流有信心，且能直接提升每股盈餘 (EPS) 及股東權益報酬率。"
+    },
+    {
+      "rank": 2,
+      "title": "Assessing Ralliant (RAL) Valuation As Shares Trade Near An Estimated 8.4% Discount To Fair Value",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-03",
+      "impact": "medium",
+      "category": "市場估值",
+      "reason": "根據估值模型分析，RAL 目前股價較公允價值折價約 8.4 %，顯示市場可能低估了公司的內在價值，為價值型投資人提供潛在的買入安全邊際。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,84 @@
+{
+  "ticker": "DY",
+  "company": "Dycom Industries",
+  "analysis_date": "2026-03-11",
+  "source_file": "cache/2026-03-11/competitors/news/DY.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 13,
+    "bearish_count": 2,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司憑藉強勁的第 4 季財報表現與 95 億美元的積壓訂單，獲得多家投行上調目標價，儘管近期因發行證券註冊說明書引發市場對稀釋股權的擔憂，但整體基本面成長動能依然強勁。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Dycom Caps Record Year With $9.5 Billion Backlog",
+      "publisher": "Benzinga",
+      "date": "2026-03-04 13:31",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第 4 季營收與獲利雙雙優於預期，且積壓訂單高達 95 億美元，顯示未來營收能見度極高，為股價提供強大支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "B. Riley Securities Maintains Buy on Dycom Industries, Raises Price Target to $485",
+      "publisher": "Benzinga",
+      "date": "2026-03-05 13:37",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "B. Riley 基於公司強勁的成長動能，將目標價大幅上調至 485 美元，反映市場對其長期獲利能力的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Keybanc Maintains Overweight on Dycom Industries, Raises Price Target to $482",
+      "publisher": "Benzinga",
+      "date": "2026-03-05 09:29",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Keybanc 維持加碼評級並上調目標價，認可公司在電信基礎設施領域的市場領導地位。"
+    },
+    {
+      "rank": 4,
+      "title": "Cantor Fitzgerald Initiates Coverage of Dycom Industries (DY) with Overweight Recommendation",
+      "publisher": "Fintel",
+      "date": "2026-03-11 00:03",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "新券商 Cantor Fitzgerald 給予加碼評級，顯示機構投資人對該股後市看好。"
+    },
+    {
+      "rank": 5,
+      "title": "Dycom Expands With Power Solutions As Data Center Backlog Underpins Valuation",
+      "publisher": "Yahoo",
+      "date": "2026-03-08 02:06",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "透過收購 Power Solutions 強化資料中心建設能力，直接受惠於 AI 與雲端基礎設施的龐大需求。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Dycom Industries Files Shelf Prospectus For Offering Of Securities",
+      "publisher": "Benzinga",
+      "date": "2026-03-05 18:28",
+      "impact": "medium",
+      "category": "股權融資",
+      "reason": "公司提交證券註冊說明書，市場擔憂未來可能進行股權稀釋，導致股價短期出現回調壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Abercrombie & Fitch, Ross Stores And 3 Stocks To Watch Heading Into Wednesday",
+      "publisher": "Benzinga",
+      "date": "2026-03-04 05:31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為財報發布前的市場觀察清單，未對公司基本面產生實質影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

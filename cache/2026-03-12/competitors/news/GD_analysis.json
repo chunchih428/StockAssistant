@@ -1,0 +1,111 @@
+{
+  "ticker": "GD",
+  "company": "General Dynamics",
+  "analysis_date": "2026-03-11",
+  "source_file": "cache/2026-03-11/competitors/news/GD.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 6,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司憑藉強勁的國防合約與穩健的股利增長政策，展現出長期價值投資的吸引力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "General Dynamics Raises Quarterly Dividend From $1.50 To 1.59/Share",
+      "publisher": "Benzinga",
+      "date": "2026-03-09 15:09",
+      "impact": "high",
+      "category": "股利政策",
+      "reason": "公司宣布將季度股利從 1.50 美元提升至 1.59 美元，直接反映管理層對現金流的信心，對長期投資人具高度吸引力。"
+    },
+    {
+      "rank": 2,
+      "title": "General Dynamics Submarine Contracts Shape Long Cycle Defense And Valuation Story",
+      "publisher": "Yahoo",
+      "date": "2026-03-07 10:07",
+      "impact": "medium",
+      "category": "合約獲取",
+      "reason": "強調海軍潛艦計畫的長期合約支撐了公司未來營收的能見度，是支撐估值的核心基本面因素。"
+    },
+    {
+      "rank": 3,
+      "title": "General Dynamics Valuation Check After Recent Share Price Pullback And 9.9% Undervaluation Estimate",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-11 00:17",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析指出股價回調後存在 9.9% 的折價空間，為價值型投資人提供進場機會。"
+    },
+    {
+      "rank": 4,
+      "title": "General Dynamics: Inexpensive Defense Leader",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-04 09:10",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "將 GD 定位為國防產業中估值相對便宜的領導者，強化市場對其防禦性資產的認同。"
+    },
+    {
+      "rank": 5,
+      "title": "Cadre Holdings Subsidiary Awarded $86.4M Contracts By General Dynamics European Land Systems",
+      "publisher": "Benzinga",
+      "date": "2026-03-10 07:46",
+      "impact": "low",
+      "category": "供應鏈動態",
+      "reason": "雖然是供應商獲利，但顯示 General Dynamics 在歐洲陸地系統業務的持續投入與擴張。"
+    },
+    {
+      "rank": 6,
+      "title": "General Dynamics Leads 5 Stocks Near Buy Points Amid Iran War Sell-Off",
+      "publisher": "Yahoo",
+      "date": "2026-03-07 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "在地緣政治緊張時期，國防股通常被視為避險資產，技術面顯示其接近買入點。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "General Dynamics (GD) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 23:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日下跌 1.48%，表現弱於大盤，顯示短期內存在獲利了結或市場情緒波動的壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "General Dynamics (GD): Buy, Sell, or Hold Post Q4 Earnings?",
+      "publisher": "Yahoo",
+      "date": "2026-03-04 10:54",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "儘管過去表現優異，但市場開始討論財報後的持股策略，存在漲多後的修正疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "General Dynamics Board Declares Dividend",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 19:00",
+      "impact": "low",
+      "category": "股利政策",
+      "reason": "此為例行性股利宣告，已包含在上述調升股利的利多消息中，故視為中性資訊。"
+    },
+    {
+      "rank": 2,
+      "title": "Will Surging Marine Systems Backlog and Beat Q4 EPS Change General Dynamics' (GD) Narrative?",
+      "publisher": "Yahoo",
+      "date": "2026-03-04 00:23",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "回顧 Q4 每股盈餘 4.17 美元優於預期，屬於已反應的歷史數據，對當前股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

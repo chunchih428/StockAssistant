@@ -1,0 +1,110 @@
+{
+  "ticker": "COIN",
+  "company": "Coinbase",
+  "analysis_date": "2026-03-08",
+  "source_file": "cache/2026-03-08/holdings/news/COIN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 0,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "Coinbase 執行長 Brian Armstrong 與川普總統的會面及川普對加密貨幣法案的公開支持，顯著提升了市場對公司政策環境改善的預期。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Coinbase Global (COIN) Climbs 14.6% on CEO-Trump Meet, Crypto Backing",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 08:49",
+      "impact": "high",
+      "category": "政策利多",
+      "reason": "報導詳細說明了執行長 Brian Armstrong 與川普會面後的市場正面反應，股價單日漲幅達 14.6 %，為近期最強勁的催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Coinbase leads crypto stocks higher after Trump signals support for digital asset market structure bill",
+      "publisher": "CNBC",
+      "date": "2026-03-04 18:19",
+      "impact": "high",
+      "category": "法規進展",
+      "reason": "川普明確表態支持數位資產市場結構法案，直接消除了 Coinbase 在監管層面的重大不確定性，推動股價上漲 12 %。"
+    },
+    {
+      "rank": 3,
+      "title": "Coinbase Teams Up With The White House Against Wall Street",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 06:06",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "川普在 Truth Social 上對銀行業的批評以及對 CLARITY 法案的推動，被視為 Coinbase 在與傳統金融機構競爭中的重大政治勝利。"
+    },
+    {
+      "rank": 4,
+      "title": "Coinbase CEO: The business of crypto has 'never been stronger'",
+      "publisher": "Yahoo",
+      "date": "2026-03-04 21:18",
+      "impact": "medium",
+      "category": "公司營運",
+      "reason": "執行長 Brian Armstrong 的正面表態強化了投資人對公司基本面與加密貨幣產業成長動能的信心。"
+    },
+    {
+      "rank": 5,
+      "title": "Crypto Stocks Jump As Bitcoin Reclaims $70K",
+      "publisher": "Benzinga",
+      "date": "2026-03-04 17:22",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "比特幣重回 7 萬美元大關，作為加密貨幣交易所龍頭，Coinbase 的交易量與營收預期直接受惠於市場行情回溫。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Coinbase Global, Inc. (COIN) Among ARK Invest’s Top Stock Picks for 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-03-07 20:09",
+      "impact": "low",
+      "category": "投資組合",
+      "reason": "僅提及 ARK Invest 的持倉狀況，屬於長期投資觀點，對短期股價波動影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Price Action Weighed on Coinbase Global’s (COIN) Performance in Q4",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 21:45",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "回顧性分析第四季績效，屬於歷史數據回顧，對當前市場情緒影響較小。"
+    },
+    {
+      "rank": 3,
+      "title": "Ripple Offers Clients Access To Coinbase Derivatives Contracts Cleared By Nodal Clear",
+      "publisher": "Benzinga",
+      "date": "2026-03-05 18:13",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "屬於業務合作層面的技術性擴展，雖有助於長期營收，但對短期股價刺激作用較弱。"
+    },
+    {
+      "rank": 4,
+      "title": "Stocks making the biggest moves midday: Coinbase, CoreWeave, KKR, Moderna, Brown-Forman & more",
+      "publisher": "CNBC",
+      "date": "2026-03-04 21:05",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為盤中波動的例行性報導，未提供新的基本面分析。"
+    },
+    {
+      "rank": 5,
+      "title": "Stocks to Watch Wednesday Recap: Coinbase, Meta, Gitlab, Bath & Body Works",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 06:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場盤後總結報導，屬於資訊整理性質，不具備新的投資建議或影響力。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,101 @@
+{
+  "ticker": "PINS",
+  "company": "Pinterest",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/PINS.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 6,
+    "bearish_count": 0,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Elliott Investment Management 投入 10 億美元資金並推動庫藏股計畫，成為市場關注焦點與股價主要驅動力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Activist Elliott Invests $1 Billion in Pinterest",
+      "publisher": "The Wall Street Journal",
+      "date": "2026-03-04",
+      "impact": "high",
+      "category": "股權投資",
+      "reason": "選擇此篇作為代表，因為 WSJ 報導了 Elliott Investment Management 投入 10 億美元的確切消息，此舉通常被視為對公司治理與未來價值的強力背書。"
+    },
+    {
+      "rank": 2,
+      "title": "Pinterest Buyback Bet Rises With Elliott Investment And Activist Influence",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-04",
+      "impact": "medium",
+      "category": "資本配置",
+      "reason": "分析了 Elliott 介入後可能推動的庫藏股計畫，這對股東權益報酬率有正面預期。"
+    },
+    {
+      "rank": 3,
+      "title": "Elliott Goes Pinning, Pinterest Goes Up",
+      "publisher": "Moby",
+      "date": "2026-03-04",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "反映了市場對 Elliott 投資消息的直接正面反應，推動股價上漲。"
+    },
+    {
+      "rank": 4,
+      "title": "A $1 Billion Reason to Buy Pinterest Stock Now",
+      "publisher": "Yahoo",
+      "date": "2026-03-05",
+      "impact": "medium",
+      "category": "投資建議",
+      "reason": "基於大額資金注入的利多消息，建議投資人重新評估該檔被低估的股票。"
+    },
+    {
+      "rank": 5,
+      "title": "Is Pinterest a Buy After a Billionaire Activist Pours $1 Billion Into the Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-03-10",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "針對億萬富翁投資人進場後的投資價值進行探討，確認市場對此事件的持續關注。"
+    },
+    {
+      "rank": 6,
+      "title": "Elliott’s Pinterest Investment And Buyback Put Valuation In Spotlight",
+      "publisher": "Yahoo",
+      "date": "2026-03-06",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "強調 Elliott 透過可轉換優先票據進行投資，將使市場重新審視 Pinterest 的估值水平。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Rosenblatt Reiterates Neutral Rating on Pinterest, Inc. (PINS) With $20 PT Amid Broader Software Weakness",
+      "publisher": "Yahoo",
+      "date": "2026-03-10",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "儘管有 AI 題材加持，但 Rosenblatt 基於軟體產業整體疲軟，維持中立評級與 20 美元目標價。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Pinterest (PINS) A Potential Opportunity After A 45% One Year Share Price Slide",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-04",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "客觀分析過去一年股價下跌 45 % 的背景，探討是否為潛在機會，態度持平。"
+    },
+    {
+      "rank": 3,
+      "title": "Here is What to Know Beyond Why Pinterest, Inc. (PINS) is a Trending Stock",
+      "publisher": "Yahoo",
+      "date": "2026-03-05",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅指出該股近期成為熱門搜尋標的，並未給予明確的買賣方向建議。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

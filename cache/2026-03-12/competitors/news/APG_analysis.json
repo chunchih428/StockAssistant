@@ -1,0 +1,57 @@
+{
+  "ticker": "APG",
+  "company": "APi Group",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/APG.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "APi Group 憑藉強勁的財報表現與併購策略驅動成長，儘管股價經歷大幅上漲後引發估值調整的討論，但市場仍看好其長期 EPS 成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "APi Group’s Record Q3 Underscores Inspection Growth And Acquisition-Led Expansion",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 14:12",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司公布創紀錄的第三季財報，顯示其核心檢測業務成長強勁，且透過併購策略成功擴大市場版圖，營運執行力獲得市場高度肯定。"
+    },
+    {
+      "rank": 2,
+      "title": "What Offers Api Group Corp. (APG) a Long Runway for Double-Digit EPS Growth?",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-04",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析指出 APG 具備長期雙位數每股盈餘 (EPS) 成長的潛力，主要歸功於其穩健的商業模式與持續的市場擴張能力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Janus, APi, AGCO, WESCO, and Bel Fuse Shares Are Falling, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-03",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出 APG 股價出現下跌，反映了短期市場賣壓或板塊輪動影響，投資人需關注短期技術性回調風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Time To Reassess APi Group (APG) After A 75% One Year Rally?",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 04:33",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "在股價一年內上漲 75% 後，市場開始討論其估值是否過高，此類文章旨在提醒投資人重新評估風險與價值，屬於中性的觀望態度。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

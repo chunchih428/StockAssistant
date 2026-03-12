@@ -1,0 +1,37 @@
+{
+  "ticker": "XEL",
+  "company": "Xcel Energy",
+  "analysis_date": "2026-03-10",
+  "source_file": "cache/2026-03-10/competitors/news/XEL.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司透過與 Google 合作部署大規模儲能系統及延長風力發電合約，持續強化再生能源布局與電網穩定性。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "World’s ‘largest’ grid battery part of Google-Xcel Energy agreement — Form Energy will supply iron-air batteries for the 300 MW/30 GWh deployment",
+      "publisher": "Yahoo",
+      "date": "2026-03-04 11:26",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "Xcel Energy 與 Google 合作部署 300 MW / 30 GWh 的鐵空氣電池儲能系統，此舉將顯著提升電網韌性，並展現公司在能源轉型與技術創新上的領先地位，有利於長期 ESG 評級與營運穩定。"
+    },
+    {
+      "rank": 2,
+      "title": "Xcel Energy (XEL) and Avangrid Extend Power Purchase Agreement for 150MW Wind Project",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-10 00:14",
+      "impact": "medium",
+      "category": "合約簽署",
+      "reason": "公司延長與 Avangrid 的 150 MW 風力發電購電協議，確保了長期再生能源供應的穩定性，有助於維持穩定的營收現金流並符合監管機構的減碳要求。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

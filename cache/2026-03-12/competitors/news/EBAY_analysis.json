@@ -1,0 +1,84 @@
+{
+  "ticker": "EBAY",
+  "company": "eBay",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/EBAY.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "eBay 透過擴大與 Klarna 的合作及 AI 支付整合強化市場競爭力，儘管面臨裁員重組，但分析師仍看好其長期估值並上調目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Citigroup Maintains Buy on eBay, Raises Price Target to $114",
+      "publisher": "Benzinga",
+      "date": "2026-03-06 12:13",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "花旗分析師 Ronald Josey 將 eBay 目標價從 107 美元上調至 114 美元，反映出市場對其業務轉型與獲利能力的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "eBay Ties Klarna Resale Expansion To Live Shopping And SNL UK",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 10:10",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "eBay 將與 Klarna 的轉售合作擴展至 6 個國際市場，有助於提升跨境電商市佔率及用戶黏著度，選此篇作為代表是因為其涵蓋了最新的國際擴張細節。"
+    },
+    {
+      "rank": 3,
+      "title": "Klarna Taps Stripe And eBay To Deepen AI Checkout And Resale Reach",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 19:07",
+      "impact": "medium",
+      "category": "技術合作",
+      "reason": "透過整合 Stripe 的 AI 支付解決方案，eBay 能夠優化結帳體驗，進一步提升轉換率，此舉強化了其在電商領域的技術競爭力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "eBay to cut around 800 roles amid restructuring drive",
+      "publisher": "Retail Insight Network",
+      "date": "2026-03-03 11:45",
+      "impact": "medium",
+      "category": "企業重組",
+      "reason": "裁員 800 人顯示公司正進行大規模重組，雖然短期內可降低營運成本，但亦反映出核心業務成長放緩的壓力與組織調整的不確定性。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Assessing eBay (EBAY) Valuation After Depop Acquisition And Workforce Reallocation",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-04 02:09",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "文章針對 Depop 收購案與裁員後的估值進行綜合評估，提供中立的財務觀點，未有明確的買進或賣出建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Analyst Expectations For eBay's Future",
+      "publisher": "Benzinga",
+      "date": "2026-03-06 14:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "彙整分析師對 eBay 未來展望的看法，屬於市場預期整理，未對股價產生直接的催化作用。"
+    },
+    {
+      "rank": 3,
+      "title": "If You Invested $1000 in eBay a Decade Ago, This is How Much It'd Be Worth Now",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 13:30",
+      "impact": "low",
+      "category": "投資回顧",
+      "reason": "回顧過去十年的投資報酬表現，屬於歷史數據分析，對當前股價走勢影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

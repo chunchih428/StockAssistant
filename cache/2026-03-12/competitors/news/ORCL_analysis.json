@@ -1,0 +1,75 @@
+{
+  "ticker": "ORCL",
+  "company": "Oracle",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/ORCL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 1,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "Oracle 第三季財報表現亮眼，雲端基礎設施業務受惠於 AI 需求強勁成長，帶動股價顯著上漲。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Oracle stock spikes 12% as strong Q3 earnings answer Wall Street AI buildout concerns",
+      "publisher": "CNBC",
+      "date": "2026-03-11 10:30",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "Oracle 第三季財報優於預期，且雲端基礎設施成長 84%，有效緩解市場對其 AI 資本支出效益的擔憂，為股價上漲主要驅動力。"
+    },
+    {
+      "rank": 2,
+      "title": "Oracle Price Prediction: One Wall Street Analyst Says ORCL Could Hit $240 This Year",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 16:26",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師給出 $240 的目標價，顯示市場對其在 AI 領域的長期競爭力與股價回升潛力持高度樂觀態度。"
+    },
+    {
+      "rank": 3,
+      "title": "Trade Tracker: Bill Baruch buys more Oracle",
+      "publisher": "CNBC",
+      "date": "2026-03-10 13:02",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "知名投資人增持 Oracle 股票，反映出專業投資機構對該公司基本面與未來成長性的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Oracle (ORCL) and OpenAI Drop Plans to Expand Data Center in Texas",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 15:34",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "取消德州資料中心擴建計畫，雖未對短期財報造成重大影響，但可能引發市場對其基礎設施擴張策略執行力的疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Why markets care more about oil prices than Oracle earnings",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 13:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "指出總體經濟因素（如油價波動）對市場情緒的影響力可能暫時蓋過單一公司財報表現，屬於市場環境分析。"
+    },
+    {
+      "rank": 2,
+      "title": "Oracle had a great quarter, but falls short in one key way",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 15:56",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "儘管整體財報亮眼，但分析師指出仍有特定指標未達完美，屬於對財報細節的平衡性報導。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

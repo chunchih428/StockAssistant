@@ -1,0 +1,75 @@
+{
+  "ticker": "PSTG",
+  "company": "Pure Storage",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/PSTG.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司持續透過技術創新擴展產品線，並獲得市場分析師調升評級，儘管面臨短期股價波動與價值投資評估的雜音。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Everpure Extends ActiveCluster Support for File",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 13:00",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Pure Storage 擴展了 ActiveCluster 對檔案儲存的支援，強化了其在企業級資料管理市場的競爭力，有助於提升客戶黏著度與市占率。"
+    },
+    {
+      "rank": 2,
+      "title": "Northland Capital Markets Upgrades Everpure (PSTG)",
+      "publisher": "Fintel",
+      "date": "2026-03-09 22:17",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "獲得 Northland Capital Markets 的評級調升，顯示專業機構對公司未來成長潛力與財務表現持正面看法。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Flex, Pure Storage, Xerox, CECO Environmental, and Cogent Stocks Trade Down, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-03 22:02",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出股價短期下跌，反映市場情緒波動，但並非公司基本面惡化，屬於技術性修正。"
+    },
+    {
+      "rank": 2,
+      "title": "How The Everpure (PSTG) Investment Story Is Shifting As Analysts Reset Growth And Valuation",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-04 07:10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師重新評估成長預期與估值模型，可能導致部分投資人對短期股價溢價產生疑慮，影響市場信心。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "TTEC or PSTG: Which Is the Better Value Stock Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 15:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此篇為比較型文章，旨在協助投資人進行價值評估，並未對 PSTG 本身給出明確的買賣建議，選用 Yahoo 版本作為代表。"
+    },
+    {
+      "rank": 2,
+      "title": "Pure Storage, Inc. (PSTG) is Attracting Investor Attention: Here is What You Should Know",
+      "publisher": "Zacks",
+      "date": "2026-03-03 14:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章僅為市場關注度分析，整理公司近期動態，未包含具體財務預測或重大事件更新。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,102 @@
+{
+  "ticker": "MDB",
+  "company": "MongoDB",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/MDB.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 4,
+    "bearish_count": 1,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管近期股價因財報後波動出現回調，但華爾街分析師對 MongoDB 的 AI 成長潛力與長期銷售執行力仍持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Scotiabank Upgrades MongoDB to Sector Outperform, Raises Price Target to $310",
+      "publisher": "Benzinga",
+      "date": "2026-03-05 08:50",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Scotiabank 分析師 Patrick Colville 將評級上調至 Sector Outperform，並將目標價調升至 $310，顯示市場對公司未來營收成長與市場地位的信心增強。"
+    },
+    {
+      "rank": 2,
+      "title": "MongoDB Expands AI Capabilities: Is the Growth Thesis Strengthening?",
+      "publisher": "Zacks",
+      "date": "2026-03-05T15:31:00Z",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "公司持續擴展 AI 功能，這被視為強化其長期成長論點的關鍵，有助於在競爭激烈的資料庫市場中維持技術領先優勢。"
+    },
+    {
+      "rank": 3,
+      "title": "Why MongoDB (MDB) Stock Is Trading Up Today",
+      "publisher": "StockStory",
+      "date": "2026-03-05T17:46:53Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "反映了市場對公司財報表現及後續成長動能的正面反應，推動當日股價上漲。"
+    },
+    {
+      "rank": 4,
+      "title": "Meta downgraded, MongoDB upgraded: Wall Street's top analyst calls",
+      "publisher": "The Fly",
+      "date": "2026-03-05T14:36:14Z",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "作為綜合性分析師觀點報導，確認了 MongoDB 在華爾街獲得正面評價的趨勢，強化了市場對其基本面的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Celsius, Carnival Corp., MongoDB Are Among Top 10 Large Cap Losers Last Week",
+      "publisher": "Benzinga",
+      "date": "2026-03-08 11:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出 MongoDB 被列為上週大型股跌幅前 10 名，主要受財報表現不如預期及展望疲軟影響，反映了短期賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "MongoDB Leadership Shift Puts Sales Execution And Enterprise Growth In Focus",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-07T05:09:15Z",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "公司管理層變動引發市場對銷售執行力與企業成長策略的關注，雖然具備長期潛力，但短期內市場需觀察新團隊的執行成效。"
+    },
+    {
+      "rank": 2,
+      "title": "Should You Buy, Sell or Hold MongoDB Stock Post Q4 Earnings?",
+      "publisher": "Zacks",
+      "date": "2026-03-06T14:13:00Z",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "針對 Q4 財報後的投資建議分析，提供多空雙向觀點，供投資人評估風險與報酬，未有明確偏向。"
+    },
+    {
+      "rank": 3,
+      "title": "MongoDB, Inc. Q4 2026 Earnings Call Summary",
+      "publisher": "Moby",
+      "date": "2026-03-05T13:30:00Z",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "純粹的財報會議摘要，提供客觀的財務數據與管理層評論，作為投資人分析的基礎資料。"
+    },
+    {
+      "rank": 4,
+      "title": "Here Are Thursday’s Top Wall Street Analyst Research Calls",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-03-05T13:01:26Z",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "彙整多檔股票的分析師評級，MongoDB 僅為其中之一，缺乏深入的個股分析細節。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

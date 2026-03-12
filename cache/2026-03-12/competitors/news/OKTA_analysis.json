@@ -1,0 +1,102 @@
+{
+  "ticker": "OKTA",
+  "company": "Okta",
+  "analysis_date": "2026-03-11",
+  "source_file": "cache/2026-03-11/competitors/news/OKTA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Okta 在第四季財報表現亮眼，營收成長與獲利能力優於預期，加上 AI 安全產品線的強勁需求，獲得多家華爾街券商調升評級與目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "OKTA Shares Jump on Solid Q4 Earnings Beat, Revenues Increase Y/Y",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 17:35",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第四季財報營收年增 11.6 %，且獲利表現優於市場預期，顯示其在身分識別安全領域的市場需求強勁，直接推動股價上漲。"
+    },
+    {
+      "rank": 2,
+      "title": "BMO Capital Upgrades Okta to Outperform, Raises Price Target to $97",
+      "publisher": "Benzinga",
+      "date": "2026-03-06 07:19",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "BMO Capital 分析師 Keith Bachman 將評級調升至 Outperform，並上調目標價，反映市場對公司執行力與未來成長潛力的信心增強。"
+    },
+    {
+      "rank": 3,
+      "title": "Okta To Rally Around 22%? Here Are 10 Top Analyst Forecasts For Friday",
+      "publisher": "Benzinga",
+      "date": "2026-03-06 08:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "多位華爾街分析師在財報後同步看好，預期股價有顯著上漲空間，強化了市場對該股的買進情緒。"
+    },
+    {
+      "rank": 4,
+      "title": "Okta Ties AI Security Push To Larger Contracts And Equity Plans",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 04:33",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出針對 AI 的安全產品（如 Auth0 for AI Agents），成功帶動大型合約簽署，證明公司在 AI 轉型浪潮中的競爭優勢。"
+    },
+    {
+      "rank": 5,
+      "title": "Okta's Fiscal 2027 Guidance Suggests Growth May Accelerate, UBS Says",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 20:11",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "UBS 指出公司提供的 2027 會計年度指引顯示成長動能正在穩定並有望加速，為長期投資者提供正面訊號。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Okta's Shares Tumbled 14% Last Month",
+      "publisher": "Yahoo",
+      "date": "2026-03-08 14:35",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "回顧上個月因 Anthropic 的重大公告引發市場對網路安全股的恐慌性拋售，導致股價一度重挫，反映市場對 AI 競爭格局的敏感度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Investors Heavily Search Okta, Inc. (OKTA): Here is What You Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場熱度觀察與基本事實彙整，未提供新的財務預測或重大營運變動，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Zacks Industry Outlook Highlights Palo Alto, CrowdStrike, Fortinet and Okta",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 09:32",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "屬於產業概覽性質，將 Okta 與其他同業進行比較，未針對公司個別營運提出具體利多或利空觀點。"
+    },
+    {
+      "rank": 3,
+      "title": "The Bull Case For Commvault Systems (CVLT) Could Change Following New Identity Resilience Integrations With Okta",
+      "publisher": "Yahoo",
+      "date": "2026-03-07 03:11",
+      "impact": "low",
+      "category": "合作夥伴",
+      "reason": "新聞重點在於 Commvault 的利多，Okta 僅作為技術整合夥伴，對 Okta 本身的營收貢獻尚不明確。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
