@@ -1,100 +1,29 @@
 {
   "holdings": {
+    "PWR": [
+      "FIX",
+      "EME",
+      "MTZ",
+      "APG",
+      "STRL",
+      "ACM",
+      "DY",
+      "VMI",
+      "IESC",
+      "PRIM",
+      "ROAD"
+    ],
     "AMZN": [
       "EBAY",
       "CPNG",
       "DDS",
       "OLLI",
       "ETSY",
-      "M"
-    ],
-    "AMZU": [],
-    "CCJ": [],
-    "CEG": [
-      "NEE",
-      "SO",
-      "DUK",
-      "AEP",
-      "XEL",
-      "EXC"
-    ],
-    "COIN": [
-      "SPGI",
-      "CME",
-      "ICE",
-      "MCO",
-      "NDAQ",
-      "MSCI"
-    ],
-    "CRWD": [
-      "MSFT",
-      "ORCL",
-      "PANW",
-      "NOW",
-      "FTNT",
-      "ZS"
-    ],
-    "ETN": [
-      "ADSE",
-      "HTOO"
-    ],
-    "GGLL": [],
-    "GOOGL": [
-      "META",
-      "RDDT",
-      "PINS",
-      "SNAP",
-      "MTCH",
-      "CARG"
-    ],
-    "IBIT": [],
-    "LASR": [
-      "RAL",
-      "NOVT",
-      "OSIS",
-      "BMI",
-      "ITRI",
-      "CXT"
-    ],
-    "META": [
-      "GOOGL",
-      "RDDT",
-      "PINS",
-      "SNAP",
-      "MTCH",
-      "CARG"
-    ],
-    "MSFT": [
-      "ORCL",
-      "PANW",
-      "NOW",
-      "CRWD",
-      "FTNT",
-      "ZS"
-    ],
-    "NET": [
-      "SNOW",
-      "CRWV",
-      "MDB",
-      "VRSN",
-      "TWLO",
-      "AKAM"
-    ],
-    "NFLX": [
-      "DIS",
-      "WBD",
-      "TKO",
-      "LYV",
-      "FWONA",
-      "WMG"
-    ],
-    "NTAP": [
-      "DELL",
-      "WDC",
-      "SNDK",
-      "HPE",
-      "PSTG",
-      "SMCI"
+      "M",
+      "PTRN",
+      "KSS",
+      "SVV",
+      "GRPN"
     ],
     "NVDA": [
       "AVGO",
@@ -102,7 +31,139 @@
       "AMD",
       "INTC",
       "TXN",
-      "ADI"
+      "ADI",
+      "QCOM",
+      "MRVL",
+      "MPWR"
+    ],
+    "CEG": [
+      "NEE",
+      "SO",
+      "DUK",
+      "AEP",
+      "XEL",
+      "EXC",
+      "ETR",
+      "PCG",
+      "NRG",
+      "FE",
+      "PPL"
+    ],
+    "COIN": [
+      "SPGI",
+      "CME",
+      "ICE",
+      "MCO",
+      "NDAQ",
+      "MSCI",
+      "CBOE",
+      "TW",
+      "FDS",
+      "MORN"
+    ],
+    "CRWD": [
+      "MSFT",
+      "ORCL",
+      "PANW",
+      "NOW",
+      "FTNT",
+      "ZS",
+      "GEN",
+      "RBRK",
+      "PATH",
+      "DLB",
+      "OS"
+    ],
+    "MSFT": [
+      "ORCL",
+      "PANW",
+      "NOW",
+      "CRWD",
+      "FTNT",
+      "ZS",
+      "GEN",
+      "RBRK",
+      "PATH",
+      "DLB",
+      "OS"
+    ],
+    "NET": [
+      "SNOW",
+      "CRWV",
+      "MDB",
+      "VRSN",
+      "TWLO",
+      "AKAM",
+      "OKTA",
+      "GDDY",
+      "APLD"
+    ],
+    "ETN": [
+      "ADSE",
+      "HTOO"
+    ],
+    "GOOGL": [
+      "META",
+      "RDDT",
+      "PINS",
+      "SNAP",
+      "MTCH",
+      "CARG",
+      "IAC",
+      "DJT",
+      "RUM",
+      "GRND"
+    ],
+    "META": [
+      "GOOGL",
+      "RDDT",
+      "PINS",
+      "SNAP",
+      "MTCH",
+      "CARG",
+      "IAC",
+      "DJT",
+      "RUM",
+      "GRND"
+    ],
+    "LASR": [
+      "RAL",
+      "OSIS",
+      "NOVT",
+      "BMI",
+      "ITRI",
+      "CXT",
+      "OUST",
+      "NSSC",
+      "ARLO",
+      "DAKT",
+      "EVLV",
+      "KEYS"
+    ],
+    "NFLX": [
+      "DIS",
+      "WBD",
+      "TKO",
+      "LYV",
+      "FWONA",
+      "WMG",
+      "ROKU",
+      "MSGS",
+      "SPHR",
+      "CNK"
+    ],
+    "NTAP": [
+      "DELL",
+      "SNDK",
+      "WDC",
+      "HPE",
+      "PSTG",
+      "SMCI",
+      "HPQ",
+      "IONQ",
+      "GPGI",
+      "DBD",
+      "AAPL"
     ],
     "ONDS": [
       "FFIV",
@@ -110,867 +171,91 @@
       "VIAV",
       "VSAT",
       "VISN",
-      "CALX"
+      "CALX",
+      "NTCT",
+      "EXTR",
+      "ADTN",
+      "DGII",
+      "CSCO"
     ],
-    "PWR": [
-      "FIX",
-      "EME",
-      "MTZ",
-      "APG",
-      "ACM",
-      "STRL"
-    ],
-    "QQQ": [],
     "TSLA": [
       "GM",
       "F",
       "RIVN",
       "THO",
       "LCID",
-      "WGO"
-    ],
-    "VOO": []
+      "WGO",
+      "SEV",
+      "FFAI",
+      "CENN",
+      "ECDA"
+    ]
   },
   "competitors": {
-    "EBAY": [
-      "AMZN",
-      "CPNG",
-      "DDS",
-      "OLLI",
-      "ETSY",
-      "M"
-    ],
-    "CPNG": [
-      "AMZN",
-      "EBAY",
-      "DDS",
-      "OLLI",
-      "ETSY",
-      "M"
-    ],
-    "DDS": [
-      "AMZN",
-      "EBAY",
-      "CPNG",
-      "OLLI",
-      "ETSY",
-      "M"
-    ],
-    "OLLI": [
-      "AMZN",
-      "EBAY",
-      "CPNG",
-      "DDS",
-      "ETSY",
-      "M"
-    ],
-    "ETSY": [
-      "AMZN",
-      "EBAY",
-      "CPNG",
-      "DDS",
-      "OLLI",
-      "M"
-    ],
-    "M": [
-      "EBAY",
-      "CPNG",
-      "DDS",
-      "OLLI",
-      "ETSY",
-      "PTRN"
-    ],
-    "NEE": [
-      "CEG",
-      "SO",
-      "DUK",
-      "AEP",
-      "XEL",
-      "EXC"
-    ],
-    "SO": [
-      "NEE",
-      "CEG",
-      "DUK",
-      "AEP",
-      "XEL",
-      "EXC"
-    ],
-    "DUK": [
-      "NEE",
-      "CEG",
-      "SO",
-      "AEP",
-      "XEL",
-      "EXC"
-    ],
-    "AEP": [
-      "NEE",
-      "CEG",
-      "SO",
-      "DUK",
-      "XEL",
-      "EXC"
-    ],
-    "XEL": [
-      "NEE",
-      "CEG",
-      "SO",
-      "DUK",
-      "AEP",
-      "EXC"
-    ],
-    "EXC": [
-      "CEG",
-      "SO",
-      "DUK",
-      "AEP",
-      "XEL",
-      "ETR"
-    ],
-    "SPGI": [
-      "CME",
-      "ICE",
-      "MCO",
-      "COIN",
-      "NDAQ",
-      "MSCI"
-    ],
-    "CME": [
-      "SPGI",
-      "ICE",
-      "MCO",
-      "COIN",
-      "NDAQ",
-      "MSCI"
-    ],
-    "ICE": [
-      "SPGI",
-      "CME",
-      "MCO",
-      "COIN",
-      "NDAQ",
-      "MSCI"
-    ],
-    "MCO": [
-      "SPGI",
-      "CME",
-      "ICE",
-      "COIN",
-      "NDAQ",
-      "MSCI"
-    ],
-    "NDAQ": [
-      "CME",
-      "ICE",
-      "MCO",
-      "COIN",
-      "MSCI",
-      "CBOE"
-    ],
-    "MSCI": [
-      "ICE",
-      "MCO",
-      "COIN",
-      "NDAQ",
-      "CBOE",
-      "TW"
-    ],
-    "ORCL": [
-      "MSFT",
-      "PANW",
-      "NOW",
-      "CRWD",
-      "FTNT",
-      "ZS"
-    ],
-    "PANW": [
-      "MSFT",
-      "ORCL",
-      "NOW",
-      "CRWD",
-      "FTNT",
-      "ZS"
-    ],
-    "NOW": [
-      "MSFT",
-      "ORCL",
-      "PANW",
-      "CRWD",
-      "FTNT",
-      "ZS"
-    ],
-    "FTNT": [
-      "MSFT",
-      "ORCL",
-      "PANW",
-      "NOW",
-      "CRWD",
-      "ZS"
-    ],
-    "ZS": [
-      "ORCL",
-      "PANW",
-      "NOW",
-      "CRWD",
-      "FTNT",
-      "GEN"
-    ],
-    "ADSE": [
-      "ETN",
-      "HTOO"
-    ],
-    "HTOO": [
-      "ETN",
-      "ADSE"
-    ],
-    "RDDT": [
-      "GOOGL",
-      "META",
-      "PINS",
-      "SNAP",
-      "MTCH",
-      "CARG"
-    ],
-    "PINS": [
-      "GOOGL",
-      "META",
-      "RDDT",
-      "SNAP",
-      "MTCH",
-      "CARG"
-    ],
-    "SNAP": [
-      "GOOGL",
-      "META",
-      "RDDT",
-      "PINS",
-      "MTCH",
-      "CARG"
-    ],
-    "MTCH": [
-      "GOOGL",
-      "META",
-      "RDDT",
-      "PINS",
-      "SNAP",
-      "CARG"
-    ],
-    "CARG": [
-      "RDDT",
-      "PINS",
-      "SNAP",
-      "MTCH",
-      "IAC",
-      "DJT"
-    ],
-    "RAL": [
-      "ZBRA",
-      "AEIS",
-      "CGNX",
-      "VNT",
-      "MIR",
-      "NOVT"
-    ],
-    "NOVT": [
-      "AEIS",
-      "CGNX",
-      "VNT",
-      "MIR",
-      "RAL",
-      "OSIS"
-    ],
-    "OSIS": [
-      "CGNX",
-      "VNT",
-      "MIR",
-      "RAL",
-      "NOVT",
-      "BMI"
-    ],
-    "BMI": [
-      "VNT",
-      "MIR",
-      "RAL",
-      "NOVT",
-      "OSIS",
-      "ITRI"
-    ],
-    "ITRI": [
-      "MIR",
-      "RAL",
-      "NOVT",
-      "OSIS",
-      "BMI",
-      "LASR"
-    ],
-    "CXT": [
-      "NOVT",
-      "OSIS",
-      "BMI",
-      "ITRI",
-      "LASR",
-      "ARLO"
-    ],
-    "SNOW": [
-      "NET",
-      "CRWV",
-      "MDB",
-      "VRSN",
-      "TWLO",
-      "AKAM"
-    ],
-    "CRWV": [
-      "NET",
-      "SNOW",
-      "MDB",
-      "VRSN",
-      "TWLO",
-      "AKAM"
-    ],
-    "MDB": [
-      "NET",
-      "SNOW",
-      "CRWV",
-      "VRSN",
-      "TWLO",
-      "AKAM"
-    ],
-    "VRSN": [
-      "NET",
-      "SNOW",
-      "CRWV",
-      "MDB",
-      "TWLO",
-      "AKAM"
-    ],
-    "TWLO": [
-      "NET",
-      "SNOW",
-      "CRWV",
-      "MDB",
-      "VRSN",
-      "AKAM"
-    ],
-    "AKAM": [
-      "SNOW",
-      "CRWV",
-      "MDB",
-      "VRSN",
-      "TWLO",
-      "OKTA"
-    ],
-    "DIS": [
-      "NFLX",
-      "WBD",
-      "TKO",
-      "LYV",
-      "FWONA",
-      "WMG"
-    ],
-    "WBD": [
-      "NFLX",
-      "DIS",
-      "TKO",
-      "LYV",
-      "FWONA",
-      "WMG"
-    ],
-    "TKO": [
-      "NFLX",
-      "DIS",
-      "WBD",
-      "LYV",
-      "FWONA",
-      "WMG"
-    ],
-    "LYV": [
-      "NFLX",
-      "DIS",
-      "WBD",
-      "TKO",
-      "FWONA",
-      "WMG"
-    ],
-    "FWONA": [
-      "NFLX",
-      "DIS",
-      "WBD",
-      "TKO",
-      "LYV",
-      "WMG"
-    ],
-    "WMG": [
-      "WBD",
-      "TKO",
-      "LYV",
-      "FWONA",
-      "ROKU",
-      "MSGS"
-    ],
-    "DELL": [
-      "AAPL",
-      "WDC",
-      "SNDK",
-      "HPE",
-      "PSTG",
-      "NTAP"
-    ],
-    "WDC": [
-      "AAPL",
-      "DELL",
-      "SNDK",
-      "HPE",
-      "PSTG",
-      "NTAP"
-    ],
-    "SNDK": [
-      "AAPL",
-      "DELL",
-      "WDC",
-      "HPE",
-      "PSTG",
-      "NTAP"
-    ],
-    "HPE": [
-      "AAPL",
-      "DELL",
-      "WDC",
-      "SNDK",
-      "PSTG",
-      "NTAP"
-    ],
-    "PSTG": [
-      "AAPL",
-      "DELL",
-      "WDC",
-      "SNDK",
-      "HPE",
-      "NTAP"
-    ],
-    "SMCI": [
-      "WDC",
-      "SNDK",
-      "HPE",
-      "PSTG",
-      "NTAP",
-      "HPQ"
-    ],
-    "MU": [
-      "NVDA",
-      "AVGO",
-      "AMD",
-      "INTC",
-      "TXN",
-      "ADI"
-    ],
-    "AMD": [
-      "NVDA",
-      "AVGO",
-      "MU",
-      "INTC",
-      "TXN",
-      "ADI"
-    ],
-    "INTC": [
-      "NVDA",
-      "AVGO",
-      "MU",
-      "AMD",
-      "TXN",
-      "ADI"
-    ],
-    "TXN": [
-      "NVDA",
-      "AVGO",
-      "MU",
-      "AMD",
-      "INTC",
-      "ADI"
-    ],
-    "ADI": [
-      "AVGO",
-      "MU",
-      "AMD",
-      "INTC",
-      "TXN",
-      "QCOM"
-    ],
-    "FFIV": [
-      "ANET",
-      "MSI",
-      "UI",
-      "CIEN",
-      "LITE",
-      "AAOI"
-    ],
-    "AAOI": [
-      "UI",
-      "CIEN",
-      "LITE",
-      "FFIV",
-      "VIAV",
-      "VSAT"
-    ],
-    "VIAV": [
-      "CIEN",
-      "LITE",
-      "FFIV",
-      "AAOI",
-      "VSAT",
-      "ONDS"
-    ],
-    "VSAT": [
-      "LITE",
-      "FFIV",
-      "AAOI",
-      "VIAV",
-      "ONDS",
-      "VISN"
-    ],
-    "VISN": [
-      "AAOI",
-      "VIAV",
-      "VSAT",
-      "ONDS",
-      "CALX",
-      "NTCT"
-    ],
-    "CALX": [
-      "AAOI",
-      "VIAV",
-      "VSAT",
-      "ONDS",
-      "VISN",
-      "NTCT"
-    ],
     "FIX": [
       "PWR",
       "EME",
       "MTZ",
       "APG",
+      "STRL",
       "ACM",
-      "STRL"
+      "DY",
+      "VMI",
+      "IESC",
+      "PRIM",
+      "ROAD"
     ],
     "EME": [
       "PWR",
       "FIX",
       "MTZ",
       "APG",
+      "STRL",
       "ACM",
-      "STRL"
+      "DY",
+      "VMI",
+      "IESC",
+      "PRIM",
+      "ROAD"
     ],
     "MTZ": [
       "PWR",
       "FIX",
       "EME",
       "APG",
+      "STRL",
       "ACM",
-      "STRL"
+      "DY",
+      "VMI",
+      "IESC",
+      "PRIM",
+      "ROAD"
     ],
     "APG": [
       "PWR",
       "FIX",
       "EME",
       "MTZ",
+      "STRL",
       "ACM",
-      "STRL"
+      "DY",
+      "VMI",
+      "IESC",
+      "PRIM",
+      "ROAD"
     ],
     "STRL": [
+      "PWR",
       "FIX",
       "EME",
       "MTZ",
       "APG",
       "ACM",
-      "DY"
-    ],
-    "GM": [
-      "TSLA",
-      "F",
-      "RIVN",
-      "THO",
-      "LCID",
-      "WGO"
-    ],
-    "F": [
-      "TSLA",
-      "GM",
-      "RIVN",
-      "THO",
-      "LCID",
-      "WGO"
-    ],
-    "RIVN": [
-      "TSLA",
-      "GM",
-      "F",
-      "THO",
-      "LCID",
-      "WGO"
-    ],
-    "THO": [
-      "TSLA",
-      "GM",
-      "F",
-      "RIVN",
-      "LCID",
-      "WGO"
-    ],
-    "LCID": [
-      "TSLA",
-      "GM",
-      "F",
-      "RIVN",
-      "THO",
-      "WGO"
-    ],
-    "WGO": [
-      "F",
-      "RIVN",
-      "THO",
-      "LCID",
-      "SEV",
-      "FFAI"
-    ],
-    "OKTA": [
-      "CRWV",
-      "MDB",
-      "VRSN",
-      "TWLO",
-      "AKAM",
-      "GDDY"
-    ],
-    "GDDY": [
-      "MDB",
-      "VRSN",
-      "TWLO",
-      "AKAM",
-      "OKTA",
-      "APLD"
-    ],
-    "APLD": [
-      "TWLO",
-      "AKAM",
-      "OKTA",
-      "GDDY",
-      "DOCN",
-      "FSLY"
-    ],
-    "FSLY": [
-      "GDDY",
-      "APLD",
-      "DOCN",
-      "WYFI",
-      "RXT",
-      "CMRC"
-    ],
-    "WYFI": [
-      "APLD",
-      "DOCN",
-      "FSLY",
-      "RXT",
-      "CMRC",
-      "BLZE"
-    ],
-    "RXT": [
-      "DOCN",
-      "FSLY",
-      "WYFI",
-      "CMRC",
-      "BLZE",
-      "CXDO"
-    ],
-    "GD": [
-      "BA",
-      "LMT",
-      "NOC",
-      "HWM",
-      "TDG",
-      "LHX"
-    ],
-    "TDG": [
-      "BA",
-      "LMT",
-      "NOC",
-      "HWM",
-      "GD",
-      "LHX"
-    ],
-    "LHX": [
-      "LMT",
-      "NOC",
-      "HWM",
-      "GD",
-      "TDG",
-      "AXON"
-    ],
-    "AXON": [
-      "NOC",
-      "HWM",
-      "GD",
-      "TDG",
-      "LHX",
-      "RKLB"
-    ],
-    "RKLB": [
-      "HWM",
-      "GD",
-      "TDG",
-      "LHX",
-      "AXON",
-      "HEI"
-    ],
-    "FTAI": [
-      "BCC",
-      "MGRC",
-      "DXPE",
-      "DNOW",
-      "XMTR",
-      "WLFC"
-    ],
-    "DIOD": [
-      "SLAB",
-      "ALGM",
-      "RGTI",
-      "OLED",
-      "SYNA",
-      "PI"
-    ],
-    "POWI": [
-      "RGTI",
-      "OLED",
-      "SYNA",
-      "DIOD",
-      "PI",
-      "AMBA"
-    ],
-    "AMBA": [
-      "OLED",
-      "SYNA",
-      "DIOD",
-      "PI",
-      "POWI",
-      "NVTS"
-    ],
-    "NVTS": [
-      "SYNA",
-      "DIOD",
-      "PI",
-      "POWI",
-      "AMBA",
-      "SKYT"
-    ],
-    "MXL": [
-      "PI",
-      "POWI",
-      "AMBA",
-      "NVTS",
-      "SKYT",
-      "PENG"
-    ],
-    "PENG": [
-      "POWI",
-      "AMBA",
-      "NVTS",
-      "SKYT",
-      "MXL",
-      "WOLF"
-    ],
-    "APA": [
-      "PR",
-      "OVV",
-      "VNOM",
-      "AR",
-      "RRC",
-      "MTDR"
-    ],
-    "RRC": [
-      "PR",
-      "OVV",
-      "VNOM",
-      "AR",
-      "APA",
-      "MTDR"
-    ],
-    "MTDR": [
-      "VNOM",
-      "AR",
-      "APA",
-      "RRC",
-      "CHRD",
-      "SM"
-    ],
-    "CHRD": [
-      "AR",
-      "APA",
-      "RRC",
-      "MTDR",
-      "SM",
-      "CRK"
-    ],
-    "CRK": [
-      "RRC",
-      "MTDR",
-      "CHRD",
-      "SM",
-      "CNX",
-      "CRC"
-    ],
-    "CNX": [
-      "MTDR",
-      "CHRD",
-      "SM",
-      "CRK",
-      "CRC",
-      "MGY"
-    ],
-    "EMR": [
-      "VRT",
-      "AME",
-      "ROK",
-      "HUBB",
-      "NXT",
-      "RRX"
-    ],
-    "AME": [
-      "VRT",
-      "EMR",
-      "ROK",
-      "HUBB",
-      "NXT",
-      "RRX"
-    ],
-    "ROK": [
-      "VRT",
-      "EMR",
-      "AME",
-      "HUBB",
-      "NXT",
-      "RRX"
-    ],
-    "HUBB": [
-      "VRT",
-      "EMR",
-      "AME",
-      "ROK",
-      "NXT",
-      "RRX"
-    ],
-    "NXT": [
-      "VRT",
-      "EMR",
-      "AME",
-      "ROK",
-      "HUBB",
-      "RRX"
-    ],
-    "RRX": [
-      "EMR",
-      "AME",
-      "ROK",
-      "HUBB",
-      "NXT",
-      "GNRC"
+      "DY",
+      "VMI",
+      "IESC",
+      "PRIM",
+      "ROAD"
     ],
     "DY": [
       "EME",
@@ -978,32 +263,529 @@
       "APG",
       "STRL",
       "ACM",
-      "VMI"
+      "VMI",
+      "IESC",
+      "PRIM",
+      "ROAD",
+      "AGX",
+      "FLR",
+      "PWR"
     ],
-    "CBOE": [
-      "MCO",
-      "COIN",
-      "NDAQ",
-      "MSCI",
-      "TW",
-      "FDS"
+    "VMI": [
+      "MTZ",
+      "APG",
+      "STRL",
+      "ACM",
+      "DY",
+      "IESC",
+      "PRIM",
+      "ROAD",
+      "AGX",
+      "FLR",
+      "ECG",
+      "PWR"
     ],
-    "FDS": [
-      "COIN",
-      "NDAQ",
-      "MSCI",
-      "CBOE",
-      "TW",
-      "MORN"
+    "IESC": [
+      "APG",
+      "STRL",
+      "ACM",
+      "DY",
+      "VMI",
+      "PRIM",
+      "ROAD",
+      "AGX",
+      "FLR",
+      "ECG",
+      "GVA",
+      "PWR"
     ],
-    "MORN": [
-      "NDAQ",
-      "MSCI",
-      "CBOE",
-      "TW",
-      "FDS",
-      "MKTX"
-    ]
+    "PRIM": [
+      "STRL",
+      "ACM",
+      "DY",
+      "VMI",
+      "IESC",
+      "ROAD",
+      "AGX",
+      "FLR",
+      "ECG",
+      "GVA",
+      "ACA",
+      "PWR"
+    ],
+    "ROAD": [
+      "ACM",
+      "DY",
+      "VMI",
+      "IESC",
+      "PRIM",
+      "AGX",
+      "FLR",
+      "ECG",
+      "GVA",
+      "ACA",
+      "MYRG",
+      "PWR"
+    ],
+    "AGX": [
+      "DY",
+      "VMI",
+      "IESC",
+      "PRIM",
+      "ROAD",
+      "FLR",
+      "ECG",
+      "GVA",
+      "ACA",
+      "MYRG",
+      "WSC",
+      "PWR"
+    ],
+    "EBAY": [
+      "AMZN",
+      "CPNG",
+      "DDS",
+      "OLLI",
+      "ETSY",
+      "M",
+      "PTRN",
+      "KSS",
+      "SVV",
+      "GRPN"
+    ],
+    "CPNG": [
+      "AMZN",
+      "EBAY",
+      "DDS",
+      "OLLI",
+      "ETSY",
+      "M",
+      "PTRN",
+      "KSS",
+      "SVV",
+      "GRPN"
+    ],
+    "DDS": [
+      "AMZN",
+      "EBAY",
+      "CPNG",
+      "OLLI",
+      "ETSY",
+      "M",
+      "PTRN",
+      "KSS",
+      "SVV",
+      "GRPN"
+    ],
+    "OLLI": [
+      "AMZN",
+      "EBAY",
+      "CPNG",
+      "DDS",
+      "ETSY",
+      "M",
+      "PTRN",
+      "KSS",
+      "SVV",
+      "GRPN"
+    ],
+    "ETSY": [
+      "AMZN",
+      "EBAY",
+      "CPNG",
+      "DDS",
+      "OLLI",
+      "M",
+      "PTRN",
+      "KSS",
+      "SVV",
+      "GRPN"
+    ],
+    "M": [
+      "EBAY",
+      "CPNG",
+      "DDS",
+      "OLLI",
+      "ETSY",
+      "PTRN",
+      "KSS",
+      "SVV",
+      "GRPN",
+      "LOGC",
+      "AMZN"
+    ],
+    "PTRN": [
+      "DDS",
+      "OLLI",
+      "ETSY",
+      "M",
+      "KSS",
+      "SVV",
+      "GRPN",
+      "LOGC",
+      "DIBS",
+      "HOUR",
+      "AMZN"
+    ],
+    "KSS": [
+      "OLLI",
+      "ETSY",
+      "M",
+      "PTRN",
+      "SVV",
+      "GRPN",
+      "LOGC",
+      "DIBS",
+      "HOUR",
+      "QVCGA",
+      "AMZN"
+    ],
+    "SVV": [
+      "ETSY",
+      "M",
+      "PTRN",
+      "KSS",
+      "GRPN",
+      "LOGC",
+      "DIBS",
+      "HOUR",
+      "QVCGA",
+      "STCB",
+      "AMZN"
+    ],
+    "GRPN": [
+      "M",
+      "PTRN",
+      "KSS",
+      "SVV",
+      "LOGC",
+      "DIBS",
+      "HOUR",
+      "QVCGA",
+      "STCB",
+      "BIGGQ",
+      "AMZN"
+    ],
+    "MU": [
+      "NVDA",
+      "AVGO",
+      "AMD",
+      "INTC",
+      "TXN",
+      "ADI",
+      "QCOM",
+      "MRVL",
+      "MPWR"
+    ],
+    "AMD": [
+      "NVDA",
+      "AVGO",
+      "MU",
+      "INTC",
+      "TXN",
+      "ADI",
+      "QCOM",
+      "MRVL",
+      "MPWR"
+    ],
+    "INTC": [
+      "NVDA",
+      "AVGO",
+      "MU",
+      "AMD",
+      "TXN",
+      "ADI",
+      "QCOM",
+      "MRVL",
+      "MPWR"
+    ],
+    "TXN": [
+      "NVDA",
+      "AVGO",
+      "MU",
+      "AMD",
+      "INTC",
+      "ADI",
+      "QCOM",
+      "MRVL",
+      "MPWR"
+    ],
+    "ADI": [
+      "AVGO",
+      "MU",
+      "AMD",
+      "INTC",
+      "TXN",
+      "QCOM",
+      "MRVL",
+      "MPWR",
+      "MCHP",
+      "NVDA"
+    ],
+    "QCOM": [
+      "MU",
+      "AMD",
+      "INTC",
+      "TXN",
+      "ADI",
+      "MRVL",
+      "MPWR",
+      "MCHP",
+      "GFS",
+      "NVDA"
+    ],
+    "MRVL": [
+      "ADI",
+      "QCOM",
+      "MPWR",
+      "MCHP",
+      "GFS",
+      "ON",
+      "FSLR",
+      "ALAB",
+      "MTSI",
+      "NVDA"
+    ],
+    "MPWR": [
+      "INTC",
+      "TXN",
+      "ADI",
+      "QCOM",
+      "MRVL",
+      "MCHP",
+      "GFS",
+      "ON",
+      "FSLR",
+      "NVDA"
+    ],
+    "NEE": [
+      "CEG",
+      "SO",
+      "DUK",
+      "AEP",
+      "XEL",
+      "EXC",
+      "ETR",
+      "PCG",
+      "NRG",
+      "FE",
+      "PPL"
+    ],
+    "SO": [
+      "NEE",
+      "CEG",
+      "DUK",
+      "AEP",
+      "XEL",
+      "EXC",
+      "ETR",
+      "PCG",
+      "NRG",
+      "FE",
+      "PPL"
+    ],
+    "DUK": [
+      "NEE",
+      "CEG",
+      "SO",
+      "AEP",
+      "XEL",
+      "EXC",
+      "ETR",
+      "PCG",
+      "NRG",
+      "FE",
+      "PPL"
+    ],
+    "AEP": [
+      "NEE",
+      "CEG",
+      "SO",
+      "DUK",
+      "XEL",
+      "EXC",
+      "ETR",
+      "PCG",
+      "NRG",
+      "FE",
+      "PPL"
+    ],
+    "XEL": [
+      "NEE",
+      "CEG",
+      "SO",
+      "DUK",
+      "AEP",
+      "EXC",
+      "ETR",
+      "PCG",
+      "NRG",
+      "FE",
+      "PPL"
+    ],
+    "EXC": [
+      "CEG",
+      "SO",
+      "DUK",
+      "AEP",
+      "XEL",
+      "ETR",
+      "PCG",
+      "NRG",
+      "FE",
+      "PPL",
+      "ES",
+      "NEE"
+    ],
+    "ETR": [],
+    "PCG": [],
+    "NRG": [],
+    "FE": [],
+    "PPL": [],
+    "SPGI": [],
+    "CME": [],
+    "ICE": [],
+    "MCO": [],
+    "NDAQ": [],
+    "MSCI": [],
+    "CBOE": [],
+    "FDS": [],
+    "MORN": [],
+    "ORCL": [],
+    "PANW": [],
+    "NOW": [],
+    "FTNT": [],
+    "ZS": [],
+    "GEN": [],
+    "RBRK": [],
+    "PATH": [],
+    "DLB": [],
+    "OS": [],
+    "OKTA": [],
+    "GDDY": [],
+    "APLD": [],
+    "FSLY": [],
+    "WYFI": [],
+    "RXT": [],
+    "CMRC": [],
+    "BLZE": [],
+    "ADSE": [],
+    "HTOO": [],
+    "RDDT": [],
+    "PINS": [],
+    "SNAP": [],
+    "MTCH": [],
+    "CARG": [],
+    "IAC": [],
+    "DJT": [],
+    "RUM": [],
+    "GRND": [],
+    "GD": [],
+    "TDG": [],
+    "LHX": [],
+    "AXON": [],
+    "RKLB": [],
+    "FTAI": [],
+    "CW": [],
+    "WWD": [],
+    "ATI": [],
+    "CRS": [],
+    "GE": [],
+    "RAL": [],
+    "OSIS": [],
+    "NOVT": [],
+    "BMI": [],
+    "ITRI": [],
+    "CXT": [],
+    "OUST": [],
+    "NSSC": [],
+    "ARLO": [],
+    "DAKT": [],
+    "EVLV": [],
+    "KEYS": [],
+    "SNOW": [],
+    "CRWV": [],
+    "MDB": [],
+    "VRSN": [],
+    "TWLO": [],
+    "AKAM": [],
+    "DIS": [],
+    "WBD": [],
+    "TKO": [],
+    "LYV": [],
+    "FWONA": [],
+    "WMG": [],
+    "ROKU": [],
+    "MSGS": [],
+    "SPHR": [],
+    "CNK": [],
+    "DELL": [],
+    "SNDK": [],
+    "WDC": [],
+    "HPE": [],
+    "PSTG": [],
+    "SMCI": [],
+    "HPQ": [],
+    "IONQ": [],
+    "GPGI": [],
+    "DBD": [],
+    "FFIV": [],
+    "AAOI": [],
+    "VIAV": [],
+    "VSAT": [],
+    "VISN": [],
+    "CALX": [],
+    "NTCT": [],
+    "EXTR": [],
+    "ADTN": [],
+    "DGII": [],
+    "CSCO": [],
+    "DIOD": [],
+    "POWI": [],
+    "NVTS": [],
+    "AMBA": [],
+    "MXL": [],
+    "PENG": [],
+    "WOLF": [],
+    "AMBQ": [],
+    "AOSL": [],
+    "INDI": [],
+    "CEVA": [],
+    "APA": [],
+    "RRC": [],
+    "CHRD": [],
+    "MTDR": [],
+    "CRK": [],
+    "CNX": [],
+    "CRC": [],
+    "MGY": [],
+    "MUR": [],
+    "CRGY": [],
+    "COP": [],
+    "GM": [],
+    "F": [],
+    "RIVN": [],
+    "THO": [],
+    "LCID": [],
+    "WGO": [],
+    "SEV": [],
+    "FFAI": [],
+    "CENN": [],
+    "ECDA": [],
+    "MKTX": [],
+    "MIAX": [],
+    "DFIN": [],
+    "GEMI": [],
+    "EMR": [],
+    "AME": [],
+    "ROK": [],
+    "HUBB": [],
+    "NXT": [],
+    "RRX": [],
+    "GNRC": [],
+    "VICR": [],
+    "AYI": [],
+    "POWL": []
   },
   "candidates": {
     "ACM": [
@@ -1012,7 +794,13 @@
       "MTZ",
       "APG",
       "STRL",
-      "DY"
+      "DY",
+      "VMI",
+      "IESC",
+      "PRIM",
+      "ROAD",
+      "AGX",
+      "PWR"
     ],
     "AVGO": [
       "NVDA",
@@ -1020,7 +808,23 @@
       "AMD",
       "INTC",
       "TXN",
-      "ADI"
+      "ADI",
+      "QCOM",
+      "MRVL",
+      "MPWR"
+    ],
+    "TW": [
+      "COIN",
+      "NDAQ",
+      "MSCI",
+      "CBOE",
+      "FDS",
+      "MORN",
+      "MKTX",
+      "MIAX",
+      "DFIN",
+      "GEMI",
+      "SPGI"
     ],
     "DOCN": [
       "OKTA",
@@ -1028,7 +832,10 @@
       "APLD",
       "FSLY",
       "WYFI",
-      "RXT"
+      "RXT",
+      "CMRC",
+      "BLZE",
+      "NET"
     ],
     "HEI": [
       "GD",
@@ -1036,23 +843,40 @@
       "LHX",
       "AXON",
       "RKLB",
-      "FTAI"
+      "FTAI",
+      "CW",
+      "WWD",
+      "ATI",
+      "CRS",
+      "GE"
     ],
+    "AAPL": [],
     "SKYT": [
       "DIOD",
       "POWI",
-      "AMBA",
       "NVTS",
+      "AMBA",
       "MXL",
-      "PENG"
+      "PENG",
+      "WOLF",
+      "AMBQ",
+      "AOSL",
+      "INDI",
+      "CEVA",
+      "NVDA"
     ],
     "SM": [
       "APA",
       "RRC",
-      "MTDR",
       "CHRD",
+      "MTDR",
       "CRK",
-      "CNX"
+      "CNX",
+      "CRC",
+      "MGY",
+      "MUR",
+      "CRGY",
+      "COP"
     ],
     "VRT": [
       "EMR",
@@ -1060,18 +884,13 @@
       "ROK",
       "HUBB",
       "NXT",
-      "RRX"
+      "RRX",
+      "GNRC",
+      "VICR",
+      "AYI",
+      "POWL"
     ],
-    "COPX": [],
     "SPOT": [],
-    "AAPL": [],
-    "TW": [
-      "COIN",
-      "NDAQ",
-      "MSCI",
-      "CBOE",
-      "FDS",
-      "MORN"
-    ]
+    "COPX": []
   }
 }

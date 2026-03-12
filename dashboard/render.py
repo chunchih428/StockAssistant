@@ -28,7 +28,10 @@ def _build_interactive_dashboard(results, allocation, options, generated_at):
     competitors_map = {}
     candidate_symbols = []
     comp_path = Path(__file__).resolve().parent.parent / 'config' / 'competitors.json'
-    candidates_path = Path(__file__).resolve().parent.parent / 'candidates.txt'
+    candidates_paths = [
+        Path(__file__).resolve().parent.parent / 'config' / 'candidates.txt',
+        Path(__file__).resolve().parent.parent / 'candidates.txt',
+    ]
     if comp_path.exists():
         try:
             _comp_raw = json.loads(comp_path.read_text(encoding='utf-8'))
@@ -40,7 +43,9 @@ def _build_interactive_dashboard(results, allocation, options, generated_at):
                 competitors_map = _comp_raw
         except Exception:
             pass
-    if candidates_path.exists():
+    for candidates_path in candidates_paths:
+        if not candidates_path.exists():
+            continue
         try:
             raw_lines = candidates_path.read_text(encoding='utf-8').splitlines()
             for line in raw_lines:

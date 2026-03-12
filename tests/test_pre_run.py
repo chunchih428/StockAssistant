@@ -727,6 +727,32 @@ class TestStockPrerunCoverageExtra(unittest.TestCase):
             self.assertNotIn("BAD.1", data["competitors"])
             self.assertEqual(data["holdings"]["AAPL"], [])
 
+    @patch("pre_run.os.environ.get", return_value=None)
+    @patch("pre_run.time.sleep")
+    def test_auto_populate_candidates_none_does_not_crash(self, _sleep, _env):
+        with tempfile.TemporaryDirectory() as td:
+            base = Path(td)
+            cfg_dir = base / "config"
+            cfg_dir.mkdir(parents=True, exist_ok=True)
+            comp = cfg_dir / "competitors.json"
+            comp.write_text(
+                json.dumps(
+                    {
+                        "holdings": {"AAPL": []},
+                        "competitors": {},
+                        "candidates": {"NVDA": None},
+                    }
+                ),
+                encoding="utf-8",
+            )
+            (cfg_dir / "candidates.txt").write_text("NVDA\n", encoding="utf-8")
+
+            pre = StockPrerun(str(base / "p.csv"), str(cfg_dir / "config.json"), str(base / "s.txt"), str(cfg_dir / "c.json"))
+            pre.auto_populate_competitors({"AAPL"})
+
+            data = json.loads(comp.read_text(encoding="utf-8"))
+            self.assertEqual(data["candidates"]["NVDA"], [])
+
 
 if __name__ == '__main__':
     unittest.main()

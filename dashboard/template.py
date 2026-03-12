@@ -117,11 +117,11 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
           <button class="view-btn" :class="{active:view==='detail'}" @click="switchView('detail')">
             <span style="display:flex;align-items:center;gap:.35rem"><svg width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>個股</span>
           </button>
-          <button class="view-btn" :class="{active:view==='competitors'}" @click="switchView('competitors')">
-            <span style="display:flex;align-items:center;gap:.35rem"><svg width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>競品</span>
-          </button>
           <button class="view-btn" :class="{active:view==='candidates'}" @click="switchView('candidates')">
             <span style="display:flex;align-items:center;gap:.35rem"><svg width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.86L12 17.77 5.82 21l1.18-6.86-5-4.87 6.91-1.01z"/></svg>候選</span>
+          </button>
+          <button class="view-btn" :class="{active:view==='competitors'}" @click="switchView('competitors')">
+            <span style="display:flex;align-items:center;gap:.35rem"><svg width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>競品</span>
           </button>
         </div>
         <div style="text-align:right">
@@ -408,7 +408,7 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
     <div v-if="ddOpen" @click="ddOpen=false" style="position:fixed;inset:0;z-index:40"></div>
 
     <div v-if="view==='candidates'&&!candidateStocks.length" class="panel" style="padding:1.25rem;color:#64748b;font-size:.9rem">
-      候選清單沒有可顯示的標的。請確認 `candidates.txt` 內代號是否已在本次資料中載入。
+      候選清單沒有可顯示的標的。請確認 `config/candidates.txt` 內代號是否已在本次資料中載入。
     </div>
 
     <div v-else :style="anim?'opacity:0;transition:opacity .15s':'opacity:1;transition:opacity .15s'">

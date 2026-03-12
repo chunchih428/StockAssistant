@@ -99,7 +99,12 @@ def validate(competitors_path: str, csv_path: str) -> list[str]:
 def main():
     base = Path(__file__).resolve().parent.parent.parent
     competitors_path = sys.argv[1] if len(sys.argv) > 1 else str(base / 'competitors.json')
-    csv_path = sys.argv[2] if len(sys.argv) > 2 else str(base / 'holdings.csv')
+    if len(sys.argv) > 2:
+        csv_path = sys.argv[2]
+    else:
+        primary = base / 'config' / 'holdings.csv'
+        legacy = base / 'holdings.csv'
+        csv_path = str(primary if primary.exists() else legacy)
 
     print(f"\n🔍 Validating {competitors_path}")
     print(f"   Portfolio: {csv_path}\n")

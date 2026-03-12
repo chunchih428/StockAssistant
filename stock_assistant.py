@@ -68,12 +68,12 @@ OUTPUT_DIR.mkdir(exist_ok=True)
 RESULTS_FILE = OUTPUT_DIR / "results.json"
 HTML_FILE = BASE_DIR / "index.html"
 CONFIG_FILE = BASE_DIR / "config" / "config.json"
-PORTFOLIO_FILE = BASE_DIR / "holdings.csv"
+PORTFOLIO_FILE = BASE_DIR / "config" / "holdings.csv"
 SYSTEM_PROMPT_FILE = BASE_DIR / "system_prompt.txt"
 CACHE_DIR = BASE_DIR / "cache"
 COMPANY_NAMES_FILE = BASE_DIR / "config" / "company_names.json"
 COMPETITORS_FILE = BASE_DIR / "config" / "competitors.json"
-CANDIDATES_FILE = BASE_DIR / "candidates.txt"
+CANDIDATES_FILE = BASE_DIR / "config" / "candidates.txt"
 
 
 def configure_yfinance_cache():
@@ -95,9 +95,13 @@ def configure_default_mode():
     def _can_reset(v):
         return isinstance(v, Path) and type(v).__module__ != "unittest.mock"
 
+    default_portfolio = BASE_DIR / "config" / "holdings.csv"
+    legacy_portfolio = BASE_DIR / "holdings.csv"
+    resolved_portfolio = default_portfolio if default_portfolio.exists() else legacy_portfolio
+
     # Keep test-time patched objects (e.g. MagicMock(spec=Path)) intact.
     if _can_reset(PORTFOLIO_FILE):
-        PORTFOLIO_FILE = BASE_DIR / "holdings.csv"
+        PORTFOLIO_FILE = resolved_portfolio
     if _can_reset(CONFIG_FILE):
         CONFIG_FILE = BASE_DIR / "config" / "config.json"
     if _can_reset(COMPANY_NAMES_FILE):
@@ -105,7 +109,7 @@ def configure_default_mode():
     if _can_reset(COMPETITORS_FILE):
         COMPETITORS_FILE = BASE_DIR / "config" / "competitors.json"
     if _can_reset(CANDIDATES_FILE):
-        CANDIDATES_FILE = BASE_DIR / "candidates.txt"
+        CANDIDATES_FILE = BASE_DIR / "config" / "candidates.txt"
     if _can_reset(CACHE_DIR):
         CACHE_DIR = BASE_DIR / "cache"
     if _can_reset(RESULTS_FILE):
@@ -345,7 +349,7 @@ def fetch_competitor_data(stocks, cache_mgr, company_names, config=None):
 
     candidate_symbols = set()
     candidate_paths = [CANDIDATES_FILE]
-    legacy_candidates_path = BASE_DIR / "config" / "candidates.txt"
+    legacy_candidates_path = BASE_DIR / "candidates.txt"
     if legacy_candidates_path not in candidate_paths:
         candidate_paths.append(legacy_candidates_path)
     for cp in candidate_paths:

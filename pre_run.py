@@ -69,7 +69,7 @@ class StockPrerun:
                 continue
             seen.add(sym)
             out.append(sym)
-        return out[:6] # 前6 個有效同業，避免過多競品導致後續處理複雜
+        return out
 
     def _skip_path(self):
         return self.CONFIG_FILE.parent / "competitor_skip.json"
@@ -297,6 +297,8 @@ class StockPrerun:
             sym_u = str(sym).strip().upper()
             if not self._is_us_peer_symbol(sym_u):
                 continue
+            if peers is None:
+                changed = True
             normalized_holdings[sym_u] = self._normalize_peer_list(peers, sym_u)
         holdings_map = normalized_holdings
 
@@ -305,6 +307,8 @@ class StockPrerun:
             sym_u = str(sym).strip().upper()
             if not self._is_us_peer_symbol(sym_u):
                 continue
+            if peers is None:
+                changed = True
             normalized_competitors[sym_u] = self._normalize_peer_list(peers, sym_u)
         competitors_map = normalized_competitors
 
@@ -313,6 +317,8 @@ class StockPrerun:
             sym_u = str(sym).strip().upper()
             if not self._is_us_peer_symbol(sym_u):
                 continue
+            if peers is None:
+                changed = True
             normalized_candidates[sym_u] = self._normalize_peer_list(peers, sym_u)
         candidates_map = normalized_candidates
 
@@ -410,10 +416,10 @@ class StockPrerun:
 
         direct_holdings_peers = set()
         for hs in portfolio_set:
-            direct_holdings_peers.update(holdings_map.get(hs, []))
+            direct_holdings_peers.update(holdings_map.get(hs) or [])
         direct_candidate_peers = set()
         for cs in candidate_set:
-            direct_candidate_peers.update(candidates_map.get(cs, []))
+            direct_candidate_peers.update(candidates_map.get(cs) or [])
         allowed_competitors = (
             (direct_holdings_peers - portfolio_set)
             | (direct_candidate_peers - portfolio_set - candidate_set)
@@ -427,6 +433,7 @@ class StockPrerun:
             for k, v in list(m.items()):
                 if v is None:
                     m[k] = []  # pragma: no cover
+                    changed = True
 
         payload = {"holdings": holdings_map, "competitors": competitors_map, "candidates": candidates_map}
         if changed:
@@ -465,7 +472,7 @@ class StockPrerun:
         merged_map.update(competitors_map)
         missing = []
         for sym in targets:
-            for comp in merged_map.get(sym, []):
+            for comp in (merged_map.get(sym) or []):
                 if comp and comp not in company_names:
                     missing.append(comp)
 

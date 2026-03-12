@@ -10,12 +10,17 @@ from collections import defaultdict
 
 
 def load_portfolio():
-    """读取holdings.csv"""
+    """读取 holdings.csv（優先 config/holdings.csv）。"""
     import csv
 
-    port_path = Path(__file__).parent.parent / 'holdings.csv'
+    base = Path(__file__).parent.parent
+    candidate_paths = [
+        base / 'config' / 'holdings.csv',
+        base / 'holdings.csv',
+    ]
+    port_path = next((p for p in candidate_paths if p.exists()), candidate_paths[0])
     if not port_path.exists():
-        print("❌ 找不到 holdings.csv")
+        print("❌ 找不到 config/holdings.csv（或舊路徑 holdings.csv）")
         return []
 
     stocks = []
