@@ -1,0 +1,83 @@
+{
+  "ticker": "MRVL",
+  "company": "Marvell Technology",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/MRVL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 16,
+    "bearish_count": 0,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Marvell 受惠於 AI 資料中心需求強勁，Q4 財報優於預期並釋出樂觀展望，帶動華爾街分析師紛紛上調目標價與評級。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "MRVL Surges 18.4% Post Q4 Earnings: Time to Hold or Fold the Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 12:39",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "Marvell Q4 財報表現亮眼，營收與獲利均優於市場預期，主要受惠於 AI 資料中心對網路晶片的強勁需求，股價單日大漲 18.4 %。"
+    },
+    {
+      "rank": 2,
+      "title": "Bank of America revamps Marvell stock price for 2026",
+      "publisher": "Yahoo",
+      "date": "2026-03-07 19:33",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "美國銀行 (Bank of America) 基於公司在 AI 連接領域的成長潛力，將 Marvell 評級由「中性」上調至「買入」，顯示機構投資人信心顯著回升。"
+    },
+    {
+      "rank": 3,
+      "title": "Marvell Expands Coherent DSP Lineup As AI Data Center Bets Grow",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 21:12",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "公司擴大下一代光學與相干 DSP 產品線，強化在 AI 基礎設施中的競爭優勢，有助於維持長期營收成長動能。"
+    },
+    {
+      "rank": 4,
+      "title": "Jim Cramer on Marvell: “It Was a Quarter Where Management Made a Much More Credible Case That Its AI-Related Revenue Base Is Simply Exploding”",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 17:28",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名財經評論員 Jim Cramer 公開肯定 Marvell 管理層對 AI 相關營收成長的預測，增強了市場對公司未來獲利能力的信心。"
+    },
+    {
+      "rank": 5,
+      "title": "Marvell price target raised to $135 from $130 at B. Riley",
+      "publisher": "Yahoo",
+      "date": "2026-03-07 13:36",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "B. Riley 將目標價從 $130 上調至 $135，並維持「買入」評級，反映市場對其技術領先地位的認可。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "What's Driving Attention Behind These Trending Stocks? MRVL, STRL, HIMS",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 19:02",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅提及 Marvell 為近期熱門交易標的，未提供具體財務分析或基本面變動資訊，屬於市場情緒觀察。"
+    },
+    {
+      "rank": 2,
+      "title": "Marvell Technology Shares Rise 4% After Key Trading Signal",
+      "publisher": "Benzinga",
+      "date": "2026-03-06 16:33",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "報導基於技術面交易訊號觸發後的股價波動，屬於短期技術性買盤，非基本面驅動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

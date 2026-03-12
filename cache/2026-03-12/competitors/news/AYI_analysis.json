@@ -1,0 +1,56 @@
+{
+  "ticker": "AYI",
+  "company": "Acuity",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/AYI.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 1,
+    "bearish_count": 3,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "近期財報表現不如預期導致分析師下調目標價，股價面臨顯著的下行壓力與市場信心不足。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "140 Summer Partners Buys Acuity Stock",
+      "publisher": "Motley Fool",
+      "date": "2026-03-06",
+      "impact": "low",
+      "category": "機構持倉",
+      "reason": "機構投資人 140 Summer Partners 增持 Acuity Brands 股票，顯示部分專業投資機構對該公司長期價值仍具信心，為市場提供正面訊號。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "How The Acuity Brands (AYI) Narrative Is Shifting After Q1 Results And Lower Price Targets",
+      "publisher": "Yahoo",
+      "date": "2026-03-11",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "Q1 財報表現疲軟，導致分析師紛紛下調目標價與公允價值預估，反映市場對公司未來成長動能的擔憂，此為最具代表性的負面消息。"
+    },
+    {
+      "rank": 2,
+      "title": "2 Reasons to Watch AYI and 1 to Stay Cautious",
+      "publisher": "StockStory",
+      "date": "2026-03-11",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "過去六個月股價下跌 16.9 % 至 274.61 美元，顯示技術面與基本面均處於弱勢，投資人需對其後續表現保持謹慎。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Acuity Brands (AYI) Shares Are Trading Lower Today",
+      "publisher": "StockStory",
+      "date": "2026-03-03",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出股價當日走低，反映市場對公司近期營運狀況的負面情緒，加劇了賣壓。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,66 @@
+{
+  "ticker": "BLZE",
+  "company": "Backblaze",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/BLZE.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "Mixed",
+    "key_theme": "公司 Q4 財報表現優於預期，但市場對 B2 雲端儲存業務成長放緩及 2026 年利潤率壓力感到擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Backblaze (BLZE) Sparks Confidence After Impressive Fourth Quarter",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-10",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "報導強調公司在第四季展現強勁的財務表現，成功超越市場預期，為投資人注入信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Backblaze CFO Targets Faster B2 Growth, Stronger Cash Flow at Citizens Technology Conference",
+      "publisher": "MarketBeat",
+      "date": "2026-03-07",
+      "impact": "low",
+      "category": "公司展望",
+      "reason": "財務長明確提出加速 B2 業務成長與提升現金流的策略目標，展現管理層對未來營運的積極態度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Backblaze: B2 Cloud Growth Keeps Slowing, Banks On Neocloud (Downgrade)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-11",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師因 B2 雲端儲存成長持續放緩且市場機會縮減而下調評級，此篇涵蓋了對 Neocloud 轉型的依賴風險，最具代表性。"
+    },
+    {
+      "rank": 2,
+      "title": "Backblaze Beats Estimates, But Slowing Growth And Margin Pressures Dampen Prospects",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-10",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "儘管財報數據優於預期，但市場關注點轉向 2026 年的利潤率壓力與成長動能減弱，對股價形成壓抑。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "How The Backblaze (BLZE) Investment Story Is Shifting As Growth Cools And Profitability Improves",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-09",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該文客觀分析公司從高成長轉向追求獲利能力的投資故事轉變，平衡了成長放緩與獲利改善的兩面性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

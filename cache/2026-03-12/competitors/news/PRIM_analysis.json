@@ -1,0 +1,56 @@
+{
+  "ticker": "PRIM",
+  "company": "Primoris",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/PRIM.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 0,
+    "overall_sentiment": "Mixed",
+    "key_theme": "儘管近期股價出現回調，但市場對於 Primoris 強勁的訂單積壓量 (Backlog) 與長期需求前景仍持正面看法，不過短期股價波動與板塊連動性仍構成壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Primoris Backlog Surge And Pullback Valuation Create Contrasting Signals",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-09T05:06:23Z",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "該報導指出公司訂單積壓量顯著成長，為未來營收提供強大支撐，且股價回調後估值變得更具吸引力，是投資人重新評估進場點的關鍵訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "Primoris Services Corporation: Focus On The Broader Demand Picture",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-06 02:34",
+      "impact": "medium",
+      "category": "產業分析",
+      "reason": "分析師建議投資人應忽略短期雜訊，將焦點放在基礎設施建設的廣泛需求趨勢上，強調公司在能源與公用事業領域的長期成長潛力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Primoris, Corning, Plug Power, Construction Partners, and Dycom Shares Plummet, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-05T22:49:53Z",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "報導指出 PRIM 與其他同業股價同步重挫，顯示市場情緒轉弱，且該類股可能面臨板塊性的賣壓與資金流出風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Is It Too Late To Consider Primoris Services (PRIM) After Its Recent Share Price Pullback",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-09T09:10:09Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "雖然標題中性，但探討「是否太遲」反映了投資人對近期股價下跌後的恐慌與不確定性，可能導致短期買盤觀望。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,66 @@
+{
+  "ticker": "CW",
+  "company": "Curtiss-Wright",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/CW.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "neutral",
+    "key_theme": "公司憑藉任務關鍵型航太系統的技術優勢獲得市場關注，但近期股價受地緣政治與宏觀市場波動影響較大。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "3 Reasons CW Has Explosive Upside Potential",
+      "publisher": "StockStory",
+      "date": "2026-03-03",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析指出 Curtiss-Wright 在其核心市場具備強大的競爭護城河，預期未來營收與獲利成長具備爆發潛力，吸引投資人目光。"
+    },
+    {
+      "rank": 2,
+      "title": "Curtiss-Wright (CW) Valuation Check After Strong Share Price Momentum And Premium Fair Value Estimate",
+      "publisher": "Yahoo",
+      "date": "2026-03-10",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "近期股價動能強勁，市場對其公平價值給予溢價評估，顯示投資人對其長期基本面持正面看法。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Kratos, Advanced Energy, Zurn Elkay, Curtiss-Wright, and BWX Shares Are Falling, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-05",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受中東地緣政治緊張局勢升溫影響，油價波動導致市場避險情緒高漲，拖累工業與航太類股表現。"
+    },
+    {
+      "rank": 2,
+      "title": "Powell, Regal Rexnord, Thermon, Quanex, and Curtiss-Wright Shares Plummet, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-03",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該股隨同工業板塊出現顯著回調，反映出市場對短期宏觀經濟環境的不確定性，導致資金撤離。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Curtiss-Wright’s (CW) Custom Test Partnership Deepening Its Edge In Mission-Critical Aerospace Systems?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-04",
+      "impact": "low",
+      "category": "業務合作",
+      "reason": "探討客製化測試合作夥伴關係對公司航太系統競爭力的影響，屬於中性產業分析，旨在評估長期技術優勢而非短期股價驅動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

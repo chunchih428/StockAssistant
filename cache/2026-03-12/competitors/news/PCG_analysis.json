@@ -1,0 +1,38 @@
+{
+  "ticker": "PCG",
+  "company": "Pacific Gas & Electric",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/PCG.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 PG&E 近期股價漲幅的估值合理性存疑，但獲得大型投行 UBS 的評級調升，顯示機構投資人對其基本面轉強持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "UBS Upgrades PG&E (PCG)",
+      "publisher": "Fintel",
+      "date": "2026-03-10 00:03",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "UBS 調升 PG&E 評級，通常代表機構投資人對公司未來獲利能力或風險控制改善的認可，對股價具有顯著的正面推動作用。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is PG&E (PCG) Pricing Look Stretching After Recent 30 Day Share Price Jump",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 14:14",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "文章探討股價在 30 天內大幅上漲後的估值合理性，提醒投資人關注股價是否已過度反映基本面，屬於中性的風險提示，並未給出明確的買賣建議。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

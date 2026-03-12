@@ -1,0 +1,47 @@
+{
+  "ticker": "GPGI",
+  "company": "GPGI",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/GPGI.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司近期經歷了品牌重塑帶來的股價飆升，但隨後因做空報告質疑收購案與公司治理，導致股價出現顯著回調。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "GPGI Stock Up 70% as One Fund Adds to $24.5 Million Stake Amid Company Rebrand",
+      "publisher": "Motley Fool",
+      "date": "2026-03-02",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "機構投資者增持 2,450 萬美元股份，顯示市場對公司品牌重塑策略的信心，推動股價單週大幅上漲 70 %。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "GPGI Leadership Shake Up And Husky Deal Scrutiny Test Rich Valuation",
+      "publisher": "Yahoo",
+      "date": "2026-03-08",
+      "impact": "high",
+      "category": "公司治理",
+      "reason": "做空機構發布報告質疑 Husky Technologies 收購案的合理性，並對公司治理結構提出擔憂，引發市場對其高估值的重新評估。"
+    },
+    {
+      "rank": 2,
+      "title": "GPGI (GPGI) Valuation Check After Sharp Share Price Pullback And Husky Integration Hopes",
+      "publisher": "Yahoo",
+      "date": "2026-03-08",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日下跌 11.7 %，反映出市場在經歷前期暴漲後，對於 Husky 整合進度的不確定性以及估值過高的擔憂。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

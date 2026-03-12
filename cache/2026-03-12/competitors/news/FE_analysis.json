@@ -1,0 +1,57 @@
+{
+  "ticker": "FE",
+  "company": "FirstEnergy Corp.",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/FE.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "Neutral",
+    "key_theme": "公司積極投入 9.5 億美元電網升級計畫，市場正評估其對長期獲利路徑與估值的影響。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "FirstEnergy to Invest $950 Million in Ohio and Pennsylvania Grid Upgrades",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 03:56",
+      "impact": "high",
+      "category": "資本支出",
+      "reason": "公司宣布投入 9.5 億美元進行電網升級，此舉不僅強化基礎設施，更被市場視為具備長期股息成長潛力的優質公用事業標的。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "FirstEnergy’s PJM Grid Projects Raise Questions On Valuation And Earnings Path",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 22:13",
+      "impact": "medium",
+      "category": "營運展望",
+      "reason": "儘管獲得 PJM 專案，但市場質疑大規模資本支出對短期獲利路徑的稀釋效應，以及對公司整體估值的潛在壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "FE or AEP: Which Is the Better Value Stock Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 16:40",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "此為針對 FirstEnergy 與 AEP 的價值投資比較分析，未提供具體利多或利空消息，僅為投資組合配置的參考建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Consolidated Edison (ED) Stock Outpacing Its Utilities Peers This Year?",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 14:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為行業內部的績效比較，探討 FirstEnergy 與同業 Consolidated Edison 的年初至今股價表現差異，屬於中性的市場觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

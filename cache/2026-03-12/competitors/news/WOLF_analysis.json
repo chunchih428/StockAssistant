@@ -1,0 +1,28 @@
+{
+  "ticker": "WOLF",
+  "company": "Wolfspeed",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/WOLF.json",
+  "summary": {
+    "total_articles": 1,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司提交股權出售申請，市場擔憂潛在的股權稀釋效應與賣壓。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Wolfspeed Files Preliminary Prospectus Related To Offer And Sale Of Up To 32.9M Shares Of Common Stock By Selling Stockholder",
+      "publisher": "Benzinga",
+      "date": "2026-03-09 16:58",
+      "impact": "high",
+      "category": "股權融資",
+      "reason": "公司提交初步招股說明書，涉及出售高達 3,290 萬股普通股。此舉通常會引發市場對於股權稀釋的擔憂，並可能在短期內造成賣壓，對股價構成負面壓力。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

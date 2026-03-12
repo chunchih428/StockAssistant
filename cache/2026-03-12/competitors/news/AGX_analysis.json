@@ -1,0 +1,75 @@
+{
+  "ticker": "AGX",
+  "company": "Argan",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/AGX.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "Argan 受益於 AI 數據中心帶動的電力基礎設施需求，強勁的 30 億美元積壓訂單成為股價上漲的核心驅動力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Should Argan’s (AGX) $3 Billion AI‑Linked Power Backlog Prompt a Fresh Look From Investors?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-11",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "該報導強調 Argan 擁有 30 億美元與 AI 相關的電力項目積壓訂單，顯示公司在數據中心能源基礎設施領域具有強大的競爭優勢與長期成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Argan (AGX) Soars 12.6%: Is Further Upside Left in the Stock?",
+      "publisher": "Zacks",
+      "date": "2026-03-10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導分析了股價單日飆升 12.6 % 的原因，並探討了後續的成長空間，確認了市場對該公司近期強勁表現的正面共識。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Argan Stock Topped the Market Today",
+      "publisher": "Motley Fool",
+      "date": "2026-03-09",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "作為股價上漲的即時報導，詳細解釋了 Argan 領先市場的動能，選此篇作為代表是因為其對當日市場情緒的捕捉最為精確。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Top 2 Industrials Stocks You May Want To Dump This Month",
+      "publisher": "Benzinga",
+      "date": "2026-03-05",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "該報導指出 Argan 的 RSI 指標顯示股價處於超買狀態，建議投資人考慮獲利了結，暗示短期內股價可能面臨回調壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Argan (AGX) Valuation Check After Strong Multi Year Share Price Performance",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-06",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "在股價長期強勁表現後，該文對估值進行了審慎評估，提醒投資人注意高估值帶來的潛在風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Freedom Capital Markets Initiates Coverage of Argan (AGX) with Hold Recommendation",
+      "publisher": "Fintel",
+      "date": "2026-03-11",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "Freedom Capital Markets 給予「持有」評級，反映出分析師在股價大幅上漲後，對未來進一步上漲空間採取觀望態度。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
