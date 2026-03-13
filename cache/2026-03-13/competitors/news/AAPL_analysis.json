@@ -1,0 +1,84 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-03-11",
+  "source_file": "cache/2026-03-11/competitors/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 4,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "Apple 透過擴大印度生產基地以降低地緣政治風險，並推出平價 AI 裝置以刺激市場需求，整體策略展現強勁的供應鏈韌性與成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple Now Makes About 25% of iPhones in India After China Pivot",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 10:47",
+      "impact": "high",
+      "category": "供應鏈管理",
+      "reason": "Apple 在印度生產佔比提升至 25%，年產量達 5,500 萬支，有效降低對中國製造的依賴，減緩潛在關稅風險，被視為長期供應鏈韌性的關鍵里程碑。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple’s New Budget AI Devices Test Valuation And Services Growth Story",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 07:11",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出 MacBook Neo、iPhone 17e 及 iPad Air (M4) 等平價 AI 裝置，旨在擴大市佔率並推動服務營收成長，市場對此策略持正面態度。"
+    },
+    {
+      "rank": 3,
+      "title": "2 Warren Buffett Stocks To Buy Hand Over Fist and 1 To Avoid",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 02:25",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "巴菲特持續看好 Apple 的長期投資價值，為機構投資者提供信心支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "German publishers reject Apple's revised app tracking rules, urge antitrust fine",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 08:10",
+      "impact": "medium",
+      "category": "法規與訴訟",
+      "reason": "德國出版商協會拒絕 Apple 的應用程式追蹤透明度 (ATT) 修正方案，並呼籲進行反壟斷罰款，顯示歐洲市場監管壓力持續存在。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple Postpones Smart Home Display Launch as It Waits for New AI and Siri",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 02:42",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "智慧家庭顯示器產品延後上市，反映出公司在 AI 與 Siri 整合上的開發進度不如預期，短期內影響產品線擴張節奏。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Record iPhone Revenue and 99% Satisfaction Still Can’t Settle the Valuation Debate",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 19:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管 iPhone 營收創新高且客戶滿意度極高，但市場對於 Apple 的估值合理性仍存在分歧，股價近期表現疲軟。"
+    },
+    {
+      "rank": 2,
+      "title": "Chai AI Announces Upcoming Rollout of Apple and Google Age Verification APIs",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 09:06",
+      "impact": "low",
+      "category": "技術合作",
+      "reason": "第三方平台整合 Apple 的年齡驗證 API，屬於常規技術合作，對股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

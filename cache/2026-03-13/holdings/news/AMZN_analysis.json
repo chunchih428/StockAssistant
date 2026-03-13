@@ -1,0 +1,165 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 8,
+    "bearish_count": 5,
+    "neutral_count": 7,
+    "overall_sentiment": "bullish",
+    "key_theme": "Amazon 透過 Zoox 自動駕駛合作案與 AI 法律勝利強化市場地位，儘管面臨地緣政治風險與基礎設施挑戰，整體成長動能仍受機構投資人青睞。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Amazon's Zoox partners with Uber to reach more robotaxi riders",
+      "publisher": "CNBC",
+      "date": "2026-03-11 08:00",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "Zoox 與 Uber 達成多年期合作，將自動駕駛計程車整合至 Uber 平台，顯著提升 Amazon 在自動駕駛領域的商業化潛力與市場滲透率。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon wins court order to block Perplexity's AI shopping agent",
+      "publisher": "CNBC",
+      "date": "2026-03-10 13:12",
+      "impact": "high",
+      "category": "法律訴訟",
+      "reason": "法院裁定禁止 Perplexity 的 AI 購物代理存取 Amazon 平台，保護了 Amazon 的數據資產與電商生態系統的完整性，確立了 AI 購物競爭的防禦優勢。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon (AMZN) Launches ‘Amazon Now’ in Brazil with 15-Minute Delivery",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 20:57",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "在巴西推出 15 分鐘極速配送服務，展現 Amazon 在新興市場物流效率的持續優化與競爭力。"
+    },
+    {
+      "rank": 4,
+      "title": "Cathie Wood Is Still Buying Amazon Stock",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 18:18",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名基金經理人 Cathie Wood 持續加碼 Amazon，顯示機構投資人對其長期成長價值與 AI 轉型策略的信心。"
+    },
+    {
+      "rank": 5,
+      "title": "Amazon, Uber, and Other Internet Stocks Look Too Cheap After AI and Iran Worries",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 19:39",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Evercore 分析指出 Amazon 等網路股因短期地緣政治與 AI 擔憂導致股價超跌，具備投資價值。"
+    },
+    {
+      "rank": 6,
+      "title": "Affirm CFO Touts 39% GMV Growth, Profit Gains and Amazon Renewal",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 17:01",
+      "impact": "low",
+      "category": "合作夥伴",
+      "reason": "Affirm 續簽與 Amazon 的合作協議，並展現強勁的 GMV 成長，間接驗證 Amazon 金融科技服務的穩定性。"
+    },
+    {
+      "rank": 7,
+      "title": "Amazon expands a program that lets customers shop from other retailers’ sites",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 14:48",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "擴大 Shop Direct 計畫，增加與其他零售商的連結，有助於提升平台流量與生態系統黏著度。"
+    },
+    {
+      "rank": 8,
+      "title": "Amazon's Zoox expands robotaxi testing to Phoenix and Dallas",
+      "publisher": "CNBC",
+      "date": "2026-03-09 09:00",
+      "impact": "low",
+      "category": "市場擴張",
+      "reason": "Zoox 擴大測試範圍至鳳凰城與達拉斯，為後續大規模商業化部署奠定基礎。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Iran threatens to attack Google, Amazon and Microsoft",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 14:36",
+      "impact": "high",
+      "category": "地緣政治",
+      "reason": "伊朗將 Amazon 列為攻擊目標，引發市場對基礎設施安全與營運中斷的擔憂，屬於高風險的外部衝擊。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon plans 'deep dive' internal meeting to address AI-related outages",
+      "publisher": "CNBC",
+      "date": "2026-03-10 11:28",
+      "impact": "medium",
+      "category": "營運風險",
+      "reason": "AI 輔助生產變更導致基礎設施故障，顯示公司在導入 AI 技術時面臨營運穩定性的挑戰。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon Launches $37 Billion Bond Sale as AI Spending Surges",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 18:26",
+      "impact": "medium",
+      "category": "財務動態",
+      "reason": "發行高達 370 億美元債券，反映 AI 資本支出壓力巨大，可能增加財務槓桿風險與利息支出。"
+    },
+    {
+      "rank": 4,
+      "title": "UPS Reset After Amazon Exit Puts Valuation And Dividend Under Scrutiny",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 17:09",
+      "impact": "low",
+      "category": "營運風險",
+      "reason": "雖然是 UPS 的利空，但反映出 Amazon 供應鏈策略調整，可能導致物流成本結構的長期不確定性。"
+    },
+    {
+      "rank": 5,
+      "title": "Prediction: 2 Stocks That Will Be Worth More Than Amazon 3 Years From Now",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 18:20",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析師看好台積電與博通在 AI 領域的成長潛力，暗示 Amazon 在 AI 硬體供應鏈中可能面臨競爭或價值重估壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Oracle earnings will show whether its expensive AI bet is starting to pay off",
+      "publisher": "CNBC",
+      "date": "2026-03-10 07:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "提及 Oracle 與 OpenAI 的合作，將其與 Amazon 等雲端巨頭並列，屬於產業競爭格局的背景分析。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Amazon Stock Overvalued or Dirt Cheap? Here's the 1 Metric That Matters",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 17:51",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "針對 Amazon 估值的常規分析文章，未提供具體新消息，僅供投資人參考。"
+    },
+    {
+      "rank": 3,
+      "title": "Cisco Balances Amazon Skills Push With Ongoing Margin Pressures",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 16:11",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "Cisco 與 Amazon 在數位技能培訓上的合作，對 Amazon 股價影響有限，屬於企業社會責任範疇。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

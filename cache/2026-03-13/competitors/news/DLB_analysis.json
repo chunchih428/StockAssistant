@@ -1,0 +1,38 @@
+{
+  "ticker": "DLB",
+  "company": "Dolby Laboratories",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/DLB.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "Bearish",
+    "key_theme": "Dolby Laboratories 近期股價表現疲軟，市場對於其長期價值與財報後的成長動能持保留態度。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Dolby Laboratories (DLB): Buy, Sell, or Hold Post Q4 Earnings? — Over the last six months, Dolby Laboratories’s shares have sunk to $65.28, producing a disappointing 9.7% loss",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 20:24",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "該報導指出公司在 Q4 財報後股價表現不佳，過去六個月內下跌 9.7 %，反映出市場對其獲利能力或未來展望的失望，選此篇作為代表是因為其直接連結了財報結果與股價走勢。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Dolby Laboratories (DLB) Starting To Look Attractive After A Tough Five Years For Shareholders",
+      "publisher": "Yahoo",
+      "date": "2026-03-08 10:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章探討在經歷五年的股價低迷後，目前約 65 美元的股價是否具備投資價值，屬於中性的市場觀點分析，並未給出明確的買入或賣出建議。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

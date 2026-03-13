@@ -1,0 +1,120 @@
+{
+  "ticker": "F",
+  "company": "Ford",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/F.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 6,
+    "bearish_count": 8,
+    "neutral_count": 6,
+    "overall_sentiment": "bearish",
+    "key_theme": "儘管 Ford 在商用車軟體與 AI 領域展現成長潛力，但近期面臨大規模召回、安全聽證會壓力以及地緣政治導致油價飆升對獲利能力的威脅，市場情緒偏向保守。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ford launches new AI to grow multibillion-dollar Pro commercial business",
+      "publisher": "CNBC",
+      "date": "2026-03-10 17:30",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Ford 透過 AI 技術強化 Ford Pro 商用部門，旨在提升軟體營收佔比，這是執行長 Jim Farley 轉型策略的核心，有助於提升長期獲利結構。"
+    },
+    {
+      "rank": 2,
+      "title": "Ford’s new AI assistant will help fleet owners know if seatbelts are being used",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 22:51",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "此為 Ford Pro AI 的具體應用落地，能增加車隊管理客戶的黏著度，進一步鞏固 Ford 在商用車市場的競爭優勢。"
+    },
+    {
+      "rank": 3,
+      "title": "What's Fueling Ford's Free Cash Flow Growth Outlook for 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 14:00",
+      "impact": "medium",
+      "category": "財報預測",
+      "reason": "公司預期 2026 年自由現金流將達到 50 億至 60 億美元，較先前成長約 20 億美元，顯示汽車業務獲利能力與成本控制的改善。"
+    },
+    {
+      "rank": 4,
+      "title": "Ford and Bread Financial Accelerate Customer Benefits with New Financing Program",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 10:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "透過與 Bread Financial 合作發行聯名信用卡，有助於提升客戶忠誠度並創造額外的金融服務營收。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "US safety board to hold hearing on two fatal Ford crashes",
+      "publisher": "Reuters",
+      "date": "2026-03-11 14:17",
+      "impact": "high",
+      "category": "法規與安全",
+      "reason": "美國國家運輸安全委員會 (NTSB) 將針對兩起致命車禍舉行聽證會，可能引發後續大規模召回或法律訴訟，對品牌聲譽與財務造成負面影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Ford Recalls 47,804 Model Year 2025 Ranger, Mustang, Explorer, Bronco And Six Other Models",
+      "publisher": "Benzinga",
+      "date": "2026-03-10 05:05",
+      "impact": "medium",
+      "category": "產品召回",
+      "reason": "涉及多款主力車型的 EGR 閥故障導致動力喪失，召回數量龐大且影響範圍廣，將增加維修成本並打擊消費者信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Ford’s US$5b EV Platform Puts Valuation Discount and Risks in Focus",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 16:13",
+      "impact": "medium",
+      "category": "策略轉型",
+      "reason": "儘管投入 50 億美元開發電動車平台，但市場擔憂其在電動車領域的獲利能力與競爭壓力，導致估值持續折價。"
+    },
+    {
+      "rank": 4,
+      "title": "US-Iran War Oil Shock: Is Detroit's Gas-Truck Bet at Risk?",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 13:31",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "地緣政治導致油價飆升，威脅到 Ford 高獲利產品線（如大型皮卡）的銷售需求，市場擔憂其產品組合對油價過度敏感。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Ford Motor (F) Undervalued Or Overvalued After Its Recent Share Price Weakness",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 04:17",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "針對股價近期疲軟進行技術面與基本面分析，未提供明確買賣建議，僅反映市場對其估值的觀望態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Ford Motor Company (F) Is a Trending Stock: Facts to Know Before Betting on It",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅指出該股近期受到投資人高度關注，屬於熱門交易標的，未對股價走勢做出實質性判斷。"
+    },
+    {
+      "rank": 3,
+      "title": "Zacks Industry Outlook Highlights General Motors and Ford",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 09:26",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "產業展望報告將 Ford 與 GM 並列討論，屬於例行性產業分析，對個股影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

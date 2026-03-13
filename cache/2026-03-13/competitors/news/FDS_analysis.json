@@ -1,0 +1,84 @@
+{
+  "ticker": "FDS",
+  "company": "FactSet Research Systems",
+  "analysis_date": "2026-03-11",
+  "source_file": "cache/2026-03-11/competitors/news/FDS.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "FactSet 透過強化 AI 驅動的金融犯罪風險管理工具與策略性併購，展現出強勁的成長潛力，儘管面臨營運成本上升與過去一年股價大幅修正的挑戰。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "FactSet Deepens AI Focus With New Crime Tools And Leadership Shift",
+      "publisher": "Yahoo",
+      "date": "2026-03-08 03:13",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "FactSet 在其 Workstation 平台整合 AI 驅動的 KYC 與 AML 風險管理工具，並進行高層人事調整，顯示公司積極轉型以提升在數據分析領域的競爭優勢。"
+    },
+    {
+      "rank": 2,
+      "title": "Reasons Why You Should Retain FactSet Stock in Your Portfolio",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 13:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "FDS 股價在一個月內上漲 10 %，主要受惠於其在分析領域的擴張、策略性合作與併購活動，顯示市場對其業務轉型持正面態度。"
+    },
+    {
+      "rank": 3,
+      "title": "FactSet Research Systems (FDS) Bought by Ariel Appreciation Fund Amid AI Concerns",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 14:22",
+      "impact": "medium",
+      "category": "機構投資",
+      "reason": "Ariel Appreciation Fund 在 2025 年第四季增持 FDS 股票，顯示機構投資人對該公司在 AI 領域的長期佈局與價值具備信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Is It Time To Revisit FactSet Research Systems (FDS) After A 49% One Year Share Price Fall",
+      "publisher": "Yahoo",
+      "date": "2026-03-04 05:08",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "過去一年股價下跌 49 %，反映出市場對公司獲利能力或成長前景的長期擔憂，儘管目前被視為價值投資標的，但下跌趨勢仍需謹慎。"
+    },
+    {
+      "rank": 2,
+      "title": "Reasons Why You Should Retain FactSet Stock in Your Portfolio (Cost Concern)",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 13:30",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "雖然看好業務擴張，但報告同時指出營運成本持續上升，這將對 FactSet 的利潤率造成壓力，是投資人需關注的負面因素。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "FDS vs. VRSK: Which Stock Should Value Investors Buy Now?",
+      "publisher": "Zacks",
+      "date": "2026-03-10 15:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 FDS 與 VRSK 進行價值投資比較，屬於中性的市場分析報告，旨在協助投資人評估兩者之間的相對價值，並未給出明確的買進或賣出建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Is FactSet’s New AI Compliance Suite and Chief AI Officer Reshaping Its Competitive Edge in Data Analytics (FDS)?",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 15:09",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "此篇報導與 3 月 8 日的 AI 工具發布內容高度重疊，主要探討 AI 轉型對競爭力的影響，作為背景補充，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "RXT",
+  "company": "Rackspace Technology",
+  "analysis_date": "2026-03-11",
+  "source_file": "cache/2026-03-11/competitors/news/RXT.json",
+  "summary": {
+    "total_articles": 1,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "Rackspace Technology 宣布與 Uniphore 建立策略合作，透過結合 NVIDIA 與 AMD 支援的 AI 技術，推出業界首創的 Infrastructure-to-Agents 架構，市場反應正面。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Rackspace Technology Collaborates With Uniphore To Provide Infrastructure-to-Agents Architecture",
+      "publisher": "Benzinga",
+      "date": "2026-03-10 08:16",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "此新聞為該事件的原始公告，涵蓋了與 Uniphore 合作的技術細節（Infrastructure-to-Agents 架構）及商業模式（成果導向服務）。由於後續新聞皆為此事件的市場反應報導，故選此篇作為代表。該合作引入了 NVIDIA 與 AMD 支援的 AI 技術，有助於提升 Rackspace 在混合多雲與 AI 解決方案市場的競爭力。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

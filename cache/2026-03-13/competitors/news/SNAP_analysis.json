@@ -1,0 +1,93 @@
+{
+  "ticker": "SNAP",
+  "company": "Snap",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/SNAP.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 2,
+    "bearish_count": 4,
+    "neutral_count": 2,
+    "overall_sentiment": "bearish",
+    "key_theme": "Snap 面臨廣告市場波動與監管壓力，儘管訂閱服務成長帶來獲利轉機，但近期股價表現疲軟且市場情緒轉趨謹慎。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Snap Revenue Rebound And Snapchat Plus Growth Reshape Profitability Outlook",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-08",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "Snapchat Plus 訂閱服務的成長與營收回升，為公司長期獲利能力提供了結構性的改善訊號，對基本面有正面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Snap (SNAP) Up 4.3% Since Last Earnings Report: Can It Continue?",
+      "publisher": "Yahoo",
+      "date": "2026-03-06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "財報發布後股價曾出現 4.3 % 的漲幅，顯示市場對其上季業績表現給予初步肯定，但後續動能仍需觀察。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "UK watchdogs press Meta, TikTok, Snap and YouTube to block children",
+      "publisher": "Reuters",
+      "date": "2026-03-12",
+      "impact": "high",
+      "category": "法規監管",
+      "reason": "英國監管機構對 Snap 等社交平台施壓，要求加強對兒童用戶的保護，這可能導致合規成本上升並影響用戶參與度。"
+    },
+    {
+      "rank": 2,
+      "title": "Cautious Wall Street Sentiment on Snap Inc. (SNAP) Amid Advertising Volatility",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "華爾街對廣告市場的波動感到擔憂，直接影響了投資人對 Snap 營收穩定性的信心，導致市場情緒轉趨保守。"
+    },
+    {
+      "rank": 3,
+      "title": "Snap (SNAP) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "publisher": "Zacks",
+      "date": "2026-03-11",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Snap 股價跌幅大於大盤，顯示該股在市場修正期間表現出較高的貝塔值 (Beta) 與脆弱性，投資人拋售壓力較大。"
+    },
+    {
+      "rank": 4,
+      "title": "The Half-Million Bet Buried In SNAP's Options Tape",
+      "publisher": "Benzinga",
+      "date": "2026-03-06",
+      "impact": "low",
+      "category": "衍生性商品",
+      "reason": "選擇權市場出現大額押注，暗示機構投資人對短期股價走勢存在分歧或避險需求，增加了股價波動的不確定性。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Q4 Earnings Highlights: Snap (NYSE:SNAP) Vs The Rest Of The Social Networking Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-03-06",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "該報導僅對 Q4 財報進行橫向比較，屬於中性的數據整理，未對未來股價走勢提供明確的買入或賣出建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Is There Now An Opportunity In Snap (SNAP) After A Sharp Share Price Slide",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章探討股價下跌後是否出現投資機會，屬於客觀的市場評估，並未給出明確的看多或看空結論。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

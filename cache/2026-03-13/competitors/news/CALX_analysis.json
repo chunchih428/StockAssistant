@@ -1,0 +1,56 @@
+{
+  "ticker": "CALX",
+  "company": "Calix",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/CALX.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司憑藉 Cablelynx 產品推動託管連接業務成長，吸引機構投資人加碼，市場對其強勁的年度表現與估值潛力持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Fund Discloses New $6 Million Bet on Calix Amid 55% Stock Surge",
+      "publisher": "Motley Fool",
+      "date": "2026-03-04",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "機構投資人投入 600 萬美元資金，顯示專業投資者對 Calix 在股價大漲 55% 後的後續成長動能仍具信心，具備強烈的市場背書效應。"
+    },
+    {
+      "rank": 2,
+      "title": "Calix Cablelynx Rollout Highlights Managed Connectivity Growth And Valuation Gap",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-08",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Cablelynx 的推出強化了公司的託管連接業務，分析指出該業務具備成長潛力，且目前市場估值可能存在低估空間，有利於長期股價表現。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Calix (CALX) Valuation Check After Mixed Short Term Returns And Strong One Year Performance",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-08",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "文章綜合評估了短期回報的波動性與過去一年的強勁表現，屬於中性的估值檢視，提醒投資人關注股價波動風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Calix (CALX) Outperforming Other Computer and Technology Stocks This Year?",
+      "publisher": "Zacks",
+      "date": "2026-03-03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導主要進行產業內的績效比較分析，旨在提供投資人客觀的數據參考，並未對公司基本面提出明確的買進或賣出建議。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

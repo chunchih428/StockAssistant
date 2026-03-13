@@ -1,0 +1,56 @@
+{
+  "ticker": "EXC",
+  "company": "Exelon Corporation",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/EXC.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "Exelon 憑藉穩健的股利政策與分析師的正面評價，在公用事業板塊中展現出長期投資價值。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why Exelon (EXC) is a Top Dividend Stock for Your Portfolio",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 15:45",
+      "impact": "medium",
+      "category": "股利政策",
+      "reason": "該報導強調 Exelon 作為優質股利股的地位，對於追求穩定現金流的長期投資者具有吸引力，有助於支撐股價底部。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Exelon Corporation Stock Underperforming the Dow? — While Exelon Corporation stock has slightly lagged the Dow over the past year, analysts remain moderately bullish",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 18:40",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "儘管近期股價表現落後於道瓊指數，但分析師仍維持中度看多觀點，顯示市場對其基本面仍具信心。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "EXC vs. OGE: Which Stock Is the Better Value Option?",
+      "publisher": "Zacks",
+      "date": "2026-03-04 16:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此類比較型文章旨在提供投資人價值評估參考，並未對 EXC 本身給出明確的買進或賣出建議，屬於中性市場觀察。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Exelon Corporation Stock Underperforming the Dow?",
+      "publisher": "Barchart",
+      "date": "2026-03-11 18:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此為 Yahoo 報導的原始來源，內容僅針對股價相對表現進行客觀數據陳述，未包含主觀看多或看空立場，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

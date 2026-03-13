@@ -1,0 +1,75 @@
+{
+  "ticker": "M",
+  "company": "Macy's",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/M.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 1,
+    "bearish_count": 3,
+    "neutral_count": 2,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場對 Macy's 即將公布的第 4 季財報持謹慎態度，且分析師對其長期基本面仍抱持賣出觀點。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Macy's (M) Valuation Check As Dividend Rises And Earnings Update Approaches",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 17:10",
+      "impact": "medium",
+      "category": "股利政策",
+      "reason": "公司董事會批准增加股利發放，顯示管理層對現金流的信心，為股價提供了一定的支撐力道。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "UBS Maintains Sell on Macy's, Raises Price Target to $9",
+      "publisher": "Benzinga",
+      "date": "2026-03-09 11:31",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "瑞銀 (UBS) 分析師 Jay Sole 維持「賣出」評級，儘管目標價微幅上調至 9 美元，但仍遠低於當前市價，顯示對公司基本面極度看空。"
+    },
+    {
+      "rank": 2,
+      "title": "Here's Why Macy's (M) Fell More Than Broader Market",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 22:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Macy's 單日下跌 4.79 %，表現弱於大盤，反映出投資人對零售業疲軟的擔憂，此處選用 Yahoo 報導作為代表。"
+    },
+    {
+      "rank": 3,
+      "title": "Should You Buy, Hold or Sell Macy's Stock Before Q4 Earnings?",
+      "publisher": "Zacks",
+      "date": "2026-03-02 16:52",
+      "impact": "low",
+      "category": "財報預期",
+      "reason": "市場對於第 4 季財報公布前的觀望氣氛濃厚，分析師建議謹慎看待，不確定性增加導致賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Target, Best Buy, Costco, Macy's, Walmart and Amazon are part of Zacks Earnings Preview",
+      "publisher": "Zacks",
+      "date": "2026-03-02 06:43",
+      "impact": "low",
+      "category": "財報預期",
+      "reason": "僅為例行性的財報季前瞻報導，將 Macy's 列入零售板塊觀察名單，未對股價產生直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Here's Why Macy's (M) Fell More Than Broader Market",
+      "publisher": "Zacks",
+      "date": "2026-03-06 22:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此篇與 Yahoo 報導內容重複，僅作為市場波動的客觀事實陳述，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

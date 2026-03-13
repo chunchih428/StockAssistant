@@ -1,0 +1,47 @@
+{
+  "ticker": "NOVT",
+  "company": "Novanta",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/NOVT.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "儘管近期出現大額機構投資，但 Novanta 面臨股價過高疑慮與市場拋售壓力，整體表現疲軟。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Novanta Stock Has Underperformed This Past Year, but One Investor Just Made a $36 Million Bet on Shares",
+      "publisher": "Motley Fool",
+      "date": "2026-03-04",
+      "impact": "medium",
+      "category": "機構投資",
+      "reason": "儘管 Novanta 過去一年表現落後，但有機構投資人投入 3,600 萬美元資金，顯示市場對其長期價值仍有信心，具備潛在支撐力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "DXP, Wabash, Griffon, Gibraltar, and Novanta Shares Plummet, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-03",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價出現顯著下跌，反映出市場對該公司短期營運或產業環境的負面情緒，導致投資人拋售壓力增加。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Novanta (NOVT) Pricing Too High After Recent Share Price Climb?",
+      "publisher": "Yahoo",
+      "date": "2026-03-05",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "市場對 Novanta 在股價上漲後的估值合理性提出質疑，暗示目前股價可能已脫離基本面，存在修正風險。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

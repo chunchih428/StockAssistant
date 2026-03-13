@@ -1,0 +1,102 @@
+{
+  "ticker": "AMD",
+  "company": "AMD",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/AMD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "AMD 透過與 Samsung、Xanadu 及 BlackBerry 的策略合作積極擴展 AI 與嵌入式系統版圖，儘管面臨 Meta 自研晶片與 Nvidia 的競爭壓力，但長期成長動能依然強勁。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "AMD CEO Heads To South Korea To Secure AI Chips, Challenge Nvidia",
+      "publisher": "Benzinga",
+      "date": "2026-03-11 09:02",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "執行長 Lisa Su 親自前往韓國與 Samsung 及 Naver 高層會面，旨在確保 AI 記憶體晶片供應，此舉對於 AMD 提升 AI 運算效能並挑戰 Nvidia 市場地位至關重要。"
+    },
+    {
+      "rank": 2,
+      "title": "Advanced Micro Devices (AMD) Enters a Multi-Year Partnership With Adeia",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 15:33",
+      "impact": "medium",
+      "category": "法律與授權",
+      "reason": "AMD 與 Adeia 達成多年專利授權協議，解決了所有懸而未決的訴訟，消除了潛在的法律風險並為長期成長鋪路。"
+    },
+    {
+      "rank": 3,
+      "title": "Xanadu and AMD Accelerate Quantum Computing for Aerospace and Engineering",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 11:00",
+      "impact": "medium",
+      "category": "技術創新",
+      "reason": "AMD 與 Xanadu 合作展示混合量子與傳統運算技術，展現其在先進模擬與未來工程運算領域的技術領先地位。"
+    },
+    {
+      "rank": 4,
+      "title": "BlackBerry, AMD Team Up To Power Faster, Smarter Machines From Cars To Robots",
+      "publisher": "Benzinga",
+      "date": "2026-03-10 06:49",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "AMD Ryzen Embedded 處理器整合至 BlackBerry QNX 平台，有助於擴大 AMD 在汽車與機器人等嵌入式系統市場的市佔率。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Meta announces 4 new AI chips, raising competitive stakes with Nvidia, AMD",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 14:00",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "Meta 推出 4 款自研 AI 晶片，顯示大型科技公司正加速減少對外部供應商的依賴，對 AMD 的資料中心晶片業務構成長期競爭壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Michael Burry Calls Nvidia 'Mafia-Like,' Says AI Chip Market Could Face Antitrust Scrutiny",
+      "publisher": "Benzinga",
+      "date": "2026-03-10 11:18",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "雖然提到 Nvidia 壟斷行為可能對 AMD 有利，但市場對 AI 晶片領域的反壟斷審查擔憂，可能導致整體產業估值波動。"
+    },
+    {
+      "rank": 3,
+      "title": "AMD Surges 109% in a Year: Is There More Room for the Stock to Grow?",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 15:04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價一年內飆升 109%，市場開始質疑其估值過高及第一季財測保守，可能引發獲利了結賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "AI chipmaker Cerebras namedropped by Oracle, alongside Nvidia and AMD",
+      "publisher": "CNBC",
+      "date": "2026-03-10 20:48",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅是提及 AMD 與其他競爭對手並列，對 AMD 本身營運無直接實質影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Meet the Super Semiconductor Stock Obliterating Nvidia, AMD, and Broadcom Right Now",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 08:13",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導主要推廣其他半導體公司，將 AMD 作為對比標竿，不影響 AMD 基本面。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

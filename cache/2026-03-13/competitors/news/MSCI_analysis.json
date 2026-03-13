@@ -1,0 +1,93 @@
+{
+  "ticker": "MSCI",
+  "company": "MSCI",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/MSCI.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "neutral",
+    "key_theme": "MSCI 透過併購與平台擴張強化業務競爭力，但面臨新興市場波動與估值修正的雙重壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "MSCI Expands Wealth Platform And Revamps ESG Scores As Investors Assess Value",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 17:13",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "與 Snowden Lane Partners 合作推廣 MSCI Wealth Manager 平台，有助於擴大財富管理領域的市佔率，並透過優化 ESG 評分機制提升產品競爭力。"
+    },
+    {
+      "rank": 2,
+      "title": "MSCI Acquires Compass Financial to Expand Multi-Asset Indexes",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 18:21",
+      "impact": "medium",
+      "category": "企業併購",
+      "reason": "收購 Compass Financial Technologies 強化了 MSCI 在多資產指數（包含大宗商品與權益類）的技術能力，有利於長期營收多元化。"
+    },
+    {
+      "rank": 3,
+      "title": "MSCI’s Vantager Deal Puts Data Growth Against Recent Share Weakness",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-03 11:09",
+      "impact": "low",
+      "category": "企業併購",
+      "reason": "透過 Vantager 交易推動數據業務成長，儘管股價近期疲軟，但數據驅動的成長策略被視為長期利多。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Emerging-Market Rout Deepens as Oil Shock Sparks Investor Flight",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 12:45",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "MSCI 新興市場指數下跌 3 % 進入修正區間，由於 MSCI 的營收與指數表現高度相關，市場動盪可能影響其授權費用與客戶需求。"
+    },
+    {
+      "rank": 2,
+      "title": "Is It Time To Reconsider MSCI (MSCI) After Its Recent Valuation Checks?",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 10:08",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "市場對 MSCI 的高估值提出質疑，投資人開始評估其股價是否過高，這可能導致短期內的獲利了結賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "MSCI (MSCI): Buy, Sell, or Hold Post Q4 Earnings?",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 00:06",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "針對 Q4 財報後的投資評級分析，指出股價自 2025 年 9 月以來維持在 565 美元左右的盤整格局，缺乏明確方向。"
+    },
+    {
+      "rank": 2,
+      "title": "How Is MSCI's Stock Performance Compared to Other Financial Service Stocks?",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 08:04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "對比同業表現，MSCI 過去一年表現優於同儕，但華爾街分析師態度轉為審慎樂觀，反映市場對未來成長動能的觀望。"
+    },
+    {
+      "rank": 3,
+      "title": "MSCI Inc. (MSCI) Presents at RBC Capital Markets Global Financial Institutions Conference 2026 Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-10 16:40",
+      "impact": "low",
+      "category": "會議紀要",
+      "reason": "公司於 RBC 會議中進行簡報，主要重申既有策略，未有重大突發性利多或利空消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
