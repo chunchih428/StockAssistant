@@ -1,0 +1,93 @@
+{
+  "ticker": "RBRK",
+  "company": "Rubrik",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/RBRK.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 2,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "中性偏空",
+    "key_theme": "儘管華爾街分析師長期看好其成長潛力，但近期因財報前夕的目標價下調潮，導致市場對 Rubrik 的短期股價表現轉趨謹慎。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Wall Street Analysts Predict an 82.7% Upside in Rubrik, Inc. (RBRK): Here's What You Should Know",
+      "publisher": "Zacks",
+      "date": "2026-03-06",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "分析師預測該股具備 82.7% 的上漲空間，顯示市場對其長期商業模式與網路安全領域的競爭地位仍抱持高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Rubrik’s (RBRK) Recurring Revenue Push Redefining Its Role In Cyber Data Protection?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-07",
+      "impact": "medium",
+      "category": "商業模式",
+      "reason": "探討公司轉向經常性收入模式的策略，此舉有助於提升營收可預測性，長期有利於估值提升。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Baird Maintains Outperform on Rubrik, Lowers Price Target to $110",
+      "publisher": "Benzinga",
+      "date": "2026-03-06",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Baird 分析師 Shrenik Kothari 將目標價從 $125 下調至 $110，反映出對短期成長動能的保守預期。"
+    },
+    {
+      "rank": 2,
+      "title": "Rosenblatt Maintains Buy on Rubrik, Lowers Price Target to $95",
+      "publisher": "Benzinga",
+      "date": "2026-03-09",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Rosenblatt 分析師 Blair Abernethy 將目標價大幅下調至 $95，顯示機構投資人對其近期股價表現的擔憂加劇。"
+    },
+    {
+      "rank": 3,
+      "title": "Cantor Fitzgerald Maintains Overweight on Rubrik, Lowers Price Target to $85",
+      "publisher": "Benzinga",
+      "date": "2026-03-09",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Cantor Fitzgerald 分析師 Jonathan Ruykhaver 將目標價下調至 $85，為近期一系列目標價下調潮中的最低點，對股價構成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Rubrik Set to Report Q4 Earnings: What's in Store for the Stock?",
+      "publisher": "Zacks",
+      "date": "2026-03-10",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "市場正等待 Q4 財報發布，投資人觀望情緒濃厚，財報結果將成為決定股價短期走勢的關鍵。"
+    },
+    {
+      "rank": 2,
+      "title": "What Analyst Projections for Key Metrics Reveal About Rubrik, Inc. (RBRK) Q4 Earnings",
+      "publisher": "Zacks",
+      "date": "2026-03-09",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "分析師針對關鍵財務指標的預測，為投資人提供財報前的參考基準，屬於中性資訊揭露。"
+    },
+    {
+      "rank": 3,
+      "title": "Is It Time To Reassess Rubrik (RBRK) After Its NYSE Listing And Price Pullback",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對上市後股價回調進行的技術性與基本面回顧，旨在引導投資人重新評估持倉，並未給出明確買賣建議。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

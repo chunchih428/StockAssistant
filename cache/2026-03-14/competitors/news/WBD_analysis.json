@@ -1,0 +1,93 @@
+{
+  "ticker": "WBD",
+  "company": "Warner",
+  "analysis_date": "2026-03-13",
+  "source_file": "cache/2026-03-13/competitors/news/WBD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 2,
+    "bearish_count": 12,
+    "neutral_count": 6,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場高度關注 Paramount Skydance 對 Warner Bros. Discovery 的收購案，分析師擔憂整合風險與債務壓力，且競爭對手 YouTube 在廣告營收表現上持續超越 WBD。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "TD Cowen Raises Warner Bros. Discovery, Inc. (WBD) Price Target to $26",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 12:53",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "TD Cowen 將 WBD 目標價上調至 26 美元，反映出市場對該公司在低價高成交量股票中的價值認可。"
+    },
+    {
+      "rank": 2,
+      "title": "Wells Fargo Reinstates Equal-Weight on Warner Bros. Discovery, Announces $31 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-03-09 09:45",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "Wells Fargo 重啟對 WBD 的追蹤並給予中立評級，目標價設定為 31 美元，顯示分析師對其長期價值持保留但穩健的態度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Paramount Skydance-Warner Bros. Discovery Deal Raises Integration Concerns, BofA Says",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 15:03",
+      "impact": "high",
+      "category": "併購動態",
+      "reason": "美國銀行 (BofA) 指出 Paramount Skydance 收購 WBD 存在顯著整合風險，且該交易需多年才能產生回報，導致評級被下調。"
+    },
+    {
+      "rank": 2,
+      "title": "YouTube surpasses Disney, Paramount, WBD in 2025 ad revenue",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 19:10",
+      "impact": "high",
+      "category": "市場競爭",
+      "reason": "YouTube 2025 年廣告營收達 404 億美元，超越 WBD 等傳統媒體巨頭，顯示數位平台對傳統媒體廣告份額的持續侵蝕。"
+    },
+    {
+      "rank": 3,
+      "title": "Option traders moderately bearish in Warner Bros. Discovery with shares down 0.55%",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 14:20",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "選擇權交易員對 WBD 持中度看空態度，反映市場對股價短期走勢缺乏信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Veteran media exec: Paramount's acquisition of Warner Bros. will likely result in reduced output",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 13:00",
+      "impact": "medium",
+      "category": "產業分析",
+      "reason": "資深媒體高管預測併購將導致內容產出減少，可能削弱 WBD 在影視市場的競爭力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Market Chatter: Warner Bros. Discovery, Paramount Skydance, Discuss Passive Tencent Investment for Acquisition Deal",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 08:17",
+      "impact": "medium",
+      "category": "併購動態",
+      "reason": "騰訊參與收購案的資金挹注傳聞，為交易增添變數，但尚未對 WBD 基本面產生實質影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Where Warner Bros. Discovery Stands With Analysts",
+      "publisher": "Benzinga",
+      "date": "2026-03-09 10:00",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "彙整市場分析師對 WBD 的綜合看法，提供投資人客觀的市場情緒參考。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,65 @@
+{
+  "ticker": "FFIV",
+  "company": "F5",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/FFIV.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 4,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "F5 透過 AppWorld 大會積極推動 AI 安全與應用交付平台升級，獲得市場分析師正面評價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "F5 Strengthens Its Application Delivery and Security Platform to Simplify Operations and Accelerate Secure AI Adoption",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 16:00",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "F5 在 AppWorld 大會上宣布強化其應用交付與安全平台，旨在簡化營運並加速企業採用安全 AI，此舉直接提升了公司在 AI 時代的競爭護城河。"
+    },
+    {
+      "rank": 2,
+      "title": "How The F5 (FFIV) Investment Story Is Evolving With AI Security And Street Expectations",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 20:10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師維持 310.30 美元 的公平價值目標價，顯示市場對 F5 轉型 AI 安全領域的投資故事持正面且穩定的看法。"
+    },
+    {
+      "rank": 3,
+      "title": "F5 Advances Enterprise Application Security for the AI and Post-quantum Era",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 16:00",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "針對 AI 與後量子時代的安全性升級，展現了 F5 在技術前瞻性上的領導地位，有助於鞏固其企業級客戶基礎。"
+    },
+    {
+      "rank": 4,
+      "title": "F5 Accelerates Enterprise AI Security Deployment With Certified Red Hat OpenShift Operators and Proven AI Quickstarts",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 13:00",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "透過與 Red Hat OpenShift 的認證整合，降低了企業部署 AI 安全的門檻，有助於加速產品的市場滲透率。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Q4 Earnings Highlights: F5 (NASDAQ:FFIV) Vs The Rest Of The Content Delivery Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 16:06",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "此篇為針對 Q4 財報的產業橫向比較回顧，屬於資訊整理性質，並未提供新的股價催化劑或重大財務修正。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

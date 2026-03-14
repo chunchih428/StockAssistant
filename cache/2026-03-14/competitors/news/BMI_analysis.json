@@ -1,0 +1,38 @@
+{
+  "ticker": "BMI",
+  "company": "Badger Meter",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/BMI.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "Neutral to Bearish",
+    "key_theme": "市場對 Badger Meter 的高估值與近期股價回調表現出謹慎態度，儘管物聯網 (IoT) 業務仍具成長潛力。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Badger Meter (BMI) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "publisher": "Zacks",
+      "date": "2026-03-05",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價跌幅超過大盤，顯示市場對該公司近期估值過高或獲利了結壓力較大，投資人需關注技術面支撐位。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Assessing Badger Meter (BMI) Valuation After Mixed Momentum And IoT Growth Expectations",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-04",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "該分析指出公司在物聯網 (IoT) 領域的成長預期與當前估值之間存在分歧，市場情緒呈現多空拉鋸，缺乏明確的單一方向驅動因素。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

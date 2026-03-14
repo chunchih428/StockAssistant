@@ -1,0 +1,66 @@
+{
+  "ticker": "ITRI",
+  "company": "Itron",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/ITRI.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 Itron 在智慧電網領域的成長潛力持樂觀態度，並獲得分析師給予買入評級與目標價支持。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Needham Initiates Coverage On Itron with Buy Rating, Announces Price Target of $124",
+      "publisher": "Benzinga",
+      "date": "2026-03-06 07:40",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Needham 分析師 Sean Milligan 給予 Itron 買入評級並設定 124 美元目標價，顯示專業機構對其未來營收成長與市場地位的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Tantalus Extends ERT License Agreement with Itron",
+      "publisher": "MT Newswires",
+      "date": "2026-03-04 16:27",
+      "impact": "medium",
+      "category": "商業合作",
+      "reason": "與 Tantalus 延長 ERT 授權協議，有助於鞏固 Itron 在智慧計量技術領域的長期營收穩定性與市場份額。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Itron’s $700m Convertible Notes Put Earnings Strength And Valuation In Focus",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-03 22:04",
+      "impact": "medium",
+      "category": "財務融資",
+      "reason": "發行 7 億美元可轉換公司債可能引發股權稀釋疑慮，並使市場重新審視公司的獲利能力與當前估值是否過高。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "The Analyst Verdict: Itron In The Eyes Of 5 Experts",
+      "publisher": "Benzinga",
+      "date": "2026-03-06 08:01",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "彙整多位專家對 Itron 的看法，提供市場共識的概覽，雖無直接利多或利空，但有助於投資人評估市場情緒。"
+    },
+    {
+      "rank": 2,
+      "title": "Assessing Itron (ITRI) Valuation After Recent Share Price Pullback And Smart Grid Growth Expectations",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-08 16:08",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "針對近期股價回調後的估值進行評估，結合智慧電網成長預期，屬於中性的基本面分析，未對股價產生直接驅動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

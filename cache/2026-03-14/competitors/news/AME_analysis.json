@@ -1,0 +1,66 @@
+{
+  "ticker": "AME",
+  "company": "AMETEK",
+  "analysis_date": "2026-03-14",
+  "source_file": "cache/2026-03-14/competitors/news/AME.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "Neutral to Bullish",
+    "key_theme": "市場對 AMETEK 的估值與產業表現持審慎樂觀態度，儘管近期股價回調，但仍獲知名投資人青睞及分析師調升目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Morgan Stanley Maintains Equal-Weight on AMETEK, Raises Price Target to $235",
+      "publisher": "Benzinga",
+      "date": "2026-03-12 13:48",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "摩根士丹利分析師 Christopher Snyder 將目標價調升至 235 美元，顯示對公司長期成長潛力的信心，儘管維持中立評級，但目標價上調對股價具正面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Ametek Inc. (AME) Reflects Mario Gabelli’s Decades-Long Bet on Industrial Technology Solutions",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 21:22",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "億萬富翁投資人 Mario Gabelli 長期持有該股，顯示機構投資人對其工業技術解決方案的長期價值認可，有助於穩定市場信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "AMETEK Stock: Is AME Underperforming the Industrial Sector?",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 13:43",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出 AMETEK 過去一年表現落後於整體工業板塊，反映出市場對其成長動能是否能跟上產業復甦的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is AMETEK (AME) Pricing Still Justified After Recent Share Price Pullback?",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 00:27",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對近期股價回調後的估值合理性進行探討，未給出明確買賣建議，僅提供投資人評估價值時的參考視角。"
+    },
+    {
+      "rank": 2,
+      "title": "Ametek (AME) Up 3% Since Last Earnings Report: Can It Continue?",
+      "publisher": "Zacks",
+      "date": "2026-03-05 16:30",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "回顧財報後 3% 的漲幅，並探討後續動能，屬於對過去表現的總結與未來不確定性的中性分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

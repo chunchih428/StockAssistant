@@ -1,0 +1,156 @@
+{
+  "ticker": "MSFT",
+  "company": "Microsoft",
+  "analysis_date": "2026-03-14",
+  "source_file": "cache/2026-03-14/holdings/news/MSFT.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 6,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管面臨短期股價波動與資安質疑，Microsoft 憑藉 AI 生態系的持續擴張、Copilot 產品創新及強勁的長期基本面，仍被市場視為核心 AI 解決方案提供商。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Microsoft Is Racing to Beat Claude Cowork. A Big Catalyst for MSFT Stock Is Coming May 1.",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 18:28",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Microsoft 即將推出每月 99 美元的 AI 工具組合包，此舉被視為對抗競爭對手 Claude 的關鍵催化劑，預期將顯著提升軟體營收。"
+    },
+    {
+      "rank": 2,
+      "title": "Microsoft Copilot Health And Leadership Shift Reframe Long Term Valuation Story",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 20:09",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出 Copilot Health 整合個人健康紀錄，展現 Microsoft 在垂直領域 AI 應用的深度，有助於重塑長期估值故事。"
+    },
+    {
+      "rank": 3,
+      "title": "Microsoft's Quality Rank Hits New High As Texas AI Data Center Expansion In Focus",
+      "publisher": "Benzinga",
+      "date": "2026-03-13 08:27",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "公司品質評分達到新高，且積極擴張德州 AI 資料中心，顯示基礎設施投資持續支撐其 AI 領先地位。"
+    },
+    {
+      "rank": 4,
+      "title": "Microsoft Stock Hasn’t Been This Cheap in a Decade. It’s Time to Buy.",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 12:01",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出目前股價處於十年來相對低點，認為市場對 AI 的擔憂過度，提供了良好的長期買入時機。"
+    },
+    {
+      "rank": 5,
+      "title": "AMD Places Bet On Open Optical Standards For Future AI Data Centers",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 19:08",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "Microsoft 與 AMD、Meta、NVIDIA 及 OpenAI 共同成立光學運算互連聯盟，強化 AI 資料中心技術標準的領導力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "SentinelOne CEO: Microsoft has more vulnerabilities than any other company",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 12:00",
+      "impact": "medium",
+      "category": "資安風險",
+      "reason": "SentinelOne 執行長公開指控 Microsoft 擁有比其他公司更多的安全漏洞，可能影響企業客戶對其雲端服務的信任度。"
+    },
+    {
+      "rank": 2,
+      "title": "Microsoft (MSFT) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價近期出現 1.57% 的回調，表現弱於大盤，反映出短期賣壓與市場情緒的修正。"
+    },
+    {
+      "rank": 3,
+      "title": "Option traders moderately bearish in Microsoft with shares little changed",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 17:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "選擇權交易員表現出中度看空情緒，顯示部分投資人對短期股價走勢持謹慎態度。"
+    },
+    {
+      "rank": 4,
+      "title": "Microsoft top Office executive Rajesh Jha retiring after more than 35 years",
+      "publisher": "CNBC",
+      "date": "2026-03-12 13:00",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "資深高管 Rajesh Jha 退休，雖然其對 AI 整合有貢獻，但長期任職後的離職通常被視為組織調整的過渡期。"
+    },
+    {
+      "rank": 5,
+      "title": "Microsoft says court should temporarily block Pentagon's blacklist of Anthropic",
+      "publisher": "CNBC",
+      "date": "2026-03-10 17:28",
+      "impact": "low",
+      "category": "法規與訴訟",
+      "reason": "Microsoft 介入支持 Anthropic 對抗五角大廈的供應鏈黑名單，顯示其在 AI 合作夥伴關係上正面臨監管與地緣政治壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Microsoft plans to ship prototype of next Xbox console to developers in 2027",
+      "publisher": "CNBC",
+      "date": "2026-03-11 14:30",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "Xbox 硬體更新屬於長期產品規劃，對短期財務影響有限，屬於例行性業務更新。"
+    },
+    {
+      "rank": 2,
+      "title": "Microsoft Corporation (MSFT)’s Expanding Role in Global Security",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 18:31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章提及 Microsoft 為清真投資標的，並討論其在安全領域的角色，屬於投資組合分析性質。"
+    },
+    {
+      "rank": 3,
+      "title": "What Makes Microsoft (MSFT) a Main AI Solution Provider for Enterprises?",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 13:09",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "引用資產管理公司觀點，重申 Microsoft 作為企業 AI 解決方案提供商的地位，屬市場觀點整理。"
+    },
+    {
+      "rank": 4,
+      "title": "Microsoft’s IPO turns 40 today.",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 07:08",
+      "impact": "low",
+      "category": "公司歷史",
+      "reason": "紀念上市 40 週年，屬於歷史回顧，對股價無直接影響。"
+    },
+    {
+      "rank": 5,
+      "title": "Microsoft vs. Amazon: Which AI Stock Is a Better Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 06:19",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對 Microsoft 與 Amazon 的 AI 競爭進行比較分析，屬於投資建議類型的中性報導。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

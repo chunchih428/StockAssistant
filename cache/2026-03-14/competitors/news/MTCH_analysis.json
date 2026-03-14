@@ -1,0 +1,92 @@
+{
+  "ticker": "MTCH",
+  "company": "Match Group",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/MTCH.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 0,
+    "bearish_count": 5,
+    "neutral_count": 3,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司面臨高層人事異動、遭剔除指數成分股以及機構投資人減持等多重負面壓力，市場對其成長動能與 Gen Z 用戶連結能力存疑。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Match Group COO out, as dating apps struggle to connect with Gen Z",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 15:36",
+      "impact": "high",
+      "category": "高層異動",
+      "reason": "公司宣布裁撤營運長 (COO) 職位，且 Hesam Hosseini 將於 2026 年 6 月離職。此舉反映出公司在吸引年輕世代 (Gen Z) 用戶方面面臨嚴峻挑戰，管理層結構調整顯示內部營運策略正處於動盪期。"
+    },
+    {
+      "rank": 2,
+      "title": "Jim Cramer Explains Why Match Group Was Expelled from the S&P 500",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 12:06",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Match Group 被剔除出 S&P 500 指數，這將導致追蹤該指數的被動型基金被迫拋售股票，對股價造成直接的流動性壓力與市場信心打擊。"
+    },
+    {
+      "rank": 3,
+      "title": "13D Management Exits Match Group After Selling $4.7 Million Stake in Dating App Platform",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 03:58",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "機構投資人 13D Management 在第四季清空了價值 470 萬美元的持股，顯示專業投資機構對該公司未來前景缺乏信心，進一步加劇市場拋售壓力。"
+    },
+    {
+      "rank": 4,
+      "title": "How The Narrative On Match Group (MTCH) Is Shifting With Mixed Targets And Flat Growth Guidance",
+      "publisher": "Yahoo",
+      "date": "2026-03-06 12:12",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "公司給出的成長指引持平，且折現率上升，顯示市場對其未來現金流折現價值 (DCF) 的評估趨於保守，成長故事已不再具備吸引力。"
+    },
+    {
+      "rank": 5,
+      "title": "Is Match Group (MTCH) Pricing Look Compelling After Prolonged Share Price Declines",
+      "publisher": "Yahoo",
+      "date": "2026-03-07 18:06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章探討股價長期下跌後的估值吸引力，但暗示股價仍有進一步下探空間，反映市場對其底部尚未確認的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Match Group, Inc. (MTCH) Presents at Morgan Stanley Technology, Media & Telecom Conference 2026 Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-05 16:46",
+      "impact": "low",
+      "category": "法說會",
+      "reason": "公司參與摩根士丹利科技媒體電信會議，主要為例行性業務說明，未有重大戰略轉折或利多消息釋出，對股價影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Match Group (MTCH) Up 0.6% Since Last Earnings Report: Can It Continue?",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 16:30",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "回顧財報發布後 30 天的股價表現，僅微幅上漲 0.6%，屬於技術性回顧，未提供新的基本面驅動因素。"
+    },
+    {
+      "rank": 3,
+      "title": "Match Group To Eliminate Chief Operating Officer Role; Hesam Hosseini To Depart Match Group, Effective June 2, 2026",
+      "publisher": "Benzinga",
+      "date": "2026-03-05 10:24",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "此篇為人事異動的公告細節，與 Yahoo 的報導內容重複，僅作為事實性披露，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

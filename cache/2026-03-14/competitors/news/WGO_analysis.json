@@ -1,0 +1,47 @@
+{
+  "ticker": "WGO",
+  "company": "Winnebago Industries",
+  "analysis_date": "2026-03-13",
+  "source_file": "cache/2026-03-13/competitors/news/WGO.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "neutral",
+    "key_theme": "市場正密切關注 Winnebago Industries 即將公布的 2026 財年第二季財報，同時對其獲利能力與營收成長之間的結構性失衡表示擔憂。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Winnebago Industries Faces Structural Strain As Profit Lags Revenue Growth",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-03",
+      "impact": "medium",
+      "category": "財務績效",
+      "reason": "該報導指出公司面臨結構性壓力，獲利成長速度未能跟上營收擴張，顯示營運效率與利潤率存在隱憂，可能影響投資人對長期獲利能力的信心。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Winnebago Industries to Announce Second Quarter Fiscal 2026 Financial Results on March 25, 2026",
+      "publisher": "Yahoo",
+      "date": "2026-03-06",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "此為例行性的財報發布預告，市場將根據 3 月 25 日公布的實際數據來評估公司營運狀況，目前僅為資訊揭露。"
+    },
+    {
+      "rank": 2,
+      "title": "Should You Invest in Winnebago Industries (WGO)?",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該文章屬於投資分析類型的觀點整理，並未提供具體的買賣建議或重大基本面變動，僅作為投資人評估 WGO 標的時的參考資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

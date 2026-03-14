@@ -1,0 +1,46 @@
+{
+  "ticker": "GEMI",
+  "company": "Gemini Space Station",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/GEMI.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 0,
+    "bearish_count": 3,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司內部動盪與創辦人潛在拋售行為引發市場對其 IPO 披露與成長前景的嚴重質疑。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Winklevoss Twins Move $121 Million Worth Of Bitcoin To Their Gemini Exchange 'Presumably To Sell,' Says On-Chain Tracker",
+      "publisher": "Benzinga",
+      "date": "2026-03-11 00:56",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "創辦人 Tyler 與 Cameron Winklevoss 將價值 1.21 億美元的比特幣轉入交易所，市場解讀為潛在的拋售行為，可能對公司流動性與股價造成直接賣壓。"
+    },
+    {
+      "rank": 2,
+      "title": "Gemini Space Station Turmoil Puts IPO Disclosures And Growth Story Under Scrutiny",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-09",
+      "impact": "medium",
+      "category": "公司治理",
+      "reason": "公司內部動盪導致投資人對其 IPO 期間的財務披露真實性產生懷疑，削弱了市場對其長期成長故事的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Gemini Space Station: Not Chasing This Crypto Turnaround Yet",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-05",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "分析指出該公司近期股價反彈已將前瞻 EV / Revenue 倍數推升至成長股區間，但基本面尚未支撐此估值，建議投資人保持觀望。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

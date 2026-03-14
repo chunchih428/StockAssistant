@@ -1,0 +1,28 @@
+{
+  "ticker": "RRX",
+  "company": "Regal Rexnord",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/RRX.json",
+  "summary": {
+    "total_articles": 1,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場對工業類股的集體拋售壓力導致 Regal Rexnord 股價出現顯著回調。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Powell, Regal Rexnord, Thermon, Quanex, and Curtiss-Wright Shares Plummet, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-03",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "該報導指出 Regal Rexnord 與其他工業設備製造商股價同步重挫，反映出投資人對該產業板塊的避險情緒升溫，且缺乏具體利多支撐，短期內賣壓沉重。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

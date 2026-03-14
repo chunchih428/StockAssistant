@@ -1,0 +1,28 @@
+{
+  "ticker": "DJT",
+  "company": "Trump Media & Technology Group ",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/DJT.json",
+  "summary": {
+    "total_articles": 1,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場質疑 DJT 的核心業務價值已從媒體轉向高風險的比特幣資產配置，引發對公司基本面與估值邏輯的擔憂。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "DJT Is No Longer a Media Company. It’s a Bitcoin Treasury With a Brand",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-03-10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導指出 DJT 的業務重心已偏離原有的媒體平台，轉而成為持有比特幣的資產管理型態。分析師認為此舉削弱了公司作為科技媒體平台的估值基礎，將其與高波動性的加密貨幣掛鉤，增加了投資風險與不確定性。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

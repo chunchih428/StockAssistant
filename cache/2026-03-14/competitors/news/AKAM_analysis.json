@@ -1,0 +1,83 @@
+{
+  "ticker": "AKAM",
+  "company": "Akamai",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/AKAM.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 8,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "Akamai 透過與 NVIDIA Blackwell GPU 合作建立 AI 推論雲端平台，成功轉型並展現強勁的雲端成長動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Akamai Technologies Details 4-Yr, $200M Service Pact With U.S. Tech Company, Hosting Multi-Thousand NVIDIA Blackwell GPU Cluster On Its Distributed Cloud Platform",
+      "publisher": "Benzinga",
+      "date": "2026-03-05 07:35",
+      "impact": "high",
+      "category": "業務合作",
+      "reason": "Akamai 簽署為期 4 年、價值 2 億美元的服務合約，透過其分散式雲端平台託管 NVIDIA Blackwell GPU 叢集，顯著提升了公司在 AI 基礎設施領域的市場地位。"
+    },
+    {
+      "rank": 2,
+      "title": "Akamai Technologies Highlights $400M Cloud Run Rate, Edge AI Inference Push at Morgan Stanley TMT 2026",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 23:47",
+      "impact": "high",
+      "category": "財報與營運展望",
+      "reason": "CFO Ed McGowan 在摩根士丹利會議上揭露 4 億美元的雲端營收運轉率，並強調邊緣 AI 推論的成長策略，為投資人提供了明確的成長路徑。"
+    },
+    {
+      "rank": 3,
+      "title": "Akamai Technologies CEO Details AI Inference Cloud Push, 45%-50% Cloud Growth at Conference",
+      "publisher": "MarketBeat",
+      "date": "2026-03-04 14:07",
+      "impact": "medium",
+      "category": "公司策略",
+      "reason": "執行長明確指出雲端業務預計將實現 45% 至 50% 的成長，顯示公司從傳統內容傳遞網路 (CDN) 轉型至 AI 雲端服務的策略執行成效顯著。"
+    },
+    {
+      "rank": 4,
+      "title": "NVIDIA Corporation (NVDA) Powers the Next Era of Cloud and High-Performance Computing",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 00:39",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "將 Akamai 列為 NVIDIA 雲端生態系的重要合作夥伴，提升了 Akamai 在高階運算市場的品牌價值與投資吸引力。"
+    },
+    {
+      "rank": 5,
+      "title": "Sprout Social, Marqeta, HubSpot, Unity, and Akamai Technologies Stocks Trade Up, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-03 23:37",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出 Akamai 股價隨市場情緒走高，反映了投資人對其近期 AI 轉型策略的正面反饋。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "As Akamai Loads Up on GPUs, Should You Buy, Sell, or Hold AKAM Stock?",
+      "publisher": "Barchart",
+      "date": "2026-03-04 21:45",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "文章對 Akamai 大舉投資 GPU 的策略進行多空辯證，旨在引導投資人評估風險與報酬，未有明確的買賣建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Akamai Technologies, Inc. (AKAM) Presents at Morgan Stanley Technology, Media & Telecom Conference 2026 Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-05 15:25",
+      "impact": "low",
+      "category": "會議紀錄",
+      "reason": "提供會議原始逐字稿，屬於資訊揭露性質，供投資人自行解讀公司營運細節。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
