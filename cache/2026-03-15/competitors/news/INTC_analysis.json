@@ -1,0 +1,65 @@
+{
+  "ticker": "INTC",
+  "company": "Intel",
+  "analysis_date": "2026-03-15",
+  "source_file": "cache/2026-03-15/competitors/news/INTC.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 0,
+    "bearish_count": 2,
+    "neutral_count": 18,
+    "overall_sentiment": "bearish",
+    "key_theme": "Intel 面臨股東針對政府股權交易的法律挑戰，且在 AI 晶片市場的競爭力與市場關注度持續被其他同業邊緣化。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Intel Lawsuit Puts Government Stake And Board Oversight Under Investor Scrutiny",
+      "publisher": "Yahoo",
+      "date": "2026-03-15 01:09",
+      "impact": "high",
+      "category": "法律訴訟",
+      "reason": "股東對 Intel 將 10% 股權授予美國政府的決策提出訴訟，這不僅引發公司治理疑慮，更可能對未來的資本結構與政府合作關係造成不確定性，屬於重大負面消息。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "United States Cryptocurrency Market Forecast and Company Analysis Report 2025-2033",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 10:36",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報告將 Intel 列為加密貨幣市場分析對象之一，但未提及具體業務影響，僅為產業概覽，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "IT Spending Will Exceed $6 Trillion for the First Time in 2026 Thanks to Artificial Intelligence (AI)",
+      "publisher": "Yahoo",
+      "date": "2026-03-15 01:25",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "整體 IT 支出預測增長對半導體產業屬正面，但文中未特別提及 Intel 的競爭優勢，故視為中性產業趨勢。"
+    },
+    {
+      "rank": 3,
+      "title": "Prediction: This Artificial Intelligence (AI) Chip Stock Will Become the Next Nvidia by 2030",
+      "publisher": "Yahoo",
+      "date": "2026-03-15 00:48",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章聚焦於 Broadcom 等競爭對手，顯示 Intel 在 AI 晶片領域的市場份額與關注度正被其他公司稀釋。"
+    },
+    {
+      "rank": 4,
+      "title": "Musk says Tesla's mega AI chip fab project to launch in seven days",
+      "publisher": "Yahoo",
+      "date": "2026-03-14 14:00",
+      "impact": "low",
+      "category": "產業競爭",
+      "reason": "Tesla 自研 AI 晶片計畫進展，長期來看可能影響傳統晶片供應商的市場需求，但對 Intel 目前的直接影響尚不明確。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

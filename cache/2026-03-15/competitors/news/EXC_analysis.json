@@ -1,0 +1,56 @@
+{
+  "ticker": "EXC",
+  "company": "Exelon Corporation",
+  "analysis_date": "2026-03-15",
+  "source_file": "cache/2026-03-15/competitors/news/EXC.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "Exelon 因其穩定的股息收益與資本支出增長計畫，獲得分析師調升目標價並維持買入評級，市場情緒偏向正面。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Exelon (EXC) Price Target Raised by $3, ‘Outperform’ Rating Maintained",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 03:57",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師將目標價調升 3 美元，並維持「優於大盤」評級，同時將其列入 2026 年 11 檔最佳公用事業股之一，顯示市場對其長期成長與股息穩定性的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Assessing Exelon (EXC) Valuation After Recent Share Price Momentum And Capex Growth Plans",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 08:09",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價近期上漲約 11 %，反映出市場對公司資本支出 (Capex) 增長計畫的正面預期，顯示投資人重新關注其基本面價值。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Exelon (EXC) is a Top Dividend Stock for Your Portfolio",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 15:45",
+      "impact": "medium",
+      "category": "投資策略",
+      "reason": "強調 Exelon 作為頂級股息股的地位，對於尋求長期穩定現金流的投資人具有吸引力，有助於支撐股價下檔空間。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Exelon Corporation Stock Underperforming the Dow?",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 18:40",
+      "impact": "low",
+      "category": "市場表現",
+      "reason": "探討該股過去一年表現略遜於道瓊指數，屬於客觀的市場比較分析，雖指出相對疲軟，但分析師整體態度仍維持中性偏多，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

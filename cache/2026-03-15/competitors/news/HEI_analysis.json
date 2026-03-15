@@ -1,0 +1,38 @@
+{
+  "ticker": "HEI",
+  "company": "HEICO",
+  "analysis_date": "2026-03-14",
+  "source_file": "cache/2026-03-14/competitors/news/HEI.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "Mixed",
+    "key_theme": "市場對於 HEICO 的高估值與未來成長潛力存在分歧，分析師看好其上漲空間，但投資人對其本益比與近期報酬表現持審慎態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "HEICO Corporation (HEI) a Moderate Buy, Analysts See 23% Upside",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-12",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師給予 HEI 「中度買入」評級，並預測未來有 23% 的上漲空間，顯示市場對其業務成長前景仍具信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Is It Time To Reassess HEICO (HEI) After Mixed Returns And Rich P/E Multiple?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-10",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "文章指出 HEI 目前的本益比 (P/E Multiple) 過高，且近期報酬表現呈現混合狀態，提醒投資人需重新評估其估值合理性，可能面臨回調風險。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

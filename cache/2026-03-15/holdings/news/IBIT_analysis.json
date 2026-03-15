@@ -1,0 +1,93 @@
+{
+  "ticker": "IBIT",
+  "company": "Bitcoin",
+  "analysis_date": "2026-03-14",
+  "source_file": "cache/2026-03-14/holdings/news/IBIT.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 4,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管地緣政治風險持續，但 IBIT 受益於強勁的機構資金流入與技術面支撐，市場對其長期成長前景保持樂觀。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "What Risk-Off? Bitcoin ETFs Just Checked Every Box For A Bull Market ― Officially",
+      "publisher": "Benzinga",
+      "date": "2026-03-13 09:32",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "比特幣自 2 月低點反彈 20 %，技術面正式進入牛市，且現貨 ETF 持續獲得資金淨流入，直接利好 IBIT 的資產規模擴張。"
+    },
+    {
+      "rank": 2,
+      "title": "IBIT: Navigating The Deep Correction Toward A Long-Term $126,000 Target",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-13 11:37",
+      "impact": "medium",
+      "category": "投資分析",
+      "reason": "分析師指出 IBIT 正接近關鍵的斐波那契買入區間，且機構需求持續上升，預測長期目標價上看 126,000 美元。"
+    },
+    {
+      "rank": 3,
+      "title": "IBIT: Bitcoin's Resilience Amid The Iran War Is Impressive, New Levels To Watch",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-10 12:34",
+      "impact": "medium",
+      "category": "投資分析",
+      "reason": "在伊朗戰爭的地緣政治壓力下，IBIT 展現出強大的韌性，58,000 美元支撐位穩固，動能指標改善且波動率趨於正常。"
+    },
+    {
+      "rank": 4,
+      "title": "BlackRock's $55B Bitcoin ETF Success Continues With Staked Ethereum Launch",
+      "publisher": "Benzinga",
+      "date": "2026-03-12 12:59",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "貝萊德成功推出以太坊質押 ETF，顯示其在加密貨幣產品線的強大執行力，有助於鞏固其在數位資產 ETF 市場的領導地位。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Willy Woo Says Don't Expect Institutions To Put In Trillions In Bitcoin In A Jiffy",
+      "publisher": "Benzinga",
+      "date": "2026-03-09 06:11",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "分析師指出機構資金不會瞬間湧入數兆美元，提醒投資人對於短期內資金爆發性成長的預期應保持理性，避免過度樂觀。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "JPMorgan Flags Sharp Divergence Between Bitcoin and Gold ETF Flows Since Iran War",
+      "publisher": "Cryptonews",
+      "date": "2026-03-13 10:52",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "摩根大通觀察到比特幣與黃金 ETF 在戰爭期間的資金流向出現分歧，反映市場對避險資產的配置策略正在轉變，對 IBIT 影響中性偏觀察。"
+    },
+    {
+      "rank": 2,
+      "title": "What Bitcoin at $55k Means For IBIT and BITO Investors",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-03-12 13:24",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "針對比特幣價格回落至 55,000 美元對不同 ETF 產品的影響進行比較分析，提供投資人資產配置的參考，無明顯多空傾向。"
+    },
+    {
+      "rank": 3,
+      "title": "Bitcoin vs. iShares Bitcoin Trust: What Is the Better Investment for 2026 and Beyond?",
+      "publisher": "Motley Fool",
+      "date": "2026-03-13 09:20",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "探討直接持有比特幣與透過 IBIT 投資的優劣比較，屬於投資策略建議，不直接影響 IBIT 的價格走勢。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

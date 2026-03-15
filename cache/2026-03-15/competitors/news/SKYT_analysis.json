@@ -1,0 +1,38 @@
+{
+  "ticker": "SKYT",
+  "company": "SkyWater Technology",
+  "analysis_date": "2026-03-15",
+  "source_file": "cache/2026-03-15/competitors/news/SKYT.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "股價近期波動加劇，市場對於其技術面與基本面表現呈現分歧。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why SkyWater Technology, Inc. (SKYT) Dipped More Than Broader Market Today",
+      "publisher": "Zacks",
+      "date": "2026-03-12",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價表現弱於大盤，顯示投資人對於該公司短期內的獲利能力或市場競爭力感到擔憂，導致賣壓湧現。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Here is What to Know Beyond Why SkyWater Technology, Inc. (SKYT) is a Trending Stock",
+      "publisher": "Zacks",
+      "date": "2026-03-11",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導主要分析股價成為熱門標的背後的技術性因素，並未提供具體的營運利多或利空消息，對股價影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

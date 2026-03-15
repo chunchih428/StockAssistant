@@ -1,0 +1,92 @@
+{
+  "ticker": "ORCL",
+  "company": "Oracle",
+  "analysis_date": "2026-03-15",
+  "source_file": "cache/2026-03-15/competitors/news/ORCL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 0,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於強勁的第 3 季財報表現與 AI 基礎設施需求，Oracle 展現出強大的市場韌性與成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Oracle stock spikes 12% as strong Q3 earnings answer Wall Street AI buildout concerns",
+      "publisher": "CNBC",
+      "date": "2026-03-11 10:30",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "第 3 季財報表現亮眼，有效緩解華爾街對 AI 基礎設施建設成本的擔憂，推動股價單日大漲 12 %。"
+    },
+    {
+      "rank": 2,
+      "title": "Oracle Reveals $2.2 Billion Investment In TikTok's US Business After ByteDance Divestment, Holds 15% Stake",
+      "publisher": "Yahoo",
+      "date": "2026-03-14 12:00",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "Oracle 確認以 22 億美元收購 TikTok 美國業務 15 % 股權，此舉強化其在消費者數據安全與雲端服務的戰略地位。"
+    },
+    {
+      "rank": 3,
+      "title": "Could Oracle Become America's Next $1 Trillion Technology Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-03-14 10:03",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "基於強勁的營運成果，市場開始討論 Oracle 邁向 1 兆美元市值的可能性，反映投資人對其長期成長的高度信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Jim Cramer Believes “This Latest Quarter Was a Big Win for Oracle”",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 15:16",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名財經評論員 Jim Cramer 公開肯定 Oracle 的季度表現，認為其數據中心業務展現了強大的市場競爭力。"
+    },
+    {
+      "rank": 5,
+      "title": "Oracle Has More Resilience Amid AI Pressures, Says Analyst",
+      "publisher": "Yahoo",
+      "date": "2026-03-14 00:44",
+      "impact": "medium",
+      "category": "分析師觀點",
+      "reason": "分析師指出在 AI 產業競爭壓力下，Oracle 展現出優於同業的韌性，具備更佳的防禦與成長特性。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Larry Ellison Leaves Hawaii, Declares $173M Florida Compound His Official Residence",
+      "publisher": "Yahoo",
+      "date": "2026-03-14 12:31",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "創辦人 Larry Ellison 變更稅務居所至佛羅里達州，屬個人財務規劃，對公司營運無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Oracle Commodity Holding Increases Non-Brokered Private Placement to $300,000",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 19:49",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此新聞涉及的是 Oracle Commodity Holding Corp. (TSXV: ORCL)，與大型科技公司 Oracle Corp. (NYSE: ORCL) 無關，屬名稱混淆。"
+    },
+    {
+      "rank": 3,
+      "title": "Stocks making the biggest moves midday: Oracle, Papa John's, Nebius, Campbell's, Serve Robotics, Cadre and more",
+      "publisher": "CNBC",
+      "date": "2026-03-11 12:18",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為盤中股價波動的例行性報導，未提供新的基本面資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

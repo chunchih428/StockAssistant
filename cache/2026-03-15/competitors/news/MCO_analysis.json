@@ -1,0 +1,84 @@
+{
+  "ticker": "MCO",
+  "company": "Moody's",
+  "analysis_date": "2026-03-15",
+  "source_file": "cache/2026-03-15/competitors/news/MCO.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 1,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場對私人信貸穩定性的擔憂以及對紐約市債務前景的負面展望，抵銷了公司長期股息成長的正面價值。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "You Won't Believe How Much Money Berkshire Hathaway Gets From Moody's Dividends — As the dividend grows, your yield over time grows, too.",
+      "publisher": "Yahoo",
+      "date": "2026-03-14 20:25",
+      "impact": "low",
+      "category": "財務表現",
+      "reason": "強調 Moody's 作為長期股息成長股的價值，吸引價值型投資人，並透過 Berkshire Hathaway 的持股背書增加市場信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Moody's, Piper Sandler, StepStone Group, Hamilton Lane, and Capital One Shares Plummet, What You Need To Know — A number of stocks fell in the afternoon session after investors raised concerns over the stability of the private credit",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 00:26",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "市場對私人信貸市場的穩定性產生廣泛疑慮，導致金融服務類股集體下跌，直接衝擊 MCO 的短期股價表現。"
+    },
+    {
+      "rank": 2,
+      "title": "Moody's Cuts New York City Outlook to Negative as Budget Gaps Grow — Ratings firm keeps Aa2 debt rating but warns persistent deficits and rising expenses may pressure the city's financial f",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 20:55",
+      "impact": "medium",
+      "category": "信用評等",
+      "reason": "Moody's 將紐約市債務展望下調至負面，反映出其對市政債務風險的嚴格審查，雖維持 Aa2 評級，但市場擔憂此舉可能引發連鎖反應。"
+    },
+    {
+      "rank": 3,
+      "title": "Rise of structured private credit transactions adds challenges for risk analysis – Moody's — Moody’s Ratings warns that the rapid spread of structured private credit transactions among investment‑grade companies i",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 14:33",
+      "impact": "medium",
+      "category": "產業趨勢",
+      "reason": "Moody's 自身指出結構化私人信貸交易增加風險分析難度，顯示該公司在評估新興金融產品時面臨更大的技術與監管挑戰。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Moody's Corporation (MCO) Presents at BofA Securities 2026 Information & Business Services Conference Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-12 10:02",
+      "impact": "low",
+      "category": "公司會議",
+      "reason": "公司於 BofA 會議中進行簡報，屬於常規投資人溝通，未釋出重大超預期訊息，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Moody's (MCO) Valuation Check After Recent Share Price Weakness",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 19:10",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "針對股價近期疲軟進行技術性回顧，並無具體基本面利空或利多消息，僅為市場情緒的觀察報告。"
+    },
+    {
+      "rank": 3,
+      "title": "Could Moody's (MCO) Tighter Credit Scrutiny Subtly Reshape Its Own Risk-Reward Narrative?",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 22:12",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "探討 Moody's 嚴格的信用審查對其自身風險回報模型的影響，屬於分析師觀點，而非實質營運變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

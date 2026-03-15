@@ -1,0 +1,47 @@
+{
+  "ticker": "MGY",
+  "company": "Magnolia Oil & Gas",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/MGY.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "華爾街分析師普遍看好 Magnolia Oil & Gas 的資產價值，多家機構上調目標價，反映市場對其營運前景的信心。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "UBS Maintains Buy on Magnolia Oil & Gas, Raises Price Target to $35",
+      "publisher": "Benzinga",
+      "date": "2026-03-05 11:06",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "UBS 分析師 Peyton Dorne 維持買入評級，並將目標價從 $29 大幅上調至 $35，顯示機構投資人對該公司未來獲利成長與資產品質的高度認可。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Piper Sandler Maintains Neutral on Magnolia Oil & Gas, Raises Price Target to $28",
+      "publisher": "Benzinga",
+      "date": "2026-03-05 13:05",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Piper Sandler 分析師 Mark Lear 維持中性評級，但同步上調目標價至 $28，顯示儘管看好公司基本面改善，但對股價上行空間仍持審慎態度。"
+    },
+    {
+      "rank": 2,
+      "title": "What Analysts Are Saying About Magnolia Oil & Gas Stock",
+      "publisher": "Benzinga",
+      "date": "2026-03-05 17:01",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此篇為市場觀點彙整，涵蓋了上述分析師的評級變動，作為綜合性報導，提供投資人市場情緒的概覽，無新增實質利多或利空訊息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

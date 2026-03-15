@@ -1,0 +1,66 @@
+{
+  "ticker": "BMI",
+  "company": "Badger Meter",
+  "analysis_date": "2026-03-15",
+  "source_file": "cache/2026-03-15/competitors/news/BMI.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 1,
+    "bearish_count": 3,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "儘管公司宣布增加股利與擴大庫藏股計畫，但近期股價表現仍持續疲軟，顯示市場對其估值與短期技術面走勢存在疑慮。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Badger Meter, Inc. (BMI) Announces Regular Quarterly Dividend and Expands Share Repurchase Authorization",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-12",
+      "impact": "medium",
+      "category": "股東權益",
+      "reason": "公司宣布發放季度股利並擴大庫藏股授權，顯示管理層對公司現金流與長期價值的信心，對股價具有支撐作用。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Badger Meter (BMI) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "publisher": "Zacks",
+      "date": "2026-03-12",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導指出 BMI 股價跌幅大於大盤，反映出市場對該公司短期動能的擔憂，此篇選為代表，涵蓋了近期股價弱勢的技術性分析。"
+    },
+    {
+      "rank": 2,
+      "title": "Badger Meter (BMI) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "publisher": "Zacks",
+      "date": "2026-03-05",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "延續 3 月初的股價疲軟趨勢，顯示該股在一段時間內持續面臨賣壓，表現落後於整體市場。"
+    },
+    {
+      "rank": 3,
+      "title": "Is It Time To Reassess Badger Meter (BMI) After Recent Share Price Weakness?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-13",
+      "impact": "low",
+      "category": "投資評估",
+      "reason": "文章建議投資人重新評估該公司價值，暗示近期股價下跌可能引發對基本面或估值過高的質疑。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Badger Meter (BMI) Increases Despite Market Slip: Here's What You Need to Know",
+      "publisher": "Zacks",
+      "date": "2026-03-13",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出股價在市場下跌時逆勢上漲，反映出短期波動性，但未提供明確的基本面利多因素，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

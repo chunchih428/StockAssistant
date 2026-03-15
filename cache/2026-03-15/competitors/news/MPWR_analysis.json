@@ -1,0 +1,75 @@
+{
+  "ticker": "MPWR",
+  "company": "Monolithic Power Systems",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/MPWR.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "Mixed",
+    "key_theme": "公司長期成長動能強勁，但市場對於目前高昂的估值與近期股價回調壓力存在分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Is Monolithic Power Systems Stock Outperforming the Dow?",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 09:50",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導指出 MPWR 在過去一年中持續跑贏道瓊工業指數，反映出市場對其核心業務的高度信心，選此篇作為代表是因為其涵蓋了長期績效表現的總結。"
+    },
+    {
+      "rank": 2,
+      "title": "Monolithic Power Systems (MPWR): Buy, Sell, or Hold Post Q4 Earnings?",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 20:29",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "分析了 Q4 財報後的投資建議，強調該股過去實現了 215 % 的驚人回報，顯示出強大的基本面支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Monolithic Power Systems: Robust Growth, But Price Is Stretched",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-11 11:02",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "儘管認可公司的成長潛力，但明確指出目前的股價估值過高，存在回調風險，對短期投資者構成壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Applied Materials, Monolithic Power Systems, MACOM, Seagate, and Western Digital Shares Plummet, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-04 00:12",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "報導指出 MPWR 股價出現顯著下跌，反映出半導體板塊整體的賣壓與市場情緒轉弱。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Monolithic Power Systems (MPWR) Pricing In Too Much Future Growth After Its Strong Run?",
+      "publisher": "Yahoo",
+      "date": "2026-03-05 20:10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討股價是否已過度反映未來成長，屬於對估值合理性的中性辯論，並未給出明確買賣信號。"
+    },
+    {
+      "rank": 2,
+      "title": "Behind the Scenes of Monolithic Power Systems's Latest Options Trends",
+      "publisher": "Benzinga",
+      "date": "2026-03-06 16:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅針對選擇權市場的交易趨勢進行數據觀察，屬於技術面資訊，對公司基本面無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

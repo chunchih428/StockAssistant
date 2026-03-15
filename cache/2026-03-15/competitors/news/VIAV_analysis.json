@@ -1,0 +1,75 @@
+{
+  "ticker": "VIAV",
+  "company": "Viavi Solutions",
+  "analysis_date": "2026-03-13",
+  "source_file": "cache/2026-03-13/competitors/news/VIAV.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 2,
+    "bearish_count": 3,
+    "neutral_count": 1,
+    "overall_sentiment": "Mixed",
+    "key_theme": "VIAV 近期股價經歷顯著波動，市場正評估在過去一年 200 % 漲幅後的估值合理性，同時面臨分析師評級調整與內部人賣股的壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Viavi Solutions (VIAV) Stock Trades Up, Here Is Why",
+      "publisher": "StockStory",
+      "date": "2026-03-10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出股價上漲的動能，反映市場對公司業務表現的正面回饋，為近期股價修正後的反彈提供支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "How Recent Analyst Revisions Are Reshaping The Viavi Solutions (VIAV) Investment Story",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-11",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "分析師對公司投資故事的重新評估，有助於投資人釐清長期成長潛力，雖然未直接提及目標價調升，但提供了正向的投資觀點。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Moog, Comfort Systems, Viavi Solutions, nLIGHT, and Sterling Shares Are Falling, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-05",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "彙整了近期股價下跌的市場情緒，反映出投資人對 VIAV 短期技術面回調的擔憂，選此篇作為代表是因為其涵蓋了市場對該板塊的集體拋售壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Viavi Solutions Stock a Buy or Sell After the CMO Dumped 3,551 Shares?",
+      "publisher": "Motley Fool",
+      "date": "2026-03-03",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "公司行銷長 (CMO) 出售 3,551 股股票，儘管數量不大，但內部人賣股通常會引發市場對公司未來前景的疑慮，增加股價波動風險。"
+    },
+    {
+      "rank": 3,
+      "title": "Viavi Solutions, ATI, Garrett Motion, Titan International, and CSW Shares Are Falling, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此篇報導與 3 月 5 日的下跌報導性質相似，反映了連續性的賣壓，顯示市場對該股的短期信心不足。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Too Late To Consider Viavi Solutions (VIAV) After Its 200% One Year Surge?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-04",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "文章探討在過去一年股價飆漲 200 % 後的投資價值，並未給出明確的買進或賣出建議，僅提供投資人進行風險評估的思考框架。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

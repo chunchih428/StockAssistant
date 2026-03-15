@@ -1,0 +1,84 @@
+{
+  "ticker": "PATH",
+  "company": "UiPath",
+  "analysis_date": "2026-03-12",
+  "source_file": "cache/2026-03-12/competitors/news/PATH.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 6,
+    "bearish_count": 5,
+    "neutral_count": 9,
+    "overall_sentiment": "bearish",
+    "key_theme": "儘管 UiPath 在第 4 季財報中繳出營收與獲利雙雙優於預期的成績單，但因公司對全年營收成長給出保守指引，導致市場對其未來成長動能產生疑慮，股價面臨下行壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "UiPath (PATH) Q4 Earnings and Revenues Beat Estimates",
+      "publisher": "Yahoo",
+      "date": "2026-03-11",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司在第 4 季財報中，營收與獲利分別超出市場預期 3.50% 與 20.00%，顯示其在自動化軟體領域的執行力依然強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "UiPath (PATH) Is Up 11.9% After New Agentic AI Push Into Healthcare And Security Milestone",
+      "publisher": "Yahoo",
+      "date": "2026-03-10",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "公司成功推動代理型 AI (Agentic AI) 進入醫療保健與安全領域，並達成 AIUC-1 里程碑，展現了技術擴展至垂直產業的潛力。"
+    },
+    {
+      "rank": 3,
+      "title": "UiPath Profit, Revenue Rise as AI Adoption Spreads",
+      "publisher": "Yahoo",
+      "date": "2026-03-11",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出企業客戶對 AI 的採用已從實驗階段轉向大規模部署，這為 UiPath 的自動化平台提供了長期成長的結構性支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "UiPath Guides for Slower Full-Year Revenue Growth",
+      "publisher": "The Wall Street Journal",
+      "date": "2026-03-11",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "儘管季度財報亮眼，但公司對全年營收成長給出放緩的指引，這直接引發投資人對未來成長動能減弱的擔憂，導致股價下跌。"
+    },
+    {
+      "rank": 2,
+      "title": "UiPath, Inc. (PATH) Faces Pressure Amid Weak Software Infrastructure Industry Momentum",
+      "publisher": "Yahoo",
+      "date": "2026-03-10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "軟體基礎設施產業整體動能疲軟，對 UiPath 的估值與市場情緒造成了宏觀層面的壓制。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "UiPath Announces Rescheduled Fourth Quarter and Year-end Earnings Conference Call Q&A Session",
+      "publisher": "Yahoo",
+      "date": "2026-03-11",
+      "impact": "low",
+      "category": "公司公告",
+      "reason": "僅為財報會議時間調整的行政性公告，對公司基本面無實質影響。"
+    },
+    {
+      "rank": 2,
+      "title": "UiPath Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call",
+      "publisher": "Benzinga",
+      "date": "2026-03-11",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "屬於財報發布前的市場預期整理，分析師對 EPS 與營收的預估值調整屬於常規市場行為。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

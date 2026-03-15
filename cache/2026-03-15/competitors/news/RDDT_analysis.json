@@ -1,0 +1,65 @@
+{
+  "ticker": "RDDT",
+  "company": "Reddit",
+  "analysis_date": "2026-03-15",
+  "source_file": "cache/2026-03-15/competitors/news/RDDT.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 4,
+    "overall_sentiment": "neutral",
+    "key_theme": "市場焦點多集中於 Reddit 平台上的散戶投資情緒與討論趨勢，而非 Reddit 公司本身的營運基本面變化。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Forecasting The Future: 18 Analyst Projections For Reddit",
+      "publisher": "Benzinga",
+      "date": "2026-03-10 16:01",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "包含 18 位分析師的預測報告，為投資人提供 Reddit 股價未來走勢的參考基準，有助於市場建立估值共識。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Cal-Maine’s Egg Boom Is Fading but Reddit Is Betting on What Comes Next",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-03-14 09:35",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此報導討論的是 Reddit 平台上的社群投資趨勢，而非 Reddit 公司本身的業務發展，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "SM Energy Is Up 37% and Reddit Is Still Calling It Undervalued",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-03-13 16:37",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導內容聚焦於 Reddit 用戶對 SM Energy 的看多情緒，與 Reddit 公司營運無直接關聯。"
+    },
+    {
+      "rank": 3,
+      "title": "Reddit Has Turned Bearish on Tesla and the Crowd Might Actually Be Right This Time",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-03-13 10:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "討論 Reddit 社群對 Tesla 的情緒轉變，屬於平台內容分析，對 Reddit 自身股價無直接影響。"
+    },
+    {
+      "rank": 4,
+      "title": "Wall Street’s Own Stock Is Getting Hammered on Reddit and Here’s What Investors Are Missing",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-03-13 09:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析 Reddit 用戶對特定金融股的負面情緒，屬於社群輿論觀察，不影響 Reddit 的財務基本面。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "DUK",
+  "company": "Duke Energy",
+  "analysis_date": "2026-03-15",
+  "source_file": "cache/2026-03-15/competitors/news/DUK.json",
+  "summary": {
+    "total_articles": 15,
+    "bullish_count": 5,
+    "bearish_count": 2,
+    "neutral_count": 8,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司透過完成 13 億美元可轉換公司債發行以優化資本結構，並成功與南北卡羅來納州監管機構達成合併協議，推動股價穩健上漲。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Duke Energy (DUK) Increases Despite Market Slip: Here's What You Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 21:50",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價在市場整體疲軟下仍逆勢上漲 1.01 %，顯示投資人對公司近期資本運作與監管進展持正面態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Duke Energy reaches settlement agreements with customer groups in SC and NC on proposed combination of Duke Energy Carolinas and Duke Energy Progress",
+      "publisher": "Benzinga",
+      "date": "2026-03-10 13:37",
+      "impact": "high",
+      "category": "企業併購",
+      "reason": "公司與南北卡羅來納州客戶團體及檢察長辦公室達成和解協議，為旗下兩大事業體合併掃除關鍵監管障礙，有利於長期營運整合。"
+    },
+    {
+      "rank": 3,
+      "title": "Duke Energy Corporation (DUK) Price Target Raised by $4, Here’s Why",
+      "publisher": "Yahoo",
+      "date": "2026-03-08 15:36",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師調升目標價 4 美元，反映市場對其作為防禦性公用事業股在經濟衰退期間的抗跌能力與投資價值的高度認可。"
+    },
+    {
+      "rank": 4,
+      "title": "Why Is Duke Energy (DUK) Up 3.9% Since Last Earnings Report?",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 15:30",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "自上季財報發布以來股價累計上漲 3.9 %，顯示市場對公司獲利能力與未來財測表現出信心。"
+    },
+    {
+      "rank": 5,
+      "title": "Duke Energy Foundation offers $500,000 to strengthen emergency preparedness across South Carolina",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 15:00",
+      "impact": "low",
+      "category": "企業社會責任",
+      "reason": "透過 50 萬美元的捐款強化緊急應變能力，有助於提升公司在地方社區的品牌形象與監管關係。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Duke Energy bills keep rising. Here's why",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 04:20",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "電費持續上漲引發消費者不滿，並被視為通膨加劇的因素之一，可能增加公司面臨的政治與監管壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Duke Energy (DUK) Announces $6 Billion Common Stock Offering",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 03:59",
+      "impact": "low",
+      "category": "資本運作",
+      "reason": "大規模普通股發行計畫可能導致現有股權稀釋，對短期股價造成潛在壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Duke Energy prices upsized offering of $1.3 billion of 3.000% convertible senior notes due 2029",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 10:30",
+      "impact": "medium",
+      "category": "資本運作",
+      "reason": "公司將可轉換公司債發行規模由 10 億美元擴大至 13 億美元，此為中性財務操作，旨在優化債務結構，市場已預期此類融資行為。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
