@@ -1,0 +1,84 @@
+{
+  "ticker": "APLD",
+  "company": "Applied Digital",
+  "analysis_date": "2026-03-14",
+  "source_file": "cache/2026-03-14/competitors/news/APLD.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 1,
+    "bearish_count": 5,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場對 Applied Digital 在 AI 數據中心轉型過程中的高估值、執行風險、巨額債務負擔及關聯交易透明度表示高度擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Could Applied Digital Stock Help You Retire a Millionaire?",
+      "publisher": "Motley Fool",
+      "date": "2026-03-12",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "文章探討了該公司在 AI 基礎設施領域的長期潛力，儘管市場環境嚴峻，但仍對其作為高成長潛力股的可能性持開放態度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Applied Digital: The Bull Case Requires Near Perfection (Rating Downgrade)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-10",
+      "impact": "high",
+      "category": "投資評級",
+      "reason": "分析師將評級下調至「賣出」，主要理由是當前估值過高且執行風險巨大，認為公司營運需達到完美水準才能支撐股價。"
+    },
+    {
+      "rank": 2,
+      "title": "Applied Digital’s US$16b AI Leases Raise Questions On Execution And Dilution",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-13",
+      "impact": "high",
+      "category": "財務分析",
+      "reason": "針對 160 億美元的 AI 租賃合約提出質疑，擔憂執行能力不足以及未來可能發生的股權稀釋問題，對股東權益構成潛在威脅。"
+    },
+    {
+      "rank": 3,
+      "title": "How Investors Are Reacting To Applied Digital (APLD) Massive Debt Deal, Nvidia Exit and CoreWeave Risks",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-10",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "彙整了市場對公司巨額債務交易、Nvidia 退出合作以及 CoreWeave 相關風險的負面反應，顯示投資人信心嚴重動搖。"
+    },
+    {
+      "rank": 4,
+      "title": "3 Reasons to Avoid APLD and 1 Stock to Buy Instead",
+      "publisher": "StockStory",
+      "date": "2026-03-11",
+      "impact": "medium",
+      "category": "投資建議",
+      "reason": "明確列出避開 APLD 的三大理由，強化了市場對該公司基本面疲軟的負面共識。"
+    },
+    {
+      "rank": 5,
+      "title": "Applied Digital: Gigawatt Ambitions Clouded By Related-Party Transactions",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-10",
+      "impact": "medium",
+      "category": "公司治理",
+      "reason": "指出公司在轉型 AI 數據中心過程中，存在關聯交易透明度不足的問題，這類治理風險通常會導致機構投資人折價評估。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Applied Digital Corp Gaining or Losing Market Support?",
+      "publisher": "Benzinga",
+      "date": "2026-03-10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅對市場支撐力道進行技術性觀察，未給出明確的買賣建議，屬於中性的市場情緒評估。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

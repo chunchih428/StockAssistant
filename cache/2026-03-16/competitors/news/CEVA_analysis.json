@@ -1,0 +1,47 @@
+{
+  "ticker": "CEVA",
+  "company": "CEVA",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/CEVA.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司透過發布具備顯著效能提升的 UWB IP 技術強化競爭力，並獲得市場分析機構對其估值的正面評價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ceva Debuts IEEE 802.15.4ab-Compliant Ceva-Waves UWB IP With 30x Range And 4x Throughput Gains For Secure Access And Positioning Applications",
+      "publisher": "Benzinga",
+      "date": "2026-03-10 03:36",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "CEVA 推出新一代 UWB IP，效能提升達 30 倍範圍與 4 倍傳輸量，此技術突破有助於鞏固其在安全存取與定位市場的領導地位，預期將帶動未來授權營收成長。"
+    },
+    {
+      "rank": 2,
+      "title": "CEVA, Inc. (CEVA) Valuation Seen as Attractive by UBS",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-11T21:23:22Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "瑞銀 (UBS) 公開表示看好 CEVA 的估值吸引力，顯示機構投資人對該公司當前股價與基本面之間的折價空間持正面看法，有助於提振市場信心。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Are Options Traders Betting on a Big Move in CEVA Stock?",
+      "publisher": "Zacks",
+      "date": "2026-03-06T18:04:00Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導僅分析選擇權市場的交易活動，指出市場預期股價可能出現波動，但並未提供具體的看漲或看跌方向，屬於市場技術面觀察，對基本面影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

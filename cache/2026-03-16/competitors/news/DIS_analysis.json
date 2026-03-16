@@ -1,0 +1,102 @@
+{
+  "ticker": "DIS",
+  "company": "Disney",
+  "analysis_date": "2026-03-15",
+  "source_file": "cache/2026-03-15/competitors/news/DIS.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 3,
+    "bearish_count": 9,
+    "neutral_count": 8,
+    "overall_sentiment": "bearish",
+    "key_theme": "YouTube 在廣告營收上超越傳統好萊塢巨頭，顯示串流媒體平台對迪士尼等傳統媒體公司的結構性威脅加劇。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Disney Launches Verts on Disney+, A Whole New Way to Discover Stories",
+      "publisher": "Benzinga",
+      "date": "2026-03-12 10:37",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "迪士尼在 Disney+ 推出 Verts 短影音功能，顯示公司積極轉型以適應年輕用戶對短影音內容的偏好，有助於提升平台黏著度。"
+    },
+    {
+      "rank": 2,
+      "title": "The Walt Disney Company (DIS) Sees Strong U.S. Debut from New Pixar Film",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 20:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "皮克斯新片在美國市場表現強勁，證明迪士尼在核心內容創作與品牌影響力上仍具備市場競爭力。"
+    },
+    {
+      "rank": 3,
+      "title": "Disney Investor Focus As Roeder Takes Helm And Hoppers Hits Big",
+      "publisher": "Yahoo",
+      "date": "2026-03-14 01:12",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "任命 Paul Roeder 為新任首席傳播官，市場期待新管理層能改善公司對外溝通與投資人關係。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "YouTube overtakes Hollywood studios, but it will show you 30-second unskippable TV ads",
+      "publisher": "Yahoo",
+      "date": "2026-03-14 09:16",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "YouTube 2025 年廣告營收達 404 億美元，超越迪士尼等傳統媒體巨頭總和，顯示廣告預算正大規模向串流平台轉移，對迪士尼核心廣告業務構成嚴重威脅。"
+    },
+    {
+      "rank": 2,
+      "title": "Disney (DIS) Is One of the Most Shorted Dow Stocks: The Contrarian Bear Case",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 15:40",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "作為道瓊指數中被放空比例最高的股票之一，反映市場對迪士尼轉型過程中的獲利能力與成長前景存有高度疑慮。"
+    },
+    {
+      "rank": 3,
+      "title": "Walt Disney (DIS) Stock Moves -1.45%: What You Should Know",
+      "publisher": "Zacks",
+      "date": "2026-03-12 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價近期下跌 1.45 %，反映市場對公司短期營運表現與轉型策略的信心不足。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Disney’s new CEO has overseen a huge transformation of the Disney parks. Take a tour",
+      "publisher": "Yahoo",
+      "date": "2026-03-14 07:00",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "Josh D’Amaro 上任 CEO，市場正密切觀察其對樂園業務的轉型策略是否能延續至整體集團。"
+    },
+    {
+      "rank": 2,
+      "title": "The challenges Disney's incoming CEO may face",
+      "publisher": "Yahoo Finance Video",
+      "date": "2026-03-13 21:24",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師指出新任 CEO 面臨串流媒體競爭與傳統媒體衰退的雙重挑戰，屬於中性觀點的風險評估。"
+    },
+    {
+      "rank": 3,
+      "title": "Assessing Walt Disney (DIS) Valuation As Mixed Returns Contrast With Popular Undervaluation Narrative",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 19:15",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "針對迪士尼估值進行多空辯證，認為目前股價表現平平，市場對其是否被低估存在分歧。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

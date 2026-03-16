@@ -1,0 +1,57 @@
+{
+  "ticker": "AXON",
+  "company": "Axon Enterprise",
+  "analysis_date": "2026-03-14",
+  "source_file": "cache/2026-03-14/competitors/news/AXON.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "Mixed",
+    "key_theme": "AXON 股價近期經歷強勁漲幅後，市場對於其高估值與獲利回吐壓力產生分歧，且需注意與 AppLovin 的 AXON 2.0 產品名稱混淆。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Axon Stock Rises 28.6% in a Month: Should Investors Buy or Wait?",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 14:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導指出 Axon 憑藉強勁的設備與軟體需求，在一個月內實現了 28.6% 的漲幅，反映出市場對其核心業務的高度信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Axon Enterprise (AXON) Suffers a Larger Drop Than the General Market",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 22:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日下跌 3.51%，且跌幅超過大盤，顯示在經歷近期急漲後，市場出現獲利回吐與技術性修正壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Is It Too Late To Consider Axon Enterprise (AXON) After Its Strong Share Price Run?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-06 20:09",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章探討高估值風險，提醒投資人面對強勁漲勢後的追高風險，暗示短期內可能面臨估值修正。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "AppLovin (APP) Is Up 19.5% After Showcasing AXON 2.0 And AI E-commerce Pivot",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 12:12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此新聞主要報導 AppLovin 的 AXON 2.0 廣告引擎技術，與 Axon Enterprise (AXON) 公司業務無直接關聯，僅因名稱相似易造成市場混淆。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

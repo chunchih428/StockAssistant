@@ -1,0 +1,37 @@
+{
+  "ticker": "NOVT",
+  "company": "Novanta",
+  "analysis_date": "2026-03-15",
+  "source_file": "cache/2026-03-15/competitors/news/NOVT.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 0,
+    "bearish_count": 2,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場對滯脹風險的擔憂導致股價回調，且投資人開始質疑近期漲幅後的估值合理性。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Novanta, Greenbrier, Casella Waste Systems, and Rivian Shares Plummet, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 21:19",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "由於市場對滯脹風險（經濟成長放緩與通膨並存）的擔憂加劇，導致 Novanta 股價在午後交易時段出現顯著下跌，反映出宏觀經濟環境對工業科技類股的負面壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Novanta (NOVT) Pricing Too High After Recent Share Price Climb?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-05 08:14",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "該報導針對 Novanta 近期股價攀升後的估值進行質疑，暗示市場可能存在過度樂觀的情緒，這類分析通常會引發投資人獲利了結的賣壓，對短期股價構成壓力。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

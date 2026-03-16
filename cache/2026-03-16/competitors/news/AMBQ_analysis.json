@@ -1,0 +1,55 @@
+{
+  "ticker": "AMBQ",
+  "company": "Ambiq Micro",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/AMBQ.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 0,
+    "bearish_count": 0,
+    "neutral_count": 4,
+    "overall_sentiment": "neutral",
+    "key_theme": "公司發布 2025 年第四季財報，市場分析師對其強勁需求持肯定態度，但整體評級維持中性。"
+  },
+  "bullish": [],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "BofA Sees Strong Demand for Ambiq Micro, Inc. (AMBQ) but Stays Neutral",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 21:17",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "美國銀行 (BofA) 指出 Ambiq Micro 擁有強勁的市場需求，並將其列入小型半導體股觀察名單，但基於估值或市場波動考量，評級維持中性，未給予買進建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Ambiq Micro, Inc. 2025 Q4 - Results - Earnings Call Presentation",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-11 19:03",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "此為公司官方發布的 2025 年第四季財報簡報，涵蓋了核心財務數據與營運亮點，為投資人評估公司基本面的最直接來源，故選為財報類代表。"
+    },
+    {
+      "rank": 3,
+      "title": "Ambiq Micro, Inc. Q4 2025 Earnings Call Summary",
+      "publisher": "Moby",
+      "date": "2026-03-06 13:30",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "此為財報會議的摘要報導，內容與官方財報數據一致，主要協助投資人快速掌握會議重點，因資訊已包含在官方財報中，故影響力評級為低。"
+    },
+    {
+      "rank": 4,
+      "title": "Ambiq Micro Q4 Earnings Call Highlights",
+      "publisher": "MarketBeat",
+      "date": "2026-03-06 06:08",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "此為財報會議的亮點整理，與 Moby 的摘要報導性質重複，僅提供市場觀點的補充，對股價影響力有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

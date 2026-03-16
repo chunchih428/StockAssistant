@@ -1,0 +1,38 @@
+{
+  "ticker": "CRC",
+  "company": "California Resources",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/CRC.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司透過債務再融資優化資本結構，儘管近期財報表現呈現混合，但財務靈活度提升為市場關注焦點。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Does California Resources (CRC) Refinancing 8.250% Notes With 7.000% Debt Recast Its Capital Allocation Priorities?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-15",
+      "impact": "medium",
+      "category": "財務結構調整",
+      "reason": "公司成功將 8.250% 的高息債券置換為 7.000% 的低息債務，此舉將顯著降低利息支出，改善現金流並提升資本配置效率，對股東權益具正面效益。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "California Resources Corporation (CRC) Announces Mixed Results for Q4 2025",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-09",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "第四季財報表現呈現「混合」狀態，顯示營運數據未達市場一致預期或存在多空交雜因素，市場反應相對平淡，需觀察後續營運效率改善情況。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,65 @@
+{
+  "ticker": "AKAM",
+  "company": "Akamai",
+  "analysis_date": "2026-03-15",
+  "source_file": "cache/2026-03-15/competitors/news/AKAM.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 4,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "Akamai 積極布局 Blackwell GPU 雲端基礎設施，成功將業務重心轉向高成長的邊緣 AI 推論市場，並展現強勁的雲端營收動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Akamai Technologies Highlights $400M Cloud Run Rate, Edge AI Inference Push at Morgan Stanley TMT 2026",
+      "publisher": "MarketBeat",
+      "date": "2026-03-05",
+      "impact": "high",
+      "category": "財報與營運展望",
+      "reason": "公司在摩根士丹利 TMT 大會上揭露雲端業務年化營收達 4 億美元，並明確指出邊緣 AI 推論為未來成長核心，具體數據支撐了市場對其轉型成功的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "How Akamai’s (AKAM) Blackwell GPU Buildout Expands Its Distributed AI Platform Ambitions",
+      "publisher": "Yahoo",
+      "date": "2026-03-12",
+      "impact": "high",
+      "category": "策略合作與技術布局",
+      "reason": "深入分析 Akamai 透過 Blackwell GPU 擴建分布式 AI 平台，將其定位為 AI 領域的關鍵參與者，顯著提升了市場對其長期成長潛力的評價。"
+    },
+    {
+      "rank": 3,
+      "title": "Did Akamai’s US$200 Million Blackwell GPU Cloud Deal Just Shift Akamai Technologies' (AKAM) Investment Narrative?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-07",
+      "impact": "medium",
+      "category": "資本支出與投資策略",
+      "reason": "該報導探討了 2 億美元的 GPU 投資如何改變市場對 Akamai 的投資敘事，從傳統 CDN 轉向高價值 AI 基礎設施供應商，對股價估值具有正面重塑作用。"
+    },
+    {
+      "rank": 4,
+      "title": "Digital Convergence Technologies (DCT) Joins Akamai Partner Connect Program",
+      "publisher": "Yahoo",
+      "date": "2026-03-13",
+      "impact": "low",
+      "category": "市場擴張",
+      "reason": "透過與 DCT 建立合作夥伴關係，擴大 Akamai 的生態系統與通路覆蓋，雖為單一合作案，但有助於鞏固其市場份額。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Akamai’s Blackwell AI Deal Puts Valuation And Growth Story In Focus",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-07",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此篇內容與上述 2 億美元 GPU 投資案高度重疊，主要進行中立的估值分析與成長故事探討，故歸類為中性觀察，作為補充資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

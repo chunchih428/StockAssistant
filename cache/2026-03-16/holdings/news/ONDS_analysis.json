@@ -1,0 +1,102 @@
+{
+  "ticker": "ONDS",
+  "company": "Ondas",
+  "analysis_date": "2026-03-15",
+  "source_file": "cache/2026-03-15/holdings/news/ONDS.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 1,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司近期透過與 Palantir 的策略合作、收購 Mistral 與 Aerosystems 擴大國防版圖，加上優於預期的初步財報與以色列國防訂單，展現強勁的成長動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ondas, Palantir And World View Collaborate On Stratollite ISR",
+      "publisher": "Benzinga",
+      "date": "2026-03-12 08:43",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "與 AI 巨頭 Palantir 合作開發多領域情報平台，顯著提升了 Ondas 在國防與情報監控領域的技術地位與市場能見度。"
+    },
+    {
+      "rank": 2,
+      "title": "Ondas Reports Q4 Preliminary Revenue Range $29.1M - $30.1M, FY25 Preliminary Revenue Range $49.7M - $50.7M",
+      "publisher": "Benzinga",
+      "date": "2026-03-09 08:02",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "初步財報數據優於公司先前指引，且重申 2026 年營收目標 1.7 億至 1.8 億美元，顯示公司營運成長路徑明確。"
+    },
+    {
+      "rank": 3,
+      "title": "Ondas Subsidiary 4M Defense Receives First Operational Order From Multi-Year Demining Program In Israel, Order Worth Approximately $15.8M",
+      "publisher": "Benzinga",
+      "date": "2026-03-10 08:35",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "子公司 4M Defense 獲得 1,580 萬美元的以色列排雷計畫訂單，為公司帶來實質且具規模的營收貢獻。"
+    },
+    {
+      "rank": 4,
+      "title": "Ondas Signs Merger Agreement With Defense Prime Contractor Mistral",
+      "publisher": "Benzinga",
+      "date": "2026-03-09 09:02",
+      "impact": "medium",
+      "category": "企業併購",
+      "reason": "透過併購國防承包商 Mistral，強化了公司在國防領域的供應鏈整合能力與市場滲透率。"
+    },
+    {
+      "rank": 5,
+      "title": "Needham Reiterates Buy on Ondas, Maintains $17 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-03-10 07:35",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "知名投行 Needham 維持買入評級與 17 美元目標價，顯示華爾街對其長期成長潛力的信心。"
+    },
+    {
+      "rank": 6,
+      "title": "Ondas Acquires BIRD Airborne Missile Protection Systems Provider Aerosystems",
+      "publisher": "Benzinga",
+      "date": "2026-03-11 09:31",
+      "impact": "medium",
+      "category": "企業併購",
+      "reason": "收購 Aerosystems 擴充了飛彈防護系統產品線，進一步鞏固其在國防科技領域的技術護城河。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ondas Stock Falls Wednesday Despite Strong Revenue, Israel Contract News",
+      "publisher": "Benzinga",
+      "date": "2026-03-11 14:23",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管基本面利多頻傳，但股價出現獲利回吐賣壓，反映市場在短線急漲後的技術性修正需求。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ondas Option Alert: Mar 27 $11 Calls Sweep (5) Near The Bid",
+      "publisher": "Benzinga",
+      "date": "2026-03-12 13:36",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "選擇權市場出現大額買單，反映機構投資人對 3 月 25 日財報發布前的避險或投機操作，屬中性市場訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "How Is The Market Feeling About Ondas Inc?",
+      "publisher": "Benzinga",
+      "date": "2026-03-10 12:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場情緒調查類文章，旨在彙整投資人觀點，對股價本身無直接驅動影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

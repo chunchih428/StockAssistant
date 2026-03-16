@@ -1,0 +1,37 @@
+{
+  "ticker": "NRG",
+  "company": "NRG Energy",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/NRG.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 0,
+    "bearish_count": 2,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "NRG Energy 因 Q4 財報表現不如預期及大規模股權增資稀釋股權，導致市場對其成長策略與財務穩健度產生疑慮。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "How Investors May Respond To NRG (NRG) Balancing Data Center Growth Push With Weaker Earnings And Equity Raise",
+      "publisher": "Yahoo",
+      "date": "2026-03-14 18:21",
+      "impact": "high",
+      "category": "資本運作",
+      "reason": "公司完成 23.5 億美元的普通股增資，雖然旨在支持資料中心業務成長，但大規模股權稀釋引發投資人對每股盈餘 (EPS) 稀釋效應的擔憂，且高層異動增加了經營策略的不確定性。"
+    },
+    {
+      "rank": 2,
+      "title": "Assessing NRG Energy (NRG) Valuation After Q4 2025 Earnings Miss And Recent Share Price Weakness",
+      "publisher": "Yahoo",
+      "date": "2026-03-15 06:06",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "Q4 2025 每股盈餘 (EPS) 為 1.04 美元，雖略高於預期，但市場對其獲利能力與估值產生質疑，導致股價近期表現疲軟，反映出市場對公司獲利成長動能的信心不足。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

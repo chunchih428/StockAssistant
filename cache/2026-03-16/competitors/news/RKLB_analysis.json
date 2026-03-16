@@ -1,0 +1,102 @@
+{
+  "ticker": "RKLB",
+  "company": "Rocket Lab",
+  "analysis_date": "2026-03-14",
+  "source_file": "cache/2026-03-14/competitors/news/RKLB.json",
+  "summary": {
+    "total_articles": 13,
+    "bullish_count": 9,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "Rocket Lab 憑藉強勁的發射成功率與 AI 國防領域的戰略定位，獲得分析師調升評級與目標價，市場看好其長期成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cantor Fitzgerald Reiterates Overweight on Rocket Lab, Maintains $85 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-03-13",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Andres Sheppard 重申對 RKLB 的「加碼」評級，並維持 85 美元的目標價，顯示華爾街對其基本面與未來成長空間的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Rocket Lab: Upgrading To Buy After Strategic Reset",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-12",
+      "impact": "high",
+      "category": "投資建議",
+      "reason": "報告指出公司財務狀況改善、訂單積壓（backlog）強勁，且估值重估後具備吸引力，因此將評級調升至「買入」。"
+    },
+    {
+      "rank": 3,
+      "title": "Palantir And Rocket Lab Are Leading The AI Defense Trade",
+      "publisher": "Benzinga",
+      "date": "2026-03-10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場將 Rocket Lab 與 Palantir 並列為 AI 國防領域的領軍企業，隨著國防預算增加，投資人將其視為該趨勢下的核心受惠股。"
+    },
+    {
+      "rank": 4,
+      "title": "Rocket Lab (RKLB) Deploys Commercial Satellite in 83rd Successful Launch",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-11",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "第 83 次成功發射任務進一步鞏固了公司在商業衛星發射市場的可靠性與技術領先地位。"
+    },
+    {
+      "rank": 5,
+      "title": "Rocket Lab Ramps Launch Cadence And Space Power Ambitions For AI Era",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-07",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "公司積極提升發射頻率並擴展太空電力業務，以滿足 AI 時代對太空基礎設施的需求，展現長期成長策略。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Rocket Lab: The Neutron Delay Is Real, But So Is The Space Defense Opportunity",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-07",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "雖然 Neutron 火箭開發進度延遲，但分析指出該影響在可控範圍內，且公司 Q4 銷售額成長 16 %，訂單積壓達 18.5 億美元，基本面仍強勁。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Firefly Just Launched Lockheed Martin Into Space. How the Stock Stacks Up With SpaceX, Rocket Lab.",
+      "publisher": "Barrons.com",
+      "date": "2026-03-12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此篇報導主要比較 Firefly、SpaceX 與 Rocket Lab 的競爭態勢，屬於產業競爭分析，對 RKLB 本身股價無直接利多或利空影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Assessing Rocket Lab (RKLB) Valuation After Strong One Year Shareholder Returns",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-12",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "文章旨在評估過去一年強勁漲幅後的估值合理性，屬於中性的投資評估，未給出明確買賣建議。"
+    },
+    {
+      "rank": 3,
+      "title": "Rocket Lab vs. Intuitive Machines: The New Space Race Stock Showdown",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-03-12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 Rocket Lab 與 Intuitive Machines 進行比較，屬於產業板塊內的個股對比分析，未對公司營運產生實質影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

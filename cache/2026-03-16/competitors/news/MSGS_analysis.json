@@ -1,0 +1,37 @@
+{
+  "ticker": "MSGS",
+  "company": "Madison Square Garden Sports",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/MSGS.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 MSGS 旗下體育資產的長期價值與近期股價動能持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Mario Gabelli Sees Incremental Value in Madison Square Garden Sports (MSGS) Franchise Assets",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-11",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "知名投資人 Mario Gabelli 指出 MSGS 擁有的球隊特許經營權資產具有增量價值，顯示機構投資人對其核心資產的長期護城河充滿信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Assessing Madison Square Garden Sports (MSGS) Valuation After Strong Recent Share Price Momentum",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-15",
+      "impact": "low",
+      "category": "財務評估",
+      "reason": "文章針對近期強勁的股價動能進行估值分析，確認了市場對該公司成長趨勢的認可，為投資人提供了正面的技術面與基本面參考。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

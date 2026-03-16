@@ -1,0 +1,48 @@
+{
+  "ticker": "MKTX",
+  "company": "MarketAxess Holdings",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/MKTX.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "Neutral",
+    "key_theme": "市場對於 MKTX 的估值吸引力與內部人賣股行為存在分歧，投資人正權衡股價低於公允價值與成長前景的不確定性。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "A Look At MarketAxess (MKTX) Valuation As Shares Trade Below Estimated Fair Value",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-14",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "該報告指出 MKTX 目前股價低於估算的公允價值，顯示出潛在的價值投資機會，對於長期投資人而言具有吸引力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Insider Selling At MarketAxess Raises Questions On Growth Story Confidence",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-14",
+      "impact": "medium",
+      "category": "公司治理",
+      "reason": "內部人賣出股票通常被市場解讀為對公司未來成長動能缺乏信心，可能引發投資人對 MKTX 短期股價表現的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "GS or MKTX: Which Is the Better Value Stock Right Now?",
+      "publisher": "Zacks",
+      "date": "2026-03-13",
+      "impact": "low",
+      "category": "市場比較",
+      "reason": "此文章為比較性質的投資分析，將 MKTX 與高盛 (GS) 進行價值股比較，未對 MKTX 本身釋出明確的利多或利空訊號，僅提供投資組合配置的參考。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

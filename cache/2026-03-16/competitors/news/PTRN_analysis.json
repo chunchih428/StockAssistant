@@ -1,0 +1,47 @@
+{
+  "ticker": "PTRN",
+  "company": "Pattern Group - Series A",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/PTRN.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "neutral",
+    "key_theme": "公司在發布強勁的 Q4 財報後，市場正針對其估值與近期股價回調進行理性修正與評估。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Pattern Group Inc (PTRN) Q4 2025 Earnings Call Highlights: Record Revenue Growth and Strategic ...",
+      "publisher": "GuruFocus.com",
+      "date": "2026-03-06T05:00:33Z",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司公布 Q4 財報顯示營收創下歷史新高，展現強勁的成長動能與策略執行力，為股價提供堅實的基本面支撐。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Pattern Group (PTRN) Fairly Priced After Recent Share Price Pullback",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-08T11:07:30Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "本文針對近期股價回調進行估值分析，探討市場對該公司定價的合理性，屬於中立的投資評估報告，涵蓋了 Simply Wall St. 對該股估值的核心觀點。"
+    },
+    {
+      "rank": 2,
+      "title": "A Look At Pattern Group (PTRN) Valuation After Recent Name Change And Share Price Weakness",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-08T22:10:31Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此篇與前一篇主題高度重疊，進一步探討公司更名後的市場反應與股價疲軟現象，提供投資人關於估值修正的技術性觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

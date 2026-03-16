@@ -1,0 +1,65 @@
+{
+  "ticker": "FFIV",
+  "company": "F5",
+  "analysis_date": "2026-03-15",
+  "source_file": "cache/2026-03-15/competitors/news/FFIV.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 4,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "F5 透過 AppWorld 大會積極推動 AI 安全與應用交付平台升級，市場對其技術轉型與估值持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "F5 Strengthens Its Application Delivery and Security Platform to Simplify Operations and Accelerate Secure AI Adoption",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 16:00",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "F5 在 AppWorld 大會上宣布強化應用交付與安全平台，此舉直接回應企業對 AI 安全部署的需求，有助於鞏固其在混合雲環境中的市場領導地位。"
+    },
+    {
+      "rank": 2,
+      "title": "How The F5 (FFIV) Investment Story Is Evolving With AI Security And Street Expectations",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 20:10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師維持 310.30 美元的公允價值目標，顯示市場認可 F5 在 AI 安全領域的轉型策略，並對其長期投資價值保持信心。"
+    },
+    {
+      "rank": 3,
+      "title": "F5 Advances Enterprise Application Security for the AI and Post-quantum Era",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 16:00",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "針對 AI 與後量子時代的安全性升級，展現了 F5 在技術前瞻性上的優勢，有助於吸引重視資安防禦的企業級客戶。"
+    },
+    {
+      "rank": 4,
+      "title": "F5 Accelerates Enterprise AI Security Deployment With Certified Red Hat OpenShift Operators and Proven AI Quickstarts",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 13:00",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "透過與 Red Hat OpenShift 的整合，降低了企業部署 AI 安全的門檻，此類生態系合作能有效擴大產品的滲透率與應用場景。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Q4 Earnings Highlights: F5 (NASDAQ:FFIV) Vs The Rest Of The Content Delivery Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 16:06",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "此篇為財報季後的產業比較回顧，提供客觀的數據對比，未對股價產生直接的短期催化作用，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

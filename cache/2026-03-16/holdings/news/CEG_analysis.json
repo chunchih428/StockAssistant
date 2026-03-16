@@ -1,0 +1,75 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy",
+  "analysis_date": "2026-03-15",
+  "source_file": "cache/2026-03-15/holdings/news/CEG.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 1,
+    "bearish_count": 5,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "受 2 月份 CPI 報告顯示電力價格顯著下跌影響，市場對電力公用事業股進行拋售，導致 CEG 短期股價面臨修正壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why Constellation Energy Stock Surged 17.5% in February",
+      "publisher": "Motley Fool",
+      "date": "2026-03-05",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "回顧 2 月份強勁表現，反映了市場對其核能資產與 AI 數據中心電力需求增長的長期樂觀預期，為近期修正前的基本面支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Constellation Energy Plunged Today — Constellation fell as February's CPI report showed a sharp monthly decline in electricity prices.",
+      "publisher": "Yahoo",
+      "date": "2026-03-11",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "選定此篇作為代表，因其明確指出 2 月份 CPI 報告中電力價格下跌是導致股價重挫的直接宏觀因素，對公用事業營收預期產生負面影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Constellation Energy (CEG) Is Down 6.9% After Utility Selloff and AI Power Deals Spotlight",
+      "publisher": "Yahoo",
+      "date": "2026-03-12",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "反映了公用事業板塊的整體拋售潮，以及市場開始重新評估 AI 電力交易帶來的溢價空間，加劇了股價的下行壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "Constellation Energy Corporation (CEG) Registers a Bigger Fall Than the Market",
+      "publisher": "Yahoo",
+      "date": "2026-03-11",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "指出 CEG 跌幅超過大盤，顯示投資人對該股的高估值產生疑慮，在市場情緒轉弱時出現更明顯的獲利了結賣壓。"
+    },
+    {
+      "rank": 4,
+      "title": "Constellation Energy (CEG) Share Price Target Cut By Multiple Analysts",
+      "publisher": "Yahoo",
+      "date": "2026-03-08",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "多位分析師下調目標價，顯示市場對其短期成長動能與估值合理性出現分歧，對股價形成技術面與心理面壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Constellation Energy (CEG) Still Fairly Priced After Its Strong 1-Year Share Gain",
+      "publisher": "Yahoo",
+      "date": "2026-03-08",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "文章旨在探討股價在經歷一年大漲後的估值合理性，未給出明確買賣建議，僅提供投資人評估基本面與股價是否脫鉤的思考框架。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

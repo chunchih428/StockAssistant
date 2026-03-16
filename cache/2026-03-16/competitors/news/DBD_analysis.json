@@ -1,0 +1,28 @@
+{
+  "ticker": "DBD",
+  "company": "Diebold Nixdorf Incorporated",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/DBD.json",
+  "summary": {
+    "total_articles": 1,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "股價表現疲軟，市場對其短期動能缺乏信心。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Diebold Nixdorf, Incorporated (DBD) Declines More Than Market: Some Information for Investors",
+      "publisher": "Zacks",
+      "date": "2026-03-12T22:00:03Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導指出 DBD 股價表現落後於大盤，顯示投資人對公司近期營運狀況或獲利能力存有疑慮，技術面與籌碼面均呈現弱勢。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

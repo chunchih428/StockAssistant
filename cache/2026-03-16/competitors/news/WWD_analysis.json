@@ -1,0 +1,74 @@
+{
+  "ticker": "WWD",
+  "company": "Woodward",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/WWD.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 6,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司透過收購 Valve Research & Manufacturing 強化航太產品組合，並受惠於強勁的技術面動能與航太產業熱度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Woodward Announces Deal to Acquire VRM to Boost Aerospace Portfolio",
+      "publisher": "Yahoo",
+      "date": "2026-03-10",
+      "impact": "high",
+      "category": "企業併購",
+      "reason": "選擇此篇作為代表，因為它明確指出收購 Florida-based Valve Research & Manufacturing (VRM) 將增加精密流量控制閥技術，直接擴大 Woodward 在航太領域的產品組合與競爭優勢。"
+    },
+    {
+      "rank": 2,
+      "title": "Woodward (WWD): 3 Reasons We Love This Stock",
+      "publisher": "Yahoo",
+      "date": "2026-03-11",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "報導指出 Woodward 股價在過去六個月內飆升 60.8%，顯示出強勁的市場動能與投資人信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Woodward Inc. (NASDAQ:WWD) Shows Strong Technical and Fundamental Momentum in Minervini-Style Analysis",
+      "publisher": "ChartMill",
+      "date": "2026-03-09",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "透過 Minervini 風格分析，確認該股具備高成長動能與強勁的技術面趨勢，有利於吸引動能型投資人。"
+    },
+    {
+      "rank": 4,
+      "title": "Woodward Stock Is One Worth Watching As Aerospace Remains A Hot Group",
+      "publisher": "Investor's Business Daily",
+      "date": "2026-03-06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "強調航太產業整體熱度，作為該產業的領先企業，Woodward 受到市場高度關注。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Genco, Primoris, Woodward, Regal Rexnord, and VSE Corporation Shares Plummet, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-12",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受地緣政治緊張局勢影響，導致大盤下跌，Woodward 股價隨之出現修正，反映出宏觀風險對個股的短期衝擊。"
+    },
+    {
+      "rank": 2,
+      "title": "Woodward Insider Sale And Board Support Contrast With Valuation Concerns",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-08",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "內部人賣股行為引發市場對公司當前估值是否過高的擔憂，儘管董事會仍給予支持，但估值壓力仍是潛在風險。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,74 @@
+{
+  "ticker": "PPL",
+  "company": "PPL",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/PPL.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 4,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "PPL 透過達成 2.75 億美元的費率調漲協議與 80 億美元的電網現代化計畫，顯著改善了長期獲利展望。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "PPL Rate Case And US$8b Grid Plan Reshape Earnings Outlook",
+      "publisher": "Yahoo",
+      "date": "2026-03-15 03:10",
+      "impact": "high",
+      "category": "財報展望",
+      "reason": "此篇報導涵蓋了 PPL 80 億美元的電網現代化投資與費率調漲的綜合影響，是目前最全面分析公司長期獲利成長動能的報告。"
+    },
+    {
+      "rank": 2,
+      "title": "PPL Electric Utilities reaches settlement in first distribution rate increase since 2016",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 15:57",
+      "impact": "high",
+      "category": "監管與法規",
+      "reason": "PPL 達成自 2016 年以來的首次費率調漲協議，這對於公用事業公司的現金流與營收穩定性具有直接且重大的正面影響。"
+    },
+    {
+      "rank": 3,
+      "title": "What's Going On With PPL Corporation Stock Friday? — PPL Corp (NYSE: PPL) shares rise on a $275M rate settlement proposal",
+      "publisher": "Benzinga",
+      "date": "2026-03-13 13:34",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場對 2.75 億美元的費率和解提案反應正面，直接推動股價上漲，反映投資人對公司營收成長預期的提升。"
+    },
+    {
+      "rank": 4,
+      "title": "PPL Reaches Settlement With Pennsylvania Public Utility Commission Over Approval For Base Distribution Rates Hike",
+      "publisher": "Benzinga",
+      "date": "2026-03-13 12:02",
+      "impact": "medium",
+      "category": "監管與法規",
+      "reason": "詳細說明了費率調漲對住宅用戶的具體影響（每月約 7.42 美元），確認了調漲的執行細節與生效日期，降低了政策不確定性。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "How The PPL (PPL) Investment Story Is Shifting With New Targets And Guidance",
+      "publisher": "Yahoo",
+      "date": "2026-03-14 12:11",
+      "impact": "low",
+      "category": "分析師觀點",
+      "reason": "分析師將公平價值估值從 40.50 美元微幅上調至 40.67 美元，屬於市場預期內的調整，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "PPL Rate Case And US$8b Grid Plan Reshape Earnings Outlook",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-15 03:10",
+      "impact": "low",
+      "category": "財報展望",
+      "reason": "此篇與 Yahoo 報導內容重複，僅作為資訊補充，未提供額外的新市場催化劑。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
