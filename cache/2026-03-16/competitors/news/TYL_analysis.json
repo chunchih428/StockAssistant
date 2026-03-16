@@ -1,0 +1,47 @@
+{
+  "ticker": "TYL",
+  "company": "Tyler Technologies, Inc.",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/TYL.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司展現強勁的營運成長動能，並透過股票回購計畫展現管理層對未來股價的信心。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Tyler Technologies announces 10b5-1 plan to repurchase up to $200M of shares",
+      "publisher": "Yahoo",
+      "date": "2026-03-14 14:35",
+      "impact": "high",
+      "category": "資本配置",
+      "reason": "公司宣布啟動高達 2 億美元的股票回購計畫，此舉通常被視為管理層認為股價被低估，且能有效提升每股盈餘 (EPS) 與股東權益報酬率。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Is Tyler Technologies (TYL) Up 20.4% Since Last Earnings Report?",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 15:30",
+      "impact": "medium",
+      "category": "財報表現",
+      "reason": "自上次財報發布以來股價上漲 20.4%，反映市場對其財報數據及未來獲利預期的強烈認可，顯示公司基本面強勁。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Tyler Technologies, Inc. (TYL) Presents at 2026 Cantor Global Technology & Industrial Growth Conference Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-10 12:50",
+      "impact": "low",
+      "category": "投資人會議",
+      "reason": "此為公司參與產業會議的逐字稿，主要提供營運現況與策略說明，未包含重大突發性利多或利空消息，對股價影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

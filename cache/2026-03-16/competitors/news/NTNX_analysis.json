@@ -1,0 +1,47 @@
+{
+  "ticker": "NTNX",
+  "company": "Nutanix, Inc.",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/NTNX.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "neutral",
+    "key_theme": "公司近期聚焦於投資人關係與年度技術大會，市場正評估其股價在經歷大幅回調後的估值合理性。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Is Nutanix (NTNX) Offering Opportunity After A 43% One Year Share Price Slump",
+      "publisher": "Yahoo",
+      "date": "2026-03-15 03:09",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "文章探討 Nutanix 股價在一年內下跌 43% 後的投資價值，暗示當前 US$ 39.29 的價位可能存在被低估的機會，吸引尋求價值投資的買盤關注。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Nutanix Announces Investor Day 2026 Details",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 16:42",
+      "impact": "low",
+      "category": "公司活動",
+      "reason": "宣布投資人日活動細節屬於例行性公司治理與溝通，有助於市場了解公司長期戰略，但本身不構成直接的股價催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Nutanix Announces 2026 .NEXT Event Lineup: Fueling the Future of Enterprise AI, Virtualized and Cloud Native Apps, and Hybrid Multicloud Innovation",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 13:00",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "預告年度 .NEXT 大會內容，聚焦於企業 AI 與混合多雲創新，屬於常規行銷與技術展示活動，市場反應通常較為平淡。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

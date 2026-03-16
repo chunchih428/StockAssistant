@@ -1,0 +1,47 @@
+{
+  "ticker": "Q",
+  "company": "Qnity Electronics, Inc.",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/Q.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司透過擴大美國與台灣的製造產能，積極佈局 AI 半導體市場，雖帶來成長潛力，但市場亦開始關注其擴張帶來的估值合理性。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Qnity Expands Domestic Manufacturing Footprint to Accelerate Semiconductor Industry Growth",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 20:10",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "選擇此篇作為代表，因其為公司官方發布，詳細說明了在 Delaware 設立新廠的策略意義，直接提升了產能以應對半導體需求，對長期營收成長有正面助益。"
+    },
+    {
+      "rank": 2,
+      "title": "Qnity Electronics Taiwan Facility Adds Capacity For AI Demand Outlook",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 23:12",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "公司在台灣收購先進研發與製造設施，顯示其積極搶佔 AI 晶片供應鏈的決心，有助於提升技術競爭力並滿足 AI 相關訂單需求。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Qnity’s Newark Expansion Links AI Materials Growth With Valuation Questions",
+      "publisher": "Yahoo",
+      "date": "2026-03-15 07:07",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管擴張具備成長性，但市場開始質疑大規模資本支出對公司估值的影響，投資人擔憂資本回報率 (ROIC) 是否能支撐當前的股價溢價。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

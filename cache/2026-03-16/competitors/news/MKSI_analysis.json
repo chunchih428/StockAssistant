@@ -1,0 +1,55 @@
+{
+  "ticker": "MKSI",
+  "company": "MKS Inc.",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/MKSI.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 4,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 需求驅動與終端市場復甦，加上 ESG 目標獲得認可，推升市場對 MKS Instruments 的成長信心。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Assessing MKS Instruments ( MKSI ) Valuation After AI Demand And Photonics Launch Fuel Strong Share Price Gains",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 14:11",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "AI 驅動的半導體需求與光子學產品發布成為股價強勁成長的催化劑，顯示公司在關鍵技術領域的競爭優勢。"
+    },
+    {
+      "rank": 2,
+      "title": "MKS ( MKSI ) Gained from End Markets Picking Up",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 13:53",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Madison Mid Cap Fund 在投資信中指出公司受惠於終端市場需求回升，反映出產業週期性復甦的正面訊號。"
+    },
+    {
+      "rank": 3,
+      "title": "Top 3 Tech Stocks That Are Set To Fly In Q1",
+      "publisher": "Benzinga",
+      "date": "2026-03-09 06:32",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 MKSI 處於超賣區間（RSI 低於 30），具備技術性反彈與投資價值，被視為第一季潛在的成長標的。"
+    },
+    {
+      "rank": 4,
+      "title": "MKSI Gets SBTi Approval for 2030 Science-Based Emission Targets",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 18:30",
+      "impact": "low",
+      "category": "企業永續",
+      "reason": "公司獲得科學基礎減量目標倡議（SBTi）認證，承諾 2030 年前大幅削減範疇 1 與 2 排放，有助於提升長期 ESG 評級與機構投資人青睞。此處選用 3 月 13 日報導，因其內容涵蓋了與 AI 半導體業務的關聯性。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}
