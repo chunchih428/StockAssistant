@@ -2124,8 +2124,18 @@
       "PLUG",
       "RUN"
     ],
-    "PGY": [],
-    "MGIC": [],
+    "PGY": [
+      "CLBT",
+      "MGIC",
+      "RSKD",
+      "CGNT"
+    ],
+    "MGIC": [
+      "CLBT",
+      "PGY",
+      "RSKD",
+      "CGNT"
+    ],
     "RSKD": [
       "CLBT",
       "PGY",
