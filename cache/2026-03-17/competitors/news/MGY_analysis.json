@@ -1,0 +1,47 @@
+{
+  "ticker": "MGY",
+  "company": "Magnolia Oil & Gas",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/MGY.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場分析師對 Magnolia Oil & Gas 的儲備成長與估值持正面看法，並調升目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Clear Street is Bullish on Magnolia Oil & Gas Corporation (MGY)",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-12",
+      "impact": "medium",
+      "category": "市場評級",
+      "reason": "Clear Street 對 MGY 給予看漲評級，顯示機構投資者對該公司未來的營運表現與資本回報能力具備信心。"
+    },
+    {
+      "rank": 2,
+      "title": "A Look At Magnolia Oil & Gas (MGY) Valuation After Reserve Growth Update And Analyst Price Target Increase",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-13",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "該報告分析了 MGY 在儲備成長更新後的估值模型，確認了基本面改善對股價的支撐作用，為市場提供了正向的估值參考。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Piper Sandler Maintains Neutral on Magnolia Oil & Gas, Raises Price Target to $31",
+      "publisher": "Benzinga",
+      "date": "2026-03-12",
+      "impact": "low",
+      "category": "市場評級",
+      "reason": "分析師 Mark Lear 維持中性評級，但將目標價調升至 31 美元，反映出對公司資產價值認可的同時，仍對短期股價上漲空間持保留態度。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

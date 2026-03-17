@@ -1,0 +1,83 @@
+{
+  "ticker": "CBOE",
+  "company": "Cboe Global Markets",
+  "analysis_date": "2026-03-14",
+  "source_file": "cache/2026-03-14/competitors/news/CBOE.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Cboe 透過推出創新的預測市場框架擴展產品線，並獲得分析師調升目標價，展現強勁的成長動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cboe Introduces Innovative Prediction Markets Framework, Expanding Choice Beyond Yes-Or-No Outcomes",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 13:00",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Cboe 推出創新的預測市場框架，突破傳統二元選擇限制，此舉有助於擴大交易量並提升市場競爭力，為公司帶來新的營收成長點。"
+    },
+    {
+      "rank": 2,
+      "title": "How The Cboe (CBOE) Story Is Shifting As Analysts Rework Targets And Assumptions",
+      "publisher": "Yahoo",
+      "date": "2026-03-07 20:06",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師將 Cboe 的合理價值估值從 282.08 美元上調至 286.08 美元，反映市場對其長期成長潛力的信心增強。"
+    },
+    {
+      "rank": 3,
+      "title": "OCC Welcomes Cboe Executive Tim Lipscomb to Board of Directors",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 13:30",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "Cboe 高管 Tim Lipscomb 加入 OCC 董事會，顯示 Cboe 在行業監管與基礎設施層面的影響力與參與度提升。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Cboe Global Markets Rolls Out New Third Option In Its Prediction Markets Framework",
+      "publisher": "Benzinga",
+      "date": "2026-03-09 09:11",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "此新聞與 3 月 9 日關於預測市場框架的報導內容重複，僅補充細節，故歸類為中性，以主要新聞作為代表。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Cboe Global Markets (CBOE) Pricing Reflect Long Term Gains After Strong Multi Year Rally",
+      "publisher": "Yahoo",
+      "date": "2026-03-07 11:09",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章探討股價在長期上漲後的估值合理性，屬於中性的市場分析，未提供明確的買賣建議。"
+    },
+    {
+      "rank": 3,
+      "title": "This iShares Fund Has Grown Its Dividend 10% Per Year — and Retirees Are Quietly Buying In",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 14:54",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該新聞討論的是 iShares 的 ETF (CBOE: IDV)，與 Cboe Global Markets 本身業務關聯性較低，僅是代碼重疊。"
+    },
+    {
+      "rank": 4,
+      "title": "BTQ Technologies Awarded Australian Government Industry Growth Program Support to Accelerate QCIM Commercialization",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 11:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該新聞涉及 BTQ Technologies，僅因其在 Cboe Canada 上市而提及代碼，對 Cboe Global Markets 本身股價無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

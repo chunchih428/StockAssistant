@@ -1,0 +1,37 @@
+{
+  "ticker": "GEN",
+  "company": "Gen Digital",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/GEN.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司成功撤銷 4.81 億美元的專利訴訟賠償，並透過收購 Trellis 強化保險科技業務，顯著改善風險與成長前景。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Gen Digital Ruling And Trellis Deal Shift Risk And Growth Mix",
+      "publisher": "Yahoo",
+      "date": "2026-03-14 14:07",
+      "impact": "high",
+      "category": "法律訴訟與併購",
+      "reason": "此篇報導綜合了公司近期兩大關鍵利多：成功推翻哥倫比亞大學 4.81 億美元的專利侵權判決，以及收購 Trellis 以擴展保險科技市場。相較於單一新聞，此篇更全面地分析了這些事件如何優化公司的風險結構與未來成長潛力，因此選為代表。"
+    },
+    {
+      "rank": 2,
+      "title": "Gen Expands Insurance Capabilities of Engine, Gen's Secure Financial Wellness Marketplace",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 20:55",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "Gen Digital 透過收購 Trellis 強化其 Engine 平台，旨在簡化與自動化保險購買流程。此舉有助於擴大公司在金融科技領域的生態系統，提升用戶黏著度與長期營收來源。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

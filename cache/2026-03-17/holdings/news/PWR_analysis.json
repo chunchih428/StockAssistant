@@ -1,0 +1,84 @@
+{
+  "ticker": "PWR",
+  "company": "Quanta Services",
+  "analysis_date": "2026-03-14",
+  "source_file": "cache/2026-03-14/holdings/news/PWR.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司憑藉電網升級與 AI 驅動的電力需求支撐強勁成長，儘管估值偏高且面臨大型專案依賴性的質疑，但市場對其未來投資者日與績效激勵計畫持正面期待。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Quanta Stock Up 38% in 6 Months: Should Investors Still Buy PWR Now?",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 13:51",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價在 6 個月內上漲 38%，反映出市場對其電網升級與 AI 相關電力基礎設施需求的強勁信心，且公司擁有創紀錄的積壓訂單。"
+    },
+    {
+      "rank": 2,
+      "title": "Jim Cramer Recommends Quanta Services Over AECOM",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 17:28",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "知名財經評論員 Jim Cramer 公開看好 Quanta Services 優於同業 AECOM，此類背書通常能提升散戶投資人的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "How Quanta’s Investor Day Plans and Incentive Overhaul Could Shape PWR’s Investment Narrative",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 04:36",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "公司透過投資者日與激勵計畫調整，積極與市場溝通，有助於強化投資人對其長期成長敘事的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Can Quanta Sustain Its 20% EPS Growth Streak Without Mega Projects?",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 18:08",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "市場質疑公司在缺乏大型輸電專案的情況下，是否能維持 20% 的 EPS 成長率，這對依賴大型工程合約的商業模式構成潛在風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Quanta Services (PWR) Dips More Than Broader Market: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 22:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 1.39%，表現弱於大盤，顯示在近期漲幅過大後，部分投資人選擇獲利了結。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Quanta Services to Host & Webcast its 2026 Investor Day",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 11:00",
+      "impact": "low",
+      "category": "公司公告",
+      "reason": "屬於例行性的投資者關係活動公告，市場對此已有預期，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Quanta Services Links 2026 Pay To Performance As Valuation Stays Rich",
+      "publisher": "Yahoo",
+      "date": "2026-03-08 21:07",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "將薪酬與績效掛鉤是標準治理措施，但報導同時指出公司估值已處於高檔，呈現中性偏謹慎的觀點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

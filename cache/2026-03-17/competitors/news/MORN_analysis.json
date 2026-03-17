@@ -1,0 +1,111 @@
+{
+  "ticker": "MORN",
+  "company": "Morningstar",
+  "analysis_date": "2026-03-14",
+  "source_file": "cache/2026-03-14/competitors/news/MORN.json",
+  "summary": {
+    "total_articles": 13,
+    "bullish_count": 8,
+    "bearish_count": 1,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Morningstar 積極透過 AI 技術升級核心平台並擴展合作夥伴關係，同時維持穩健的股利政策與成長前景。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Morningstar: A Gold Star Opportunity",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-13 08:00",
+      "impact": "high",
+      "category": "投資分析",
+      "reason": "分析師指出 MORN 具備 65.8 % 的潛在漲幅，強調其強勁的 Q4 成長表現、超過 100 % 的客戶續約率以及穩定的股利政策。"
+    },
+    {
+      "rank": 2,
+      "title": "Morningstar AI Assistant Aims To Deepen Advisor Reliance On Direct Suite",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 22:12",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "公司於 Direct Advisory Suite 平台導入 AI 助理，旨在提升顧問工作效率並增強客戶黏著度，選此篇作為代表是因為其涵蓋了該技術對核心業務的戰略影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Morningstar, Inc. Declares Quarterly Dividend of 50 Cents Per Share",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 20:15",
+      "impact": "medium",
+      "category": "財務政策",
+      "reason": "宣布每股 0.5 美元的季度股利，展現公司現金流穩定性與對股東回饋的承諾。"
+    },
+    {
+      "rank": 4,
+      "title": "Morningstar's PitchBook Collaborates With Perplexity For Users To Access PitchBook's Firmographic Intelligence",
+      "publisher": "Benzinga",
+      "date": "2026-03-12 15:32",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "旗下 PitchBook 與 Perplexity 合作，將私募市場情報整合至對話式介面，有助於擴大數據產品的市場觸及率。"
+    },
+    {
+      "rank": 5,
+      "title": "Morningstar Credit Analytics Launches Credit Models and ‘Bring Your Own Loan’ Analysis",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 11:30",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出新的信用模型與分析工具，強化了公司在信貸分析領域的競爭力與產品深度。"
+    },
+    {
+      "rank": 6,
+      "title": "Morningstar Expands ESG Data And Retirement Platforms With New Leadership",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-05 03:14",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "透過新領導層擴展 ESG 與退休平台業務，顯示公司在關鍵成長領域的戰略佈局。"
+    },
+    {
+      "rank": 7,
+      "title": "Morningstar: Wonderful Price And At Least A Fair Business",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-13 13:46",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "正面評價公司估值合理且業務基礎穩固，進一步強化市場對其長期價值的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Morningstar, Intercontinental Exchange, and Fiserv Stocks Trade Down, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 23:21",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受資產管理產業整體情緒低迷影響，股價出現短期回調，屬於市場系統性風險而非公司基本面惡化。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Morningstar Unveils Agenda for 2026 Morningstar Investment Conference",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 12:00",
+      "impact": "low",
+      "category": "公司活動",
+      "reason": "公布年度投資會議議程，屬於例行性企業活動，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "How to bust myths about private investments, per Morningstar",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 20:06",
+      "impact": "low",
+      "category": "研究報告",
+      "reason": "發布關於私募資產的研究觀點，展現公司專業研究能力，但對短期財務影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

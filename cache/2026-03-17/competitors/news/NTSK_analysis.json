@@ -1,0 +1,101 @@
+{
+  "ticker": "NTSK",
+  "company": "Netskope, Inc.",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/NTSK.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 1,
+    "bearish_count": 19,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "儘管 Netskope 第 4 季財報優於預期，但因財測展望保守及多家華爾街投行同步下調目標價，導致股價面臨顯著賣壓。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Netskope Q4 Adj. EPS $(0.04) Beats $(0.07) Estimate, Sales $196.330M Beat $188.829M Estimate",
+      "publisher": "Benzinga",
+      "date": "2026-03-11T16:06:00Z",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "公司第 4 季每股虧損 0.04 美元優於市場預期的 0.07 美元虧損，營收 1.96 億美元亦優於預期，顯示營運基本面具備韌性。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Netskope Analysts Lower Their Forecasts After Q4 Results",
+      "publisher": "Benzinga",
+      "date": "2026-03-12T10:34:00Z",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "此篇彙整了多位分析師在財報後下調目標價的行動，反映市場對公司未來成長動能的擔憂，為當日股價下跌的主要驅動力。"
+    },
+    {
+      "rank": 2,
+      "title": "JP Morgan Maintains Overweight on Netskope, Lowers Price Target to $19",
+      "publisher": "Benzinga",
+      "date": "2026-03-12T14:23:00Z",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "摩根大通分析師 Brian Essex 雖維持增持評級，但將目標價從 23 美元下調至 19 美元，顯示大型機構對估值空間的修正。"
+    },
+    {
+      "rank": 3,
+      "title": "Deutsche Bank Maintains Buy on Netskope, Lowers Price Target to $16",
+      "publisher": "Benzinga",
+      "date": "2026-03-12T13:59:00Z",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "德意志銀行分析師 Brad Zelnick 將目標價大幅下調至 16 美元，反映對獲利能力與市場競爭環境的審慎態度。"
+    },
+    {
+      "rank": 4,
+      "title": "RBC Capital Maintains Outperform on Netskope, Lowers Price Target to $14",
+      "publisher": "Benzinga",
+      "date": "2026-03-12T11:54:00Z",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "RBC Capital 分析師 Matthew Hedberg 將目標價下調至 14 美元，顯示市場對該公司在當前經濟環境下的成長溢價進行重新評估。"
+    },
+    {
+      "rank": 5,
+      "title": "Netskope Sees Q1 Adj EPS $(0.07)-$(0.06) vs $(0.06) Est; Sees Sales $197M-$199M",
+      "publisher": "Benzinga",
+      "date": "2026-03-11T16:07:00Z",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "公司對第 1 季的財測指引與市場預期持平或略顯保守，未能給予投資人足夠的成長驚喜，導致股價承壓。"
+    },
+    {
+      "rank": 6,
+      "title": "Baird Maintains Outperform on Netskope, Lowers Price Target to $20",
+      "publisher": "Benzinga",
+      "date": "2026-03-12T08:08:00Z",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "Baird 分析師 Shrenik Kothari 將目標價從 27 美元下調至 20 美元，進一步加劇了市場對該股的負面情緒。"
+    },
+    {
+      "rank": 7,
+      "title": "Highpeak Energy Posts Downbeat Q4 Results, Joins Netskope In Thursday's Pre-Market Session",
+      "publisher": "Benzinga",
+      "date": "2026-03-12T08:02:00Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該新聞指出 Netskope 在盤前交易中因財報後的負面情緒而走低，與整體市場疲軟趨勢相呼應。"
+    },
+    {
+      "rank": 8,
+      "title": "Morgan Stanley Maintains Overweight on Netskope, Lowers Price Target to $18",
+      "publisher": "Benzinga",
+      "date": "2026-03-12T07:43:00Z",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "摩根士丹利分析師 Meta Marshall 下調目標價至 18 美元，反映投行界對 Netskope 短期股價表現的普遍看淡。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

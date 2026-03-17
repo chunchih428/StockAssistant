@@ -1,0 +1,38 @@
+{
+  "ticker": "IRDM",
+  "company": "Iridium Communications Inc.",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/IRDM.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司近期因股價大幅上漲與基本面疲軟面臨評級調整，但同時受惠於首次配息與物聯網模組發布的利多支撐。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why Iridium Communications (IRDM) Is Up 6.5% After Dividend Debut And New IoT Module Launch",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-06",
+      "impact": "medium",
+      "category": "產品發布與股利政策",
+      "reason": "公司宣布首次發放股利顯示現金流穩定，加上推出新物聯網模組擴展營收來源，直接推動股價上漲 6.5 %，市場對其成長動能持正面態度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Iridium Communications' Ascent Means It's Time For A Downgrade",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-12",
+      "impact": "medium",
+      "category": "投資評級調整",
+      "reason": "由於股價在短期內累計上漲 35.6 %，分析師認為估值已過高，且基本面出現疲軟跡象，因此將評級下調，反映市場對其後續獲利能力的擔憂。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,47 @@
+{
+  "ticker": "CRGY",
+  "company": "Crescent Energy",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/CRGY.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管面臨市場波動與地緣政治風險，分析師仍因看好公司基本面而上調目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Piper Sandler Maintains Overweight on Crescent Energy, Raises Price Target to $16",
+      "publisher": "Benzinga",
+      "date": "2026-03-12 12:02",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Piper Sandler 分析師 Mark Lear 重申對 CRGY 的「增持」評級，並將目標價上調至 16 美元，顯示專業機構對公司未來股價表現持樂觀態度，此篇涵蓋了具體的目標價調整細節，故選為代表。"
+    },
+    {
+      "rank": 2,
+      "title": "Piper Sandler Boosts Crescent Energy (CRGY) Target while Oil Market Focus Shifts to Iran Risk",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-12 04:20",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出 Piper Sandler 上調目標價的同時，也提及市場對伊朗地緣政治風險的關注，這為能源股提供了潛在的價格支撐因素。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Crescent Energy (CRGY) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "publisher": "Zacks",
+      "date": "2026-03-10 22:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導指出 CRGY 近期股價跌幅大於大盤，反映出短期內賣壓較重或市場對其資產組合的敏感度高於整體能源板塊。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

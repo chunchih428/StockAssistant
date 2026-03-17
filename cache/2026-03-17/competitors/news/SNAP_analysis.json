@@ -1,0 +1,84 @@
+{
+  "ticker": "SNAP",
+  "company": "Snap",
+  "analysis_date": "2026-03-15",
+  "source_file": "cache/2026-03-15/competitors/news/SNAP.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 1,
+    "bearish_count": 4,
+    "neutral_count": 2,
+    "overall_sentiment": "bearish",
+    "key_theme": "Snap 面臨廣告市場波動與監管壓力，儘管試圖透過 AR 技術推動用戶參與，但股價仍處於低檔且市場情緒謹慎。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Snap Bets On IPL AR Push As Shares Trade Below Targets",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-13T06:13:53Z",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Snap 透過與印度板球超級聯賽 (IPL) 合作推廣 AR 功能，旨在提升用戶參與度與廣告變現能力，為公司在股價低迷期尋找成長動能。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Snap (SNAP) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "publisher": "Zacks",
+      "date": "2026-03-11T22:00:04Z",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價跌幅超過大盤，反映出投資人對公司基本面與市場競爭力的擔憂，顯示賣壓沉重。"
+    },
+    {
+      "rank": 2,
+      "title": "UK watchdogs press Meta, TikTok, Snap and YouTube to block children",
+      "publisher": "Reuters",
+      "date": "2026-03-12T11:00:30Z",
+      "impact": "medium",
+      "category": "法規",
+      "reason": "英國監管機構對社群平台施壓要求加強兒童保護，可能導致合規成本增加或產品功能受限，此處選用 Reuters 報導作為代表，因其涵蓋了跨平台的監管趨勢。"
+    },
+    {
+      "rank": 3,
+      "title": "Cautious Wall Street Sentiment on Snap Inc. (SNAP) Amid Advertising Volatility",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-10T05:30:38Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "華爾街對廣告市場波動感到擔憂，直接影響 Snap 的營收預期，導致分析師態度轉趨保守。"
+    },
+    {
+      "rank": 4,
+      "title": "A Look At Snap (SNAP) Valuation As Shares Trade Near Recent Lows",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-12T15:10:32Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價徘徊在近期低點，顯示市場對其估值合理性與未來成長潛力缺乏信心。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Market Chatter: Snapchat, TikTok Usage Continues Among Australian Teens Despite Social Media Ban",
+      "publisher": "MT Newswires",
+      "date": "2026-03-13T09:44:18Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管面臨禁令，青少年用戶黏著度依然存在，顯示產品具備韌性，但法規風險仍未完全消除。"
+    },
+    {
+      "rank": 2,
+      "title": "Market Chatter: UK Regulators Press Meta, TikTok, Snap, YouTube to Boost Child Safety Measures",
+      "publisher": "MT Newswires",
+      "date": "2026-03-12T11:19:26Z",
+      "impact": "low",
+      "category": "法規",
+      "reason": "此為監管壓力新聞的市場摘要，與 Reuters 報導內容重複，故列為中性觀察，確認市場對此議題的持續關注。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

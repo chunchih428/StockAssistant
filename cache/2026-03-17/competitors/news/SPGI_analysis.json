@@ -1,0 +1,92 @@
+{
+  "ticker": "SPGI",
+  "company": "S&P Global",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/SPGI.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 5,
+    "bearish_count": 0,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "S&P Global 透過整合 AI 技術與擴展 Capital IQ Pro 平台數據內容，持續強化其市場護城河並獲得分析師正面評價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Strong Analyst Sentiment on S&P Global (SPGI) Amid Strong Management Outlook",
+      "publisher": "Yahoo",
+      "date": "2026-03-15 07:48",
+      "impact": "high",
+      "category": "市場展望",
+      "reason": "被列入未來 10 年 13 檔不可或缺的股票名單，反映出市場對其管理層展望與長期競爭優勢的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "S&P Global Enhances Capital IQ Pro with Expanded Fixed Income, Biopharma and Private Markets Data Content and AI Capabilities",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 12:30",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "透過擴展固定收益、生物製藥與私募市場數據，並整合 AI 功能，顯著提升了旗艦平台 Capital IQ Pro 的產品價值與客戶黏著度。"
+    },
+    {
+      "rank": 3,
+      "title": "S&P Global (SPGI) Up 9.8% Since Last Earnings Report: Can It Continue?",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 15:30",
+      "impact": "medium",
+      "category": "財報表現",
+      "reason": "財報發布後股價上漲 9.8 %，顯示市場對其獲利能力與業務成長動能的正面肯定。"
+    },
+    {
+      "rank": 4,
+      "title": "Is S&P Global (SPGI) Quietly Rewiring Its Moat Around AI‑Native Workflows With Drift Integration?",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 23:13",
+      "impact": "medium",
+      "category": "技術創新",
+      "reason": "選此篇作為代表，因其深入探討了公司如何透過整合 Drift AI 與 ProntoNLP 技術，將 AI 原生工作流程嵌入核心業務，進一步鞏固市場護城河。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "How The S&P Global (SPGI) Story Is Shifting As Analysts Recalibrate AI And Valuation Risks",
+      "publisher": "Yahoo",
+      "date": "2026-03-14 01:12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析師維持 537.90 美元的公允價值估計，顯示目前的調整主要為細節修正，而非對公司基本面的重大看法改變。"
+    },
+    {
+      "rank": 2,
+      "title": "S&P Global Ratings Forecasts Global Sustainable Bond Market Will Consolidate In 2026 with Issuance Levels at $800-900 billion",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 12:11",
+      "impact": "low",
+      "category": "市場研究",
+      "reason": "針對永續債券市場的預測，顯示市場進入盤整期，發行量預計在 8,000 億至 9,000 億美元之間，屬於中性的產業趨勢觀察。"
+    },
+    {
+      "rank": 3,
+      "title": "S&P Global Inc. (SPGI) Presents at BofA Securities 2026 Information & Business Services Conference Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-12 12:12",
+      "impact": "low",
+      "category": "公司會議",
+      "reason": "公司出席投資者會議的例行性發言，未釋出重大意外利多或利空消息。"
+    },
+    {
+      "rank": 4,
+      "title": "S&P Global Lending Tech Launch Tests Valuation And Private Credit Ambitions",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-07 23:14",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討公司在借貸技術領域的布局，屬於對其私募信貸野心的策略性評估，目前影響力尚不明顯。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

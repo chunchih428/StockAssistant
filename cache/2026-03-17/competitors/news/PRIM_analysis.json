@@ -1,0 +1,48 @@
+{
+  "ticker": "PRIM",
+  "company": "Primoris",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/PRIM.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "Mixed",
+    "key_theme": "市場對 Primoris 的強勁訂單積壓與近期股價回調之間的估值差異存在分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Primoris Backlog Surge And Pullback Valuation Create Contrasting Signals",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-09",
+      "impact": "medium",
+      "category": "財務績效",
+      "reason": "儘管股價回調，但公司強勁的訂單積壓（Backlog）顯示未來營收能見度高，為長期投資者提供潛在的價值買入機會。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Genco, Primoris, Woodward, Regal Rexnord, and VSE Corporation Shares Plummet, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-12",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價出現顯著下跌，反映出市場對該公司近期表現或宏觀環境的擔憂，短期內賣壓沉重。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Too Late To Consider Primoris Services (PRIM) After Its Recent Share Price Pullback",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-09",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "該報導主要探討股價回調後的估值合理性，並未給出明確的買入或賣出建議，屬於中立的市場觀察分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

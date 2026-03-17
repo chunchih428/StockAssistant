@@ -1,0 +1,56 @@
+{
+  "ticker": "FROG",
+  "company": "JFrog",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/FROG.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 3,
+    "overall_sentiment": "Neutral to Bullish",
+    "key_theme": "市場正重新評估 JFrog 在 AI 工具領域的成長潛力，儘管股價近期波動且分析師觀點分歧，但機構給予的買進評級為股價提供了支撐。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Guggenheim Initiates Coverage On JFrog with Buy Rating, Announces Price Target of $60",
+      "publisher": "Benzinga",
+      "date": "2026-03-16 07:38",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Guggenheim 分析師 Howard Ma 給予買進評級並設定 60 美元目標價，顯示機構投資人對其長期成長前景與 AI 軟體工具的整合能力具備信心。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "How The JFrog (FROG) Narrative Is Shifting With AI Tools And Diverging Analyst Views",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-14",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "文章探討了市場對 JFrog 敘事邏輯的轉變，指出 AI 工具的應用與分析師之間存在觀點分歧，反映出市場對其未來成長路徑尚未達成共識。"
+    },
+    {
+      "rank": 2,
+      "title": "Assessing JFrog (FROG) Valuation After Recent Share Price Volatility Without A Clear News Catalyst",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-14",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對近期股價波動進行估值評估，由於缺乏明確的催化劑，該分析主要聚焦於技術面與估值合理性，對股價短期影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "JFrog (FROG): Buy, Sell, or Hold Post Q4 Earnings?",
+      "publisher": "StockStory",
+      "date": "2026-03-11",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "在 Q4 財報公布後進行的綜合分析，旨在協助投資人釐清買進、賣出或持有的策略，屬於財報後的例行性市場觀點整理。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

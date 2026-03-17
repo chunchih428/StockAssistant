@@ -1,0 +1,75 @@
+{
+  "ticker": "GNRC",
+  "company": "Generac Holdlings",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/GNRC.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 1,
+    "bearish_count": 4,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司近期因財報表現不如預期且下調財測，導致股價承壓並面臨分析師降評。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Generac Recognized for Excellence in Design with 2025 GOOD DESIGN Awards",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 11:00",
+      "impact": "low",
+      "category": "企業榮譽",
+      "reason": "獲得 GOOD DESIGN 獎項肯定了公司的產品設計能力，雖對短期財務影響有限，但有助於品牌形象與長期市場競爭力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "A Look At Generac Holdings (GNRC) Valuation After Earnings Misses And Guidance Cut",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 19:07",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "此篇涵蓋了營收、EBITDA 與 EPS 全面不及預期，且公司下調財測，是目前股價下跌的核心驅動因素，具備高度代表性。"
+    },
+    {
+      "rank": 2,
+      "title": "Citigroup Downgrades Generac Holdings (GNRC)",
+      "publisher": "Fintel",
+      "date": "2026-03-12 20:48",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "花旗集團的降評直接反映了市場對公司基本面惡化的擔憂，對股價具有顯著的負面壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "Generac Holdings (GNRC) Falls After Earnings Miss and Lowered Guidance",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 14:26",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出 Ariel Appreciation Fund 在其投資報告中提及對 GNRC 財報表現的負面看法，進一步加劇市場拋售情緒。"
+    },
+    {
+      "rank": 4,
+      "title": "Generac Holdings (GNRC) Down 5.4% Since Last Earnings Report: Can It Rebound?",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 15:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "量化分析顯示財報後股價已下跌 5.4%，反映出市場對公司短期內能否反彈持懷疑態度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Generac Announces Webcast of Upcoming 2026 Investor Day",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 10:00",
+      "impact": "low",
+      "category": "投資人關係",
+      "reason": "僅為例行性的投資人日公告，屬於公司治理的常規活動，對股價無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,75 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-03-14",
+  "source_file": "cache/2026-03-14/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "neutral",
+    "key_theme": "市場對於 QQQ 在 AI 成長潛力與高波動槓桿 ETF 替代品之間的資產配置策略存在分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "QQQ: It Is Actually Cheaper Than VOO -- And I Can Prove It",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-07 04:51",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "該文指出 QQQ 在成長調整後的估值比 VOO 更具吸引力，且能提供完整的 AI 產業曝險，對於長期成長型投資人具備強勁的買入邏輯。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Sell QLD - Buy QYLD, And Here Is Why",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-11 16:16",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "針對槓桿型 Nasdaq 產品的降評，反映出在震盪市場中，投資人對於高波動率資產的風險規避情緒上升，間接影響對 QQQ 相關衍生品的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "TQQQ Holders Face a Risk That Has Nothing to Do With the Nasdaq Falling",
+      "publisher": "Yahoo",
+      "date": "2026-03-07 16:07",
+      "impact": "low",
+      "category": "風險管理",
+      "reason": "強調槓桿 ETF 的結構性風險，提醒投資人即便 Nasdaq 指數表現良好，槓桿產品仍可能因波動率損耗而導致資產縮水。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "MAGS vs QQQ: The Concentrated ETF Bet That Cuts Both Ways",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-03-13 13:27",
+      "impact": "low",
+      "category": "投資組合策略",
+      "reason": "將 QQQ 與 MAGS 進行比較，探討集中型投資組合的雙面刃特性，屬於中性的資產配置討論，未對 QQQ 本身給予明確買賣建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Should QQQ Investors Sell Before the SpaceX IPO?",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-03-12 17:22",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討 SpaceX IPO 對市場資金流動的潛在影響，屬於市場事件驅動的假設性分析，對 QQQ 的直接影響尚不明確。"
+    },
+    {
+      "rank": 3,
+      "title": "Looking at Invesco QQQ? This ETF Is Probably a Better Bet",
+      "publisher": "Yahoo",
+      "date": "2026-03-07 17:22",
+      "impact": "low",
+      "category": "投資組合策略",
+      "reason": "該文比較了同一發行商旗下的不同 ETF 產品，建議投資人根據風險偏好選擇，屬於產品間的比較分析，對 QQQ 本身持中性態度。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

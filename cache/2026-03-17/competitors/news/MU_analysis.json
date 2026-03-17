@@ -1,0 +1,83 @@
+{
+  "ticker": "MU",
+  "company": "Micron Technology",
+  "analysis_date": "2026-03-15",
+  "source_file": "cache/2026-03-15/competitors/news/MU.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 18,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於人工智慧 (AI) 強勁需求與記憶體價格上漲，華爾街分析師紛紛調升目標價，推動股價持續走強。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Micron Technology price target boosted on stronger-than-expected memory pricing",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 16:42",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Wedbush 分析師將目標價調升至 500 美元，主要基於記憶體產業定價優於預期，顯示市場對其獲利能力的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Micron Stock Just Got a New Street-High Price Target. Should You Buy MU Now?",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 14:06",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "GF Securities 給出市場最高目標價 571 美元，顯著提振市場對該股長期成長潛力的預期。"
+    },
+    {
+      "rank": 3,
+      "title": "Bull of the Day: Micron (MU)",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 08:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出 Micron 的 AI 記憶體產能已預售至 2026 年底，確認了公司在 AI 硬體供應鏈中的核心地位。"
+    },
+    {
+      "rank": 4,
+      "title": "Applied Materials (AMAT) Partners with Micron (MU), SK Hynix for Next-Gen Memory Development",
+      "publisher": "Yahoo",
+      "date": "2026-03-14 18:31",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 Applied Materials 合作開發次世代記憶體，有助於鞏固其技術領先優勢。"
+    },
+    {
+      "rank": 5,
+      "title": "Micron Technology (MU) to Capitalize on Surging AI demand for AI Training and Inference",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 18:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Mizuho 維持買入評級，強調 Micron 在 AI 訓練與推論需求激增下的獲利成長空間。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Finance week ahead: Interest rates, Alibaba, Micron Technology, Prudential and JD Wetherspoon",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 16:23",
+      "impact": "low",
+      "category": "財報預告",
+      "reason": "僅作為即將發布財報的日程提醒，未對股價產生直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Jim Cramer Says Micron Could Be “Bought on a Big Move Down Because of Oil”",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 15:16",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "Jim Cramer 建議在特定宏觀因素（如油價波動）導致回調時買入，屬於操作建議而非對公司基本面的負面評價。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,84 @@
+{
+  "ticker": "EME",
+  "company": "EMCOR",
+  "analysis_date": "2026-03-15",
+  "source_file": "cache/2026-03-15/competitors/news/EME.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 3,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "混合偏多",
+    "key_theme": "儘管近期股價因獲利了結出現修正，但 EMCOR Group 憑藉強勁的 2025 年財報、樂觀的 2026 年指引以及分析師給予的買進評級，基本面依然穩健。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cantor Fitzgerald Initiates Coverage On EMCOR Group with Overweight Rating, Announces Price Target of $848",
+      "publisher": "Benzinga",
+      "date": "2026-03-10 12:36",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Cantor Fitzgerald 分析師 Manish A. Somaiya 給予 EME「加碼」(Overweight) 評級，並設定 848 美元的目標價，顯示市場對其成長潛力的高度認可。"
+    },
+    {
+      "rank": 2,
+      "title": "A Look At EMCOR Group's (EME) Valuation After Strong 2025 Results And Upbeat 2026 Guidance",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 00:18",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "公司發布了強勁的 2025 年第四季與全年財報，並提供樂觀的 2026 年營運指引，支撐了長期投資價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "EMCOR Stock Slides 12% Post Q4 Results: Buy the Dip or Wait?",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 14:43",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "儘管財報表現優異，但股價在財報後出現 12% 的回調，反映出市場在利多出盡後的獲利了結賣壓。"
+    },
+    {
+      "rank": 2,
+      "title": "Emcor Group (EME) Stock Moves -1.34%: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 21:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價在近期交易日持續小幅下跌 1.34%，顯示短期技術面仍處於修正壓力之下。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Can EMCOR Keep Margins Strong Amid Rising Project Complexity?",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 16:56",
+      "impact": "medium",
+      "category": "產業分析",
+      "reason": "探討在資料中心專案複雜度提升的背景下，公司能否維持利潤率與執行力，屬於對未來營運挑戰的中性觀察。"
+    },
+    {
+      "rank": 2,
+      "title": "EMCOR Group, Inc. (EME) Presents at 2026 Cantor Global Technology & Industrial Growth Conference Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-11 18:52",
+      "impact": "low",
+      "category": "公司會議",
+      "reason": "公司參與產業研討會並發布會議記錄，主要為例行性投資人溝通，未釋出重大意外訊息。"
+    },
+    {
+      "rank": 3,
+      "title": "EMCOR Group Stock: A Deep Dive Into Analyst Perspectives (6 Ratings)",
+      "publisher": "Benzinga",
+      "date": "2026-03-10 15:01",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "彙整了 6 位分析師對 EME 的評級觀點，屬於市場共識的整理，無直接影響股價的突發性利多或利空。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
