@@ -1,0 +1,57 @@
+{
+  "ticker": "QLYS",
+  "company": "Qualys, Inc.",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/QLYS.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司內部高層減持股份引發市場對股價前景的擔憂，抵銷了部分業務合作拓展帶來的正面消息。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Media Alert: Qualys Extends Major Partner Status with San Francisco Unicorns Through 2027",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 13:01",
+      "impact": "low",
+      "category": "市場擴張",
+      "reason": "Qualys 延長與舊金山獨角獸企業的合作夥伴關係至 2027 年，顯示其雲端資安解決方案在市場上的黏著度與客戶關係穩定，對營收具備正面支撐作用。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "CFO Sells 6,799 Shares of Qualys Worth $873,000",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 19:19",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "財務長 Kim Joo Mi 出售價值 87.3 萬美元的股份，此舉常被市場解讀為內部人對公司短期股價信心不足，且該新聞涵蓋了 Motley Fool 與 Yahoo 的報導，具代表性。"
+    },
+    {
+      "rank": 2,
+      "title": "Qualys CFO Share Sale Under Plan Fuels Insider Sentiment Questions",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 12:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "進一步探討 CFO 減持行為對投資人情緒的負面影響，加深了市場對於內部人拋售股票的疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Qualys (QLYS) Offering Value After Prolonged Share Price Weakness",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 02:08",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "文章針對 QLYS 長期股價疲軟後的價值進行探討，未給出明確買賣建議，僅提供投資人對於估值是否合理的思考方向。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

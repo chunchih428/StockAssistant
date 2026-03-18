@@ -1,0 +1,102 @@
+{
+  "ticker": "AMD",
+  "company": "AMD",
+  "analysis_date": "2026-03-15",
+  "source_file": "cache/2026-03-15/competitors/news/AMD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 4,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "AMD 積極透過與 Meta、Microsoft 等科技巨頭建立 AI 基礎設施聯盟，並尋求與 Samsung 等供應鏈夥伴深化合作，以鞏固其在 AI 晶片市場的長期競爭力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Optical Scale-up Consortium Established to Create an Open Specification for AI Infrastructure Led by Founding Members AMD, Broadcom, Meta, Microsoft, NVIDIA and OpenAI",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 13:00",
+      "impact": "high",
+      "category": "策略聯盟",
+      "reason": "AMD 與多家科技巨頭共同成立光學運算聯盟，旨在制定 AI 基礎設施的開放標準，這將有助於 AMD 在 AI 生態系中建立話語權並降低技術門檻。"
+    },
+    {
+      "rank": 2,
+      "title": "AMD CEO to Meet Samsung Chief as AI Memory Demand Surges",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 13:06",
+      "impact": "high",
+      "category": "供應鏈合作",
+      "reason": "AMD 執行長 Lisa Su 與 Samsung 會面，針對 AI 記憶體需求進行討論，顯示公司正積極確保關鍵零組件供應，以應對 AI 晶片市場的強勁需求。"
+    },
+    {
+      "rank": 3,
+      "title": "AMD Patent Truce And AI Push Reframe Long Term Growth Story",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 23:16",
+      "impact": "medium",
+      "category": "法律訴訟",
+      "reason": "AMD 與 Adeia 達成多年專利授權協議，解決了潛在的法律風險，消除了長期成長故事中的不確定性。"
+    },
+    {
+      "rank": 4,
+      "title": "Advanced Micro Devices (AMD) is a Top-Ranked Growth Stock: Should You Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 13:45",
+      "impact": "medium",
+      "category": "市場評級",
+      "reason": "基於 Zacks 風格評分，AMD 被列為頂級成長股，反映出市場對其財務表現與成長潛力的正面預期。"
+    },
+    {
+      "rank": 5,
+      "title": "Jim Cramer Says He “Certainly Would” Start a Position in Advanced Micro Devices If He Didn’t Own NVIDIA",
+      "publisher": "Yahoo",
+      "date": "2026-03-14 14:41",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "知名財經評論員 Jim Cramer 的正面背書，增加了投資人對 AMD 作為 AI 領域第二大選擇的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Meta rolls out in-house AI chips weeks after massive Nvidia, AMD deals",
+      "publisher": "CNBC",
+      "date": "2026-03-11 10:00",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "Meta 推出自研 AI 晶片，雖然目前仍與 AMD 合作，但長期來看，客戶自研晶片趨勢可能削弱對 AMD 外部 GPU 的依賴。"
+    },
+    {
+      "rank": 2,
+      "title": "Advanced Micro Devices (AMD) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 21:45",
+      "impact": "low",
+      "category": "股價表現",
+      "reason": "AMD 單日跌幅超過大盤，顯示短期內存在獲利了結賣壓或市場對其波動性的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "AMD vs. TSMC: Which Chip Stock Actually Delivers the Smarter Return in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 13:55",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "文章對 AMD 與 TSMC 進行比較分析，屬於投資組合配置的討論，未對 AMD 本身產生直接利多或利空影響。"
+    },
+    {
+      "rank": 2,
+      "title": "United States Cryptocurrency Market Forecast and Company Analysis Report 2025-2033",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 10:36",
+      "impact": "low",
+      "category": "產業報告",
+      "reason": "僅將 AMD 列為加密貨幣市場報告中的相關企業，並未針對其核心業務提供具體影響分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

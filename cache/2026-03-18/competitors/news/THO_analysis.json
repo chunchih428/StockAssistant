@@ -1,0 +1,56 @@
+{
+  "ticker": "THO",
+  "company": "Thor Industries",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/THO.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 0,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "bearish",
+    "key_theme": "儘管 Q2 財報顯示獲利與營收成長，但受限於訂單積壓萎縮與歐洲市場需求疲軟，分析師普遍下調目標價。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "DA Davidson Lowers its Price Target on THOR Industries, Inc. (THO) to $100 from $102 and Maintains a Neutral Rating",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 09:36",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "DA Davidson 將目標價從 $102 下調至 $100，反映出對該公司短期成長動能的擔憂，儘管維持中性評級，但下調動作顯示市場對其估值修正的預期。"
+    },
+    {
+      "rank": 2,
+      "title": "Truist Securities Maintains Hold on Thor Industries, Lowers Price Target to $109",
+      "publisher": "Benzinga",
+      "date": "2026-03-11 09:55",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師 Michael Swartz 維持持有評級並下調目標價至 $109，顯示在當前產業環境下，機構投資人對 THO 的股價上漲空間持保留態度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "How to Approach Thor Industries Stock After Q2 Earnings Release?",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 15:50",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "該報導全面分析了 Q2 財報，指出雖然併購與電動車計畫帶動了營收成長，但訂單積壓減少與歐洲需求疲軟抵銷了利多，呈現多空交雜的財務現況。"
+    },
+    {
+      "rank": 2,
+      "title": "Automobile Manufacturing Stocks Q4 Recap: Benchmarking THOR Industries (NYSE:THO)",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 18:16",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此文為產業同儕績效對比回顧，屬於例行性市場分析，未提供具體影響股價的新重大消息，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

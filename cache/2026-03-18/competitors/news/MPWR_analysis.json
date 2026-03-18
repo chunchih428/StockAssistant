@@ -1,0 +1,48 @@
+{
+  "ticker": "MPWR",
+  "company": "Monolithic Power Systems",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/MPWR.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "Mixed",
+    "key_theme": "MPWR 展現強勁的長期成長動能與市場表現，但高估值引發市場對股價回調風險的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Is Monolithic Power Systems Stock Outperforming the Dow?",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 09:50",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "MPWR 在過去一年內的股價表現顯著優於道瓊工業指數，顯示其在電源管理晶片領域的強勁競爭力與市場領先地位，獲得分析師正面評價。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Monolithic Power Systems: Robust Growth, But Price Is Stretched",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-11 11:02",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "儘管公司營運成長穩健，但目前股價估值過高，市場擔憂過高的本益比可能限制未來上漲空間，並增加短期回調風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Monolithic Power Systems (MPWR): Buy, Sell, or Hold Post Q4 Earnings?",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 20:29",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "針對 Q4 財報後的投資建議進行探討，回顧了公司過去 215% 的驚人漲幅，但未給出明確的買賣方向，僅提供投資人評估現有持股的參考。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,102 @@
+{
+  "ticker": "PATH",
+  "company": "UiPath",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/PATH.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 6,
+    "neutral_count": 4,
+    "overall_sentiment": "混合偏多",
+    "key_theme": "UiPath 雖然繳出優於預期的財報並達成首次全年 GAAP 獲利，但因對未來成長展望保守，導致市場情緒在強勁基本面與成長放緩擔憂之間拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "PATH Delivers Strong Quarter to Close its Fiscal Year: Is PATH a Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 17:45",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司達成首次全年 GAAP 獲利，且 Q4 營收成長 14 %，ARR 達到 18.53 億美元，顯示營運效率顯著提升。"
+    },
+    {
+      "rank": 2,
+      "title": "UiPath Expands Strategic Alliance with Deloitte to Launch Agentic ERP",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 20:30",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 Deloitte 擴大合作推出 Agentic ERP，有助於將 AI 協調能力嵌入企業核心運作，強化市場競爭護城河。"
+    },
+    {
+      "rank": 3,
+      "title": "UiPath's AI Momentum Drives ARR to $200 Million, RBC Says",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 15:48",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "AI 相關業務動能強勁，推動 ARR 成長至 2 億美元，顯示公司在 AI 轉型策略上取得實質進展。"
+    },
+    {
+      "rank": 4,
+      "title": "UiPath margins shine as AI fuels growth",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 15:25",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "Q4 毛利率表現亮眼（達 86 %），證明公司在訂閱制模式下具備強大的營運槓桿與獲利能力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Stock Market Today, March 12: UiPath Shares Drop After Slower Growth Outlook Offsets First Full-Year Profit",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 21:18",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "儘管獲利表現佳，但公司對未來年度成長展望保守，導致市場對其成長動能產生疑慮，股價因此承壓。"
+    },
+    {
+      "rank": 2,
+      "title": "UBS Maintains Neutral on UiPath, Lowers Price Target to $13",
+      "publisher": "Benzinga",
+      "date": "2026-03-12 15:51",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "UBS 將目標價從 17 美元下調至 13 美元，反映出對公司未來營收成長放緩的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Stocks to Watch Thursday Recap: Atlassian, UiPath, Dollar General, Honda",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 20:25",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場回顧指出儘管財報優於預期，但成長放緩的指引成為股價下跌的主要催化劑。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "UiPath Results Signal Stability, AI Adoption Key to Faster Growth, Morgan Stanley Says",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 15:12",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "摩根士丹利認為財報顯示公司在充滿挑戰的環境中具備穩定性，但未來成長仍取決於 AI 的採用速度。"
+    },
+    {
+      "rank": 2,
+      "title": "These Stocks Are Today’s Movers: Morgan Stanley, Bumble, CF Industries, Rivian, UiPath, Firefly Aerospace, and More",
+      "publisher": "Barrons.com",
+      "date": "2026-03-12 20:37",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為當日市場波動個股的例行性報導，未提供額外基本面分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

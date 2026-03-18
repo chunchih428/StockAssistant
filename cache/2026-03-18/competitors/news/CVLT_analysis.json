@@ -1,0 +1,47 @@
+{
+  "ticker": "CVLT",
+  "company": "Commvault Systems, Inc.",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/CVLT.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場對 Commvault Systems 的長期成長潛力存疑，儘管有技術整合利多，但股價短期表現疲軟且面臨估值修正壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "The Bull Case For Commvault Systems (CVLT) Could Change Following New Identity Resilience Integrations With Okta",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-07",
+      "impact": "medium",
+      "category": "產品合作",
+      "reason": "Commvault 與 Okta 進行身分韌性整合，有助於強化資安防護能力，提升產品競爭力，為長期成長提供潛在動能。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Commvault Systems (CVLT) Sees a More Significant Dip Than Broader Market",
+      "publisher": "Yahoo",
+      "date": "2026-03-13",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日下跌 2.34 %，表現弱於大盤，顯示短期賣壓沉重，投資人信心不足。"
+    },
+    {
+      "rank": 2,
+      "title": "Is It Time To Reconsider Commvault Systems (CVLT) After Its Sharp One Year Share Price Drop",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-07",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "過去一年股價大幅下跌，引發市場對公司基本面與未來獲利能力的質疑，投資人需重新評估其估值合理性。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

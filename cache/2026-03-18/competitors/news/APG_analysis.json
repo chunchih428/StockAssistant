@@ -1,0 +1,47 @@
+{
+  "ticker": "APG",
+  "company": "APi Group",
+  "analysis_date": "2026-03-15",
+  "source_file": "cache/2026-03-15/competitors/news/APG.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司憑藉強勁的檢測業務成長與併購策略推動營運，市場正評估在股價大幅上漲後的估值合理性。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "APi Group’s Record Q3 Underscores Inspection Growth And Acquisition-Led Expansion",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-06",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司 Q3 業績創紀錄，顯示其核心檢測業務具備強勁成長動能，且透過併購策略成功擴大市場份額，基本面表現強健。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Time To Reassess APi Group (APG) After A 75% One Year Rally?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-06",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價在一年內上漲 75 %，引發市場對於估值是否過高的討論，投資人需重新評估後續成長空間與風險。"
+    },
+    {
+      "rank": 2,
+      "title": "APi Group Corporation (APG) Presents at BofA Securities 2026 Information & Business Services Conference",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-12",
+      "impact": "low",
+      "category": "投資人會議",
+      "reason": "公司於 BofA 證券會議中進行簡報，屬於常規投資人溝通，未見重大突發性利多或利空消息，維持市場對其營運策略的既有認知。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

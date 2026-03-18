@@ -1,0 +1,120 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-03-14",
+  "source_file": "cache/2026-03-14/competitors/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 3,
+    "bearish_count": 12,
+    "neutral_count": 5,
+    "overall_sentiment": "bearish",
+    "key_theme": "Apple 因應中國監管壓力調降 App Store 佣金費率，引發市場對其高毛利服務業務獲利能力的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Reliance Digital Launches 'Take The First Bite' Campaign for Apple's Latest Devices",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 10:07",
+      "impact": "low",
+      "category": "市場擴張",
+      "reason": "透過印度零售商 Reliance Digital 的行銷活動，顯示 Apple 在新興市場的產品滲透力與品牌影響力持續增強。"
+    },
+    {
+      "rank": 2,
+      "title": "Memory Inflation Is Real—and Apple Is the Only One Turning It Into an Opportunity",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 15:02",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析指出 Apple 具備強大的供應鏈議價能力與定價權，能在記憶體成本通膨環境下維持競爭優勢。"
+    },
+    {
+      "rank": 3,
+      "title": "The Best Stocks to Invest $1,000 in Right Now",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 13:25",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "市場分析師將 Apple 列為當前投資組合中的首選標的，反映其長期穩健的成長潛力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Apple Cuts China App Store Fees to 25% After Regulator Discussions",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 17:29",
+      "impact": "high",
+      "category": "法規與政策",
+      "reason": "此篇為該主題代表新聞。Apple 將中國 App Store 佣金從 30% 降至 25%，並將迷你應用程式費率降至 12%，直接衝擊高毛利的服務業務營收，反映監管壓力對獲利結構的負面影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple (AAPL) Dips More Than Broader Market: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 21:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日下跌 2.21%，表現弱於大盤，顯示投資人對近期監管消息與獲利前景的負面反應。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple’s 5% iOS fee cut in China: These companies are most affected",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 14:11",
+      "impact": "medium",
+      "category": "財報影響",
+      "reason": "明確指出佣金下調將對 Apple 的獲利能力產生負面影響，儘管對開發商有利，但對 Apple 而言屬於營收結構的利空。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Does Apple pay dividends? A history of rewarding shareholders",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 18:05",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "回顧 Apple 的股利發放歷史與現金部位，屬於投資人教育性質的資訊，對短期股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Himax pops on report linking to Nvida AI optics, Apple smart-glasses",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 17:50",
+      "impact": "low",
+      "category": "市場傳聞",
+      "reason": "新聞重點在於 Himax 的股價波動，Apple 僅被提及為潛在合作對象，缺乏實質官方確認。"
+    },
+    {
+      "rank": 3,
+      "title": "Rosenblatt Lifts PT on Apple, Maintains Netural Rating",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 05:46",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "分析師調整目標價但維持中立評級，顯示市場對其未來成長空間看法分歧。"
+    },
+    {
+      "rank": 4,
+      "title": "Elon Musk Congratulates Apple As Tim Cook Marks 50-Year Milestone",
+      "publisher": "Benzinga",
+      "date": "2026-03-13 05:40",
+      "impact": "low",
+      "category": "公司動態",
+      "reason": "屬於企業里程碑的公關性質新聞，對公司基本面與股價無實質影響。"
+    },
+    {
+      "rank": 5,
+      "title": "You Won't Believe How Much Money Berkshire Hathaway Gets From Apple Dividends",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 14:27",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "討論波克夏海瑟威的持股收益，屬於市場觀察性質，不影響 Apple 本身的營運狀況。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

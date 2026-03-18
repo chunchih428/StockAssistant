@@ -1,0 +1,111 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-03-15",
+  "source_file": "cache/2026-03-15/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 4,
+    "neutral_count": 7,
+    "overall_sentiment": "bullish",
+    "key_theme": "Amazon 透過與 Cerebras 合作強化 AI 雲端運算能力，並藉由調漲 Prime Video 訂閱費與擴大歐洲數據中心投資，展現強勁的營收成長動能與市場主導地位。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "AWS and Cerebras Collaboration Aims to Set a New Standard for AI Inference Speed and Performance in the Cloud",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 15:06",
+      "impact": "high",
+      "category": "技術合作",
+      "reason": "AWS 與 Cerebras 合作部署晶圓級 AI 晶片，顯著提升 AI 推論速度，有助於鞏固其在雲端 AI 市場的競爭優勢。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon.com (AMZN) to Invest €33.7B in Spanish Data Center Expansion",
+      "publisher": "Yahoo",
+      "date": "2026-03-14 02:42",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "高達 337 億歐元的巨額投資顯示 Amazon 對歐洲雲端基礎設施的長期承諾，將進一步擴大 AWS 的市佔率。"
+    },
+    {
+      "rank": 3,
+      "title": "Win for Amazon as Luxembourg court scraps record $854 million privacy fine",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 16:24",
+      "impact": "medium",
+      "category": "法規與訴訟",
+      "reason": "法院撤銷了高達 8.54 億美元的隱私罰款，直接改善了公司的財務狀況並消除了潛在的法律負擔。"
+    },
+    {
+      "rank": 4,
+      "title": "Amazon's Zoox partners with Uber to reach more robotaxi riders",
+      "publisher": "CNBC",
+      "date": "2026-03-11 08:00",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "Zoox 與 Uber 的合作將加速自動駕駛計程車的商業化落地，為 Amazon 開拓新的營收增長點。"
+    },
+    {
+      "rank": 5,
+      "title": "Are Amazon and Alphabet Among the Best Stocks to Buy Now?",
+      "publisher": "Yahoo",
+      "date": "2026-03-14 08:45",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "市場分析指出雲端業務的強勁成長，進一步強化了投資人對 Amazon 作為藍籌股的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Amazon to hike price of ad-free Prime Video tier by $2 a month",
+      "publisher": "CNBC",
+      "date": "2026-03-13 12:21",
+      "impact": "medium",
+      "category": "產品定價",
+      "reason": "雖然調漲價格有助於營收，但可能導致部分對價格敏感的用戶流失，並面臨消費者對訂閱成本上升的負面情緒。"
+    },
+    {
+      "rank": 2,
+      "title": "FCC chair slams Amazon for slow satellite launches after it opposed SpaceX data center plan",
+      "publisher": "CNBC",
+      "date": "2026-03-11 18:12",
+      "impact": "medium",
+      "category": "法規與訴訟",
+      "reason": "FCC 主席公開批評 Amazon 衛星部署進度緩慢，且與 SpaceX 的競爭引發監管壓力，可能影響其衛星網路計畫的執行。"
+    },
+    {
+      "rank": 3,
+      "title": "Update: Market Chatter: Amazon's European Unit Could Face Trial in Italy Over Alleged Tax Evasion",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 09:51",
+      "impact": "low",
+      "category": "法規與訴訟",
+      "reason": "涉及義大利的稅務逃漏指控可能導致罰款或商譽受損，需持續關注後續法律程序。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Stock-Split Follow-up: How Nvidia, Alphabet, Amazon, Netflix, and Tesla Have Performed Since Their Historic Splits",
+      "publisher": "Yahoo",
+      "date": "2026-03-14 13:20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "回顧股票分割後的表現，屬於中性的市場歷史分析，對短期股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "27-year-old Amazon employee relocated from India to Ireland and spends up to $2,927 a month",
+      "publisher": "CNBC",
+      "date": "2026-03-14 09:00",
+      "impact": "low",
+      "category": "公司文化",
+      "reason": "僅為員工個人生活經驗分享，對公司整體營運或財務表現無實質影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,75 @@
+{
+  "ticker": "BLZE",
+  "company": "Backblaze",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/BLZE.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "Mixed",
+    "key_theme": "公司在 Q4 財報表現優於預期後，市場對於其 B2 雲端儲存業務成長放緩與利潤率壓力產生分歧看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Backblaze (BLZE) Sparks Confidence After Impressive Fourth Quarter",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-10",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "該報導強調公司在 Q4 財報中展現的強勁表現，成功提振了投資人信心，反映出市場對其營運績效的正面肯定。"
+    },
+    {
+      "rank": 2,
+      "title": "Backblaze Collaborates With StorageReview Over Availability Of 314 Trillion Digits Of Pi",
+      "publisher": "Benzinga",
+      "date": "2026-03-13",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "透過與 StorageReview 的技術合作，展示了 Backblaze 在 AI 時代高績效雲端儲存平台的技術實力與市場能見度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Backblaze: B2 Cloud Growth Keeps Slowing, Banks On Neocloud (Downgrade)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-11",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師指出 B2 雲端儲存成長持續低於預期，並下調評級，顯示市場對其核心業務成長動能減弱的擔憂，此篇涵蓋了成長放緩的核心風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Backblaze Beats Estimates, But Slowing Growth And Margin Pressures Dampen Prospects",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-10",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "儘管 Q4 財報優於預期，但該文指出 2026 年面臨的利潤率壓力與成長趨緩，對未來獲利前景構成負面影響。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "How The Backblaze (BLZE) Investment Story Is Shifting As Growth Cools And Profitability Improves",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-09",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "客觀分析公司從追求高成長轉向提升獲利能力的策略轉型，呈現投資故事的結構性變化，無明顯多空傾向。"
+    },
+    {
+      "rank": 2,
+      "title": "Backblaze CFO Targets Faster B2 Growth, Stronger Cash Flow at Citizens Technology Conference",
+      "publisher": "MarketBeat",
+      "date": "2026-03-07",
+      "impact": "low",
+      "category": "高層談話",
+      "reason": "財務長在會議中重申成長與現金流目標，屬於公司例行性的營運展望說明，對股價影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,57 @@
+{
+  "ticker": "POWL",
+  "company": "Powell Industries",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/POWL.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司近期宣布 3 拆 1 股票分割計畫，加上分析師評級上調，顯示市場對其長期成長潛力與流動性改善持正面態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Powell Industries (POWL) Upgraded to Buy: What Does It Mean for the Stock?",
+      "publisher": "Zacks",
+      "date": "2026-03-10",
+      "impact": "high",
+      "category": "投資評級",
+      "reason": "Zacks 將 POWL 評級上調至「買入」，通常反映了對公司基本面改善或獲利預期提升的信心，對股價具有直接的正面推動力。"
+    },
+    {
+      "rank": 2,
+      "title": "Are Industrial Products Stocks Lagging Powell Industries (POWL) This Year?",
+      "publisher": "Zacks",
+      "date": "2026-03-10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出 POWL 在工業產品板塊中表現優於同業，顯示其具備強勁的相對強勢（Relative Strength），吸引資金青睞。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Powell Industries (POWL) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "publisher": "Zacks",
+      "date": "2026-03-11",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價出現較大回調且跌幅超過大盤，反映短期獲利了結賣壓或市場對特定技術面指標的修正，需關注支撐位是否穩固。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Should Powell Industries’ Three-for-One Stock Split Signal a Turning Point for POWL’s Investor Base Strategy?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-13",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "股票分割本身不改變公司基本面或內在價值，僅是調整股價與流通股數，旨在增加流動性與吸引散戶，長期影響取決於後續營運表現。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

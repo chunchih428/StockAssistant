@@ -1,0 +1,56 @@
+{
+  "ticker": "TKO",
+  "company": "TKO",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/TKO.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司宣布大規模股票回購計畫並獲得分析師調升目標價，展現強勁的資本配置策略與市場信心。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "TD Cowen Maintains Buy on TKO Group Holdings, Raises Price Target to $250",
+      "publisher": "Benzinga",
+      "date": "2026-03-11 10:35",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "TD Cowen 分析師 Lance Vitanza 維持買入評級並將目標價調升至 250 美元，顯示專業機構對 TKO 未來獲利成長與資產價值的高度認可。"
+    },
+    {
+      "rank": 2,
+      "title": "TKO Announces $1 Billion in Share Repurchases",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 12:15",
+      "impact": "high",
+      "category": "資本配置",
+      "reason": "公司宣布 10 億美元的股票回購計畫，此舉通常被視為管理層對公司現金流狀況充滿信心，並能直接提升每股盈餘 (EPS) 與股東價值。此處選擇 Yahoo 版本作為代表，因其報導內容涵蓋了完整的官方聲明。"
+    },
+    {
+      "rank": 3,
+      "title": "TKO Balances WrestleMania Gaming Expansion With US$2b Buyback Commitment",
+      "publisher": "Yahoo",
+      "date": "2026-03-15 06:04",
+      "impact": "medium",
+      "category": "業務擴張",
+      "reason": "TKO 透過與 Fanatics Casino 合作推出 WWE 品牌線上博弈遊戲，顯示其積極拓展數位娛樂版圖，並同時維持高額資本回饋計畫，展現成長與回饋的平衡。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "TKO Group Announces $1B Buyback Program",
+      "publisher": "Benzinga",
+      "date": "2026-03-10 08:19",
+      "impact": "low",
+      "category": "資本配置",
+      "reason": "此新聞與上述 10 億美元回購計畫內容重複，僅作為資訊傳遞，故歸類為中性，以避免重複計算。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

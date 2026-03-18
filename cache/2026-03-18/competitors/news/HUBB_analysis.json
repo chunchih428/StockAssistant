@@ -1,0 +1,47 @@
+{
+  "ticker": "HUBB",
+  "company": "Hubbell Inc",
+  "analysis_date": "2026-03-14",
+  "source_file": "cache/2026-03-14/competitors/news/HUBB.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 Hubbell 的基本面與股利成長潛力持正面看法，儘管分析師評級維持中立，但目標價的上調顯示對其長期價值認可。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Hubbell Inc (NYSE:HUBB): A Quality Dividend Stock with Strong Fundamentals",
+      "publisher": "ChartMill",
+      "date": "2026-03-13 09:32",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "該報告強調 Hubbell 具備強勁的獲利能力與健康的資產負債表，並將其定位為優質的股利成長股，對長期投資人具吸引力。"
+    },
+    {
+      "rank": 2,
+      "title": "Morgan Stanley Maintains Equal-Weight on Hubbell, Raises Price Target to $565",
+      "publisher": "Benzinga",
+      "date": "2026-03-11 13:05",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "摩根士丹利分析師 Chris Snyder 維持中立評級，但將目標價調升至 $565，顯示市場對公司未來估值空間的預期有所提升。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Too Late To Consider Hubbell (HUBB) After Its Recent Share Price Pullback?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-05 23:20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章探討股價回調後的進場時機，屬於客觀的市場分析，未給出明確的買進或賣出建議，對股價影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

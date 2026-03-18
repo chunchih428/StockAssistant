@@ -1,0 +1,92 @@
+{
+  "ticker": "NDAQ",
+  "company": "Nasdaq",
+  "analysis_date": "2026-03-15",
+  "source_file": "cache/2026-03-15/competitors/news/NDAQ.json",
+  "summary": {
+    "total_articles": 17,
+    "bullish_count": 10,
+    "bearish_count": 0,
+    "neutral_count": 7,
+    "overall_sentiment": "bullish",
+    "key_theme": "Nasdaq 積極推動代幣化股票交易與 AI 應用，加上分析師調升目標價與潛在的 SpaceX 上市利多，支撐股價看漲情緒。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "How The Nasdaq (NDAQ) Story Is Shifting With AI Themes And Higher Analyst Targets",
+      "publisher": "Yahoo",
+      "date": "2026-03-14 11:08",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "分析師將目標價從 107.73 美元調升至 108.53 美元，反映市場對其 AI 相關業務佈局的信心增強。"
+    },
+    {
+      "rank": 2,
+      "title": "Wall Street Analysts Predict a 27.92% Upside in Nasdaq (NDAQ)",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 13:55",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "華爾街分析師平均目標價顯示該股具備 27.9% 的上漲潛力，顯示機構投資人對其長期成長持樂觀態度。"
+    },
+    {
+      "rank": 3,
+      "title": "Elon Musk's SpaceX weighs Nasdaq listing, sources say",
+      "publisher": "Reuters Videos",
+      "date": "2026-03-10 13:47",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "若 SpaceX 選擇在 Nasdaq 上市，將大幅提升交易所的交易量與市場地位，對公司營收與品牌價值有顯著正面影響。"
+    },
+    {
+      "rank": 4,
+      "title": "Nasdaq Moves a Step Closer to Tokenized Stocks. 24/7 Trading Is Coming Soon.",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 17:26",
+      "impact": "medium",
+      "category": "產品創新",
+      "reason": "Nasdaq 與 Kraken 合作開發代幣化股票交易，旨在實現 24/7 全天候交易與更快的結算，展現其在金融科技領域的領先地位。"
+    },
+    {
+      "rank": 5,
+      "title": "Is Nasdaq Stock Outperforming the Dow?",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 15:05",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "過去一年 Nasdaq 股價表現優於道瓊指數，強化了市場對該公司作為金融基礎設施領導者的買進信心。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Nasdaq EVP & CFO Sarah Youngwood to Present at the 2026 Bank of America Information and Business Services Conference",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 20:05",
+      "impact": "low",
+      "category": "公司活動",
+      "reason": "公司高層參與投資者會議屬於常規營運活動，主要用於溝通公司策略，對股價影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Nasdaq Announces End-of-Month Open Short Interest Positions",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 20:05",
+      "impact": "low",
+      "category": "市場數據",
+      "reason": "此為交易所定期發布的市場監管數據，屬於例行性資訊揭露，不直接影響 Nasdaq 本身的營運基本面。"
+    },
+    {
+      "rank": 3,
+      "title": "Nasdaq® Verafin Report Finds the Financial Crime Epidemic Reaching Alarming New Heights",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 09:00",
+      "impact": "low",
+      "category": "產業報告",
+      "reason": "報告揭露金融犯罪規模擴大，雖凸顯 Verafin 軟體的需求潛力，但主要為產業趨勢分析，對短期股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
