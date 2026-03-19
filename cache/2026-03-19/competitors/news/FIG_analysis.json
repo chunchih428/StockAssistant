@@ -1,0 +1,65 @@
+{
+  "ticker": "FIG",
+  "company": "Figma, Inc.",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/FIG.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 2,
+    "bearish_count": 3,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "儘管 Figma 在 AI 領域投入顯著且營收成長達 40 %，但高達 9.46 倍的股價營收比 (P/S ratio) 與市場競爭壓力，加上監管審查與內部人拋售疑慮，導致市場情緒轉趨保守。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Figma's Push Into AI Is Great, But Not Great Enough To Buy — Figma (FIG) Q4 2025 update: 40% revenue growth and paid-subscriber gains with significant investments in AI.",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-16 10:50",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "公司公布 2025 年第 4 季財報，營收成長達 40 % 且付費訂閱用戶增加，顯示其 AI 產品策略具備市場吸引力，為股價提供基本面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Insiders Step in to Buy These 3 Tanking Stocks — See why insider buying at KKR, Figma, and Reddit is drawing attention after steep selloffs.",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 12:26",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "內部人於股價重挫後進場買入，通常被視為管理層對公司長期價值具備信心的訊號，有助於緩解市場恐慌情緒。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Should Investors Hold or Fold Figma Stock at a P/S Multiple of 9.46X? — FIG stock trades at a steep 9.46x sales multiple as margins shrink, growth slows, and AI competition from Adobe, Microsoft.",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 15:35",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "高達 9.46 倍的 P/S 倍數在獲利能力萎縮與成長放緩的背景下顯得過高，且面臨 Adobe 與 Microsoft 等巨頭的 AI 競爭，估值修正風險極大。"
+    },
+    {
+      "rank": 2,
+      "title": "Figma Faces Securities Review And Insider Sales Raise Governance Questions",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-13 22:15",
+      "impact": "high",
+      "category": "法規與監管",
+      "reason": "面臨證券審查與內部人拋售股票的雙重打擊，引發市場對公司治理結構與合規性的嚴重質疑，對股價構成顯著負面壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "Weak Overall Sentiment on Figma, Inc. (FIG) Amid Weak Industry Momentum",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 13:41",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "整體產業動能疲軟，加上 Figma 股價持續下跌，反映出市場對該公司短期表現缺乏信心，技術面與籌碼面均呈現弱勢。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

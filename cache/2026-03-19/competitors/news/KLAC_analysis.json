@@ -1,0 +1,93 @@
+{
+  "ticker": "KLAC",
+  "company": "KLA Corporation",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/KLAC.json",
+  "summary": {
+    "total_articles": 12,
+    "bullish_count": 5,
+    "bearish_count": 3,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司於投資人日宣布大規模股票回購與股利調升，展現強勁資本配置能力，儘管面臨估值過高疑慮，但 AI 基礎設施需求仍支撐長期成長前景。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "KLA Hosts Investor Day; Announces $7 Billion Share Repurchase Program and 21% Increase to Quarterly Dividend",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 10:00",
+      "impact": "high",
+      "category": "資本配置",
+      "reason": "公司宣布 70 億美元的股票回購計畫及 21% 的股利調升，直接提升股東權益報酬，是市場最關注的利多消息。"
+    },
+    {
+      "rank": 2,
+      "title": "KLA Likely to Raise Financial Targets, Reaffirm Structural Growth, Oppenheimer Says",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 15:49",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析師預期公司將調升 2030 年的長期營收與獲利目標，強化市場對其結構性成長的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "3 Electronics Stocks Set to Benefit From a Thriving Industry",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 18:12",
+      "impact": "low",
+      "category": "產業趨勢",
+      "reason": "KLAC 被列為受惠於基礎設施投資與產能擴張的電子股，反映產業順風帶來的正面預期。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "KLA (KLAC) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 22:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日下跌 3.78%，跌幅超過大盤，顯示短期獲利了結賣壓或市場對高估值的修正反應。"
+    },
+    {
+      "rank": 2,
+      "title": "KLA Corporation: Premium Franchise, Stretched Valuation",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-09 21:22",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "儘管公司基本面強勁，但分析指出其交易價格處於高溢價水準，估值過高可能限制未來上漲空間。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "KLA Corporation (KLAC) Analyst/Investor Day Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-14 01:02",
+      "impact": "low",
+      "category": "公司公告",
+      "reason": "提供投資人日會議紀錄，屬於資訊揭露性質，幫助投資人深入了解管理層對未來策略的說明。"
+    },
+    {
+      "rank": 2,
+      "title": "Assessing KLA (KLAC) Valuation As Recent Momentum Meets Conflicting Fair Value Estimates",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 14:13",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "針對股價動能與公允價值估計的衝突進行探討，市場觀點分歧，未有明確方向性指引。"
+    },
+    {
+      "rank": 3,
+      "title": "KLA Jumps 22% in 3 Months: Is There More Room for the Stock to Grow?",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 16:47",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "回顧過去三個月的漲幅，並探討未來成長空間，屬於對已發生行情的總結與展望。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

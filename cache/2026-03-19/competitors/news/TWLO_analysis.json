@@ -1,0 +1,47 @@
+{
+  "ticker": "TWLO",
+  "company": "Twilio",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/TWLO.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "Twilio 透過與 KPN 及 Google 的 RCS 合作擴展歐洲市場，強化通訊業務的成長潛力與技術採用率。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Twilio Expands European Reach With KPN And Google RCS Partnership",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-07",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "此新聞涵蓋了與 KPN 及 Google 的合作，相較於單一合作夥伴的報導，此篇更全面地說明了 Twilio 在歐洲市場的戰略佈局，有助於提升市場對其 RCS 業務營收成長的預期。"
+    },
+    {
+      "rank": 2,
+      "title": "Twilio And KPN RCS Deal Puts Messaging Margins And Adoption In Focus",
+      "publisher": "Yahoo",
+      "date": "2026-03-15",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "聚焦於 RCS 商業訊息的利潤率與採用率，雖然是重要指標，但因內容與前述合作案高度重疊，故列為次要影響。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Twilio Inc. (TWLO) is Attracting Investor Attention: Here is What You Should Know",
+      "publisher": "Zacks",
+      "date": "2026-03-06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "屬於一般性的投資人關注度分析，未提供具體的財務數據變動或重大營運利多，僅為市場情緒的觀察報告。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

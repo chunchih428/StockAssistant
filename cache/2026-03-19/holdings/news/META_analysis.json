@@ -1,0 +1,102 @@
+{
+  "ticker": "META",
+  "company": "Meta",
+  "analysis_date": "2026-03-14",
+  "source_file": "cache/2026-03-14/holdings/news/META.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 3,
+    "bearish_count": 14,
+    "neutral_count": 3,
+    "overall_sentiment": "bearish",
+    "key_theme": "Meta 面臨 AI 旗艦模型 Avocado 開發延宕與成本壓力，導致市場對其競爭力產生疑慮，並引發裁員傳聞。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "1 Billionaire Just Bought Nearly $2 Billion of This Brilliant AI Investment",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 23:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名投資人 Bill Ackman 在第 4 季大幅增持 Meta 股票，顯示機構投資者對其長期 AI 策略仍具信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Meta rolls out in-house AI chips weeks after massive Nvidia, AMD deals",
+      "publisher": "CNBC",
+      "date": "2026-03-11 10:00",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Meta 推出新一代 MTIA 自研 AI 晶片，有助於降低對外部供應商的依賴並優化 AI 運算成本結構。"
+    },
+    {
+      "rank": 3,
+      "title": "Meta gets into social networks for AI agents with acquisition of viral Moltbook platform",
+      "publisher": "CNBC",
+      "date": "2026-03-10 13:29",
+      "impact": "low",
+      "category": "併購活動",
+      "reason": "收購 Moltbook 平台有助於 Meta 在 AI 代理人社交領域的布局，強化其生態系競爭力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Exclusive-Meta planning sweeping layoffs as AI costs mount",
+      "publisher": "Reuters",
+      "date": "2026-03-14 00:19",
+      "impact": "high",
+      "category": "公司營運",
+      "reason": "報導指出 Meta 因 AI 研發成本過高，正計畫進行大規模裁員，反映出公司在追求 AI 成長與獲利平衡間的嚴峻挑戰。"
+    },
+    {
+      "rank": 2,
+      "title": "Meta Delays Key AI Model Launch — Avocado reportedly trails rival systems",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 17:30",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "旗艦 AI 模型 Avocado 因效能不如預期而延後發布，市場擔憂 Meta 在 AI 競賽中落後於 Google 與 OpenAI。"
+    },
+    {
+      "rank": 3,
+      "title": "Market Chatter: Meta Halts Work on Underwater Cable System in Persian Gulf due to Iran Conflict",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 18:48",
+      "impact": "low",
+      "category": "基礎設施",
+      "reason": "受地緣政治衝突影響，Meta 暫停波斯灣海底電纜工程，雖影響有限，但顯示外部風險對基礎設施擴張的干擾。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Final Trades: Citigroup, Nvidia, Meta and the GPIQ",
+      "publisher": "CNBC",
+      "date": "2026-03-13 13:11",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "投資委員會將 Meta 列為下半年觀察標的，未給予明確買賣建議，屬市場常規分析。"
+    },
+    {
+      "rank": 2,
+      "title": "AMD Places Bet On Open Optical Standards For Future AI Data Centers",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 19:08",
+      "impact": "low",
+      "category": "產業合作",
+      "reason": "Meta 與 AMD、NVIDIA 等大廠共同成立光學運算聯盟，屬於產業標準制定層面的合作，對股價短期影響中性。"
+    },
+    {
+      "rank": 3,
+      "title": "Jim Cramer Weighs in on Meta Potentially Following the Block Inc Model",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 15:15",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "Jim Cramer 針對投資人提問進行分析，討論 Meta 是否應效仿 Block Inc 的商業模式，屬市場觀點討論。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

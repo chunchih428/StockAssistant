@@ -1,0 +1,48 @@
+{
+  "ticker": "CARG",
+  "company": "CarGurus",
+  "analysis_date": "2026-03-19",
+  "source_file": "cache/2026-03-19/competitors/news/CARG.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "Mixed",
+    "key_theme": "市場正密切關注 CarGurus 在 2026 年的 AI 轉型策略與投資計畫，同時權衡其作為汽車電商龍頭的競爭優勢與衍生出的期權市場波動風險。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "CarGurus Is Quietly Becoming the Auto Marketplace to Beat",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-03-11T20:34:18Z",
+      "impact": "medium",
+      "category": "市場競爭力",
+      "reason": "該報導強調 CarGurus 在汽車電商領域的市佔率與品牌護城河持續擴大，顯示其商業模式具備長期成長潛力，足以在競爭激烈的市場中脫穎而出。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "How The CarGurus (CARG) Story Is Shifting With 2026 Investment Plans And AI Concerns",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-12T13:13:00Z",
+      "impact": "medium",
+      "category": "營運策略",
+      "reason": "市場對公司 2026 年的資本支出計畫與 AI 轉型帶來的執行風險感到擔憂，投資人擔心高額投入可能短期內壓縮獲利空間，導致估值邏輯出現轉變。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Do Options Traders Know Something About CarGurus Stock We Don't?",
+      "publisher": "Zacks",
+      "date": "2026-03-11T18:30:00Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導僅分析期權市場的異常交易活動，並未提供具體的公司基本面消息，僅反映市場對股價短期波動的投機情緒，對長期股價走勢影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "ZS",
+  "company": "Zscaler",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/ZS.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 5,
+    "bearish_count": 3,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管近期股價面臨宏觀壓力與分析師目標價下調，但 Zscaler 憑藉 AI 安全領域的技術領先地位、全球數據主權擴張及具吸引力的估值，仍被市場視為長期成長標的。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Zscaler (ZS), Singtel Singapore Bring Zero Trust Security to Southeast Asia",
+      "publisher": "Yahoo",
+      "date": "2026-03-15 08:55",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "與 Singtel 合作進入東南亞市場，顯示其 Zero Trust 平台在國際市場的滲透力增強，有助於擴大營收來源。"
+    },
+    {
+      "rank": 2,
+      "title": "Zscaler Significantly Expands Global Sovereignty on Zero Trust Exchange Platform",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 12:00",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "透過增加區域 SSL 檢測與本地控制平面，解決企業在複雜法規下的數據主權需求，強化產品競爭護城河。"
+    },
+    {
+      "rank": 3,
+      "title": "Zscaler: Attractively Valued AI Winner",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-09 08:50",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "目前 EV/Rev 比率處於歷史低點（8 倍），相較於 5 年中位數具備顯著的均值回歸潛力，吸引價值型投資人關注。"
+    },
+    {
+      "rank": 4,
+      "title": "Assessing Zscaler (ZS) Valuation After Upbeat Guidance And Fresh Analyst Buy Ratings",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-07 14:09",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "基於公司正面的財測指引與分析師買入評級，市場對其估值合理性持正面看法。"
+    },
+    {
+      "rank": 5,
+      "title": "Zscaler Stock Plunges 34% in Three Months: Time to Exit or Hold Tight?",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 14:23",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "雖然股價下跌，但文章強調 AI 安全與 Zero Trust 的長期成長動能，建議投資人應視為買入機會而非離場訊號。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Oppenheimer Maintains Outperform on Zscaler, Lowers Price Target to $250",
+      "publisher": "Benzinga",
+      "date": "2026-03-10 10:38",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Oppenheimer 分析師 Ittai Kidron 雖維持 Outperform 評級，但將目標價從 $280 下調至 $250，反映對短期成長動能的保守預期。"
+    },
+    {
+      "rank": 2,
+      "title": "Zscaler shares are trading lower after Oppenheimer lowered its price target on the stock from $280 to $250.",
+      "publisher": "Benzinga",
+      "date": "2026-03-10 15:22",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此為上述目標價下調引發的市場短期賣壓反應，對股價造成直接的負面情緒影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Zscaler Stock Plunges 34% in Three Months: Time to Exit or Hold Tight?",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 14:23",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價在三個月內重挫 33.7%，反映出宏觀經濟壓力對高估值成長股的負面衝擊，短期技術面走勢疲軟。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Investors Heavily Search Zscaler, Inc. (ZS): Here is What You Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅反映 Zacks.com 用戶對該股票的搜尋熱度增加，屬於市場關注度指標，無直接多空指向。"
+    },
+    {
+      "rank": 2,
+      "title": "Analyst Expectations For Zscaler's Future",
+      "publisher": "Benzinga",
+      "date": "2026-03-10 16:01",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "彙整市場對未來預期的概覽，未提供具體新的財務預測或投資建議。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

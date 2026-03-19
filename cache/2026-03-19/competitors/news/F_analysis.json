@@ -1,0 +1,102 @@
+{
+  "ticker": "F",
+  "company": "Ford",
+  "analysis_date": "2026-03-19",
+  "source_file": "cache/2026-03-19/competitors/news/F.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 5,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "Ford 宣布實施 3,170 萬股的股票回購計畫以抵銷稀釋效應，市場視此為股價被低估的訊號，並對其在電動車與 AI 軟體領域的長期佈局持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ford to buy back nearly 32M shares of its stock. Here's what it means",
+      "publisher": "Yahoo",
+      "date": "2026-03-16",
+      "impact": "high",
+      "category": "資本運作",
+      "reason": "Ford 宣布回購 3,170 萬股以抵銷股權激勵造成的稀釋，分析師認為此舉能有效提升每股盈餘 (EPS) 並強化股東價值，是市場最關注的利多消息。"
+    },
+    {
+      "rank": 2,
+      "title": "Down 17.4% in 4 Weeks, Here's Why You Should You Buy the Dip in Ford Motor (F)",
+      "publisher": "Yahoo",
+      "date": "2026-03-16",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價在 4 週內下跌 17.4%，技術指標顯示已進入超賣區間，市場認為賣壓已竭盡，提供了良好的進場佈局機會。"
+    },
+    {
+      "rank": 3,
+      "title": "Ford AI Assistant And BlueCruise Hearing Test Investor View On Valuation",
+      "publisher": "Yahoo",
+      "date": "2026-03-13",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Ford 為 Ford Pro 商用車隊客戶推出 AI 助理，結合遠端資訊處理數據，顯示公司在軟體與服務營收轉型上的進展，有助於提升估值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ford (F) Fumbles Once Again and Continues To Disappoint Investors",
+      "publisher": "Yahoo",
+      "date": "2026-03-13",
+      "impact": "medium",
+      "category": "產品品質",
+      "reason": "公司再度宣布召回超過 8.3 萬輛汽車，持續的品質問題與召回成本對獲利能力構成壓力，並打擊投資人信心。"
+    },
+    {
+      "rank": 2,
+      "title": "NTSB to Review Two Ford (F) Fatal Crashes, BofA is Bullish",
+      "publisher": "Yahoo",
+      "date": "2026-03-13",
+      "impact": "medium",
+      "category": "法規與調查",
+      "reason": "美國國家運輸安全委員會 (NTSB) 針對兩起涉及 Ford 車輛的致命車禍進行調查，潛在的監管風險與法律責任可能影響股價。"
+    },
+    {
+      "rank": 3,
+      "title": "Nio Just Accomplished Something Ford, General Motors Wish They Could Have Done For Electric Vehicles",
+      "publisher": "Yahoo",
+      "date": "2026-03-13",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "報導指出競爭對手在電動車領域的進展優於 Ford 與 GM，凸顯傳統車廠在轉型過程中的競爭劣勢。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Where Will Ford Stock Be in 10 Years?",
+      "publisher": "Yahoo",
+      "date": "2026-03-18",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "探討 Ford 在皮卡與 SUV 市場的長期競爭力，屬於長線觀點，對短期股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Did Ford’s New Co‑Branded Credit Card Just Redraw Bread Financial Holdings’ (BFH) Consumer Finance Map?",
+      "publisher": "Yahoo",
+      "date": "2026-03-15",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "Ford 與 Bread Financial 合作推出聯名信用卡，雖有助於金融服務業務，但對整體營收貢獻佔比較小。"
+    },
+    {
+      "rank": 3,
+      "title": "Reflecting On Automobile Manufacturing Stocks’ Q4 Earnings: Ford (NYSE:F)",
+      "publisher": "Yahoo",
+      "date": "2026-03-16",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "對第四季財報的總結性回顧，市場已充分反應相關資訊，無新的重大變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

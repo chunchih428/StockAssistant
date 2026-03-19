@@ -1,0 +1,37 @@
+{
+  "ticker": "DOCN",
+  "company": "DigitalOcean Holdings",
+  "analysis_date": "2026-03-14",
+  "source_file": "cache/2026-03-14/competitors/news/DOCN.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 AI 基礎設施需求與成本優化能力的樂觀情緒推動股價強勁上漲"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "DigitalOcean (DOCN) Soars 10.8% on Renewed AI Optimism",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 00:38",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "選擇此篇作為代表，因其明確指出股價單日大漲 10.8 % 的核心驅動力為 AI 相關樂觀情緒的重燃，反映了投資人對公司在雲端基礎設施領域競爭力的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "How DigitalOcean (DOCN) Helped Workato Cut Inference Costs and Improve AI Throughput",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-12T16:15:00Z",
+      "impact": "medium",
+      "category": "產品應用",
+      "reason": "透過具體案例說明 DigitalOcean 如何協助客戶 Workato 降低 AI 推論成本並提升處理效能，證實了公司在 AI 基礎設施市場的實質技術價值與獲客能力。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

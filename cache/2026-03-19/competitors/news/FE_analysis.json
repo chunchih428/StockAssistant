@@ -1,0 +1,74 @@
+{
+  "ticker": "FE",
+  "company": "FirstEnergy Corp.",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/FE.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 4,
+    "bearish_count": 0,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司透過大規模電網升級計畫提升長期資本價值，並獲得華爾街投行調升目標價，儘管近期面臨風暴帶來的營運修復挑戰，但整體市場展望正面。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "FirstEnergy (FE) Price Target Increased by BofA on Peer Multiple Expansion",
+      "publisher": "Yahoo",
+      "date": "2026-03-14 02:19",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "美國銀行 (BofA) 基於同業估值倍數擴張，調升 FirstEnergy 的目標價，顯示市場對其作為股息領先股的評價提升。"
+    },
+    {
+      "rank": 2,
+      "title": "FirstEnergy to Invest $950 Million in Ohio and Pennsylvania Grid Upgrades",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 03:56",
+      "impact": "high",
+      "category": "資本支出",
+      "reason": "公司宣布投入 9.5 億美元進行俄亥俄州與賓州的電網升級，此舉有助於提升長期營運效率與資產價值，並鞏固其作為優質公用事業股的地位。"
+    },
+    {
+      "rank": 3,
+      "title": "A Look At FirstEnergy (FE) Valuation After New Grid Investments And Five Year Capital Plan",
+      "publisher": "Yahoo",
+      "date": "2026-03-14 15:09",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場重新審視 FirstEnergy 的五年資本計畫與電網投資，認為其估值在新的資本支出框架下具有吸引力。"
+    },
+    {
+      "rank": 4,
+      "title": "JP Morgan Maintains Neutral on FirstEnergy, Raises Price Target to $55",
+      "publisher": "Benzinga",
+      "date": "2026-03-12 14:42",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "摩根大通分析師 Jeremy Tonet 維持中性評級，但將目標價從 50 美元調升至 55 美元，反映出對公司基本面改善的認可。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "FirstEnergy Working Nonstop to Restore Power After Windstorm",
+      "publisher": "Yahoo",
+      "date": "2026-03-14 18:51",
+      "impact": "low",
+      "category": "營運狀況",
+      "reason": "此篇涵蓋了風暴後的復電進度，選此篇作為代表，因為它詳細說明了受影響區域 (俄亥俄州、賓州、西維吉尼亞州與馬里蘭州) 的復電效率，屬於公用事業的例行性營運維護，對股價影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "FirstEnergy Crews Preparing for Strong Winds on Friday; Offers Customers Tips to Prepare and Stay Safe",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 23:21",
+      "impact": "low",
+      "category": "營運狀況",
+      "reason": "公司針對即將到來的風暴進行預防性準備，屬於公用事業的標準風險管理流程，未對財務造成實質負面衝擊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

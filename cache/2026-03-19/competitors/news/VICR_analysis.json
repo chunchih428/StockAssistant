@@ -1,0 +1,47 @@
+{
+  "ticker": "VICR",
+  "company": "Vicor",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/VICR.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "Vicor 憑藉 AI 基礎設施電源模組技術獲得市場看好，但高估值引發內部人賣股疑慮。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Wall Street Analysts Think Vicor (VICR) Could Surge 28.33%: Read This Before Placing a Bet",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 13:55",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "華爾街分析師給出的平均目標價顯示該股有 28.33 % 的上漲空間，反映市場對其未來成長潛力的強烈信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Vicor: A Promising AI Story Priced For Success",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-09 17:48",
+      "impact": "medium",
+      "category": "產業趨勢",
+      "reason": "Vicor 透過先進電源模組與授權業務在 AI 基礎設施領域取得進展，被視為具備長期成長動能的 AI 概念股。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Vicor Insider Ownership Shifts As Selling Faces Rich Valuation Concerns",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-07 13:20",
+      "impact": "medium",
+      "category": "公司治理",
+      "reason": "內部人持股變動與賣股行為引發市場對公司目前估值過高的擔憂，可能對短期股價造成壓力。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

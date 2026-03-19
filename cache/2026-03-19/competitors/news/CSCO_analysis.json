@@ -1,0 +1,120 @@
+{
+  "ticker": "CSCO",
+  "company": "Cisco Systems",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/CSCO.json",
+  "summary": {
+    "total_articles": 15,
+    "bullish_count": 9,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Cisco 憑藉在 AI 基礎設施、Wi-Fi 7 市場的領先地位以及強勁的訂單成長，展現出強大的基本面動能，儘管市場對利潤率壓力仍存有疑慮。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cisco Systems Flags Surging AI and Campus Networking Demand as Orders Jump 18% at Morgan Stanley Confab",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 05:02",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "公司高層確認訂單成長 18%，顯示 AI 與園區網路需求強勁，為股價提供實質基本面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Cisco Q2: The Valuation Makes No Sense",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-12 13:55",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "指出第二季財報營收創新高，且 AI 基礎設施需求與產品創新被市場低估，具備投資價值。"
+    },
+    {
+      "rank": 3,
+      "title": "Cisco Wi Fi 7 Lead Reframes Growth And Margin Trade Offs",
+      "publisher": "Yahoo",
+      "date": "2026-03-15 11:08",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Cisco 在 Wi-Fi 7 營收市佔率取得領先，有助於提升產品組合價值並改善長期成長前景。"
+    },
+    {
+      "rank": 4,
+      "title": "Cisco Secure AI Factory Deal Puts Sovereign AI At Center For Cisco Investors",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 19:09",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 NVIDIA 及 SharonAI 合作推動主權 AI，顯示公司在 AI 生態系中的戰略地位提升。"
+    },
+    {
+      "rank": 5,
+      "title": "Wall Street Bulls Look Optimistic About Cisco (CSCO): Should You Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-03-09 13:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "券商平均建議評級（ABR）偏向買入，反映華爾街對其成長潛力的樂觀預期。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "3 Reasons to Sell CSCO and 1 Stock to Buy Instead",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 20:41",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管股價表現優於大盤，但分析師認為估值已高，建議獲利了結並轉向其他標的。"
+    },
+    {
+      "rank": 2,
+      "title": "Cisco Balances Amazon Skills Push With Ongoing Margin Pressures",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 16:11",
+      "impact": "low",
+      "category": "營運風險",
+      "reason": "儘管推動數位技能培訓，但持續存在的利潤率壓力仍是投資人關注的潛在負面因素。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Cisco Systems (CSCO) Still Reasonably Priced After Recent Share Price Pullback",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 20:11",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對股價回調後的估值合理性進行探討，未給出明確買賣建議，屬中性觀點。"
+    },
+    {
+      "rank": 2,
+      "title": "Cisco Systems, Inc. (CSCO) is Attracting Investor Attention: Here is What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-10 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅反映 Zacks 用戶對該股關注度提升，屬於市場熱度觀察，無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Smart Money Is Betting Big In CSCO Options",
+      "publisher": "Benzinga",
+      "date": "2026-03-09 11:01",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "期權市場的大額交易反映機構資金動向，但方向不明確，僅代表市場活躍度。"
+    },
+    {
+      "rank": 4,
+      "title": "Cybersecurity Solutions Market Research Report 2026-2031",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 15:07",
+      "impact": "low",
+      "category": "產業研究",
+      "reason": "產業整體規模預測，雖提及 Cisco 為主要參與者，但屬於宏觀產業分析，對個股影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

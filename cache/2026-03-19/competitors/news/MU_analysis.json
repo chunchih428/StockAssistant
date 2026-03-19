@@ -1,0 +1,84 @@
+{
+  "ticker": "MU",
+  "company": "Micron Technology",
+  "analysis_date": "2026-03-19",
+  "source_file": "cache/2026-03-19/competitors/news/MU.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 1,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "美光 受惠於 AI 記憶體需求強勁，第二季財報與財測均大幅超越市場預期，推動股價持續挑戰新高。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Micron (MU) Q2 2026 Earnings Call Transcript",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 22:20",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "美光發布卓越的第二季財報，營收較去年同期成長近三倍，顯示 AI 記憶體需求已成為公司成長的核心驅動力。"
+    },
+    {
+      "rank": 2,
+      "title": "TD Cowen Lifts PT on Micron Technology (MU) to $500 From $450",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 12:38",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "TD Cowen 將目標價從 450 美元上調至 500 美元，反映市場對美光在 AI 記憶體市場領導地位的強烈信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Micron (MU) Beats Q2 Earnings and Revenue Estimates",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 21:15",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "美光第二季 EPS 與營收分別超出預期 38.57% 與 21.67%，展現極高的獲利能力與營運效率。"
+    },
+    {
+      "rank": 4,
+      "title": "Why Is Micron Stock Surging On Wednesday?",
+      "publisher": "Benzinga",
+      "date": "2026-03-18 09:14",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "財報公布前夕市場預期心理強烈，多位分析師調升目標價至 525 美元，推動股價在盤前交易中顯著上漲。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Micron Earnings Were Extraordinary. The Stock Is Dropping.",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 21:11",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管財報表現優異，但因股價先前已累積巨大漲幅，出現「利多出盡」的獲利了結賣壓，導致股價在財報後出現回調。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Wall Street Is Still Betting on a Memory ‘Super-Cycle.’ Should You Buy MU Stock Here?",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 14:15",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "探討記憶體「超級週期」的延續性，提醒投資人股價已接近歷史高點，需審慎評估進場風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Stock Market Today, March 18: Micron Technology Holds Steady as Investors React to Key Earnings Report",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 21:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導財報發布後市場的觀望情緒，投資人正在消化 AI 記憶體需求與高估值之間的平衡。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,102 @@
+{
+  "ticker": "ETN",
+  "company": "Eaton",
+  "analysis_date": "2026-03-14",
+  "source_file": "cache/2026-03-14/holdings/news/ETN.json",
+  "summary": {
+    "total_articles": 19,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Eaton 透過收購 Boyd Thermal 與投資 SPAN 強化資料中心與智慧家庭電氣化布局，獲市場分析師看好其長期成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Eaton completes acquisition of leading liquid-cooling solutions provider Boyd Thermal",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 20:15",
+      "impact": "high",
+      "category": "企業併購",
+      "reason": "完成對 Boyd Thermal 的收購，直接提升了 Eaton 在資料中心液冷技術的競爭力，打造完整的電網到晶片解決方案。"
+    },
+    {
+      "rank": 2,
+      "title": "Eaton Corporation Invests $75M In SPAN To Expand Smart Home Energy Panels",
+      "publisher": "Benzinga",
+      "date": "2026-03-09 08:37",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "投入 7500 萬美元與 SPAN 結盟，切入智慧家庭電氣化市場，有助於解決電網限制並滿足日益增長的家庭能源需求。"
+    },
+    {
+      "rank": 3,
+      "title": "RBC Capital and Bernstein Lift Eaton Corporation plc (ETN) Price Targets",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 22:21",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "知名投行調升目標價，反映市場對其在電氣化與 AI 基礎設施領域的強勁成長預期。"
+    },
+    {
+      "rank": 4,
+      "title": "Eaton Stock Hit A Record High, Paused, On The Move Again",
+      "publisher": "Investor's Business Daily",
+      "date": "2026-03-11 18:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "相對強度評級 (Relative Strength Rating) 升級，顯示股價動能強勁，技術面處於上升趨勢。"
+    },
+    {
+      "rank": 5,
+      "title": "Eaton: Solid Operating Results Meet Elevated Market Expectations",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-12 09:19",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "分析師給予買入評級，認為其營運表現穩健，足以支撐目前的高估值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Has Eaton (ETN) Run Too Far After A 132.8% Three Year Share Price Surge",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 13:14",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價三年內飆漲超過 130%，市場開始質疑其估值是否過高，存在回調風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Eaton's Electrification Surge Is Real, But The Stock May Already Be Too Hot",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-10 11:57",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管認可其電氣化轉型策略，但認為股價已反映過多利多，短期內上行空間有限。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "How The Eaton (ETN) Investment Story Is Evolving As Analyst Views Rebalance",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 03:15",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "公允價值模型僅微幅調整，顯示分析師對其未來成長預期已趨於穩定。"
+    },
+    {
+      "rank": 2,
+      "title": "Investors Heavily Search Eaton Corporation, PLC (ETN): Here is What You Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-11 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅反映市場關注度提升，並未提供新的基本面利多或利空訊息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

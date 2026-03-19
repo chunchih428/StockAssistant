@@ -1,0 +1,111 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-03-19",
+  "source_file": "cache/2026-03-19/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 8,
+    "bearish_count": 6,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "AWS 的強勁成長前景與 AI 戰略布局成為市場焦點，儘管面臨與 Microsoft 的法律糾紛及物流策略調整的潛在風險。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Amazon CEO Jassy Sees Nvidia’s Huang And Says Hold My Cloud",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 19:13",
+      "impact": "high",
+      "category": "公司策略",
+      "reason": "執行長 Andy Jassy 對 AWS 的成長前景展現高度信心，預期 AWS 將成為未來 AI 基礎設施的核心，並有潛力在十年內成長為超越目前整體業務規模的巨頭。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon.com (AMZN) and Cerebras Partner for World’s Fastest AI Inference on Amazon Bedrock",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 20:25",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "與 Cerebras 合作提升 Amazon Bedrock 的 AI 推論速度，強化了 Amazon 在 AI 雲端服務領域的競爭優勢。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon rolls out 1-hour, 3-hour delivery as ultrafast shipping trend grows in the U.S.",
+      "publisher": "CNBC",
+      "date": "2026-03-17 06:00",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "透過持續投資物流基礎設施，推出 1 小時與 3 小時極速配送服務，進一步鞏固其在電商領域的護城河。"
+    },
+    {
+      "rank": 4,
+      "title": "Jim Cramer Recommended Amazon (AMZN) As A Long Term Stock In January 2025",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 22:01",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "知名分析師 Jim Cramer 將 Amazon 列為熱門 AI 投資標的，有助於提升市場對該股的長期信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Microsoft Weighs Legal Action Over Amazon-OpenAI Deal",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 18:15",
+      "impact": "high",
+      "category": "法規與訴訟",
+      "reason": "Microsoft 考慮針對 Amazon 與 OpenAI 之間價值 500 億美元的潛在合作協議採取法律行動，指控其違反排他性條款，此舉可能增加 Amazon 的法律風險與營運不確定性。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon Stock: Buy, Sell, or Hold? — Amazon's cloud computing segment is growing at its fastest pace in years, but a staggering new $200 billion spending plan",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 01:23",
+      "impact": "medium",
+      "category": "財報與資本支出",
+      "reason": "儘管 AWS 成長強勁，但高達 2,000 億美元的巨額資本支出計畫引發市場對現金流與獲利能力的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon Plans Major Cut to USPS Shipments",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 17:53",
+      "impact": "low",
+      "category": "營運調整",
+      "reason": "Amazon 計畫減少對 USPS 的依賴，雖然是為了優化物流成本，但合約談判僵局可能導致短期物流運作的摩擦成本增加。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Big Tech purchases of carbon credits explode amid AI race, with Microsoft leading the way",
+      "publisher": "CNBC",
+      "date": "2026-03-16 02:08",
+      "impact": "low",
+      "category": "ESG 發展",
+      "reason": "報導指出 Amazon 等科技巨頭在 AI 競賽中大幅增加碳權購買，屬於產業普遍現象，對股價無直接顯著影響。"
+    },
+    {
+      "rank": 2,
+      "title": "JD.com takes on Amazon in Europe as China's e-commerce titans expand globally",
+      "publisher": "CNBC",
+      "date": "2026-03-15 20:18",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "JD.com 試圖在歐洲市場挑戰 Amazon，但目前對 Amazon 的市占率威脅有限，屬於正常的市場競爭動態。"
+    },
+    {
+      "rank": 3,
+      "title": "Appeals Court Pauses Order Against Perplexity Bots in Amazon Dispute",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 18:06",
+      "impact": "low",
+      "category": "法規與訴訟",
+      "reason": "法院暫停針對 Perplexity 的禁令，此案涉及 Amazon 的系統存取權限，目前處於法律程序中，對股價影響尚不明顯。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

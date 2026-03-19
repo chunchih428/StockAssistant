@@ -1,0 +1,65 @@
+{
+  "ticker": "ETR",
+  "company": "Entergy",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/ETR.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 5,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "Entergy 憑藉 「Fair Share Plus」 電網與數據中心計畫以及核能發展前景，獲得分析師調升目標價與市場高度看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Assessing Entergy’s Valuation After The ‘Fair Share Plus’ Grid And Data Center Plan Launch",
+      "publisher": "Yahoo",
+      "date": "2026-03-14 12:10",
+      "impact": "high",
+      "category": "策略規劃",
+      "reason": "該計畫針對數據中心需求進行電網升級，直接提升了 Entergy 的長期成長能見度與估值潛力，是目前市場最關注的成長驅動力。"
+    },
+    {
+      "rank": 2,
+      "title": "Entergy (ETR) Sees Analyst Raise Price Target",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-08",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師調升目標價反映了市場對公司基本面改善與未來獲利能力的信心增強。"
+    },
+    {
+      "rank": 3,
+      "title": "Nuclear Energy Stocks Advance on Strong Clean Power Outlook",
+      "publisher": "Yahoo",
+      "date": "2026-03-09",
+      "impact": "medium",
+      "category": "產業趨勢",
+      "reason": "Entergy 作為核能發電的重要參與者，受惠於整體潔淨能源需求成長的產業順風。"
+    },
+    {
+      "rank": 4,
+      "title": "How The Entergy (ETR) Investment Narrative Is Shifting With New Guidance And Capital Plans",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-07",
+      "impact": "medium",
+      "category": "公司治理",
+      "reason": "公司發布的新指引與資本支出計畫，成功扭轉了投資敘事，顯示管理層對資本配置的紀律與效率提升。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Entergy Stock Outperforming the Dow?",
+      "publisher": "Yahoo",
+      "date": "2026-03-13",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此報導僅為市場表現的技術性比較，雖指出股價表現優於道瓊指數，但屬於客觀數據回顧，故歸類為中性觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "OS",
+  "company": "OneStream",
+  "analysis_date": "2026-03-16",
+  "source_file": "cache/2026-03-16/competitors/news/OS.json",
+  "summary": {
+    "total_articles": 1,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司因達成 24 美元收購協議，導致分析師調降評級，股價上漲空間受限。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why BTIG Downgraded OneStream (OS) After Its $24-Per-Share Buyout Agreement",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-12T16:15:07Z",
+      "impact": "high",
+      "category": "評級調整",
+      "reason": "BTIG 調降 OneStream (OS) 評級，主因是該公司已達成每股 24 美元的收購協議，這限制了股價進一步上漲的潛力，市場預期已反映收購價格。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

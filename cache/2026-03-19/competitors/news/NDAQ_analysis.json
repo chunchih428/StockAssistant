@@ -1,0 +1,83 @@
+{
+  "ticker": "NDAQ",
+  "company": "Nasdaq",
+  "analysis_date": "2026-03-19",
+  "source_file": "cache/2026-03-19/competitors/news/NDAQ.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 5,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "Nasdaq 透過 SEC 批准證券代幣化業務展現創新動能，並持續獲得分析師調升目標價與市場看好其 AI 轉型潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "SEC Greenlights Nasdaq’s Plan to Tokenize Securities",
+      "publisher": "The Wall Street Journal",
+      "date": "2026-03-18",
+      "impact": "high",
+      "category": "法規與業務創新",
+      "reason": "SEC 批准 Nasdaq 的證券代幣化提案，此舉將開啟數位資產交易的新營收來源，並鞏固 Nasdaq 在金融科技領域的領導地位，具備長期成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "How The Nasdaq (NDAQ) Story Is Shifting With AI Themes And Higher Analyst Targets",
+      "publisher": "Yahoo",
+      "date": "2026-03-14",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析師將 Nasdaq 公平價值預估從 107.73 美元調升至 108.53 美元，反映市場對其 AI 整合策略與業務轉型的信心增強。"
+    },
+    {
+      "rank": 3,
+      "title": "Wall Street Analysts Predict a 27.92% Upside in Nasdaq (NDAQ)",
+      "publisher": "Zacks",
+      "date": "2026-03-11",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "華爾街分析師給出高達 27.92% 的潛在漲幅預測，顯示市場對 NDAQ 當前估值與未來獲利成長空間持高度樂觀態度。"
+    },
+    {
+      "rank": 4,
+      "title": "Elon Musk's SpaceX weighs Nasdaq listing, sources say",
+      "publisher": "Reuters Videos",
+      "date": "2026-03-10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "若 SpaceX 選擇在 Nasdaq 上市，將為交易所帶來巨大的交易量與品牌效應，是極具指標性的潛在利多消息。"
+    },
+    {
+      "rank": 5,
+      "title": "If the Worst Is Over, NASDAQ Inc Stock May Be a Bargain",
+      "publisher": "Barchart",
+      "date": "2026-03-10",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "文章探討 NDAQ 在經歷市場波動後的價值回歸，認為當前股價處於被低估的「便宜」區間，具備投資吸引力。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Nasdaq, Inc. (NDAQ) Presents at BofA Securities 2026 Information & Business Services Conference",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-12",
+      "impact": "low",
+      "category": "公司會議",
+      "reason": "公司參與投資者會議，主要為例行性的業務說明與策略溝通，未釋出重大突發性利多或利空訊息。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Nasdaq Stock Outperforming the Dow?",
+      "publisher": "Barchart",
+      "date": "2026-03-11",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為單純的市場績效比較分析，探討 NDAQ 與道瓊指數的相對強弱，不涉及公司基本面變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
