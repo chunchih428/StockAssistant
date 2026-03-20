@@ -1,0 +1,37 @@
+{
+  "ticker": "TE",
+  "company": "T1 Energy Inc.",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/TE.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "T1 Energy 成功取得挪威電網 50MW 電力配額，顯著加速其 AI 資料中心基礎設施的擴張進程。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "T1 Energy Taps Norway's Grid For 50MW, AI Data Center Plans Accelerate",
+      "publisher": "Benzinga",
+      "date": "2026-03-18 12:05",
+      "impact": "high",
+      "category": "基礎設施擴張",
+      "reason": "公司成功獲得 Statnett 提供的 50MW 電力配額，為 Mo i Rana 資料中心專案提供關鍵能源支持，此舉直接消除 AI 基礎設施擴張的主要瓶頸，選定此篇是因為其內容涵蓋了對 AI 業務發展的戰略意義，較另一篇單純公告更為完整。"
+    },
+    {
+      "rank": 2,
+      "title": "T1 Energy (TE) Soars 11.5% Ahead of Earnings",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-11 01:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價在財報公布前夕大漲 11.5 %，顯示市場對公司即將發布的財務表現抱持高度樂觀預期，反映出投資人對其業務成長動能的強烈信心。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

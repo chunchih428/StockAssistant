@@ -1,0 +1,66 @@
+{
+  "ticker": "GDDY",
+  "company": "GoDaddy",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/GDDY.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "Mixed",
+    "key_theme": "市場對於 GoDaddy 在 AI 時代的競爭力與成長放緩存有疑慮，但產業數位化需求仍提供基本面支撐。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "4 Internet Delivery Services Stocks to Watch in a Flourishing Industry",
+      "publisher": "Yahoo",
+      "date": "2026-03-16",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導指出 GoDaddy 受益於網際網路服務產業的整體繁榮，數位化需求持續增長，為公司長期營收提供穩健的產業順風。"
+    },
+    {
+      "rank": 2,
+      "title": "Zacks Industry Outlook Highlights GoDaddy",
+      "publisher": "Yahoo",
+      "date": "2026-03-17",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "作為產業展望報告，強調了 GoDaddy 在智慧型手機普及與線上轉型趨勢下的市場地位，儘管面臨成本壓力，但成長動能依然被看好。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "GoDaddy: Losing Relevance In The AI Era (Rating Downgrade)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-14",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師將評級下調至「賣出」，主要理由包括成長動能減弱、AI 技術轉型帶來的影響有限，以及公司槓桿比率上升，對財務結構構成潛在風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Assessing GoDaddy (GDDY) Valuation After Recent Share Price Weakness",
+      "publisher": "Yahoo",
+      "date": "2026-03-14",
+      "impact": "medium",
+      "category": "股價表現",
+      "reason": "針對近期股價疲軟進行評估，反映出市場對公司估值合理性與未來成長前景的擔憂，投資人情緒轉趨謹慎。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Here Are Thursday’s Top Wall Street Analyst Research Calls",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-03-12",
+      "impact": "low",
+      "category": "分析師報告",
+      "reason": "僅列出華爾街分析師對 GoDaddy 的研究報告發布，未提供具體評級變動或目標價細節，對股價影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

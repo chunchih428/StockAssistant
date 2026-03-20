@@ -1,0 +1,38 @@
+{
+  "ticker": "Q",
+  "company": "Qnity Electronics, Inc.",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/Q.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "Mixed",
+    "key_theme": "Qnity 透過與 NVIDIA 的技術合作與擴大產能展現成長潛力，但市場同時對其資本支出與估值合理性存有疑慮。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Qnity Collaborates with NVIDIA to Accelerate Innovation for Semiconductor and Advanced Electronics Materials",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 20:15",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "與 NVIDIA 建立合作關係，有助於 Qnity 在半導體與先進電子材料領域提升技術競爭力，市場預期此舉將加速產品創新並提升長期營收成長動能。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Qnity’s Newark Expansion Links AI Materials Growth With Valuation Questions",
+      "publisher": "Yahoo",
+      "date": "2026-03-15 07:07",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管 Newark 新廠擴張展現了 AI 材料業務的成長，但市場擔憂大規模資本支出對現金流的壓力，以及當前股價是否已過度反映未來的成長預期。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

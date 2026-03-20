@@ -1,0 +1,47 @@
+{
+  "ticker": "DY",
+  "company": "Dycom Industries",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/DY.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 4,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司透過投資大型沉浸式培訓中心以解決勞動力瓶頸，並持續受惠於光纖網路部署的長期需求成長。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Dycom Industries Plans Training Center: Is Growth Set to Accelerate?",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 15:22",
+      "impact": "high",
+      "category": "策略投資",
+      "reason": "此篇報導涵蓋了 Dycom 宣布在喬治亞州建立 49 英畝培訓中心的完整細節，該中心旨在解決電信技術人員短缺問題，被視為推動未來產能擴張與營收成長的關鍵策略。選此篇作為代表，因其最先且全面地探討了該投資對未來成長加速的潛在影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Dycom Industries: Fiber Provides Growth Path For Next Decade",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-16 09:00",
+      "impact": "medium",
+      "category": "市場趨勢",
+      "reason": "分析指出光纖到戶 (FTTH) 與光纖部署將成為未來十年的成長引擎，確認了 Dycom 在基礎設施領域的長期競爭優勢與市場需求動能。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "MasTec vs. Dycom: Which Telecom Infrastructure Stock Has More Upside?",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 13:17",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此篇為同業比較分析，將 Dycom 與 MasTec (MTZ) 進行對比，雖然提及 Dycom 受惠於光纖需求，但並未給出明確的買進或賣出建議，僅提供投資人市場比較視角。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

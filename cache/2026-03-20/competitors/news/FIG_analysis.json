@@ -1,0 +1,93 @@
+{
+  "ticker": "FIG",
+  "company": "Figma, Inc.",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/FIG.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 3,
+    "bearish_count": 4,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "Figma 雖在 AI 變現與平台擴張上展現 40% 的營收成長潛力，但面臨 Google 競爭加劇、分析師下調目標價以及公司治理疑慮的雙重壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Figma's Next Phase: AI Monetization and Platform-Wide Expansion",
+      "publisher": "Zacks",
+      "date": "2026-03-18",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "該報導強調 Figma 透過 AI 變現策略與平台廣度擴張，為未來營收成長奠定基礎，具備長期投資價值。"
+    },
+    {
+      "rank": 2,
+      "title": "Figma and Agentic Coding: Why MCP Integrations Matter for FIG Stock?",
+      "publisher": "Zacks",
+      "date": "2026-03-18",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "透過 MCP 整合提升代理式編碼能力，有助於 Figma 在開發者生態系中維持競爭優勢，對股價有正面支撐。"
+    },
+    {
+      "rank": 3,
+      "title": "FIG Stock Outlook: Can AI Credit Monetization Lift 2026 Sales?",
+      "publisher": "Zacks",
+      "date": "2026-03-19",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "探討 AI 點數變現模式對 2026 年銷售額的潛在貢獻，市場對其營收轉化能力持審慎樂觀態度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Stifel and Morgan Stanley Lower Figma (FIG) Price Targets After Q4 Earnings",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-18",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "知名投行 Stifel 與 Morgan Stanley 在 Q4 財報後下調目標價，直接反映市場對其獲利能力與成長動能的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Figma's Push Into AI Is Great, But Not Great Enough To Buy",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-16",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "儘管 Q4 營收成長 40% 且付費訂閱用戶增加，但分析師認為 AI 投資成本過高，不足以支撐當前股價估值。"
+    },
+    {
+      "rank": 3,
+      "title": "Figma Faces Securities Review And Insider Sales Raise Governance Questions",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-13",
+      "impact": "high",
+      "category": "公司治理",
+      "reason": "面臨證券審查與內部人拋售股票，引發投資人對公司治理透明度與未來營運穩定性的疑慮。"
+    },
+    {
+      "rank": 4,
+      "title": "Figma (FIG) Stock Is Trending After Google's AI 'Vibe Design' Tool Unveiled",
+      "publisher": "Benzinga",
+      "date": "2026-03-18",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Google 推出 AI 設計工具直接威脅 Figma 核心業務，導致股價在盤後交易中承壓下跌。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Figma a Buy?",
+      "publisher": "Motley Fool",
+      "date": "2026-03-19",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "文章綜合評估了 Figma 的成長潛力與市場風險，並未給出明確的買進或賣出建議，屬於中性觀點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

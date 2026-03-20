@@ -1,0 +1,47 @@
+{
+  "ticker": "AYI",
+  "company": "Acuity",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/AYI.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 0,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場對 Acuity Brands 的 Q1 財報表現反應冷淡，且分析師下調目標價引發對未來成長動能的擔憂。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "How The Acuity Brands ( AYI ) Narrative Is Shifting After Q1 Results And Lower Price Targets",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-11",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "該報導指出 Q1 財報表現未達市場預期，導致分析師下調目標價，反映出市場對公司獲利成長放緩的擔憂，為最具代表性的負面消息。"
+    },
+    {
+      "rank": 2,
+      "title": "2 Reasons to Watch AYI and 1 to Stay Cautious",
+      "publisher": "StockStory",
+      "date": "2026-03-11",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "雖然提及部分觀察亮點，但明確指出需保持謹慎的理由，暗示公司面臨營運挑戰，對股價短期走勢構成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "AYI vs. NRILY: Which Stock Is the Better Value Option?",
+      "publisher": "Yahoo",
+      "date": "2026-03-17",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為單純的價值投資比較分析，未涉及公司具體營運變動，對股價影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

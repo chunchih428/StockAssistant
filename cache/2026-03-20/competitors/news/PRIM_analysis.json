@@ -1,0 +1,28 @@
+{
+  "ticker": "PRIM",
+  "company": "Primoris",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/PRIM.json",
+  "summary": {
+    "total_articles": 1,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場對 Primoris Services Corporation 的股價表現出現顯著拋售壓力，反映投資人對其近期市場動能的擔憂。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Genco, Primoris, Woodward, Regal Rexnord, and VSE Corporation Shares Plummet, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-12",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "該報導指出 Primoris (PRIM) 股價出現顯著下跌，反映出市場對該公司近期表現的負面情緒，可能與產業整體估值修正或特定營運數據未達預期有關，對短期股價構成壓力。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

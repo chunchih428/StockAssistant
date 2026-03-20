@@ -1,0 +1,75 @@
+{
+  "ticker": "LYV",
+  "company": "Live Nation Entertainment",
+  "analysis_date": "2026-03-19",
+  "source_file": "cache/2026-03-19/competitors/news/LYV.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "Mixed",
+    "key_theme": "市場對於 Live Nation 的強勁技術面與分析師目標價上調持樂觀態度，但反壟斷訴訟帶來的監管風險與近期股價回調壓力仍是主要隱憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Goldman Sachs Maintains Buy on Live Nation Entertainment, Raises Price Target to $190",
+      "publisher": "Benzinga",
+      "date": "2026-03-12 05:19",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "高盛分析師 Stephen Laszczyk 維持買入評級並將目標價上調至 $190，顯示機構投資人對其長期獲利能力與市場地位仍具信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Live Nation Entertainment (NYSE:LYV) Shows Strong Technical Setup for Potential Breakout",
+      "publisher": "ChartMill",
+      "date": "2026-03-12 13:51",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "技術指標顯示該股具備強勁的趨勢動能與盤整型態，預示未來可能出現向上突破的行情。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Live Nation Entertainment Stock Outperforming the Dow?",
+      "publisher": "Yahoo",
+      "date": "2026-03-16 14:11",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該股過去一年表現優於道瓊工業指數，反映出其在娛樂產業的強勢競爭力與市場吸引力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Antitrust Trial Puts Live Nation Ticketing Power And Valuation In Focus",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 23:08",
+      "impact": "high",
+      "category": "法規與訴訟",
+      "reason": "美國反壟斷審判正審查其票務業務與場地准入影響力，若判決不利可能導致業務拆分或罰款，對估值構成重大不確定性。"
+    },
+    {
+      "rank": 2,
+      "title": "3 Reasons LYV is Risky and 1 Stock to Buy Instead",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 11:01",
+      "impact": "medium",
+      "category": "投資建議",
+      "reason": "該股在過去六個月內下跌 5.3%，分析指出其面臨營運風險，建議投資人轉向其他標的，反映市場對其短期股價動能的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Live Nation Entertainment (LYV) Fairly Priced After Strong Multi‑Year Share Price Performance",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 20:12",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "文章探討在經歷多年強勁漲幅後，當前股價是否反映其內在價值，屬於中立的投資評估觀點，未給出明確買賣建議。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

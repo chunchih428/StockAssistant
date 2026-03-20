@@ -1,0 +1,66 @@
+{
+  "ticker": "GPGI",
+  "company": "GPGI",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/GPGI.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司在 2025 年第四季財報中展現強勁成長動能，並透過 JPMorgan 工業會議強化市場對其戰略轉型的信心。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "GPGI Inc (GPGI) Q4 2025 Earnings Call Highlights: Strong Growth and Strategic Initiatives",
+      "publisher": "GuruFocus.com",
+      "date": "2026-03-12",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "該報導詳細總結了 Q4 財報中的強勁成長數據與未來戰略佈局，為投資人提供了明確的成長路徑，對股價具備顯著支撐作用。"
+    },
+    {
+      "rank": 2,
+      "title": "GPGI, Inc. (GPGI) Presents at JPMorgan Industrials Conference 2026 Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-17",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "管理層在 JPMorgan 工業會議上的發言，進一步向機構投資人闡述了公司願景，有助於提升市場對其長期價值的認同。"
+    },
+    {
+      "rank": 3,
+      "title": "GPGI, Inc. 2025 Q4 - Results - Earnings Call Presentation",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-13",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "作為財報的原始簡報資料，提供了量化數據支持，是市場評估公司基本面最直接的依據。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "How The GPGI (GPGI) Story Is Shifting With New Issuer Themes And Valuation Reset",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-12",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "文章提及估值重置 (Valuation Reset) 的風險，暗示市場可能對公司當前的成長溢價進行修正，對短期股價構成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "GPGI (GPGI) Q4 2025 Earnings Call Transcript",
+      "publisher": "Motley Fool",
+      "date": "2026-03-12",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "此為財報會議的逐字稿，屬於資訊揭露性質，內容已由其他分析報導涵蓋，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

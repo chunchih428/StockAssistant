@@ -1,0 +1,47 @@
+{
+  "ticker": "CRK",
+  "company": "Comstock Resources",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/CRK.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於天然氣價格上漲帶動財報表現優於預期，推動 Comstock Resources 近期股價走勢強勁。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "How a Natural Gas Price-Driven Earnings Beat At Comstock Resources (CRK) Has Changed Its Investment Story",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-17",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "該報導深入分析了天然氣價格波動如何直接轉化為 Comstock Resources 的獲利增長，並指出財報優於預期已實質改變了市場對該公司的長期投資敘事，具備高度參考價值。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Is Comstock (CRK) Up 8.3% Since Last Earnings Report?",
+      "publisher": "Zacks",
+      "date": "2026-03-13",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "明確指出財報發布後股價上漲 8.3 % 的因果關係，反映出市場對公司營運效率與天然氣價格敏感度的正面回饋。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "A Look At Comstock Resources (CRK) Valuation After Recent Trading Moves",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-17",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該文章主要針對近期股價波動後的估值進行客觀檢視，未給出明確的買進或賣出建議，屬於中性的市場分析報告。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

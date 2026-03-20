@@ -1,0 +1,84 @@
+{
+  "ticker": "RIVN",
+  "company": "Rivian Automotive",
+  "analysis_date": "2026-03-19",
+  "source_file": "cache/2026-03-19/competitors/news/RIVN.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 4,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 R2 SUV 的發布與 TD Cowen 的評級調升持樂觀態度，同時公司在 AI 與晶片技術的研發布局被視為股價重估的關鍵催化劑。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "What's Going On With Rivian Stock Monday — Rivian (RIVN) stock is surging Monday following a TD Cowen upgrade and the public debut of the R2 SUV at SXSW.",
+      "publisher": "Benzinga",
+      "date": "2026-03-16 12:42",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "TD Cowen 的評級調升與 R2 SUV 在 SXSW 的公開亮相直接推動了股價上漲，這是近期最強勁的利多訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "Rivian: Why It's Finally Time To Buy (Rating Upgrade) — Rivian Automotive's efforts to create in-house chips and agentic AI software should underpin a stock repricing.",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-17 07:12",
+      "impact": "medium",
+      "category": "技術研發",
+      "reason": "公司在自研晶片與 AI 軟體方面的投入，被分析師視為長期價值重估的核心，有助於提升市場對其技術護城河的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Why TD Cowen Turned Bullish on Rivian Automotive (RIVN) Ahead of the R2 Launch",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-18T14:14:51Z",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "詳細解釋了 TD Cowen 看好 R2 產品線的潛力，強化了市場對 Rivian 未來銷量成長的預期。"
+    },
+    {
+      "rank": 4,
+      "title": "RJ Scaringe Says He's Betting On Industrial Robots Instead Of Ones That Can Do Cartwheels As Rivian Spinoff Secures $500 Million Funding",
+      "publisher": "Benzinga",
+      "date": "2026-03-12 03:36",
+      "impact": "low",
+      "category": "資本運作",
+      "reason": "Rivian 拆分出的 Mind Robotics 獲得 5 億美元融資，顯示公司生態系具備資本吸引力，雖非核心業務，但對品牌形象有正面助益。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Rivian: Return To Growth In 2026 — Rivian (RIVN) Q4â€™25: gross margins hit 9% as deliveries fell 31% post EV tax credit.",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-16 10:44",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "儘管毛利率改善至 9%，但交付量因電動車稅收抵免政策影響而下滑 31%，顯示需求端仍面臨政策敏感性挑戰。"
+    },
+    {
+      "rank": 2,
+      "title": "Is It Time To Reassess Rivian (RIVN) After Recent Share Price Weakness",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-18T16:05:26Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對近期股價疲軟進行重新評估，反映出市場對於公司成長動能是否能持續的擔憂，屬於防禦性觀點。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Rivian Automotive Option Alert: Apr 17 $18 Calls Sweep (8) near the Ask: 2721 @ $0.4 vs 6881 OI; Earnings 5/5 After Close [est] Ref=$15.95",
+      "publisher": "Benzinga",
+      "date": "2026-03-17 13:48",
+      "impact": "low",
+      "category": "衍生性商品",
+      "reason": "此為期權市場的資金流動數據，反映投資人對 5 月財報前的避險或投機行為，對股價本身無直接基本面影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,92 @@
+{
+  "ticker": "MSCI",
+  "company": "MSCI",
+  "analysis_date": "2026-03-19",
+  "source_file": "cache/2026-03-19/competitors/news/MSCI.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "分析師調升評級與產品平台擴張帶動市場信心，長期成長潛力持續受機構投資人青睞。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Raymond James Upgrades MSCI to Strong Buy, Maintains Price Target to $710",
+      "publisher": "Benzinga",
+      "date": "2026-03-17 10:52",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Raymond James 分析師 Patrick O'Shaughnessy 將 MSCI 評級由「優於大盤」調升至「強力買進」，並維持 710 美元目標價，顯示對公司未來獲利能力與市場地位的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "MSCI Expands Wealth Platform And Revamps ESG Scores As Investors Assess Value",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-10 17:13",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "MSCI 透過擴展財富管理平台與更新 ESG 評分體系，強化其在金融數據服務領域的競爭優勢，有助於吸引更多長期投資人需求。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Tracking Ron Baron's BAMCO Portfolio - Q4 2025 Update",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-13 23:29",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出 MSCI 為 Ron Baron 旗下 BAMCO 基金的重要持股，反映機構投資人對其長期成長策略的認可，屬於持倉變動的例行性分析。"
+    },
+    {
+      "rank": 2,
+      "title": "MSCI (MSCI): Buy, Sell, or Hold Post Q4 Earnings?",
+      "publisher": "StockStory",
+      "date": "2026-03-11 00:06",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "針對第四季財報後的投資建議回顧，旨在提供投資人多空觀點的平衡分析，未有新的重大財務變動消息。"
+    },
+    {
+      "rank": 3,
+      "title": "Is It Time To Reconsider MSCI (MSCI) After Its Recent Valuation Checks?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-10 10:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對公司近期估值進行檢視，屬於市場常規的價值評估報告，並未給出明確的買賣訊號。"
+    },
+    {
+      "rank": 4,
+      "title": "How Is MSCI's Stock Performance Compared to Other Financial Service Stocks?",
+      "publisher": "Barchart",
+      "date": "2026-03-10 08:04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 MSCI 與同業進行績效比較，屬於量化數據的客觀呈現，不涉及公司基本面變動。"
+    },
+    {
+      "rank": 5,
+      "title": "Here's How Much $100 Invested In MSCI 15 Years Ago Would Be Worth Today",
+      "publisher": "Benzinga",
+      "date": "2026-03-17 11:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "回顧歷史績效的統計報導，僅供投資人參考長期報酬率，對短期股價影響有限。"
+    },
+    {
+      "rank": 6,
+      "title": "Raymond James Upgrades MSCI (MSCI)",
+      "publisher": "Fintel",
+      "date": "2026-03-17 22:04",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "此篇為 Raymond James 評級調整的重複報導，已在利多項目中涵蓋，故歸類為中性重複資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

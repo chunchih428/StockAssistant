@@ -1,0 +1,93 @@
+{
+  "ticker": "VRT",
+  "company": "Vertiv",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/VRT.json",
+  "summary": {
+    "total_articles": 12,
+    "bullish_count": 9,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "Vertiv 受益於 AI 資料中心基礎設施需求強勁，特別是與 NVIDIA 的深度合作及液冷技術的快速擴張，推動了市場對其長期成長的高度信心。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Vertiv Announces Its Role In Advancing Converged Physical Infrastructure Designs For NVIDIA Vera Rubin DSX AI Factory Reference Design",
+      "publisher": "Benzinga",
+      "date": "2026-03-16 16:39",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Vertiv 宣布參與 NVIDIA Vera Rubin DSX AI 工廠參考設計，這強化了其作為 AI 基礎設施關鍵供應商的地位，有助於降低客戶部署風險並加速市場滲透。"
+    },
+    {
+      "rank": 2,
+      "title": "Vertiv: Remains A Fantastic Pick And Shovel AI Play",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-17 01:41",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "分析指出公司擁有 150 億美元的積壓訂單，預計 2026 年銷售成長超過 30 %，且利潤率持續擴張，顯示其作為 AI 基礎設施「鏟子」供應商的強大獲利能力。"
+    },
+    {
+      "rank": 3,
+      "title": "Vertiv CEO: Liquid cooling capacity growing ‘really, really, really rapidly’",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-03-18 11:50",
+      "impact": "medium",
+      "category": "高層觀點",
+      "reason": "執行長確認液冷技術產能正以極快速度成長，直接對應 AI 高密度運算對散熱解決方案的迫切需求，為未來營收成長提供明確指引。"
+    },
+    {
+      "rank": 4,
+      "title": "How Vertiv’s NVIDIA-Aligned, AI Factory Infrastructure Push At Vertiv Holdings Co (VRT) Has Changed Its Investment Story",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-18 13:05",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "文章總結了 Vertiv 從傳統基礎設施轉型為 AI 核心供應商的投資故事轉變，強調與 NVIDIA 的對齊策略顯著提升了公司的估值邏輯。"
+    },
+    {
+      "rank": 5,
+      "title": "VERTIV HOLDINGS CO-A (NYSE:VRT) Fits the Minervini High-Growth Momentum and Trend Template Strategy",
+      "publisher": "ChartMill",
+      "date": "2026-03-16 12:23",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "該股符合 Minervini 高成長動能策略，顯示其技術面強勢，有利於吸引趨勢交易者進場。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Vertiv: An Upcoming S&P 500 Member, Shares Near Fair Value (Downgrade)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-16 16:36",
+      "impact": "medium",
+      "category": "投資評級",
+      "reason": "儘管 EPS 前景強勁，但由於股價已累計上漲 211 %，分析師認為估值已達合理區間，因此將評級下調至「持有」，提醒投資人短期回調風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "The 'Cramer Curse'? Here's What's Happening With Vertiv Stock Today",
+      "publisher": "Benzinga",
+      "date": "2026-03-16 14:07",
+      "impact": "low",
+      "category": "市場情緒",
+      "reason": "報導討論 Jim Cramer 對該股的評論，這類市場雜訊對基本面影響有限，僅反映短期情緒波動。"
+    },
+    {
+      "rank": 2,
+      "title": "Vertiv Holdings Co (VRT) Presents at JPMorgan Industrials Conference 2026 Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-18 15:52",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "會議記錄提供了公司營運的最新細節，屬於例行性資訊披露，未包含突發性的重大轉折。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

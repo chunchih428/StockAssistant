@@ -1,0 +1,93 @@
+{
+  "ticker": "FROG",
+  "company": "JFrog",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/FROG.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "Mixed",
+    "key_theme": "市場對於 JFrog 在 AI 代理與軟體供應鏈安全領域的技術擴張持正面看法，但分析師對其估值溢價與成長放緩的擔憂仍造成股價多空拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Guggenheim Initiates Coverage On JFrog with Buy Rating, Announces Price Target of $60",
+      "publisher": "Benzinga",
+      "date": "2026-03-16 07:38",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Guggenheim 分析師 Howard Ma 給予買入評級並設定 60 美元目標價，顯示機構投資人對其長期成長潛力與市場地位的認可，選此篇作為代表是因為其包含具體的目標價與分析師觀點。"
+    },
+    {
+      "rank": 2,
+      "title": "JFrog Announces New JFrog Agent Skills Registry For Agentic Workforces To Operate Securely At Enterprise Speed And Scale",
+      "publisher": "Benzinga",
+      "date": "2026-03-16 16:35",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出 Agent Skills Registry 強化了企業級 AI 代理的安全性與治理能力，有助於鞏固其在 DevOps 市場的競爭優勢，符合企業對 AI 安全部署的需求。"
+    },
+    {
+      "rank": 3,
+      "title": "Why JFrog (FROG) Stock Is Up Today",
+      "publisher": "StockStory",
+      "date": "2026-03-16 19:52",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導確認了股價上漲的市場情緒，反映了投資人對近期產品發布與分析師正面評級的積極反應。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "JFrog: Still More Premium To Burn As Growth Decelerates",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-17 08:11",
+      "impact": "medium",
+      "category": "投資分析",
+      "reason": "文章指出儘管年初至今股價已下跌 30 %，但估值依然過高，且面臨成長放緩的結構性風險，對投資人發出警示。"
+    },
+    {
+      "rank": 2,
+      "title": "JFrog (FROG): Buy, Sell, or Hold Post Q4 Earnings?",
+      "publisher": "StockStory",
+      "date": "2026-03-11 17:00",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "針對 Q4 財報後的表現進行審視，指出市場對其未來獲利能力與成長持續性的不確定性，導致投資建議分歧。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "JFrog Says AI Coding Agents Won’t Replace Binary Security as Xray and Cloud Usage Surge",
+      "publisher": "MarketBeat",
+      "date": "2026-03-16 23:43",
+      "impact": "low",
+      "category": "產業趨勢",
+      "reason": "強調 AI 代理無法取代二進位安全的重要性，屬於產業觀點闡述，對股價無直接短期影響。"
+    },
+    {
+      "rank": 2,
+      "title": "How The JFrog (FROG) Narrative Is Shifting With AI Tools And Diverging Analyst Views",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-14 10:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "總結了市場對 AI 工具影響的看法分歧，屬於中立的市場觀察報導。"
+    },
+    {
+      "rank": 3,
+      "title": "Assessing JFrog (FROG) Valuation After Recent Share Price Volatility Without A Clear News Catalyst",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-14 00:20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析股價波動原因，指出缺乏明確新聞催化劑，屬於客觀的市場數據分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

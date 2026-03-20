@@ -1,0 +1,84 @@
+{
+  "ticker": "KLAC",
+  "company": "KLA Corporation",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/KLAC.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 4,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 晶片需求帶動晶圓廠設備支出強勁成長，分析師調升目標價且市場看好其長期投資價值。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Oppenheimer Raises PT on KLA (KLAC) Stock to $1,900",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 15:44",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Oppenheimer 將 KLAC 目標價調升至 1,900 美元，反映市場對其在半導體設備領域領導地位的信心，該報導涵蓋了最新的市場看多觀點。"
+    },
+    {
+      "rank": 2,
+      "title": "Jim Cramer Recommended Putting KLA (KLAC) “in the Drawer” In February 2025",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 22:23",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "知名財經評論員 Jim Cramer 將 KLAC 列為 AI 領域首選股，並建議長期持有，增強了投資人對該公司基本面的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Expanding Wafer Fab Equipment Spending Aids KLAC: What's Ahead?",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 16:26",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "AI 晶片需求激增直接推動晶圓廠設備支出，KLAC 作為製程控制設備龍頭，將直接受惠於產業資本支出擴張。"
+    },
+    {
+      "rank": 4,
+      "title": "KLA (KLAC) Beats Stock Market Upswing: What Investors Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-16 22:00",
+      "impact": "low",
+      "category": "股價表現",
+      "reason": "KLAC 股價單日上漲 1.38 %，表現優於大盤，顯示短期內買盤動能強勁。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Expanding Wafer Fab Equipment Spending Aids KLAC: What's Ahead?",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 16:26",
+      "impact": "low",
+      "category": "市場風險",
+      "reason": "儘管產業前景看好，但報導同時指出公司面臨成本上升、供應鏈限制及市場競爭加劇的潛在風險，可能對毛利率造成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "KLA Corporation (KLAC) Analyst/Investor Day Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-14 01:02",
+      "impact": "medium",
+      "category": "投資人會議",
+      "reason": "公司舉辦投資人日，由執行副總裁 Bren Higgins 等高層說明未來策略，提供市場關於公司營運方向的透明度，選此篇作為代表以涵蓋會議內容。"
+    },
+    {
+      "rank": 2,
+      "title": "KLA Corporation (KLAC) Analyst/Investor Day - Slideshow",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-13 00:04",
+      "impact": "low",
+      "category": "投資人會議",
+      "reason": "此為投資人日簡報檔，屬於會議資訊的補充資料，內容與會議記錄高度重疊，故列為中性參考。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
