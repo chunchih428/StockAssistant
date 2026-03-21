@@ -1,0 +1,38 @@
+{
+  "ticker": "ROAD",
+  "company": "Construction Partners",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/ROAD.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "Neutral to Bearish",
+    "key_theme": "市場對 Construction Partners 的高估值與溢價本益比表示擔憂，儘管公司長期報酬表現強勁。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Assessing Construction Partners (ROAD) Valuation After Strong Long Term Returns And Premium P/E Multiple",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-17",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "該報告指出 ROAD 目前的本益比 (P/E Multiple) 處於溢價水準，儘管過去長期報酬表現優異，但高估值可能限制了未來的股價上漲空間，投資人需警惕回調風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Construction and Maintenance Services Stocks Q4 Recap: Benchmarking Construction Partners (NASDAQ:ROAD)",
+      "publisher": "StockStory",
+      "date": "2026-03-17",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此篇為第四季產業回顧，將 ROAD 與同業進行基準比較，屬於中性的市場數據整理，未對公司基本面提出明確的買進或賣出建議。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

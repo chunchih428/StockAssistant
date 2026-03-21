@@ -1,0 +1,65 @@
+{
+  "ticker": "CRC",
+  "company": "California Resources",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/CRC.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "分析師普遍上調目標價反映對公司資本結構優化與估值潛力的正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Wells Fargo Maintains Overweight on California Resources, Raises Price Target to $76",
+      "publisher": "Benzinga",
+      "date": "2026-03-17 09:09",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Wells Fargo 分析師 Sam Margolin 維持「加碼」評級並將目標價調升至 $76，顯示市場對公司營運前景的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Barclays Maintains Overweight on California Resources, Raises Price Target to $72",
+      "publisher": "Benzinga",
+      "date": "2026-03-16 10:46",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Barclays 分析師 Betty Jiang 將目標價調升至 $72，進一步強化了市場對於 CRC 股價成長動能的共識。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Citigroup Maintains Neutral on California Resources, Raises Price Target to $67",
+      "publisher": "Benzinga",
+      "date": "2026-03-18 11:20",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "儘管 Citigroup 分析師 Scott Gruber 上調目標價至 $67，但維持「中性」評級，顯示其對股價上行空間持保留態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Does California Resources (CRC) Refinancing 8.250% Notes With 7.000% Debt Recast Its Capital Allocation Priorities?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-15 23:12",
+      "impact": "medium",
+      "category": "財務結構",
+      "reason": "公司透過發行 7.000% 債券置換 8.250% 票據，有效降低利息支出，此舉對財務結構優化具有正面意義，但市場多已預期此類資本配置調整。"
+    },
+    {
+      "rank": 3,
+      "title": "A Look At California Resources (CRC) Valuation After Recent Share Price Momentum",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-16 06:07",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對近期股價波動後的估值分析，提供中立的市場觀點，提醒投資人關注股價漲勢後的估值合理性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

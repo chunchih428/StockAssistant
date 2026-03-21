@@ -1,0 +1,93 @@
+{
+  "ticker": "XEL",
+  "company": "Xcel Energy",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/XEL.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "neutral",
+    "key_theme": "公司基本面穩健且受避險基金青睞，但近期股價波動與估值分歧導致市場觀望情緒濃厚。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Here is Why Xcel Energy (XEL) is One of the Best Regulated Electric Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 05:59",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "被避險基金評選為 10 大最佳受監管電力股之一，顯示機構投資者對其防禦性資產配置的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Xcel Energy Named One of the World’s Most Ethical Companies® for Seventh Consecutive Year",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 15:30",
+      "impact": "low",
+      "category": "企業聲譽",
+      "reason": "連續 7 年獲評為全球最具道德企業，有助於提升 ESG 評級，吸引長期價值型投資人。"
+    },
+    {
+      "rank": 3,
+      "title": "Xcel Energy Inc. stock outperforms competitors on strong trading day",
+      "publisher": "MarketWatch",
+      "date": "2026-03-13 16:49",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "在強勁的交易日中表現優於同業，反映短期市場資金對該公用事業股的青睞。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Xcel Energy Inc. stock underperforms Wednesday when compared to competitors",
+      "publisher": "MarketWatch",
+      "date": "2026-03-18 16:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "週三股價表現落後於同業，顯示短期內面臨獲利了結壓力或市場輪動影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Assessing Xcel Energy (XEL) Valuation As Recent Share Moves Contrast With Mixed Fair Value Signals",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-10 07:12",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "近期股價走勢與公允價值模型出現分歧，暗示目前股價可能已反映過多預期，存在估值修正風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "How The Xcel Energy (XEL) Story Is Shifting With Data Centers And Mixed Analyst Targets",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-10 13:11",
+      "impact": "medium",
+      "category": "產業趨勢",
+      "reason": "資料中心電力需求帶來的成長潛力與分析師目標價分歧並存，市場對其未來成長路徑尚無共識。"
+    },
+    {
+      "rank": 2,
+      "title": "Is It Too Late To Consider Xcel Energy (XEL) After 22% One-Year Share Price Gain?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-10 12:10",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "探討過去一年 22% 的漲幅是否已透支未來空間，屬於中性觀點的投資評估。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Xcel Energy Stock Outperforming the Nasdaq?",
+      "publisher": "Barchart",
+      "date": "2026-03-12 13:24",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "單純比較公用事業股與科技指數的績效差異，屬於市場技術性觀察，無明確多空指引。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

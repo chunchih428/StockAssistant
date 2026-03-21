@@ -1,0 +1,47 @@
+{
+  "ticker": "AME",
+  "company": "AMETEK",
+  "analysis_date": "2026-03-21",
+  "source_file": "cache/2026-03-21/competitors/news/AME.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "Neutral",
+    "key_theme": "市場對 Ametek 的估值合理性進行評估，同時關注其在工業技術領域的長期投資價值與相對績效表現。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ametek Inc. stock outperforms competitors despite losses on the day",
+      "publisher": "MarketWatch",
+      "date": "2026-03-18 16:50",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管當日股價下跌，但 Ametek 的相對表現優於競爭對手，顯示其在工業板塊中具備較強的抗跌性與市場競爭力。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is AMETEK (AME) Pricing Still Justified After Recent Share Price Pullback?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-13",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "文章探討股價回調後的估值合理性，並未給出明確的買入或賣出建議，僅提供投資人關於基本面與價格匹配度的分析視角。"
+    },
+    {
+      "rank": 2,
+      "title": "Ametek Inc. (AME) Reflects Mario Gabelli’s Decades-Long Bet on Industrial Technology Solutions",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-11",
+      "impact": "low",
+      "category": "投資動態",
+      "reason": "報導聚焦於知名投資人 Mario Gabelli 對該公司的長期持倉與信心，屬於回顧性質的投資分析，對短期股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

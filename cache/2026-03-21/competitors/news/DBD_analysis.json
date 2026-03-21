@@ -1,0 +1,57 @@
+{
+  "ticker": "DBD",
+  "company": "Diebold Nixdorf Incorporated",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/DBD.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "近期股價表現疲軟，儘管華爾街分析師給予買入評級，但市場賣壓持續導致股價表現落後大盤。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Wall Street Analysts See Diebold Nixdorf, Incorporated (DBD) as a Buy: Should You Invest?",
+      "publisher": "Zacks",
+      "date": "2026-03-17T13:30:04Z",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "華爾街分析師給予買入評級，顯示專業機構對該公司長期基本面或估值修復潛力持正面看法，為股價提供潛在支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Diebold Nixdorf, Incorporated (DBD) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "publisher": "Zacks",
+      "date": "2026-03-18T22:00:03Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價跌幅超過大盤，反映出市場對該公司近期表現的擔憂，此篇選為代表是因為其涵蓋了最新的市場拋售情緒與投資人關注點。"
+    },
+    {
+      "rank": 2,
+      "title": "Diebold Nixdorf, Incorporated (DBD) Declines More Than Market: Some Information for Investors",
+      "publisher": "Zacks",
+      "date": "2026-03-12T22:00:03Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "顯示該公司股價在 3 月中旬即出現弱於大盤的走勢，確認了近期持續性的賣壓趨勢。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Diebold Nixdorf, Incorporated (DBD) is Attracting Investor Attention: Here is What You Should Know",
+      "publisher": "Zacks",
+      "date": "2026-03-18T13:00:03Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅指出投資人關注度提升，未明確指出利多或利空方向，屬於中性的市場觀察報告。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

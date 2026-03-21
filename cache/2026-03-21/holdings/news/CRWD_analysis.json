@@ -1,0 +1,111 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-03-21",
+  "source_file": "cache/2026-03-21/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "CrowdStrike 憑藉 FedRAMP 高規格認證與 AI 戰略合作夥伴關係，在聯邦政府與企業資安市場展現強勁的成長動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Morgan Stanley Upgrades CrowdStrike to Overweight and Names it a Top Pick",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 14:50",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "摩根士丹利基於第四季財報表現，將 CrowdStrike 評級上調至「加碼」，並列為首選股，顯示華爾街對其獲利能力與市場地位的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike Achieves FedRAMP High Authorization for Federal XIoT and OT Security",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 13:26",
+      "impact": "high",
+      "category": "法規認證",
+      "reason": "獲得 FedRAMP 高規格認證，為 CrowdStrike 進入聯邦政府關鍵基礎設施與物聯網資安市場掃清障礙，預計將顯著提升公共部門營收。"
+    },
+    {
+      "rank": 3,
+      "title": "EY Selects CrowdStrike to Power Its Agentic SOC Services, Accelerated by NVIDIA AI",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 12:00",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 EY 及 NVIDIA 達成 AI 驅動的資安服務合作，驗證了 Falcon 平台在企業級 AI 應用中的技術領先地位。"
+    },
+    {
+      "rank": 4,
+      "title": "CrowdStrike vs. Zscaler: Which Cybersecurity Stock Has an Edge?",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 14:21",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "分析指出 CrowdStrike 在 Falcon Flex 採用率與年度經常性收入 (ARR) 成長上優於 Zscaler，顯示其市場份額擴張更具優勢。"
+    },
+    {
+      "rank": 5,
+      "title": "CrowdStrike and Nebius Partner to Unify Security Across the Next Generation of AI Cloud Infrastructure",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 12:10",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "與 Nebius 建立合作夥伴關係，進一步擴展其在 AI 雲端基礎設施的資安防護版圖。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike Holdings Inc. Cl A stock falls Monday, underperforms market",
+      "publisher": "MarketWatch",
+      "date": "2026-03-16 16:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日表現落後大盤，反映短期市場獲利了結壓力，但未改變公司基本面。"
+    },
+    {
+      "rank": 2,
+      "title": "Nebius Just Scored Another Key Partnership. Should You Chase NBIS Stock Here?",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 12:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管提及與 CrowdStrike 的合作，但 Nebius 因債券發行公告導致股價下跌，間接影響市場對該合作案的短期情緒解讀。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Palantir vs. CrowdStrike: Which AI-Powered Software Stock Will Dominate 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 13:20",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "針對兩家 AI 軟體巨頭的比較分析，結論取決於投資人的風險偏好，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike, AWS, and NVIDIA Announce Startup Accelerator Finalists",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 12:00",
+      "impact": "low",
+      "category": "企業活動",
+      "reason": "屬於例行性的新創加速器活動，有助於品牌曝光與生態系建立，但對短期財務貢獻有限。"
+    },
+    {
+      "rank": 3,
+      "title": "Jim Cramer Said In January 2025 That CrowdStrike (CRWD) Would Go Up “Big”",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 22:08",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "回顧性評論，僅重申市場名人的觀點，缺乏新的實質利多資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

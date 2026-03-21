@@ -1,0 +1,84 @@
+{
+  "ticker": "NTNX",
+  "company": "Nutanix, Inc.",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/NTNX.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司推出 Agentic AI 軟體堆疊以強化企業 AI 應用能力，儘管面臨財測下調的短期壓力，但市場對其技術整合與長期成長潛力仍持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Nutanix Unveils Nutanix Agentic AI, Full Stack Software Solution to Unlock the Potential of Enterprise AI Factories",
+      "publisher": "Yahoo",
+      "date": "2026-03-16 20:30",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "此新聞涵蓋了 Nutanix 推出 Agentic AI 軟體堆疊的核心細節，該解決方案旨在提升企業 AI 應用的效能、合規性與安全性，被視為公司技術轉型的關鍵里程碑，因此選為代表性新聞。"
+    },
+    {
+      "rank": 2,
+      "title": "A Look At Nutanix (NTNX) Valuation After Its New Agentic AI Stack With NVIDIA Integration",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 09:05",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "強調與 NVIDIA 的整合，顯示 Nutanix 在 AI 基礎設施領域的戰略地位提升，有助於市場重新評估其估值。"
+    },
+    {
+      "rank": 3,
+      "title": "AMD: Agentic AI Is Broadening The Bull Case",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-17 09:31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "指出 Nutanix 與 AMD 的技術協同效應（EPYC 與 Pensando），進一步強化了市場對其在 AI 推論效率提升方面的看多觀點。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Nutanix (NTNX) Fell Following a Cut in its 2026 Revenue and Earnings Forecast",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 11:59",
+      "impact": "high",
+      "category": "財報預測",
+      "reason": "Polen Capital 下調了 Nutanix 的 2026 年營收與獲利預測，直接導致股價下跌，反映出投資人對短期財務表現的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Nutanix (NTNX) Offering Opportunity After A 43% One Year Share Price Slump",
+      "publisher": "Yahoo",
+      "date": "2026-03-15 03:09",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "回顧過去一年股價下跌 43% 的事實，凸顯了市場對公司長期獲利能力與成長動能的質疑，對投資信心造成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Nutanix Announces Investor Day 2026 Details",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 16:42",
+      "impact": "low",
+      "category": "公司活動",
+      "reason": "僅為例行性的投資人日公告，屬於中性資訊，市場將等待屆時公布的具體戰略與財務指引。"
+    },
+    {
+      "rank": 2,
+      "title": "Nutanix Announces Agentic AI Purpose-Built Software Stack To Accelerate Enterprise Agentic AI Adoption",
+      "publisher": "Benzinga",
+      "date": "2026-03-16 16:37",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "此新聞與 2026-03-16 20:30 的報導內容重複，僅為發布公告的摘要，故歸類為中性並由前述詳細報導代表。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

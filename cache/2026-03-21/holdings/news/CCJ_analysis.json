@@ -1,0 +1,56 @@
+{
+  "ticker": "CCJ",
+  "company": "Cameco",
+  "analysis_date": "2026-03-19",
+  "source_file": "cache/2026-03-19/holdings/news/CCJ.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 0,
+    "bearish_count": 3,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場對 Cameco 近期股價漲幅後的估值過高感到擔憂，且對新簽署的印度鈾礦合約帶來的成長潛力持保留態度。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cameco (TSX:CCO) Valuation Check After Strong 3 Month and 1 Year Share Price Gains",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-18",
+      "impact": "medium",
+      "category": "市場估值",
+      "reason": "該分析指出 Cameco 在經歷過去一年強勁的股價漲幅後，目前的估值可能已偏高，提醒投資人注意回調風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Cameco India Uranium Deal Raises Questions On Valuation And Growth",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-14",
+      "impact": "medium",
+      "category": "業務發展",
+      "reason": "儘管與印度達成鈾礦供應協議，但市場質疑該合約對公司長期成長的實際貢獻，以及其對當前高估值的支撐力道不足。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Cameco (CCJ) Dipped More Than Broader Market Today",
+      "publisher": "Zacks",
+      "date": "2026-03-13",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出 CCJ 當日跌幅超過大盤，反映出在市場波動下，投資人對該股的高 Beta 值與獲利了結賣壓的敏感度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "$1000 Invested In Cameco 10 Years Ago Would Be Worth This Much Today",
+      "publisher": "Benzinga",
+      "date": "2026-03-12",
+      "impact": "low",
+      "category": "歷史績效",
+      "reason": "此類文章僅回顧過去 10 年的投資報酬率，屬於歷史數據分析，對未來股價走勢不具備直接影響力。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

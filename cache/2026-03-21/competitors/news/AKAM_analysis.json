@@ -1,0 +1,102 @@
+{
+  "ticker": "AKAM",
+  "company": "Akamai",
+  "analysis_date": "2026-03-19",
+  "source_file": "cache/2026-03-19/competitors/news/AKAM.json",
+  "summary": {
+    "total_articles": 11,
+    "bullish_count": 7,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "Akamai 積極布局 AI 基礎設施與邊緣運算，透過與 NVIDIA Blackwell GPU 合作及擴大合作夥伴生態系，展現強勁的成長動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Akamai Lands US$200 Million AI Deal Showcasing Blackwell GPU Ambitions",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 01:11",
+      "impact": "high",
+      "category": "業務拓展",
+      "reason": "獲得價值 2 億美元的四年期服務合約，直接驗證了公司在 AI 基礎設施與 NVIDIA Blackwell GPU 整合策略的商業價值。"
+    },
+    {
+      "rank": 2,
+      "title": "Akamai Launches AI Grid Intelligent Orchestration for Distributed Inference Across 4,400 Edge Locations",
+      "publisher": "Yahoo",
+      "date": "2026-03-16 20:30",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "推出全球規模的 AI Grid 邊緣推論解決方案，強化了 Akamai 在分散式運算領域的技術護城河。"
+    },
+    {
+      "rank": 3,
+      "title": "How Akamai’s (AKAM) Blackwell GPU Buildout Expands Its Distributed AI Platform Ambitions",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 16:14",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出公司透過 GPU 擴建計畫成功轉型為 AI 平台供應商，提升了市場對其長期成長的預期。"
+    },
+    {
+      "rank": 4,
+      "title": "Tufin and Akamai Unite Policy Automation and Microsegmentation to Deliver Modern Zero Trust Security",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 13:01",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 Tufin 合作整合零信任安全架構，有助於鞏固其在網路安全市場的競爭地位。"
+    },
+    {
+      "rank": 5,
+      "title": "AKAM Partners With DCT to Accelerate Cloud Modernization for Enterprises",
+      "publisher": "Yahoo",
+      "date": "2026-03-16 13:57",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "與 Digital Convergence Technologies (DCT) 結盟，透過 Partner Connect 計畫擴大雲端現代化服務的銷售渠道。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "AI Transformation at Risk: APIs Emerge as the Primary Attack Surface, Akamai Research Finds",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 10:28",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "雖然研究報告顯示 API 安全風險增加，但這同時也凸顯了企業對 Akamai 安全解決方案的潛在需求，短期內對股價影響中性偏空。"
+    },
+    {
+      "rank": 2,
+      "title": "Audax Private Equity Acquires Property Management Company AKAM",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 11:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此新聞涉及的是同名房地產管理公司「AKAM」，與科技公司 Akamai Technologies 無關，但可能導致投資人搜尋時產生混淆。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "A Look At Akamai Technologies (AKAM) Valuation After Recent Share Price Swings",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 11:09",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "僅為近期股價波動後的技術性回顧與估值分析，未提供新的基本面利多或利空訊息。"
+    },
+    {
+      "rank": 2,
+      "title": "Content Delivery Stocks Q4 Teardown: Akamai Technologies (NASDAQ:AKAM) Vs The Rest",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 01:02",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "針對 Q4 財報的產業比較分析，屬於回顧性質，對當前股價驅動力有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

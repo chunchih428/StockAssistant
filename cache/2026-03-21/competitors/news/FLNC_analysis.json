@@ -1,0 +1,38 @@
+{
+  "ticker": "FLNC",
+  "company": "Fluence Energy, Inc.",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/FLNC.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "Neutral to Slightly Bullish",
+    "key_theme": "市場對 Fluence Energy 在資料中心儲能領域的潛力持樂觀態度，但仍對其過往的股價表現與潛在風險保持謹慎。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Fluence: The Data Center Opportunity Looks Promising, But Other Risks Remain",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-16 20:16",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出資料中心對儲能系統的需求為公司帶來明確的成長機會，儘管過去股價表現疲軟，但近期營運趨於穩定，顯示基本面有改善跡象。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Guggenheim Upgrades Fluence Energy to Neutral",
+      "publisher": "Benzinga",
+      "date": "2026-03-19 09:49",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "Guggenheim 分析師 Joseph Osha 將評級從「賣出」調升至「中性」，反映出對公司未來展望的悲觀情緒有所緩解，但尚未達到買入等級。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "ONDS",
+  "company": "Ondas",
+  "analysis_date": "2026-03-19",
+  "source_file": "cache/2026-03-19/holdings/news/ONDS.json",
+  "summary": {
+    "total_articles": 16,
+    "bullish_count": 9,
+    "bearish_count": 3,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司積極透過併購與策略聯盟擴張無人機防禦與國防技術版圖，儘管面臨股權稀釋壓力，市場對其成長前景仍持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ondas and Heidelberg Launch ONBERG JV To Build European One-Stop Shop For Autonomous Drone Defense Systems",
+      "publisher": "Benzinga",
+      "date": "2026-03-18 09:18",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "透過與 Heidelberg 成立合資企業，Ondas 成功將其技術版圖擴展至歐洲市場，建立無人機防禦的一站式服務，具備長期營收成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Ondas Completes Acquisition Of INDO Earth Moving For $5.66M Cash And 5.49M Shares",
+      "publisher": "Benzinga",
+      "date": "2026-03-17 09:45",
+      "impact": "high",
+      "category": "併購活動",
+      "reason": "完成對 INDO Earth Moving 的收購，強化了公司在自動化地面與空中技術的整合能力，為國防業務增添實質資產。"
+    },
+    {
+      "rank": 3,
+      "title": "Ondas, Palantir And World View Collaborate On Stratollite ISR",
+      "publisher": "Benzinga",
+      "date": "2026-03-12 08:43",
+      "impact": "high",
+      "category": "策略聯盟",
+      "reason": "與 AI 巨頭 Palantir 合作開發多領域情報平台，顯著提升了 Ondas 在國防科技領域的技術信譽與市場能見度。"
+    },
+    {
+      "rank": 4,
+      "title": "Ondas: A Bet On The Drone Revolution Backed By $1.5 Billion Cash",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-16 03:52",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析師強調公司在無人機革命中的關鍵地位，且擁有強勁的現金儲備，足以支撐未來的技術研發與併購需求。"
+    },
+    {
+      "rank": 5,
+      "title": "Ondas Completes Full Acquisition Of 4M Defense",
+      "publisher": "Benzinga",
+      "date": "2026-03-16 09:30",
+      "impact": "medium",
+      "category": "併購活動",
+      "reason": "完成對 4M Defense 的全資收購，消除了潛在的不確定性，並整合了關鍵的防禦技術資產。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ondas Files Prospectus To Register 3,358,097 Shares For Resale By Selling Stockholders",
+      "publisher": "Benzinga",
+      "date": "2026-03-18 09:09",
+      "impact": "medium",
+      "category": "股權融資",
+      "reason": "註冊大量股份供現有股東轉售，可能引發市場對股權稀釋的擔憂，並對短期股價造成賣壓。"
+    },
+    {
+      "rank": 2,
+      "title": "Ondas Registers 2,441,506 Shares For Sale By Stockholders",
+      "publisher": "Benzinga",
+      "date": "2026-03-17 09:33",
+      "impact": "low",
+      "category": "股權融資",
+      "reason": "連續的股份註冊公告加劇了投資人對於籌碼面供給增加的疑慮。"
+    },
+    {
+      "rank": 3,
+      "title": "Ondas Q4 Earnings Preview: Not Undervalued Until We See Profits",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-16 21:09",
+      "impact": "low",
+      "category": "財報預覽",
+      "reason": "儘管營收指引上調，但分析師對獲利能力仍持保留態度，提醒投資人需關注實際獲利表現而非僅是營收成長。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Too Late To Consider Ondas (ONDS) After Its 13x One Year Surge?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-17 18:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討股價在一年內暴漲 13 倍後的估值合理性，屬於中性的投資觀點分析，未提供明確買賣建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Ondas Option Alert: Mar 27 $11 Calls Sweep",
+      "publisher": "Benzinga",
+      "date": "2026-03-12 13:36",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為選擇權市場的交易活動紀錄，反映市場對短期股價波動的預期，不代表公司基本面變化。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

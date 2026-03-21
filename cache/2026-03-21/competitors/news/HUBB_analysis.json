@@ -1,0 +1,56 @@
+{
+  "ticker": "HUBB",
+  "company": "Hubbell Inc",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/HUBB.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 4,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司在 JPMorgan 工業大會上展現強勁基本面，股價表現優於同業並獲得市場正面評價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Hubbell (HUBB) Stock Trades Up, Here Is Why",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 22:27",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價在當日午後交易時段上漲 1.5 %，反映市場對公司近期營運表現的正面反應。此篇選為代表，因其直接解釋了股價變動的即時驅動因素。"
+    },
+    {
+      "rank": 2,
+      "title": "Hubbell Inc. stock outperforms competitors on strong trading day",
+      "publisher": "MarketWatch",
+      "date": "2026-03-18 17:03",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Hubbell 股價表現優於同業競爭對手，顯示公司在工業板塊中具有相對強勢的投資吸引力。"
+    },
+    {
+      "rank": 3,
+      "title": "Hubbell Inc (NYSE:HUBB): A Quality Dividend Stock with Strong Fundamentals",
+      "publisher": "ChartMill",
+      "date": "2026-03-13 09:32",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "分析指出公司具備穩健的資產負債表與強勁的獲利能力，且作為優質股息股，長期投資價值獲得肯定。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Hubbell Incorporated (HUBB) Presents at JPMorgan Industrials Conference 2026 Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-18 16:12",
+      "impact": "low",
+      "category": "法說會",
+      "reason": "公司於 JPMorgan 工業大會進行簡報，內容主要為營運概況與未來展望，屬於例行性資訊揭露，對股價無直接衝擊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

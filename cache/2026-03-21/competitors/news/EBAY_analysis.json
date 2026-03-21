@@ -1,0 +1,65 @@
+{
+  "ticker": "EBAY",
+  "company": "eBay",
+  "analysis_date": "2026-03-19",
+  "source_file": "cache/2026-03-19/competitors/news/EBAY.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 eBay 在 AI 執行力的提升持樂觀態度，且分析師調升目標價，顯示其作為高成長股息股的吸引力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Citi Raises eBay Target, Points to Strength in AI Execution",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 22:16",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "花旗銀行 (Citi) 基於 eBay 在人工智慧 (AI) 應用上的執行力表現優異，調升了目標價，並將其納入 14 檔高成長股息股名單，對股價有顯著正面激勵。"
+    },
+    {
+      "rank": 2,
+      "title": "Is eBay Stock Outperforming the S&P 500?",
+      "publisher": "Yahoo",
+      "date": "2026-03-16 15:10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "eBay 在過去一年表現優於 S&P 500 指數，分析師維持溫和樂觀態度，顯示市場對其基本面成長具備信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Klarna Chair Buys Shares As Lockup Ends And eBay Rollout Expands",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 06:15",
+      "impact": "medium",
+      "category": "合作夥伴關係",
+      "reason": "Klarna 與 eBay 的合作擴展進展順利，且內部人買入股份，顯示對雙方業務整合的長期價值認可。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "CNBC Halftime Report Final Trades: eBay, Bank of America, Uber Technologies, Pinnacle Financial Partners",
+      "publisher": "Benzinga",
+      "date": "2026-03-17 13:01",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此報導彙整了投資委員會對多檔股票的觀察，eBay 被列入觀察清單，屬於中性市場評論，未提供具體買賣建議。"
+    },
+    {
+      "rank": 2,
+      "title": "PROSY or EBAY: Which Is the Better Value Stock Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 15:40",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "此文為價值投資比較分析，旨在探討 PROSY 與 eBay 的相對價值，並非直接針對 eBay 的利多或利空消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

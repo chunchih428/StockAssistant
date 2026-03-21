@@ -1,0 +1,84 @@
+{
+  "ticker": "RUN",
+  "company": "Sunrun Inc.",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/RUN.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 2,
+    "bearish_count": 4,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "儘管股價在市場波動中偶有抗跌表現，但主要投行與分析機構紛紛下調目標價，反映出市場對 Sunrun 成長前景與獲利能力的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Sunrun (RUN) Rises As Market Takes a Dip: Key Facts",
+      "publisher": "Zacks",
+      "date": "2026-03-19T22:15:05Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導指出在整體市場回調時，Sunrun 股價展現出相對抗跌的韌性，顯示短期內有買盤支撐，選此篇作為代表是因為其涵蓋了最新的市場表現分析。"
+    },
+    {
+      "rank": 2,
+      "title": "Sunrun (RUN) Gains As Market Dips: What You Should Know",
+      "publisher": "Zacks",
+      "date": "2026-03-13T22:00:05Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "與 3 月 19 日的報導類似，強調了公司在市場下跌期間的逆勢上漲，反映出特定時間點的技術性反彈或市場資金配置偏好。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Freedom Capital Downgrades Sunrun (RUN), Cuts Price Target to $12",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-18T07:53:27Z",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Freedom Capital 將評級下調並將目標價大幅砍至 12 美元，直接反映了對公司未來現金流或市場競爭力的負面預期，對股價具備顯著壓抑效果。"
+    },
+    {
+      "rank": 2,
+      "title": "Sunrun price target lowered to $15 from $21 at Morgan Stanley",
+      "publisher": "TipRanks",
+      "date": "2026-03-14T14:01:27Z",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "摩根士丹利將目標價從 21 美元下調至 15 美元，作為大型投行，此舉顯著降低了市場對該股的估值預期。"
+    },
+    {
+      "rank": 3,
+      "title": "Sunrun (RUN) Suffers a Larger Drop Than the General Market: Key Insights",
+      "publisher": "Zacks",
+      "date": "2026-03-12T22:15:03Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出該股跌幅超過大盤，顯示在市場恐慌情緒下，投資人對 Sunrun 的拋售力道較強，反映出其高波動性與風險溢價。"
+    },
+    {
+      "rank": 4,
+      "title": "Evaluating Sunrun (RUN) After A Volatile Stretch And Mixed Long Term Returns",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-13T10:10:47Z",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "分析指出公司經歷了長期波動且報酬表現不一，對於追求穩定成長的長期投資人而言，這類基本面不確定性會抑制股價上漲動能。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Morgan Stanley Maintains an Equal Weight Rating on Sunrun Inc. (RUN)",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-19T00:27:59Z",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "維持「中立」評級代表分析師認為該股目前風險與報酬相當，未提供明確的買進或賣出訊號，對股價影響較小。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

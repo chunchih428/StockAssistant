@@ -1,0 +1,111 @@
+{
+  "ticker": "SPGI",
+  "company": "S&P Global",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/SPGI.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 2,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "S&P Global 透過併購 Enertel AI 與強化 Capital IQ Pro 的 AI 功能，積極擴展數位金融版圖，並獲得分析師調升目標價與正面評價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "BMO Capital Maintains Outperform on S&P Global, Raises Price Target to $495",
+      "publisher": "Benzinga",
+      "date": "2026-03-17 09:05",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "BMO Capital 分析師 Jeffrey Silber 維持「優於大盤」評級，並將目標價調升至 495 美元，顯示市場對其成長前景與獲利能力的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "S&P Global Acquires Enertel AI Corporation to Enhance Power Market Offering",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 12:30",
+      "impact": "high",
+      "category": "企業併購",
+      "reason": "公司完成對 Enertel AI 的收購，此舉將強化其在能源市場的 AI 分析能力，有助於提升產品競爭力與長期營收成長。"
+    },
+    {
+      "rank": 3,
+      "title": "S&P Global Deepens Capital IQ Pro Role With New AI And Drift AI",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 06:13",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "透過在 Capital IQ Pro 平台整合 AI 與 Drift 技術，S&P Global 成功強化其護城河，提升用戶黏著度與數據分析價值。"
+    },
+    {
+      "rank": 4,
+      "title": "Strong Analyst Sentiment on S&P Global (SPGI) Amid Strong Management Outlook",
+      "publisher": "Yahoo",
+      "date": "2026-03-15 07:48",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "SPGI 被列入未來 10 年最具潛力的股票名單，反映管理層對未來營運展望的強勁信心與市場的高度認可。"
+    },
+    {
+      "rank": 5,
+      "title": "S&P Global Extends Index License to Hyperliquid Perpetual Provider",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 15:56",
+      "impact": "medium",
+      "category": "業務拓展",
+      "reason": "透過授權 S&P 500 指數予交易平台推出永續合約，公司成功開拓加密貨幣與衍生性商品市場的新營收來源。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "S&P Global Inc. stock underperforms Wednesday when compared to competitors",
+      "publisher": "MarketWatch",
+      "date": "2026-03-18 16:37",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價近期表現落後於競爭對手，反映短期市場資金輪動或獲利了結壓力，但未改變公司基本面。"
+    },
+    {
+      "rank": 2,
+      "title": "S&P revises Cliffwater fund outlook to negative on redemption liquidity pressure",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 15:55",
+      "impact": "low",
+      "category": "信用評級",
+      "reason": "雖然維持 Cliffwater 基金的 A 級評級，但將展望調降為負面，顯示在流動性壓力下，評級機構需更謹慎評估市場風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Too Late To Consider S&P Global (SPGI) After Recent Share Price Weakness?",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 14:05",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "文章探討股價回調後的價值投資機會，屬於中立的市場觀點分析，未對股價產生直接驅動。"
+    },
+    {
+      "rank": 2,
+      "title": "Nobel Prize Winner Maria Corina Machado to Address CERAWeek by S&P Global",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 15:00",
+      "impact": "low",
+      "category": "活動公告",
+      "reason": "公司主辦的 CERAWeek 活動邀請知名人士演講，屬於常規企業品牌行銷活動，對財務面影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "S&P Global Market Intelligence Releases Annual Rankings of Best-Performing U.S. Community Banks",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 18:00",
+      "impact": "low",
+      "category": "市場研究",
+      "reason": "發布年度銀行排名是公司的例行研究業務，有助於維持品牌影響力，但對短期股價影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

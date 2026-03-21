@@ -1,0 +1,28 @@
+{
+  "ticker": "BLZE",
+  "company": "Backblaze",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/BLZE.json",
+  "summary": {
+    "total_articles": 1,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "Backblaze 透過與 StorageReview 合作展示其雲端儲存平台在處理大規模數據集方面的技術實力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Backblaze Partners with StorageReview to Make Record 314 Trillion Digits of Pi Widely Available",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 13:00",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "選擇 Yahoo 報導作為代表，因其內容完整涵蓋了合作細節。此合作案展示了 Backblaze 雲端儲存平台在處理超大規模數據集（314 兆位數的圓周率）的效能，有助於提升公司在 AI 時代高績效儲存領域的品牌知名度與技術信任度。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

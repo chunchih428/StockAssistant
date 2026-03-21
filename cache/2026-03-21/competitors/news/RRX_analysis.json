@@ -1,0 +1,47 @@
+{
+  "ticker": "RRX",
+  "company": "Regal Rexnord",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/RRX.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 0,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司面臨高層接班不確定性以及近期股價表現疲軟的雙重壓力。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Genco, Primoris, Woodward, Regal Rexnord, and VSE Corporation Shares Plummet, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-12",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "該報導指出 RRX 股價出現顯著下跌，反映出市場對公司近期表現或產業環境的負面情緒，對投資人信心造成直接衝擊。"
+    },
+    {
+      "rank": 2,
+      "title": "Regal Rexnord Extends CEO Pinkham's Service Through June 30 As Company Identifies Succession Candidates",
+      "publisher": "Benzinga",
+      "date": "2026-03-16",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "雖然延長任期可維持短期穩定，但 CEO 接班進度延宕通常會引發市場對公司治理與未來策略延續性的擔憂，故視為負面因素。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Regal Rexnord Provides Update on CEO Succession Process",
+      "publisher": "Yahoo",
+      "date": "2026-03-16",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "此新聞為公司針對接班進度的官方說明，內容與 Benzinga 報導重疊，選用此篇作為官方立場的補充，因其僅為程序性更新，未提供實質利多或利空資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

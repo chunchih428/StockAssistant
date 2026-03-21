@@ -1,0 +1,111 @@
+{
+  "ticker": "NOW",
+  "company": "ServiceNow",
+  "analysis_date": "2026-03-19",
+  "source_file": "cache/2026-03-19/competitors/news/NOW.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 13,
+    "bearish_count": 2,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "ServiceNow 透過擴大 AI 平台合作夥伴關係（如 Carahsoft 與 Cohesity）強化市場滲透率，並獲得分析師調升評級與機構投資人買入支持。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "ServiceNow (NOW) Gets Upgraded to Outperform From Neutral by BNP Paribas",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 12:39",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "BNP Paribas 將評級調升至優於大盤，顯示市場對其 AI 轉型與長期成長潛力信心增強。"
+    },
+    {
+      "rank": 2,
+      "title": "ServiceNow Expands AI Reach via Partnerships: More Upside Ahead?",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 14:05",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "與 Microsoft 與 OpenAI 等巨頭的 AI 合作加速企業採用率，直接提升營收成長預期。"
+    },
+    {
+      "rank": 3,
+      "title": "ServiceNow Cohesity Alliance Targets Resilient AI Agents And Stickier Enterprise Workflows",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 13:08",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 Cohesity 合作提升 AI 代理的資料安全性與韌性，有助於增加企業客戶的黏著度。"
+    },
+    {
+      "rank": 4,
+      "title": "ServiceNow (NOW) Expands Carahsoft Partnership to Reach Broader Commercial Markets",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 15:54",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "透過 Carahsoft 擴大經銷通路，將 AI 平台觸角延伸至北美更多商業與政府領域。"
+    },
+    {
+      "rank": 5,
+      "title": "Trade Tracker: Stephanie Link buys ServiceNow",
+      "publisher": "CNBC",
+      "date": "2026-03-17 13:02",
+      "impact": "medium",
+      "category": "機構投資",
+      "reason": "Hightower 投資長 Stephanie Link 公開買入，顯示專業機構投資人對其當前估值的認可。"
+    },
+    {
+      "rank": 6,
+      "title": "Jim Cramer on ServiceNow (NOW): “I Do Think That the Company Represents Actual Value at These Prices”",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 22:16",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "知名財經評論員 Jim Cramer 強調該股在當前價格具備投資價值，有助於提振散戶信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "ServiceNow CEO delivers a troubling AI warning to new grads",
+      "publisher": "Yahoo",
+      "date": "2026-03-16 17:17",
+      "impact": "medium",
+      "category": "高層言論",
+      "reason": "執行長 Bill McDermott 預測 AI 將導致畢業生失業率飆升至 35%，引發市場對 AI 社會衝擊與監管風險的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Mark Cuban Dismisses Gen Z Unemployment Fears As 'Wrong,' Countering Bill Gates' Warning",
+      "publisher": "Benzinga",
+      "date": "2026-03-18 02:15",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "雖然 Mark Cuban 反駁了失業論，但此議題持續延燒，凸顯市場對 ServiceNow 業務與勞動力市場關聯性的負面觀感。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "FJTSY vs. NOW: Which Stock Is the Better Value Option?",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 15:40",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "僅為兩檔股票的價值比較分析，未對 ServiceNow 本身營運產生實質影響。"
+    },
+    {
+      "rank": 2,
+      "title": "ServiceNow (NOW) Surpasses Market Returns: Some Facts Worth Knowing",
+      "publisher": "Yahoo",
+      "date": "2026-03-16 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "回顧性股價表現報導，屬於市場常規數據更新。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
