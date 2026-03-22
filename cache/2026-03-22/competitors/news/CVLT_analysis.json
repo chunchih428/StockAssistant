@@ -1,0 +1,75 @@
+{
+  "ticker": "CVLT",
+  "company": "Commvault Systems, Inc.",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/CVLT.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "Mixed",
+    "key_theme": "公司持續推出 AI 驅動的數據韌性與威脅防禦產品，但股價近期面臨顯著回調與分析師目標價下調的壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Commvault Extends Enterprise Resilience to Structured and AI Data with Real-Time Governance Controls",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 12:30",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Commvault 擴展其數據韌性平台，納入結構化數據與 AI 數據的即時治理控制，有助於強化其在企業級市場的競爭力與產品護城河。"
+    },
+    {
+      "rank": 2,
+      "title": "Commvault Expands Threat Scan with Layered Threat Detection to Advance Verified Clean Recoveries",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 12:30",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "透過分層威脅檢測技術提升數據恢復的可靠性，直接回應企業對抗勒索軟體與網路攻擊的迫切需求，有利於提升客戶黏著度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "DA Davidson Maintains Buy on CommVault Systems, Lowers Price Target to $125",
+      "publisher": "Benzinga",
+      "date": "2026-03-17 10:17",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "儘管 DA Davidson 維持買入評級，但將目標價下調至 $125，反映出市場對其短期成長動能或估值的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Commvault Systems (CVLT) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價表現弱於大盤，顯示短期賣壓沉重，技術面呈現疲軟態勢。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Assessing Commvault Systems (CVLT) Valuation After A Sharp Share Price Pullback",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 08:16",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對股價回調 34% 進行估值分析，屬於中性的市場觀察報告，旨在探討投資價值而非直接影響股價走勢。"
+    },
+    {
+      "rank": 2,
+      "title": "Commvault Hits the Ring to Take on Cyberattacks, Identity Theft, and AI-driven Threats in a ResOps Faceoff at the RSAC™ 2026 Conference",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 12:30",
+      "impact": "low",
+      "category": "市場行銷",
+      "reason": "公司參與 RSAC™ 2026 會議進行品牌行銷與技術展示，屬於常規的市場推廣活動，對股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

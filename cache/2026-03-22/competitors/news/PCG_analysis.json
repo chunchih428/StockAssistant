@@ -1,0 +1,46 @@
+{
+  "ticker": "PCG",
+  "company": "Pacific Gas & Electric",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/PCG.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "華爾街投行與避險基金對 PG&E 的估值看法轉趨樂觀，主要受惠於野火政策風險改善及目標價調升。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "PG&E Corp. (PCG) Upgraded by UBS to Buy",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 05:59",
+      "impact": "high",
+      "category": "投資評級調整",
+      "reason": "瑞銀 (UBS) 將 PCG 評級上調至「買入」，並將其列為避險基金青睞的 10 大受監管電力股之一，顯示機構投資人對其基本面信心增強。"
+    },
+    {
+      "rank": 2,
+      "title": "PG&E (PCG) Price Target Raised by Morgan Stanley and Barclays",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 18:34",
+      "impact": "medium",
+      "category": "投資評級調整",
+      "reason": "摩根士丹利 (Morgan Stanley) 與巴克萊 (Barclays) 同步調升目標價，反映市場對公司在 20 美元以下價位的價值重估，吸引避險基金資金配置。"
+    },
+    {
+      "rank": 3,
+      "title": "Why The PG&E (PCG) Narrative Is Shifting On Wildfire Policy Risks And Valuation Debates",
+      "publisher": "Yahoo",
+      "date": "2026-03-14 08:08",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場對於野火政策風險的擔憂減輕，推動公允價值預估從 22.13 美元上調至 22.40 美元，顯示公司風險溢價正在收斂。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

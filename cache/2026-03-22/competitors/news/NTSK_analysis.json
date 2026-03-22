@@ -1,0 +1,56 @@
+{
+  "ticker": "NTSK",
+  "company": "Netskope, Inc.",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/NTSK.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "bearish",
+    "key_theme": "儘管公司發布了 AI 安全產品，但因 2027 財年財測不如預期，導致股價重挫 17.5 %。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Netskope (NTSK) Is Down 17.5% After AI Security Launch And 2027 Guidance Update - What's Changed",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-13T02:12:33Z",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "該報導涵蓋了公司股價下跌 17.5 % 的核心原因，即 2027 財年財測指引未達市場預期，即便公司同時推出了新的 AI 安全產品，市場仍對其成長動能感到擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Netskope: Fiscal Q4 Earnings Snapshot",
+      "publisher": "Associated Press Finance",
+      "date": "2026-03-11T20:36:22Z",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "僅提供第四季財報數據快照，屬於客觀事實陳述，未包含深度市場解讀，故歸類為中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Netskope (NTSK) Q4 2026 Earnings Call Transcript",
+      "publisher": "Motley Fool",
+      "date": "2026-03-11T23:00:04Z",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "提供完整的財報電話會議逐字稿，為投資人提供原始資訊來源，本身不帶有分析師觀點。"
+    },
+    {
+      "rank": 3,
+      "title": "Netskope Q4 Earnings Call Highlights",
+      "publisher": "MarketBeat",
+      "date": "2026-03-11T22:52:19Z",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "整理了財報會議的重點摘要，屬於資訊彙整性質，未對股價後續走勢做出明確評價。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

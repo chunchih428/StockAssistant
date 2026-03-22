@@ -1,0 +1,28 @@
+{
+  "ticker": "VISN",
+  "company": "Vistance Networks",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/VISN.json",
+  "summary": {
+    "total_articles": 1,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司透過出售資產改善資產負債表，但市場認為目前股價估值過高，缺乏買入誘因。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Vistance Networks: Not A Buy Just Yet — Vistance Networks sold its CCS division to strengthen its balance sheet and refocus on growth, but shares look overvalue",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-16 09:26",
+      "impact": "medium",
+      "category": "財務策略",
+      "reason": "儘管公司出售 CCS 部門以優化資產負債表並聚焦成長，但分析師指出當前股價已反映過高估值，缺乏進場價值，因此給予看空評級。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-03-21",
+  "source_file": "cache/2026-03-21/holdings/news/NFLX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 4,
+    "neutral_count": 7,
+    "overall_sentiment": "bullish",
+    "key_theme": "Netflix 轉向深耕原創內容與直播活動，並在放棄收購 Warner Bros. Discovery 後展現財務彈性，獲得分析師看好其長期成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Citi shares 3 reasons to like Netflix stock",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 11:44",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "花旗銀行將 Netflix 評級上調至買入，指出多項催化劑將推動股價，包括定價權提升及直播業務的潛在獲利能力。"
+    },
+    {
+      "rank": 2,
+      "title": "BTS Comeback Becomes Netflix's Biggest Live Bet Yet",
+      "publisher": "Benzinga",
+      "date": "2026-03-20 08:16",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "透過 BTS 演唱會等直播活動，Netflix 成功將觸角延伸至全球 190 個國家，展現其在非影視內容領域的變現能力。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix Is $2.8 Billion Richer After Losing Warner to Paramount. What It Could Do With the Cash.",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 12:57",
+      "impact": "medium",
+      "category": "財務動態",
+      "reason": "放棄收購 Warner Bros. Discovery 後，Netflix 保留了 28 億美元現金，市場預期這將用於股票回購或加碼原創內容投資。"
+    },
+    {
+      "rank": 4,
+      "title": "Netflix Challenges Franchise Era With Massive Originals Push",
+      "publisher": "Benzinga",
+      "date": "2026-03-19 12:29",
+      "impact": "low",
+      "category": "產品策略",
+      "reason": "公司轉向投資原創電影與戲劇，減少對續集依賴，有助於建立獨特的內容護城河。"
+    },
+    {
+      "rank": 5,
+      "title": "What if Netflix Becomes the Next Trillion-Dollar Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 19:20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析師探討其作為顛覆性力量，具備邁向兆美元市值的長期成長潛力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Netflix (NFLX) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 21:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日下跌 3.11%，跌破 92 美元關卡，顯示短期技術面承壓，賣壓較大盤更為顯著。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix Balances EU Rule Talks With BTS Event And Franchise Wins",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 09:06",
+      "impact": "low",
+      "category": "法規監管",
+      "reason": "執行長正與歐盟監管機構討論串流媒體營運規則，潛在的法規限制可能增加營運成本或影響內容投放策略。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Netflix Q1 2026 Preview: The 3 Metrics That Could Move the Stock",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 16:40",
+      "impact": "medium",
+      "category": "財報預測",
+      "reason": "市場聚焦即將公布的 Q1 財報，分析師列出三個關鍵指標，目前市場情緒處於觀望階段。"
+    },
+    {
+      "rank": 2,
+      "title": "Jim Cramer on Netflix: “You Buy Some Here, You Buy Some a Little Bit Lower”",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 17:19",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "Jim Cramer 給出分批佈局的建議，顯示對長期看好但對短期波動持中性態度。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix (NFLX) Reveals An Eight-Part Series on the Collapse of FTX",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 20:14",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "宣布製作關於 FTX 崩盤的紀錄片，屬於正常的內容擴充，對股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,102 @@
+{
+  "ticker": "NET",
+  "company": "Cloudflare",
+  "analysis_date": "2026-03-21",
+  "source_file": "cache/2026-03-21/holdings/news/NET.json",
+  "summary": {
+    "total_articles": 19,
+    "bullish_count": 13,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Cloudflare 憑藉與 Coinbase 的 AI 支付合作、SentinelOne 的資安整合以及 Mastercard 的戰略聯盟，展現強勁的成長動能與市場擴張力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare shares are trading higher following reports suggesting that Coinbase is seeking a stablecoin deal with the company to power AI agent payments.",
+      "publisher": "Benzinga",
+      "date": "2026-03-18 15:51",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "與 Coinbase 合作開發 AI 代理支付系統，為 Cloudflare 開闢了全新的金融科技營收渠道，市場反應正面，推動股價顯著上漲。"
+    },
+    {
+      "rank": 2,
+      "title": "Cloudflare: Right Time To Dive In As Growth Accelerates, Stablecoin Opportunity (Rating Upgrade)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-20 08:15",
+      "impact": "high",
+      "category": "財報與評級",
+      "reason": "分析師指出公司營收成長率維持在 30% 以上，符合「Rule of 40」指標，且穩定幣機會進一步提升了長期成長潛力，給予評級調升。"
+    },
+    {
+      "rank": 3,
+      "title": "SentinelOne and Cloudflare Expand Partnership to Deliver Real-Time Threat Detection and Automated Response for Enterprises",
+      "publisher": "Yahoo",
+      "date": "2026-03-16 13:00",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "透過整合 Cloudflare Logpush 與 SentinelOne 的 AI 安全平台，強化了企業級威脅偵測能力，有助於鞏固市場地位並提升客戶黏著度。"
+    },
+    {
+      "rank": 4,
+      "title": "Cloudflare (NET), Mastercard (MA) Partner to Expand Cyber Defense for Small Businesses and Critical Infrastructure",
+      "publisher": "Yahoo",
+      "date": "2026-03-15 08:55",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 Mastercard 建立合作關係，針對中小企業提供網路防禦，此舉有助於擴大 Cloudflare 在非科技領域的市佔率。"
+    },
+    {
+      "rank": 5,
+      "title": "Cloudflare Surges 8%: NVIDIA’s AI Boom Is Coming for the Edge and This Stock Is Ready",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-03-18 18:34",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場看好 Cloudflare 在邊緣運算領域的佈局，認為其能受惠於 NVIDIA 引領的 AI 基礎設施需求爆發。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare (NET) Dips More Than Broader Market: What You Should Know",
+      "publisher": "Zacks",
+      "date": "2026-03-20 22:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價出現回調，表現弱於大盤，主要反映短期獲利了結賣壓，而非公司基本面惡化。"
+    },
+    {
+      "rank": 2,
+      "title": "Cloudflare's Stablecoin: A Real Catalyst or Short-Term Hype?",
+      "publisher": "MarketBeat",
+      "date": "2026-03-19 18:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場對與 Coinbase 的合作持審慎態度，質疑其是否為長期營收驅動力，或僅是短期炒作題材。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Micron, Carvana, Cloudflare, Comcast And Barrick Mining: Why These 5 Stocks Are On Investors' Radars Today",
+      "publisher": "Benzinga",
+      "date": "2026-03-18 21:29",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場盤點類新聞，提及 Cloudflare 受到投資人關注，未對股價產生實質影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Renewed Park City Bid Puts Focus On Vail Resorts Capital Choices",
+      "publisher": "Yahoo",
+      "date": "2026-03-15 15:06",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "報導內容聚焦於執行長 Matthew Prince 的個人投資行為，與 Cloudflare 本身業務無直接關聯。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

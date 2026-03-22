@@ -1,0 +1,75 @@
+{
+  "ticker": "KSS",
+  "company": "Kohl's",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/KSS.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 1,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司營收連續 4 年下滑，儘管管理層試圖透過獎金激勵推動轉型，但分析師對其未來獲利能力持保留態度，導致目標價遭到下調。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Kohl's Plans Above-Target Employee Bonuses as Turnaround Shows Early Progress",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 13:10",
+      "impact": "low",
+      "category": "公司營運",
+      "reason": "公司宣布發放高於預期的員工獎金，顯示管理層認為轉型計畫已取得初步進展，對內部士氣與營運效率有正面暗示。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Kohl’s price target lowered to $14 from $20 at Citi",
+      "publisher": "Yahoo",
+      "date": "2026-03-14 13:40",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "花旗分析師 Paul Lejuez 將目標價大幅下調至 14 美元，反映市場對其長期獲利能力的擔憂，對股價構成直接壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "How The Investment Story For Kohl's (KSS) Is Shifting After Guidance And Target Cuts",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-18 01:09",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "文章深入分析了財報後的指引下調，指出投資邏輯已發生負面轉變，對投資人信心造成打擊。"
+    },
+    {
+      "rank": 3,
+      "title": "Kohl’s (KSS) Releases Results for Quarter and Year to January 31, 2026",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 15:43",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "財報顯示營收連續 4 年下滑，且被列為 2026 年被放空最多的股票之一，基本面疲軟且市場情緒極度悲觀。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "No 'grand plan' to close more Kohl's, CEO says",
+      "publisher": "Courier Post",
+      "date": "2026-03-19 09:05",
+      "impact": "low",
+      "category": "公司策略",
+      "reason": "此篇選為代表，涵蓋了 USA TODAY 關於關店傳聞的報導。CEO 澄清無大規模關店計畫，旨在穩定市場對實體店面縮減的疑慮。"
+    },
+    {
+      "rank": 2,
+      "title": "Kohl's’s Q4 Earnings Call: Our Top 5 Analyst Questions",
+      "publisher": "StockStory",
+      "date": "2026-03-17 09:00",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "列出分析師對財報的關鍵提問，屬於資訊整理性質，未直接對股價產生方向性影響，但提供了後續觀察重點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

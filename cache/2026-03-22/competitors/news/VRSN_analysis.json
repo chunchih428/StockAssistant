@@ -1,0 +1,47 @@
+{
+  "ticker": "VRSN",
+  "company": "VeriSign",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/VRSN.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 0,
+    "overall_sentiment": "neutral",
+    "key_theme": "近期股價表現呈現震盪，主要受市場相對強弱度與競爭對手表現影響，缺乏明確的基本面利多或利空驅動。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "VeriSign Inc. stock outperforms competitors on strong trading day",
+      "publisher": "MarketWatch",
+      "date": "2026-03-13 17:05",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該新聞反映公司在特定交易日展現出優於同業的股價表現，顯示短期內買盤動能強勁，但缺乏具體基本面支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "VeriSign Inc. stock underperforms Wednesday when compared to competitors",
+      "publisher": "MarketWatch",
+      "date": "2026-03-18 17:06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此報導指出公司股價表現落後於競爭對手，反映出市場資金在近期對該標的興趣減弱，選此篇作為代表是因為其為最新發生的市場表現觀察。"
+    },
+    {
+      "rank": 2,
+      "title": "VeriSign Inc. stock underperforms Monday when compared to competitors despite daily gains",
+      "publisher": "MarketWatch",
+      "date": "2026-03-16 17:06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管當日股價呈現上漲，但相較於同業表現仍顯疲軟，顯示其在產業板塊中的相對強弱度 (Relative Strength) 處於劣勢。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

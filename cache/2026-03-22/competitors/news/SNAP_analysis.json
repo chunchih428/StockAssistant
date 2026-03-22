@@ -1,0 +1,84 @@
+{
+  "ticker": "SNAP",
+  "company": "Snap",
+  "analysis_date": "2026-03-19",
+  "source_file": "cache/2026-03-19/competitors/news/SNAP.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 1,
+    "bearish_count": 5,
+    "neutral_count": 3,
+    "overall_sentiment": "bearish",
+    "key_theme": "Snap 股價處於歷史低檔，儘管公司積極推動 AI 與 AR 廣告創新以尋求獲利，但仍面臨監管壓力與廣告市場波動的雙重挑戰。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Snap Inc.: AI-Driven Margin Expansion Sets The Stage For A Medium-Term Re-Rating",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-16 10:02",
+      "impact": "medium",
+      "category": "財務展望",
+      "reason": "分析師看好 Snap 透過 AI 驅動的效率提升與 AR 眼鏡產品的推出，認為公司正處於利潤率擴張的轉折點，有助於中長期估值重估。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "UK watchdogs press Meta, TikTok, Snap and YouTube to block children",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 07:43",
+      "impact": "high",
+      "category": "法規監管",
+      "reason": "英國監管機構要求大型社群平台加強兒童安全保護措施，此舉可能增加合規成本並限制用戶增長，選用此篇報導是因為其涵蓋了監管壓力對業務營運的實質威脅。"
+    },
+    {
+      "rank": 2,
+      "title": "Snap (SNAP) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "publisher": "Zacks",
+      "date": "2026-03-11 22:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Snap 股價表現弱於大盤，顯示投資人對其基本面信心不足，反映出市場對其獲利能力的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Cautious Wall Street Sentiment on Snap Inc. (SNAP) Amid Advertising Volatility",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-10 05:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "華爾街對 Snap 持謹慎態度，主要歸因於數位廣告市場的波動性，這直接影響了公司的核心營收來源。"
+    },
+    {
+      "rank": 4,
+      "title": "A Look At Snap (SNAP) Valuation As Shares Trade Near Recent Lows",
+      "publisher": "Yahoo",
+      "date": "2026-03-12 15:10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價跌至 4.86 美元附近的低點，顯示市場對其估值支撐力道存疑，缺乏利多消息驅動股價反彈。"
+    },
+    {
+      "rank": 5,
+      "title": "Market Chatter: Snapchat, TikTok Usage Continues Among Australian Teens Despite Social Media Ban",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 09:44",
+      "impact": "low",
+      "category": "法規監管",
+      "reason": "儘管澳洲實施社群媒體禁令，Snapchat 仍維持使用率，但此類法規風險持續存在，對長期用戶增長構成潛在負面影響。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Snap Bets On IPL AR Push As Shares Trade Below Targets",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 06:13",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "Snap 針對印度市場推出 IPL 相關 AR 廣告功能，屬於常規的產品行銷策略，雖有助於提升用戶互動，但對短期財務報表的影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

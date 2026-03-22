@@ -1,0 +1,75 @@
+{
+  "ticker": "CRGY",
+  "company": "Crescent Energy",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/CRGY.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管近期股價出現短期回調，但華爾街投行如 Wells Fargo 與 Piper Sandler 紛紛上調目標價，顯示市場對其資本結構策略與長期基本面持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Here’s Why Piper Sandler Increased Crescent Energy’s (CRGY) Price Target To $16",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-18",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Piper Sandler 將目標價上調至 16 美元，反映了機構投資人對該公司資產組合與營運效率的信心，此篇報導詳細解釋了調升背後的財務邏輯，具備高度參考價值。"
+    },
+    {
+      "rank": 2,
+      "title": "Wells Fargo Maintains Overweight on Crescent Energy, Raises Price Target to $14",
+      "publisher": "Benzinga",
+      "date": "2026-03-17",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Wells Fargo 分析師 Hanwen Chang 維持「加碼」評級並調升目標價至 14 美元，顯示賣方研究機構對該股的長期成長潛力持肯定態度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Crescent Energy (CRGY) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "publisher": "Zacks",
+      "date": "2026-03-16",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價在市場整體上漲時出現逆勢下跌，顯示短期內存在賣壓或投資人對特定風險因素的擔憂，此篇報導彙整了近期股價表現不佳的技術性因素。"
+    },
+    {
+      "rank": 2,
+      "title": "Crescent Energy (CRGY) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "publisher": "Zacks",
+      "date": "2026-03-10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該股跌幅大於大盤，反映出市場對能源類股波動性的敏感度，儘管屬於短期現象，但仍顯示投資人情緒較為脆弱。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Crescent Energy’s ESOP Shelf Filing Quietly Redefining Its Capital Structure Strategy for CRGY?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-19",
+      "impact": "medium",
+      "category": "公司治理",
+      "reason": "針對公司提交的 ESOP 申報文件進行分析，探討其對資本結構的潛在影響，屬於中性觀察，旨在評估長期股權稀釋或資本配置策略的變動。"
+    },
+    {
+      "rank": 2,
+      "title": "Piper Sandler Boosts Crescent Energy (CRGY) Target while Oil Market Focus Shifts to Iran Risk",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此篇報導結合了分析師調升目標價與地緣政治風險（伊朗因素），將公司個股表現與宏觀能源市場風險掛鉤，影響力呈現多空抵銷。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

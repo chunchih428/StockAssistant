@@ -1,0 +1,75 @@
+{
+  "ticker": "MKSI",
+  "company": "MKS Inc.",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/MKSI.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管近期股價因財報後調整出現波動，但 MKS Instruments 受惠於 AI 需求成長與終端市場復甦，長期投資價值仍受市場關注。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Is MKS Inc. (MKSI) One of the Best AI Stocks to Look at",
+      "publisher": "Yahoo",
+      "date": "2026-03-16",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "將 MKS 列入 15 檔具備潛力的 AI 概念股，顯示公司在 AI 供應鏈中的技術地位受到市場認可，有助於提升投資人信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Assessing MKS Instruments (MKSI) Valuation After AI Demand And Photonics Launch Fuel Strong Share Price Gains",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-12",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "AI 需求與光子學產品線的推出成功推動股價上漲，顯示公司產品組合具備強勁的成長動能與市場競爭力。"
+    },
+    {
+      "rank": 3,
+      "title": "MKS (MKSI) Gained from End Markets Picking Up",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-11",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "終端市場需求回升直接帶動公司營收表現，反映出半導體設備產業景氣循環的正面訊號。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "MKS (MKSI) Down 6.8% Since Last Earnings Report: Can It Rebound?",
+      "publisher": "Yahoo",
+      "date": "2026-03-19",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "財報公布後股價下跌 6.8 %，顯示市場對其獲利成長動能或財測指引存在疑慮，短期內面臨修正壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "TER vs. MKSI: Which Semiconductor Stock Is a Better Buy Now?",
+      "publisher": "Yahoo",
+      "date": "2026-03-19",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析指出 Teradyne 在 AI 測試需求與獲利動能上優於 MKS，導致資金可能產生排擠效應，對 MKSI 股價相對不利。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "MKSI Gets SBTi Approval for 2030 Science-Based Emission Targets",
+      "publisher": "Yahoo",
+      "date": "2026-03-13",
+      "impact": "low",
+      "category": "ESG 發展",
+      "reason": "獲得 SBTi 減碳目標認證雖有助於提升企業形象與長期 ESG 評級，但對短期股價與財務表現影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

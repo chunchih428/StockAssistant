@@ -1,0 +1,48 @@
+{
+  "ticker": "NOVT",
+  "company": "Novanta",
+  "analysis_date": "2026-03-19",
+  "source_file": "cache/2026-03-19/competitors/news/NOVT.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "Neutral to Bullish",
+    "key_theme": "公司與 NVIDIA 建立 AI 檢測實驗室合作關係，雖受總體經濟滯脹擔憂影響，但技術整合潛力提供長期支撐。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Novanta Joins NVIDIA Halos AI Systems Inspection Lab To Validate Interoperability Between Novanta Products And Nvidia Platform Safety Requirements",
+      "publisher": "Benzinga",
+      "date": "2026-03-16 16:49",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "選擇此篇作為代表，因其詳細說明了與 NVIDIA 的合作旨在驗證產品與 AI 平台安全要求的互操作性，這對 Novanta 在高階 AI 檢測市場的技術地位有顯著加分。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Novanta, Greenbrier, Casella Waste Systems, and Rivian Shares Plummet, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-13 21:19",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受總體經濟環境影響，市場對滯脹風險的擔憂導致股價下跌，反映了宏觀經濟因素對公司短期股價的負面壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "A Look At Novanta (NOVT) Valuation As Recent Returns Remain Under Pressure",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 02:07",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "文章僅對近期股價表現進行回顧與估值觀察，股價微幅上漲 1%，未提供具體基本面變動資訊，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

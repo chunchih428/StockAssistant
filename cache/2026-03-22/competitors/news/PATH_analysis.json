@@ -1,0 +1,129 @@
+{
+  "ticker": "PATH",
+  "company": "UiPath",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/PATH.json",
+  "summary": {
+    "total_articles": 16,
+    "bullish_count": 7,
+    "bearish_count": 3,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管近期股價表現疲軟且面臨分析師下調目標價的壓力，但公司在第四季財報中展現了強勁的營收成長、首次實現 GAAP 全年獲利以及與 Microsoft 和 Deloitte 的策略合作，顯示其在自動化市場的長期競爭力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "PATH Delivers Strong Quarter to Close its Fiscal Year: Is PATH a Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-03-13",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第四季營收成長 14 %，ARR 達到 18.53 億美元，並實現首次全年 GAAP 獲利，顯示基本面顯著改善。"
+    },
+    {
+      "rank": 2,
+      "title": "UiPath Collaborates with Microsoft to Accelerate Security and Confidence for Automated Workflows",
+      "publisher": "Yahoo",
+      "date": "2026-03-18",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 Microsoft 建立安全自動化整合，有助於提升企業客戶對自動化流程的信任度，進而推動產品採用率。"
+    },
+    {
+      "rank": 3,
+      "title": "UiPath Deloitte Alliance Puts Agentic ERP And Valuation In Focus",
+      "publisher": "Yahoo",
+      "date": "2026-03-13",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 Deloitte 擴大聯盟並推出 Agentic ERP 解決方案，強化了公司在企業級 AI 代理市場的地位。"
+    },
+    {
+      "rank": 4,
+      "title": "Needham Upgrades UiPath (PATH)",
+      "publisher": "Fintel",
+      "date": "2026-03-13",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "獲得 Needham 的評級上調，反映市場對其財報表現與未來成長潛力的正面認可。"
+    },
+    {
+      "rank": 5,
+      "title": "WorkFusion, a UiPath company, Wins 2026 FinTech Breakthrough Award",
+      "publisher": "Yahoo",
+      "date": "2026-03-19",
+      "impact": "low",
+      "category": "獎項榮譽",
+      "reason": "子公司 WorkFusion 獲得金融科技獎項，增強了公司在金融合規與 AI 代理領域的品牌聲譽。"
+    },
+    {
+      "rank": 6,
+      "title": "Is It Time to Buy UiPath With the Stock Beaten Down?",
+      "publisher": "Motley Fool",
+      "date": "2026-03-16",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析指出股價今年下跌約 30 % 後，估值可能已具備吸引力，為長期投資者提供潛在買點。"
+    },
+    {
+      "rank": 7,
+      "title": "UiPath and Unified Automation: What's Driving ARR Growth",
+      "publisher": "Yahoo",
+      "date": "2026-03-13",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "強調統一自動化平台策略成功推動 ARR 成長，並在企業工具整合趨勢中佔據優勢。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "BMO Capital Maintains Market Perform on UiPath, Lowers Price Target to $14",
+      "publisher": "Benzinga",
+      "date": "2026-03-16",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "BMO 分析師 Keith Bachman 下調目標價至 14 美元，主因是要求公司提供更多 AI 營收貢獻的實質證據。"
+    },
+    {
+      "rank": 2,
+      "title": "Is PATH Stock a Hold After Q4 Beat, Buybacks, and Margin Gains?",
+      "publisher": "Yahoo",
+      "date": "2026-03-13",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "儘管財報亮眼，但市場仍對客戶留存率趨勢及自動化領域的競爭壓力表示擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "This Artificial Intelligence (AI) Stock Is Down Around 30% This Year",
+      "publisher": "Yahoo",
+      "date": "2026-03-16",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價年初至今下跌 30 %，反映出市場對其成長動能的質疑與投資人信心不足。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "UiPath’s Q4 Earnings Call: Our Top 5 Analyst Questions",
+      "publisher": "Yahoo",
+      "date": "2026-03-18",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "整理分析師對財報的關鍵提問，屬於資訊整理性質，未直接影響股價方向。"
+    },
+    {
+      "rank": 2,
+      "title": "UiPath, Inc. (PATH) is Attracting Investor Attention: Here is What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-16",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅報導該股近期受到 Zacks.com 用戶關注，屬於市場熱度觀察，無明確多空立場。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

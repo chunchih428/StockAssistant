@@ -1,0 +1,84 @@
+{
+  "ticker": "PPL",
+  "company": "PPL",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/PPL.json",
+  "summary": {
+    "total_articles": 13,
+    "bullish_count": 7,
+    "bearish_count": 1,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於資料中心電力需求強勁、 230 億美元基礎設施投資計畫以及電網費率調升協議， PPL 股價表現優於大盤。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "BMO Capital Maintains Outperform on PPL, Raises Price Target to $42",
+      "publisher": "Benzinga",
+      "date": "2026-03-16 09:39",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 James Thalacker 維持優於大盤評級，並將目標價調升至 42 美元，反映對公司長期成長潛力的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "PPL Corporation Trades Above 50 & 200-Day SMAs: How to Play the Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-03-16 17:17",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價站上 50 日與 200 日移動平均線，顯示技術面強勢，且受惠於資料中心需求與 230 億美元基建計畫支撐。"
+    },
+    {
+      "rank": 3,
+      "title": "PPL Reaches Settlement With Pennsylvania Public Utility Commission Over Approval For Base Distribution Rates Hike",
+      "publisher": "Benzinga",
+      "date": "2026-03-13 12:02",
+      "impact": "medium",
+      "category": "法規與費率",
+      "reason": "達成 2.75 億美元的費率和解協議，將有助於改善營收結構並支持電網現代化投資。"
+    },
+    {
+      "rank": 4,
+      "title": "Is PPL Stock Outperforming the S&P 500?",
+      "publisher": "Yahoo",
+      "date": "2026-03-16 12:12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "年初至今表現優於 S&P 500 指數，顯示市場對該公用事業股的防禦性與成長性持正面態度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "PPL (PPL) Suffers a Larger Drop Than the General Market",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 22:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "近期交易日下跌 1.05 %，表現弱於大盤，屬於短期獲利回吐或市場波動影響。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Mizuho Maintains Neutral on PPL, Raises Price Target to $40",
+      "publisher": "Benzinga",
+      "date": "2026-03-16 08:54",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "分析師 Anthony Crowdell 維持中性評級，但隨市場環境調整目標價至 40 美元，顯示估值已趨於合理。"
+    },
+    {
+      "rank": 2,
+      "title": "How The PPL (PPL) Investment Story Is Shifting With New Targets And Guidance",
+      "publisher": "Yahoo",
+      "date": "2026-03-14 12:11",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "公允價值估值模型微幅上調至 40.67 美元，變動幅度極小，對股價影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

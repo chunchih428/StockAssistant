@@ -1,0 +1,120 @@
+{
+  "ticker": "PLTR",
+  "company": "Palantir Technologies Inc.",
+  "analysis_date": "2026-03-20",
+  "source_file": "cache/2026-03-20/competitors/news/PLTR.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 4,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Palantir 憑藉強勁的 AI 軟體平台與國防合約持續擴張業務，儘管市場對其高估值與競爭壓力存有疑慮，但機構評級與商業合作動能依然強勁。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "UBS Maintains Buy on Palantir Technologies, Raises Price Target to $200",
+      "publisher": "Benzinga",
+      "date": "2026-03-18 09:24",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "UBS 分析師 Karl Keirstead 維持買入評級並大幅調升目標價至 200 美元，顯示機構對其長期成長潛力與 AI 變現能力的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "A Look At Palantir Technologies (PLTR) Valuation After Major U.S. Army Deal And New AI Partnerships",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 06:04",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "獲得 100 億美元的美國陸軍長期合約，為公司營收提供強大且穩定的護城河，是支撐股價的核心利多。"
+    },
+    {
+      "rank": 3,
+      "title": "Palantir and Moder Partner to Transform Mortgage Industry",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 10:59",
+      "impact": "medium",
+      "category": "商業合作",
+      "reason": "與 Moder 合作並以 Freedom Mortgage 作為首個試點客戶，顯示 Palantir 的 AI 平台成功切入房貸產業，拓展非國防領域營收。"
+    },
+    {
+      "rank": 4,
+      "title": "Is GE’s (GE) Expanded Palantir AI Deal Quietly Redefining Its Long-Term Efficiency Narrative?",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 05:03",
+      "impact": "medium",
+      "category": "商業合作",
+      "reason": "與 GE Aerospace 擴大合作，導入代理 AI (Agentic AI) 以提升工業效率，驗證了其軟體在大型製造業的應用價值。"
+    },
+    {
+      "rank": 5,
+      "title": "How Palantir’s (PLTR) Ondas and World View Partnership Expands Its AI Defense Push",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 14:11",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "透過與 Ondas 和 World View 的合作，進一步強化在國防與航太領域的 AI 部署能力，持續鞏固競爭優勢。"
+    },
+    {
+      "rank": 6,
+      "title": "Software Stock Could Bounce After Bullish Crossover",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 19:10",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "股價突破 50 日移動平均線，技術面出現黃金交叉訊號，吸引動能交易者進場。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Can Palantir Technologies Sustain Its Growth? Narrative vs. Reality",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 15:13",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場質疑其高估值是否已透支未來成長，且面臨 AI 領域日益激烈的競爭，長期成長的可持續性受到挑戰。"
+    },
+    {
+      "rank": 2,
+      "title": "Palantir Stock (PLTR) Surges 460% in Five Years. Why I’m Bearish",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 07:19",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "過去五年股價漲幅過大，投資人擔憂估值過高 (Overvalued)，建議獲利了結或保持謹慎。"
+    },
+    {
+      "rank": 3,
+      "title": "Palantir Is Launching New AI OS Reference Architecture with Nvidia. Should You Buy PLTR Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 17:18",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管與 Nvidia 合作為利多，但分析師提醒投資人需同時考量公司內部的弱點與潛在負面催化劑。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Michael Burry Rails Against the Media Over Palantir Coverage",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 22:01",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Michael Burry 對媒體報導其做空 Palantir 的言論進行反駁，此類消息多為市場雜訊，對基本面影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Palantir just got a headline-grabbing boost from the Iran war",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 13:03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "CEO Alex Karp 對地緣政治的評論引發關注，雖與國防業務相關，但屬於政治敏感議題，對股價影響較為間接。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
