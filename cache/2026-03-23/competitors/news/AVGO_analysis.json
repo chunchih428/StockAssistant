@@ -1,0 +1,120 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "Broadcom 憑藉在 AI 定製晶片與網路基礎設施的強勁技術領先地位，持續獲得市場看好，儘管面臨內部人拋售與歐盟反壟斷調查的短期壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Broadcom CEO Hock Tan Just Delivered Incredible News for Shareholders",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 21:14",
+      "impact": "high",
+      "category": "公司策略",
+      "reason": "執行長 Hock Tan 對定製 AI 晶片業務的強勁成長預測，直接強化了市場對 Broadcom 在 AI 基礎設施領域長期獲利能力的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom Inc. (AVGO) Commences Volume Shipping of Tomahawk 6 Chip to Scale AI Networks",
+      "publisher": "Yahoo",
+      "date": "2026-03-21 08:58",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Tomahawk 6 晶片開始量產出貨，標誌著公司在擴展 AI 網路規模方面的技術落地，對營收成長有直接貢獻。"
+    },
+    {
+      "rank": 3,
+      "title": "Broadcom Targets Quantum Safe Infrastructure With Silicon Level Encryption Rollout",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 12:05",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出全球首款量子安全晶片級加密解決方案，展現了公司在網路安全領域的技術護城河，有助於提升產品組合的競爭力。"
+    },
+    {
+      "rank": 4,
+      "title": "Aletheia and Cantor Fitzgerald Stay Bullish on Broadcom (AVGO) After Earnings",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 20:41",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "知名投行在財報後重申看好，顯示華爾街對其基本面與 AI 成長動能的持續肯定。"
+    },
+    {
+      "rank": 5,
+      "title": "Meta Joins OCI Group As AI Links And Valuation Draw Investor Focus",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 14:07",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Broadcom 與 Meta 等科技巨頭共同組成 OCI 聯盟，強化了其在 AI 生態系統中的核心供應商地位。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Insider Alert: Broadcom Execs Dump $88 Million in Shares Amid Sell-Off",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 11:55",
+      "impact": "high",
+      "category": "公司治理",
+      "reason": "高管拋售價值 8,800 萬美元的股票，通常會引發市場對公司內部估值看法或短期股價表現的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Cispe files competition complaint against Broadcom over VMware programme",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 11:23",
+      "impact": "medium",
+      "category": "法規",
+      "reason": "CISPE 針對 VMware 授權政策向歐盟提出反壟斷投訴，可能導致後續的監管壓力與潛在罰款風險。"
+    },
+    {
+      "rank": 3,
+      "title": "Broadcom Inc. stock underperforms Wednesday when compared to competitors",
+      "publisher": "MarketWatch",
+      "date": "2026-03-18 16:31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "短期股價表現落後於同業，反映了市場資金在半導體板塊內的輪動與短期賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Time To Reassess Broadcom (AVGO) After Its Recent Share Price Pullback?",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 05:04",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "文章旨在探討股價回調後的估值合理性，提供投資人客觀的分析視角，而非明確的買賣建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Better Semiconductor Stock: Broadcom vs. Marvell Technology",
+      "publisher": "Yahoo",
+      "date": "2026-03-21 21:34",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "透過與同業 Marvell 的比較分析，幫助投資人釐清兩者在 AI 晶片市場的差異，屬於中性的產業研究。"
+    },
+    {
+      "rank": 3,
+      "title": "How The Broadcom (AVGO) Investment Story Is Shifting With AI Hopes And Valuation Doubts",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 22:06",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "分析師調整公允價值估計，反映了市場對 AI 成長預期與估值過高之間的拉鋸，屬中性觀點調整。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

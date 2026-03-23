@@ -1,0 +1,120 @@
+{
+  "ticker": "RDDT",
+  "company": "Reddit",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/RDDT.json",
+  "summary": {
+    "total_articles": 13,
+    "bullish_count": 6,
+    "bearish_count": 3,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Reddit 憑藉強勁的財務基本面、與 Pacvue 的廣告合作擴張，以及在對抗 Anthropic 的版權訴訟中取得初步法律勝利，推動股價表現強勢。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why Is Reddit Stock Trading Higher Today? — Shares of Reddit are trading higher after a San Francisco County court tentatively sided with the company in its lawsuit",
+      "publisher": "Benzinga",
+      "date": "2026-03-20 13:22",
+      "impact": "high",
+      "category": "法律訴訟",
+      "reason": "舊金山高等法院在 Reddit 對抗 Anthropic 的版權訴訟中做出初步有利裁決，這對 Reddit 保護其數據資產價值具有重大指標意義。"
+    },
+    {
+      "rank": 2,
+      "title": "Reddit Stock Trends Higher On New Ad Partnership With Pacvue",
+      "publisher": "Benzinga",
+      "date": "2026-03-17 12:25",
+      "impact": "high",
+      "category": "商業合作",
+      "reason": "與 Pacvue 達成廣告整合合作，將 Reddit 廣告納入 AI 驅動的商業平台，有助於提升廣告變現效率與市場滲透率。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Reddit Looks Massively Mispriced",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-16 10:00",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "分析指出 Reddit 擁有約 6.84 億美元的自由現金流與高達 91% 的毛利率，顯示其商業模式具備極強的獲利能力與成長潛力。"
+    },
+    {
+      "rank": 4,
+      "title": "Jim Cramer on Reddit: “I Think It’s an Incredibly Valuable Property”",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-21 16:31",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "知名財經評論員 Jim Cramer 公開看好 Reddit 的資產價值，有助於提升市場信心與機構投資者的關注度。"
+    },
+    {
+      "rank": 5,
+      "title": "Reddit Inc - Class A (NYSE:RDDT) Combines Strong Growth Fundamentals with a Bullish Technical Setup",
+      "publisher": "ChartMill",
+      "date": "2026-03-19 09:41",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "技術面與基本面同步看好，顯示股價在經歷波動後具備支撐，有利於後續走勢。"
+    },
+    {
+      "rank": 6,
+      "title": "Is Reddit (RDDT) Pricing Look Attractive After Recent Share Price Slide And DCF Upside?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-21 02:05",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "透過現金流折現模型 (DCF) 分析認為股價在回調後具備吸引力，提供投資者進場參考。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Reddit and Upwork Shares Plummet, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-19 19:05",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出股價出現顯著下跌，反映市場短期賣壓與獲利了結情緒。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Reddit Inc. (RDDT) Dipped More Than Broader Market Today",
+      "publisher": "Zacks",
+      "date": "2026-03-19 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析 Reddit 當日跌幅大於大盤的原因，提醒投資者注意短期波動風險。"
+    },
+    {
+      "rank": 3,
+      "title": "Reddit Inc. (RDDT) Stock Moves -1.07%: What You Should Know",
+      "publisher": "Zacks",
+      "date": "2026-03-18 21:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對單日小幅下跌進行技術性回顧，屬於常規市場波動報導。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Reddit Weighs Face ID And Passkeys To Verify 'Humans'",
+      "publisher": "Benzinga",
+      "date": "2026-03-21 02:22",
+      "impact": "low",
+      "category": "產品開發",
+      "reason": "公司正在探索使用 Face ID 與密鑰來驗證用戶身份以對抗機器人，屬於營運層面的技術優化，對股價影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Pacvue Partnership To Integrate Reddit Ads Might Change The Case For Investing In Reddit (RDDT)",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-19 10:03",
+      "impact": "low",
+      "category": "商業合作",
+      "reason": "針對 Pacvue 合作案進行後續分析，補充說明該合作對投資邏輯的潛在影響，屬中性觀點分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

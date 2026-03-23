@@ -1,0 +1,47 @@
+{
+  "ticker": "TE",
+  "company": "T1 Energy Inc.",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/TE.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "T1 Energy 成功取得挪威 50MW 電網配額，為其 AI 資料中心戰略布局奠定關鍵基礎。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "T1 Energy Taps Norway's Grid For 50MW, AI Data Center Plans Accelerate",
+      "publisher": "Benzinga",
+      "date": "2026-03-18 12:05",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "公司成功獲得 Statnett 的 50MW 電網配額，直接解決了 Mo i Rana 資料中心擴建的電力瓶頸，顯著提升了 AI 基礎設施的營運潛力。此篇報導涵蓋了具體容量與地點，資訊最為完整。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Assessing T1 Energy’s Valuation As 50MW Mo I Rana Power Allocation Advances AI Data Center Plans",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-21 05:05",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "該報導針對 50MW 電力配額後的公司估值進行中立評估，探討市場如何將此利多反映在股價上，屬於深度分析而非突發性利多消息。"
+    },
+    {
+      "rank": 2,
+      "title": "Will T1 Energy’s (TE) 50MW Mo i Rana Boost Reshape Its AI Data Center Power Strategy?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-21 00:15",
+      "impact": "low",
+      "category": "策略規劃",
+      "reason": "文章探討該電力配額對公司長期 AI 資料中心戰略的影響，屬於對未來發展的策略性推演，對短期股價影響較為溫和。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

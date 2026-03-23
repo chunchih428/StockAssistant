@@ -1,0 +1,102 @@
+{
+  "ticker": "F",
+  "company": "Ford",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/F.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 4,
+    "neutral_count": 7,
+    "overall_sentiment": "bullish",
+    "key_theme": "Ford 透過庫藏股計畫與 AI 技術應用強化商業部門競爭力，儘管面臨短期股價波動，但高股息殖利率吸引價值型投資人關注。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ford to buy back nearly 32M shares of its stock. Here's what it means",
+      "publisher": "Yahoo",
+      "date": "2026-03-16 15:57",
+      "impact": "high",
+      "category": "資本運作",
+      "reason": "Ford 宣布回購 3,170 萬股以抵銷股權稀釋，此舉通常被視為管理層對公司價值具備信心，並能直接提升每股盈餘 (EPS) 與股東價值。"
+    },
+    {
+      "rank": 2,
+      "title": "Ford Motor Company (F) Announces New AI to Grow Multibillion-dollar Pro Commercial Division",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 17:16",
+      "impact": "medium",
+      "category": "技術創新",
+      "reason": "導入 AI 技術以擴展 Ford Pro 商用車部門，該部門為公司高獲利引擎，有助於提升營運效率與長期獲利能力。"
+    },
+    {
+      "rank": 3,
+      "title": "Ford’s Dividend Yield Rises Above 5% After the Crash: Time to Buy F Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 23:30",
+      "impact": "medium",
+      "category": "投資建議",
+      "reason": "股價下跌導致殖利率超過 5%，對於追求穩定現金流的價值型投資人而言，具備較高的吸引力與防禦價值。"
+    },
+    {
+      "rank": 4,
+      "title": "Down 17.4% in 4 Weeks, Here's Why You Should You Buy the Dip in Ford Motor (F)",
+      "publisher": "Yahoo",
+      "date": "2026-03-16 13:35",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "技術面分析指出股價已進入超賣區間，賣壓可能已耗盡，提供短期反彈的技術性買點。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "GM stock up for the week ending March 20; Ford, Stellantis drop",
+      "publisher": "Yahoo",
+      "date": "2026-03-21 12:03",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "與競爭對手 GM 相比，Ford 在本週股價表現相對疲軟，顯示市場資金在汽車板塊中出現分歧。"
+    },
+    {
+      "rank": 2,
+      "title": "As EV Market Stalls, Battery Makers Shift to Grids and Data Centers",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 09:30",
+      "impact": "low",
+      "category": "產業趨勢",
+      "reason": "電動車市場需求放緩，迫使 Ford 必須調整電池工廠策略，反映出轉型過程中的資本支出壓力與市場不確定性。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ford COO Kumar Galhotra Says Novelis Aluminum Factory Still On Track To Resume Full Production",
+      "publisher": "Benzinga",
+      "date": "2026-03-18 13:12",
+      "impact": "low",
+      "category": "營運狀況",
+      "reason": "營運長確認供應鏈狀況，Novelis 鋁廠恢復進度符合預期，且伊朗戰爭尚未對供應鏈造成實質影響，屬於維持現狀的訊息。"
+    },
+    {
+      "rank": 2,
+      "title": "What $4 Gasoline Means for GM, Ford, and Tesla",
+      "publisher": "Barrons.com",
+      "date": "2026-03-20 14:06",
+      "impact": "low",
+      "category": "總體經濟",
+      "reason": "探討高油價對汽車製造商的影響，雖可能影響消費者購車偏好，但對 Ford 的具體影響取決於其產品組合的調整速度。"
+    },
+    {
+      "rank": 3,
+      "title": "Better Industrial Stock: Ford vs. Ferrari",
+      "publisher": "Motley Fool",
+      "date": "2026-03-21 05:25",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "將 Ford 與 Ferrari 進行比較，兩者商業模式差異巨大，此類文章主要提供投資人資產配置的參考，而非針對 Ford 本身的利多或利空。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

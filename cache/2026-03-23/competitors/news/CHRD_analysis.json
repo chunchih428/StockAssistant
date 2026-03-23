@@ -1,0 +1,47 @@
+{
+  "ticker": "CHRD",
+  "company": "Chord Energy",
+  "analysis_date": "2026-03-21",
+  "source_file": "cache/2026-03-21/competitors/news/CHRD.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "華爾街投行對 Chord Energy 在 Williston Basin 的營運效率與資本回報能力持正面看法，並紛紛上調目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Mizuho Raises Chord Energy (CHRD) Price Target by $14",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 23:00",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Mizuho 將 CHRD 目標價上調 14 美元，並強調其作為高股息石油股的地位，反映市場對公司現金流與資本配置的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Wells Fargo Maintains Overweight on Chord Energy, Raises Price Target to $136",
+      "publisher": "Benzinga",
+      "date": "2026-03-16 10:12",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Wells Fargo 分析師 Hanwen Chang 維持「加碼」評級並調升目標價至 136 美元，顯示機構投資人對公司基本面持續看好。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Chord Energy’s Williston Mastery a Moat or a Trap?",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 00:07",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章探討公司在 Williston Basin 的營運效率是否具備長期護城河，雖肯定其成本控制能力，但同時提出對未來成長空間的審慎觀察，屬中性觀點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

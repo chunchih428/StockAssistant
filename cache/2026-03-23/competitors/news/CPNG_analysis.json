@@ -1,0 +1,84 @@
+{
+  "ticker": "CPNG",
+  "company": "Coupang",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/CPNG.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 5,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "Coupang 與 NVIDIA 合作建立 AI 工廠以提升物流效率，成為近期股價的主要驅動因素。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Reported Earlier, Coupang And NVIDIA Collaborate To Build AI Factory Via Coupang Intelligent Cloud, Boosting GPU Utilization From 65% To 95% Across E-Commerce Logistics Operations",
+      "publisher": "Benzinga",
+      "date": "2026-03-18 01:52",
+      "impact": "high",
+      "category": "技術合作",
+      "reason": "此新聞為核心利多，詳細說明了與 NVIDIA 的合作細節，透過 AI 工廠將 GPU 使用率從 65 % 提升至 95 %，直接優化物流營運效率，具備顯著的財務改善潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Coupang Uses AI Export Engine To Link U.S. Brands With Asian Demand",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-20 14:07",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "透過 AI 出口引擎連結美國品牌與亞洲需求，顯示公司在跨境電商領域的成長策略，有助於擴大營收來源。"
+    },
+    {
+      "rank": 3,
+      "title": "Coupang, Inc. (CPNG) Rises Higher Than Market: Key Facts",
+      "publisher": "Zacks",
+      "date": "2026-03-17 21:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "反映公司股價表現優於大盤，顯示市場對其近期營運表現的正面情緒。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Coupang (CPNG) Navigates Earnings Miss, Data Breach Fallout, and Regional Expansion",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-20 19:32",
+      "impact": "medium",
+      "category": "財報與風險",
+      "reason": "指出公司面臨財報不如預期、資料外洩事件的負面影響，以及區域擴張帶來的執行風險，對股價構成壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Fiverr, Sea, Bumble, Carvana, and Coupang Shares Plummet, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-19 19:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導股價下跌的市場現象，反映了投資人對成長型科技股的短期拋售壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Coupang, Inc. (CPNG) A Good Stock To Buy Now?",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-19 17:14",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "文章對公司進行多空分析，未給出明確的買進或賣出建議，屬於中性的投資觀點。"
+    },
+    {
+      "rank": 2,
+      "title": "Top Midday Stories: Producer Inflation Rises More Than Expected; Coupang Creates 'AI Factory' With Nvidia",
+      "publisher": "MT Newswires",
+      "date": "2026-03-18 15:28",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 Coupang 的 AI 合作新聞與總體經濟數據（生產者通膨）並列，屬於綜合性市場摘要，對個股影響力較分散。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

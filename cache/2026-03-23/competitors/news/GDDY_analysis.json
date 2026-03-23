@@ -1,0 +1,38 @@
+{
+  "ticker": "GDDY",
+  "company": "GoDaddy",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/GDDY.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "數位轉型需求持續推動網際網路服務產業成長，儘管面臨成本壓力，GoDaddy 仍被視為具備長期成長潛力的標的。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Zacks Industry Outlook Highlights GoDaddy, Vipshop Holdings, MakeMyTrip and QuinStreet",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 09:39",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "此篇報導涵蓋了更全面的產業分析，指出 GoDaddy 受益於智慧型手機普及與線上業務轉移的強勁需求，選為代表是因為其深入探討了產業順風因素，儘管提及成本壓力，但整體對營收成長持正面看法。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Assessing GoDaddy ( GDDY ) Valuation After Recent Share Price Weakness",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-14",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "文章針對近期股價回調後的估值進行客觀評估，未給出明確的買進或賣出建議，僅提供投資人理性分析的視角，屬於中性市場觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

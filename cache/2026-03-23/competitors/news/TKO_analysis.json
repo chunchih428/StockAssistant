@@ -1,0 +1,56 @@
+{
+  "ticker": "TKO",
+  "company": "TKO",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/TKO.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "TKO Group 透過 UFC 與 Zuffa 擴張策略展現強勁成長潛力，並輔以 20 億美元的股票回購計畫，強化股東價值。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "TKO Balances WrestleMania Gaming Expansion With US$2b Buyback Commitment",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-15",
+      "impact": "high",
+      "category": "資本配置",
+      "reason": "公司承諾進行 20 億美元的股票回購計畫，直接提升每股盈餘 (EPS) 並向市場傳遞管理層對公司長期價值的信心，同時結合 WrestleMania 遊戲領域的擴張，展現多元化成長動能。"
+    },
+    {
+      "rank": 2,
+      "title": "TKO Group (TKO) Growth Outlook Supported by UFC and Zuffa Boxing Expansion",
+      "publisher": "Yahoo",
+      "date": "2026-03-17",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "分析指出 UFC 與 Zuffa Boxing 的業務擴張是 TKO 長期成長的核心驅動力，強化了市場對其作為成長型股票的投資信心。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Publication of the French version of Tikehau Capital’s 2025 Universal Registration Document",
+      "publisher": "Yahoo",
+      "date": "2026-03-19",
+      "impact": "low",
+      "category": "法規遵循",
+      "reason": "此為例行性的法規文件發布，僅涉及資訊揭露，對股價無直接實質影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Tikehau Capital : Information Relating to the Total Number of Voting Rights and Shares as of 18 March 2026",
+      "publisher": "Yahoo",
+      "date": "2026-03-18",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "屬於例行性的股權結構與投票權揭露，為符合監管要求的標準程序，不影響公司基本面。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

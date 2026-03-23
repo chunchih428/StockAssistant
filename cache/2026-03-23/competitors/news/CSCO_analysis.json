@@ -1,0 +1,111 @@
+{
+  "ticker": "CSCO",
+  "company": "Cisco Systems",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/CSCO.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 7,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "Cisco 憑藉與 NVIDIA 的 AI 基礎設施合作及強勁的財報表現，正處於市場技術突破的有利位置。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "CSCO Taps NVIDIA to Drive Secure AI at the Edge: More Upside Ahead?",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 18:47",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "Cisco 擴展與 NVIDIA 的 Secure AI Factory 合作，直接切入邊緣運算 AI 部署需求，強化其在 AI 基礎設施市場的競爭優勢。"
+    },
+    {
+      "rank": 2,
+      "title": "How Cisco’s AI Infrastructure Orders and NVIDIA Alliance Could Shape Cisco Systems (CSCO) Investors",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 07:08",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "2026 財年第二季財報優於預期，且訂閱制營收成長強勁，顯示公司轉型策略奏效，為股價提供基本面支撐。"
+    },
+    {
+      "rank": 3,
+      "title": "Cisco Systems Inc. (CSCO): Billionaire Ken Fisher Reignites Interest in Long-Term Holding",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 20:21",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名億萬富翁 Ken Fisher 將 Cisco 列為 2026 年重點持股，顯示機構投資人對其長期價值與穩定性的信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Cisco Systems Inc (NASDAQ:CSCO) Shows High Technical and Setup Ratings for Potential Breakout",
+      "publisher": "ChartMill",
+      "date": "2026-03-21 12:41",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "技術面顯示股價處於緊縮整理後的突破前夕，強勁的技術指標吸引動能交易者關注。"
+    },
+    {
+      "rank": 5,
+      "title": "Cisco’s 400G Alliance Ties AI Data Centers To Valuation Story",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 01:09",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "加入 Broadcom 與 NVIDIA 的 400G 光纖聯盟，鞏固了 Cisco 在 AI 資料中心高速傳輸領域的關鍵地位。"
+    },
+    {
+      "rank": 6,
+      "title": "A Look At Cisco (CSCO) Valuation As Shares Trade Below Estimated Fair Value",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 15:05",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "分析指出股價目前低於估計公允價值，為價值型投資人提供潛在的買入安全邊際。"
+    },
+    {
+      "rank": 7,
+      "title": "The Zacks Analyst Blog Highlights Alphabet, Cisco Systems, PepsiCo, Village Super Market and Air T",
+      "publisher": "Yahoo",
+      "date": "2026-03-16 13:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "獲分析師報告正面提及，歸功於 AI 成長與雲端需求，提升了市場對其成長前景的關注度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cisco is Overvalued at 4.95X PS: Should You Still Buy the Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 16:59",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "儘管 AI 需求強勁，但 4.95 倍的股價營收比 (P/S ratio) 被認為過高，提醒投資人需警惕估值過熱風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Cisco Community Push Puts 40 Communities Initiative In Investor Focus",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 19:04",
+      "impact": "low",
+      "category": "企業社會責任",
+      "reason": "發布 10 年期「40 Communities」計畫，屬於企業社會責任範疇，對短期股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Cisco Secure AI Factory with NVIDIA Makes AI Easier to Deploy and Secure, Anywhere Organizations Need It",
+      "publisher": "Yahoo",
+      "date": "2026-03-16 20:30",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "此為與 NVIDIA 合作的細節說明，內容與後續報導重複，故歸類為中性資訊，主要作為技術細節補充。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

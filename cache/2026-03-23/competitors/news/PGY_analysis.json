@@ -1,0 +1,38 @@
+{
+  "ticker": "PGY",
+  "company": "Pagaya Technologies Ltd.",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/PGY.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "Mixed",
+    "key_theme": "市場對 Pagaya 的估值與成長動能存在分歧，股價短期表現與營收成長放緩的擔憂並存。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Pagaya Technologies Ltd. (PGY) Advances While Market Declines: Some Information for Investors",
+      "publisher": "Zacks",
+      "date": "2026-03-19T22:15:03Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管大盤走弱，PGY 股價仍逆勢上漲，顯示市場對其當前估值具有一定的承接力道，投資人情緒相對正面。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Pagaya: Deep Value Opportunity That's Too Cheap To Ignore — Pagaya faces a slowdown in top line growth, raising concerns about future revenue momentum.",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-17 01:17",
+      "impact": "high",
+      "category": "財報分析",
+      "reason": "分析指出公司面臨營收成長放緩的結構性問題，這直接影響市場對其未來獲利能力與成長動能的預期，是投資人必須關注的關鍵風險。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

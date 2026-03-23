@@ -1,0 +1,47 @@
+{
+  "ticker": "ROAD",
+  "company": "Construction Partners",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/ROAD.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 0,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場對 Construction Partners 的高估值與近期股價回調表現出擔憂，投資人正重新評估其長期成長溢價的合理性。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Construction Partners, Vishay Precision, AAR, Sanmina, and Comfort Systems Shares Plummet, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-20T20:07:25Z",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "該報導指出 ROAD 股價出現顯著下跌，反映出市場對該公司近期股價表現的修正壓力，選此篇作為代表是因為它直接反映了股價波動的即時性與市場情緒的轉變。"
+    },
+    {
+      "rank": 2,
+      "title": "Assessing Construction Partners (ROAD) Valuation After Strong Long Term Returns And Premium P/E Multiple",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-17T15:13:04Z",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "文章探討了 ROAD 在長期強勁回報後的估值問題，特別是其溢價的本益比 (P/E Multiple) 可能已難以支撐，暗示未來股價面臨回調風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Construction and Maintenance Services Stocks Q4 Recap: Benchmarking Construction Partners (NASDAQ:ROAD)",
+      "publisher": "StockStory",
+      "date": "2026-03-17T22:52:30Z",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "此篇為 Q4 產業回顧與基準測試，提供客觀的數據比較，未對 ROAD 未來走勢給出明確的買賣建議，僅作為產業績效評估參考。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

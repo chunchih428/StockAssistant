@@ -1,0 +1,37 @@
+{
+  "ticker": "MORN",
+  "company": "Morningstar",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/MORN.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司透過 AI 技術創新與品牌影響力強化，持續提升產品黏著度與市場領導地位。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Morningstar AI Assistant Aims To Deepen Advisor Reliance On Direct Suite",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-13",
+      "impact": "medium",
+      "category": "產品創新",
+      "reason": "Morningstar 推出 AI 助理以強化 Direct Suite 的功能，預期能提升理財顧問的使用黏著度，進而鞏固訂閱制收入的穩定性與成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Morningstar Awards for Investing Excellence UK 2026: Winners Announced",
+      "publisher": "Yahoo",
+      "date": "2026-03-20",
+      "impact": "low",
+      "category": "品牌行銷",
+      "reason": "透過舉辦年度投資卓越獎，持續強化 Morningstar 在金融市場的權威地位與品牌影響力，有助於維持其作為獨立投資研究領導者的市場份額。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

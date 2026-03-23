@@ -1,0 +1,75 @@
+{
+  "ticker": "SNAP",
+  "company": "Snap",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/SNAP.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 2,
+    "bearish_count": 3,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "Snap 正面臨核心市場用戶流失的結構性挑戰，儘管公司試圖透過 AI 優化利潤率與 AR 產品創新來尋求轉型，但市場對其成長動能仍持保留態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Snap Inc.: AI-Driven Margin Expansion Sets The Stage For A Medium-Term Re-Rating",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-16",
+      "impact": "medium",
+      "category": "營運策略",
+      "reason": "該分析指出 Snap 透過 AI 驅動的效率提升與 AR 眼鏡產品的推出，有望改善獲利能力，為中長期估值重估奠定基礎。"
+    },
+    {
+      "rank": 2,
+      "title": "Snap Bets On IPL AR Push As Shares Trade Below Targets",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-13",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "Snap 透過與印度板球超級聯賽 (IPL) 合作推動 AR 應用，試圖在股價低迷時尋找新的用戶參與點與廣告變現機會。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Snap: Moving Out Of The Mainstream — Snap Inc. (SNAP) faces accelerating North American user losses",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-21",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "北美作為 Snap 最高價值的市場，用戶流失速度加快，直接威脅到公司的營收成長基礎與長期競爭力。"
+    },
+    {
+      "rank": 2,
+      "title": "Snap (SNAP) Declines More Than Market: Some Information for Investors",
+      "publisher": "Zacks",
+      "date": "2026-03-19",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價表現持續弱於大盤，反映出投資人對其基本面缺乏信心，且市場賣壓較重。"
+    },
+    {
+      "rank": 3,
+      "title": "Overall Sentiment on Snap (SNAP) Tempered Amid Challenges in Digital Advertising Industry",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-20",
+      "impact": "low",
+      "category": "產業趨勢",
+      "reason": "數位廣告產業整體面臨逆風，導致市場對 Snap 的情緒轉趨保守，進一步壓抑股價表現。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Market Chatter: Snapchat, TikTok Usage Continues Among Australian Teens Despite Social Media Ban",
+      "publisher": "MT Newswires",
+      "date": "2026-03-13",
+      "impact": "low",
+      "category": "法規",
+      "reason": "儘管面臨法規限制，Snapchat 在澳洲青少年群體中的使用率仍維持穩定，顯示其產品黏著度，但法規不確定性仍存。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

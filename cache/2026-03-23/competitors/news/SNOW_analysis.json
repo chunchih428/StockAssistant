@@ -1,0 +1,93 @@
+{
+  "ticker": "SNOW",
+  "company": "Snowflake",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/SNOW.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "Mixed",
+    "key_theme": "市場正密切關注 Snowflake 在企業級 AI 領域的擴張進展，特別是 Project SnowWork 的潛力，但對其 AI 工作負載的利潤率與高估值仍存有疑慮。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Snowflake Pushes Into Action With SnowWork AI",
+      "publisher": "GuruFocus.com",
+      "date": "2026-03-18",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "此篇報導涵蓋了 Project SnowWork 的核心戰略，代表了公司從數據儲存向 Agentic AI 轉型的關鍵一步，有助於提升長期成長動能。"
+    },
+    {
+      "rank": 2,
+      "title": "3 Reasons We Love Snowflake (SNOW)",
+      "publisher": "StockStory",
+      "date": "2026-03-19",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "文章強調了 Snowflake 在數據雲端領域的護城河與強勁的客戶留存率，為投資人提供了看好其基本面的邏輯支撐。"
+    },
+    {
+      "rank": 3,
+      "title": "Snowflake Exec Breaks Down How Project SnowWork is Bringing Agentic AI to Users",
+      "publisher": "NYSE",
+      "date": "2026-03-18",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "透過高層解說 AI 代理技術，增強了市場對公司技術執行力的信心，屬於對產品願景的正面背書。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Snowflake's Cortex Code, AI Workloads Contribution Margins Lower than Core Analytics Workloads, Oppenheimer Says",
+      "publisher": "MT Newswires",
+      "date": "2026-03-20",
+      "impact": "high",
+      "category": "財報分析",
+      "reason": "Oppenheimer 指出 AI 工作負載的利潤率低於核心分析業務，這引發了市場對於 AI 轉型是否會稀釋整體獲利能力的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Snowflake (SNOW) Valuation Check As Project SnowWork Expands Its Enterprise AI Ambitions",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-23",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "儘管 AI 願景宏大，但文章提醒投資人需審視當前的高估值，暗示股價可能已反映過多預期，存在回調風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Snowflake: It Would Be Wise To Stay On The Sidelines",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-21",
+      "impact": "low",
+      "category": "投資評級",
+      "reason": "雖然認可 42% 的 RPO 年增率與強勁留存率，但基於估值與市場競爭，分析師給予「持有」評級，反映了多空交戰下的觀望態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Down 23% This Year, Is It Finally Time to Buy Snowflake Stock?",
+      "publisher": "Motley Fool",
+      "date": "2026-03-21",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章探討了股價下跌後的買入時機，並未給出明確買進或賣出建議，僅提供投資人評估風險與報酬的框架。"
+    },
+    {
+      "rank": 3,
+      "title": "Snowflake vs Alphabet: Which Cloud Analytics Stock Has an Edge Now?",
+      "publisher": "Zacks",
+      "date": "2026-03-19",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "透過與 Alphabet 的比較分析，呈現了兩者在雲端分析領域的競爭格局，屬於中性的產業比較報導。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

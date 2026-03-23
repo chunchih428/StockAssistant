@@ -1,0 +1,66 @@
+{
+  "ticker": "KLAC",
+  "company": "KLA Corporation",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/KLAC.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 晶片需求帶動的晶圓廠設備支出成長，加上強勁的資本回報政策與分析師調升目標價，支撐了 KLAC 的長期投資價值。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Oppenheimer Raises PT on KLA (KLAC) Stock to $1,900",
+      "publisher": "Yahoo",
+      "date": "2026-03-19",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Oppenheimer 將目標價調升至 1,900 美元，顯示市場對其作為半導體設備龍頭的成長潛力具備高度信心，此舉直接推升市場對該股的估值預期。"
+    },
+    {
+      "rank": 2,
+      "title": "Does KLA (KLAC) Turbocharged Buyback Signal Durable Cash Strength Or Fewer Reinvestment Opportunities?",
+      "publisher": "Yahoo",
+      "date": "2026-03-22",
+      "impact": "medium",
+      "category": "財務政策",
+      "reason": "公司將季度股息從 1.90 美元調升至 2.30 美元並擴大股票回購，反映出強勁的現金流與管理層對公司長期財務健康的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Jim Cramer Recommended Putting KLA (KLAC) “in the Drawer” In February 2025",
+      "publisher": "Yahoo",
+      "date": "2026-03-18",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "知名財經評論員將 KLAC 列為 AI 熱門股並建議長期持有，增強了散戶投資人對該公司作為 AI 基礎設施關鍵供應商的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Expanding Wafer Fab Equipment Spending Aids KLAC: What's Ahead?",
+      "publisher": "Yahoo",
+      "date": "2026-03-17",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管受惠於 AI 需求，但報導指出公司面臨成本上升、供應鏈限制以及日益激烈的市場競爭，這些因素可能對未來的利潤率造成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "KLA (KLAC) Beats Stock Market Upswing: What Investors Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-16",
+      "impact": "low",
+      "category": "股價表現",
+      "reason": "僅為單日股價波動的例行性報導，漲幅 1.38 % 反映市場整體情緒，並未包含新的基本面消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

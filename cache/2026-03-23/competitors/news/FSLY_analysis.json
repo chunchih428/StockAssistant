@@ -1,0 +1,75 @@
+{
+  "ticker": "FSLY",
+  "company": "Fastly",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/FSLY.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 2,
+    "bearish_count": 3,
+    "neutral_count": 1,
+    "overall_sentiment": "Mixed",
+    "key_theme": "Fastly 近期股價強勁反彈引發市場對估值過高的擔憂，且內部人持續拋售股票抵銷了新簽約帶來的利多情緒。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Fastly (FSLY) Soars to 4-Year High on New Deal With Dublin-Based Firm",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-19",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "公司與都柏林企業達成新合約，直接推動股價創下 4 年新高，顯示業務增長動能強勁，為市場帶來實質利多。"
+    },
+    {
+      "rank": 2,
+      "title": "Fastly (FSLY) Surges 22% on Tech Surge",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受惠於整體科技股板塊的強勁上漲趨勢，Fastly 單日飆升 22 %，反映出市場對該公司在科技反彈行情中的高貝塔值 (Beta) 表現給予正面回饋。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Fastly Surges 11%: The Comeback Is Real, but Insiders Have Been Selling the Whole Way Up",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-03-18",
+      "impact": "high",
+      "category": "內部人交易",
+      "reason": "儘管股價強勢反彈，但內部人持續拋售股票的行為引發投資人對管理層信心不足的疑慮，此篇報導涵蓋了股價反彈與內部人賣出的雙重面向，具代表性。"
+    },
+    {
+      "rank": 2,
+      "title": "Fastly's CEO Sold Company Shares Worth $1.2 Million. Is the Stock a Buy or Sell?",
+      "publisher": "Motley Fool",
+      "date": "2026-03-14",
+      "impact": "medium",
+      "category": "內部人交易",
+      "reason": "執行長拋售價值 120 萬美元的股票，雖然可能是例行性規劃，但對市場心理層面造成壓力，引發投資人對股價是否觸頂的質疑。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Fastly (FSLY) Getting Ahead Of Itself After A 267% One Year Rally?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-13",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "在經歷一年 267 % 的驚人漲幅後，市場開始質疑其估值是否過高，基本面是否能支撐如此快速的股價增長，存在回調風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Assessing Fastly (FSLY) Valuation After A Sharp Pullback And Strong Multi‑Period Gains",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-21",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "該報導客觀分析了股價在經歷大幅波動後的估值現狀，未給出明確買賣建議，僅提供投資人理性評估的數據參考。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

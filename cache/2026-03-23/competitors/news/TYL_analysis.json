@@ -1,0 +1,84 @@
+{
+  "ticker": "TYL",
+  "company": "Tyler Technologies, Inc.",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/TYL.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司宣布 2 億美元股票回購計畫與強勁的市場地位評級，抵銷了短期股價表現落後大盤的雜音。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "What Tyler Technologies (TYL)'s New US$200 Million 10b5-1 Buyback Plan Means For Shareholders",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 16:08",
+      "impact": "high",
+      "category": "資本配置",
+      "reason": "公司啟動 2 億美元的 10b5-1 股票回購計畫，顯示管理層對公司長期價值與現金流的信心，直接有利於每股盈餘 (EPS) 的提升。"
+    },
+    {
+      "rank": 2,
+      "title": "Tyler Technologies Named a \"Strong Performer\" in an Industry Cloud Solutions For Public Sector Analyst Evaluation",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 13:17",
+      "impact": "medium",
+      "category": "市場競爭力",
+      "reason": "獲得 Forrester Wave 評選為公共部門雲端解決方案的「強勁表現者」，強化了其在政府軟體市場的護城河與品牌競爭優勢。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Is Tyler Technologies (TYL) Up 20.4% Since Last Earnings Report?",
+      "publisher": "Zacks",
+      "date": "2026-03-13 15:30",
+      "impact": "medium",
+      "category": "財報表現",
+      "reason": "自上次財報發布以來股價上漲 20.4 %，反映出市場對其營運績效與成長前景的高度認可，動能強勁。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Tyler Technologies Inc. stock underperforms Wednesday when compared to competitors",
+      "publisher": "MarketWatch",
+      "date": "2026-03-18 17:13",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "單日股價表現落後於同業，反映出短期交易面臨獲利回吐壓力或資金輪動影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Tyler Technologies Stock Underperforming the S&P 500?",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 11:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出過去一年股價表現落後於 S&P 500 指數，雖然分析師仍看好，但長期相對績效壓力仍是投資人關注的風險點。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Tyler Technologies announces 10b5-1 plan to repurchase up to $200M of shares",
+      "publisher": "TipRanks",
+      "date": "2026-03-14 14:35",
+      "impact": "low",
+      "category": "資本配置",
+      "reason": "此為回購計畫的初步公告，內容與後續深入分析報導重複，故歸類為中性資訊傳遞。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Tyler Technologies Stock Underperforming the S&P 500?",
+      "publisher": "Barchart",
+      "date": "2026-03-17 11:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "與 Yahoo 報導內容完全重複，僅作為市場數據的重複揭露，不具備額外影響力。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

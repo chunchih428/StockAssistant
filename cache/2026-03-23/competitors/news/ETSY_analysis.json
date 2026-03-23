@@ -1,0 +1,38 @@
+{
+  "ticker": "ETSY",
+  "company": "Etsy",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/ETSY.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "技術面出現轉強訊號，但市場對於估值合理性仍持審慎觀察態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Etsy (ETSY) Just Overtook the 20-Day Moving Average",
+      "publisher": "Zacks",
+      "date": "2026-03-17T13:35:01Z",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "股價成功突破 20 日移動平均線，顯示短期動能轉強，技術面出現買進訊號，有利於吸引短線交易者進場。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Etsy (ETSY) Valuation Check After Mixed Recent Share Price Performance",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-15T22:07:05Z",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "近期股價表現呈現分歧，市場對於 Etsy 的當前估值是否合理尚未達成共識，投資人需進一步評估基本面數據以確認長期趨勢。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

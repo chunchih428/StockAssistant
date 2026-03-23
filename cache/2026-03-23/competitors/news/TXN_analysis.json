@@ -1,0 +1,75 @@
+{
+  "ticker": "TXN",
+  "company": "Texas Instruments",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/TXN.json",
+  "summary": {
+    "total_articles": 12,
+    "bullish_count": 8,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "德州儀器 推出 800V AI 資料中心電源架構並與 NVIDIA 合作，強化其在高效能運算領域的市場競爭力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "TI unveils complete 800 VDC power architecture for future generation AI data centers with NVIDIA",
+      "publisher": "Yahoo",
+      "date": "2026-03-16 20:30",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "德州儀器 宣布推出針對 AI 資料中心的 800V 直流電源架構，並與 NVIDIA 合作開發參考設計，此舉直接切入高成長的 AI 基礎設施市場，具備顯著的營收成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Texas Instruments Inc (NASDAQ:TXN): A Quality Dividend Stock with Strong Fundamentals",
+      "publisher": "ChartMill",
+      "date": "2026-03-18 09:41",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "分析指出 德州儀器 具備強勁的獲利能力與財務結構，且作為高品質的配息股，對長期投資者具有吸引力，支撐股價下檔空間。"
+    },
+    {
+      "rank": 3,
+      "title": "Signal: Buy the Dip on This Struggling Semiconductor Stock",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 18:49",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管股價自 2 月高點回調，但市場觀點認為這是逢低布局的良機，反映出投資人對其基本面與未來技術轉型的信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Texas Instruments (TXN) Laps the Stock Market: Here's Why",
+      "publisher": "Yahoo",
+      "date": "2026-03-16 21:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出 德州儀器 單日股價表現優於大盤，顯示出市場對其近期技術發布的正面反應。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Texas Instruments Inc. stock underperforms Wednesday when compared to competitors",
+      "publisher": "MarketWatch",
+      "date": "2026-03-18 16:35",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導指出 德州儀器 在週三的交易中表現落後於同業，反映出半導體板塊內部的短期輪動與波動。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Texas Instruments Incorporated (TXN) Is a Trending Stock: Facts to Know Before Betting on It",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該文章主要為投資人提供基本面概覽與市場熱度分析，未對股價走勢給出明確的買賣建議，屬於中性的資訊整理。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

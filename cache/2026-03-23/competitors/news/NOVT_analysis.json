@@ -1,0 +1,66 @@
+{
+  "ticker": "NOVT",
+  "company": "Novanta",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/NOVT.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "neutral",
+    "key_theme": "公司技術與 NVIDIA AI 平台整合帶來長期成長潛力，但近期股價受地緣政治與市場整體波動影響而承壓。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Novanta Joins NVIDIA Halos AI Systems Inspection Lab To Validate Interoperability Between Novanta Products And Nvidia Platform Safety Requirements",
+      "publisher": "Benzinga",
+      "date": "2026-03-16 16:49",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "選擇此篇作為代表，因其詳細說明了與 NVIDIA 的合作細節，包括產品互操作性與安全性驗證，顯示 Novanta 在 AI 檢測領域的技術地位提升，有利於未來營收成長。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "BWX, Tecnoglass, SPX Technologies, Novanta, and Kimball Electronics Shares Plummet, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 20:22",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受中東地緣政治緊張局勢影響，市場避險情緒升溫導致多檔股票下跌，屬於系統性風險，對 NOVT 股價造成短期壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Novanta, Greenbrier, Casella Waste Systems, and Rivian Shares Plummet, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-13 21:19",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出公司股價近期出現顯著下跌，反映市場對其短期表現的擔憂，雖未提及具體基本面惡化，但顯示股價動能疲軟。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "A Look At Novanta (NOVT) Valuation As Recent Returns Remain Under Pressure",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 02:07",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "文章僅對公司近期股價表現進行回顧與估值觀察，並未提供新的利多或利空催化劑，屬於中性的市場回顧。"
+    },
+    {
+      "rank": 2,
+      "title": "Novanta Joins NVIDIA Halos AI Systems Inspection Lab",
+      "publisher": "Yahoo",
+      "date": "2026-03-16 20:40",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "此篇為與 NVIDIA 合作案的簡短報導，內容與 Benzinga 的詳細報導重複，故歸類為中性，僅作為資訊更新。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

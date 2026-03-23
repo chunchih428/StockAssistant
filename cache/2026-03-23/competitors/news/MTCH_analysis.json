@@ -1,0 +1,57 @@
+{
+  "ticker": "MTCH",
+  "company": "Match Group",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/MTCH.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "Mixed",
+    "key_theme": "市場對於 Tinder 產品轉型與動能改善持樂觀態度，但仍擔憂用戶增長疲軟與組織架構調整帶來的營運不確定性。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Morgan Stanley ‘most constructive’ on Match Group shares in years",
+      "publisher": "TipRanks",
+      "date": "2026-03-14T14:00:44Z",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "摩根士丹利給予多年來最正面的評價，顯示機構投資人對 Match Group 的基本面轉折與長期價值重估抱持高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Match Group Sees Early Tinder Product Momentum, RBC Says",
+      "publisher": "MT Newswires",
+      "date": "2026-03-13T16:23:14Z",
+      "impact": "medium",
+      "category": "產品動態",
+      "reason": "RBC 指出 Tinder 產品更新已見初步成效，產品動能的改善是推動營收成長的關鍵指標，選此篇作為代表是因為其聚焦於核心產品的營運數據。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "A Look At Match Group (MTCH) Valuation As COO Role Is Cut And User Trends Weaken",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-14T06:07:15Z",
+      "impact": "medium",
+      "category": "公司治理與營運",
+      "reason": "COO 職位裁撤引發市場對管理層穩定性的擔憂，加上用戶增長趨勢疲軟，直接對公司估值構成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Match Group’s Tinder push builds momentum but analysts remain cautious",
+      "publisher": "Proactive",
+      "date": "2026-03-13T19:02:00Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導平衡了產品動能改善與分析師的謹慎態度，反映市場目前處於觀望階段，缺乏單一方向的強烈驅動力。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,47 @@
+{
+  "ticker": "HUBB",
+  "company": "Hubbell Inc",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/HUBB.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司於 JPMorgan 工業會議上展現強勁營運表現，帶動股價上漲並優於同業。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Hubbell (HUBB) Stock Trades Up, Here Is Why",
+      "publisher": "Yahoo / StockStory",
+      "date": "2026-03-18 22:27",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Hubbell 股價在當日午後交易時段上漲 1.5 %，反映市場對公司近期營運表現的正面反應。此處彙整了 Yahoo 與 StockStory 的報導，因其明確指出股價上漲的即時數據與市場情緒。"
+    },
+    {
+      "rank": 2,
+      "title": "Hubbell Inc. stock outperforms competitors on strong trading day",
+      "publisher": "MarketWatch",
+      "date": "2026-03-18 17:03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出 Hubbell 在當日交易中表現優於競爭對手，顯示公司在電力與電子產品領域的相對強勢地位，對投資人信心具有正面支撐作用。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Hubbell Incorporated (HUBB) Presents at JPMorgan Industrials Conference 2026 Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-18 16:12",
+      "impact": "low",
+      "category": "法說會與會議",
+      "reason": "公司參與 JPMorgan 工業會議並發布會議記錄，屬於例行性的投資人溝通活動。雖然內容提供了公司策略展望，但本身不構成直接的股價催化劑，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

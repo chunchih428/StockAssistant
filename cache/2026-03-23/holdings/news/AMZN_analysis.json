@@ -1,0 +1,120 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 11,
+    "bearish_count": 3,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "Amazon 透過與 Nvidia 的大規模 AI 晶片合作及雲端基礎設施擴張，持續鞏固其在 AI 領域的長期競爭優勢。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Nvidia To Deliver 1 Million AI Chips To Amazon Web Services By 2027 In Massive Multi-Chip Deal",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 13:31",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "AWS 與 Nvidia 達成 100 萬顆 AI 晶片供應協議，將顯著提升雲端運算與推理能力，為 AWS 帶來強勁的長期成長動能。"
+    },
+    {
+      "rank": 2,
+      "title": "Billionaire Bill Ackman Has 25% of His Hedge Fund in 2 Brilliant AI Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-03-21 09:08",
+      "impact": "medium",
+      "category": "市場觀點",
+      "reason": "知名避險基金經理人 Bill Ackman 將 25 % 的投資組合配置於 Amazon 與 Meta，顯示機構投資人對 Amazon AI 轉型的高度信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon Gets Its Biggest Hit Movie Ever With ‘Project Hail Mary’",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 17:10",
+      "impact": "medium",
+      "category": "業務發展",
+      "reason": "Amazon 影視業務取得重大突破，首部票房大片證明其內容投資策略開始產生實質回報，有助於提升 Prime 會員黏著度。"
+    },
+    {
+      "rank": 4,
+      "title": "Amazon (AMZN): 10 Best AI Stocks to Buy for the Next 10 Years",
+      "publisher": "Yahoo",
+      "date": "2026-03-21 20:01",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "Amazon 被列為未來 10 年最佳 AI 投資標的之一，強化了市場對其長期技術護城河的認可。"
+    },
+    {
+      "rank": 5,
+      "title": "Amazon.com (AMZN) AWS Taps SailPoint to Develop Governance Solutions for AI Agents",
+      "publisher": "Yahoo",
+      "date": "2026-03-21 18:22",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "AWS 與 SailPoint 合作開發 AI 代理治理方案，顯示公司在企業級 AI 安全與合規領域的持續布局。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Here's Why Amazon's Biggest Bet in 2026 Could Backfire on Shareholders",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 19:45",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "分析指出 Amazon 2026 年的資本支出計畫可能過於激進，若無法轉化為預期的獲利成長，將對股東權益造成稀釋風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Jeff Bezos Reportedly Seeks $100 Billion To Supercharge AI-Driven Automation, Bernie Sanders Says 'Oligarchs Waging All Out War Against Workers'",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 12:31",
+      "impact": "low",
+      "category": "法規與輿論",
+      "reason": "創辦人 Jeff Bezos 的巨額融資計畫引發政治人物批評，可能增加公司在勞工權益與反壟斷議題上的監管壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "Disabled senior received over 100 Amazon packages she didn’t order — a warning that your identity is already compromised",
+      "publisher": "Yahoo",
+      "date": "2026-03-21 15:50",
+      "impact": "low",
+      "category": "營運風險",
+      "reason": "涉及詐騙包裹事件，雖屬個案，但可能引發消費者對平台安全與個資保護機制的疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Amazon Eyes Smartphone Comeback — 'Transformer' Project Reportedly Targets AI-Driven Future",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 17:32",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "傳聞 Amazon 欲重返智慧型手機市場，但鑑於過去 Fire Phone 的失敗經驗，市場對其執行力持保留態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon’s Big Spring Sale begins March 25.",
+      "publisher": "CNBC",
+      "date": "2026-03-19 14:06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "例行性的促銷活動，旨在提升短期營收，對股價影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "How Amazon Is Bringing Fast Delivery to Rural America",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 09:30",
+      "impact": "low",
+      "category": "物流營運",
+      "reason": "投入 40 億美元改善偏鄉物流，屬於長期營運優化，短期內對財務報表影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

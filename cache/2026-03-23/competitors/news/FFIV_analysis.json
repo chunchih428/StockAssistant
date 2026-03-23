@@ -1,0 +1,84 @@
+{
+  "ticker": "FFIV",
+  "company": "F5",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/FFIV.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 4,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "F5 透過與 NVIDIA 、 AWS 及 Microsoft 等科技巨頭深化 AI 基礎設施與安全性合作，積極強化其在 AI 與多雲環境下的市場競爭力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "F5 and NVIDIA Advance AI Factory Economics With New Capabilities for Accelerated AI Inference",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 13:00",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "F5 與 NVIDIA 擴大合作，針對 AI 推論基礎設施進行優化，此舉直接提升了 F5 在 AI 經濟中的技術價值與市場地位，對股價具備正面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "F5 and Skyfire Partner to Advance Secure Agentic Commerce for the Enterprise",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 13:00",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "與 Skyfire 的合作旨在推動企業級安全代理商務，展現 F5 在應用安全領域的持續創新能力，有助於擴大其企業客戶群。"
+    },
+    {
+      "rank": 3,
+      "title": "F5 Collaborates with AWS and Microsoft on NSS Labs Research Paper on AI Runtime Security Testing",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 13:00",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 AWS 和 Microsoft 共同參與 AI 運行時安全測試研究，強化了 F5 在雲端安全領域的權威性與生態系統整合度。"
+    },
+    {
+      "rank": 4,
+      "title": "F5 2026 Solution Day Kicks Off in Hong Kong, Leading the Way in AI and Multicloud Era with Digital Resilience",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 09:48",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "透過舉辦 Solution Day 活動，F5 有效提升了在亞太地區的品牌影響力，並展示其在數位韌性方面的解決方案。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "F5 Inc. stock underperforms Wednesday when compared to competitors",
+      "publisher": "MarketWatch",
+      "date": "2026-03-18 17:11",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價表現落後於同業，反映出短期內市場資金配置或技術性賣壓，雖非基本面惡化，但對短期股價走勢構成壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "F5 Inc. stock underperforms Monday when compared to competitors",
+      "publisher": "MarketWatch",
+      "date": "2026-03-16 17:11",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "連續性報導指出股價表現疲軟，顯示短期內 FFIV 在市場競爭中的相對強弱指標較弱，投資人情緒較為保守。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "APPS or FFIV: Which Is the Better Value Stock Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-03-16 15:40",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "此類文章為價值投資比較分析，旨在提供投資人選股參考，並未對公司基本面產生直接影響，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

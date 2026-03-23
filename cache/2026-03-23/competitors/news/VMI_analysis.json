@@ -1,0 +1,48 @@
+{
+  "ticker": "VMI",
+  "company": "Valmont Industries",
+  "analysis_date": "2026-03-22",
+  "source_file": "cache/2026-03-22/competitors/news/VMI.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "Neutral",
+    "key_theme": "市場對 Valmont 近期股價表現出現分歧，一方面肯定其相對於大盤的韌性，另一方面則對財報後的股價回調與未來成長動能存有疑慮。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "2 Reasons to Like VMI (and 1 Not So Much) — Valmont has had an impressive run over the past six months. While the S&P 500 has been flat, the stock has returned 5.6%",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 22:57",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導指出 Valmont 在過去 6 個月內表現優於 S&P 500 指數，展現出強勁的相對抗跌性與成長潛力，故選此篇作為代表。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Is Valmont (VMI) Down 11.9% Since Last Earnings Report?",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 15:30",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "自上次財報發布以來股價下跌 11.9 %，顯示市場對其財報數據或未來獲利預測感到失望，投資人需密切關注後續獲利修正風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Valmont Industries, Inc. (VMI) Presents at JPMorgan Industrials Conference 2026 Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-17 17:32",
+      "impact": "low",
+      "category": "法說會",
+      "reason": "公司於 JPMorgan 工業會議中進行簡報，屬於例行性投資人溝通，未有重大突發性利多或利空消息釋出。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

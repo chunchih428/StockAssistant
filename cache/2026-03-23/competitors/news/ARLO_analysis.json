@@ -1,0 +1,28 @@
+{
+  "ticker": "ARLO",
+  "company": "Arlo Technologies",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/ARLO.json",
+  "summary": {
+    "total_articles": 1,
+    "bullish_count": 0,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "neutral",
+    "key_theme": "公司內部人因稅務需求進行例行性持股變動，對營運基本面無實質影響。"
+  },
+  "bullish": [],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Arlo Technologies General Counsel Sells 25000 Shares for $352000 to Cover Taxes",
+      "publisher": "Motley Fool",
+      "date": "2026-03-22T07:07:42Z",
+      "impact": "low",
+      "category": "內部人交易",
+      "reason": "該筆交易為法務長 (General Counsel) 為支付稅務義務而進行的賣出，屬於常見的財務規劃行為，並非基於對公司未來展望的負面判斷，因此對股價影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
