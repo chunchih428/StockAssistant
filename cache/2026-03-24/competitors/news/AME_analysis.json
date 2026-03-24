@@ -1,0 +1,28 @@
+{
+  "ticker": "AME",
+  "company": "AMETEK",
+  "analysis_date": "2026-03-24",
+  "source_file": "cache/2026-03-24/competitors/news/AME.json",
+  "summary": {
+    "total_articles": 1,
+    "bullish_count": 0,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "neutral",
+    "key_theme": "Ametek Inc. 股價表現優於同業，儘管當日市場整體出現回調。"
+  },
+  "bullish": [],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ametek Inc. stock outperforms competitors despite losses on the day",
+      "publisher": "MarketWatch",
+      "date": "2026-03-18 16:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管 Ametek Inc. 當日股價隨大盤下跌，但其跌幅小於競爭對手，顯示出相對強勢的抗跌性，屬於市場常態波動下的相對表現分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

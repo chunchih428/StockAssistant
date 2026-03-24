@@ -1,0 +1,37 @@
+{
+  "ticker": "TRMB",
+  "company": "Trimble Inc.",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/TRMB.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 0,
+    "bearish_count": 2,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "近期股價表現疲軟，市場對於 Trimble 的估值與競爭力產生疑慮。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Is It Time To Revisit Trimble (TRMB) After Recent Share Price Weakness?",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 23:05",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "文章探討股價回調後的估值合理性，暗示市場對其長期價值存在不確定性，選此篇作為代表是因為它深入分析了股價與基本面脫鉤的可能性。"
+    },
+    {
+      "rank": 2,
+      "title": "Trimble Inc. stock underperforms Wednesday when compared to competitors",
+      "publisher": "MarketWatch",
+      "date": "2026-03-18 17:12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出 Trimble 股價表現落後於同業競爭對手，反映出短期內資金流向與市場信心不足的負面訊號。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

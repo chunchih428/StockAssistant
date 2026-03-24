@@ -1,0 +1,65 @@
+{
+  "ticker": "CRC",
+  "company": "California Resources",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/CRC.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "華爾街分析師普遍調升目標價，顯示市場對公司資本結構優化與估值表現持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Wells Fargo Maintains Overweight on California Resources, Raises Price Target to $76",
+      "publisher": "Benzinga",
+      "date": "2026-03-17 09:09",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Wells Fargo 分析師 Sam Margolin 維持「加碼」評級並調升目標價至 $76，反映出對公司未來成長潛力的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Barclays Maintains Overweight on California Resources, Raises Price Target to $72",
+      "publisher": "Benzinga",
+      "date": "2026-03-16 10:46",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Barclays 分析師 Betty Jiang 同步調升目標價至 $72，確認了機構投資人對 CRC 營運前景的看好趨勢。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Citigroup Maintains Neutral on California Resources, Raises Price Target to $67",
+      "publisher": "Benzinga",
+      "date": "2026-03-18 11:20",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "Citigroup 維持「中立」評級，儘管調升目標價至 $67，但相較於其他投行仍顯得較為保守，顯示市場對其估值空間存在分歧。"
+    },
+    {
+      "rank": 2,
+      "title": "Does California Resources (CRC) Refinancing 8.250% Notes With 7.000% Debt Recast Its Capital Allocation Priorities?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-15 23:12",
+      "impact": "medium",
+      "category": "財務結構",
+      "reason": "公司透過發行 7.000% 債券置換 8.250% 舊債，有效降低利息成本，此舉對資產負債表有正面幫助，但屬於財務操作的常規調整。"
+    },
+    {
+      "rank": 3,
+      "title": "A Look At California Resources (CRC) Valuation After Recent Share Price Momentum",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-16 06:07",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對近期股價波動後的估值分析，提供客觀的財務數據檢視，未對股價產生直接的買賣訊號影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

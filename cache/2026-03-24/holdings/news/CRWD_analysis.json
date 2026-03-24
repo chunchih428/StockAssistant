@@ -1,0 +1,102 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-03-24",
+  "source_file": "cache/2026-03-24/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "CrowdStrike 憑藉 AI 安全技術創新、FedRAMP 高規格認證以及強勁的年度經常性收入 (ARR) 成長，持續鞏固其在網路安全市場的領導地位。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike Just Crossed $5 Billion in Annual Recurring Revenue",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 20:03",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司年度經常性收入 (ARR) 突破 50 億美元大關，顯示其業務規模與市場滲透率達到重要里程碑，具備強勁的成長動能。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike Establishes the Endpoint as the Epicenter for AI Security",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 12:09",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "在 RSA 2026 大會上宣布 AI 安全新功能，強化其在終端安全領域的技術護城河，有助於吸引更多企業客戶採用。"
+    },
+    {
+      "rank": 3,
+      "title": "CrowdStrike Achieves FedRAMP High Authorization for Federal XIoT and OT Security",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 13:26",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "獲得 FedRAMP High 認證，大幅提升公司在聯邦政府與關鍵基礎設施領域的競爭力，預期將帶動公共部門營收成長。"
+    },
+    {
+      "rank": 4,
+      "title": "CrowdStrike Unveils Falcon Next-Gen SIEM Support for Microsoft Defender",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 12:07",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "透過與 Microsoft Defender 的整合，擴展了開放式安全架構，增強了 Falcon 平台的市場兼容性與客戶黏著度。"
+    },
+    {
+      "rank": 5,
+      "title": "Wedbush Says 2026 Is the Inflection Year for Artificial Intelligence",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 19:37",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Wedbush 分析師看好 CrowdStrike 在 AI 與雲端安全市場的獲利潛力，將其視為 AI 轉折年的關鍵投資標的。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "How The CrowdStrike (CRWD) Investment Story Is Shifting As Analyst Valuations Reset",
+      "publisher": "Yahoo",
+      "date": "2026-03-21 20:05",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師將公平價值預估從 546.89 美元下調至 490.48 美元，反映市場對其高估值的修正與重新評估。"
+    },
+    {
+      "rank": 2,
+      "title": "Former CrowdStrike Leaders Introduce Bltz AI",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 19:46",
+      "impact": "low",
+      "category": "競爭分析",
+      "reason": "前 CrowdStrike 高層離職創立競爭對手 Bltz AI，可能在未來對公司造成人才流失或技術競爭壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Palantir vs. CrowdStrike: Which AI-Powered Software Stock Will Dominate 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 13:20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章僅進行兩家 AI 軟體公司的比較，並未給出明確的買賣建議，主要取決於投資人的風險承受度。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike (CRWD) Is a Trending Stock: Facts to Know Before Betting on It",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為 Zacks.com 的熱門搜尋統計，提供投資人基本資訊，缺乏對股價方向的實質影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

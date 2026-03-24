@@ -1,0 +1,47 @@
+{
+  "ticker": "WGO",
+  "company": "Winnebago Industries",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/WGO.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "Neutral",
+    "key_theme": "市場焦點集中於 Winnebago 即將公布的 Q2 財報表現，同時投資人關注其作為高殖利率股的長期收益價值。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Winnebago Industries (NYSE:WGO): A Dividend Stock for Steady Passive Income",
+      "publisher": "ChartMill",
+      "date": "2026-03-17 11:21",
+      "impact": "medium",
+      "category": "投資分析",
+      "reason": "該報導強調 Winnebago 提供 3.04 % 的穩定股息殖利率，且具備財務穩健的歷史紀錄，對於追求長期被動收入的投資人具有吸引力，有助於支撐股價下檔空間。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Winnebago Gears Up to Report Q2 Earnings: Here's What to Expect",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 19:38",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "此篇為財報前瞻報導，預期 EPS 為 0.27 美元，營收為 6.25 億美元。選擇此篇作為代表是因為其提供了具體的市場預估數據，能幫助投資人建立財報公布前的基準預期，屬於中性資訊揭露。"
+    },
+    {
+      "rank": 2,
+      "title": "Ahead of Winnebago (WGO) Q2 Earnings: Get Ready With Wall Street Estimates for Key Metrics",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 13:15",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "此篇與前述財報前瞻內容高度重疊，主要提醒投資人關注財報細節，未提供新的市場觀點，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,47 @@
+{
+  "ticker": "ATEX",
+  "company": "Anterix Inc.",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/ATEX.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 Anterix 的成長潛力持樂觀態度，且 FCC 相關政策進展成為投資人關注焦點。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Can Anterix (ATEX) Climb 49.46% to Reach the Level Wall Street Analysts Expect?",
+      "publisher": "Zacks",
+      "date": "2026-03-16",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "華爾街分析師給予的目標價隱含約 49.46% 的上漲空間，顯示市場對該公司長期價值與成長前景具備高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Anterix (ATEX) Up 30.2% Since Last Earnings Report: Can It Continue?",
+      "publisher": "Zacks",
+      "date": "2026-03-13",
+      "impact": "medium",
+      "category": "財報表現",
+      "reason": "自上次財報發布以來股價已上漲 30.2%，強勁的市場動能反映了投資人對公司營運績效與未來獲利能力的正面評價。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Anterix To Discuss Results Of Federal Communications Commission Groundbreaking 900 MHz Broadband Ruling",
+      "publisher": "Benzinga",
+      "date": "2026-03-18",
+      "impact": "low",
+      "category": "法規動態",
+      "reason": "公司預告將於 4 月 9 日召開投資人會議討論 FCC 裁決結果，此為例行性資訊揭露，市場正等待具體細節以評估對業務的實質影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

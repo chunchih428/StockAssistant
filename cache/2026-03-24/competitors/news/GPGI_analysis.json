@@ -1,0 +1,38 @@
+{
+  "ticker": "GPGI",
+  "company": "GPGI",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/GPGI.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "Neutral to Bearish",
+    "key_theme": "市場對 GPGI 的估值模型存在分歧，且近期股價回調引發投資人對其合理價值的疑慮。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "GPGI (GPGI) Valuation Check After Recent Share Price Pullback And Conflicting Fair Value Signals",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-23",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導指出 GPGI 近期股價回調，且市場對於其公平價值（Fair Value）的評估訊號存在矛盾，顯示投資人對該公司當前估值缺乏共識，可能導致短期股價波動加劇。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "GPGI, Inc. (GPGI) Presents at JPMorgan Industrials Conference 2026 Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-17",
+      "impact": "low",
+      "category": "公司會議",
+      "reason": "公司高層 David Cote 在 JPMorgan 工業會議上進行簡報，屬於常規的投資人關係活動，內容主要為公司營運概況說明，未釋出具體的重大財務利多或利空訊息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

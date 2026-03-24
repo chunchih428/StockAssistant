@@ -1,0 +1,56 @@
+{
+  "ticker": "WMG",
+  "company": "Warner Music Group",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/WMG.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 1,
+    "bearish_count": 3,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司面臨串流媒體成長放緩與文化影響力下降的結構性挑戰，儘管有與 Netflix 的合作利多，但整體市場情緒仍受宏觀經濟壓力與股價疲軟影響。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "'Netflix Sets Documentary Partnership With Warner Music Group' - Deadline Exclusive",
+      "publisher": "Benzinga",
+      "date": "2026-03-20 12:17",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 Netflix 達成紀錄片合作夥伴關係，有助於 WMG 擴大音樂版權的變現管道並提升品牌曝光度，為公司帶來潛在的授權收入增長。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Warner Music Group: Even At 52-Week Lows, I Still Have Concerns",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-21 23:14",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "分析師指出 WMG 面臨串流媒體成長放緩及新音樂文化影響力下降的結構性逆風，即便股價處於 52 週低點，基本面仍存在長期隱憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Warner Music Group (WMG): Buy, Sell, or Hold Post Q4 Earnings?",
+      "publisher": "Yahoo",
+      "date": "2026-03-16 20:27",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "過去六個月股價下跌至 27.57 美元，股東資本損失達 17.4%，反映出市場對財報後續表現及公司獲利能力的信心不足。"
+    },
+    {
+      "rank": 3,
+      "title": "Offerpad, Gray Television, Warner Music Group, and AMC Entertainment Stocks Trade Down, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 22:52",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受通膨數據高於預期及地緣政治動盪影響，整體市場情緒轉趨保守，導致 WMG 股價隨大盤同步走跌。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

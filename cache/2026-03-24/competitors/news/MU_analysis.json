@@ -1,0 +1,102 @@
+{
+  "ticker": "MU",
+  "company": "Micron Technology",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/MU.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 伺服器對 HBM 高頻寬記憶體需求強勁，Micron 財報表現亮眼並調升股利，儘管短期面臨獲利了結賣壓，但長期成長動能備受分析師看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Micron CEO drops a bombshell after Micron’s huge earnings beat",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 17:07",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "Micron 公布了歷史上表現最好的季度之一，強勁的財報數據證實了 AI 記憶體需求的爆發性成長，為股價提供強大支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Micron Technology Hikes Its Dividend 30% Due to Surging FCF",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 14:00",
+      "impact": "high",
+      "category": "財務政策",
+      "reason": "自由現金流 (FCF) 大幅增加促使管理層將股利調升 30%，顯示公司財務結構極度健康，對長期投資人具備高度吸引力。"
+    },
+    {
+      "rank": 3,
+      "title": "UBS Raises Micron (MU) Price Target, Keeps Buy Rating",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 20:42",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "瑞銀 (UBS) 在財報後調升目標價，並將其列為未來 10 年最值得購買的 10 大 AI 股票之一，強化市場信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Micron CEO Warns AI Memory Demand Far Exceeds Supply",
+      "publisher": "Benzinga",
+      "date": "2026-03-20 13:05",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "執行長 Sanjay Mehrotra 指出 AI 記憶體需求遠大於供給，顯示公司擁有極強的定價權，有利於未來營收成長。"
+    },
+    {
+      "rank": 5,
+      "title": "Bank of America revamps Micron stock price target post earnings",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 03:07",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "美國銀行 (Bank of America) 在 Micron 發布亮眼財報後調升目標價，反映華爾街對其獲利能力的重新評估。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Micron (MU) Stock Is Down Today",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 20:25",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管財報表現優異，但股價在財報公布後出現 2.6% 的回調，顯示市場存在「利多出盡」的獲利了結賣壓。"
+    },
+    {
+      "rank": 2,
+      "title": "2 Artificial Intelligence (AI) Stocks That Are Quietly Outperforming Micron Technology",
+      "publisher": "Yahoo",
+      "date": "2026-03-21 09:32",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章指出其他 AI 相關股票在 2026 年的漲幅超過 Micron，可能導致部分資金配置轉移至其他成長性更高的標的。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Stock Of The Day: Is This A Bull Trap For Micron Technology?",
+      "publisher": "Benzinga",
+      "date": "2026-03-20 10:22",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "技術面分析指出股價正測試阻力位，交易員對是否能突破該區間持觀望態度，屬於中性的技術觀察。"
+    },
+    {
+      "rank": 2,
+      "title": "Super Micro Computer, Micron Technology And More: 5 Stocks Investors Couldn't Stop Buzzing About",
+      "publisher": "Benzinga",
+      "date": "2026-03-21 08:02",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅反映散戶在社群媒體 (如 Reddit) 上的討論熱度，屬於市場情緒指標，對基本面無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,102 @@
+{
+  "ticker": "MRVL",
+  "company": "Marvell Technology",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/MRVL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 1,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "Marvell 憑藉在 OFC 2026 大會上發布的 CXL 與 PCIe 6.0 交換器等 AI 基礎設施創新，持續強化其在資料中心市場的競爭優勢。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Marvell Launches Next-generation CXL Switch, Enabling Memory Pooling to Break Through the AI Memory Wall",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 13:02",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "推出業界領先的 CXL 交換器技術，直接解決 AI 運算中的記憶體瓶頸問題，顯著提升資料中心效能。"
+    },
+    {
+      "rank": 2,
+      "title": "Marvell Launches Industry’s First 260-lane PCIe 6.0 Switch for AI Data Center Scale-up Infrastructure",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 13:00",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "發布業界首款 260 通道 PCIe 6.0 交換器，進一步鞏固 Marvell 在 AI 基礎設施擴展領域的技術領先地位。"
+    },
+    {
+      "rank": 3,
+      "title": "Marvell Technology, Lumentum Demonstrate Marvell Optical Connectivity Solutions Interoperating With Lumentum's Optical Circuit Switching Platform",
+      "publisher": "Benzinga",
+      "date": "2026-03-16 09:02",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "與 Lumentum 合作展示光互連解決方案，顯示公司在 AI 資料中心生態系統中的整合能力與合作深度。"
+    },
+    {
+      "rank": 4,
+      "title": "Marvell Technology, Inc. Declares Quarterly Dividend Payment",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 20:05",
+      "impact": "low",
+      "category": "財務政策",
+      "reason": "宣布發放季度股利，展現公司穩健的現金流與對股東回報的承諾。"
+    },
+    {
+      "rank": 5,
+      "title": "Marvell Stock Forecast: Will AI Power MRVL Stock Higher?",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 18:39",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場分析指出強勁的資料中心需求與 AI 晶片成長動能，預期將推動公司營收與獲利持續成長。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Marvell Registers Up To 300,874 Shares For Resale Tied To Celestial AI Acquisition",
+      "publisher": "Benzinga",
+      "date": "2026-03-19 16:22",
+      "impact": "low",
+      "category": "股權變動",
+      "reason": "公司為收購 Celestial AI 註冊股份進行轉售，可能引發市場對短期籌碼稀釋的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Better Semiconductor Stock: Broadcom vs. Marvell Technology",
+      "publisher": "Yahoo",
+      "date": "2026-03-21 21:34",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 Marvell 與 Broadcom 進行比較，兩者皆受惠於 AI 晶片趨勢，屬於產業競爭分析，無明顯利多或利空。"
+    },
+    {
+      "rank": 2,
+      "title": "Assessing Marvell Technology’s Valuation After Recent Share Price Momentum And Conflicting Fair Value Views",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 18:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對近期股價漲幅後的估值進行探討，市場對其合理價值存在分歧，屬中性觀點。"
+    },
+    {
+      "rank": 3,
+      "title": "Marvel Biosciences Receives Notice of Allowance for US Patent Application Covering Composition of Matter for Its Lead Therapeutic Candidate MB-204",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 11:00",
+      "impact": "low",
+      "category": "其他",
+      "reason": "此為 Marvel Biosciences (TSXV: MRVL) 的生技專利新聞，與 Marvell Technology (NASDAQ: MRVL) 無關，屬代碼混淆。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

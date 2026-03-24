@@ -1,0 +1,120 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-03-24",
+  "source_file": "cache/2026-03-24/competitors/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 11,
+    "bearish_count": 3,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "iPhone 需求強勁與產品週期升級預期，帶動市場對 Apple 未來成長的樂觀情緒。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Morgan Stanley survey shows record upgrade interest for Apple’s iPhones",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 14:50",
+      "impact": "high",
+      "category": "市場需求",
+      "reason": "Morgan Stanley 分析師 Erik Woodring 指出全球智慧型手機調查顯示 2026 年 iPhone 升級意願創紀錄，預期 Apple 將獲得更多市佔率。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple preparing first foldable iPhone for 2026 launch, supply chain checks suggest",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 19:23",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "根據美銀供應鏈調查，Apple 預計於 2026 年推出首款摺疊 iPhone，此創新產品有望成為新的營收成長引擎。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple Watch Ruling Keeps Key Revenue Stream Intact For Investors",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 20:06",
+      "impact": "medium",
+      "category": "法規與訴訟",
+      "reason": "Apple 在法律訴訟中取得勝利，確保了 Apple Watch 在美國市場的持續銷售，消除了潛在的營收風險。"
+    },
+    {
+      "rank": 4,
+      "title": "Apple’s Worldwide Developers Conference returns the week of June 8",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 17:00",
+      "impact": "medium",
+      "category": "公司活動",
+      "reason": "Apple 宣布年度開發者大會 WWDC 將於 6 月 8 日舉行，通常是展示軟體創新與 AI 策略的重要場合。"
+    },
+    {
+      "rank": 5,
+      "title": "Tim Cook’s China visit reinforces country’s importance to Apple as global frictions rise",
+      "publisher": "CNBC",
+      "date": "2026-03-20 11:12",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "執行長 Tim Cook 親自訪問中國並慶祝在華 50 週年，顯示 Apple 致力於維護其關鍵的生產與銷售市場。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bank of America resets Apple price target",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 01:37",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Apple 股價年初至今下跌約 7 %，美銀重新調整目標價，反映市場對其短期股價表現的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Market Chatter: Google, Amazon, Apple Face EU 'Gatekeeper' Designation Push Over Smart TVs, Virtual Assistants",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 10:46",
+      "impact": "medium",
+      "category": "法規與訴訟",
+      "reason": "歐盟正推動將 Apple 等科技巨頭列為「守門人」，可能面臨更嚴格的監管與反壟斷審查，增加營運成本。"
+    },
+    {
+      "rank": 3,
+      "title": "Google Brings Gemini To Mac In Early Test To Rival ChatGPT",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 01:31",
+      "impact": "low",
+      "category": "競爭動態",
+      "reason": "Google 將 Gemini 引入 Mac 平台，顯示 AI 領域競爭加劇，可能對 Apple 自有的 AI 生態系統構成挑戰。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Apple (AAPL) Beats Stock Market Upswing: What Investors Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導 Apple 股價單日上漲 1.41 %，屬於市場常態波動，無重大基本面消息。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple Inc. (AAPL) is Attracting Investor Attention: Here is What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為 Zacks.com 用戶關注度分析，未提供具體財務影響資訊。"
+    },
+    {
+      "rank": 3,
+      "title": "Formula 1 CEO on shorter races, Max Verstappen, new regulations, and Apple",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 13:22",
+      "impact": "low",
+      "category": "其他",
+      "reason": "新聞主要討論 F1 賽事，僅提及 Apple 作為相關產業參與者，對股價無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

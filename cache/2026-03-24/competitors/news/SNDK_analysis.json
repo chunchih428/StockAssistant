@@ -1,0 +1,102 @@
+{
+  "ticker": "SNDK",
+  "company": "Sandisk",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/SNDK.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 4,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 儲存需求強勁與機構資金湧入，SanDisk 股價在過去一年大幅飆升，儘管面臨記憶體產業週期性波動的短期修正壓力，分析師仍普遍看好其長期成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Citigroup Maintains Buy on SanDisk, Raises Price Target to $875",
+      "publisher": "Benzinga",
+      "date": "2026-03-19 11:37",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "花旗分析師 Asiya Merchant 將目標價由 750 美元上調至 875 美元，顯示對公司在 AI 儲存市場的競爭優勢與獲利能力充滿信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Up Around 1,200% in the Past Year, How Much Higher Can Sandisk Stock Go?",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 18:50",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "過去一年股價漲幅達 1,200 %，反映出市場對記憶體與儲存產品的強勁需求，支撐了長期多頭趨勢。"
+    },
+    {
+      "rank": 3,
+      "title": "Sandisk Stock Split Chatter Builds As AI Storage Contracts Fill Capacity",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 02:05",
+      "impact": "medium",
+      "category": "市場傳聞",
+      "reason": "市場傳出股票分割預期，通常被視為公司對未來股價持續成長的信心表現，且 AI 儲存合約滿載提供了基本面支撐。"
+    },
+    {
+      "rank": 4,
+      "title": "See SanDisk Rise on Big Money Buys",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 10:49",
+      "impact": "medium",
+      "category": "資金流向",
+      "reason": "機構投資人的持續買入是推動股價在一年內大漲 1,194 % 的核心動力，顯示大型資本對該公司的長期價值認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Sandisk Drops 5%: AI Breakout or Speculative Bubble?",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 16:28",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日下跌 5 % 並跌破 740 美元關卡，引發市場對於 AI 概念股是否進入投機泡沫階段的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "What's Behind The Drop In Sandisk Stock Today?",
+      "publisher": "Benzinga",
+      "date": "2026-03-19 12:42",
+      "impact": "medium",
+      "category": "產業連動",
+      "reason": "受同業 Micron 財報後股價下跌的連帶影響，顯示記憶體類股在產業週期中具有高度相關性，容易引發集體修正。"
+    },
+    {
+      "rank": 3,
+      "title": "Morgan Stanley Says Memory Stocks 'Cooling Off'",
+      "publisher": "Benzinga",
+      "date": "2026-03-17 06:22",
+      "impact": "low",
+      "category": "分析師觀點",
+      "reason": "摩根士丹利警告記憶體類股正在降溫，儘管 SanDisk 目前表現強勢，但分析師提醒需留意產業週期轉折風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Cramer's Stop Trading: Sandisk",
+      "publisher": "CNBC",
+      "date": "2026-03-19 10:09",
+      "impact": "low",
+      "category": "媒體評論",
+      "reason": "Jim Cramer 表示持續關注該股，未給出明確買進或賣出建議，僅代表市場對該熱門股的高度關注。"
+    },
+    {
+      "rank": 2,
+      "title": "Sandisk, Union Pacific, Five Below: Top Analyst Calls",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 14:49",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為財經媒體整理的分析師評級清單，屬於例行性市場資訊報導。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

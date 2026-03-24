@@ -1,0 +1,47 @@
+{
+  "ticker": "LYV",
+  "company": "Live Nation Entertainment",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/LYV.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管面臨美國司法部反壟斷訴訟的監管壓力，Live Nation 憑藉強勁的市場表現持續優於大盤。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Live Nation Entertainment Inc. stock outperforms competitors on strong trading day",
+      "publisher": "MarketWatch",
+      "date": "2026-03-16 16:55",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價在交易日中表現優於競爭對手，顯示市場對其業務韌性與獲利能力仍具信心，具備短期動能。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Live Nation Entertainment Stock Outperforming the Dow?",
+      "publisher": "Yahoo",
+      "date": "2026-03-16 14:11",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該股在過去一年內持續跑贏道瓊工業指數，反映出強勁的長期成長趨勢與投資人對其市場主導地位的認可。此處彙整了 Barchart 的重複報導，因 Yahoo 報導涵蓋了華爾街分析師的觀點，資訊更為全面。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Antitrust Trial Puts Live Nation Ticketing Power And Valuation In Focus",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 23:08",
+      "impact": "high",
+      "category": "法規與訴訟",
+      "reason": "美國司法部針對 Live Nation 的反壟斷審判正在進行中，重點審查其票務業務的壟斷行為及對場館准入的影響，此法律風險可能導致業務模式被迫調整或面臨鉅額罰款，對估值構成重大不確定性。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

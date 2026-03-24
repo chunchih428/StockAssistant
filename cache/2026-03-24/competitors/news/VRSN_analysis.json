@@ -1,0 +1,57 @@
+{
+  "ticker": "VRSN",
+  "company": "VeriSign",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/VRSN.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "neutral",
+    "key_theme": "市場對於 VeriSign 的獲利前景持樂觀態度，但面臨大型機構投資人減持股份帶來的賣壓與股價相對表現疲軟的挑戰。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "All You Need to Know About VeriSign (VRSN) Rating Upgrade to Buy",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 16:00",
+      "impact": "medium",
+      "category": "投資評級",
+      "reason": "Zacks 將 VeriSign 的評級上調至 #2 (買進)，主要反映市場對該公司未來盈餘成長的預期轉趨樂觀，這通常能吸引機構資金關注。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "VeriSign (VRSN) Shares Slid Following Berkshire Hathaway’s Reduction of Its Stake",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 11:43",
+      "impact": "high",
+      "category": "股權變動",
+      "reason": "波克夏海瑟威 (Berkshire Hathaway) 減持股份的消息引發市場對長期持有者信心的擔憂，導致股價出現下行壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "VeriSign Inc. stock underperforms Wednesday when compared to competitors",
+      "publisher": "MarketWatch",
+      "date": "2026-03-18 17:06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此類報導屬於例行性的市場表現回顧，僅反映當日股價相對於同業的相對弱勢，並未涉及公司基本面重大改變。"
+    },
+    {
+      "rank": 2,
+      "title": "VeriSign Inc. stock underperforms Monday when compared to competitors despite daily gains",
+      "publisher": "MarketWatch",
+      "date": "2026-03-16 17:06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管當日股價有所上漲，但相較於競爭對手表現仍顯疲軟，屬於技術性與市場情緒的短期波動觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

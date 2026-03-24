@@ -1,0 +1,65 @@
+{
+  "ticker": "CRGY",
+  "company": "Crescent Energy",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/CRGY.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "華爾街投行對 Crescent Energy 的成長前景持樂觀態度，紛紛上調目標價，儘管近期股價出現短期波動與資本結構調整的疑慮。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "JP Morgan Reinstates Overweight on Crescent Energy, Announces $19 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-03-20 08:57",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "JP Morgan 分析師 Zach Parham 給予「增持」評級並設定 $19 目標價，顯示對公司未來獲利能力與資產價值的強烈信心，為市場注入正面訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "Wells Fargo Maintains Overweight on Crescent Energy, Raises Price Target to $14",
+      "publisher": "Benzinga",
+      "date": "2026-03-17 09:07",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Wells Fargo 分析師 Hanwen Chang 維持「增持」評級並上調目標價，反映出機構投資人對公司基本面改善的認可。"
+    },
+    {
+      "rank": 3,
+      "title": "Here’s Why Piper Sandler Increased Crescent Energy’s (CRGY) Price Target To $16",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-18 11:03",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Piper Sandler 上調目標價至 $16，進一步強化了市場對於 CRGY 股價成長潛力的共識。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Crescent Energy (CRGY) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "publisher": "Zacks",
+      "date": "2026-03-16 22:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "在整體市場上漲背景下，CRGY 股價卻出現下跌，顯示短期內面臨賣壓或投資人對其近期表現的獲利了結心態。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Crescent Energy’s ESOP Shelf Filing Quietly Redefining Its Capital Structure Strategy for CRGY?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-19 10:04",
+      "impact": "low",
+      "category": "資本結構",
+      "reason": "關於 ESOP 儲架發行文件的討論引發市場對於股權稀釋或資本結構調整的擔憂，可能對股價造成短期心理壓力。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

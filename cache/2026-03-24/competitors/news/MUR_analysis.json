@@ -1,0 +1,56 @@
+{
+  "ticker": "MUR",
+  "company": "Murphy Oil",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/MUR.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司在越南的開發項目獲得政府批准，加上市場對其股價目標價的調升，推動了投資人對 Murphy Oil 的樂觀情緒。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Murphy Oil (MUR) Soars to 52-Week High on 21% Price Target, Rating Upgrade",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-14",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價創下 52 週新高，且獲得評級調升與目標價上調 21 %，顯示市場對其近期營運表現與未來成長潛力的高度認可。"
+    },
+    {
+      "rank": 2,
+      "title": "Murphy Oil: The Vietnam Development Strategy — Vietnam’s government has now greenlit Murphy Oil's first project after initial delays.",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-16",
+      "impact": "medium",
+      "category": "業務擴張",
+      "reason": "越南政府批准了 Murphy Oil 的首個開發項目，消除了先前的延遲疑慮，預計將為公司帶來新的產能與營收貢獻。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Mizuho Maintains Neutral on Murphy Oil, Raises Price Target to $39",
+      "publisher": "Benzinga",
+      "date": "2026-03-17",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "Mizuho 分析師 Nitin Kumar 維持中立評級，儘管將目標價從 35 美元調升至 39 美元，顯示對估值空間持謹慎樂觀態度。"
+    },
+    {
+      "rank": 2,
+      "title": "How Middle East Oil Supply Shocks And IEA Action At Murphy Oil (MUR) Has Changed Its Investment Story",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-13",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討外部地緣政治因素（中東供應衝擊）與國際能源署（IEA）行動對公司投資故事的影響，屬於宏觀環境分析，對股價無直接短期利多或利空訊號。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

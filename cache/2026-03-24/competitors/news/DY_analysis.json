@@ -1,0 +1,56 @@
+{
+  "ticker": "DY",
+  "company": "Dycom Industries",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/DY.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於光纖部署需求強勁，公司透過擴大培訓設施以提升長期執行力與成長動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Dycom Industries: Fiber Provides Growth Path For Next Decade",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-16",
+      "impact": "high",
+      "category": "市場展望",
+      "reason": "分析指出光纖到戶 (FTTH) 與相關基礎設施部署將成為未來十年的成長引擎，為 Dycom 提供明確的長期營收能見度。"
+    },
+    {
+      "rank": 2,
+      "title": "MasTec vs. Dycom: Which Telecom Infrastructure Stock Has More Upside?",
+      "publisher": "Yahoo",
+      "date": "2026-03-19",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "透過與同業 MasTec 的比較，強調 Dycom 在光纖需求驅動下的市場競爭力，市場對其成長動能持正面看法。"
+    },
+    {
+      "rank": 3,
+      "title": "Dycom Industries Bets On Immersive Training To Support Future Projects",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-15",
+      "impact": "medium",
+      "category": "營運策略",
+      "reason": "公司投入沉浸式培訓技術以解決勞動力需求，此舉有助於提升專案執行效率，選此篇作為代表是因為其涵蓋了公司為應對未來專案所做的具體營運佈局。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Dycom Industries Plans Training Center: Is Growth Set to Accelerate?",
+      "publisher": "Zacks",
+      "date": "2026-03-13",
+      "impact": "low",
+      "category": "營運策略",
+      "reason": "該報導探討新培訓中心對成長的潛在貢獻，內容與 Simply Wall St. 的報導高度重疊，故歸類為中性觀察，重點在於評估資本支出與未來營收成長的關聯性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

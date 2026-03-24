@@ -1,0 +1,111 @@
+{
+  "ticker": "PLTR",
+  "company": "Palantir Technologies Inc.",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/PLTR.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 6,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Palantir 憑藉 Maven AI 獲得國防部認證及多項商業合作案展現強勁成長動能，儘管市場對其高估值與競爭壓力存有疑慮，但機構法人仍維持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Pentagon formalizes Palantir’s Maven AI system as military program of record",
+      "publisher": "Yahoo",
+      "date": "2026-03-21 02:20",
+      "impact": "high",
+      "category": "政府合約",
+      "reason": "Maven AI 被正式指定為國防部「記錄程式」，代表長期且穩定的政府營收來源，顯著提升公司在國防領域的護城河。"
+    },
+    {
+      "rank": 2,
+      "title": "Palantir and Moder Partner to Transform Mortgage Industry",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 10:59",
+      "impact": "medium",
+      "category": "商業合作",
+      "reason": "與 Moder 合作開發 AI 房貸平台並獲得 Freedom Mortgage 作為首位客戶，顯示其 AI 軟體在金融科技領域的商業化落地能力。"
+    },
+    {
+      "rank": 3,
+      "title": "Palantir Technologies Inc. (PLTR) Partners with Keel Holdings on US Navy’s ShipOS initiative",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 16:53",
+      "impact": "medium",
+      "category": "商業合作",
+      "reason": "與 Keel Holdings 合作參與美國海軍 ShipOS 計畫，進一步鞏固其在軍事物流與數據分析市場的領導地位。"
+    },
+    {
+      "rank": 4,
+      "title": "Is GE’s (GE) Expanded Palantir AI Deal Quietly Redefining Its Long-Term Efficiency Narrative?",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 05:03",
+      "impact": "medium",
+      "category": "商業合作",
+      "reason": "與 GE Aerospace 擴大合作導入代理人 AI，證明其在工業領域的 AI 應用具備顯著的營運效率提升價值。"
+    },
+    {
+      "rank": 5,
+      "title": "Palantir Stock Is in the Red This Year. Why Analysts Say It’s Still an AI Winner.",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 17:59",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "摩根士丹利等機構重申對 Palantir 的信心，認為儘管年初股價波動，但其 AI 競爭優勢依然穩固。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Palantir Maven AI Wins Pentagon Backing But Valuation Stays Stretched",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 00:17",
+      "impact": "medium",
+      "category": "市場估值",
+      "reason": "儘管獲得國防部合約，但市場擔憂其高昂的本益比已反映過多預期，估值過高可能限制短期上漲空間。"
+    },
+    {
+      "rank": 2,
+      "title": "Can Palantir Technologies Sustain Its Growth? Narrative vs. Reality",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 15:13",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析指出 AI 市場競爭加劇，Palantir 的成長故事面臨現實檢驗，投資人對其長期維持高成長率存疑。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Palantir Technologies Inc. (PLTR) A Good Stock To Buy Now?",
+      "publisher": "Yahoo",
+      "date": "2026-03-21 21:06",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "市場出現看空論點，提醒投資人需注意公司潛在的風險因素與過度樂觀的市場情緒。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Too Late To Reassess Palantir Technologies (PLTR) After Its 65.7% One Year Rally?",
+      "publisher": "Yahoo",
+      "date": "2026-03-21 08:05",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "探討過去一年 65.7% 的漲幅是否已透支未來成長，屬於中性的價值評估分析。"
+    },
+    {
+      "rank": 2,
+      "title": "Software Stock Could Bounce After Bullish Crossover",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 19:10",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "股價突破 50 日移動平均線，僅為技術面觀察，未涉及基本面變化。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

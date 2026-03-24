@@ -1,0 +1,48 @@
+{
+  "ticker": "APG",
+  "company": "APi Group",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/APG.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "Neutral",
+    "key_theme": "公司基本面穩健但受地緣政治引發的宏觀市場波動影響"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "APi Group Corporation (APG) Presents at JPMorgan Industrials Conference 2026 Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-17 10:12",
+      "impact": "medium",
+      "category": "投資人會議",
+      "reason": "管理層在 JPMorgan 工業會議上闡述了公司長期成長策略與營運韌性，有助於強化機構投資人對其核心業務的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bel Fuse, TopBuild, First Solar, APi, and Owens Corning Shares Plummet, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 20:52",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "受中東地緣政治緊張局勢影響，市場避險情緒升溫導致工業類股普遍下跌，APG 股價隨大盤出現非基本面因素的修正。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "A Look Back at Construction and Maintenance Services Stocks’ Q4 Earnings: APi (NYSE:APG) Vs The Rest Of The Pack",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 22:32",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "該報導對 APG 第 4 季財報進行回顧與同業比較，屬於資訊整理性質，未提供新的重大財務預測或營運變動，對股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

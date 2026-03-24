@@ -1,0 +1,56 @@
+{
+  "ticker": "MSCI",
+  "company": "MSCI",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/MSCI.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "受到 Raymond James 分析師調升評級至 Strong Buy 的激勵，MSCI 股價表現優於同業。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Raymond James Upgrades MSCI to Strong Buy, Maintains Price Target to $710",
+      "publisher": "Benzinga",
+      "date": "2026-03-17 10:52",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Raymond James 分析師 Patrick O'Shaughnessy 將 MSCI 評級由 Outperform 調升至 Strong Buy，並維持 710 美元目標價，顯示市場對其長期成長潛力與競爭優勢具備高度信心。此處選用 Benzinga 報導，因其提供了具體的分析師姓名與評級變動細節。"
+    },
+    {
+      "rank": 2,
+      "title": "MSCI Inc. stock outperforms competitors on strong trading day",
+      "publisher": "MarketWatch",
+      "date": "2026-03-17 16:53",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "MSCI 股價在當日交易中表現優於競爭對手，反映出市場資金對該公司業務模式的青睞，以及在金融數據與指數服務領域的強勢地位。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Raymond James Upgrades MSCI (MSCI)",
+      "publisher": "Fintel",
+      "date": "2026-03-17 22:04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此報導僅為對 Raymond James 調升評級事件的簡短摘要，內容重複且未提供額外分析，故歸類為中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Here's How Much $100 Invested In MSCI 15 Years Ago Would Be Worth Today",
+      "publisher": "Benzinga",
+      "date": "2026-03-17 11:45",
+      "impact": "low",
+      "category": "歷史績效",
+      "reason": "此類文章為回顧性投資績效分析，雖顯示長期報酬優異，但對當前股價走勢不具備直接的預測性影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

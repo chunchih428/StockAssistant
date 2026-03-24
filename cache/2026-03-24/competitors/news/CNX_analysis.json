@@ -1,0 +1,48 @@
+{
+  "ticker": "CNX",
+  "company": "CNX Resources",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/CNX.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "Mixed",
+    "key_theme": "市場對 CNX Resources 的獲利前景與估值存在分歧，儘管財報表現優於預期，但分析師仍對其長期評價持謹慎態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Assessing CNX Resources (CNX) Valuation After Earnings Beats And Raised Growth Expectations",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-14",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "公司近期財報表現優於預期，且市場調升了其成長預期，顯示核心業務動能強勁，對股價具備正面支撐作用。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Barclays Maintains Underweight on CNX Resources, Raises Price Target to $36",
+      "publisher": "Benzinga",
+      "date": "2026-03-16",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "儘管 Barclays 分析師 Betty Jiang 調升了目標價至 36 美元，但仍維持「減碼」評級，反映出機構投資人對該股當前估值與未來風險的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Improving Earnings Outlook And Insider Selling Could Be A Game Changer For CNX Resources (CNX)",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導同時提及獲利前景改善與內部人賣股行為，兩者相互抵銷，市場訊號呈現中性，投資人需觀察內部人減持是否影響長期信心。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,48 @@
+{
+  "ticker": "RRX",
+  "company": "Regal Rexnord",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/RRX.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "neutral",
+    "key_theme": "公司正處於 CEO 接班過渡期，儘管市場對其轉型帶來的現金流改善持樂觀態度，但仍受地緣政治風險導致的宏觀市場波動影響。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Regal Rexnord: Not An Ideal Prospect, Good Enough To Remain Bullish — Regal Rexnord (RRX) stays a buy as transformation lifts revenue/cash flow.",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-21 08:37",
+      "impact": "medium",
+      "category": "投資評級",
+      "reason": "分析師維持買入評級，主要基於公司轉型策略成功，有效提升了營收表現與現金流，顯示基本面具備韌性。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Sterling, Dycom, AeroVironment, Regal Rexnord, and Kratos Stocks Trade Down, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 20:37",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受中東地緣政治緊張局勢影響，市場避險情緒升溫，導致包括 RRX 在內的多檔工業股出現短期股價回調。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Regal Rexnord Extends CEO Pinkham's Service Through June 30 As Company Identifies Succession Candidates",
+      "publisher": "Benzinga",
+      "date": "2026-03-16 16:22",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "公司宣布延長現任 CEO Pinkham 的任期至 6 月 30 日，以確保接班過程平穩。此舉為例行性行政安排，選此篇作為代表是因為其明確指出具體延任期限，資訊較為完整。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

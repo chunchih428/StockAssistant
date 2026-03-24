@@ -1,0 +1,66 @@
+{
+  "ticker": "MKSI",
+  "company": "MKS Inc.",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/MKSI.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "Mixed",
+    "key_theme": "市場對 MKS 在 AI 領域的成長潛力持正面看法，但近期股價表現疲軟及分析師下調目標價引發了對短期動能的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Is MKS Inc. (MKSI) One of the Best AI Stocks to Look at",
+      "publisher": "Yahoo",
+      "date": "2026-03-16 18:33",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導將 MKSI 列為 15 檔具備潛力的 AI 概念股之一，強調其在 AI 基礎設施供應鏈中的隱性價值，有助於提升市場對其長期成長的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "MKSI Gets SBTi Approval for 2030 Science-Based Emission Targets",
+      "publisher": "Zacks",
+      "date": "2026-03-13 18:30",
+      "impact": "low",
+      "category": "企業治理",
+      "reason": "獲得 SBTi 認證顯示公司在 ESG 領域的承諾，有助於吸引重視永續發展的機構投資人，對長期品牌形象有正面助益。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Citigroup Maintains Buy on MKS, Lowers Price Target to $290",
+      "publisher": "Benzinga",
+      "date": "2026-03-20 15:25",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "花旗分析師 Atif Malik 雖維持買入評級，但將目標價從 $295 下調至 $290，反映出對短期股價動能或財務預期的審慎態度。"
+    },
+    {
+      "rank": 2,
+      "title": "MKS (MKSI) Down 6.8% Since Last Earnings Report: Can It Rebound?",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 15:30",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "自上季財報發布以來股價下跌 6.8%，顯示市場對其財報後的獲利能力或未來指引存在疑慮，短期內面臨技術性修正壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "TER vs. MKSI: Which Semiconductor Stock Is a Better Buy Now?",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 15:07",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此文為同業比較分析，指出 Teradyne (TER) 在 AI 測試需求上表現較強，對 MKSI 而言屬於中性競爭評估，未直接改變公司基本面。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

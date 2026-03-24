@@ -1,0 +1,93 @@
+{
+  "ticker": "FDS",
+  "company": "FactSet Research Systems",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/FDS.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 4,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管近期股價表現落後於金融服務產業，但分析師看好其強勁的銷售成長潛力、高客戶留存率以及 AI 產品布局帶來的長期價值。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Wall Street Analysts Think FactSet (FDS) Could Surge 38.8%: Read This Before Placing a Bet",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 13:55",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "華爾街分析師給出的平均目標價顯示 FDS 具備 38.8 % 的上漲空間，反映市場對其未來估值修復的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "The AI Panic Is Mispricing FactSet",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-19 14:08",
+      "impact": "high",
+      "category": "投資建議",
+      "reason": "文章指出市場對 AI 帶來的競爭過度恐慌，忽略了 FDS 超過 95 % 的客戶留存率、利潤率提升以及 10 億美元的股票回購計畫，認為目前股價被低估。"
+    },
+    {
+      "rank": 3,
+      "title": "3 Sales Growth Stocks to Bet on Despite Geopolitical Conflicts",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 10:19",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "將 FDS 列為銷售成長領先股，強調其在通膨與地緣政治風險下，仍具備強勁的市場需求支撐。"
+    },
+    {
+      "rank": 4,
+      "title": "A Look At FactSet Research Systems (FDS) Valuation After Bamco Stake Increase And New AI Compliance Tools",
+      "publisher": "Yahoo",
+      "date": "2026-03-16 15:16",
+      "impact": "medium",
+      "category": "機構持股與產品發布",
+      "reason": "Bamco Inc 將持股提升至 8.38 億美元，顯示機構投資人對其基本面與新推出的 AI 合規工具持正面態度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "RBC Capital Maintains Sector Perform on FactSet Research Systems, Lowers Price Target to $243",
+      "publisher": "Benzinga",
+      "date": "2026-03-18 10:00",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "RBC Capital 分析師 Ashish Sabadra 維持「產業表現」評級，並下調目標價至 243 美元，反映對短期成長動能的保守看法。"
+    },
+    {
+      "rank": 2,
+      "title": "How Is FactSet Research Systems’ Stock Performance Compared to Other Financial Services Stocks?",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 08:28",
+      "impact": "low",
+      "category": "市場表現",
+      "reason": "指出 FDS 在過去一年中表現明顯落後於金融服務產業整體，顯示其近期股價動能疲軟。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Zacks.com featured highlights include Deckers Outdoor Corp., Intuit and FactSet Research Systems",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 13:28",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅將 FDS 列為銷售成長型股票的觀察名單，未提供具體的買賣建議或深度分析。"
+    },
+    {
+      "rank": 2,
+      "title": "Deutsche Bank Updates FactSet (FDS) Coverage with Lower Target",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 05:13",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "德意志銀行更新對 FDS 的覆蓋，雖然下調目標價，但同時將其列入 2026 年 15 檔最佳安全股息股，綜合影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

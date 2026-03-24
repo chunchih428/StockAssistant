@@ -1,0 +1,47 @@
+{
+  "ticker": "XEL",
+  "company": "Xcel Energy",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/XEL.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司治理與 ESG 表現持續獲得國際肯定，且作為受監管公用事業股，其防禦性特質與機構投資人青睞度仍支撐長期價值。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Xcel Energy Named One of the World’s Most Ethical Companies® for Seventh Consecutive Year",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 15:30",
+      "impact": "medium",
+      "category": "企業治理",
+      "reason": "連續 7 年入選全球最具道德企業榜單，強化了公司的 ESG 品牌形象，有助於吸引重視永續投資的機構法人資金。選擇此篇作為代表，因其為官方公告，資訊最為完整。"
+    },
+    {
+      "rank": 2,
+      "title": "Here is Why Xcel Energy (XEL) is One of the Best Regulated Electric Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 05:59",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "被列為避險基金青睞的 10 大受監管電力股之一，顯示其在波動市場中的防禦性與穩定的現金流特性受到專業投資人認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Xcel Energy Inc. stock underperforms Wednesday when compared to competitors",
+      "publisher": "MarketWatch",
+      "date": "2026-03-18 16:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價表現落後於同業，反映短期內市場資金配置偏好或技術性賣壓，但未見基本面惡化，影響程度有限。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

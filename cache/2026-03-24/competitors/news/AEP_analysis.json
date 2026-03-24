@@ -1,0 +1,74 @@
+{
+  "ticker": "AEP",
+  "company": "American Electric Power",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/AEP.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 4,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司透過大規模基礎設施投資與 AI 資料中心需求驅動成長，並獲得分析師調升目標價，儘管面臨短期股價波動與債務壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "AEP Ohio Partners to Bring $4.2B in New Electric Infrastructure in Appalachian Ohio Without Raising Customer Rates",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 15:36",
+      "impact": "high",
+      "category": "基礎設施投資",
+      "reason": "AEP 宣布投入 42 億美元進行電網基礎設施升級，且承諾不調漲客戶費率，顯示公司在維持營運效率與擴張產能間取得平衡，有利於長期獲利成長。"
+    },
+    {
+      "rank": 2,
+      "title": "JPMorgan Raises Price Target on American Electric (AEP)",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 05:59",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "摩根大通調升 AEP 目標價，反映市場對其作為受監管電力股的穩定性與成長潛力持正面看法，選取此篇作為代表，涵蓋了市場對該股的買入信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Assessing American Electric Power Company (AEP) Valuation After Reaffirmed Growth Outlook And AI Data Center Load Forecast",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-14 09:10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "公司重申成長展望，並受惠於 AI 資料中心帶來的電力需求激增，市場對其估值與未來電力負載預測持樂觀態度。"
+    },
+    {
+      "rank": 4,
+      "title": "AEP Names Brian Abraham to Lead Appalachian Power, Aaron Walker Appointed to Nuclear Development Organization Role",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 19:00",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "公司進行關鍵人事布局，任命 Brian Abraham 領導 Appalachian Power 並強化核能開發組織，顯示公司正積極推動能源轉型與區域營運優化。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "American Electric Power Co. Inc. stock underperforms Wednesday when compared to competitors",
+      "publisher": "MarketWatch",
+      "date": "2026-03-18 16:44",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價在單日表現落後於同業，反映短期市場情緒波動或資金輪動，對基本面影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Leadership Shift And New Debt Raise: What Story Is AEP (AEP) Telling About Its Grid Strategy?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-14 04:24",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "文章探討公司透過舉債進行電網策略布局，雖然有助於長期發展，但市場對債務增加帶來的財務槓桿風險表示關注。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}
