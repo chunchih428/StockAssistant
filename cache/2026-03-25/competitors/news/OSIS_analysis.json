@@ -1,0 +1,38 @@
+{
+  "ticker": "OSIS",
+  "company": "OSI Systems",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/OSIS.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司在 JPMorgan 工業大會上展現強勁的訂單動能與優異的現金流前景，市場信心獲得提振。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "OSI Systems Highlights Strong Bookings, “Outstanding” Cash Flow Outlook at JPMorgan Conference",
+      "publisher": "MarketBeat",
+      "date": "2026-03-21T15:02:12Z",
+      "impact": "high",
+      "category": "營運展望",
+      "reason": "公司管理層在 JPMorgan 大會上明確指出強勁的訂單積壓（Bookings）與優異的現金流預期，直接強化了投資人對其未來獲利能力的信心，此篇報導涵蓋了會議的核心利多資訊，最具代表性。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "OSI Systems, Inc. (OSIS) Presents at JPMorgan Industrials Conference 2026 Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-17 20:22",
+      "impact": "low",
+      "category": "會議紀要",
+      "reason": "此為會議的原始逐字稿，雖然內容與 MarketBeat 的報導一致，但屬於資訊揭露性質，相較於經過整理與重點摘要的報導，其對股價的直接影響力較為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

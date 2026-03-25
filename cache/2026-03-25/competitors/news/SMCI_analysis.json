@@ -1,0 +1,74 @@
+{
+  "ticker": "SMCI",
+  "company": "Super Micro Computer",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/SMCI.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 0,
+    "bearish_count": 19,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司共同創辦人 Wally Liaw 因涉嫌非法走私 NVIDIA 晶片至中國遭起訴，引發股價崩跌、高層異動及面臨 S&P 500 指數成分股除名的重大營運危機。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Super Micro Crisis: SMCI Executives Indicted for Smuggling AI Chip to China",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 16:59",
+      "impact": "high",
+      "category": "法律訴訟",
+      "reason": "聯邦檢察官起訴公司高層涉及非法走私價值數十億美元的 NVIDIA 晶片至中國，此事件為近期股價崩跌的核心導火線，嚴重損害公司信譽與合規形象。"
+    },
+    {
+      "rank": 2,
+      "title": "Super Micro Board Shakeup Puts Export Controls And AI Server Growth To Test",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 05:02",
+      "impact": "high",
+      "category": "高層異動",
+      "reason": "共同創辦人 Wally Liaw 因走私案辭職，顯示公司內部治理出現重大漏洞，且出口管制問題將直接衝擊其 AI 伺服器業務的成長前景。"
+    },
+    {
+      "rank": 3,
+      "title": "Super Micro Risks S&P 500 Removal. Here’s the Stock to Replace It",
+      "publisher": "Yahoo",
+      "date": "2026-03-21 12:17",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "由於股價重挫與法律風險，市場開始討論 SMCI 被剔除出 S&P 500 指數的可能性，這將引發被動基金的拋售潮。"
+    },
+    {
+      "rank": 4,
+      "title": "Is Dell Stock the Big Winner After Super Micro’s Stunning Implosion?",
+      "publisher": "Yahoo",
+      "date": "2026-03-21 13:00",
+      "impact": "medium",
+      "category": "競爭分析",
+      "reason": "分析指出 SMCI 的營運危機可能導致客戶轉單至 Dell 等競爭對手，進一步削弱其在 AI 硬體供應鏈的市占率。"
+    },
+    {
+      "rank": 5,
+      "title": "SuperMicro (SMCI) Nosedives 33% on Co-Founder Arrest",
+      "publisher": "Yahoo",
+      "date": "2026-03-21 08:42",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導總結了因高層被捕導致股價單日重挫 33 % 的市場反應，反映投資人對公司治理風險的恐慌性拋售。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Final Trade: DSGX, CCJ, SMCI, DAL — CNBC’s “Fast Money” team share their final trades of the day.",
+      "publisher": "CNBC",
+      "date": "2026-03-20 18:06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為財經節目針對當日交易標的的討論，未提供具體基本面分析，對股價實質影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

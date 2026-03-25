@@ -1,0 +1,147 @@
+{
+  "ticker": "IBIT",
+  "company": "Bitcoin",
+  "analysis_date": "2026-03-24",
+  "source_file": "cache/2026-03-24/holdings/news/IBIT.json",
+  "summary": {
+    "total_articles": 14,
+    "bullish_count": 3,
+    "bearish_count": 6,
+    "neutral_count": 5,
+    "overall_sentiment": "bearish",
+    "key_theme": "比特幣價格在 75,000 美元關卡面臨強大阻力，加上聯準會利率政策的不確定性，導致 IBIT 等比特幣 ETF 近期表現疲軟且波動加劇。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bitcoin ETFs Hit 6 Straight Days Of Inflows: Why Is BTC Going Up Again?",
+      "publisher": "Benzinga",
+      "date": "2026-03-17 09:59",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "連續 6 個交易日的淨流入顯示機構投資者對 IBIT 等現貨 ETF 的需求依然穩健，為價格提供支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "The S&P 500 Is Down 2.5% But These 3 Bitcoin ETFs Didn’t Get the Memo",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-03-18 12:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "比特幣 ETF 在大盤回調時展現出一定的抗跌性與資產配置價值，吸引尋求避險的資金。"
+    },
+    {
+      "rank": 3,
+      "title": "The Biggest Bitcoin ETFs As Prices Hold At $71,000",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-03-17 16:32",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "比特幣價格維持在 71,000 美元水準，顯示市場多頭情緒尚未完全消散，有利於 ETF 資產規模維持。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "EXCLUSIVE: Bitcoin ETFs Under Pressure — Cyber Hornet CEO Explains The Volatility Gap Between IBIT And BBB",
+      "publisher": "Benzinga",
+      "date": "2026-03-19 14:37",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "IBIT 近期跌幅達 21%，表現明顯弱於其他同類產品，顯示其在市場波動中承受較大賣壓。"
+    },
+    {
+      "rank": 2,
+      "title": "Bitcoin Down 2% After $75,000 Rejection: Why Is It Going Down?",
+      "publisher": "Benzinga",
+      "date": "2026-03-18 09:07",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "比特幣無法突破 75,000 美元關鍵阻力位，技術面轉弱直接拖累追蹤該資產的 IBIT 股價。"
+    },
+    {
+      "rank": 3,
+      "title": "Bitcoin Vulnerable: Fed May Signal Higher-For-Longer",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-17 09:42",
+      "impact": "medium",
+      "category": "總體經濟",
+      "reason": "聯準會維持高利率的預期增加，對高風險資產如比特幣構成壓力，進而影響 IBIT 的資金流入。"
+    },
+    {
+      "rank": 4,
+      "title": "Shares of crypto-linked stocks are trading lower amid a drop in Bitcoin ahead of the Federal Reserve's interest-rate decision.",
+      "publisher": "Benzinga",
+      "date": "2026-03-18 11:40",
+      "impact": "medium",
+      "category": "總體經濟",
+      "reason": "市場在聯準會利率決策前夕採取避險操作，導致加密貨幣相關股票與 ETF 普遍下跌。"
+    },
+    {
+      "rank": 5,
+      "title": "MicroStrategy could surpass BlackRock's Bitcoin holdings within a week",
+      "publisher": "TheStreet",
+      "date": "2026-03-17 21:32",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "MicroStrategy 持倉量即將超越 BlackRock，可能削弱 IBIT 作為最大比特幣持有者的市場影響力與敘事優勢。"
+    },
+    {
+      "rank": 6,
+      "title": "Michael Saylor Makes A Bitcoin Retirement Plan Possible If You're Willing To Risk It",
+      "publisher": "Benzinga",
+      "date": "2026-03-20 14:08",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "將比特幣作為退休規劃的建議伴隨高風險警示，可能導致保守型投資者對 IBIT 等相關產品持觀望態度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Should You Bet on the Recent Rally in Bitcoin & Ethereum ETFs?",
+      "publisher": "Zacks",
+      "date": "2026-03-18 14:00",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "文章僅提供投資分析建議，未對 IBIT 本身做出明確的買入或賣出評級。"
+    },
+    {
+      "rank": 2,
+      "title": "Does This 1 New Trend Mean You Should Sell Gold and Buy Bitcoin Right Now?",
+      "publisher": "Motley Fool",
+      "date": "2026-03-18 09:20",
+      "impact": "low",
+      "category": "資產配置",
+      "reason": "探討黃金與比特幣的資產配置轉換，屬於投資策略討論，對 IBIT 股價無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "BTCI: Squeezing Yield With This 'Bitcoin-Adjacent' Income ETF",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-18 16:26",
+      "impact": "low",
+      "category": "產品分析",
+      "reason": "介紹另一款高收益 ETF (BTCI)，僅作為市場替代產品分析，不直接影響 IBIT。"
+    },
+    {
+      "rank": 4,
+      "title": "What is Strategy’s STRC and will it help Saylor overtake BlackRock’s $55bn Bitcoin stockpile?",
+      "publisher": "DLNews",
+      "date": "2026-03-18 15:53",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "分析 MicroStrategy 的策略工具，屬於產業競爭觀察，對 IBIT 股價影響有限。"
+    },
+    {
+      "rank": 5,
+      "title": "Strategy Just 23,000 Bitcoin Away From Surpassing BlackRock As Largest Holder",
+      "publisher": "Benzinga",
+      "date": "2026-03-18 11:15",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "報導持倉數據變化，屬於事實陳述，未對 IBIT 的未來表現做出預測。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

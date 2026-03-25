@@ -1,0 +1,28 @@
+{
+  "ticker": "IESC",
+  "company": "IES Holdings",
+  "analysis_date": "2026-03-24",
+  "source_file": "cache/2026-03-24/competitors/news/IESC.json",
+  "summary": {
+    "total_articles": 1,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司董事在股價經歷 150 % 大幅上漲後進行大規模減持，引發市場對估值過高及內部人看法的擔憂。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Director Sells $3.8 Million in IESC Shares After a 150% Run-Up -- Should Investors Pay Attention?",
+      "publisher": "Motley Fool",
+      "date": "2026-03-23T19:52:47Z",
+      "impact": "medium",
+      "category": "內部人交易",
+      "reason": "董事在股價累積 150 % 的漲幅後拋售價值 380 萬美元的股票，此舉通常被市場解讀為內部人認為股價已達高點，可能對短期股價造成賣壓與信心動搖。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

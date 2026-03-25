@@ -1,0 +1,102 @@
+{
+  "ticker": "GM",
+  "company": "General Motors",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/GM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 3,
+    "neutral_count": 8,
+    "overall_sentiment": "bullish",
+    "key_theme": "通用汽車透過數位化平台與電池業務轉型展現營運韌性，儘管面臨電動車轉型陣痛，但管理層對市場需求與獲利前景持樂觀態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "GM CFO: Lower EV growth presents opportunity",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 14:52",
+      "impact": "high",
+      "category": "財務展望",
+      "reason": "CFO Paul Jacobson 表示公司目標在第二季底前克服電動車業務的現金流逆風，展現管理層對改善獲利能力的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "GM, LG retool Tennessee battery plant for energy storage batteries, recall laid-off workers",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 15:27",
+      "impact": "medium",
+      "category": "營運調整",
+      "reason": "通用汽車與 LG 的合資企業將田納西州工廠轉型生產儲能電池，並召回 700 名員工，顯示公司具備靈活調整產能以應對市場變化的能力。"
+    },
+    {
+      "rank": 3,
+      "title": "GM Pushes CarBravo As Used Sales Go Digital",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 08:05",
+      "impact": "medium",
+      "category": "數位轉型",
+      "reason": "強制要求經銷商使用 CarBravo 數位平台，有助於擴大二手車業務的利潤空間並強化品牌數位生態系。"
+    },
+    {
+      "rank": 4,
+      "title": "Should Tesla be Worried About General Motors?",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 11:31",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "分析指出通用汽車在電動車市場份額有所增長，顯示其傳統車廠轉型策略正逐漸對競爭對手構成壓力。"
+    },
+    {
+      "rank": 5,
+      "title": "Is General Motors Stock a Buy Now on OnStar's Growth Potential?",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 13:12",
+      "impact": "low",
+      "category": "軟體服務",
+      "reason": "OnStar 平台的訂閱成長與軟體服務擴張，為公司提供了長期且高毛利的營收來源。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "General Motors (GM) Stock Moves -1.33%: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "反映近期交易日的股價回調，屬於短期市場波動。"
+    },
+    {
+      "rank": 2,
+      "title": "What $4 Gasoline Means for GM, Ford, and Tesla",
+      "publisher": "Barrons.com",
+      "date": "2026-03-20 14:06",
+      "impact": "low",
+      "category": "總體經濟",
+      "reason": "高油價雖對汽車業構成潛在挑戰，但通用汽車管理層已公開表示目前未見對銷量的直接負面影響。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "GM stock up for the week ending March 20; Ford, Stellantis drop",
+      "publisher": "Yahoo",
+      "date": "2026-03-21 12:03",
+      "impact": "low",
+      "category": "市場表現",
+      "reason": "單純回顧過去一週的股價表現，相較於同業表現較佳，屬於市場歷史數據整理。"
+    },
+    {
+      "rank": 2,
+      "title": "Investors Heavily Search General Motors Company (GM): Here is What You Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 13:00",
+      "impact": "low",
+      "category": "市場關注",
+      "reason": "僅反映投資人搜尋熱度，未包含具體營運利多或利空消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

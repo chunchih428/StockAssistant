@@ -1,0 +1,102 @@
+{
+  "ticker": "RIVN",
+  "company": "Rivian Automotive",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/RIVN.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 4,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 Rivian 的 R2 SUV 產品發布、技術創新（AI 與晶片）以及分析師調升目標價持樂觀態度，儘管短期交付量波動與股價回調壓力仍存在。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Canaccord Genuity Maintains Buy on Rivian Automotive, Raises Price Target to $22",
+      "publisher": "Benzinga",
+      "date": "2026-03-20 11:00",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 George Gianarikas 維持買入評級並將目標價調升至 22 美元，顯示專業機構對公司長期成長潛力的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "What's Going On With Rivian Stock Monday — Rivian (RIVN) stock is surging Monday following a TD Cowen upgrade and the public debut of the R2 SUV at SXSW",
+      "publisher": "Benzinga",
+      "date": "2026-03-16 12:42",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "R2 SUV 在 SXSW 的公開亮相獲得市場正面迴響，結合 TD Cowen 的評級調升，成為推動股價上漲的主要催化劑。"
+    },
+    {
+      "rank": 3,
+      "title": "Rivian: Why It's Finally Time To Buy (Rating Upgrade) — Rivian Automotive's efforts to create in-house chips and agentic AI software should underpin a stock repricing",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-17 07:12",
+      "impact": "medium",
+      "category": "技術創新",
+      "reason": "公司投入自研晶片與代理 AI 軟體，被視為提升長期競爭力與實現股價重估的關鍵技術佈局。"
+    },
+    {
+      "rank": 4,
+      "title": "What Rivian Automotive (RIVN)'s Uber Robotaxi Partnership and R2 Investment Means For Shareholders",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-22 00:15",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 Uber 的 Robotaxi 合作夥伴關係為公司開拓了新的商業模式與營收潛力，對股東價值具有正面意義。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Here's Why Rivian Automotive (RIVN) Fell More Than Broader Market",
+      "publisher": "Zacks",
+      "date": "2026-03-20 21:50",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價表現弱於大盤，反映出投資人對短期市場波動與獲利能力的擔憂，為近期股價回調提供解釋。"
+    },
+    {
+      "rank": 2,
+      "title": "Rivian: Return To Growth In 2026 — Rivian (RIVN) Q4’25: gross margins hit 9% as deliveries fell 31% post EV tax credit",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-16 10:44",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "雖然毛利率改善至 9%，但交付量因電動車稅收抵免政策影響下滑 31%，顯示短期銷售動能面臨挑戰。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Super Micro Computer, GE Aerospace, Fedex, Planet Labs And Rivian: Why These 5 Stocks Are On Investors' Radars Today",
+      "publisher": "Benzinga",
+      "date": "2026-03-19 21:09",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅列出 Rivian 為當日熱門關注股票，未提供具體利多或利空消息，屬於市場情緒觀察。"
+    },
+    {
+      "rank": 2,
+      "title": "Signet Jewelers, Rivian Automotive, Five Below And Other Big Stocks Moving Higher On Thursday",
+      "publisher": "Benzinga",
+      "date": "2026-03-19 10:04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導當日股價上漲，但主要聚焦於整體市場環境與其他公司財報，Rivian 僅為隨大盤波動的個股之一。"
+    },
+    {
+      "rank": 3,
+      "title": "Rivian Automotive Option Alert: Apr 17 $18 Calls Sweep (8) near the Ask: 2721 @ $0.4 vs 6881 OI; Earnings 5/5 After Close [est] Ref=$15.95",
+      "publisher": "Benzinga",
+      "date": "2026-03-17 13:48",
+      "impact": "low",
+      "category": "衍生性商品",
+      "reason": "選擇權市場的異常交易活動，反映出部分投資人對 5 月財報前的避險或投機佈局，不直接代表基本面變化。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

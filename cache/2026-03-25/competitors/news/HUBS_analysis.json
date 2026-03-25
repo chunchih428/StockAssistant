@@ -1,0 +1,48 @@
+{
+  "ticker": "HUBS",
+  "company": "HubSpot, Inc.",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/HUBS.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "Neutral",
+    "key_theme": "市場對於 HubSpot 經歷 56 % 股價回調後的估值合理性與未來成長潛力存在顯著分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Do You Believe in the Upside Potential of HubSpot (HUBS)?",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-20T12:38:43Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導聚焦於機構投資者對 HubSpot 的持倉與潛在反彈空間，強調在經歷大幅修正後，市場開始重新評估其作為成長型軟體公司的長期價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Is It Time To Revisit HubSpot (HUBS) After A 56% One Year Share Price Slide",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-20T17:05:20Z",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "該文詳細分析了過去一年股價下跌 56 % 的嚴峻事實，反映出市場對其成長放緩或估值過高的擔憂，選此篇作為代表是因為其數據量化了股價修正的深度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Evaluating HubSpot (HUBS) After A Mixed Share Price Run And Undervaluation Debate",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-20T18:08:06Z",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "文章採取中立立場，探討了估值是否過低與股價表現不一的爭議，並未給出明確的買入或賣出建議，僅提供投資人多空雙方的論點參考。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "NET",
+  "company": "Cloudflare",
+  "analysis_date": "2026-03-24",
+  "source_file": "cache/2026-03-24/holdings/news/NET.json",
+  "summary": {
+    "total_articles": 17,
+    "bullish_count": 10,
+    "bearish_count": 3,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Cloudflare 受益於 AI 需求強勁與策略性合作夥伴關係（如 Coinbase 與 SentinelOne），儘管市場對其高估值存在擔憂，但強勁的營收成長與市場動能仍支撐其股價表現。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare: Right Time To Dive In As Growth Accelerates, Stablecoin Opportunity",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-20",
+      "impact": "high",
+      "category": "財報與成長",
+      "reason": "該分析指出 Cloudflare 作為「40 法則」的領導者，營收成長率維持在 30% 以上，且具備強大的積壓訂單與客戶留存率，基本面極佳。"
+    },
+    {
+      "rank": 2,
+      "title": "Cloudflare Shares Rise Nearly 7% After Key Trading Signal",
+      "publisher": "Benzinga",
+      "date": "2026-03-18",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "技術面出現關鍵買入訊號，隨後股價單日上漲近 7%，顯示市場對其短期動能的高度認可。"
+    },
+    {
+      "rank": 3,
+      "title": "Coinbase’s AgentKit Targets AI Transactions While Valuation Stays Stretched",
+      "publisher": "Yahoo",
+      "date": "2026-03-18",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Cloudflare 與 Coinbase 及 World 合作推出 AgentKit，旨在推動 AI 代理支付，此合作為其技術生態系增添了新的成長潛力。"
+    },
+    {
+      "rank": 4,
+      "title": "SentinelOne (S) Expands AI Cybersecurity Partnership With Cloudflare",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-20",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 SentinelOne 擴大 AI 網路安全合作，進一步鞏固了 Cloudflare 在 AI 驅動安全領域的市場地位。"
+    },
+    {
+      "rank": 5,
+      "title": "Cloudflare Stock On The Rise And Looks To Extend Weekly Win Streak",
+      "publisher": "Investor's Business Daily",
+      "date": "2026-03-23",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價表現強勁並延續週線連勝紀錄，反映出投資人對該公司在 AI 領域的長期成長信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare: Flawless Execution Meets Mathematically Impossible Valuation",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-22",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "儘管營收成長達 34%，但分析師認為 28 倍的銷售額估值過高，對長期投資回報率提出警示。"
+    },
+    {
+      "rank": 2,
+      "title": "Cloudflare (NET) Dips More Than Broader Market",
+      "publisher": "Zacks",
+      "date": "2026-03-20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價跌幅大於大盤，顯示在市場震盪期間，高估值科技股面臨較大的獲利了結壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "Cloudflare's Stablecoin: A Real Catalyst or Short-Term Hype?",
+      "publisher": "MarketBeat",
+      "date": "2026-03-19",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "質疑與 Coinbase 的穩定幣合作是否僅為短期炒作，而非實質的長期營收驅動力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Cloudflare (NET) Beats Stock Market Upswing: What Investors Need to Know",
+      "publisher": "Zacks",
+      "date": "2026-03-23",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "綜合性市場回顧，提供投資人關於股價波動的背景資訊，未包含新的重大基本面變化。"
+    },
+    {
+      "rank": 2,
+      "title": "How The Cloudflare (NET) Investment Narrative Is Shifting Around AI Themes And Valuation Caution",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-22",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "客觀探討市場對 AI 題材的熱情與對高估值的謹慎態度，呈現多空平衡的觀點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

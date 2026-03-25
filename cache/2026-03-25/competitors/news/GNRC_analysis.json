@@ -1,0 +1,38 @@
+{
+  "ticker": "GNRC",
+  "company": "Generac Holdlings",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/GNRC.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "Mixed",
+    "key_theme": "公司透過推出高階工業用發電機擴展產品組合，但近期股價表現仍受財報後疲軟走勢的壓力影響。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "GNRC Boosts Industrial Power Portfolio With Advanced Diesel Generators",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 15:16",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Generac 推出 SD1250 與 SD1500 柴油發電機，針對關鍵任務領域強化產品線。此篇新聞涵蓋了產品發布的具體型號與市場定位，相較於另一篇重複報導，此篇資訊更為精簡且具代表性，有助於提升公司在工業能源解決方案的市佔率。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Generac Holdings (GNRC) Down 5.4% Since Last Earnings Report: Can It Rebound?",
+      "publisher": "Zacks",
+      "date": "2026-03-13 15:30",
+      "impact": "medium",
+      "category": "財報表現",
+      "reason": "自上次財報發布以來，GNRC 股價累計下跌 5.4 %，顯示市場對於財報後的營運展望或獲利能力存在疑慮，投資人正密切關注後續是否能出現反彈動能。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,38 @@
+{
+  "ticker": "THO",
+  "company": "Thor Industries",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/THO.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "Neutral to Bullish",
+    "key_theme": "THOR Industries 展現穩健的營收成長與利潤率擴張，但市場仍擔憂通膨與關稅政策帶來的潛在風險。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "THOR Industries: Technicals And Valuations Are In Sync, But Market Risks May Offset Them",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-19 00:19",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "公司 2026 財年第 2 季銷售額年增 5.3 %，且利潤率呈現擴張趨勢，顯示營運效率提升，基本面具備支撐力道。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "A Look At THOR Industries (THO) Valuation After Recent Share Price Weakness",
+      "publisher": "Yahoo",
+      "date": "2026-03-21 07:05",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對近期股價疲軟進行估值分析，雖然市場關注度高，但未有明確利多或利空消息，僅反映投資人對當前股價修正的觀望態度。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

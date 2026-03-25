@@ -1,0 +1,84 @@
+{
+  "ticker": "MDB",
+  "company": "MongoDB",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/MDB.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 4,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管近期股價經歷回調，但強勁的 Atlas 營收成長與券商評級上調，使市場對 MongoDB 的長期估值吸引力持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "MongoDB (MDB) FY2025 Revenue Hits $2.01B as Atlas Growth Drives 20% Q4 Surge",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-15",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司 FY2025 營收達 20.1 億美元，且核心產品 Atlas 在第四季實現 20% 的成長，顯示雲端資料庫業務動能強勁，為股價提供基本面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "MongoDB (MDB) Receives Scotiabank Upgrade Amid Expectations for Pullback",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-13",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Scotiabank 的升級反映了專業機構對該公司在股價回調後的價值認可，認為市場過度反應，提供了進場機會。"
+    },
+    {
+      "rank": 3,
+      "title": "Brokers Suggest Investing in MongoDB (MDB): Read This Before Placing a Bet",
+      "publisher": "Zacks",
+      "date": "2026-03-19",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "券商建議投資反映了市場對 MDB 長期成長潛力的信心，增強了投資人的持股信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Jim Cramer Recommended MongoDB (MDB) As a Trade In February 2025",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-18",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "雖然是回顧性報導，但 Jim Cramer 先前的推薦紀錄有助於強化市場對該公司作為交易標的的關注度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Jim Cramer on MongoDB: “I Want You to Sell It”",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-13",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名評論員 Jim Cramer 的賣出建議可能引發散戶投資人的恐慌性拋售，對短期股價造成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Assessing MongoDB (MDB) Valuation After A Sharp Multi‑Month Share Price Pullback",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此篇與另一篇 Simply Wall St. 報導主題高度重疊，皆在探討股價回調後的估值合理性，採取中立客觀的財務分析視角，未給出明確買賣建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Is MongoDB (MDB) Now At An Attractive Price After Recent Share Price Slide",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "作為估值評估類文章，重點在於數據分析而非市場情緒，提供投資人參考指標，對股價無直接推升或打壓效果。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

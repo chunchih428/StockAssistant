@@ -1,0 +1,111 @@
+{
+  "ticker": "WBD",
+  "company": "Warner",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/WBD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 2,
+    "bearish_count": 10,
+    "neutral_count": 8,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場高度關注 WBD 與 Paramount 的合併案，但 CEO David Zaslav 的鉅額離職補償金引發治理疑慮，且併購案的不確定性與政治干預風險持續壓抑股價表現。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Record Oscar haul for Warner Bros. caps off a topsy-turvy year for the legendary studio",
+      "publisher": "MarketWatch",
+      "date": "2026-03-16 16:14",
+      "impact": "medium",
+      "category": "營運表現",
+      "reason": "公司在第 98 屆奧斯卡金像獎獲得 11 項大獎，展現其內容製作實力與品牌價值，對長期競爭力有正面助益。"
+    },
+    {
+      "rank": 2,
+      "title": "GoPro Named Official Wearable Camera Supplier of the WHOOP UCI Mountain Bike World Series",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 13:00",
+      "impact": "low",
+      "category": "商業合作",
+      "reason": "與 GoPro 達成兩年合作協議，顯示 WBD Sports 在體育賽事轉播與內容變現上的持續佈局。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Warner Bros. CEO David Zaslav could make $887 million from Paramount deal",
+      "publisher": "CNBC",
+      "date": "2026-03-20 11:44",
+      "impact": "high",
+      "category": "公司治理",
+      "reason": "CEO David Zaslav 因合併案可能獲得高達 8.87 億美元的現金、股票與稅務補償，此舉引發股東對管理層利益輸送與治理結構的強烈質疑。"
+    },
+    {
+      "rank": 2,
+      "title": "Spencer Jakab | Is the Largest Leveraged Buyout Ever in Doubt?",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 12:07",
+      "impact": "high",
+      "category": "併購案",
+      "reason": "針對這項史上最大規模槓桿收購案的執行可行性提出質疑，市場擔憂交易可能面臨變數或失敗風險。"
+    },
+    {
+      "rank": 3,
+      "title": "U.S. Department Of Justice Antitrust Head Says Paramount Acquisition Of Warner Bros Does 'Absolutely Not' Have A Fast Track To Approval",
+      "publisher": "Benzinga",
+      "date": "2026-03-18 15:35",
+      "impact": "medium",
+      "category": "法規監管",
+      "reason": "美國司法部反壟斷部門明確表示該併購案不會有快速審批通道，且否認政治干預，增加了交易審查的時間成本與不確定性。"
+    },
+    {
+      "rank": 4,
+      "title": "Rep. August Pfluger Has Sold Up to $15K Worth Of Warner Bros. Discovery Stock",
+      "publisher": "Benzinga",
+      "date": "2026-03-20 11:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "國會議員拋售股票雖金額不大，但可能引發市場對公司內部消息或監管風險的負面聯想。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "A Look At Warner Bros. Discovery (WBD) Valuation As Opinion Splits On Its Fair Value",
+      "publisher": "Yahoo",
+      "date": "2026-03-21 11:06",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "市場對於 WBD 的合理估值存在嚴重分歧，反映出投資人對其轉型策略與併購效益的觀望態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix more likely to raise prices with Warner Bros. deal out of the way, Citi says",
+      "publisher": "MarketWatch",
+      "date": "2026-03-18 18:25",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析師認為 Netflix 在退出 WBD 競購後更有空間調漲價格，此新聞主要影響 Netflix，對 WBD 本身影響間接。"
+    },
+    {
+      "rank": 3,
+      "title": "Warner Bros. Discovery Inc. Series A stock outperforms competitors despite losses on the day",
+      "publisher": "MarketWatch",
+      "date": "2026-03-18 16:46",
+      "impact": "low",
+      "category": "股價表現",
+      "reason": "儘管當日股價下跌，但表現優於同業，顯示市場在波動中仍有支撐力道。"
+    },
+    {
+      "rank": 4,
+      "title": "Trump Allegedly Told Larry Ellison 'I'll Make Sure You Get' Warner Bros, New Lawsuit Claims",
+      "publisher": "Benzinga",
+      "date": "2026-03-18 18:37",
+      "impact": "medium",
+      "category": "法規監管",
+      "reason": "涉及政治人物的訴訟內容，增加了併購案的政治敏感度，但目前僅為指控階段，影響尚不明確。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,56 @@
+{
+  "ticker": "CME",
+  "company": "CME",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/CME.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 3,
+    "overall_sentiment": "Neutral",
+    "key_theme": "CME Group 展現強勁的市場韌性與股價動能，但目前估值偏高，市場對於後續升息預期與新產品帶來的成長潛力持審慎樂觀態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "The Bull Case For CME Group (CME) Could Change Following Rising Fed Hike Odds And New Futures Launch",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 00:17",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "聯準會升息機率上升通常有利於交易所的交易量與波動性，加上新期貨產品的推出，為 CME 帶來潛在的營收成長動能。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "CME Group Outperforms Industry, Trades at a Premium: Hold Now?",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 19:40",
+      "impact": "medium",
+      "category": "投資評級",
+      "reason": "雖然公司具備穩健成長與強勁股息，但目前股價已處於溢價狀態，上漲空間有限，分析師建議持股觀望。"
+    },
+    {
+      "rank": 2,
+      "title": "CME Group (CME) Valuation Check After Recent Steady Share Price Momentum",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 12:06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對近期股價表現進行技術性回顧，過去一個月總報酬率達 3.4 %，顯示股價動能穩定，屬於中性市場觀察。"
+    },
+    {
+      "rank": 3,
+      "title": "CME Group Inc. Cl A stock outperforms competitors despite losses on the day",
+      "publisher": "MarketWatch",
+      "date": "2026-03-18 16:39",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管當日股價下跌，但表現仍優於同業，反映出該公司在市場波動中的相對抗跌性，屬於常態性市場波動分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,66 @@
+{
+  "ticker": "NDAQ",
+  "company": "Nasdaq",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/NDAQ.json",
+  "summary": {
+    "total_articles": 12,
+    "bullish_count": 10,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "美國證券交易委員會 (SEC) 正式批准 Nasdaq 進行證券代幣化交易與結算，此舉被視為提升市場效率與技術領先的重大里程碑。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "SEC Grants Approval for Nasdaq Tokenized Securities Trading via Blockchain",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 20:22",
+      "impact": "high",
+      "category": "法規與技術創新",
+      "reason": "SEC 正式批准 Nasdaq 實施基於區塊鏈的證券代幣化交易與結算，此舉將顯著提升交易效率並鞏固 Nasdaq 在金融科技領域的競爭優勢。"
+    },
+    {
+      "rank": 2,
+      "title": "NDAQ Outperforms Industry, Trades at a Discount: How to Play the Stock",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 14:49",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 Nasdaq 透過非交易營收基礎的擴張與策略性併購，展現出優於同業的成長潛力，且目前股價估值具備吸引力。"
+    },
+    {
+      "rank": 3,
+      "title": "Nasdaq Inc. stock outperforms competitors despite losses on the day",
+      "publisher": "MarketWatch",
+      "date": "2026-03-18 16:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管當日股價隨大盤波動，但 Nasdaq 相對競爭對手展現出較強的抗跌性與市場韌性。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bitcoin Price Undercuts $70,000 As Higher-For-Longer Policy Weighs",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 15:01",
+      "impact": "low",
+      "category": "總體經濟",
+      "reason": "聯準會維持高利率政策的預期對整體金融市場造成壓力，間接影響市場對高風險資產及交易所相關類股的短期情緒。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "How Investors May Respond To Nasdaq (NDAQ) SEC Approval For Tokenized Blockchain-Based Trade Settlement",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 21:06",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "該報導探討投資人對 SEC 批准代幣化結算的潛在反應，屬於中性的市場觀察與分析，未直接提供新的利多或利空資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

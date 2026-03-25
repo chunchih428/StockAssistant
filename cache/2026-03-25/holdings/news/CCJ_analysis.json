@@ -1,0 +1,48 @@
+{
+  "ticker": "CCJ",
+  "company": "Cameco",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/holdings/news/CCJ.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "Neutral",
+    "key_theme": "市場對 Cameco 在經歷強勁漲幅後的估值合理性產生分歧，短期股價波動與長期鈾礦基本面需求形成拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Fusion Fuel Royalty Highlights Cameco Uranium Upside And Valuation Tension",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-20T07:05:04Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "文章指出 Cameco 在核能燃料供應鏈中的關鍵地位，特別是鈾礦市場的長期上行潛力，儘管存在估值壓力，但基本面支撐依然強勁。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cameco (CCJ) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "publisher": "Zacks",
+      "date": "2026-03-19T21:45:02Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價近期出現比大盤更顯著的跌幅，顯示短期內可能面臨獲利了結壓力或市場情緒轉弱，投資人需關注技術性修正風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Cameco (TSX:CCO) Valuation Check After Strong 3 Month and 1 Year Share Price Gains",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-18T18:05:39Z",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "該報告客觀檢視了 Cameco 在過去 3 個月與 1 年內的強勁漲幅，並對當前估值進行評估，未給出明確買賣建議，僅提醒投資人注意估值過高的可能性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

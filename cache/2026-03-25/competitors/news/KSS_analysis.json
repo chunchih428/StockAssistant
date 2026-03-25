@@ -1,0 +1,57 @@
+{
+  "ticker": "KSS",
+  "company": "Kohl's",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/KSS.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司管理層確認停止大規模關店計畫以穩定營運，但市場對其銷售疲軟與估值下調仍持保守態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Kohl’s CEO signals what's next for stores after several closures",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 17:14",
+      "impact": "medium",
+      "category": "營運策略",
+      "reason": "執行長明確表示今年無進一步關店計畫，此舉有助於消除市場對實體通路縮減的過度擔憂，並將資源集中於現有 1,150 家門市的營運優化。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "How The Investment Story For Kohl's (KSS) Is Shifting After Guidance And Target Cuts",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 01:09",
+      "impact": "high",
+      "category": "財務分析",
+      "reason": "分析師將 Kohl's 的公允價值估值從 21.75 美元下調至 17.75 美元，降幅達 18 %，反映出市場對其未來獲利能力與銷售成長的悲觀預期。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Kohl's closing more stores? Here's what we know.",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 16:12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出儘管 2025 年獲利有所成長，但整體銷售額仍呈現下滑趨勢，顯示公司在面對消費習慣改變時仍面臨嚴峻的營收壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Kohl's’s Q4 Earnings Call: Our Top 5 Analyst Questions",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 09:00",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "第四季財報結果符合華爾街營收預期，且非 GAAP 獲利表現優於預期，但因缺乏強勁的成長亮點，市場反應相對平淡。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

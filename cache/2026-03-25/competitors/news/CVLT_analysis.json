@@ -1,0 +1,102 @@
+{
+  "ticker": "CVLT",
+  "company": "Commvault Systems, Inc.",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/CVLT.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 6,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "Commvault 透過持續的產品創新與技術整合強化資安防護能力，儘管股價近期經歷回調，但分析師仍維持買進評級並看好其成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "DA Davidson Reaffirms Buy Rating for Commvault (CVLT)",
+      "publisher": "Yahoo",
+      "date": "2026-03-21 17:36",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "DA Davidson 分析師 Rudy Kessinger 維持對 Commvault 的買進評級，顯示專業機構對其長期基本面與軟體應用市場地位的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Commvault (CVLT), CloudSEK Partner to Integrate Predictive Threat Intelligence for Identity Protection",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 15:56",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 CloudSEK 的合作整合了預測性威脅情報，顯著提升了身分保護能力，有助於擴大產品競爭優勢。"
+    },
+    {
+      "rank": 3,
+      "title": "Commvault Extends Enterprise Resilience to Structured and AI Data with Real-Time Governance Controls",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 12:30",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "公司擴展了對結構化數據與 AI 數據的治理控制，強化了企業韌性，符合當前企業對 AI 數據安全的需求。"
+    },
+    {
+      "rank": 4,
+      "title": "Commvault Expands Threat Scan with Layered Threat Detection to Advance Verified Clean Recoveries",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 12:30",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "透過分層威脅檢測技術，提升了數據恢復的安全性與可靠性，直接解決了企業客戶在勒索軟體攻擊下的痛點。"
+    },
+    {
+      "rank": 5,
+      "title": "Commvault Hits the Ring to Take on Cyberattacks, Identity Theft, and AI-driven Threats in a ResOps Faceoff at the RSAC™ 2026 Conference",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 12:30",
+      "impact": "low",
+      "category": "市場活動",
+      "reason": "透過參與 RSAC 2026 等大型產業會議，提升品牌在資安領域的曝光度與技術影響力。"
+    },
+    {
+      "rank": 6,
+      "title": "COMMVAULT SYSTEMS INC (NASDAQ:CVLT) Presents a Compelling Case for Growth at a Reasonable Price",
+      "publisher": "ChartMill",
+      "date": "2026-03-20 12:51",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "採用 GARP 策略分析，指出該公司在成長性與估值之間取得平衡，吸引價值型投資人關注。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Assessing Commvault Systems (CVLT) Valuation After A Sharp Share Price Pullback",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 08:16",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價經歷約 34 % 的大幅回調，反映出市場對其短期表現的擔憂，儘管這也引發了對估值修復的討論。"
+    },
+    {
+      "rank": 2,
+      "title": "Commvault Systems (CVLT) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "publisher": "Zacks",
+      "date": "2026-03-13 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "指出 Commvault 的跌幅超過大盤，顯示其近期股價表現相對疲軟，投資人需關注其波動性風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "DA Davidson Maintains Buy on CommVault Systems, Lowers Price Target to $125",
+      "publisher": "Benzinga",
+      "date": "2026-03-17 10:17",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "雖然維持買進評級，但下調目標價至 125 美元，反映分析師對短期股價動能的預期調整，屬於中性偏多調整。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

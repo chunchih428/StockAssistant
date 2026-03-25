@@ -1,0 +1,57 @@
+{
+  "ticker": "FORM",
+  "company": "FormFactor, Inc.",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/FORM.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "近期股價受半導體產業整體疲軟拖累，且市場對其 Q4 財報表現與未來估值模型進行修正，導致投資情緒轉趨保守。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Does FormFactor's (FORM) New Benchtop Quantum Fridge Hint at a Deeper Platform Ambition?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-16T02:06:48Z",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "公司推出新型桌上型量子冰箱，顯示其在量子運算測試設備領域的技術深度與長期平台化戰略，具備潛在成長動能。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "FormFactor, Western Digital, IPG Photonics, and Vishay Intertechnology Stocks Trade Down, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-20T20:02:25Z",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "受半導體類股整體賣壓影響，FORM 股價隨大盤走低，反映出市場對半導體製造設備供應鏈短期需求放緩的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Why The FormFactor (FORM) Story Is Shifting As Analysts Rework Valuation Targets",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-17T21:11:01Z",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師重新評估公司估值模型，暗示市場對其未來獲利成長預期出現分歧，導致股價評價面臨修正壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Unpacking Q4 Earnings: FormFactor (NASDAQ:FORM) In The Context Of Other Semiconductor Manufacturing Stocks",
+      "publisher": "StockStory",
+      "date": "2026-03-18T21:07:32Z",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "針對 Q4 財報進行橫向產業比較，雖提供財務數據分析，但未對公司未來營運給出明確多空指引，屬於中性回顧性質。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

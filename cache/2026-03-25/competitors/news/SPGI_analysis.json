@@ -1,0 +1,102 @@
+{
+  "ticker": "SPGI",
+  "company": "S&P Global",
+  "analysis_date": "2026-03-23",
+  "source_file": "cache/2026-03-23/competitors/news/SPGI.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 3,
+    "neutral_count": 8,
+    "overall_sentiment": "bullish",
+    "key_theme": "S&P Global 透過收購 AI 技術公司與擴展指數授權業務展現強勁成長動能，並獲得分析師調升目標價，顯示市場對其核心評級與數據業務的長期信心。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "BMO Capital Maintains Outperform on S&P Global, Raises Price Target to $495",
+      "publisher": "Benzinga",
+      "date": "2026-03-17 09:05",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "BMO Capital 分析師 Jeffrey Silber 維持「優於大盤」評級，並將目標價調升至 495 美元，反映對公司強勁發行業務動能的看好。"
+    },
+    {
+      "rank": 2,
+      "title": "S&P Global Acquires Enertel AI Corporation to Enhance Power Market Offering",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 12:30",
+      "impact": "medium",
+      "category": "企業併購",
+      "reason": "公司完成收購 Enertel AI Corporation，旨在強化能源市場的數據分析與 AI 預測能力，有助於提升產品競爭力。"
+    },
+    {
+      "rank": 3,
+      "title": "S&P Global Extends Index License to Hyperliquid Perpetual Provider",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 15:56",
+      "impact": "medium",
+      "category": "業務拓展",
+      "reason": "公司將 S&P 500 指數授權給 Trade[XYZ] 平台，推動 24/7 永續衍生性商品交易，開拓新的授權收入來源。"
+    },
+    {
+      "rank": 4,
+      "title": "S&P Global Ratings Change the Bitcoin Lending Landscape",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 20:46",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "S&P Global 的評級服務進入比特幣借貸市場，成功吸引傳統金融機構與保險公司參與，擴大其評級業務的影響力範圍。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "S&P Global Inc. stock underperforms Wednesday when compared to competitors",
+      "publisher": "MarketWatch",
+      "date": "2026-03-18 16:37",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價在當日表現落後於同業，反映短期市場情緒波動與資金輪動壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "S&P revises Cliffwater fund outlook to negative on redemption liquidity pressure",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 15:55",
+      "impact": "low",
+      "category": "評級調整",
+      "reason": "針對 Cliffwater Corporate Lending Fund 的展望調整為負面，反映市場流動性風險，雖屬評級業務常態，但顯示信貸環境挑戰。"
+    },
+    {
+      "rank": 3,
+      "title": "Is It Too Late To Consider S&P Global (SPGI) After Recent Share Price Weakness?",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 14:05",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對股價近期疲軟的討論，引發投資人對於估值是否過高的擔憂，可能導致短期賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Leaders and Experts from Amazon Web Services, Google, Microsoft, NVIDIA, Meta, Dell, Applied Materials and AMD Headline Technology and Innovation Programming at CERAWeek by S&P Global",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 16:00",
+      "impact": "low",
+      "category": "活動宣傳",
+      "reason": "公司舉辦 CERAWeek 年度盛會，邀請科技巨頭參與，顯示其在能源與科技領域的影響力，對股價影響間接。"
+    },
+    {
+      "rank": 2,
+      "title": "S&P Global Market Intelligence Releases Annual Rankings of Best-Performing U.S. Community Banks",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 18:00",
+      "impact": "low",
+      "category": "市場研究",
+      "reason": "發布年度銀行排名報告，屬於公司例行性的數據研究發布，對營收無直接顯著影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
