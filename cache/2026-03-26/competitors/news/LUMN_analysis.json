@@ -1,0 +1,38 @@
+{
+  "ticker": "LUMN",
+  "company": "Lumen Technologies, Inc.",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/LUMN.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "Lumen Technologies 正透過 AI 技術優化網路成本結構，並藉由董事會改組強化 AI 與網路安全領域的戰略佈局。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "How Lumen Technologies is using AI to help cut $1 billion in network costs",
+      "publisher": "Fortune",
+      "date": "2026-03-18",
+      "impact": "high",
+      "category": "營運優化",
+      "reason": "公司成功利用 AI 技術實現 10 億美元的網路成本削減，直接改善獲利能力與現金流，對股價具備實質利多支撐。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Lumen Board Shake Up Puts AI And Cybersecurity At Center Stage",
+      "publisher": "Yahoo",
+      "date": "2026-03-20",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "董事會主席退休及多項人事變動屬於企業治理調整，雖然明確宣示轉型 AI 與網路安全方向，但短期內人事不確定性對股價影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

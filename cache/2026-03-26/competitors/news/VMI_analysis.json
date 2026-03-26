@@ -1,0 +1,57 @@
+{
+  "ticker": "VMI",
+  "company": "Valmont Industries",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/VMI.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司憑藉 16.5 億美元的強勁訂單積壓與 GARP 投資價值獲得市場青睞，儘管近期股價因財報後波動面臨修正壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Does Valmont’s US$1.65 Billion Backlog And Stronger Cash Flow Margin Change The Bull Case For VMI?",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 06:04",
+      "impact": "high",
+      "category": "財務表現",
+      "reason": "公司擁有 16.5 億美元的龐大訂單積壓，且現金流利潤率有所提升，顯示其核心業務具備強勁的營收能見度與獲利能力，是支撐股價看漲的核心因素。"
+    },
+    {
+      "rank": 2,
+      "title": "Valmont Industries (NYSE:VMI): A Peter Lynch GARP Stock Analysis",
+      "publisher": "ChartMill",
+      "date": "2026-03-24 13:31",
+      "impact": "medium",
+      "category": "投資分析",
+      "reason": "分析指出 VMI 符合彼得 · 林區的 GARP（成長型價值投資）策略，具備低 PEG 比率與穩健的盈餘成長，吸引價值型投資人關注。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Is Valmont (VMI) Down 11.9% Since Last Earnings Report?",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 15:30",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "自上季財報公布後股價下跌 11.9 %，反映市場對財報細節或未來展望存在疑慮，短期內對股價構成修正壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "2 Reasons to Like VMI (and 1 Not So Much)",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 22:57",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導綜合分析了 VMI 的優勢與潛在風險，並提到其過去六個月表現優於大盤，屬於中立的投資觀點評述，故選此篇作為代表。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

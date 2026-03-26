@@ -1,0 +1,37 @@
+{
+  "ticker": "CME",
+  "company": "CME",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/CME.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "CME Group 透過技術創新與市場策略布局，強化其在機構金融服務與衍生性商品市場的競爭優勢。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "BMO Is First Bank to Join CME's Tokenized Cash Platform on Google Cloud",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 16:54",
+      "impact": "medium",
+      "category": "技術創新",
+      "reason": "BMO 成為首家加入 CME 代幣化現金平台的銀行，此舉顯示 CME 在數位資產結算領域的領先地位，有助於吸引更多機構客戶並提升交易效率。"
+    },
+    {
+      "rank": 2,
+      "title": "The Bull Case For CME Group (CME) Could Change Following Rising Fed Hike Odds And New Futures Launch",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 00:17",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "聯準會升息機率上升通常有利於 CME 的利率期貨交易量，加上公司啟動新的期貨產品與相關資本註冊，顯示其業務擴張動能強勁。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

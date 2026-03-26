@@ -1,0 +1,111 @@
+{
+  "ticker": "CSCO",
+  "company": "Cisco Systems",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/CSCO.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 6,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "Cisco 憑藉 AI 與資料中心強勁需求，以及針對 AI 時代推出的資安創新產品，獲得分析師看好並帶動股價表現。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cisco (CSCO) Rated Buy on Strong AI and Data Center Demand",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 11:27",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "BofA Securities 給予買進評級，主要基於 AI 與資料中心基礎設施的強勁需求，顯示市場對其核心業務轉型具備信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Cisco Reimagines Security for the Agentic Workforce",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 12:00",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "於 RSA 大會宣布針對 AI 代理工作流程的資安創新，有助於推動資安部門的長期成長動能。"
+    },
+    {
+      "rank": 3,
+      "title": "Cisco Systems Inc (NASDAQ:CSCO) Shows High Technical and Setup Ratings for Potential Breakout",
+      "publisher": "ChartMill",
+      "date": "2026-03-21 12:41",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "技術面顯示股價處於緊縮整理型態，具備潛在突破機會，吸引技術派投資人關注。"
+    },
+    {
+      "rank": 4,
+      "title": "How Cisco Systems (CSCO) Story Is Shifting With Margin Pressures And Higher Valuation Hopes",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 03:08",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師調升目標價，反映市場對其估值重估的期待，儘管存在利潤壓力，但成長故事正轉向 AI 驅動。"
+    },
+    {
+      "rank": 5,
+      "title": "Cisco Systems (CSCO) Laps the Stock Market: Here's Why",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價表現優於大盤，顯示近期買盤強勁，市場情緒偏向樂觀。"
+    },
+    {
+      "rank": 6,
+      "title": "A Look At Cisco (CSCO) Valuation As Shares Trade Below Estimated Fair Value",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 15:05",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "股價交易價格低於估計公允價值，提供投資人潛在的價值投資空間。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cisco Bets on New Portfolio to Reignite Security Growth: What's Ahead?",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 18:32",
+      "impact": "medium",
+      "category": "財報與營運",
+      "reason": "儘管有新產品布局，但營收下滑 4 % 與成本上升的壓力仍是短期營運的隱憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Cisco Systems, Inc. (CSCO) is Attracting Investor Attention: Here is What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場關注度提升的報導，未提供具體利多或利空訊息，屬中性資訊。"
+    },
+    {
+      "rank": 2,
+      "title": "Cisco Systems Inc. stock outperforms competitors despite losses on the day",
+      "publisher": "MarketWatch",
+      "date": "2026-03-20 16:32",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "描述股價相對表現，雖當日下跌但優於同業，屬於市場波動的客觀敘述。"
+    },
+    {
+      "rank": 3,
+      "title": "Cisco Community Push Puts 40 Communities Initiative In Investor Focus",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 19:04",
+      "impact": "low",
+      "category": "企業社會責任",
+      "reason": "關於企業社會責任的長期計畫，對短期股價影響有限，屬中性消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

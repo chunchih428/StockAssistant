@@ -1,0 +1,111 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-03-24",
+  "source_file": "cache/2026-03-24/holdings/news/NFLX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 4,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "Netflix 透過廣告業務成長、直播內容策略與戰略性合作夥伴關係，展現強勁的長期成長潛力與資本配置靈活性。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Netflix's Ad Revenue Surges to $1.5 Billion: Is the Stock a No-Brainer Buy Today With $2,000?",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 15:40",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "廣告營收達到 15 億美元，顯示 Netflix 成功轉型並開闢出新的高利潤成長引擎，大幅提升市場對其獲利能力的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Citi Resumes Coverage of Netflix (NFLX) Stock — Netflix, Inc. (NASDAQ:NFLX) is one of the Top Wide Moat Stocks to Buy for Long Term Growth.",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 18:28",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "花旗銀行恢復對 Netflix 的評級，並將其列為具備寬護城河的長期成長首選股，強化了機構投資人的看多情緒。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix Taps Warner Music Partnership To Expand Music Documentary Pipeline",
+      "publisher": "Yahoo",
+      "date": "2026-03-21 09:05",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與華納音樂集團達成多年獨家合作，有助於豐富紀錄片內容庫，提升用戶黏著度與內容差異化競爭力。"
+    },
+    {
+      "rank": 4,
+      "title": "BTS Comeback Becomes Netflix's Biggest Live Bet Yet",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 20:31",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "透過 BTS 直播演唱會測試統一技術架構與廣告潛力，顯示公司在直播領域的野心與技術整合能力。"
+    },
+    {
+      "rank": 5,
+      "title": "Netflix Is $2.8 Billion Richer After Losing Warner to Paramount. What It Could Do With the Cash.",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 12:57",
+      "impact": "medium",
+      "category": "財務策略",
+      "reason": "放棄收購華納兄弟探索公司後，保留了 28 億美元現金，提升了公司在資本配置上的靈活性，如股票回購或內容投資。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Netflix (NFLX) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 21:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日下跌 3.11 %，表現弱於大盤，反映出短期獲利了結賣壓與市場對估值的修正。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Netflix a Buy, Sell, or Hold in 2026? — The failed bid to acquire Warner Bros. Discovery",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 08:28",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "收購華納失敗引發市場對其成長策略的疑慮，分析師對 2026 年的投資建議出現分歧。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Final Trades: Netflix and CBRE Group — The Investment Committee give you their top stocks to watch for the second half.",
+      "publisher": "CNBC",
+      "date": "2026-03-20 13:18",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為投資委員會的觀察名單，未提供具體買賣建議，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix VP Signals Growing Korea Investment, Eyes More Live Event Opportunities In South Korea",
+      "publisher": "Benzinga",
+      "date": "2026-03-20 03:24",
+      "impact": "low",
+      "category": "市場擴張",
+      "reason": "持續深耕韓國市場屬於既定策略，符合市場預期，未帶來立即性的財務衝擊。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix (NFLX) Reveals An Eight-Part Series on the Collapse of FTX",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 20:14",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "宣布製作關於 FTX 的紀錄片，屬於正常的內容產出規劃，對公司整體營收影響較小。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

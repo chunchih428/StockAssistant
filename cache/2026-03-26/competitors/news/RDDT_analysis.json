@@ -1,0 +1,92 @@
+{
+  "ticker": "RDDT",
+  "company": "Reddit",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/RDDT.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 7,
+    "bearish_count": 0,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "Reddit 憑藉強勁的營收成長、AI 數據授權合作以及在法律訴訟中取得初步勝利，市場投資情緒顯著轉向樂觀。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Reddit Inc. (RDDT) Beats Stock Market Upswing: What Investors Need to Know",
+      "publisher": "Zacks",
+      "date": "2026-03-25",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Reddit 股價表現優於大盤，顯示市場對其成長潛力與財務基本面的信心增強，為投資人提供正面訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Is Reddit Stock Trading Higher Today? — Shares of Reddit are trading higher after a San Francisco County court tentatively sided with the company in its lawsuit",
+      "publisher": "Benzinga",
+      "date": "2026-03-20",
+      "impact": "high",
+      "category": "法律訴訟",
+      "reason": "法院初步裁定支持 Reddit 對抗 Anthropic 的訴訟，此判決對公司保護數據資產價值具有重大戰略意義，選此篇作為代表，因其涵蓋了股價上漲的直接催化劑。"
+    },
+    {
+      "rank": 3,
+      "title": "Reddit (RDDT) Valuation Check As New Ad Formats And AI Deals Draw Investor Attention",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-25",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "新廣告格式與 AI 數據授權交易吸引了投資人目光，顯示公司在變現能力與技術應用上取得實質進展。"
+    },
+    {
+      "rank": 4,
+      "title": "Reddit introduces additional marketing tools designed for retailers",
+      "publisher": "Social Media Today",
+      "date": "2026-03-24",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "針對零售商推出行銷工具，有助於擴大廣告營收來源，提升平台商業化價值。"
+    },
+    {
+      "rank": 5,
+      "title": "Jim Cramer Approves of Reddit Stock After That 50% Plunge. Is He Right on the Money?",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-03-24",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名分析師 Jim Cramer 對股價修正後的 Reddit 表示認可，有助於提振散戶投資人信心。"
+    },
+    {
+      "rank": 6,
+      "title": "Reddit Inc - Class A (NYSE:RDDT) Combines Strong Growth Fundamentals with a Bullish Technical Setup",
+      "publisher": "ChartMill",
+      "date": "2026-03-19",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "報告指出強勁的營收成長與技術面轉強，為股價提供支撐，顯示基本面與技術面趨於一致。"
+    },
+    {
+      "rank": 7,
+      "title": "How The Investment Narrative For Reddit (RDDT) Is Shifting On Growth Potential And Valuation",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-23",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場對 Reddit 的投資敘事正從單純的社群平台轉向高成長潛力的 AI 數據供應商，估值邏輯正在重塑。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Reddit Weighs Face ID And Passkeys To Verify 'Humans'",
+      "publisher": "Benzinga",
+      "date": "2026-03-21",
+      "impact": "low",
+      "category": "產品開發",
+      "reason": "公司探索使用 Face ID 與 Passkeys 驗證用戶以打擊機器人，此舉雖能提升平台品質，但亦反映出平台面臨嚴重的機器人治理挑戰。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

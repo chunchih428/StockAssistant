@@ -1,0 +1,38 @@
+{
+  "ticker": "RUM",
+  "company": "Rumble",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/RUM.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "Rumble 透過與 Tether 的合作、廣告業務復甦以及進軍 AI 雲端運算領域，展現出多元化的成長動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Rumble Conference: CEO touts Tether deals, ad rebound and Northern Data GPU push into AI cloud",
+      "publisher": "MarketBeat",
+      "date": "2026-03-25T11:15:26Z",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "執行長明確指出公司在廣告業務的復甦，並透過與 Tether 的合作及 Northern Data 的 GPU 資源整合，積極佈局 AI 雲端市場，為公司帶來新的營收成長引擎。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Rumble (RUM) Q4 2025 Earnings Call Transcript",
+      "publisher": "Motley Fool",
+      "date": "2026-03-22T04:34:50Z",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "財報會議記錄提供了公司 2025 年第四季的財務數據與營運細節，屬於資訊揭露性質，為後續市場分析提供基礎數據，本身不具備強烈的多空導向。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,75 @@
+{
+  "ticker": "RRX",
+  "company": "Regal Rexnord",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/RRX.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 4,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 Regal Rexnord 的轉型策略與現金流表現持樂觀態度，分析師調升目標價帶動股價強勁反彈。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Barclays Maintains Overweight on Regal Rexnord, Raises Price Target to $245",
+      "publisher": "Benzinga",
+      "date": "2026-03-23 10:15",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Barclays 分析師 Julian Mitchell 維持對 RRX 的「加碼」評級，並將目標價調升至 245 美元，顯示機構投資人對其未來成長潛力具備高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Is Regal Rexnord (RRX) Stock Rocketing Higher Today",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 18:23",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "RRX 股價單日大漲 6.5 %，反映市場對公司近期營運表現與自動化業務前景的正面反應，此篇報導涵蓋了股價飆升的具體市場情緒。"
+    },
+    {
+      "rank": 3,
+      "title": "How The Regal Rexnord (RRX) Story Is Shifting With New Targets And AI Hardware Risks",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 06:06",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "分析師將公平價值目標上調至 236.50 美元，儘管提及 AI 硬體相關風險，但整體估值模型顯示公司轉型策略正逐步兌現價值。"
+    },
+    {
+      "rank": 4,
+      "title": "Regal Rexnord: Not An Ideal Prospect, Good Enough To Remain Bullish",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-21 08:37",
+      "impact": "medium",
+      "category": "投資建議",
+      "reason": "文章指出公司轉型成功提升了營收與現金流，儘管並非完美標的，但基本面改善足以支撐「買入」評級。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Sterling, Dycom, AeroVironment, Regal Rexnord, and Kratos Stocks Trade Down, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 20:37",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受中東地緣政治緊張局勢影響，市場避險情緒升溫導致工業類股普遍下跌，屬於外部系統性風險而非公司基本面惡化。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Assessing Regal Rexnord (RRX) Valuation After Recent Share Price Pullback",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 19:03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導僅對近期 4.9 % 的股價波動進行回顧與評估，未提供新的基本面資訊，僅作為市場表現的客觀紀錄。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

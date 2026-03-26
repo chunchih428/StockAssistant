@@ -1,0 +1,48 @@
+{
+  "ticker": "MPWR",
+  "company": "Monolithic Power Systems",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/MPWR.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "neutral",
+    "key_theme": "市場對於 MPWR 在 AI 基礎設施領域的強勁成長與高估值風險之間存在分歧，且內部人拋售行為引發市場對未來股價動能的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Monolithic Power ( MPWR ) Gained as Its Blackwell Platform Fared Stronger",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 11:48",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Brown Advisory 的報告指出 MPWR 的 Blackwell 平台表現優於預期，顯示公司在 AI 晶片電源管理領域的技術競爭力與市場份額持續擴張，是推動股價上漲的核心基本面因素。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Insiders At Monolithic Power Systems Sold US$383m In Stock, Alluding To Potential Weakness",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 11:00",
+      "impact": "high",
+      "category": "內部人交易",
+      "reason": "內部人拋售價值 3.83 億美元的股票，通常被市場解讀為管理層對公司未來股價表現缺乏信心，或認為目前股價已達高點，可能引發投資人跟進賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Too Late To Consider Monolithic Power Systems ( MPWR ) After Its 82% One Year Surge?",
+      "publisher": "Yahoo",
+      "date": "2026-03-21 23:04",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "該文章探討了 MPWR 在過去一年大漲 82% 後的估值合理性，未給出明確買賣建議，僅提醒投資人需評估當前 1,068.85 美元價位是否已過度反映成長預期。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

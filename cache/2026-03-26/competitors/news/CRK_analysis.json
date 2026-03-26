@@ -1,0 +1,47 @@
+{
+  "ticker": "CRK",
+  "company": "Comstock Resources",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/CRK.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司透過與 NextEra Energy 簽署數據中心供電協議，成功將業務觸角延伸至高成長的 AI 能源需求領域，並受惠於天然氣價格回升帶動的財報表現。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Comstock Resources: Increasing The Bet On The Western Haynesville — Comstock Resources, Inc. secures a natural gas supply agreement with NextEra Energy for data center power.",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-24 17:58",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "與 NextEra Energy 簽署天然氣供應協議，直接切入數據中心電力供應市場，為公司開拓了具備長期成長潛力的營收來源，被視為轉型與價值提升的關鍵。"
+    },
+    {
+      "rank": 2,
+      "title": "How a Natural Gas Price-Driven Earnings Beat At Comstock Resources (CRK) Has Changed Its Investment Story",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-17 18:12",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "受惠於天然氣價格上漲，公司財報表現優於預期，顯著改善了市場對其獲利能力的看法，並重塑了投資人對該股的成長敘事。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "A Look At Comstock Resources (CRK) Valuation After Recent Trading Moves",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-17 09:10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報告主要針對近期股價波動後的估值進行技術性分析，未提供新的基本面利多或利空訊息，僅為市場常規的估值評估。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

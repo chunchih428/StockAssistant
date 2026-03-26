@@ -1,0 +1,93 @@
+{
+  "ticker": "NEE",
+  "company": "NextEra Energy",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/NEE.json",
+  "summary": {
+    "total_articles": 19,
+    "bullish_count": 14,
+    "bearish_count": 1,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "NextEra Energy 憑藉獲得聯邦政府批准開發 10 GW 天然氣發電項目，並積極與 NVIDIA 等科技巨頭合作佈局 AI 數據中心電力需求，展現強勁的成長動能與市場領導地位。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "NextEra Energy receives approval from President Donald J. Trump to develop up to 10 GW of natural gas‑powered generation",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 14:37",
+      "impact": "high",
+      "category": "政策利多",
+      "reason": "獲得聯邦政府批准開發 10 GW 天然氣發電項目，直接提升公司長期產能與營收成長潛力，為近期股價最強勁的催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "NextEra Energy Links AI Factories To Grid As Valuation Stays Rich",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 05:03",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "與 NVIDIA 及 Emerald AI 合作開發電網整合型 AI 工廠，精準切入 AI 產業對電力基礎設施的龐大需求，具備長期戰略價值。"
+    },
+    {
+      "rank": 3,
+      "title": "NEE vs. AEP: Which Power Utility Offers Stronger Investment Potential?",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 16:32",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "分析指出 NEE 擁有更高的股東權益報酬率 (ROE) 與 940 億美元的資本支出計畫，在公用事業板塊中展現優於同業的成長性。"
+    },
+    {
+      "rank": 4,
+      "title": "NextEra Energy Inc (NYSE:NEE) Emerges as a Top Technical Breakout Candidate",
+      "publisher": "ChartMill",
+      "date": "2026-03-20 09:42",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "技術指標顯示該股處於強勢突破形態，獲得滿分技術評級，吸引動能交易者關注。"
+    },
+    {
+      "rank": 5,
+      "title": "Comstock Resources: Increasing The Bet On The Western Haynesville",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-24 17:58",
+      "impact": "low",
+      "category": "業務拓展",
+      "reason": "與 Comstock Resources 簽署天然氣供應協議，確保數據中心電力供應的穩定性，強化營運基礎。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "NextEra Energy, Inc. (NEE) Plans to Sell $2 billion in Equity Units to Fund Energy Projects",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 00:29",
+      "impact": "medium",
+      "category": "資本運作",
+      "reason": "計畫發行 20 億美元股權單位籌資，雖用於能源項目，但短期內會造成股權稀釋壓力，對現有股東情緒產生負面影響。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Costco, NextEra, Valero Energy And More On CNBC's 'Final Trades'",
+      "publisher": "Benzinga",
+      "date": "2026-03-25 08:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析師在財經節目中將其列為觀察名單，屬於市場觀點分享，對股價無直接實質影響。"
+    },
+    {
+      "rank": 2,
+      "title": "NextEra CEO John Ketchum on Energy Demand, AI Power Needs at CERAWeek",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 22:32",
+      "impact": "low",
+      "category": "高層觀點",
+      "reason": "執行長針對能源需求與 AI 趨勢進行產業展望，屬於例行性產業論壇發言，未涉及具體財務預測變更。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

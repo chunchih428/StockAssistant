@@ -1,0 +1,93 @@
+{
+  "ticker": "NTNX",
+  "company": "Nutanix, Inc.",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/NTNX.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 3,
+    "bearish_count": 4,
+    "neutral_count": 3,
+    "overall_sentiment": "bearish",
+    "key_theme": "儘管 Nutanix 在 AI 基礎設施與市場份額上取得技術進展，但近期財測下調與分析師降評導致股價面臨顯著壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "A Look At Nutanix (NTNX) Valuation After Its New Agentic AI Stack With NVIDIA Integration",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 09:05",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Nutanix 推出與 NVIDIA 整合的 Agentic AI 軟體堆疊，有助於企業管理大型 AI 工作負載，展現其在 AI 基礎設施領域的競爭力。"
+    },
+    {
+      "rank": 2,
+      "title": "RapidFort Partners with Nutanix to Deliver Secure, Compliant Kubernetes at Development Speed for Enterprise AI Workloads",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 13:30",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "與 RapidFort 合作提升 Kubernetes 安全性，進一步強化其在企業級 AI 部署的產品價值。"
+    },
+    {
+      "rank": 3,
+      "title": "AMD Relies on a Rich Partner Base to Drive Sales: More Upside Ahead?",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 15:19",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "被 AMD 列為 AI 擴張策略的合作夥伴，顯示 Nutanix 在硬體生態系中的戰略地位受到肯定。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Nutanix (NTNX) Fell Following a Cut in its 2026 Revenue and Earnings Forecast",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-18 11:59",
+      "impact": "high",
+      "category": "財報預測",
+      "reason": "公司下調 2026 財年營收與獲利預測，直接導致股價下跌，是近期市場悲觀情緒的核心來源。"
+    },
+    {
+      "rank": 2,
+      "title": "William Blair Downgrades Nutanix to Market Perform",
+      "publisher": "Benzinga",
+      "date": "2026-03-23 08:57",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師 Jason Ader 將評級從 Outperform 下調至 Market Perform，反映市場對其短期成長動能的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "2 Reasons to Like NTNX and 1 to Stay Skeptical",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 12:18",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價在過去六個月內下跌 47.9%，市場對於其估值與獲利能力仍存有高度懷疑。"
+    },
+    {
+      "rank": 4,
+      "title": "Why Nutanix, Inc. (NTNX) Underperformed Despite Gaining Market Share from VMware",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 11:48",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管成功從 VMware 搶佔市佔率，但股價表現仍落後，顯示投資人更關注其獲利轉化效率而非單純的市佔成長。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Traefik Becomes the De Facto Standard for Kubernetes Networking as Major Platform Vendors Migrate from Ingress NGINX",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 07:36",
+      "impact": "low",
+      "category": "技術更新",
+      "reason": "Nutanix 參與 Traefik 網路標準遷移，屬於技術生態系整合，對股價無直接顯著影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

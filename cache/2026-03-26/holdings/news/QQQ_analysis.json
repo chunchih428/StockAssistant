@@ -1,0 +1,57 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-03-24",
+  "source_file": "cache/2026-03-24/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "Mixed",
+    "key_theme": "市場在經濟衰退風險與技術性買入機會之間拉鋸，投資人正評估 QQQ 在波動環境下的長期持有價值。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "QQQ: Bullish Asymmetric Reward-to-Risk Here",
+      "publisher": "Zacks",
+      "date": "2026-03-23T16:38:00Z",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析師指出當前 QQQ 的風險報酬比呈現不對稱優勢，認為在修正行情中具備長線佈局價值，選此篇作為代表是因為其明確量化了風險與報酬的潛在空間。"
+    },
+    {
+      "rank": 2,
+      "title": "Should You Buy the Invesco QQQ ETF During the Stock Market Sell-Off? History Offers a Clear Answer.",
+      "publisher": "Motley Fool",
+      "date": "2026-03-23T08:50:00Z",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "透過歷史數據回測，強調在市場拋售期間買入 QQQ 的長期勝率，為投資人提供心理支撐與策略建議。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Goodbye Bull Market, Hello Recession — Recession risks rise as the Sahm Rule triggers and GDP slows; SPY/QQQ test support while cyclicals plunge.",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-20 13:49",
+      "impact": "high",
+      "category": "總體經濟",
+      "reason": "薩姆規則 (Sahm Rule) 觸發引發市場對經濟衰退的擔憂，GDP 成長放緩直接威脅 QQQ 成分股的獲利前景，導致技術面支撐位面臨嚴峻考驗。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "QQQ Gets an Equal Weight Buddy",
+      "publisher": "The Daily Upside",
+      "date": "2026-03-23T04:01:00Z",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "報導關於 QQQ 相關產品線的擴充與等權重版本推出，屬於結構性調整，對 QQQ 本身的資金流向與股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

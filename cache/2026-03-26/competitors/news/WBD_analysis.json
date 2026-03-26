@@ -1,0 +1,119 @@
+{
+  "ticker": "WBD",
+  "company": "Warner",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/WBD.json",
+  "summary": {
+    "total_articles": 11,
+    "bullish_count": 0,
+    "bearish_count": 7,
+    "neutral_count": 4,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場高度關注 Warner Bros. Discovery 與 Paramount Skydance 的合併案，但因監管審查風險、高額執行長薪酬爭議及併購策略的不確定性，導致投資人情緒轉趨保守與負面。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Senate Democrats Demand 'Rigorous' FCC Probe Into Foreign Funding Behind Paramount Skydance–Warner Bros. Discovery Deal",
+      "publisher": "Benzinga",
+      "date": "2026-03-23 08:55",
+      "impact": "high",
+      "category": "法規監管",
+      "reason": "美國參議院民主黨人要求 FCC 對該併購案中的外資來源進行嚴格調查，這增加了交易被否決或延遲的風險，對股價構成重大不確定性。"
+    },
+    {
+      "rank": 2,
+      "title": "David Zaslav’s WBD-Paramount deal payout highlights new 'golden parachutes' for CEOs",
+      "publisher": "CNBC",
+      "date": "2026-03-20 11:26",
+      "impact": "medium",
+      "category": "公司治理",
+      "reason": "執行長 David Zaslav 因合併案可能獲得高達 8.87 億美元的薪酬與補償，引發市場對於公司治理與股東權益的質疑，可能導致投資人信心下滑。"
+    },
+    {
+      "rank": 3,
+      "title": "Gary Black Cites Netflix-Warner Bros Deal To Caution Against SpaceX-Tesla Merger",
+      "publisher": "Benzinga",
+      "date": "2026-03-25 03:26",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "投資人 Gary Black 以 Netflix 與 WBD 談判失敗為例，暗示該併購案存在稀釋股權與整合失敗的風險，對市場情緒產生負面影響。"
+    },
+    {
+      "rank": 4,
+      "title": "Congressman Cashes Out Warner Bros. Discovery Shares Up 150% In Last Year",
+      "publisher": "Benzinga",
+      "date": "2026-03-23 17:48",
+      "impact": "low",
+      "category": "內部交易",
+      "reason": "國會議員在併購案審查前拋售持股，雖然金額有限，但此類內部人減持行為通常會被市場解讀為對後續股價表現缺乏信心。"
+    },
+    {
+      "rank": 5,
+      "title": "Netflix Is $2.8 Billion Richer After Losing Warner to Paramount",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 12:57",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出 Netflix 因退出收購 WBD 競爭而保留了 28 億美元現金，反襯出 WBD 在併購策略上的孤立與潛在的資產價值被高估風險。"
+    },
+    {
+      "rank": 6,
+      "title": "Spencer Jakab | Is the Largest Leveraged Buyout Ever in Doubt?",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 12:07",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "針對該槓桿收購案是否能順利完成提出質疑，市場對於高槓桿併購在當前環境下的可行性感到擔憂。"
+    },
+    {
+      "rank": 7,
+      "title": "Is Netflix a Buy, Sell, or Hold in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 08:28",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文中提及 WBD 併購案的失敗與不確定性，持續對 WBD 的品牌資產與未來成長性帶來負面觀感。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Warner Bros. Discovery, Inc. (WBD) Is a Trending Stock: Facts to Know Before Betting on It",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場熱度分析，提供投資人基本面資訊，未對股價走勢給出明確方向。"
+    },
+    {
+      "rank": 2,
+      "title": "A Look At Warner Bros. Discovery (WBD) Valuation As Opinion Splits On Its Fair Value",
+      "publisher": "Yahoo",
+      "date": "2026-03-21 11:06",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "市場對於 WBD 的公允價值存在分歧，顯示投資人對於該公司目前的估值缺乏共識。"
+    },
+    {
+      "rank": 3,
+      "title": "Rep. August Pfluger Has Sold Up to $15K Worth Of Warner Bros. Discovery Stock",
+      "publisher": "Benzinga",
+      "date": "2026-03-20 11:00",
+      "impact": "low",
+      "category": "內部交易",
+      "reason": "此為單一議員的小額持股變動，對整體股價影響力極低，屬於中性資訊。"
+    },
+    {
+      "rank": 4,
+      "title": "Warner Bros. CEO David Zaslav could make $887 million from Paramount deal. Here's how",
+      "publisher": "CNBC",
+      "date": "2026-03-20 11:44",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "此篇與另一篇 CNBC 報導內容重複，主要說明執行長薪酬結構，作為中性事實陳述。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

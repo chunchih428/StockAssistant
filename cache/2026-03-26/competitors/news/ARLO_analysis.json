@@ -1,0 +1,38 @@
+{
+  "ticker": "ARLO",
+  "company": "Arlo Technologies",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/ARLO.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "Mixed",
+    "key_theme": "公司近期發布強勁的 第 4 季 財報表現，但同時伴隨內部高層因稅務需求進行的股票拋售行為。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Q4 Earnings Recap: Arlo Technologies (NYSE:ARLO) Tops Specialized Technology Stocks",
+      "publisher": "StockStory",
+      "date": "2026-03-24T01:14:35Z",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "Arlo Technologies 在 第 4 季 財報中表現優於預期，在專業技術類股中脫穎而出，顯示其核心業務成長動能強勁，對股價具備正面支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Arlo Technologies General Counsel Sells 25000 Shares for $352000 to Cover Taxes",
+      "publisher": "Motley Fool",
+      "date": "2026-03-22T07:07:42Z",
+      "impact": "low",
+      "category": "內部人交易",
+      "reason": "公司法律總顧問拋售 25,000 股股票，總值約 35.2 萬美元。雖然此舉主要為支付稅務義務，但內部人減持股份通常會引起市場對股價短期走勢的疑慮。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

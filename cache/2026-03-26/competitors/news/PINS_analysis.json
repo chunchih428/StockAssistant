@@ -1,0 +1,48 @@
+{
+  "ticker": "PINS",
+  "company": "Pinterest",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/PINS.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "neutral",
+    "key_theme": "Pinterest 股價近期表現疲軟，市場對於其能否在摩根士丹利下調目標價後實現反彈持保留態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why Pinterest (PINS) Outpaced the Stock Market Today",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導指出 PINS 當日股價上漲 1.28 %，表現優於大盤，顯示在經歷長期下跌後出現短線買盤支撐。選擇此篇作為代表，因其涵蓋了具體的股價變動數據。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Can Pinterest Reach $27? 3 Things Must Go Right After Morgan Stanley’s Target Cut",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 14:42",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "摩根士丹利下調目標價，且 PINS 年初至今股價跌幅近 30 %，反映市場對其成長動能與獲利能力的擔憂，短期內面臨較大的技術面壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Investors Heavily Search Pinterest, Inc. (PINS): Here is What You Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章僅反映該股票在 Zacks.com 上的搜尋熱度增加，屬於投資人關注度指標，並未對公司基本面或股價走勢提供明確的利多或利空訊號。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "CRGY",
+  "company": "Crescent Energy",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/CRGY.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 3,
+    "bearish_count": 3,
+    "neutral_count": 2,
+    "overall_sentiment": "neutral",
+    "key_theme": "市場對 Crescent Energy 的評價呈現分歧，分析師調升目標價與看好其併購策略，但同時面臨評級下調與股價短期波動的壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "JP Morgan Reinstates Overweight on Crescent Energy, Announces $19 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-03-20 08:57",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "JP Morgan 分析師 Zach Parham 給予 Overweight 評級並設定 19 美元目標價，顯示大型投行對該公司未來成長潛力持正面看法。"
+    },
+    {
+      "rank": 2,
+      "title": "Crescent Energy: The Quiet Shale Powerhouse The Market Misses",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-25 05:55",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "文章強調公司在頁岩油領域的併購紀律與營運效率，認為市場低估了其作為頁岩油平台的長期價值。"
+    },
+    {
+      "rank": 3,
+      "title": "Here’s Why Piper Sandler Increased Crescent Energy’s (CRGY) Price Target To $16",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-18 11:03",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Piper Sandler 調升目標價至 16 美元，反映了市場對公司基本面改善的認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Johnson Rice Downgrades Crescent Energy to Accumulate, Announces $19 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-03-25 08:27",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Johnson Rice 分析師 Charles Meade 將評級從 Buy 下調至 Accumulate，雖目標價維持 19 美元，但評級下調暗示短期上漲空間有限，故選此篇作為代表。"
+    },
+    {
+      "rank": 2,
+      "title": "Crescent Energy (CRGY) Stock Dips While Market Gains: Key Facts",
+      "publisher": "Zacks",
+      "date": "2026-03-23 22:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價在市場整體上漲時出現回調，顯示短期賣壓或投資人獲利了結心態。"
+    },
+    {
+      "rank": 3,
+      "title": "Crescent Energy (CRGY) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "publisher": "Zacks",
+      "date": "2026-03-16 22:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價與大盤走勢背離下跌，反映出市場對該個股短期表現的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Crescent Energy’s ESOP Shelf Filing Quietly Redefining Its Capital Structure Strategy for CRGY?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-19 10:04",
+      "impact": "low",
+      "category": "資本結構",
+      "reason": "探討公司員工持股計畫 (ESOP) 申報對資本結構的潛在影響，屬於中性的財務策略分析。"
+    },
+    {
+      "rank": 2,
+      "title": "Johnson Rice Downgrades Crescent Energy (CRGY)",
+      "publisher": "Fintel",
+      "date": "2026-03-25 21:55",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "此為重複報導 Johnson Rice 下調評級的消息，僅作為資訊更新，無新增分析觀點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

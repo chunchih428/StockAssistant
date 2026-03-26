@@ -1,0 +1,84 @@
+{
+  "ticker": "KLAC",
+  "company": "KLA Corporation",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/KLAC.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 3,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對 KLA Corporation 的強勁現金流與股東回饋政策持正面看法，但對於當前股價估值是否過高以及短期技術性回調存在分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Magnachip, Analog Devices, Applied Materials, KLA Corporation, and MACOM Shares Skyrocket, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 00:49",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "川普政府宣布一項自願性計畫，帶動半導體設備類股集體上漲，顯示政策利多對 KLAC 股價具有顯著的推升作用。"
+    },
+    {
+      "rank": 2,
+      "title": "Oppenheimer Raises PT on KLA (KLAC) Stock to $1,900",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 15:44",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Oppenheimer 將目標價調升至 1,900 美元，反映出機構投資人對該公司作為頂尖半導體設備供應商的長期成長信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Does KLA (KLAC) Turbocharged Buyback Signal Durable Cash Strength Or Fewer Reinvestment Opportunities?",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 11:06",
+      "impact": "medium",
+      "category": "財務政策",
+      "reason": "公司將季度股息從 1.90 美元調升至 2.30 美元並擴大股票回購計畫，顯示強勁的現金流與管理層對公司價值的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "KLA (KLAC) Stock Dips While Market Gains: Key Facts",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 22:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價在市場整體上漲背景下出現 1.43 % 的回調，顯示短期內存在獲利了結賣壓。選用 Yahoo 報導作為代表，因其數據呈現較為客觀。"
+    },
+    {
+      "rank": 2,
+      "title": "KLA Corporation: Stock Price Surge Unjustified",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-23 09:41",
+      "impact": "medium",
+      "category": "投資分析",
+      "reason": "分析師認為近期股價漲幅缺乏基本面支撐，暗示當前估值可能已過高，存在修正風險。"
+    },
+    {
+      "rank": 3,
+      "title": "KLAC vs. Advanced Energy: Which AI Stock is a Buy Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 14:55",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "透過與 Advanced Energy (AEIS) 的比較，指出競爭對手在 AI 基礎設施支出方面具有更強的成長動能，對 KLAC 構成相對競爭壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is KLA Corporation (KLAC) A Good Stock To Buy Now?",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 20:12",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "文章彙整了市場對 KLAC 的多空觀點，未給出明確的買進或賣出建議，僅提供投資人參考。選用 Yahoo 報導作為代表，因其涵蓋了市場情緒的綜合討論。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

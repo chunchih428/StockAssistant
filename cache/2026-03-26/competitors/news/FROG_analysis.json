@@ -1,0 +1,74 @@
+{
+  "ticker": "FROG",
+  "company": "JFrog",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/FROG.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 4,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於華爾街分析師調升評級與目標價，以及市場對其 AI 軟體供應鏈安全產品的強勁需求，推動股價顯著上漲。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "UBS Upgrades JFrog to Buy, Announces $60 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-03-24 08:20",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "UBS 分析師 Radi Sultan 將 JFrog 評級由「中立」調升至「買進」，並給予 60 美元目標價，顯示對公司未來成長潛力與獲利能力的信心增強。"
+    },
+    {
+      "rank": 2,
+      "title": "JFrog (FROG) Shares Skyrocket, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-25",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "該報導詳細分析了股價飆升的背後驅動力，確認了市場對 JFrog 核心業務的強勁買盤，選此篇作為代表是因為其對股價波動原因有深入的結構性分析。"
+    },
+    {
+      "rank": 3,
+      "title": "Why JFrog (FROG) Stock Is Up Today",
+      "publisher": "StockStory",
+      "date": "2026-03-23",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "解釋了股價上漲的即時動能，反映出投資人對公司在軟體供應鏈安全領域的市場地位給予高度評價。"
+    },
+    {
+      "rank": 4,
+      "title": "JFrog Says AI Coding Agents Won’t Replace Binary Security as Xray and Cloud Usage Surge",
+      "publisher": "MarketBeat",
+      "date": "2026-03-16",
+      "impact": "medium",
+      "category": "產品與技術",
+      "reason": "公司強調 AI 程式碼代理無法取代二進位安全，並指出 Xray 與雲端使用量激增，顯示其核心產品在 AI 時代仍具備不可替代的剛性需求。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Stocks making big moves yesterday: Genuine Parts, Sabre, JFrog, Palantir Technologies, and Nubank",
+      "publisher": "StockStory",
+      "date": "2026-03-24",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅單純列出股價波動較大的個股清單，未提供針對 JFrog 的深入分析，故歸類為中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Alaska Airlines, ConocoPhillips, Commvault Systems, CoreWeave, Diamondback Energy, JFrog Ltd, Microsoft, and More",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-03-24",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "僅作為當日華爾街研究報告的彙整清單，提及 JFrog 評級變動但未深入探討細節，資訊價值較為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

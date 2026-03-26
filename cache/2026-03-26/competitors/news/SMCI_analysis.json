@@ -1,0 +1,120 @@
+{
+  "ticker": "SMCI",
+  "company": "Super Micro Computer",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/SMCI.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 3,
+    "bearish_count": 14,
+    "neutral_count": 3,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司共同創辦人涉及非法出口 AI 伺服器至中國的刑事指控，引發監管風險、股東訴訟及分析師大幅下調目標價，嚴重打擊市場信心。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why Super Micro Stock Popped On Wednesday — SMCI Stock Surges as Hardware Sector Rallies",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 19:46",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管面臨重大利空，硬體類股整體反彈帶動 SMCI 出現技術性買盤，顯示部分投資人試圖在超跌後尋找反彈機會。"
+    },
+    {
+      "rank": 2,
+      "title": "Super Micro (SMCI) Moves 5.1% Higher: Will This Strength Last?",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 11:24",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "在交易量高於平均的情況下出現股價上漲，顯示市場存在短線交易的流動性，但並未改變基本面惡化的事實。"
+    },
+    {
+      "rank": 3,
+      "title": "Super Micro Deepens Mirantis Ties To Standardize Open Source AI Clouds",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 01:06",
+      "impact": "low",
+      "category": "合作夥伴",
+      "reason": "與 Mirantis 擴大合作以自動化 AI 雲端基礎設施，顯示公司在核心業務運作上仍試圖維持技術進展，但此利多被醜聞掩蓋。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Super Micro Computer (SMCI) Is Down 29.5% After Indictment Over Alleged China AI Server Exports",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 17:04",
+      "impact": "high",
+      "category": "法律訴訟",
+      "reason": "公司共同創辦人 Yih-Shyan 等人遭聯邦檢察官起訴，涉及非法出口 AI 伺服器至中國，直接威脅公司合規性與營運許可，為股價重挫的主因。"
+    },
+    {
+      "rank": 2,
+      "title": "Citi Slashes Its Super Micro Stock Price Target by 35% Amid ‘Reputation Risks.’",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 14:47",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "花旗銀行因應走私醜聞帶來的聲譽風險，將目標價大幅下調 35%，反映華爾街對公司治理與未來營收穩定性的極度擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Super Micro sued by shareholders over China-related criminal case against co-founder, others",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 22:23",
+      "impact": "medium",
+      "category": "法律訴訟",
+      "reason": "股東正式對公司提起訴訟，進一步加劇法律風險，並可能導致公司面臨鉅額賠償或治理結構的強制重組。"
+    },
+    {
+      "rank": 4,
+      "title": "Nvidia In Crosshairs As Senators Question China Export Controls",
+      "publisher": "Benzinga",
+      "date": "2026-03-24 10:47",
+      "impact": "medium",
+      "category": "法規監管",
+      "reason": "美國參議員針對 SMCI 走私案要求對 Nvidia 實施更嚴格的出口禁令，若供應鏈受限，將直接衝擊 SMCI 的核心 AI 伺服器業務。"
+    },
+    {
+      "rank": 5,
+      "title": "Super Micro Stumbles Into Crisis With Nvidia As Its Only Lifeline",
+      "publisher": "Benzinga",
+      "date": "2026-03-24 09:08",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出公司目前僅依賴 Nvidia 的供應維持營運，一旦監管機構介入限制供應，公司將面臨生存危機。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "SMCI vs. TTMI: Which AI Infrastructure Stock is a Better Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 15:41",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "將 SMCI 與 TTM Technologies 進行比較，屬於投資組合配置建議，未對 SMCI 本身提供新的實質性利多或利空訊息。"
+    },
+    {
+      "rank": 2,
+      "title": "Super Micro Computer Stock Sinks on Smuggling Scandal. Is the Market Overreacting?",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 16:20",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "探討市場是否過度反應，並回顧 2024 年審計師辭職事件，提供歷史對照，但對當前股價走勢持保留態度。"
+    },
+    {
+      "rank": 3,
+      "title": "Can Super Micro Computer Recover From Its Latest Disaster?",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 16:11",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "針對公司未來復甦能力的質疑性報導，反映市場觀望情緒，缺乏具體財務數據支持。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

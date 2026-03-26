@@ -1,0 +1,66 @@
+{
+  "ticker": "NTAP",
+  "company": "NetApp",
+  "analysis_date": "2026-03-24",
+  "source_file": "cache/2026-03-24/holdings/news/NTAP.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "NetApp 憑藉強勁的獲利能力與 AI 推論基礎設施的成長動能，正吸引市場高度關注並推動股價潛在成長。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "NetApp: Robust Profitability And AI Inference Tailwind Poised To Propel This Stock To New Heights",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-21 10:15",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "分析指出 NetApp 具備穩健的獲利能力，且受惠於 AI 推論需求的基礎設施成長，具備推升股價的長期動能。"
+    },
+    {
+      "rank": 2,
+      "title": "NetApp Unveils New High-Performance EF-Series Models",
+      "publisher": "Yahoo",
+      "date": "2026-03-17 12:00",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "公司推出新款高效能 EF 系列儲存模型，有助於強化其在企業級資料基礎設施市場的競爭力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "NetApp Inc. stock underperforms Wednesday when compared to competitors",
+      "publisher": "MarketWatch",
+      "date": "2026-03-18 17:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出該股在週三表現落後於同業，反映短期內股價波動與市場相對強弱勢的壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Here is What to Know Beyond Why NetApp, Inc. (NTAP) is a Trending Stock",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該文主要探討為何 NTAP 成為 Zacks.com 用戶近期熱門關注的標的，屬於市場情緒觀察，無直接利多或利空影響。"
+    },
+    {
+      "rank": 2,
+      "title": "A Look At NetApp (NTAP) Valuation After Recent Share Price Swings",
+      "publisher": "Yahoo",
+      "date": "2026-03-18 19:05",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "針對近期股價波動後的估值回顧，提供投資人技術性參考，未對未來營運展望做出明確方向性判斷。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

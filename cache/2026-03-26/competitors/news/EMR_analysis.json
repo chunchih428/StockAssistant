@@ -1,0 +1,84 @@
+{
+  "ticker": "EMR",
+  "company": "Emerson Electric",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/EMR.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 2,
+    "bearish_count": 4,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "儘管公司基本面強勁且獲利預期上調，但近期股價因內部人拋售與市場修正壓力而面臨回調。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Emerson Electric: A Welcomed Setback",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-23 02:53",
+      "impact": "medium",
+      "category": "投資分析",
+      "reason": "分析師認為股價從高點回調超過 20 % 反而提供了具吸引力的進場點，強調其強勁的基本面支撐長期價值。"
+    },
+    {
+      "rank": 2,
+      "title": "Emerson Electric Co. (EMR): Billionaire Ken Fisher Loading Up on AI Beneficiary",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-17 14:47",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名億萬富翁 Ken Fisher 大舉增持該股，顯示市場對其作為 AI 基礎設施受益者的長期成長潛力抱持信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Emerson Electric Insiders Sold US$7.8m Of Shares Suggesting Hesitancy",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 11:00",
+      "impact": "high",
+      "category": "高層異動",
+      "reason": "內部人於過去一年內拋售價值 780 萬美元的股票，此舉通常被市場解讀為管理層對公司短期股價表現的猶豫或缺乏信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Emerson Electric (EMR) Is Down 5.7% After Raising EPS Guidance And Announcing $250 Million Buyback",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-17 13:14",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "儘管公司上調每股盈餘 (EPS) 指引並宣布 2.5 億美元庫藏股計畫，但股價不漲反跌 5.7 %，顯示市場對其財測或未來成長動能存有疑慮。"
+    },
+    {
+      "rank": 3,
+      "title": "Emerson Electric (EMR) Suffers a Larger Drop Than the General Market: Key Insights",
+      "publisher": "Zacks",
+      "date": "2026-03-18 22:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價跌幅超過大盤，反映出該個股近期面臨較大的賣壓，技術面與市場情緒轉弱。"
+    },
+    {
+      "rank": 4,
+      "title": "Emerson Electric (EMR) Stock Moves -1.35%: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 21:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "單日下跌 1.35 %，延續了近期股價疲軟的趨勢，顯示短期內缺乏買盤支撐。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Here is What to Know Beyond Why Emerson Electric Co. (EMR) is a Trending Stock",
+      "publisher": "Zacks",
+      "date": "2026-03-16 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導主要分析市場熱度與基本面背景，未提供具體的買賣建議或重大財務變動，屬於資訊整理性質。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

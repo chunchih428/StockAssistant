@@ -1,0 +1,38 @@
+{
+  "ticker": "VRSN",
+  "company": "VeriSign",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/VRSN.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "neutral",
+    "key_theme": "市場對於 VeriSign 的評級調升與機構投資人減持股份的動作產生多空拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "All You Need to Know About VeriSign (VRSN) Rating Upgrade to Buy",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 16:00",
+      "impact": "medium",
+      "category": "投資評級",
+      "reason": "Zacks 將 VRSN 評級調升至 #2 (Buy)，主要反映市場對該公司未來獲利前景的樂觀預期，顯示基本面支撐力道增強。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "VeriSign (VRSN) Shares Slid Following Berkshire Hathaway’s Reduction of Its Stake",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 11:43",
+      "impact": "medium",
+      "category": "股權變動",
+      "reason": "Berkshire Hathaway 減持股份的消息引發市場對大型機構投資人信心動搖的擔憂，導致股價短期承壓，該新聞涵蓋了 Diamond Hill Capital 的投資觀點，具備代表性。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

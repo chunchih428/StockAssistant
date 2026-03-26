@@ -1,0 +1,84 @@
+{
+  "ticker": "WGO",
+  "company": "Winnebago Industries",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/WGO.json",
+  "summary": {
+    "total_articles": 14,
+    "bullish_count": 6,
+    "bearish_count": 1,
+    "neutral_count": 7,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司發布 2026 財年第 2 季財報，營收與每股盈餘均優於市場預期，儘管部分業務面臨挑戰，但整體表現強勁。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Winnebago Industries Q2 Adj. EPS $0.27 Beats $0.24 Estimate, Sales $657.400M Beat $627.133M Estimate",
+      "publisher": "Benzinga",
+      "date": "2026-03-25 07:01",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第 2 季財報表現亮眼，調整後每股盈餘 0.27 美元與營收 6.574 億美元均超越華爾街分析師預期，顯示核心業務具備韌性。"
+    },
+    {
+      "rank": 2,
+      "title": "Winnebago Industries (NYSE:WGO) Reports Strong Q2 Earnings Beat as Motorhome Segment Surges",
+      "publisher": "ChartMill",
+      "date": "2026-03-25 12:21",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "財報顯示露營車 (Motorhome) 業務成長強勁，成為推動本季獲利優於預期的主要動力，抵銷了其他部門的疲軟。"
+    },
+    {
+      "rank": 3,
+      "title": "Winnebago Industries' Ride Lower Offers An Opportunity To Jump In",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-25 18:22",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師認為儘管股價波動，但財報顯示營收年增 6 % 且每股盈餘轉正，為投資人提供了一個潛在的進場機會。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Winnebago (WGO) Shares Are Getting Obliterated Today",
+      "publisher": "StockStory",
+      "date": "2026-03-25 20:51",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "儘管財報優於預期，但市場對其拖掛式露營車 (Towable) 與船舶 (Marine) 業務面臨的挑戰感到擔憂，導致股價出現顯著回調。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Winnebago Industries Affirms FY26 Adj. EPS Guidance Of $2.10-$2.80 And Net Revenue Guidance Of $2.8B-$3.0B",
+      "publisher": "Benzinga",
+      "date": "2026-03-25 07:22",
+      "impact": "low",
+      "category": "財測更新",
+      "reason": "公司維持 2026 財年全年財測，顯示管理層對未來營運展望保持穩定，未有重大意外調整。"
+    },
+    {
+      "rank": 2,
+      "title": "Winnebago Industries Revises FY26 Reported EPS From Prior Guidance Of $1.40-$2.10 To $1.50-$2.20",
+      "publisher": "Benzinga",
+      "date": "2026-03-25 07:24",
+      "impact": "low",
+      "category": "財測更新",
+      "reason": "針對 2026 財年每股盈餘預測進行微幅修正，屬於常規性的財測調整，對市場預期影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "Winnebago Industries, Inc. (WGO) Q2 2026 Earnings Call Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-25 14:15",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "提供法說會逐字稿，供投資人深入了解公司管理層對各業務部門的詳細說明與未來策略。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

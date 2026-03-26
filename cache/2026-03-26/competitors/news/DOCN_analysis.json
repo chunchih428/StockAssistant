@@ -1,0 +1,83 @@
+{
+  "ticker": "DOCN",
+  "company": "DigitalOcean Holdings",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/DOCN.json",
+  "summary": {
+    "total_articles": 11,
+    "bullish_count": 4,
+    "bearish_count": 3,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司近期宣布進行約 8 億美元的股票增資以擴展 AI 基礎設施並償還債務，導致短期股價面臨稀釋壓力與賣壓。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "DigitalOcean (DOCN) Hits 4-Year High on Oppenheimer 18% Price Target Hike",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-19 00:52",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Oppenheimer 將目標價調升 18 %，反映市場對其轉型為 AI 基礎設施供應商的信心，推動股價創下 4 年新高。"
+    },
+    {
+      "rank": 2,
+      "title": "DigitalOcean: The Profitable Alternative In The AI Infrastructure Space",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-19 00:38",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析指出 DigitalOcean 正從低成長的 SMB 雲端服務商轉型為高成長的 AI 雲端平台，具備獲利能力優勢。"
+    },
+    {
+      "rank": 3,
+      "title": "Assessing DigitalOcean Holdings (DOCN) Valuation After AI Partnership And Earnings Driven Momentum",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-19 06:06",
+      "impact": "medium",
+      "category": "財報與估值",
+      "reason": "基於 AI 合作夥伴關係與財報表現，市場對其估值進行正面重估，帶動股價動能。"
+    },
+    {
+      "rank": 4,
+      "title": "Why DigitalOcean Stock Soared on Wednesday",
+      "publisher": "Motley Fool",
+      "date": "2026-03-18 23:06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "總結了近期推動股價上漲的關鍵因素，確認了市場對其 AI 轉型策略的正面反應。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "DigitalOcean Prices Upsized ~$800M Offering Of 10.390M Common Stock",
+      "publisher": "Benzinga",
+      "date": "2026-03-25 08:58",
+      "impact": "high",
+      "category": "股權融資",
+      "reason": "公司最終定價 8 億美元的股票增資，發行 1,039 萬股普通股，造成股權稀釋疑慮，為近期股價下跌的主因。"
+    },
+    {
+      "rank": 2,
+      "title": "DigitalOcean Holdings shares are trading lower after the company announced a $700 million share offering.",
+      "publisher": "Benzinga",
+      "date": "2026-03-25 08:05",
+      "impact": "medium",
+      "category": "股權融資",
+      "reason": "市場對 7 億至 8 億美元規模的增資計畫反應負面，導致盤前交易股價走低。"
+    },
+    {
+      "rank": 3,
+      "title": "Absci, DigitalOcean And Other Big Stocks Moving Lower In Wednesday's Pre-Market Session",
+      "publisher": "Benzinga",
+      "date": "2026-03-25 08:02",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "反映了增資消息公布後，市場情緒轉為保守，導致股價在盤前交易中承壓。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}
