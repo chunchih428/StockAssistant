@@ -1,0 +1,38 @@
+{
+  "ticker": "PRIM",
+  "company": "Primoris",
+  "analysis_date": "2026-03-25",
+  "source_file": "cache/2026-03-25/competitors/news/PRIM.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司透過參與產業會議展示成長策略，且近期財報表現穩健，顯示其在建築與維護服務領域的競爭優勢。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Reflecting On Construction and Maintenance Services Stocks’ Q4 Earnings: Primoris (NYSE:PRIM)",
+      "publisher": "StockStory",
+      "date": "2026-03-24",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "該報導分析了 Primoris 在 Q4 的財務表現，確認其在建築與維護服務產業中具備穩健的營運基礎，對投資人信心有正面支撐作用。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Primoris Services Corporation (PRIM) Presents at The 38th Annual Roth Conference",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-24",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "公司於 Roth 會議發布簡報屬於常規投資人關係活動，主要用於溝通長期策略與營運展望，未涉及重大突發性利多或利空消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,92 @@
+{
+  "ticker": "TXN",
+  "company": "Texas Instruments",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/TXN.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 4,
+    "bearish_count": 0,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司憑藉在 AI 資料中心與電動車領域的 800V 電源架構技術創新，獲得市場正面評價並帶動股價上漲。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Entegris, Texas Instruments, Photronics, FormFactor, and Amkor Shares Are Soaring, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 20:09",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "受惠於川普政府宣布的自願性產業政策激勵，半導體類股集體上漲，顯示市場對政策紅利帶動 TXN 營運前景持樂觀態度。"
+    },
+    {
+      "rank": 2,
+      "title": "TI unveils high-performance isolated power modules to advance power density in data centers and EVs",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 13:00",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "公司推出新款隔離式電源模組，直接切入高成長的資料中心與電動車市場，有助於提升產品組合的毛利率與技術護城河。"
+    },
+    {
+      "rank": 3,
+      "title": "Assessing Texas Instruments (TXN) Valuation After New 800V AI Data Center Power Architecture Announcement",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 20:05",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "選定此篇作為代表，因其深入分析了 800V 電源架構對公司估值的潛在正面影響，該技術能有效降低 AI 資料中心的能源損耗，符合市場對高效能運算基礎設施的需求。"
+    },
+    {
+      "rank": 4,
+      "title": "Texas Instruments (TXN) Beats Stock Market Upswing: What Investors Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 21:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日上漲 1.1 %，反映出市場對公司近期技術突破的正面回饋與動能延續。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Texas Instruments to webcast its 2026 annual meeting of stockholders",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 19:22",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "僅為例行性的股東大會公告，對股價無直接影響，屬於常規營運揭露。"
+    },
+    {
+      "rank": 2,
+      "title": "Single Stocks Are Driving the Tape – Direxion Launches Four 2X Bull ETFs",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Direxion 發行針對 TXN 的 2 倍槓桿 ETF，雖增加交易工具，但屬於金融衍生品市場行為，對公司基本面無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Texas Instruments Incorporated (TXN) Is a Trending Stock: Facts to Know Before Betting on It",
+      "publisher": "Zacks",
+      "date": "2026-03-18 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "屬於一般性的投資趨勢分析文章，提供投資人基本背景資訊，未包含具體財務預測或重大事件更新。"
+    },
+    {
+      "rank": 4,
+      "title": "Texas Instruments Introduces 800V Power Tech for AI Data Centers",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 12:30",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "此新聞與上述關於 800V 架構的分析文章內容重複，故歸類為中性資訊傳遞，僅作為技術發布的簡要報導。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

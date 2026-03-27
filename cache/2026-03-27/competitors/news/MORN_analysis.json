@@ -1,0 +1,38 @@
+{
+  "ticker": "MORN",
+  "company": "Morningstar",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/MORN.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司持續透過專業獎項鞏固市場領導地位，並藉由提供深度市場洞察維持顧問客戶的黏著度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Morningstar Awards for Investing Excellence UK 2026: Winners Announced",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 07:00",
+      "impact": "medium",
+      "category": "品牌影響力",
+      "reason": "透過舉辦年度投資卓越獎，Morningstar 強化了其作為獨立投資研究權威的品牌形象，有助於吸引更多機構與個人投資者使用其平台服務。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "10 Investment Must Reads for This Week (March 24, 2026) — Morningstar looks at what advisors need to know as the private credit sector continues to experience rising redemption",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 14:20",
+      "impact": "low",
+      "category": "市場洞察",
+      "reason": "此類內容為 Morningstar 的常規市場分析報告，旨在提供顧問專業知識，屬於公司核心業務的日常運作，對股價無直接顯著影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,102 @@
+{
+  "ticker": "DIS",
+  "company": "Disney",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/DIS.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 3,
+    "bearish_count": 12,
+    "neutral_count": 5,
+    "overall_sentiment": "bearish",
+    "key_theme": "迪士尼 因 OpenAI 的 Sora 關閉導致 10 億美元 AI 合作案告吹，加上新任執行長 Josh D'Amaro 上任初期面臨技術與遊戲策略的雙重挑戰，市場情緒轉趨保守。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Disney poised for back-half earnings acceleration, Bank of America says",
+      "publisher": "Yahoo",
+      "date": "2026-03-24",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "美國銀行重申對迪士尼的「買入」評級，預期 2026 財年下半年獲利將顯著加速，為股價提供基本面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "4 Consumer Favorites Look Oversold Right Now: Disney, McDonald’s and More",
+      "publisher": "Yahoo",
+      "date": "2026-03-25",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "技術指標顯示迪士尼股票處於超賣狀態，可能吸引價值型投資人進場佈局。"
+    },
+    {
+      "rank": 3,
+      "title": "Robert Fishman Believes that The Walt Disney Company (DIS) Stock Needs Increased Confidence",
+      "publisher": "Yahoo",
+      "date": "2026-03-24",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管股價需要更多信心支撐，但分析師仍將迪士尼列為具備長期成長潛力的「護城河」股票。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Disney Deal With OpenAI Collapses After Sora Shutdown. What’s Behind the Breakup.",
+      "publisher": "Yahoo",
+      "date": "2026-03-25",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "OpenAI 關閉 Sora 導致迪士尼 10 億美元的 AI 投資案告吹，直接衝擊市場對其數位轉型與串流媒體技術升級的預期。"
+    },
+    {
+      "rank": 2,
+      "title": "Disney Faces Twin Setbacks as $1.5B Epic Bet and Sora Shut Down",
+      "publisher": "Yahoo",
+      "date": "2026-03-25",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "除了 Sora 合作終止，迪士尼在 Epic Games 的 15 億美元投資也因裁員潮面臨不確定性，雙重打擊其遊戲與 AI 戰略。"
+    },
+    {
+      "rank": 3,
+      "title": "Disney CEO’s First Week Marred by ‘Fortnite,’ OpenAI Woes",
+      "publisher": "Yahoo",
+      "date": "2026-03-25",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "新任執行長 Josh D'Amaro 上任首週即面臨重大戰略挫敗，市場擔憂其領導能力與公司短期營運穩定性。"
+    },
+    {
+      "rank": 4,
+      "title": "This Disney Stock Trade Could Return 187% in Just 2 Months -- Try a Bear Put Spread",
+      "publisher": "Yahoo",
+      "date": "2026-03-24",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場出現看空選擇權策略建議，顯示部分交易員對迪士尼短期股價走勢持悲觀態度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Disney Says \"We Respect OpenAI's Decision To Exit The Video Generation Business\"",
+      "publisher": "Benzinga",
+      "date": "2026-03-24",
+      "impact": "low",
+      "category": "公司聲明",
+      "reason": "迪士尼官方回應保持中立，強調將持續探索尊重智慧財產權的 AI 技術，試圖安撫投資人對技術布局中斷的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Disneyland confirms closure of iconic attraction and restaurant",
+      "publisher": "Yahoo",
+      "date": "2026-03-24",
+      "impact": "low",
+      "category": "營運調整",
+      "reason": "樂園設施的常規性關閉與更新屬於營運調整，對整體財務影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

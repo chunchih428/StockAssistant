@@ -1,0 +1,38 @@
+{
+  "ticker": "FFAI",
+  "company": "Faraday Future Intelligent",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/FFAI.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "SEC 結束調查消除監管不確定性，帶動股價強勁反彈，但仍需面對 Nasdaq 合規性挑戰。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why Is Faraday Future Stock Gaining Monday? — FFAI shares surge 50%+ as the SEC ends its investigation without enforcement.",
+      "publisher": "Benzinga",
+      "date": "2026-03-23 08:39",
+      "impact": "high",
+      "category": "監管動態",
+      "reason": "選擇此篇作為代表，因其詳細說明了 SEC 結束調查且未採取任何執法行動，消除了長期懸在公司頭上的重大監管風險，直接導致股價盤前飆升超過 50 %。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Faraday Future Intelligent Electric Receives Nasdaq Notice",
+      "publisher": "Benzinga",
+      "date": "2026-03-20 17:05",
+      "impact": "medium",
+      "category": "合規性通知",
+      "reason": "公司收到 Nasdaq 的合規性通知，通常涉及最低股價要求或財報延遲提交等問題，這對投資人信心構成潛在壓力，需持續關注後續改善計畫。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

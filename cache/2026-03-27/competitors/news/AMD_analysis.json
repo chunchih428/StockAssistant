@@ -1,0 +1,93 @@
+{
+  "ticker": "AMD",
+  "company": "AMD",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/AMD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場預期 CPU 價格調漲帶動營收成長潛力，加上資料中心與 AI 加速器需求強勁，支撐股價上漲動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Intel, AMD Stocks Jump After Reports of 15% CPU Price Increase",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 19:47",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "市場傳出 CPU 價格將調漲 15 %，直接提升市場對 AMD 未來毛利率與營收成長的預期，是推動當日股價上漲的核心因素。"
+    },
+    {
+      "rank": 2,
+      "title": "AMD Rides on Accelerating Data Center Growth: A Sign of More Upside?",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 17:03",
+      "impact": "high",
+      "category": "財報分析",
+      "reason": "資料中心業務營收成長 39 % 至 53.8 億美元，顯示 EPYC CPU 與 Instinct GPU 在雲端市場的強勁競爭力，為長期成長提供堅實基礎。"
+    },
+    {
+      "rank": 3,
+      "title": "AMD Is Rapidly Expanding into South Korea. Can That Move the Needle for AMD Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 15:30",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "AMD 與韓國 Upstage 洽談供應 10,000 顆 MI355 AI 加速器，顯示其在 AI 基礎設施領域的市佔率持續擴張，有助於分散營收來源。"
+    },
+    {
+      "rank": 4,
+      "title": "1 Tech Stock I'm Adding to My Portfolio While Everyone Is Panicking",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 14:50",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "分析師建議在市場恐慌時買入 AMD，認為其基本面強勁，具備長期投資價值。"
+    },
+    {
+      "rank": 5,
+      "title": "Is Advanced Micro Devices (AMD) The Best AI Semiconductor Stock to Buy For The Long Term?",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 18:31",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "AMD 被列入 Jim Cramer 的前 10 大持股名單，強化了機構投資人對其 AI 領域長期競爭力的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Intel, AMD Supply Constraints Weigh on PC and Server Manufacturers",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 19:46",
+      "impact": "medium",
+      "category": "供應鏈問題",
+      "reason": "CPU 供應短缺導致 PC 與伺服器製造商面臨壓力，雖然價格上漲有利營收，但供應鏈瓶頸可能限制出貨量並影響下游客戶生產進度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "These Stocks Are Today’s Movers: Arm, Intel, AMD, Firefly Aerospace, and More",
+      "publisher": "Barrons.com",
+      "date": "2026-03-25 23:41",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為當日市場波動的盤點報導，未提供新的基本面分析或重大消息，對股價影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Better Semiconductor Stock During the Crash: Nvidia or AMD?",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 21:21",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "比較 Nvidia 與 AMD 的投資優劣，屬於產業競爭分析，未對 AMD 本身產生直接的股價驅動影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

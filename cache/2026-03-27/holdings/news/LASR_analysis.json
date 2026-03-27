@@ -1,0 +1,84 @@
+{
+  "ticker": "LASR",
+  "company": "nLIGHT",
+  "analysis_date": "2026-03-27",
+  "source_file": "cache/2026-03-27/holdings/news/LASR.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 4,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司成功轉型為國防與航太導向的雷射供應商，強勁的營收成長與獲利改善推動股價表現。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "nLIGHT's Evolving Mix: Defense Programs and Sensing Fuel Next Phase",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 16:04",
+      "impact": "high",
+      "category": "營運展望",
+      "reason": "該報導詳細分析了 nLIGHT 營收結構轉向國防與航太（A&D）佔比達 67%，並預測 2026 年在感測器業務推動下將持續成長，為公司長期價值提供明確的成長路徑。"
+    },
+    {
+      "rank": 2,
+      "title": "nLIGHT (LASR) Is Up 12.3% After Defense Revenue Hits 85% And Q4 Beat Expectations",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-17 08:17",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "第四季財報優於預期且國防營收佔比顯著提升，直接帶動股價單日大漲 12.3%，顯示市場對其轉型策略的高度認可。"
+    },
+    {
+      "rank": 3,
+      "title": "Laser Business Exit Improved nLIGHT’s (LASR) Profitability",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-17 14:18",
+      "impact": "medium",
+      "category": "策略調整",
+      "reason": "公司退出低毛利的雷射業務，成功優化了整體獲利結構，顯示管理層在資本配置上的紀律性，對長期利潤率有正面助益。"
+    },
+    {
+      "rank": 4,
+      "title": "nLIGHT and Laser Weapons: The Next Capacity Cycle to Aid Prospects",
+      "publisher": "Zacks",
+      "date": "2026-03-26 18:22",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出雷射武器產能週期的擴張將成為 nLIGHT 未來的重要成長引擎，進一步強化了其在國防科技領域的競爭優勢。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why nLIGHT (LASR) Shares Are Trading Lower Today",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 19:27",
+      "impact": "medium",
+      "category": "資本市場",
+      "reason": "公司宣布 5,000 萬美元的融資計畫，導致股價短期因稀釋疑慮而下跌 1.3%。選用 Yahoo 版本作為代表，因其涵蓋了具體的融資金額細節。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Orion, nLIGHT, Quest Resource, AeroVironment, and Northwest Pipe Shares Are Soaring",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 02:14",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價上漲主要受地緣政治因素（川普政府推遲對伊朗軍事行動）影響，屬於大盤與類股連動，而非公司基本面變動。"
+    },
+    {
+      "rank": 2,
+      "title": "Why nLIGHT (LASR) Shares Are Trading Lower Today",
+      "publisher": "StockStory",
+      "date": "2026-03-20 19:27",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此篇與 Yahoo 同步報導融資消息，內容重複，故歸類為中性補充，確認市場對該融資事件的反應一致。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

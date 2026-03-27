@@ -1,0 +1,38 @@
+{
+  "ticker": "CNX",
+  "company": "CNX Resources",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/CNX.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "Mixed",
+    "key_theme": "市場對於 CNX 的評價出現分歧，技術面看漲訊號與分析師給予的賣出評級形成強烈對比。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "CNX Resources Corp (NYSE:CNX) Shows Strong Technical Setup for Potential Breakout",
+      "publisher": "ChartMill",
+      "date": "2026-03-25 12:31",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "技術分析顯示該股具備強勁的動能與突破型態，被視為潛在的買入點，反映市場對其短期股價走勢持樂觀態度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Truist Securities Initiates Coverage On CNX Resources with Sell Rating, Announces Price Target of $35",
+      "publisher": "Benzinga",
+      "date": "2026-03-24 10:15",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Truist Securities 分析師 Gabe Daoud 給予賣出評級並設定目標價為 35 美元，此為該新聞事件的代表性報導，涵蓋了 Fintel 報導的相同評級資訊，顯示機構投資人對其估值持保守看法。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

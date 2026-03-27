@@ -1,0 +1,84 @@
+{
+  "ticker": "PPL",
+  "company": "PPL",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/PPL.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司重申 2026 年財測目標並維持股利發放，儘管面臨聯邦能源監管委員會 (FERC) 的政策變動，市場仍對其財務穩定性與分析師評級持正面態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "PPL Affirms FY2026 Adj EPS Guidance of $1.90-$1.98 vs $1.95 Est",
+      "publisher": "Benzinga",
+      "date": "2026-03-24 18:28",
+      "impact": "high",
+      "category": "財報預測",
+      "reason": "公司明確重申 2026 財年調整後每股盈餘 (EPS) 指引為 1.90 至 1.98 美元，該區間中位數符合市場預期，展現了營運的穩定性與管理層對獲利能力的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Wall Street Analysts Think PPL (PPL) Is a Good Investment: Is It?",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 13:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "基於平均經紀商建議 (ABR)，分析師普遍給予正面評價，認為 PPL 適合納入投資組合，反映了市場對該公司作為公用事業股的防禦性與長期價值的認可。"
+    },
+    {
+      "rank": 3,
+      "title": "PPL Corporation Trades Above 50 & 200-Day SMAs: How to Play the Stock?",
+      "publisher": "Zacks",
+      "date": "2026-03-16 17:17",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "股價維持在 50 日與 200 日移動平均線之上，顯示長期趨勢偏多，為投資人提供技術面支撐的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "PPL (PPL) Suffers a Larger Drop Than the General Market: Key Insights",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 22:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "單日股價下跌 1.05 %，表現遜於大盤，主要反映短期市場波動與獲利了結賣壓，但未改變公司基本面。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "PPL Corp Says On March 19, 2026, The Federal Energy Regulatory Commission Issued Opinion No. 594 On ROE For New England Transmission Owners",
+      "publisher": "Benzinga",
+      "date": "2026-03-24 17:23",
+      "impact": "medium",
+      "category": "法規",
+      "reason": "FERC 發布關於新英格蘭輸電所有者股東權益報酬率 (ROE) 的意見書，公司隨即重申財測，顯示該法規變動對 PPL 的財務影響在預期範圍內，未造成實質利空。"
+    },
+    {
+      "rank": 2,
+      "title": "Pembina Pipeline Declares Quarterly Preferred Share Dividends and Announces Business Update",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 21:00",
+      "impact": "low",
+      "category": "股利政策",
+      "reason": "此新聞主要涉及 Pembina Pipeline (PPL 為其代碼之一) 的股利宣告與業務更新，屬於例行性財務公告，對股價影響中性。"
+    },
+    {
+      "rank": 3,
+      "title": "Is PPL Stock Outperforming the S&P 500?",
+      "publisher": "Barchart",
+      "date": "2026-03-16 12:12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討股價相對於 S&P 500 指數的表現，屬於市場觀察性質的分析，未提供新的基本面資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "BMI",
+  "company": "Badger Meter",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/BMI.json",
+  "summary": {
+    "total_articles": 1,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "短期股價表現落後大盤，反映市場對 Badger Meter 當前估值或技術性修正的擔憂。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Badger Meter (BMI) Dips More Than Broader Market: What You Should Know",
+      "publisher": "Zacks",
+      "date": "2026-03-24T22:00:02Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導指出 BMI 股價跌幅超過大盤，顯示在市場波動環境下，投資人對該公司近期股價表現的相對弱勢感到擔憂，可能引發技術性賣壓。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

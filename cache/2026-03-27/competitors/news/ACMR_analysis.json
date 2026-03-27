@@ -1,0 +1,56 @@
+{
+  "ticker": "ACMR",
+  "company": "ACM Research, Inc.",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/ACMR.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 0,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "bearish",
+    "key_theme": "近期股價經歷顯著回調，市場正重新評估其在半導體設備產業中的估值與競爭地位。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "ACM Research, Inc. (ACMR) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-20",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "該股單日下跌 6.55 %，跌幅超過大盤，顯示短期賣壓沉重，投資人對其股價支撐力道產生疑慮。"
+    },
+    {
+      "rank": 2,
+      "title": "Assessing ACM Research (ACMR) Valuation After A Sharp One Month Share Price Pullback",
+      "publisher": "Yahoo",
+      "date": "2026-03-19",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價經歷一個月的劇烈回調，引發市場對其估值合理性的討論，反映出投資人對公司營收成長動能的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is ACM Research (ACMR) Outperforming Other Computer and Technology Stocks This Year?",
+      "publisher": "Zacks",
+      "date": "2026-03-25",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "透過量化數據比較 ACMR 與同產業表現，屬於中性的市場觀察報告，未提供明確的買賣建議。"
+    },
+    {
+      "rank": 2,
+      "title": "ACMR vs KLIC: Battle of the Semiconductor Equipment Stocks",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-03-17",
+      "impact": "low",
+      "category": "產業競爭",
+      "reason": "將 ACMR 與同業 KLIC 進行比較，旨在分析兩家公司的商業模式差異，屬於產業競爭格局的客觀分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,102 @@
+{
+  "ticker": "SM",
+  "company": "SM Energy",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/SM.json",
+  "summary": {
+    "total_articles": 12,
+    "bullish_count": 6,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "近期 SM Energy 受惠於分析師調升評級與目標價，且市場對其合併 Civitas 後的資產規模與資本結構調整持正面期待。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "JP Morgan Reinstates Overweight on SM Energy, Announces $40 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-03-20",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "JP Morgan 分析師 Zach Parham 給予 SM Energy 「加碼」 (Overweight) 評級，並設定 40 美元目標價，顯示機構對其未來股價表現具備高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Truist Securities Initiates Coverage of SM Energy (SM) with Buy Recommendation",
+      "publisher": "Fintel",
+      "date": "2026-03-25",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Truist Securities 開始對 SM Energy 進行研究覆蓋，並給予「買進」建議，進一步強化了市場對該股的正面情緒。"
+    },
+    {
+      "rank": 3,
+      "title": "SM Energy: Continues To Be A Bargain Like Civitas",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-19",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 SM Energy 在合併 Civitas 後成為前 10 大獨立勘探與生產 (E&P) 公司，擁有 83.2 萬淨英畝資產，具備極高的投資價值。"
+    },
+    {
+      "rank": 4,
+      "title": "SM Energy (SM) Soars 8.3%: Is Further Upside Left in the Stock?",
+      "publisher": "Zacks",
+      "date": "2026-03-23",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日大漲 8.3 %，反映市場對公司近期營運策略與合併綜效的強烈認同。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "SM Energy (SM) Stock Sinks As Market Gains: What You Should Know",
+      "publisher": "Zacks",
+      "date": "2026-03-23",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管大盤上漲，SM Energy 股價卻出現回調，顯示部分投資人進行獲利了結，或對短期波動感到擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Should SM Energy’s Tender Offer and Lower Earnings Reset Require Action From Civitas Resources (CIVI) Investors?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-16",
+      "impact": "low",
+      "category": "財報與資本結構",
+      "reason": "提及公司獲利重置與收購要約，可能對短期每股盈餘表現造成壓力，引發投資人對合併後財務表現的疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Wells Fargo Maintains Equal-Weight on SM Energy, Raises Price Target to $25",
+      "publisher": "Benzinga",
+      "date": "2026-03-19",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "Wells Fargo 維持「中立」 (Equal-Weight) 評級，僅小幅調升目標價至 25 美元，顯示對該股持審慎樂觀態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Does SM Energy’s (SM) Post‑Merger Note Refinancing Reveal a Deeper Shift in Capital Strategy?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-21",
+      "impact": "low",
+      "category": "資本結構",
+      "reason": "探討合併後的債務再融資策略，屬於中性的財務結構調整分析，旨在評估長期資本配置的變動。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Trending Stock SM Energy Company (SM) a Buy Now?",
+      "publisher": "Zacks",
+      "date": "2026-03-25",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此類文章為常規的市場趨勢分析，提供投資人參考指標，並未給出明確的買賣操作建議。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

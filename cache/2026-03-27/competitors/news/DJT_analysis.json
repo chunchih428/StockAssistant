@@ -1,0 +1,38 @@
+{
+  "ticker": "DJT",
+  "company": "Trump Media & Technology Group ",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/DJT.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "混合",
+    "key_theme": "DJT 股價近期呈現劇烈波動，市場情緒深受川普個人政治動態與市場信心影響，導致股價在歷史低點與反彈之間震盪。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why Trump Media Stock Is Surging Monday Morning",
+      "publisher": "Benzinga",
+      "date": "2026-03-23 11:24",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價在週一早盤出現反彈，主要受惠於川普相關新聞帶動的市場情緒，顯示該股與川普個人政治影響力具有高度相關性。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "DJT Stock Falls to All-Time Low",
+      "publisher": "The Wall Street Journal",
+      "date": "2026-03-18 21:23",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價跌至歷史新低，反映出市場對於該公司基本面與長期獲利能力的擔憂，投資人信心嚴重不足。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

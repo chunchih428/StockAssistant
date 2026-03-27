@@ -1,0 +1,93 @@
+{
+  "ticker": "KSS",
+  "company": "Kohl's",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/KSS.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 5,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場對於 Kohl's 在實體店面關閉後的營運轉型策略存疑，儘管管理層承諾不再大規模關店，但分析師仍擔憂其長期獲利能力與市場競爭力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Kohl’s CEO signals no additional store closures planned this year",
+      "publisher": "Yahoo",
+      "date": "2026-03-19T17:14:00Z",
+      "impact": "medium",
+      "category": "營運策略",
+      "reason": "執行長明確表示今年無進一步關店計畫，這有助於穩定投資人對於實體通路布局的信心，並終結市場對於大規模裁撤店面的恐慌。選擇此篇作為代表，因其涵蓋了管理層對未來營運方向的具體承諾。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why BofA Sees Kohl’s (KSS) Facing a Tougher Road to a Real Turnaround",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-25T20:00:16Z",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "美國銀行 (BofA) 指出 Kohl's 在實現營運轉型方面面臨嚴峻挑戰，暗示其獲利復甦路徑比預期更為艱難，對股價構成顯著壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Will Kohl's Close More of Its Brick-and-Mortar Stores in 2026?",
+      "publisher": "Motley Fool",
+      "date": "2026-03-26T02:50:00Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管管理層有表態，但市場仍持續質疑其在消費習慣改變下的長期生存能力，此類報導反映了投資人對公司未來實體資產價值的持續擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Did Profit-Focused Store Strategy and Inventory Reset Just Shift Kohl's (KSS) Investment Narrative?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-23T17:03:43Z",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "文章探討了公司庫存重整與獲利導向策略對投資敘事的影響，屬於中性的深度分析，並未給出明確的買進或賣出建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Kohl’s makes major 2026 decision on store closures",
+      "publisher": "Yahoo",
+      "date": "2026-03-21T03:07:00Z",
+      "impact": "low",
+      "category": "營運策略",
+      "reason": "此篇報導重複了關於關店決策的背景資訊，屬於對現有消息的整理，未提供新的市場催化劑。"
+    },
+    {
+      "rank": 3,
+      "title": "No 'grand plan' to close more Kohl's, CEO says",
+      "publisher": "Courier Post",
+      "date": "2026-03-19T09:05:56Z",
+      "impact": "low",
+      "category": "營運策略",
+      "reason": "此為關於執行長關店計畫聲明的重複報導，僅作為資訊傳遞，對股價影響有限。"
+    },
+    {
+      "rank": 4,
+      "title": "Is Kohl's closing more stores? Here's what we know.",
+      "publisher": "USA TODAY",
+      "date": "2026-03-18T16:12:30Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對消費者關心的關店問題進行事實查核，屬於一般性新聞報導，對資本市場影響力較小。"
+    },
+    {
+      "rank": 5,
+      "title": "No 'grand plan' to close more Kohl's, CEO says",
+      "publisher": "Yahoo",
+      "date": "2026-03-19T09:05:00Z",
+      "impact": "low",
+      "category": "營運策略",
+      "reason": "與其他媒體報導內容高度重疊，僅為資訊同步，無額外分析價值。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

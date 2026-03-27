@@ -1,0 +1,65 @@
+{
+  "ticker": "EBAY",
+  "company": "eBay",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/EBAY.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 4,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "eBay 憑藉 AI 執行力提升與市場信心回升，獲得機構法人買入與目標價調升，股價表現強勁。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Citi Raises eBay Target, Points to Strength in AI Execution",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-18",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "花旗銀行調升 eBay 目標價，主要歸功於公司在 AI 應用執行上的卓越表現，顯示市場對其技術轉型帶動獲利能力的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Is eBay (EBAY) Up 7.1% Since Last Earnings Report?",
+      "publisher": "Yahoo",
+      "date": "2026-03-20",
+      "impact": "medium",
+      "category": "財報表現",
+      "reason": "選取 Yahoo 報導作為代表，彙整了 Zacks 的分析。eBay 在財報公布後股價上漲 7.1 %，反映出市場對其近期財務數據與未來獲利預期的正面肯定。"
+    },
+    {
+      "rank": 3,
+      "title": "Live On CNBC, Jim Lebenthal Announces Bought eBay",
+      "publisher": "Benzinga",
+      "date": "2026-03-23",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名投資人 Jim Lebenthal 公開宣布買入 eBay，此類機構投資人的背書通常能有效提振散戶信心並吸引資金流入。"
+    },
+    {
+      "rank": 4,
+      "title": "Klarna Chair Buys Shares As Lockup Ends And eBay Rollout Expands",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-18",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Klarna 主席買入股份且 eBay 相關服務擴展，顯示公司在支付生態系統的合作與業務擴張取得進展，對股價有正面支撐。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "If You Invested $1000 in eBay a Decade Ago, This is How Much It'd Be Worth Now",
+      "publisher": "Yahoo",
+      "date": "2026-03-24",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "此類文章屬於回顧性質的投資教育內容，雖然強調長期持有價值，但對當前股價的短期波動影響有限，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

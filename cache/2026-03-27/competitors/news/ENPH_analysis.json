@@ -1,0 +1,75 @@
+{
+  "ticker": "ENPH",
+  "company": "Enphase Energy, Inc.",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/ENPH.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "Enphase Energy 透過策略合作擴大儲能市場滲透率，但股價表現仍受估值壓力與市場波動性影響。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Enphase Energy, Inc. (ENPH) and Ensol Collaborate to Expand Home Battery Adoption in France",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-19T00:28:19Z",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "與 Ensol 的合作直接推動歐洲市場的儲能產品採用率，有助於分散營收來源並強化在法國的市占率。"
+    },
+    {
+      "rank": 2,
+      "title": "Enphase Energy (ENPH) Batteries Added to Vistra Grid Program",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-18T07:53:56Z",
+      "impact": "medium",
+      "category": "產品應用",
+      "reason": "成功整合至 Vistra 的電網計畫，證明其儲能系統在虛擬電廠 (VPP) 領域的技術競爭力與商業價值。"
+    },
+    {
+      "rank": 3,
+      "title": "Enphase Energy Stock Sees RS Rating Climb To 83",
+      "publisher": "Investor's Business Daily",
+      "date": "2026-03-17T17:07:53Z",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "相對強度 (RS) 評級提升至 83，顯示該股在近期市場表現中優於多數股票，具備技術面支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Enphase Energy (ENPH) Stock Dips While Market Gains: Key Facts",
+      "publisher": "Zacks",
+      "date": "2026-03-23T21:50:03Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "選擇此篇作為代表，因其反映了近期股價在整體大盤上漲時卻逆勢下跌的疲軟態勢，顯示投資人對其當前估值與成長動能存疑。"
+    },
+    {
+      "rank": 2,
+      "title": "Enphase Energy Partnerships Test Storage Growth Against Valuation And Volatility",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-19T06:07:20Z",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "分析指出儘管有合作案，但高估值與市場波動性仍是壓抑股價上漲的主要阻力，投資人需關注儲能成長是否能支撐其溢價。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Enphase Energy (ENPH) Stock Drops Despite Market Gains: Important Facts to Note",
+      "publisher": "Zacks",
+      "date": "2026-03-17T21:50:03Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此篇內容與 3 月 23 日的報導高度重疊，僅作為市場波動的客觀紀錄，未提供新的基本面資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

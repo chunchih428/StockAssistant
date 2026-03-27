@@ -1,0 +1,93 @@
+{
+  "ticker": "INTC",
+  "company": "Intel",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/INTC.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 6,
+    "bearish_count": 4,
+    "neutral_count": 10,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場傳出 CPU 供應短缺導致價格調漲 15 %，短期內推升 Intel 營收預期與股價表現。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Intel, AMD Stocks Jump After Reports of 15% CPU Price Increase",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 19:47",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "市場報導指出 Intel 與 AMD 的 CPU 供應出現短缺，導致產品價格調漲 15 %，直接提升了市場對公司短期獲利能力的預期。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike Expands Strategic Collaboration With Intel to Secure the Next Generation of AI PCs",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 17:14",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "Intel 與 CrowdStrike 擴大合作，強化 AI PC 的安全性，有助於鞏固 Intel 在 AI 終端設備市場的競爭地位。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Intel Stock Popped Today",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 16:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "地緣政治穩定性預期改善以及對 AI 發展的樂觀情緒，共同推動了 Intel 當日的股價上漲。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Kevin O'Leary Slams 'Government-Subsidized' Intel Chips After Robot Malfunction",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 17:31",
+      "impact": "low",
+      "category": "輿論評價",
+      "reason": "知名投資人 Kevin O'Leary 公開批評 Intel 晶片品質及政府補貼政策，雖對基本面影響有限，但對品牌形象造成負面輿論。"
+    },
+    {
+      "rank": 2,
+      "title": "The AI Shift That Nobody Is Pricing For Intel",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 10:19",
+      "impact": "medium",
+      "category": "產業分析",
+      "reason": "分析師質疑 Intel 作為傳統 CPU 巨頭，在 GPU 主導的 AI 時代中是否仍具備足夠的相關性與競爭力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Intel, AMD Supply Constraints Weigh on PC and Server Manufacturers",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 19:46",
+      "impact": "medium",
+      "category": "供應鏈",
+      "reason": "供應短缺雖能提高售價，但也對下游 PC 與伺服器製造商造成壓力，反映出供應鏈失衡的雙面刃影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Arm Holdings Shares Jump, but It Won't Be the Only CPU Winner",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 18:43",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出在 CPU 需求激增的背景下，Intel 與 AMD 均有望受惠，屬於產業整體趨勢分析。"
+    },
+    {
+      "rank": 3,
+      "title": "Should You Sell Your Artificial Intelligence (AI) Stocks Before Things Get Worse?",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 16:44",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討 AI 類股整體波動與歷史經驗，並非針對 Intel 個股的特定基本面分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

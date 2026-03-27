@@ -1,0 +1,120 @@
+{
+  "ticker": "META",
+  "company": "Meta",
+  "analysis_date": "2026-03-27",
+  "source_file": "cache/2026-03-27/holdings/news/META.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 1,
+    "bearish_count": 14,
+    "neutral_count": 5,
+    "overall_sentiment": "bearish",
+    "key_theme": "Meta 面臨嚴峻的法律訴訟敗訴壓力，加上裁員與市場對 AI 資本支出過高的擔憂，導致股價出現顯著回調。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Mark Zuckerberg's Meta Platforms $9 Trillion AI Moonshot Could Unlock Massive Executive Paydays If The Bet Pays Off",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 00:31",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "報導指出 Meta 透過新的股票選擇權計畫激勵高層，若 AI 投資策略成功將帶來巨大回報，顯示公司對長期 AI 轉型的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "META Stock Just Had Its Worst Day in Nearly a Year. Here's What Happened.",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 21:21",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "綜合報導 Meta 股價單日重挫近 8 %，主因是法律訴訟敗訴、市場拋售潮以及投資人對 AI 資本支出過高（cash-burning）的疑慮。"
+    },
+    {
+      "rank": 2,
+      "title": "Meta's court defeats add to Zuckerberg's recent woes, represent 'watershed event' for social media",
+      "publisher": "CNBC",
+      "date": "2026-03-26 08:10",
+      "impact": "high",
+      "category": "法律訴訟",
+      "reason": "Meta 在兩起涉及兒童安全的訴訟中敗訴，被視為社交媒體產業的「分水嶺事件」，可能引發後續更嚴格的監管與賠償責任。"
+    },
+    {
+      "rank": 3,
+      "title": "Meta cutting several hundred jobs across Reality Labs, Facebook and other departments",
+      "publisher": "CNBC",
+      "date": "2026-03-25 10:49",
+      "impact": "medium",
+      "category": "人力資源",
+      "reason": "Meta 宣布裁員數百人，涵蓋 Reality Labs 與 Facebook 部門，反映公司在 AI 轉型過程中進行組織重組與成本控管的壓力。"
+    },
+    {
+      "rank": 4,
+      "title": "New Mexico seeking changes to Meta's platform after jury finds company liable",
+      "publisher": "CNBC",
+      "date": "2026-03-25 10:14",
+      "impact": "medium",
+      "category": "法律訴訟",
+      "reason": "新墨西哥州檢察長要求 Meta 針對演算法、設計與年齡驗證進行強制性變更，這將直接影響其平台運作模式與廣告營收能力。"
+    },
+    {
+      "rank": 5,
+      "title": "Google, Meta ruling could be a Tobacco Moment for social media cases",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 15:04",
+      "impact": "medium",
+      "category": "法律訴訟",
+      "reason": "分析師將此次敗訴比喻為「菸草時刻」，暗示未來可能面臨大規模的集體訴訟與長期的法律賠償風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Final Trades: Meta, IBM, CrowdStrike and the ICE U.S. Dollar Index",
+      "publisher": "CNBC",
+      "date": "2026-03-26 13:10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "投資委員會將 Meta 列為下半年觀察名單，屬於市場常規的投資組合建議，未提供具體買賣操作指引。"
+    },
+    {
+      "rank": 2,
+      "title": "Stocks making the biggest moves midday: Meta, Best Buy, AppLovin, Scotts Miracle-Gro and more",
+      "publisher": "CNBC",
+      "date": "2026-03-26 12:09",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅單純列出 Meta 為盤中波動較大的股票，屬於市場行情回顧，無特定基本面分析。"
+    },
+    {
+      "rank": 3,
+      "title": "Meta's latest verdict, space stocks, prediction market legislation and more in Morning Squawk",
+      "publisher": "CNBC",
+      "date": "2026-03-26 08:17",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "晨間新聞摘要，提及 Meta 訴訟案為當日投資人需關注的五大重點之一，屬資訊彙整性質。"
+    },
+    {
+      "rank": 4,
+      "title": "These Stocks Are Today’s Movers: Meta, Alphabet, Super Micro, Coherent, Sandisk, Pony AI, Best Buy, and More",
+      "publisher": "Barrons.com",
+      "date": "2026-03-27 00:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "盤後市場動態整理，將 Meta 列入當日波動個股清單，無額外深度分析。"
+    },
+    {
+      "rank": 5,
+      "title": "Dow Jones Futures: Stock Market Dives, Oil Prices Jump On 'Serious' Trump; Meta, These Titans Breaking Down",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 21:48",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出 Meta 與其他科技巨頭隨大盤走弱，主要受地緣政治（伊朗戰爭風險）影響，非單一公司基本面因素。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

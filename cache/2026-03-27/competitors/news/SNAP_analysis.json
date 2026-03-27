@@ -1,0 +1,66 @@
+{
+  "ticker": "SNAP",
+  "company": "Snap",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/SNAP.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 1,
+    "bearish_count": 3,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "Snap 面臨北美用戶流失與數位廣告產業逆風，導致市場對其長期成長動能產生疑慮。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Snap (SNAP) Rises Higher Than Market: Key Facts",
+      "publisher": "Zacks",
+      "date": "2026-03-25",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價在短期內出現優於大盤的表現，反映出部分技術性反彈或市場對超賣後的修正，但缺乏基本面利多支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Snap: Moving Out Of The Mainstream — Snap Inc. (SNAP) faces accelerating North American user losses",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-21",
+      "impact": "high",
+      "category": "營運表現",
+      "reason": "北美用戶流失直接衝擊公司最高價值的廣告市場，嚴重威脅其長期營收成長與獲利能力，為目前最核心的利空因素。"
+    },
+    {
+      "rank": 2,
+      "title": "Snap (SNAP) Declines More Than Market: Some Information for Investors",
+      "publisher": "Zacks",
+      "date": "2026-03-19",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價跌幅超過大盤，顯示投資人對於公司近期表現缺乏信心，賣壓相對沉重。"
+    },
+    {
+      "rank": 3,
+      "title": "Overall Sentiment on Snap (SNAP) Tempered Amid Challenges in Digital Advertising Industry",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-20",
+      "impact": "medium",
+      "category": "產業趨勢",
+      "reason": "數位廣告產業整體環境不佳，導致市場對 Snap 的情緒轉趨保守，不利於其廣告營收的復甦。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Now The Right Time To Reassess Snap (SNAP) After Its Sharp Share Price Slide",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-23",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "文章旨在引導投資人重新評估股價大幅下跌後的投資價值，並未給出明確的買進或賣出建議，屬於中性的分析觀點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

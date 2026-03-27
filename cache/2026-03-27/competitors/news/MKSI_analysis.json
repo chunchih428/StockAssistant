@@ -1,0 +1,65 @@
+{
+  "ticker": "MKSI",
+  "company": "MKS Inc.",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/MKSI.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 2,
+    "bearish_count": 3,
+    "neutral_count": 0,
+    "overall_sentiment": "Mixed",
+    "key_theme": "市場對於 MKS 在 AI 驅動的 PCB 與半導體設備領域的長期成長潛力持正面看法，但近期股價表現疲軟及分析師下調目標價引發了短期波動與估值擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "MKS Inc.: Long-Term Structural Growth From Rising Semi And PCB Complexity",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-24 12:50",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "該報告強調 MKS 受益於 AI 驅動的 PCB 與晶圓製造設備 (WFE) 需求，且產品組合轉向高毛利產品，認為目前股價相較同業被低估，具備長期結構性成長動能。"
+    },
+    {
+      "rank": 2,
+      "title": "Is MKS Inc. (MKSI) One of the Best AI Stocks to Look at",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-16",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "將 MKS 列入 AI 相關投資標的觀察名單，反映市場對其在 AI 供應鏈中技術地位的認可，有助於提升機構投資人的關注度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Citigroup Maintains Buy on MKS, Lowers Price Target to $290",
+      "publisher": "Benzinga",
+      "date": "2026-03-20 15:25",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "花旗分析師 Atif Malik 雖維持買入評級，但將目標價從 $295 下調至 $290，反映出對短期獲利成長動能或市場環境的謹慎態度。"
+    },
+    {
+      "rank": 2,
+      "title": "MKS (MKSI) Down 6.8% Since Last Earnings Report: Can It Rebound?",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 15:30",
+      "impact": "medium",
+      "category": "財報表現",
+      "reason": "財報公布後股價下跌 6.8%，顯示市場對其財報結果或後續指引感到失望，短期內股價面臨技術性修正壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "TER vs. MKSI: Which Semiconductor Stock Is a Better Buy Now?",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 15:07",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "透過與 Teradyne (TER) 的比較，指出 Teradyne 在 AI 測試需求與獲利動能上表現更佳，削弱了 MKS 在半導體設備類股中的投資吸引力。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

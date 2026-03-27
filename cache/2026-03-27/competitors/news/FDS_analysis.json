@@ -1,0 +1,102 @@
+{
+  "ticker": "FDS",
+  "company": "FactSet Research Systems",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/FDS.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 5,
+    "bearish_count": 3,
+    "neutral_count": 1,
+    "overall_sentiment": "Mixed",
+    "key_theme": "市場對 FactSet 的 AI 轉型與營收成長潛力持樂觀態度，但面臨指數成分股調整與分析師目標價下調的短期壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "The AI Panic Is Mispricing FactSet",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-19 14:08",
+      "impact": "high",
+      "category": "投資分析",
+      "reason": "文章指出市場對 AI 影響的擔憂導致 FDS 被低估，強調其具備 95% 以上的客戶留存率、利潤率提升以及 10 億美元的股票回購計畫，基本面強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "Wall Street Analysts Think FactSet (FDS) Could Surge 38.8%: Read This Before Placing a Bet",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 13:55",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "根據華爾街分析師的平均目標價，顯示該股具備 38.8% 的上漲空間，反映市場對其長期價值的高度共識。"
+    },
+    {
+      "rank": 3,
+      "title": "FactSet Research (FDS) Earnings Expected to Grow: Should You Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 14:00",
+      "impact": "medium",
+      "category": "財報預測",
+      "reason": "分析指出 FDS 具備財報超預期的關鍵要素，預計營收與獲利將持續成長，吸引尋求成長股的投資人。"
+    },
+    {
+      "rank": 4,
+      "title": "3 Sales Growth Stocks to Bet on Despite Geopolitical Conflicts",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 10:19",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "在宏觀經濟不確定性下，FDS 被列為銷售成長領先股，顯示其業務模式在動盪環境中仍具備韌性。"
+    },
+    {
+      "rank": 5,
+      "title": "Zacks.com featured highlights include Deckers Outdoor Corp., Intuit and FactSet Research Systems",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 13:28",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "FDS 被評選為具備強勁銷售成長動能的標的，儘管面臨通膨壓力，需求訊號依然穩健。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "RBC Capital Lowers its Price Target on FactSet Research Systems (FDS) to $243 from $320",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 11:02",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "RBC Capital 將目標價大幅下調至 243 美元，對股價短期走勢構成顯著壓力，反映市場對其估值修正的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "FactSet Drops From FTSE All World Index What It Means For Investors",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 18:05",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "被剔除出 FTSE 全球指數將導致追蹤該指數的被動基金進行賣出操作，短期內會對股價造成資金流出壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "How Is FactSet Research Systems’ Stock Performance Compared to Other Financial Services Stocks?",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 08:28",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "指出 FDS 過去一年表現落後於金融服務產業，顯示其相較於同業競爭力有所減弱。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "FactSet to Report Q2 Earnings: What's in Store for the Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 14:00",
+      "impact": "low",
+      "category": "財報預測",
+      "reason": "此為財報發布前的例行性前瞻分析，重點在於 AI 數據整合與區域成長，未提供明確的多空方向，屬於市場預期整理。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

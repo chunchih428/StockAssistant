@@ -1,0 +1,74 @@
+{
+  "ticker": "NDAQ",
+  "company": "Nasdaq",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/NDAQ.json",
+  "summary": {
+    "total_articles": 14,
+    "bullish_count": 9,
+    "bearish_count": 0,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "美國證券交易委員會 (SEC) 批准 Nasdaq 進行代幣化證券交易與結算，標誌著該公司在區塊鏈金融基礎設施領域取得重大戰略突破。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Nasdaq Secures SEC Approval To List Blockchain Version Of Stocks, Including S&P 500-Tracking ETFs",
+      "publisher": "Benzinga",
+      "date": "2026-03-19 03:32",
+      "impact": "high",
+      "category": "法規與創新",
+      "reason": "SEC 正式批准 Nasdaq 進行代幣化證券交易與結算，此舉將重塑資本市場運作模式，提升交易效率並為 Nasdaq 開闢新的技術服務收入來源。"
+    },
+    {
+      "rank": 2,
+      "title": "Nasdaq and Talos Partner to Advance Tokenized Collateral Management Across Mainstream and Digital Asset Markets",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 11:00",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "透過與 Talos 合作整合數位資產基礎設施至 Calypso 與交易監控平台，強化了 Nasdaq 在數位資產領域的技術護城河。"
+    },
+    {
+      "rank": 3,
+      "title": "NDAQ Outperforms Industry, Trades at a Discount: How to Play the Stock",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 14:49",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析指出 Nasdaq 憑藉非交易性收入的持續增長與策略性併購，展現出優於同業的成長潛力，且目前估值具吸引力。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Time To Reassess Nasdaq (NDAQ) After Multi Year Share Price Gains?",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 00:15",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "針對股價長期上漲後的估值合理性進行探討，提醒投資人關注是否已充分反映未來成長預期。"
+    },
+    {
+      "rank": 2,
+      "title": "Nasdaq Announces Mid-Month Open Short Interest Positions in Nasdaq Stocks as of Settlement Date March 13, 2026",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 20:05",
+      "impact": "low",
+      "category": "市場數據",
+      "reason": "例行性發布市場賣空餘額數據，屬於交易所的常規營運資訊，對公司本身股價無直接多空影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Nasdaq Futures Weekly Recap: Key Levels, Liquidity And Volatility Breakdown",
+      "publisher": "Benzinga",
+      "date": "2026-03-23 04:01",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對 Nasdaq 指數期貨的技術面分析，屬於市場交易層面的資訊，與 Nasdaq 公司的基本面營運無直接關聯。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
