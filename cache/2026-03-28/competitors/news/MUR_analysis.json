@@ -1,0 +1,38 @@
+{
+  "ticker": "MUR",
+  "company": "Murphy Oil",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/MUR.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "分析師上調評級與越南離岸業務的長期戰略布局為股價提供支撐。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Johnson Rice Upgrades Murphy Oil to Accumulate, Announces $63 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-03-25 08:18",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Johnson Rice 分析師 Charles Meade 將 Murphy Oil 的評級從「持有」上調至「累積」，並給出 63 美元的目標價，顯示市場對該公司未來股價表現持樂觀態度。此處選擇 Benzinga 的報導作為代表，因其提供了具體的目標價與分析師姓名，資訊完整度優於 Fintel 的簡短摘要。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Murphy Oil Corporation (MUR) Discusses Production Sharing Contract Fundamentals and Their Role in Offshore Vietnam Strategy Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-24 14:34",
+      "impact": "medium",
+      "category": "營運戰略",
+      "reason": "公司詳細說明了越南離岸項目的生產分成合約 (PSC) 基礎架構，這屬於長期的戰略溝通，有助於投資人理解其國際資產組合的風險與回報機制，對股價影響偏向中性且具建設性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

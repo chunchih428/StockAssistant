@@ -1,0 +1,66 @@
+{
+  "ticker": "WMG",
+  "company": "Warner Music Group",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/WMG.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 1,
+    "bearish_count": 3,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場對於串流媒體成長放緩及現金流表現的擔憂，蓋過了公司與 Netflix 合作帶來的潛在內容變現利多。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "'Netflix Sets Documentary Partnership With Warner Music Group' - Deadline Exclusive",
+      "publisher": "Benzinga",
+      "date": "2026-03-20 12:17",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 Netflix 建立紀錄片合作夥伴關係，有助於 WMG 擴大音樂 IP 的變現管道，並提升品牌在串流影音平台的曝光度，為長期營收增添動能。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Warner Music Group: Even At 52-Week Lows, I Still Have Concerns",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-21 23:14",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "分析師指出 WMG 面臨結構性逆風，包括串流媒體成長放緩以及新音樂文化影響力下降，這些基本面問題對股價構成長期壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Assessing Warner Music Group (WMG) Valuation After Recent Share Price Weakness And Cash Flow Concerns",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 05:05",
+      "impact": "medium",
+      "category": "財務評估",
+      "reason": "市場對 WMG 的現金流表現產生疑慮，在股價疲軟背景下，投資人對其估值合理性持保留態度，增加了股價波動風險。"
+    },
+    {
+      "rank": 3,
+      "title": "Offerpad, Gray Television, Warner Music Group, and AMC Entertainment Stocks Trade Down, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-18 22:52",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "反映了 WMG 近期股價走勢疲軟的市場現況，雖然屬於板塊連動下跌，但顯示出賣壓沉重。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Warner Music Group (WMG): Buy, Sell, or Hold Post Q4 Earnings?",
+      "publisher": "StockStory",
+      "date": "2026-03-16 20:27",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "針對 Q4 財報後的投資建議分析，屬於中性評級回顧，旨在協助投資人評估財報後的持股策略，未有明確多空指引。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

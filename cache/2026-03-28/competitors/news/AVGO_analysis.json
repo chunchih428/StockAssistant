@@ -1,0 +1,111 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 4,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "Broadcom 受惠於強勁的 AI 晶片需求與大型國防合約，儘管面臨供應鏈產能限制的挑戰，市場分析師仍普遍看好其長期成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Broadcom Shares Rise on Wall Street Upgrade — Wall Street raises the bar on Broadcom as Google's AI chip orders smash expectations",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 16:18",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "華爾街分析師因 Google 的 AI 晶片訂單遠超預期而上調 Broadcom 評級，直接推動股價上漲。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom Lands $970 Million Defense Deal To Power Air Force And Space Force Software",
+      "publisher": "Benzinga",
+      "date": "2026-03-24 10:55",
+      "impact": "high",
+      "category": "商業合約",
+      "reason": "Broadcom 與美國國防部簽署為期 5 年、價值 9.7 億美元的軟體合約，展現其在基礎設施軟體領域的強大競爭力。"
+    },
+    {
+      "rank": 3,
+      "title": "Prediction: The \"Million-XPU\" Data Center Will Be the Most Important Artificial Intelligence (AI) Trend of 2026. Here's 1 Stock to Own.",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 19:44",
+      "impact": "medium",
+      "category": "市場趨勢",
+      "reason": "分析指出 Broadcom 是未來「百萬級 XPU」資料中心趨勢中的核心受惠股，具備長期投資價值。"
+    },
+    {
+      "rank": 4,
+      "title": "AVGO's Symantec CBX Expands Security Portfolio: Revenues to Surge?",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 17:07",
+      "impact": "medium",
+      "category": "財報表現",
+      "reason": "基礎設施軟體營收達 68 億美元，且 VMware 預訂量超過 92 億美元，顯示 AI 驅動的 VCF 需求強勁。"
+    },
+    {
+      "rank": 5,
+      "title": "Is Broadcom (AVGO) The Best AI Chip Stock to Buy According to Jim Cramer?",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 18:26",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "知名財經評論員 Jim Cramer 將 Broadcom 列入其前 10 大投資組合，提升了市場對該股的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "TSMC Hitting Production Capacity Limits, Says Broadcom",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 14:53",
+      "impact": "high",
+      "category": "供應鏈動態",
+      "reason": "Broadcom 高層指出晶片代工夥伴台積電產能已達極限，這可能限制 Broadcom 的出貨能力與營收成長速度。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom’s AI Revenue Just Doubled. The Stock Barely Moved",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 14:03",
+      "impact": "medium",
+      "category": "市場情緒",
+      "reason": "儘管 AI 營收翻倍，但股價反應平淡，顯示市場對 AI 類股的成長動能放緩感到擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "These Insider Trades Look Like Clear Signals—Until You Read the Fine Print",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 15:22",
+      "impact": "low",
+      "category": "內部交易",
+      "reason": "報導提醒投資人注意內部人賣股行為，雖多為稅務規劃，但仍可能引發市場對股價高點的疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "TSM vs. AVGO: Which is a Better Semiconductor Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 16:08",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "比較台積電與 Broadcom 的投資價值，屬於中性的產業分析報告，未對股價產生直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Here's Why Nvidia's Stock Looks ‘Relatively Cheap' According to These Experts",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 22:08",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "將 Broadcom 與 Nvidia、AMD 等同列為近期回調後的潛在買入標的，屬於整體半導體板塊的觀點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

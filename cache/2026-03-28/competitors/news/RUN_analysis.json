@@ -1,0 +1,66 @@
+{
+  "ticker": "RUN",
+  "company": "Sunrun Inc.",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/RUN.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 1,
+    "bearish_count": 3,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場對 Sunrun 的成長動能存疑，且面臨分析師降評與股價波動加劇的壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Sunrun (RUN) Rises As Market Takes a Dip: Key Facts",
+      "publisher": "Zacks",
+      "date": "2026-03-19T22:15:05Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管大盤走弱，Sunrun 股價表現相對抗跌，顯示在特定時段內有買盤支撐，但缺乏基本面利多支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Freedom Capital Downgrades Sunrun (RUN), Cuts Price Target to $12",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-18T07:53:27Z",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Freedom Capital 下調評級並將目標價砍至 12 美元，直接反映了市場對該公司未來獲利能力與現金流的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Sunrun, EVgo, UFP Industries, Tutor Perini, and Corning Shares Plummet, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-20T19:17:25Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價出現顯著下跌，反映出投資人對太陽能產業整體需求放緩及公司營運風險的負面情緒。"
+    },
+    {
+      "rank": 3,
+      "title": "Sunrun (RUN) Increases Yet Falls Behind Market: What Investors Need to Know",
+      "publisher": "Zacks",
+      "date": "2026-03-23T22:00:05Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "雖然股價有小幅上漲，但漲幅落後於大盤，顯示其相對於市場的相對強度（Relative Strength）疲弱，投資人信心不足。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Morgan Stanley Maintains an Equal Weight Rating on Sunrun Inc. (RUN)",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-19T00:27:59Z",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "摩根士丹利維持「中立」評級，顯示大型機構對該股短期內缺乏明確的看漲或看跌催化劑，採取觀望態度。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

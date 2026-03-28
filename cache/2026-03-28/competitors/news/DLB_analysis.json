@@ -1,0 +1,38 @@
+{
+  "ticker": "DLB",
+  "company": "Dolby Laboratories",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/DLB.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "Mixed",
+    "key_theme": "Dolby Laboratories 在獲得創新獎項的正面品牌聲譽與針對 Snap Inc. 的專利訴訟行動之間呈現多空拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Dolby Named to Fast Company's Annual List of the World's Most Innovative Companies List for Fourth Time",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 11:00",
+      "impact": "low",
+      "category": "企業聲譽",
+      "reason": "Dolby 第 4 次入選 Fast Company 全球最具創新力公司榜單，顯示其在技術研發與市場影響力上的持續領先地位，有助於提升品牌價值與投資人信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Access Advance Licensor Sues Snap Inc. for AV1 and HEVC Patent Infringement",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 15:40",
+      "impact": "medium",
+      "category": "法律訴訟",
+      "reason": "作為 Access Advance 的授權方，Dolby 參與針對 Snap Inc. 的專利侵權訴訟。雖然訴訟旨在維護專利權益，但法律程序的不確定性及潛在的訴訟成本可能對短期營運造成壓力，且反映出視訊編碼技術授權市場的競爭與摩擦。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

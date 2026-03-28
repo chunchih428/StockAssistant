@@ -1,0 +1,56 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/OUST.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 0,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "Neutral to Bearish",
+    "key_theme": "市場對 Ouster 近期股價波動與估值合理性存有疑慮，加上內部人賣股行為，導致短期賣壓增強。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Chief Operating Officer Sells 10,938 Ouster Shares for $256,000",
+      "publisher": "Motley Fool",
+      "date": "2026-03-24T21:09:21Z",
+      "impact": "medium",
+      "category": "內部人交易",
+      "reason": "營運長 (COO) 出售價值約 25.6 萬美元的股票，內部人減持通常會被市場解讀為對公司短期股價信心不足，可能引發散戶跟進拋售。"
+    },
+    {
+      "rank": 2,
+      "title": "Ouster, Inc. (OUST) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "publisher": "Zacks",
+      "date": "2026-03-20T22:15:04Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價表現弱於大盤，顯示該股在近期市場回調中面臨較大的賣壓，技術面與資金流向呈現疲軟跡象。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ouster (OUST) Valuation Check After Mixed Share Price Performance And Lidar Growth Prospects",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-24T21:06:19Z",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "文章綜合評估了 Lidar 行業的成長前景與公司混合的股價表現，未給出明確買賣建議，僅提供投資人進行估值檢視的參考。"
+    },
+    {
+      "rank": 2,
+      "title": "Is It Time To Reassess Ouster (OUST) After Its Recent Share Price Surge",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-24T14:05:52Z",
+      "impact": "low",
+      "category": "投資評估",
+      "reason": "針對近期股價飆升後的重新評估，旨在提醒投資人審視風險與潛在回報，屬於中性的市場觀察報告，並非直接的利多或利空訊號。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

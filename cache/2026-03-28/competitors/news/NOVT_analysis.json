@@ -1,0 +1,47 @@
+{
+  "ticker": "NOVT",
+  "company": "Novanta",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/NOVT.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司股價近期主要受到中東地緣政治緊張局勢引發的市場波動，以及自身估值壓力所主導。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "United Rentals, Atkore, Novanta, EnerSys, and UFP Industries Stocks Trade Up, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 02:44",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "由於川普政府推遲對伊朗的軍事行動，市場避險情緒緩解，帶動包括 Novanta 在內的多檔股票在午後交易時段反彈。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "BWX, Tecnoglass, SPX Technologies, Novanta, and Kimball Electronics Shares Plummet, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 20:22",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "中東地緣政治緊張局勢升級，引發市場對供應鏈與宏觀經濟不確定性的擔憂，導致 Novanta 股價出現顯著下跌。"
+    },
+    {
+      "rank": 2,
+      "title": "A Look At Novanta (NOVT) Valuation As Recent Returns Remain Under Pressure",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-17",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "該報告指出 Novanta 近期回報率持續承壓，市場對其當前估值水平持審慎態度，反映出投資人對公司短期成長動能的疑慮。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

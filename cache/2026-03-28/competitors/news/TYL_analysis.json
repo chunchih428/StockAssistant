@@ -1,0 +1,38 @@
+{
+  "ticker": "TYL",
+  "company": "Tyler Technologies, Inc.",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/TYL.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司宣布 2 億美元股票回購計畫展現管理層對長期價值的信心，抵銷了近期股價相對大盤表現疲軟的市場疑慮。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "What Tyler Technologies (TYL)'s New US$200 Million 10b5-1 Buyback Plan Means For Shareholders",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-18",
+      "impact": "high",
+      "category": "資本配置",
+      "reason": "公司啟動 2 億美元的 10b5-1 股票回購計畫，顯示管理層認為當前股價被低估，且具備充足現金流支持股東回報，通常被視為股價支撐的正面訊號。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Tyler Technologies Stock Underperforming the S&P 500?",
+      "publisher": "Barchart",
+      "date": "2026-03-17",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導探討 TYL 近期股價表現落後於 S&P 500 指數的現象，屬於技術性與市場情緒的觀察，並未涉及公司基本面惡化，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

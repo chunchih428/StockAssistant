@@ -1,0 +1,75 @@
+{
+  "ticker": "NET",
+  "company": "Cloudflare",
+  "analysis_date": "2026-03-27",
+  "source_file": "cache/2026-03-27/holdings/news/NET.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "Mixed",
+    "key_theme": "市場對於 Cloudflare 在 AI 與網路安全領域的強勁成長動能持正面看法，但對於其高達 200 倍預期本益比的估值過高風險存在顯著分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare: Right Time To Dive In As Growth Accelerates, Stablecoin Opportunity (Rating Upgrade)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-20 08:15",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "該分析指出 Cloudflare 作為「40 法則」的網路安全領導者，在營收規模達 30 億美元的情況下仍能維持超過 30% 的成長，顯示其強大的競爭護城河。"
+    },
+    {
+      "rank": 2,
+      "title": "With Help From Its AI Ventures, Cloudflare Is Poised To Surge",
+      "publisher": "Investor's Business Daily",
+      "date": "2026-03-26 14:36",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "強調 Cloudflare 的 AI 代理 (AI Agents) 業務將成為推動股價上漲的關鍵驅動力，市場對其 AI 變現能力抱持高度期待。"
+    },
+    {
+      "rank": 3,
+      "title": "Cloudflare: Loaded Up At $170, Where I'll Load Up Next",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-23 15:19",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "引用具體的財務數據，包括 34% 的營收年增率、48% 的積壓訂單成長以及 120% 的淨留存率，證明其業務基本面極其穩健。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare: Avoid Stablecoin Hype",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-24 17:38",
+      "impact": "high",
+      "category": "估值風險",
+      "reason": "該文警告股價受 AI 與穩定幣炒作影響過大，且面臨 2026 年成長放緩、利潤率改善幅度有限以及高達 200 倍預期本益比的估值壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Cloudflare: Flawless Execution Meets Mathematically Impossible Valuation",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-22 06:05",
+      "impact": "medium",
+      "category": "估值風險",
+      "reason": "雖然肯定公司的執行力與 34% 的年增率，但指出 28 倍的市銷率 (P/S ratio) 在當前市場環境下顯得過於昂貴，存在修正風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "$100 Invested In Cloudflare 5 Years Ago Would Be Worth This Much Today",
+      "publisher": "Benzinga",
+      "date": "2026-03-24 10:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅回顧過去 5 年的歷史報酬表現，屬於市場統計性質的報導，對當前股價走勢無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

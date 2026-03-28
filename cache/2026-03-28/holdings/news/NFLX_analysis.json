@@ -1,0 +1,111 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-03-27",
+  "source_file": "cache/2026-03-27/holdings/news/NFLX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 8,
+    "bearish_count": 5,
+    "neutral_count": 7,
+    "overall_sentiment": "bullish",
+    "key_theme": "Netflix 透過調漲訂閱價格與擴大廣告業務營收，展現強勁的獲利能力與市場定價權，儘管市場對其高估值與內容支出仍有分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Netflix raises subscription prices across all plans in US",
+      "publisher": "Reuters",
+      "date": "2026-03-26 21:39",
+      "impact": "high",
+      "category": "營收策略",
+      "reason": "Netflix 宣布全面調漲美國訂閱價格，直接提升每用戶平均收入 (ARPU)，顯示公司在串流市場具備強大的定價權。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix Rides on Strong Advertising Revenues: More Upside Ahead?",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 17:26",
+      "impact": "high",
+      "category": "業務成長",
+      "reason": "廣告業務營收成長 2.5 倍至 15 億美元，AI 驅動的精準投放與龐大用戶群成為未來獲利成長的關鍵引擎。"
+    },
+    {
+      "rank": 3,
+      "title": "Trade Tracker: Brian Belski buys more Netflix",
+      "publisher": "CNBC",
+      "date": "2026-03-24 12:39",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名投資人 Brian Belski 增持 Netflix 股票，顯示機構投資人對其長期成長前景持正面看法。"
+    },
+    {
+      "rank": 4,
+      "title": "Joey Ai Expands Netflix Advertising Opportunities in Canada",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 15:29",
+      "impact": "low",
+      "category": "市場擴張",
+      "reason": "透過與 Joey Ai 合作，Netflix 在加拿大市場的廣告變現能力進一步提升，有助於國際市場營收多元化。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Is Netflix Stock's 7.3X PS Still Worth it? Buy, Sell, or Hold?",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 16:32",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "市場擔憂 7.3 倍的股價營收比 (P/S ratio) 過高，且 2026 年初龐大的內容支出可能壓縮短期獲利空間。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix Could Be Setting Up for a Big Show, But I’m Not Convinced the Move Will Be Up.",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 20:13",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "分析師對 Netflix 的技術面與估值表示懷疑，認為儘管有成長動能，但目前股價已反映過多預期。"
+    },
+    {
+      "rank": 3,
+      "title": "Investors’ Concerns Hurt Netflix (NFLX) in Q4",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 14:31",
+      "impact": "low",
+      "category": "財報表現",
+      "reason": "回顧第四季財報，部分投資機構對成長放緩與市場競爭壓力表達擔憂，對股價形成心理壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Netflix Ends Warner Deal Talks To Focus On Core Growth Choices",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 16:07",
+      "impact": "medium",
+      "category": "併購動態",
+      "reason": "終止與 Warner Bros. Discovery 的收購談判，顯示公司將資源集中於核心業務，市場對此策略轉向持中性觀察態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Final Trades: Netflix, Ardagh Metal Packaging, Citigroup and Apple",
+      "publisher": "CNBC",
+      "date": "2026-03-25 13:05",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此為財經節目針對多檔股票的例行性觀察，僅代表分析師個人觀點，對股價無直接實質影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Top Analyst Reports for Netflix, Advanced Micro Devices and SAP",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 19:36",
+      "impact": "low",
+      "category": "研究報告",
+      "reason": "僅為例行性的分析師報告彙整，未提供具體買賣評級變動，對市場情緒影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

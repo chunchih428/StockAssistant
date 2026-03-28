@@ -1,0 +1,93 @@
+{
+  "ticker": "ONDS",
+  "company": "Ondas",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/holdings/news/ONDS.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司發布創紀錄的第 4 季財報並大幅調升 2026 年營收展望，同時宣布收購 World View Enterprises 以擴大業務版圖，獲得分析師調升目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ondas Reloads With $1.5B Cash, Aggressive Deals And 100%+ Upside Target",
+      "publisher": "Benzinga",
+      "date": "2026-03-24 15:06",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司公布創紀錄的季度業績，營收年增率高達 629%，並大幅上調 2026 年營收目標至 3.75 億美元，展現強勁成長動能。"
+    },
+    {
+      "rank": 2,
+      "title": "Needham Maintains Buy on Ondas, Raises Price Target to $23",
+      "publisher": "Benzinga",
+      "date": "2026-03-24 06:12",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Needham 分析師 Austin Bohlig 維持買進評級，並將目標價從 17 美元大幅調升至 23 美元，反映對公司未來成長潛力的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Ondas To Acquire World View Enterprises; Terms Not Disclosed",
+      "publisher": "Benzinga",
+      "date": "2026-03-23 08:40",
+      "impact": "medium",
+      "category": "企業併購",
+      "reason": "宣布收購 World View Enterprises，此舉有助於擴大公司在自動化航空與地面技術領域的市場份額與技術整合。"
+    },
+    {
+      "rank": 4,
+      "title": "Ondas Sees Q1 Sales $38.000M-$40.000M vs $28.374M Est",
+      "publisher": "Benzinga",
+      "date": "2026-03-23 08:26",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "公司對第 1 季營收給出 3,800 萬至 4,000 萬美元的預測，顯著高於市場預期的 2,837 萬美元，顯示業務擴張速度優於預期。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ondas Holdings Q4 EPS $(0.36) Misses $(0.05) Estimate",
+      "publisher": "Benzinga",
+      "date": "2026-03-23 08:18",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "儘管營收表現亮眼，但第 4 季每股虧損 0.36 美元，遜於市場預期的 0.05 美元虧損，顯示獲利能力仍面臨壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Ondas shares are trading lower after the company reported revised preliminary Q4, FY25 financial results.",
+      "publisher": "Benzinga",
+      "date": "2026-03-20 14:05",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "在正式財報公布前，因初步財報數據調整導致股價短期波動，反映市場對財務透明度與穩定性的敏感度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ondas, GameStop, PDD and More Stocks With Earnings This Week",
+      "publisher": "Benzinga",
+      "date": "2026-03-23 17:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為財報週的例行性新聞報導，提醒投資人關注該公司即將公布的財報，本身不具備方向性影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Ondas Inc. (ONDS) Q4 2025 Earnings Call Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-25 16:15",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "提供法說會逐字稿供投資人參考，屬於資訊揭露性質，無直接市場情緒導向。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-03-27",
+  "source_file": "cache/2026-03-27/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 1,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "CrowdStrike 在 RSA 2026 大會期間發布一系列 AI 驅動的資安創新，並透過與 IBM 和 Intel 的深度戰略合作，強化其在 AI PC 與自動化資安領域的競爭護城河。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike and IBM Expand Strategic Collaboration to Accelerate Agentic SOC Transformation",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 21:15",
+      "impact": "high",
+      "category": "戰略合作",
+      "reason": "CrowdStrike 與 IBM 擴大合作，將 Falcon 平台與 IBM 的 AI 技術整合，推動自動化資安營運中心 (SOC) 的轉型，顯著提升企業級市場的競爭力。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike Expands Strategic Collaboration With Intel to Secure the Next Generation of AI PCs",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 17:14",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "與 Intel 合作優化 Falcon 平台以保護 AI PC，直接切入硬體安全市場，有助於擴大終端防護的市佔率。"
+    },
+    {
+      "rank": 3,
+      "title": "CrowdStrike Launches the Charlotte AI AgentWorks Ecosystem for Building Secure Agents",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 15:19",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出 Charlotte AI AgentWorks 生態系統，標誌著公司從單純的防護轉向支援 AI 代理安全，符合當前 AI 轉型趨勢。"
+    },
+    {
+      "rank": 4,
+      "title": "CrowdStrike Delivers Agentic MDR to Stop Breaches at Machine Speed",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 12:11",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出 Agentic MDR 服務，利用機器速度進行威脅偵測，強化了 CrowdStrike 在託管檢測與回應 (MDR) 市場的技術領先地位。"
+    },
+    {
+      "rank": 5,
+      "title": "CrowdStrike Introduces Falcon Data Security to Stop Data Theft Across the Agentic Enterprise",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 12:05",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出 Falcon Data Security，針對 AI 時代的資料外洩風險提供防護，擴展了產品組合的深度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Is CrowdStrike Stock Falling Tuesday?",
+      "publisher": "Benzinga",
+      "date": "2026-03-24 13:09",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受整體軟體類股疲軟及市場對 Amazon AI 工具競爭的擔憂影響，導致股價短期波動，但非公司基本面惡化。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is CrowdStrike Stock Underperforming the Dow?",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 02:54",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析股價近期表現落後於道瓊指數，但分析師對其長期前景仍持中性偏樂觀態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Final Trades: Meta, IBM, CrowdStrike and the ICE U.S. Dollar Index",
+      "publisher": "CNBC",
+      "date": "2026-03-26 13:10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅作為投資委員會觀察名單提及，未提供具體買賣建議或重大基本面分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

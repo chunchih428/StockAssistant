@@ -1,0 +1,84 @@
+{
+  "ticker": "EME",
+  "company": "EMCOR",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/EME.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於美國基礎建設需求與資料中心擴張，EMCOR Group 展現強勁的積壓訂單與成長動能，儘管近期股價出現回調，但市場仍看好其長期表現。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Is EMCOR Strengthening Its Growth Position in U.S. Infrastructure?",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 13:53",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "EMCOR Group 的積壓訂單達到歷史新高，且資料中心需求強勁，顯示公司在美國基礎建設領域的成長動能極佳。"
+    },
+    {
+      "rank": 2,
+      "title": "Emcor Group (EME) Ascends While Market Falls: Some Facts to Note",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 21:50",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "在市場整體下跌的情況下，EME 逆勢上漲 1.85 %，顯示出強大的相對抗跌性與買盤支撐。"
+    },
+    {
+      "rank": 3,
+      "title": "Why the Market Dipped But Emcor Group (EME) Gained Today",
+      "publisher": "Zacks",
+      "date": "2026-03-18 22:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導分析了 EME 在大盤疲軟時仍能獲得資金青睞的結構性因素，確認了公司基本面優於大盤的觀點。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "EMCOR Group (EME) Shares Pulled Back Due to the Strong Performance of a Competitor",
+      "publisher": "Yahoo",
+      "date": "2026-03-20 12:24",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "TimesSquare Capital Management 指出 EME 股價回調部分原因在於競爭對手的強勢表現，導致資金出現板塊輪動。"
+    },
+    {
+      "rank": 2,
+      "title": "Is EMCOR Group (EME) Offering Value After A 10.8% One Month Pullback?",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 00:15",
+      "impact": "low",
+      "category": "股價分析",
+      "reason": "一個月內 10.8 % 的回調引發市場對於估值是否已達頂峰的擔憂，增加了短期股價波動的不確定性。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is EMCOR Stock Outperforming the Nasdaq?",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 18:33",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "雖然 EME 過去一年表現優於 Nasdaq，但華爾街分析師態度轉趨謹慎，屬於中性觀點。此篇選自 Yahoo，涵蓋了 Barchart 的重複報導內容。"
+    },
+    {
+      "rank": 2,
+      "title": "EMCOR vs. Fluor: Which Construction Stock is the Better Buy Now?",
+      "publisher": "Yahoo",
+      "date": "2026-03-19 13:51",
+      "impact": "low",
+      "category": "產業比較",
+      "reason": "將 EME 與 Fluor (FLR) 進行比較，旨在協助投資人評估兩者在 2026 年的成長策略，並未給出明確的買進或賣出建議。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "SNDK",
+  "company": "Sandisk",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/SNDK.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 6,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司近期因 AI 伺服器需求強勁與分析師調升目標價而表現亮眼，但近期因 10 億美元投資南亞科引發市場對資本配置的疑慮，加上記憶體類股整體回檔，導致股價出現短期修正。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "B of A Securities Maintains Buy on SanDisk, Raises Price Target to $900",
+      "publisher": "Benzinga",
+      "date": "2026-03-23 09:54",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "美銀分析師 Wamsi Mohan 基於 AI 伺服器需求強勁，將目標價調升至 900 美元，顯示機構投資人對其長期成長動能具備高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Sandisk's Data Center Ramp is Gaining Ground: Is Growth Sustainable?",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 13:28",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 AI 驅動的 SSD 需求正在重塑公司營收結構，提升了長期成長的可見度與持續性。"
+    },
+    {
+      "rank": 3,
+      "title": "The Next Nvidia? This AI Stock Has Investors Buzzing",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 19:54",
+      "impact": "medium",
+      "category": "市場情緒",
+      "reason": "市場將 Sandisk 視為具備 Nvidia 潛力的 AI 概念股，強勁的市場情緒推動了股價的爆發性成長。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Sandisk Slips 6% as a $1 Billion Investment in Nanya Technology Divides Investors",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 13:17",
+      "impact": "high",
+      "category": "資本配置",
+      "reason": "公司宣布斥資 10 億美元收購 1.39 億股南亞科股票，此舉引發投資人對於資本配置效率與現金流運用的分歧，導致股價單日顯著下跌。"
+    },
+    {
+      "rank": 2,
+      "title": "MU, WDC, SNDK fall: Why Google’s TurboQuant is rattling memory stocks",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 14:19",
+      "impact": "medium",
+      "category": "產業競爭",
+      "reason": "Google 推出 TurboQuant 技術對記憶體產業構成潛在威脅，導致包括 Sandisk 在內的記憶體類股普遍遭到拋售。"
+    },
+    {
+      "rank": 3,
+      "title": "Is The Party Over For Memory Chip Stocks? Micron, Sandisk Continue Pullback",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 15:40",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "記憶體類股在創下歷史新高後出現獲利了結賣壓，Sandisk 隨產業趨勢進入技術性回檔階段。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Synopsys Gets an Activist With Chip Stock Form. Why Elliott’s Sandisk History Is Key.",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 09:29",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "文章主要討論 Synopsys 的股權變動，僅將 Sandisk 作為過去成功投資案例進行對比，對當前股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Could Buying $10,000 of Sandisk Make You a Millionaire?",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 03:05",
+      "impact": "low",
+      "category": "投資觀點",
+      "reason": "屬於長線投資展望的討論，對於短期股價波動的參考價值較低。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

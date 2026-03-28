@@ -1,0 +1,111 @@
+{
+  "ticker": "ORCL",
+  "company": "Oracle",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/ORCL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "美銀證券重啟覆蓋並給予買入評級，加上 AI 戰略轉型與雲端業務成長預期，帶動市場對 Oracle 的樂觀情緒。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bank of America Resets Oracle Price Target -- Sees 30% Upside",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 19:46",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "美銀證券重啟對 Oracle 的覆蓋，給予「買入」評級並設定 200 美元目標價，看好其在 AI 基礎設施領域的成長潛力，預期股價有 30% 上漲空間。"
+    },
+    {
+      "rank": 2,
+      "title": "Oracle Fusion Cloud Gains New Agentic AI Capabilities",
+      "publisher": "Benzinga",
+      "date": "2026-03-24 08:28",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Oracle 擴展企業級 AI 產品組合，推出 Fusion Agentic 應用程式與 AI 資料庫增強功能，強化其在雲端市場的競爭力。"
+    },
+    {
+      "rank": 3,
+      "title": "Update: Market Chatter: Trump to Appoint Meta, Oracle, Nvidia CEOs to Tech Council",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 15:09",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場傳聞美國總統川普計畫任命 Oracle 執行長加入科技委員會，顯示公司在政策制定與產業影響力上的潛在提升。"
+    },
+    {
+      "rank": 4,
+      "title": "NVIDIA, Google and Oracle Take Center Stage at Data Center World 2026",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 15:04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Oracle 與 NVIDIA、Google 等巨頭共同成為 Data Center World 2026 的焦點，凸顯其在 AI 基礎設施建設中的關鍵地位。"
+    },
+    {
+      "rank": 5,
+      "title": "Zacks Investment Ideas feature highlights: Netflix, Oracle and Paramount Skydance",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 06:26",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出 Oracle 在經歷股價下跌後出現反彈跡象，強勁的雲端業務成長正逐步改善投資人情緒。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Microsoft to rent Texas data center dropped by Oracle and OpenAI, Bloomberg News reports",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 16:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Microsoft 接手了原先由 Oracle 與 OpenAI 開發的德州資料中心項目，顯示 Oracle 在基礎設施擴張策略上可能面臨調整或資源配置挑戰。"
+    },
+    {
+      "rank": 2,
+      "title": "Oracle Goes All In on AI, Cloud While Facing Revenue, Spending Risks, BofA Says",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 15:18",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "儘管看好 AI 前景，但美銀同時提醒 Oracle 在全力投入雲端與 AI 建設的過程中，仍面臨營收波動與高額資本支出的風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Final Trades: Zoom, Oracle, Dick's Sporting Goods and Freeport-McMoran",
+      "publisher": "CNBC",
+      "date": "2026-03-23 13:13",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為投資委員會提及的觀察名單，未提供具體的財務分析或買賣建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Oracle Commodity Holding Closes First Tranche of Non-Brokered Private Placement",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 22:01",
+      "impact": "low",
+      "category": "財務動態",
+      "reason": "此為 Oracle Commodity Holding Corp. 的私人配售消息，與 Oracle Corporation (ORCL) 本身業務無直接關聯，屬名稱相似的誤導性資訊。"
+    },
+    {
+      "rank": 3,
+      "title": "Oracle (ORCL) Recently Broke Out Above the 20-Day Moving Average",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 13:35",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "單純的技術指標分析，指出股價突破 20 日移動平均線，屬於技術面觀察，不涉及基本面變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

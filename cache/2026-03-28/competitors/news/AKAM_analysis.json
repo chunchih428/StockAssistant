@@ -1,0 +1,92 @@
+{
+  "ticker": "AKAM",
+  "company": "Akamai",
+  "analysis_date": "2026-03-26",
+  "source_file": "cache/2026-03-26/competitors/news/AKAM.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 6,
+    "bearish_count": 0,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Akamai 積極擴展 AI 基礎設施與資安產品線，透過與 NVIDIA 的技術合作及新產品發布，強化其在雲端運算與零信任架構的市場競爭力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Akamai Lands US$ 200 Million AI Deal Showcasing Blackwell GPU Ambitions",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-17",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "獲得 2 億美元的 AI 相關合約，顯示公司成功切入高階 GPU 運算市場，具備實質營收貢獻與技術轉型指標意義。"
+    },
+    {
+      "rank": 2,
+      "title": "Akamai’s Global NVIDIA AI Grid Rollout Could Be A Game Changer For Akamai Technologies (AKAM)",
+      "publisher": "Yahoo",
+      "date": "2026-03-22",
+      "impact": "high",
+      "category": "技術合作",
+      "reason": "與 NVIDIA 的全球 AI 網格部署合作，將大幅提升 Akamai 在邊緣運算領域的 AI 處理能力，被視為公司成長的關鍵轉折點。"
+    },
+    {
+      "rank": 3,
+      "title": "Akamai Launches Brand Guardian to Help Enterprises Combat Automated Fraud",
+      "publisher": "Yahoo",
+      "date": "2026-03-25",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "選用 Yahoo 報導作為代表，因其涵蓋了產品功能細節。此 AI 驅動的防詐騙解決方案能強化企業資安防護，有助於提升軟體服務訂閱收入。"
+    },
+    {
+      "rank": 4,
+      "title": "Akamai Guardicore Segmentation Transforms Zero Trust with New AI-Powered Capabilities",
+      "publisher": "Yahoo",
+      "date": "2026-03-24",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "透過 AI 強化零信任架構的細分功能，能有效提升企業客戶的資安部署效率，鞏固其在網路安全市場的領導地位。"
+    },
+    {
+      "rank": 5,
+      "title": "AKAM Partners With DCT to Accelerate Cloud Modernization for Enterprises",
+      "publisher": "Zacks",
+      "date": "2026-03-16",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "與 DCT 的合作有助於加速企業客戶的雲端現代化進程，進一步擴大其雲端服務的生態系統與市佔率。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Akamai Technologies Stock Outperforming the Dow?",
+      "publisher": "Yahoo",
+      "date": "2026-03-19",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "雖然股價表現優於道瓊指數，但分析師態度保持謹慎，顯示市場對其長期估值與成長動能仍有觀望情緒。"
+    },
+    {
+      "rank": 2,
+      "title": "A Look At Akamai Technologies (AKAM) Valuation After Recent Share Price Swings",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-17",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "針對近期股價波動後的估值進行回顧，屬於中性的市場分析，未提供明確的買入或賣出建議。"
+    },
+    {
+      "rank": 3,
+      "title": "Content Delivery Stocks Q4 Teardown: Akamai Technologies (NASDAQ: AKAM) Vs The Rest",
+      "publisher": "StockStory",
+      "date": "2026-03-17",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "將 Akamai 與同業進行 Q4 財報表現對比，屬於產業競爭力評估，提供投資人客觀的橫向比較數據。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
