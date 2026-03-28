@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-28 03:38:49",
+  "generated_at": "2026-03-28 06:07:11",
   "allocation": {
-    "total_value": 297795.72000000003,
-    "total_pnl": -9902.453359999996,
-    "cash": 11758.76
+    "total_value": 299032.19,
+    "total_pnl": -8172.53361,
+    "cash": 17754.629999999997
   },
   "results": [
     {
@@ -18,19 +18,6 @@
       "current_price": 199.34,
       "analysis": "",
       "news_count": 20
-    },
-    {
-      "symbol": "CCJ",
-      "recommendation": "unknown",
-      "confidence": null,
-      "scores": {
-        "fundamental": 3,
-        "technical": 3,
-        "risk": 3
-      },
-      "current_price": 103.92,
-      "analysis": "",
-      "news_count": 7
     },
     {
       "symbol": "CEG",
@@ -252,19 +239,6 @@
       "current_price": 203.02,
       "analysis": "",
       "news_count": 6
-    },
-    {
-      "symbol": "NFLX",
-      "recommendation": "unknown",
-      "confidence": null,
-      "scores": {
-        "fundamental": 4,
-        "technical": 4,
-        "risk": 3
-      },
-      "current_price": 93.43,
-      "analysis": "",
-      "news_count": 20
     },
     {
       "symbol": "NTAP",
@@ -813,19 +787,6 @@
       "news_count": 1
     },
     {
-      "symbol": "CNK",
-      "recommendation": "unknown",
-      "confidence": null,
-      "scores": {
-        "fundamental": 4,
-        "technical": 4,
-        "risk": 3
-      },
-      "current_price": 28.06,
-      "analysis": "",
-      "news_count": 0
-    },
-    {
       "symbol": "CNX",
       "recommendation": "unknown",
       "confidence": null,
@@ -1019,19 +980,6 @@
       "current_price": 47.47,
       "analysis": "",
       "news_count": 1
-    },
-    {
-      "symbol": "DIS",
-      "recommendation": "unknown",
-      "confidence": null,
-      "scores": {
-        "fundamental": 3,
-        "technical": 2,
-        "risk": 3
-      },
-      "current_price": 92.42,
-      "analysis": "",
-      "news_count": 20
     },
     {
       "symbol": "DJT",
@@ -1450,19 +1398,6 @@
       "news_count": 10
     },
     {
-      "symbol": "FWONA",
-      "recommendation": "unknown",
-      "confidence": null,
-      "scores": {
-        "fundamental": 3,
-        "technical": 2,
-        "risk": 3
-      },
-      "current_price": 75.11,
-      "analysis": "",
-      "news_count": 0
-    },
-    {
       "symbol": "GDDY",
       "recommendation": "unknown",
       "confidence": null,
@@ -1827,19 +1762,6 @@
       "news_count": 2
     },
     {
-      "symbol": "LYV",
-      "recommendation": "unknown",
-      "confidence": null,
-      "scores": {
-        "fundamental": 4,
-        "technical": 3,
-        "risk": 3
-      },
-      "current_price": 145.71,
-      "analysis": "",
-      "news_count": 1
-    },
-    {
       "symbol": "M",
       "recommendation": "unknown",
       "confidence": null,
@@ -1902,7 +1824,7 @@
       },
       "current_price": 32.36,
       "analysis": "",
-      "news_count": 2
+      "news_count": 7
     },
     {
       "symbol": "MKSI",
@@ -1968,19 +1890,6 @@
       "current_price": 523.4,
       "analysis": "",
       "news_count": 1
-    },
-    {
-      "symbol": "MSGS",
-      "recommendation": "unknown",
-      "confidence": null,
-      "scores": {
-        "fundamental": 3,
-        "technical": 5,
-        "risk": 3
-      },
-      "current_price": 311.15,
-      "analysis": "",
-      "news_count": 0
     },
     {
       "symbol": "MTCH",
@@ -2555,19 +2464,6 @@
       "news_count": 2
     },
     {
-      "symbol": "ROKU",
-      "recommendation": "unknown",
-      "confidence": null,
-      "scores": {
-        "fundamental": 3,
-        "technical": 2,
-        "risk": 3
-      },
-      "current_price": 87.15,
-      "analysis": "",
-      "news_count": 6
-    },
-    {
       "symbol": "RRC",
       "recommendation": "unknown",
       "confidence": null,
@@ -2578,7 +2474,7 @@
       },
       "current_price": 47.65,
       "analysis": "",
-      "news_count": 1
+      "news_count": 2
     },
     {
       "symbol": "RRX",
@@ -2763,19 +2659,6 @@
       "news_count": 14
     },
     {
-      "symbol": "SPHR",
-      "recommendation": "unknown",
-      "confidence": null,
-      "scores": {
-        "fundamental": 3,
-        "technical": 5,
-        "risk": 3
-      },
-      "current_price": 106.77,
-      "analysis": "",
-      "news_count": 3
-    },
-    {
       "symbol": "ST",
       "recommendation": "unknown",
       "confidence": null,
@@ -2865,19 +2748,6 @@
       "current_price": 51.16,
       "analysis": "",
       "news_count": 1
-    },
-    {
-      "symbol": "TKO",
-      "recommendation": "unknown",
-      "confidence": null,
-      "scores": {
-        "fundamental": 3,
-        "technical": 3,
-        "risk": 3
-      },
-      "current_price": 189.2,
-      "analysis": "",
-      "news_count": 2
     },
     {
       "symbol": "TRMB",
@@ -3062,19 +2932,6 @@
       "news_count": 5
     },
     {
-      "symbol": "WBD",
-      "recommendation": "unknown",
-      "confidence": null,
-      "scores": {
-        "fundamental": 3,
-        "technical": 3,
-        "risk": 3
-      },
-      "current_price": 27.07,
-      "analysis": "",
-      "news_count": 11
-    },
-    {
       "symbol": "WDC",
       "recommendation": "unknown",
       "confidence": null,
@@ -3101,24 +2958,11 @@
       "news_count": 14
     },
     {
-      "symbol": "WMG",
-      "recommendation": "unknown",
-      "confidence": null,
-      "scores": {
-        "fundamental": 4,
-        "technical": 2,
-        "risk": 3
-      },
-      "current_price": 23.77,
-      "analysis": "",
-      "news_count": 5
-    },
-    {
       "symbol": "WYFI",
       "recommendation": "unknown",
       "confidence": null,
       "scores": {
-        "fundamental": 3,
+        "fundamental": 2,
         "technical": 2,
         "risk": 3
       },

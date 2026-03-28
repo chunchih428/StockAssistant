@@ -2,7 +2,6 @@
   "holdings": {
     "AMZN": "Amazon",
     "AMZU": "Direxion Daily AMZN Bull 2X Shares",
-    "CCJ": "Cameco",
     "CEG": "Constellation Energy",
     "COIN": "Coinbase",
     "CRWD": "CrowdStrike",
@@ -14,7 +13,6 @@
     "META": "Meta",
     "MSFT": "Microsoft",
     "NET": "Cloudflare",
-    "NFLX": "Netflix",
     "NTAP": "NetApp",
     "NVDA": "NVIDIA",
     "ONDS": "Ondas",
@@ -24,6 +22,8 @@
     "VOO": "S&P 500"
   },
   "competitors": {
+    "CCJ": "Cameco",
+    "NFLX": "Netflix",
     "AAOI": "Applied Optoelectronics",
     "AAPL": "Apple",
     "ACHR": "Archer Aviation",
