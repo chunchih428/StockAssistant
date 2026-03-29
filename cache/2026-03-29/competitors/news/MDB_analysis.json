@@ -1,0 +1,93 @@
+{
+  "ticker": "MDB",
+  "company": "MongoDB",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/MDB.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 4,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 MongoDB 的 AI 驅動需求與高層人事變動持正面態度，分析師評級上調帶動市場信心。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Mizuho Upgrades MongoDB to Outperform, Raises Price Target to $325",
+      "publisher": "Benzinga",
+      "date": "2026-03-23 12:59",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Mizuho 分析師 Matthew Broome 將評級從中性上調至優於大盤，並將目標價調升至 325 美元，主要基於對 AI 驅動需求及客戶增長的樂觀預期。"
+    },
+    {
+      "rank": 2,
+      "title": "MongoDB, Inc. (MDB) Appoints Ryan Mac Ban as Chief Revenue Officer",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-27 15:13",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "任命 Ryan Mac Ban 為新任營收長 (CRO)，市場預期此舉將強化公司在 AI 與多雲策略上的執行力，對未來營收成長具正面意義。"
+    },
+    {
+      "rank": 3,
+      "title": "Super Micro downgraded, MongoDB upgraded: Wall Street's top analyst calls",
+      "publisher": "The Fly",
+      "date": "2026-03-23 13:44",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "作為華爾街重要分析師觀點的彙整，確認了 MongoDB 在當前市場環境下獲得主流機構的買入推薦，強化了投資人信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Upland Software, Upstart, RingCentral, SoundHound AI, and MongoDB Stocks Trade Up, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-23 18:39",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "反映了 MongoDB 在當日交易時段的股價上漲趨勢，顯示市場資金對該股的短期買盤動能。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why MongoDB (MDB) Stock Is Falling Today",
+      "publisher": "StockStory",
+      "date": "2026-03-25 01:44",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出股價出現回調，反映了市場對高成長科技股估值的敏感度，以及短期獲利了結的賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "MongoDB vs. ServiceNow: Which AI Software Stock Has Greater Upside?",
+      "publisher": "Zacks",
+      "date": "2026-03-23 13:35",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "將 MongoDB 與 ServiceNow 進行比較分析，旨在探討 AI 軟體股的潛在漲幅，屬於中性的投資建議與產業比較。"
+    },
+    {
+      "rank": 2,
+      "title": "Mizuho upgrades MongoDB on AI-driven demand and stronger customer growth",
+      "publisher": "Investing.com",
+      "date": "2026-03-23 13:30",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "此篇為 Mizuho 評級上調事件的重複報導，內容與首篇一致，故歸類為中性以避免重複計算。"
+    },
+    {
+      "rank": 3,
+      "title": "MongoDB’s New CRO Appointment Puts AI And Multi Cloud Growth In Focus",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-24 21:06",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "針對 CRO 任命案的後續分析，重申了該人事案對 AI 與多雲策略的影響，屬於對既定事件的觀點補充。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

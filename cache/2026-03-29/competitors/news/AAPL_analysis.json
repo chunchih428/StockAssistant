@@ -1,0 +1,120 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-03-27",
+  "source_file": "cache/2026-03-27/competitors/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 11,
+    "bearish_count": 2,
+    "neutral_count": 7,
+    "overall_sentiment": "bullish",
+    "key_theme": "Apple 透過擴大美國本土製造與開放 Siri 整合 AI 生態系，展現供應鏈韌性與軟體服務轉型的積極策略。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple adds Bosch, Cirrus Logic, others to US manufacturing program, to invest $400 million",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 13:02",
+      "impact": "medium",
+      "category": "供應鏈管理",
+      "reason": "Apple 承諾投入 4 億美元擴大美國製造，並新增 Bosch、Cirrus Logic 等合作夥伴，有助於降低地緣政治風險並強化供應鏈韌性。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple plans to open Siri to rival AI services, Bloomberg News reports",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 18:30",
+      "impact": "high",
+      "category": "產品策略",
+      "reason": "Apple 計劃在 iOS 27 更新中開放 Siri 整合外部 AI 服務，此舉顯示公司在 AI 競爭中採取更開放的生態系策略，有利於提升用戶體驗與服務營收。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple iPhone loyalty strengthens, supporting services growth outlook",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 19:16",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "iPhone 用戶忠誠度持續增強，為 Apple 高毛利的服務業務提供了穩定的成長基礎。"
+    },
+    {
+      "rank": 4,
+      "title": "Apple's Expanding Enterprise Footprint to Boost Sales: What's Ahead?",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 17:48",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "企業端部署規模擴大，有助於提升 Apple 裝置的安裝基數，進而帶動長期銷售動能。"
+    },
+    {
+      "rank": 5,
+      "title": "Apple Taps TSMC Washington Plant As Valuation Debate Persists",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 18:08",
+      "impact": "low",
+      "category": "供應鏈管理",
+      "reason": "與台積電美國廠合作生產感測器晶片，進一步落實關鍵零組件在地化生產。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "I'm 'uber-skeptical' about Apple's major AI upgrade, says Freedom Capital's Paul Meeks",
+      "publisher": "CNBC",
+      "date": "2026-03-25 07:48",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "分析師對 Apple 的 AI 升級持高度懷疑態度，認為其技術轉型可能面臨執行風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple Stock Has Been Weak This Year. Why Analysts Think Better Times Are Ahead.",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 19:28",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價今年表現疲軟且經歷連續四週下跌，反映市場對短期成長動能的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Final Trades: Netflix, Ardagh Metal Packaging, Citigroup and Apple",
+      "publisher": "CNBC",
+      "date": "2026-03-25 13:05",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為投資委員會提及的觀察名單，未提供具體買賣建議。"
+    },
+    {
+      "rank": 2,
+      "title": "U.S. executives, from Apple to Eli Lilly, revamp their push into the world's second-largest economy at the China Development Forum",
+      "publisher": "CNBC",
+      "date": "2026-03-23 10:05",
+      "impact": "low",
+      "category": "市場擴張",
+      "reason": "參與中國發展論壇屬於常規企業外交活動，旨在維持市場關係，對股價影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "Who is the target consumer for Apple's MacBook Neo, and will they buy?",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 21:52",
+      "impact": "low",
+      "category": "產品策略",
+      "reason": "針對新產品市場定位的討論，屬於市場分析性質，無實質財務影響。"
+    },
+    {
+      "rank": 4,
+      "title": "Warren Buffett and Greg Abel Spent $78 Billion Buying This Stock Since 2018",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 08:26",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章重點在於波克夏海瑟威的投資組合配置，Apple 僅作為比較基準提及。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

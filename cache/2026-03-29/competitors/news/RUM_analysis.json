@@ -1,0 +1,66 @@
+{
+  "ticker": "RUM",
+  "company": "Rumble",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/RUM.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "Mixed",
+    "key_theme": "Rumble 積極推動 AI 雲端基礎設施與廣告業務轉型，但面臨高層人事變動與近期股價波動的市場壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Rumble Conference: CEO touts Tether deals, ad rebound and Northern Data GPU push into AI cloud",
+      "publisher": "MarketBeat",
+      "date": "2026-03-25",
+      "impact": "high",
+      "category": "業務擴張",
+      "reason": "執行長強調與 Tether 的合作、廣告營收回升，以及與 Northern Data 合作推動 GPU AI 雲端服務，顯示公司在核心業務與新興技術領域的成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Rumble Names Mike Masci As CFO Effective March 31, 2026",
+      "publisher": "Benzinga",
+      "date": "2026-03-26",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "任命 Mike Masci 為新任財務長，有助於強化公司財務管理架構，為未來的資本運作與營運擴張提供穩定性。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Rumble, Magnite, CoStar, Fair Isaac Corporation, and MediaAlpha Shares Plummet, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-28",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價出現顯著下跌，反映市場對該公司近期表現或整體科技股估值的擔憂，投資人信心短期內受到打擊。"
+    },
+    {
+      "rank": 2,
+      "title": "Assessing Rumble (RUM) Valuation After Recent Share Price Weakness And Growth Narrative Hopes",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-26",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "針對股價疲軟進行估值評估，指出市場對其成長敘事的期待與實際財務表現之間存在落差，引發投資人對估值合理性的質疑。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Rumble (RUM) Q4 2025 Earnings Call Transcript",
+      "publisher": "Motley Fool",
+      "date": "2026-03-22",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "此為財報會議逐字稿，提供公司營運狀況的基礎資訊，市場已根據財報數據做出初步反應，故歸類為中性資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

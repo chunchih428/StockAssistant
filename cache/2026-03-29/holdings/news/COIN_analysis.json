@@ -1,0 +1,120 @@
+{
+  "ticker": "COIN",
+  "company": "Coinbase",
+  "analysis_date": "2026-03-27",
+  "source_file": "cache/2026-03-27/holdings/news/COIN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 5,
+    "bearish_count": 11,
+    "neutral_count": 4,
+    "overall_sentiment": "bearish",
+    "key_theme": "美國 Clarity Act 法案中關於穩定幣獎勵的限制條款引發市場對 Coinbase 營收模式的擔憂，儘管公司在產品創新與機構合作上持續推進。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Fannie Mae accepts first crypto-backed mortgage product",
+      "publisher": "CNBC",
+      "date": "2026-03-26 12:00",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Coinbase 與 Better Home & Finance 合作推出加密貨幣抵押貸款，並獲得 Fannie Mae 指引認可，顯示公司在傳統金融領域的業務擴張能力。"
+    },
+    {
+      "rank": 2,
+      "title": "Goldman Sachs Sets COIN Target at $235",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 14:22",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "高盛給予目標價 $235，暗示相較於當前股價有約 30% 的上漲空間，為市場提供正面信心支撐。"
+    },
+    {
+      "rank": 3,
+      "title": "Coinbase Integrates Chainlink to Deliver Institutional Trading Data Onchain",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 15:37",
+      "impact": "low",
+      "category": "技術合作",
+      "reason": "透過與 Chainlink 整合，Coinbase 強化了其 DeFi 基礎設施與機構級數據傳輸能力，有助於提升平台競爭力。"
+    },
+    {
+      "rank": 4,
+      "title": "Crypto-Backed Group Reveals First Midterm Targets",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 16:04",
+      "impact": "low",
+      "category": "法規",
+      "reason": "Coinbase 支持的政治遊說團體 Stand With Crypto 加大對中期選舉的影響力，旨在為加密貨幣爭取更有利的監管環境。"
+    },
+    {
+      "rank": 5,
+      "title": "Bitcoin Doesn't Face 'Existential' Risk From Quantum Computers",
+      "publisher": "Benzinga",
+      "date": "2026-03-25 02:00",
+      "impact": "low",
+      "category": "公司觀點",
+      "reason": "CEO Brian Armstrong 公開回應量子計算威脅，展現公司對技術風險的掌控力，有助於穩定長期投資人信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Circle Plummets 19%, Coinbase Craters 11%: Two Crypto Stocks Caught in the Clarity Act Crossfire",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 18:12",
+      "impact": "high",
+      "category": "法規",
+      "reason": "Clarity Act 法案草案擬禁止交易所提供穩定幣獎勵，直接衝擊 Coinbase 的核心營收來源，導致股價大幅修正。此篇涵蓋了市場對法案的恐慌反應。"
+    },
+    {
+      "rank": 2,
+      "title": "Senator Lummis Says America Can't Wait Until 2030, But Coinbase Still Blocking Stablecoin Bill",
+      "publisher": "Benzinga",
+      "date": "2026-03-26 08:15",
+      "impact": "medium",
+      "category": "法規",
+      "reason": "Coinbase 持續反對 Clarity Act 的穩定幣條款，與監管機構的僵局可能導致更嚴格的立法風險，增加市場不確定性。"
+    },
+    {
+      "rank": 3,
+      "title": "Coinbase Global, Inc. (COIN) Falls More Steeply Than Broader Market",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 21:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價表現弱於大盤，顯示投資人對該公司在監管壓力下的獲利能力感到擔憂，賣壓持續累積。"
+    },
+    {
+      "rank": 4,
+      "title": "Coinbase Shares Are Sliding Tuesday: What's Driving The Action?",
+      "publisher": "Benzinga",
+      "date": "2026-03-24 12:04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "中東地緣政治緊張局勢加劇市場避險情緒，導致加密貨幣相關股票普遍下跌。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Selling Crypto To Pay Taxes? Coinbase Says There's Another Option",
+      "publisher": "Benzinga",
+      "date": "2026-03-26 01:25",
+      "impact": "low",
+      "category": "產品服務",
+      "reason": "介紹用戶透過抵押 USDC 借貸來支付稅款的服務，屬於日常業務推廣，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Here is What to Know Beyond Why Coinbase Global, Inc. (COIN) is a Trending Stock",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場熱度分析與基本面回顧，未提供新的實質利多或利空消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

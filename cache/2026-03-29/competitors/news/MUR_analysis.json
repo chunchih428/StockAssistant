@@ -1,0 +1,83 @@
+{
+  "ticker": "MUR",
+  "company": "Murphy Oil",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/MUR.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 4,
+    "bearish_count": 0,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司透過調升股利與資本回報計畫展現財務韌性，加上分析師調升評級與目標價，帶動市場對其長期成長潛力的樂觀情緒。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Johnson Rice Upgrades Murphy Oil to Accumulate, Announces $63 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-03-25 08:18",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Charles Meade 將評級由「持有」調升至「累積」，並給出 63 美元的目標價，顯示市場對公司未來股價表現具備高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Assessing Murphy Oil (MUR) Valuation After Dividend Increase And Capital Return Progress",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 00:16",
+      "impact": "high",
+      "category": "股利政策",
+      "reason": "公司將季度股利調升 8 % 至每股 0.35 美元，此舉直接提升股東價值，並反映管理層對現金流與資本回報計畫的執行信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Murphy Oil Has Surged 48 % in a Year — Can It Hold Above Wells Fargo’s $38 Price Target?",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 16:21",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出 MUR 過去一年股價強勁上漲 48 %，凸顯其在能源板塊中的強勢地位，儘管面臨目標價挑戰，但市場動能依然強勁。"
+    },
+    {
+      "rank": 4,
+      "title": "Johnson Rice Upgrades Murphy Oil (MUR)",
+      "publisher": "Fintel",
+      "date": "2026-03-25 21:55",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "此為 Johnson Rice 調升評級的簡要確認，強化了市場對該公司正面評級調整的共識。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Wells Fargo Maintains Equal-Weight on Murphy Oil, Raises Price Target to $38",
+      "publisher": "Benzinga",
+      "date": "2026-03-26 10:48",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師 Hanwen Chang 維持「中立」評級，雖調升目標價至 38 美元，但相較於其他看漲觀點，態度相對保守。"
+    },
+    {
+      "rank": 2,
+      "title": "Murphy Oil Details Vietnam PSC Mechanics, Cost Recovery and Entitlement Production in Offshore Webinar",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 08:15",
+      "impact": "low",
+      "category": "營運策略",
+      "reason": "公司透過網路研討會說明越南離岸項目的合約機制與成本回收細節，屬於例行性的投資人教育活動，對股價影響中性。"
+    },
+    {
+      "rank": 3,
+      "title": "Murphy Oil Corporation (MUR) Discusses Production Sharing Contract Fundamentals and Their Role in Offshore Vietnam Strategy - Slideshow",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-26 19:16",
+      "impact": "low",
+      "category": "營運策略",
+      "reason": "此為上述越南項目研討會的簡報資料發布，提供技術性細節，對短期股價無直接催化作用。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

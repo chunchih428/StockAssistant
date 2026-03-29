@@ -1,0 +1,57 @@
+{
+  "ticker": "KEYS",
+  "company": "Keysight Technologies",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/KEYS.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場分析師對 Keysight 的估值預期顯著上調，且公司在 AI 安全測試領域的合作夥伴關係進一步強化了其技術領先地位。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Keysight Technologies (KEYS) Price Target Increased by 34.51% to 308.18",
+      "publisher": "Fintel",
+      "date": "2026-03-27 05:58",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "目標價大幅上調 34.51 % 至 308.18 美元，顯示市場對公司未來成長潛力與估值重塑的高度信心，為股價提供強勁支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "NSS Labs Names Keysight Lead Partner in New AI Protection Systems Security Testing Initiative",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 13:00",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "Keysight 成為 NSS Labs AI 保護系統測試的領先合作夥伴，證明其在 AI 安全測試領域的技術實力，有助於拓展高成長的資安市場。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Keysight (KEYS) Down 1% Since Last Earnings Report: Can It Rebound?",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 15:30",
+      "impact": "low",
+      "category": "財報表現",
+      "reason": "財報發布後股價微幅下跌 1 %，反映市場對短期獲利動能的觀望態度，但跌幅有限，主要為技術性修正。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "How The Keysight Technologies (KEYS) Story Is Evolving With New Growth Drivers And Valuation Views",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 06:06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導綜合了成長驅動力與估值觀點，雖然整體偏向正面，但因內容多為市場分析的彙整，對股價影響較為溫和，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

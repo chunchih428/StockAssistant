@@ -1,0 +1,93 @@
+{
+  "ticker": "SNOW",
+  "company": "Snowflake",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/SNOW.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 2,
+    "bearish_count": 5,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "Snowflake 面臨財報後股價修正壓力，加上內部人拋售股票與裁員消息，市場對其 AI 轉型策略的執行力持保留態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Snowflake Expands in Cloud Analytics: A Sign for More Upside?",
+      "publisher": "Zacks",
+      "date": "2026-03-25T15:24:00Z",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "Snowflake 透過擴展雲端分析業務展現成長潛力，這被視為長期營收成長的正面訊號，有助於抵銷近期市場的悲觀情緒。"
+    },
+    {
+      "rank": 2,
+      "title": "Why the Market Dipped But Snowflake Inc. (SNOW) Gained Today",
+      "publisher": "Zacks",
+      "date": "2026-03-26T21:45:02Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管大盤走弱，Snowflake 展現出相對抗跌的韌性，顯示部分投資人對其特定業務領域仍具信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Snowflake (SNOW) Price Target Decreased by 10.71% to 244.49",
+      "publisher": "Fintel",
+      "date": "2026-03-27 06:11",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "目標價下調幅度達 10.71 %，反映了市場對公司未來獲利能力與成長預期的修正，直接對股價造成下行壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Is Snowflake (SNOW) Down 6.2% Since Last Earnings Report?",
+      "publisher": "Zacks",
+      "date": "2026-03-27T15:30:12Z",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "財報公布後股價累積下跌 6.2 %，顯示市場對公司財報數據或未來指引感到失望，是近期股價疲軟的主因。"
+    },
+    {
+      "rank": 3,
+      "title": "Snowflake Insiders Sold US$11m Of Shares Suggesting Hesitancy",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-27T11:00:07Z",
+      "impact": "medium",
+      "category": "公司治理",
+      "reason": "內部人拋售價值 1,100 萬美元的股票，通常被市場解讀為對公司短期股價缺乏信心，引發投資人擔憂。"
+    },
+    {
+      "rank": 4,
+      "title": "Snowflake Cuts Entire Team — Joins Amazon, Canva in AI Push",
+      "publisher": "Benzinga",
+      "date": "2026-03-23 10:46",
+      "impact": "medium",
+      "category": "組織調整",
+      "reason": "裁撤技術文件編寫部門以轉向 AI 資源配置，雖是為了轉型，但大規模裁員往往引發市場對營運穩定性與企業文化的疑慮。"
+    },
+    {
+      "rank": 5,
+      "title": "Snowflake’s AI Bet: Can Project SnowWork Stop the 2026 SaaS Sell-Off Spiral?",
+      "publisher": "MarketBeat",
+      "date": "2026-03-25T14:26:00Z",
+      "impact": "low",
+      "category": "產品策略",
+      "reason": "儘管公司積極推動 Project SnowWork，但市場質疑其是否足以扭轉 2026 年 SaaS 產業的整體拋售趨勢，顯示對 AI 轉型成效的懷疑。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Snowflake, Circle, Arm Holdings, Trade Desk And Gamestop: Why These 5 Stocks Are On Investors' Radars Today",
+      "publisher": "Benzinga",
+      "date": "2026-03-24 21:19",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導僅將 Snowflake 列入投資人關注清單，並未提供具體的利多或利空分析，屬於市場觀察性質的資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

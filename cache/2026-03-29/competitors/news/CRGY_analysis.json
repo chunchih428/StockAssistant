@@ -1,0 +1,66 @@
+{
+  "ticker": "CRGY",
+  "company": "Crescent Energy",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/CRGY.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "Neutral",
+    "key_theme": "市場對 Crescent Energy 的評價呈現分歧，一方面受惠於油價上漲帶動目標價調升，另一方面則面臨分析師評級下調的壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Crescent Energy (CRGY) Price Target Lifted by $2 on Rising Oil Prices",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-26",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受惠於全球油價上漲趨勢，分析師調升了該公司的目標價，反映市場對其能源資產價值重估的樂觀預期。"
+    },
+    {
+      "rank": 2,
+      "title": "Crescent Energy: The Quiet Shale Powerhouse The Market Misses",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-25",
+      "impact": "medium",
+      "category": "公司營運",
+      "reason": "文章強調公司在美國頁岩油領域的擴張策略與營運效率，認為市場長期低估了其作為頁岩油巨頭的潛力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Johnson Rice Downgrades Crescent Energy to Accumulate, Announces $19 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-03-25",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Johnson Rice 分析師 Charles Meade 將評級從 Buy 下調至 Accumulate，並設定 19 美元目標價，顯示對短期股價上漲空間持保留態度。此篇涵蓋了 Fintel 的重複報導，故選此篇作為代表。"
+    },
+    {
+      "rank": 2,
+      "title": "Crescent Energy (CRGY) Stock Dips While Market Gains: Key Facts",
+      "publisher": "Zacks",
+      "date": "2026-03-23",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "在整體市場上漲的背景下，CRGY 股價卻出現下跌，顯示短期內面臨賣壓或資金流出，表現相對疲軟。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Crescent Energy’s ESOP Shelf Filing Quietly Redefining Its Capital Structure Strategy for CRGY?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-19",
+      "impact": "low",
+      "category": "資本結構",
+      "reason": "針對公司提交的員工持股計畫 (ESOP) 申報文件進行分析，探討其對資本結構的潛在影響，屬於中性的財務結構調整觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,74 @@
+{
+  "ticker": "SNAP",
+  "company": "Snap",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/SNAP.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 0,
+    "bearish_count": 5,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "歐盟針對兒童安全保護法規啟動調查，導致 Snap 面臨嚴重的監管風險與股價下行壓力。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "EU Warns Porn Sites Over Access by Minors, Probes Snapchat",
+      "publisher": "The Wall Street Journal",
+      "date": "2026-03-26T16:33:00Z",
+      "impact": "high",
+      "category": "法規監管",
+      "reason": "歐盟委員會對 Snapchat 啟動調查，質疑其在保護未成年人方面的合規性。此消息為後續股價下跌的核心驅動因素，故選為代表性新聞。"
+    },
+    {
+      "rank": 2,
+      "title": "Stock Market Today, March 26: Snap Tumbles on EU Child Safety Probe",
+      "publisher": "Motley Fool",
+      "date": "2026-03-26T22:07:00Z",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "直接報導了監管調查對股價造成的負面衝擊，反映市場對 Snap 營運風險的擔憂加劇。"
+    },
+    {
+      "rank": 3,
+      "title": "Snap Stock Hits New 52-Week Low as Social Media Shares Plunge. Should You Buy the Dip?",
+      "publisher": "Barchart",
+      "date": "2026-03-27T12:35:37Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價跌至 52 週新低，顯示投資人信心潰散，且受到整體社群媒體板塊疲軟的拖累。"
+    },
+    {
+      "rank": 4,
+      "title": "Reddit, Meta, Roku, Snap, and Pinterest Shares Plummet, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-26T20:54:21Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "指出 Snap 與其他科技同業同步下跌，顯示市場對數位廣告與社群平台產業的整體情緒轉趨保守。"
+    },
+    {
+      "rank": 5,
+      "title": "Assessing Snap (SNAP) Valuation As Child Safety Regulators Intensify Legal And Compliance Pressures",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-28T17:06:40Z",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "分析師開始重新評估 Snap 的估值模型，將監管壓力與法律合規成本納入考量，對長期獲利能力構成隱憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Snapchat's Compliance With Child Protection Rules Facing European Commission Probe",
+      "publisher": "Benzinga",
+      "date": "2026-03-26 07:19",
+      "impact": "low",
+      "category": "法規監管",
+      "reason": "此報導為歐盟調查事件的初步消息，內容與 WSJ 報導重複，故歸類為中性，僅作為事件發生的事實紀錄。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

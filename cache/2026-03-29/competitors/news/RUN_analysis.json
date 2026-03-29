@@ -1,0 +1,47 @@
+{
+  "ticker": "RUN",
+  "company": "Sunrun Inc.",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/RUN.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司股價表現與大盤走勢呈現高度相關性，近期市場波動加劇導致股價出現顯著回調壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Sunrun (RUN) Rises As Market Takes a Dip: Key Facts",
+      "publisher": "Zacks",
+      "date": "2026-03-19T22:15:05Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管大盤整體走弱，Sunrun 股價仍展現出相對抗跌的韌性，顯示部分投資人對其基本面仍具信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Sunrun, EVgo, UFP Industries, Tutor Perini, and Corning Shares Plummet, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-20T19:17:25Z",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價出現顯著下跌，反映出市場對於再生能源板塊的避險情緒，以及該公司在資本市場中面臨的賣壓。"
+    },
+    {
+      "rank": 2,
+      "title": "Sunrun (RUN) Increases Yet Falls Behind Market: What Investors Need to Know",
+      "publisher": "Zacks",
+      "date": "2026-03-23T22:00:05Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "雖然股價有所上漲，但漲幅落後於整體市場表現，顯示該公司在當前市場環境下缺乏強勁的領漲動能。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

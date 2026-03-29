@@ -1,0 +1,56 @@
+{
+  "ticker": "WYFI",
+  "company": "WhiteFiber",
+  "analysis_date": "2026-03-27",
+  "source_file": "cache/2026-03-27/competitors/news/WYFI.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 0,
+    "bearish_count": 5,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司 Q4 財報表現不如預期，EPS 與營收雙雙落後市場預估，導致股價顯著下跌。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "WhiteFiber Inc. (NASDAQ:WYFI) Plunges 9% After Q4 Earnings Miss, Wider-Than-Expected Loss",
+      "publisher": "ChartMill",
+      "date": "2026-03-26 12:23",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "選擇此篇作為代表，因為它明確指出股價下跌 9% 的幅度，並點出虧損擴大與 AI 基礎設施高額資本支出的因果關係，涵蓋了市場對財報失望的核心原因。"
+    },
+    {
+      "rank": 2,
+      "title": "Whitefiber Q4 EPS $(0.67) Misses $(0.18) Estimate, Sales $23.561M Miss $23.791M Estimate",
+      "publisher": "Benzinga",
+      "date": "2026-03-26 07:02",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "提供了精確的財務數據，EPS 虧損 0.67 美元遠高於預期的 0.18 美元，營收亦未達標，是導致市場拋售的直接財務數據依據。"
+    },
+    {
+      "rank": 3,
+      "title": "Why WhiteFiber Stock Dropped Today",
+      "publisher": "Motley Fool",
+      "date": "2026-03-26T17:26:00Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析了股價下跌的背景因素，解釋了投資人對公司獲利能力與高昂 AI 投資成本之間的擔憂，進一步加深了市場的負面情緒。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "WhiteFiber: Q4 Earnings Snapshot",
+      "publisher": "Associated Press Finance",
+      "date": "2026-03-26T11:04:42Z",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "僅作為財報數據的客觀摘要報導，未包含過多市場評論或情緒導向的分析，屬於中性的資訊揭露。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

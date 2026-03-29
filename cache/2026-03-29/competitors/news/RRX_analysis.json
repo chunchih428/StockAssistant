@@ -1,0 +1,66 @@
+{
+  "ticker": "RRX",
+  "company": "Regal Rexnord",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/RRX.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 Regal Rexnord 的估值重估與分析師調升目標價，帶動股價強勁反彈。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Barclays Maintains Overweight on Regal Rexnord, Raises Price Target to $245",
+      "publisher": "Benzinga",
+      "date": "2026-03-23 10:15",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Barclays 分析師 Julian Mitchell 維持對 RRX 的「加碼」評級，並將目標價調升至 245 美元，顯示機構投資人對其未來成長潛力持正面看法。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Is Regal Rexnord (RRX) Stock Rocketing Higher Today",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 18:23",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "RRX 股價單日大漲 6.5 %，反映市場對公司在工業自動化領域的表現給予高度肯定，此篇報導涵蓋了股價飆升的即時市場情緒。"
+    },
+    {
+      "rank": 3,
+      "title": "How The Regal Rexnord (RRX) Story Is Shifting With New Targets And AI Hardware Risks",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 06:06",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "分析師將公平價值目標上調至 236.50 美元，儘管提及 AI 硬體相關風險，但整體估值模型調整仍偏向正面。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Sterling, Dycom, AeroVironment, Regal Rexnord, and Kratos Stocks Trade Down, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-20 20:37",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此報導反映了 3 月 20 日的短期股價回調，屬於市場波動範疇，相較於後續的強勁反彈，其負面影響已顯著減弱。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Assessing Regal Rexnord (RRX) Valuation After Recent Share Price Pullback",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 19:03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導對近期 4.9 % 的單日漲幅與之前的回調進行綜合評估，提供了中立的市場表現回顧，未提供新的基本面利多或利空訊息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

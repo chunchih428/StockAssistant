@@ -1,0 +1,75 @@
+{
+  "ticker": "GOOGL",
+  "company": "Google",
+  "analysis_date": "2026-03-27",
+  "source_file": "cache/2026-03-27/holdings/news/GOOGL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 1,
+    "bearish_count": 17,
+    "neutral_count": 2,
+    "overall_sentiment": "bearish",
+    "key_theme": "Google 推出 TurboQuant 演算法引發記憶體晶片需求擔憂，加上法院裁定社交媒體成癮需賠償，導致股價承壓。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Morgan Stanley resets Alphabet stock forecast on Waymo growth",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 01:03",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "摩根士丹利看好 Waymo 自動駕駛業務作為長期成長引擎，為 Alphabet 提供正面基本面支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "LA jury orders Meta, Google to pay $6 million in social media addiction trial",
+      "publisher": "CNBC",
+      "date": "2026-03-25 17:15",
+      "impact": "high",
+      "category": "法律訴訟",
+      "reason": "法院裁定 Google 與 Meta 在社交媒體成癮問題上存在疏忽，市場擔憂此判決可能引發類似菸草業的長期法律賠償風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Memory Chip Stocks Drop 6% as Google Unveils AI Efficiency Algorithm",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 18:16",
+      "impact": "high",
+      "category": "技術創新",
+      "reason": "Google 推出 TurboQuant 演算法，聲稱可將記憶體使用量降低 6 倍，引發市場對 AI 晶片需求放緩的恐慌，導致半導體類股集體重挫，間接影響市場對 Google AI 策略的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Google reveals major 2029 quantum threat for digital wallets",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 21:42",
+      "impact": "medium",
+      "category": "技術風險",
+      "reason": "Google 發布關於量子計算對現有加密技術威脅的警告，雖顯示技術領先，但也引發市場對數位安全架構穩定性的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Had You Invested $1,000 in Amazon or Google 10 Years Ago, Here’s What You’d Have Now",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 12:40",
+      "impact": "low",
+      "category": "市場回顧",
+      "reason": "純粹的歷史績效比較，對當前股價走勢無實質影響。"
+    },
+    {
+      "rank": 2,
+      "title": "In The 90s, Mark Cuban Was Buying Domains Like Crazy",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 17:31",
+      "impact": "low",
+      "category": "產業歷史",
+      "reason": "關於網際網路發展歷史的軼事，與公司當前營運無直接關聯。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

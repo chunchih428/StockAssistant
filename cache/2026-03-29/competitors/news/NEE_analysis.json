@@ -1,0 +1,93 @@
+{
+  "ticker": "NEE",
+  "company": "NextEra Energy",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/NEE.json",
+  "summary": {
+    "total_articles": 19,
+    "bullish_count": 14,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "NextEra Energy 受惠於 AI 資料中心帶動的電力需求成長，並透過與 NVIDIA 等科技巨頭合作及擴大天然氣發電產能，展現強勁的長期成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "NextEra Energy (NEE): President Trump Approves Development of up to 10 Gigawatts of Natural Gas‑powered Generation",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 15:50",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "獲得批准開發 10 GW 天然氣發電項目，直接回應 AI 資料中心對穩定基載電力的迫切需求，顯著提升未來營收成長能見度。"
+    },
+    {
+      "rank": 2,
+      "title": "Nvidia And Emerald AI Announced That They Are Working With AES, Constellation, Invenergy, Nextera Energy, Nscale Energy & Power And Vistra To Power And Advance A New Class Of AI Factories",
+      "publisher": "Benzinga",
+      "date": "2026-03-23 07:08",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "與 NVIDIA 建立合作關係，將電力基礎設施與 AI 工廠整合，確立公司在 AI 能源轉型浪潮中的核心供應商地位。"
+    },
+    {
+      "rank": 3,
+      "title": "NEE vs. AEP: Which Power Utility Offers Stronger Investment Potential?",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 16:32",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "分析指出 NEE 具備較高的股東權益報酬率 (ROE) 及 940 億美元的資本支出計畫，在公用事業同業中展現更強的競爭優勢。"
+    },
+    {
+      "rank": 4,
+      "title": "Why NextEra Stock Is The Energy Transition's Biggest Winner",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 11:28",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "強調公司在能源轉型中的領導地位，不僅限於受監管的公用事業，其龐大的再生能源儲備使其成為長期能源需求成長的最大受益者。"
+    },
+    {
+      "rank": 5,
+      "title": "Morgan Stanley Updates NextEra Energy (NEE) Target on Load Growth and Data Center Demand",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 17:31",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "摩根士丹利基於負載成長與資料中心需求強勁，上調目標價，反映華爾街對其基本面成長動能的認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "NextEra Energy's Quarterly Earnings Preview: What You Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 14:10",
+      "impact": "low",
+      "category": "財報預測",
+      "reason": "市場預期第一季財報可能出現個位數下滑，短期內可能對股價造成壓力，需關注管理層對全年財測的指引。"
+    },
+    {
+      "rank": 2,
+      "title": "NextEra Energy Links AI Factories To Grid As Valuation Stays Rich",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 05:03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管業務前景看好，但市場擔憂其估值已處於高檔，可能限制短期股價進一步上漲的空間。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Final Trades: Costco, NextEra Energy, Valero Energy and the IYC",
+      "publisher": "CNBC",
+      "date": "2026-03-24 13:27",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "投資委員會將 NEE 列為第二季觀察名單，屬於市場例行性投資建議，對股價無直接基本面影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

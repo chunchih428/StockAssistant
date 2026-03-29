@@ -1,0 +1,56 @@
+{
+  "ticker": "CRC",
+  "company": "California Resources",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/CRC.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 Brent 與 WTI 油價價差擴大，加上分析師調升目標價，市場對 CRC 的獲利前景持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "California Resources (CRC) Price Target Increased by 15.54% to 75.24",
+      "publisher": "Fintel",
+      "date": "2026-03-27 19:00",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "目標價大幅調升 15.54 % 至 75.24 美元，顯示市場對公司未來股價表現與基本面改善的信心增強。"
+    },
+    {
+      "rank": 2,
+      "title": "California Resources Boosted By Rising Brent-WTI Spread",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-23 08:27",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "CRC 的定價機制與 Brent 原油掛鉤，在 Brent 相對於 WTI 溢價擴大的環境下，公司獲利能力顯著優於其他美國石油生產商。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "California Resources (CRC) Price Target Raised to $67, ‘Neutral’ Rating Maintained",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-26 18:50",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "儘管調升了目標價至 67 美元，但分析師仍維持「中性」評級，顯示對當前股價估值是否過高仍持保留態度。"
+    },
+    {
+      "rank": 2,
+      "title": "California Resources Corporation (CRC) Presents at 2026 NYSE Investor Access Day",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-24 19:12",
+      "impact": "low",
+      "category": "投資人會議",
+      "reason": "公司參與 NYSE 投資人活動並發布簡報，屬於常規的投資人關係活動，未釋出具體的重大財務利多或利空消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

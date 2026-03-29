@@ -1,0 +1,111 @@
+{
+  "ticker": "OKTA",
+  "company": "Okta",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/OKTA.json",
+  "summary": {
+    "total_articles": 14,
+    "bullish_count": 4,
+    "bearish_count": 6,
+    "neutral_count": 4,
+    "overall_sentiment": "bearish",
+    "key_theme": "儘管 Okta 具備強勁的訂閱營收成長與分析師正面評級，但近期因 Anthropic 的 Claude AI 代理功能引發市場對身分安全競爭的擔憂，導致股價面臨顯著賣壓。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Macquarie Initiates Coverage of Okta (OKTA) with an Outperform Rating",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 15:13",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Macquarie 給予 Okta 優於大盤評級，並強調其作為無債務公司的財務穩健性，增強了投資人信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Okta Rides on Strong Subscription Revenue Growth: More Upside Ahead?",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 15:13",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "第四季財報顯示訂閱營收成長 11.5 %，顯示新身分安全產品成功提升了交易價值與企業客戶黏著度。"
+    },
+    {
+      "rank": 3,
+      "title": "Expanding Portfolio Drives Okta's Clientele: More Upside Ahead?",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 16:52",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "透過擴展產品組合與 AI 驅動的身分驗證方案，Okta 持續擴大客戶基礎並提升市占率。"
+    },
+    {
+      "rank": 4,
+      "title": "Live On CNBC, Malcolm Ethridge Announces Bought Okta",
+      "publisher": "Benzinga",
+      "date": "2026-03-26 12:23",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "知名投資人公開表示買入 Okta，為市場情緒帶來短期的正面支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Okta (OKTA) Valuation In Focus After Claude AI Computer Control Announcement Raises Identity Security Questions",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 22:05",
+      "impact": "high",
+      "category": "市場競爭",
+      "reason": "Anthropic 的 Claude AI 具備自主控制電腦能力，引發市場對傳統身分驗證安全性的質疑，導致股價下跌 6 %。"
+    },
+    {
+      "rank": 2,
+      "title": "Cybersecurity Stocks Take a Hit: Palo Alto Drops 6%, Okta Tumbles 7% on AI Competition Fears",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 17:00",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "整體資安類股因 AI 競爭擔憂出現拋售潮，Okta 股價重挫 7 %，反映市場對其護城河的焦慮。"
+    },
+    {
+      "rank": 3,
+      "title": "Varonis Systems, Okta, Palo Alto Networks, Qualys, and Rapid7 Shares Plummet, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 21:21",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "資安產業集體回調，顯示投資人對於該產業在 AI 時代的獲利能力與競爭格局重新評估。"
+    },
+    {
+      "rank": 4,
+      "title": "Okta Faces AI Agent Security Questions As Board Departure Looms",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 00:16",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "董事 Jeff Epstein 將離職的消息，疊加 AI 安全性疑慮，加劇了市場對公司治理與未來策略的不確定性。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Okta, Inc. (OKTA) Is a Trending Stock: Facts to Know Before Betting on It",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為熱門股分析，提供投資人基本面資訊，未對股價產生直接驅動影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Better Cybersecurity Stock: Okta vs. Zscaler",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 02:41",
+      "impact": "low",
+      "category": "產業比較",
+      "reason": "對比 Okta 與 Zscaler 的產業地位，屬於中立的產業分析報告。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

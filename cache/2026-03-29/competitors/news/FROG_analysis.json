@@ -1,0 +1,65 @@
+{
+  "ticker": "FROG",
+  "company": "JFrog",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/FROG.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 6,
+    "bearish_count": 0,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 UBS 評級調升至買進以及與 NVIDIA 的 AI 技術整合，JFrog 股價近期展現強勁上漲動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "UBS Upgrades JFrog to Buy, Announces $60 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-03-24 08:20",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "UBS 分析師 Radi Sultan 將 JFrog 評級由中立調升至買進，並給予 60 美元目標價，直接推動股價在隨後交易日大幅上漲 9 %。"
+    },
+    {
+      "rank": 2,
+      "title": "Will JFrog's (FROG) New MCP and NVIDIA AI Integrations Reframe Its Autonomous Agent Narrative",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 10:04",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "JFrog 推出 MCP Registry 與 NVIDIA AI 整合，強化其在自主 AI 代理領域的競爭力，有助於市場重新評估其長期成長潛力。"
+    },
+    {
+      "rank": 3,
+      "title": "Why JFrog (FROG) Stock Is Up Today",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 19:09",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "公司總裁的正面評論帶動股價上漲 3 %，顯示市場對管理層的策略方向持樂觀態度。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Stocks making big moves yesterday: Genuine Parts, Sabre, JFrog, Palantir Technologies, and Nubank",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 14:03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場盤點類新聞，列出 JFrog 為當日波動較大的個股，未提供新的基本面分析。"
+    },
+    {
+      "rank": 2,
+      "title": "Here Are Tuesday’s Top Wall Street Analyst Research Calls",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 11:54",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "將 JFrog 列入當日華爾街研究報告清單，屬於資訊彙整性質，無額外評論。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

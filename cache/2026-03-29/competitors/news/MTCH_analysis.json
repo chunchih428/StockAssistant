@@ -1,0 +1,57 @@
+{
+  "ticker": "MTCH",
+  "company": "Match Group",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/MTCH.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "Mixed",
+    "key_theme": "市場對於 Match Group 的轉型策略持保留態度，儘管 Hinge 表現強勁，但 Tinder 的用戶成長疲軟仍是股價反彈的主要阻力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Tinder Vs. Bumble: A Turnaround Duel Of Dating Giants",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-23 17:20",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出 Hinge 的強勁成長抵銷了 Tinder 的下滑，顯示公司轉型策略具備潛力，為投資人帶來正面預期。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "3 Reasons MTCH is Risky and 1 Stock to Buy Instead",
+      "publisher": "StockStory",
+      "date": "2026-03-25 13:58",
+      "impact": "high",
+      "category": "投資建議",
+      "reason": "明確指出公司面臨的三大風險，建議投資人轉向其他標的，對股價短期信心構成顯著壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Is It Time To Reconsider Match Group (MTCH) After Years Of Share Price Weakness",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-26 19:06",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "針對公司長期的股價疲軟進行檢討，強調市場對其基本面改善的懷疑態度，反映出投資人對長期持有該股的謹慎情緒。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Match Group Stock Underperforming the S&P 500?",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 10:38",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此篇為綜合性市場分析，客觀陳述 MTCH 過去一年表現落後於 S&P 500 指數的事實，並提到分析師看法分歧，未給出明確買賣建議。選擇此篇作為代表，因其涵蓋了 Barchart 的相同主題報導。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

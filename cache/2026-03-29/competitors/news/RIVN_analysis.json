@@ -1,0 +1,28 @@
+{
+  "ticker": "RIVN",
+  "company": "Rivian Automotive",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/RIVN.json",
+  "summary": {
+    "total_articles": 1,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "Rivian 股價表現疲軟，近期市場走勢落後於大盤。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Here's Why Rivian Automotive (RIVN) Fell More Than Broader Market",
+      "publisher": "Zacks",
+      "date": "2026-03-26T21:50:05Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導分析了 Rivian 股價表現弱於大盤的原因，反映出投資人對公司短期獲利能力或產能擴張進度的擔憂，導致賣壓較大。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,102 @@
+{
+  "ticker": "SPGI",
+  "company": "S&P Global",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/SPGI.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 5,
+    "overall_sentiment": "Neutral",
+    "key_theme": "公司正處於業務重組與分拆 Mobility 部門的關鍵轉型期，同時面臨總體經濟不確定性與 AI 整合帶來的估值修正挑戰。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "How The S&P Global (SPGI) Narrative Is Shifting With Issuance, AI And Valuation Revisions",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 16:08",
+      "impact": "medium",
+      "category": "市場估值",
+      "reason": "分析師將公平價值預估從 537.90 美元上調至 538.52 美元，顯示市場對其在 AI 領域的整合能力與債券發行業務持正面看法。"
+    },
+    {
+      "rank": 2,
+      "title": "Daily Roundup of Key US Economic Data for March 24",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 18:31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "S&P Global 發布的 3 月製造業採購經理人指數 (PMI) 升至 52.4，優於 2 月的 51.6，反映經濟活動擴張，有助於提升公司數據業務的市場影響力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "S&P Global: Macro Headwinds With Misunderstood AI Risks",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-26 10:26",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "市場對公司在 AI 應用上的風險認知不足，且宏觀經濟逆風可能影響其核心業務成長，投資人對其當前估值表示擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "S&P Global Ratings Says Canada's Q2 Outlook Faces Trade Uncertainty, Cautious Spending Constrains Growth",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 12:07",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "S&P Global 評級部門指出加拿大經濟面臨貿易不確定性，這類負面宏觀預測可能間接影響市場對金融服務業的整體信心。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "S&P Global Mobility Spin Off Puts Valuation And Execution In Focus",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 07:05",
+      "impact": "medium",
+      "category": "企業重組",
+      "reason": "Mobility 部門計畫分拆為獨立上市公司的消息，市場正密切關注其執行力與對母公司 SPGI 的估值影響，目前尚屬策略調整階段。"
+    },
+    {
+      "rank": 2,
+      "title": "S&P Global Announces: Mobility Global to Host Investor Day on May 12, 2026",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 13:16",
+      "impact": "low",
+      "category": "投資人關係",
+      "reason": "公司宣布 Mobility 部門將舉辦投資人日，屬於例行性的業務溝通，旨在向市場說明分拆後的業務前景。"
+    },
+    {
+      "rank": 3,
+      "title": "S&P Global Schedules First Quarter 2026 Earnings Announcement and Conference Call for Tuesday, April 28, 2026",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 14:30",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "例行性財報發布時間公告，市場將聚焦於 4 月 28 日的實際獲利表現。"
+    },
+    {
+      "rank": 4,
+      "title": "Leaders and Experts from Amazon Web Services, Google, Microsoft, NVIDIA, Meta, Dell, Applied Materials and AMD Headline Technology and Innovation Programming at CERAWeek by S&P Global",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 16:00",
+      "impact": "low",
+      "category": "市場活動",
+      "reason": "S&P Global 主辦的 CERAWeek 能源論壇，展現公司在產業影響力，但對股價無直接財務影響。"
+    },
+    {
+      "rank": 5,
+      "title": "S&P Global Awards Energy Vault Highest ESG Score for Energy Storage Company for Second Straight Year",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 12:30",
+      "impact": "low",
+      "category": "ESG 評級",
+      "reason": "公司執行 ESG 評級業務，此為其日常業務運作，對 SPGI 本身股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
