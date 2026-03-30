@@ -1,0 +1,66 @@
+{
+  "ticker": "ENPH",
+  "company": "Enphase Energy, Inc.",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/ENPH.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 1,
+    "bearish_count": 3,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場對 Enphase Energy 的估值修正與成長動能存疑，導致股價持續面臨下行壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Jefferies Maintains Buy on Enphase Energy, Lowers Price Target to $54",
+      "publisher": "Benzinga",
+      "date": "2026-03-26 12:18",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "儘管 Jefferies 分析師 Julien Dumoulin-Smith 下調了目標價至 54 美元，但仍維持「買入」評級，顯示機構投資人對其長期基本面仍具信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Enphase Energy (ENPH) Valuation Check After Recent Share Price Weakness",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-27T12:05:52Z",
+      "impact": "high",
+      "category": "財務分析",
+      "reason": "針對近期股價疲軟進行估值檢視，市場擔憂其現有估值是否過高，進一步加劇了投資人的拋售壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Enphase Energy (ENPH) Stock Dips While Market Gains: Key Facts",
+      "publisher": "Zacks",
+      "date": "2026-03-23T21:50:03Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "在整體市場上漲的背景下，ENPH 股價卻逆勢下跌，顯示該公司面臨較大的賣壓與市場情緒疲軟。"
+    },
+    {
+      "rank": 3,
+      "title": "Enphase Energy Partnerships Test Storage Growth Against Valuation And Volatility",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-19T06:07:20Z",
+      "impact": "medium",
+      "category": "業務發展",
+      "reason": "雖然公司積極拓展儲能合作夥伴關係，但市場質疑其成長速度是否足以支撐當前估值，且波動性風險依然偏高。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Investors Heavily Search Enphase Energy, Inc. (ENPH): Here is What You Need to Know",
+      "publisher": "Zacks",
+      "date": "2026-03-27T13:00:03Z",
+      "impact": "low",
+      "category": "市場關注度",
+      "reason": "該報導僅反映市場對 ENPH 的搜尋熱度增加，屬於中性的市場情緒觀察，並未提供具體的利多或利空基本面資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,101 @@
+{
+  "ticker": "VRT",
+  "company": "Vertiv",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/VRT.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 16,
+    "bearish_count": 0,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 資料中心需求激增，公司透過擴大產能與策略性併購 ThermoKey 強化競爭優勢，並獲得華爾街分析師正面評級。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "HSBC Initiates Coverage On Vertiv Holdings with Buy Rating, Announces Price Target of $325",
+      "publisher": "Benzinga",
+      "date": "2026-03-25",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "匯豐銀行分析師 Wesley Brooks 給予買進評級，並設定 325 美元目標價，顯示機構投資人對其 AI 基礎設施成長潛力的強烈信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Vertiv Announces Expansion of Manufacturing Capacity Spanning Infrastructure Solutions, Power, and Rack Systems, to Meet Rising Demand",
+      "publisher": "Yahoo",
+      "date": "2026-03-24",
+      "impact": "high",
+      "category": "產能擴張",
+      "reason": "公司宣布在美洲新增或擴建四座製造設施，直接回應 AI 資料中心對電力與機架系統的強勁需求，有利於長期營收成長。"
+    },
+    {
+      "rank": 3,
+      "title": "Vertiv Buys ThermoKey To Support AI Data Center Growth And Valuation",
+      "publisher": "Yahoo",
+      "date": "2026-03-24",
+      "impact": "medium",
+      "category": "併購活動",
+      "reason": "收購歐洲熱交換技術供應商 ThermoKey，有助於強化 Vertiv 在資料中心冷卻解決方案的技術護城河，進一步鞏固市場地位。"
+    },
+    {
+      "rank": 4,
+      "title": "VRT Rides on Accelerating Data Center Growth: A Sign for More Upside?",
+      "publisher": "Yahoo",
+      "date": "2026-03-26",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出公司訂單量與積壓訂單持續成長，顯示 AI 驅動的基礎設施需求並未放緩，基本面支撐強勁。"
+    },
+    {
+      "rank": 5,
+      "title": "Vertiv and 6 Other Stocks to Buy in the Wreckage",
+      "publisher": "Barrons.com",
+      "date": "2026-03-27",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "在市場波動環境下，被列為工業股中的首選買入標的，反映其作為 AI 基礎設施核心供應商的防禦性與成長性。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Too Late To Consider Vertiv Holdings Co (VRT) After Its 239% One Year Surge?",
+      "publisher": "Yahoo",
+      "date": "2026-03-26",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "股價在一年內飆升 239 %，引發市場對於估值是否過高（Priced for perfection）的討論，提醒投資人需關注後續獲利成長是否能支撐高本益比。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Vertiv Holdings Co. (VRT) Outpaced the Stock Market Today",
+      "publisher": "Yahoo",
+      "date": "2026-03-25",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "單純回顧當日股價上漲 1.95 % 的市場表現，屬於盤後數據整理，對未來股價走勢無直接預測性。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Trending Stock Vertiv Holdings Co. (VRT) a Buy Now?",
+      "publisher": "Yahoo",
+      "date": "2026-03-24",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "僅為 Zacks.com 用戶關注度分析，提供投資人檢視標的的切入點，並未給出明確的買賣建議。"
+    },
+    {
+      "rank": 4,
+      "title": "As Vertiv Joins S&P 500, Should You Buy Now or Is It Too Late?",
+      "publisher": "Yahoo",
+      "date": "2026-03-24",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討納入 S & P 500 指數後的投資策略，內容偏向中立的市場觀點，強調公司已是贏家但需評估進場時機。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,66 @@
+{
+  "ticker": "NET",
+  "company": "Cloudflare",
+  "analysis_date": "2026-03-30",
+  "source_file": "cache/2026-03-30/holdings/news/NET.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "Mixed",
+    "key_theme": "市場對 Cloudflare 在 AI 領域的成長潛力與高估值風險存在嚴重分歧，近期股價受 AI 競爭擔憂與基本面估值壓力影響。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "With Help From Its AI Ventures, Cloudflare Is Poised To Surge",
+      "publisher": "Investor's Business Daily",
+      "date": "2026-03-26",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導強調 Cloudflare 透過 AI 代理 (AI Agents) 業務的佈局，具備強大的成長動能，市場看好其在 AI 基礎設施領域的長期競爭力。"
+    },
+    {
+      "rank": 2,
+      "title": "Cloudflare: Loaded Up At $170, Where I'll Load Up Next",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-23",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "分析師指出公司營收年增率達 34 %，積壓訂單 (Backlog) 成長 48 %，且客戶留存率高達 120 %，顯示其核心業務基本面極為強勁。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare Stock Slides On Anthropic Leak, AI Competition Concerns",
+      "publisher": "Benzinga",
+      "date": "2026-03-27",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Anthropic 的洩漏事件引發市場對 AI 領域競爭加劇的擔憂，直接導致 Cloudflare 股價在當日出現明顯下跌，反映投資人對 AI 護城河的焦慮。"
+    },
+    {
+      "rank": 2,
+      "title": "Cloudflare: Avoid Stablecoin Hype",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-24",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "分析師警告公司 2026 年成長放緩，且約 200 倍的預期本益比 (Forward P/E) 過高，認為目前的股價漲幅過度依賴 AI 與穩定幣題材，缺乏基本面支撐。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "$100 Invested In Cloudflare 5 Years Ago Would Be Worth This Much Today",
+      "publisher": "Benzinga",
+      "date": "2026-03-24",
+      "impact": "low",
+      "category": "歷史回顧",
+      "reason": "此類文章僅為歷史績效回顧，對當前股價走勢與未來基本面判斷無直接影響，屬於中性市場資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

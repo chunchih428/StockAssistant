@@ -1,0 +1,66 @@
+{
+  "ticker": "ACMR",
+  "company": "ACM Research, Inc.",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/ACMR.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 1,
+    "bearish_count": 3,
+    "neutral_count": 2,
+    "overall_sentiment": "bearish",
+    "key_theme": "近期股價表現疲軟，市場正重新評估其估值與技術面支撐。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Is ACM Research (ACMR) Outperforming Other Computer and Technology Stocks This Year?",
+      "publisher": "Zacks",
+      "date": "2026-03-25",
+      "impact": "medium",
+      "category": "市場表現",
+      "reason": "文章探討了 ACMR 在科技板塊中的相對強勢地位，儘管近期回調，但長期成長潛力仍受市場關注。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "ACM Research, Inc. (ACMR) Declines More Than Market: Some Information for Investors",
+      "publisher": "Zacks",
+      "date": "2026-03-26",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "該報導涵蓋了近期股價跌幅超過大盤的現象，反映出投資人對該公司短期動能的擔憂，並彙整了 3 月 20 日類似的下跌趨勢報導，作為近期股價疲軟的代表性分析。"
+    },
+    {
+      "rank": 2,
+      "title": "Assessing ACM Research (ACMR) Valuation After A Sharp One Month Share Price Pullback",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-19",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "針對一個月內股價大幅回調進行估值修正分析，提醒投資人注意潛在的估值過高風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "AMAT vs. ACMR: Which WFE Stock is the Better Buy Right Now?",
+      "publisher": "Zacks",
+      "date": "2026-03-27",
+      "impact": "low",
+      "category": "產業比較",
+      "reason": "將 ACMR 與產業龍頭 AMAT 進行比較，提供投資人產業配置的參考，並未直接對 ACMR 本身給出買賣建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Are Options Traders Betting on a Big Move in ACM Research Stock?",
+      "publisher": "Zacks",
+      "date": "2026-03-26",
+      "impact": "low",
+      "category": "衍生性商品",
+      "reason": "分析選擇權市場的交易活動，顯示市場預期波動性增加，但方向性不明確，屬於技術面觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

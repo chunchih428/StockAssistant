@@ -1,0 +1,102 @@
+{
+  "ticker": "RBRK",
+  "company": "Rubrik",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/RBRK.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 4,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "Rubrik 展現強勁的營運成長與 AI 產品整合能力，儘管股價面臨分析師目標價下調與市場情緒波動，但基本面表現優異。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Rubrik: Ignore The Headlines; Focus On This Exploding Free Cash Flow",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-23",
+      "impact": "high",
+      "category": "財務表現",
+      "reason": "公司營收年增率達 42 %，且自由現金流表現強勁，顯示其核心業務具備極高的獲利潛力，足以支撐未來 25 % 的成長預期。"
+    },
+    {
+      "rank": 2,
+      "title": "Rubrik Expands Cybersecurity Capabilities With Microsoft",
+      "publisher": "Benzinga",
+      "date": "2026-03-23",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "透過與 Microsoft 的深度整合（Active Directory 與 Entra ID），強化了身份安全與資料恢復能力，有助於擴大企業級市場市佔率。"
+    },
+    {
+      "rank": 3,
+      "title": "Rubrik announces new integration with Microsoft Defender at RSAC 2026",
+      "publisher": "TipRanks",
+      "date": "2026-03-24",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "在 RSAC 2026 大會宣布與 Microsoft Defender 整合，進一步鞏固其在資安生態系統中的戰略地位。"
+    },
+    {
+      "rank": 4,
+      "title": "Rubrik CEO on Balancing AI Growth and Cybersecurity",
+      "publisher": "WSJ",
+      "date": "2026-03-24",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "執行長針對 AI 成長與資安防護的平衡策略進行說明，有助於提升投資人對公司長期技術願景的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Rubrik (RBRK) Price Target Decreased by 17.25% to 89.09",
+      "publisher": "Fintel",
+      "date": "2026-03-28",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "分析師將目標價大幅下調 17.25 %，直接對市場信心造成負面衝擊，反映出機構投資人對其估值溢價的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Rubrik: Excellent Operational Performance But Stock Performance Lagging",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-25",
+      "impact": "medium",
+      "category": "財務表現",
+      "reason": "儘管財報數據亮眼，但股價表現持續落後，顯示市場對其高估值存在疑慮，導致買盤動能不足。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Does Rubrik’s New SAGE AI Governance And Defender Integration Change The Bull Case For RBRK?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-24",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析文章探討新產品對投資邏輯的影響，持中立觀點，旨在引導投資人評估技術進展是否足以扭轉股價頹勢。"
+    },
+    {
+      "rank": 2,
+      "title": "Rubrik Expands Cyber Recovery Reach As Shares Trade Below Analyst Targets",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出公司業務擴張與股價低於目標價的現狀，屬於客觀事實陳述，未給予明確買賣建議。"
+    },
+    {
+      "rank": 3,
+      "title": "Assessing Whether Rubrik (RBRK) Is Undervalued After Recent Share Price Weakness",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對股價疲軟進行估值評估，提供多空雙方觀點，未有明確的市場導向結論。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

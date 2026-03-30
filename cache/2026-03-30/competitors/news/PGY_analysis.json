@@ -1,0 +1,66 @@
+{
+  "ticker": "PGY",
+  "company": "Pagaya Technologies Ltd.",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/PGY.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "neutral",
+    "key_theme": "公司持續透過資產證券化擴大融資規模，但股價表現受市場波動與獲利能力風險的雙重拉鋸影響。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Pagaya Technologies Announces Auto Resecuritization Transaction, RPM-2026-R1, Closing At ~$450M",
+      "publisher": "Benzinga",
+      "date": "2026-03-24",
+      "impact": "high",
+      "category": "資本運作",
+      "reason": "公司成功完成約 4.5 億美元的汽車貸款再證券化交易，顯示其資產負債表管理能力與市場對其資產品質的信心，有助於提升流動性。"
+    },
+    {
+      "rank": 2,
+      "title": "Pagaya Technologies Ltd. (PGY) Advances While Market Declines: Some Information for Investors",
+      "publisher": "Zacks",
+      "date": "2026-03-19",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "在整體市場下跌背景下展現抗跌性與逆勢上漲，顯示短期內有買盤支撐，反映投資人對其特定業務模式的認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Pagaya Technologies Ltd. (PGY) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "publisher": "Zacks",
+      "date": "2026-03-27",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價跌幅大於大盤，反映出市場對該公司的高波動性與風險溢價的擔憂，短期賣壓較重。"
+    },
+    {
+      "rank": 2,
+      "title": "PGY Stock: Is Pagaya's Profit Momentum Worth the Risk?",
+      "publisher": "Zacks",
+      "date": "2026-03-23",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "文章探討獲利動能與潛在風險的平衡，暗示投資人對其獲利的可持續性存疑，這類基本面質疑通常會抑制股價估值。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Pagaya Technologies (PGY) Pricing Look Anomaly After Sharp Year To Date Share Slide",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-24",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "針對年初至今的股價大幅修正進行估值合理性探討，未給出明確買進或賣出建議，屬於中性的市場觀察報告。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

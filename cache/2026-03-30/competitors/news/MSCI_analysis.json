@@ -1,0 +1,57 @@
+{
+  "ticker": "MSCI",
+  "company": "MSCI",
+  "analysis_date": "2026-03-30",
+  "source_file": "cache/2026-03-30/competitors/news/MSCI.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "neutral",
+    "key_theme": "市場正針對 MSCI 的成長動能與估值進行重新評估，儘管股價近期疲軟，但分析師目標價仍顯示長期上漲潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "How The MSCI (MSCI) Narrative Is Shifting Around Growth Momentum Valuation And ETF Dependence",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 10:05",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "分析師將 MSCI 的公允價值定於 678.31 美元，且華爾街目標價區間上調至 690 至 710 美元，顯示市場對其長期成長動能與 ETF 依賴度的正面看法。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "A Look At MSCI (MSCI) Valuation As Growth Initiatives Face Profitability And Risk Questions",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 02:05",
+      "impact": "medium",
+      "category": "財務風險",
+      "reason": "市場對 MSCI 的成長計畫提出質疑，特別是關於獲利能力與潛在風險的擔憂，這對股價估值構成壓力，選此篇作為代表是因為其深入探討了投資人對公司基本面的疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Time To Reassess MSCI (MSCI) After Recent Share Price Weakness?",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 16:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對近期股價跌至 523 美元後的投資價值進行探討，屬於中性的市場觀察，旨在引導投資人思考是否為進場時機，而非明確的買賣建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Fosun International's MSCI ESG Rating Upgraded to AAA, Reaching a Record High",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 08:10",
+      "impact": "low",
+      "category": "ESG 評級",
+      "reason": "此新聞主要報導復星國際的 ESG 評級提升，雖顯示 MSCI 評級業務的運作，但對 MSCI 本身股價的直接財務影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

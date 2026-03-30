@@ -1,0 +1,66 @@
+{
+  "ticker": "CME",
+  "company": "CME",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/CME.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "CME Group 透過技術創新與預測市場業務擴張展現成長潛力，儘管面臨分析師對資產配置的建議分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "BMO Is First Bank to Join CME's Tokenized Cash Platform on Google Cloud",
+      "publisher": "Yahoo",
+      "date": "2026-03-24",
+      "impact": "high",
+      "category": "技術創新",
+      "reason": "BMO 成為首家加入 CME 代幣化現金平台的銀行，顯示其在金融科技與機構級結算服務的領先地位，有助於提升長期營收動能。"
+    },
+    {
+      "rank": 2,
+      "title": "Trump Says Prediction Markets Beat 'Fake Polls'—And HOOD, CME Race To Cash In On The Boom",
+      "publisher": "Benzinga",
+      "date": "2026-03-26",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "預測市場的興起獲得政治人物背書，CME 作為該領域的關鍵參與者，有望從市場交易量的成長中獲益。"
+    },
+    {
+      "rank": 3,
+      "title": "How The Evolving Investment Story Is Shaping CME Group (CME) Valuation Expectations",
+      "publisher": "Yahoo",
+      "date": "2026-03-27",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "分析師將 CME 的合理價值預估從 305.21 美元微幅上調至 306.86 美元，反映市場對其基本面持正面看法。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Jim Cramer Recommends Goldman Sachs Over CME Group",
+      "publisher": "Yahoo",
+      "date": "2026-03-27",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名評論員 Jim Cramer 建議投資人選擇 Goldman Sachs 而非 CME，此類公開建議可能影響散戶投資人的資金配置流向。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "The Bull Case For CME Group (CME) Could Change Following Rising Fed Hike Odds And New Futures Launch",
+      "publisher": "Yahoo",
+      "date": "2026-03-22",
+      "impact": "low",
+      "category": "財報與資本運作",
+      "reason": "報導提及 CME 提交 4.66 億美元的股票註冊申請，並討論聯準會升息預期對其期貨業務的影響，屬於中性的營運與資本結構調整資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

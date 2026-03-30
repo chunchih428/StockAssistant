@@ -1,0 +1,48 @@
+{
+  "ticker": "MKSI",
+  "company": "MKS Inc.",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/MKSI.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "Neutral to Bullish",
+    "key_theme": "市場對 MKS Instruments 在 AI 驅動的 PCB 與晶圓製造設備 (WFE) 領域的長期成長潛力持樂觀態度，儘管近期股價因財報後波動而承壓。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "MKS Inc.: Long-Term Structural Growth From Rising Semi And PCB Complexity",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-24 12:50",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "該分析指出 MKS Instruments 受益於 AI 驅動的 PCB 與 WFE 需求成長，且產品組合轉向高利潤率產品，相較於同業具有估值優勢，是長期投資的買入標的。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "MKS (MKSI) Down 6.8% Since Last Earnings Report: Can It Rebound?",
+      "publisher": "Zacks",
+      "date": "2026-03-19 15:30",
+      "impact": "medium",
+      "category": "財報表現",
+      "reason": "財報公布後股價下跌 6.8 %，反映市場對短期業績表現或指引的擔憂，短期內股價面臨技術性修正壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "TER vs. MKSI: Which Semiconductor Stock Is a Better Buy Now?",
+      "publisher": "Zacks",
+      "date": "2026-03-19 15:07",
+      "impact": "low",
+      "category": "市場比較",
+      "reason": "此文章為同業比較分析，旨在協助投資人評估 Teradyne (TER) 與 MKS Instruments (MKSI) 的投資價值，並未對 MKSI 本身給出明確的買賣方向，屬中性市場觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

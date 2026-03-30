@@ -1,0 +1,93 @@
+{
+  "ticker": "EMR",
+  "company": "Emerson Electric",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/EMR.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 1,
+    "bearish_count": 3,
+    "neutral_count": 4,
+    "overall_sentiment": "bearish",
+    "key_theme": "近期股價回調與內部人減持引發市場觀望，分析師給予中性評級反映估值合理性。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Emerson Electric: A Welcomed Setback",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-23 02:53",
+      "impact": "medium",
+      "category": "投資建議",
+      "reason": "文章指出 Emerson Electric 從高點回調超過 20 %，認為其基本面強勁，目前的股價修正提供了具吸引力的長線佈局點。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Emerson Electric Insiders Sold US$7.8m Of Shares Suggesting Hesitancy",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 11:00",
+      "impact": "medium",
+      "category": "公司治理",
+      "reason": "內部人於過去一年內拋售價值 780 萬美元的股票，市場解讀為管理層對公司未來短期表現持保留態度，可能對股價造成壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Emerson Electric (EMR) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 22:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 3.48 %，表現弱於大盤，顯示短期賣壓較重，投資人需關注技術面支撐。"
+    },
+    {
+      "rank": 3,
+      "title": "Emerson Electric (EMR) Stock Moves -1.35%: What You Should Know",
+      "publisher": "Zacks",
+      "date": "2026-03-20 21:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價出現 1.35 % 的跌幅，反映近期市場情緒偏向保守，投資人對該股的波動性保持警惕。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "BMO Capital Initiates Coverage On Emerson Electric with Market Perform Rating, Announces Price Target of $150",
+      "publisher": "Benzinga",
+      "date": "2026-03-27 08:54",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "BMO Capital 分析師 Daniel DiCicco 給予「市場表現」評級，目標價設定為 150 美元，顯示分析師認為目前股價已反映其內在價值，缺乏進一步上漲的催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Investors Heavily Search Emerson Electric Co. (EMR): Here is What You Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導僅反映市場對 EMR 的搜尋熱度增加，並未提供具體的利多或利空消息，屬於市場關注度提升的現象。"
+    },
+    {
+      "rank": 3,
+      "title": "Here Are Friday’s Top Wall Street Analyst Research Calls",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 12:04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 EMR 列入華爾街研究報告清單中，屬於例行性的市場資訊彙整，對股價無直接影響。"
+    },
+    {
+      "rank": 4,
+      "title": "BMO Capital Initiates Coverage of Emerson Electric (EMR) with Market Perform Recommendation",
+      "publisher": "Fintel",
+      "date": "2026-03-28 00:04",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "此為 BMO Capital 評級報告的重複報導，內容與前述 Benzinga 報導一致，故歸類為中性資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

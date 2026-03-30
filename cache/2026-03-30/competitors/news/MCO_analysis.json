@@ -1,0 +1,75 @@
+{
+  "ticker": "MCO",
+  "company": "Moody's",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/MCO.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 2,
+    "bearish_count": 3,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場對私募信貸違約風險的擔憂與內部人減持行為，抵銷了公司在區塊鏈技術創新與長期價值投資的正面預期。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Moody's Corporation: Cheap Enough And Well-Protected",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-26 11:01",
+      "impact": "medium",
+      "category": "投資分析",
+      "reason": "分析師認為 MCO 具備高品質商業模式，近期股價回調屬於過度反應，目前估值已回到合理區間，具備長期投資價值。"
+    },
+    {
+      "rank": 2,
+      "title": "Moody’s On Chain Credit Push And What It Could Mean For MCO",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 14:03",
+      "impact": "low",
+      "category": "產品創新",
+      "reason": "公司推出代幣整合引擎 (TIE) 將信用洞察與區塊鏈技術結合，展現了數位轉型與技術創新的潛力，有助於擴大未來業務護城河。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Moody's Insiders Sell US$4.3m Of Stock, Possibly Signalling Caution",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 14:00",
+      "impact": "high",
+      "category": "公司治理",
+      "reason": "多位內部人拋售價值 430 萬美元的股票，此舉通常被市場解讀為管理層對公司短期股價表現持謹慎態度，容易引發投資人恐慌。"
+    },
+    {
+      "rank": 2,
+      "title": "Moody's cuts rating on private credit fund run by KKR and Future Standard to junk as bad loans grow",
+      "publisher": "CNBC",
+      "date": "2026-03-24 07:20",
+      "impact": "medium",
+      "category": "信用評級",
+      "reason": "將 KKR 等機構管理的私募信貸基金降級至垃圾級，反映出私募信貸市場違約風險上升，可能影響 Moody's 在該領域的評級業務聲譽與未來業務量。"
+    },
+    {
+      "rank": 3,
+      "title": "Private Credit Is Having Its Moment…Unfortunately It’s This One",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 15:27",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此文彙整了包括 Moody's 降級 KKR 基金在內的私募信貸市場壓力，進一步加深市場對該資產類別系統性風險的擔憂，對 Moody's 評級業務構成潛在負面輿論壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Moody's (MCO) Recent Share Price Weakness Creating A Long Term Opportunity For Investors",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 12:04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章探討股價弱勢是否為買入機會，屬於中性市場觀察，未提供明確的看多或看空結論，僅供投資人參考估值合理性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

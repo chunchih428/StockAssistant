@@ -1,0 +1,57 @@
+{
+  "ticker": "MPWR",
+  "company": "Monolithic Power Systems",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/MPWR.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "儘管公司在 Blackwell 平台表現強勁，但近期內部人大量拋售股票以及市場對新演算法競爭的擔憂，導致股價面臨修正壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Monolithic Power ( MPWR ) Gained as Its Blackwell Platform Fared Stronger",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 11:48",
+      "impact": "medium",
+      "category": "業務成長",
+      "reason": "根據 Brown Advisory 的報告，MPWR 在 Blackwell 平台上的表現優於預期，顯示其在 AI 硬體供應鏈中的核心競爭力與市占率穩固。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Insiders At Monolithic Power Systems Sold US$383m In Stock, Alluding To Potential Weakness",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 11:00",
+      "impact": "high",
+      "category": "高層異動",
+      "reason": "內部人拋售高達 3.83 億美元的股票，通常被市場解讀為管理層對公司未來成長潛力或股價估值過高的擔憂，引發投資人恐慌。"
+    },
+    {
+      "rank": 2,
+      "title": "Kulicke and Soffa, Lam Research, Monolithic Power Systems, MACOM, and FormFactor Stocks Trade Down, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 21:34",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場對 Google 新推出的 TurboQuant 演算法反應負面，導致半導體類股集體下跌，MPWR 作為供應鏈一環受到產業情緒拖累。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Too Late To Consider Monolithic Power Systems ( MPWR ) After Its 82% One Year Surge?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-21 23:04",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "該文章探討過去一年 82% 的漲幅是否已透支未來成長，屬於中性的估值分析，未提供明確的買賣建議，僅提醒投資人注意高基期風險。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

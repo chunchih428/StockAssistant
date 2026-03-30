@@ -1,0 +1,102 @@
+{
+  "ticker": "GM",
+  "company": "General Motors",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/GM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "華爾街分析師看好 GM 營運前景並調升評級，加上公司在南韓擴大投資與自動駕駛技術測試取得進展，抵銷了電動車市場需求疲軟的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Wolfe Research Upgrades General Motors to Outperform, Announces $96 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-03-25 07:53",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Wolfe Research 分析師 Emmanuel Rosner 將 GM 評級從 Peer Perform 調升至 Outperform，並給出 96 美元的目標價，顯示對公司未來獲利能力的強烈信心。"
+    },
+    {
+      "rank": 2,
+      "title": "GM to invest US$600 in its South Korean operations",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 09:29",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "GM 宣布投資 6 億美元於南韓業務，此舉不僅強化了小型 SUV 的生產能力，更有效緩解了市場對於 GM 可能退出該地區的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "General Motors Starts Eyes-Off Road Testing",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 17:25",
+      "impact": "medium",
+      "category": "技術研發",
+      "reason": "GM 開始進行下一代「脫手」自動駕駛系統的公開道路測試，展現其在軟體與自動駕駛領域的技術競爭力，並計畫將此技術擴展至全產品線。"
+    },
+    {
+      "rank": 4,
+      "title": "Valeo breaks ground on $225m manufacturing plant in US",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 19:23",
+      "impact": "low",
+      "category": "供應鏈合作",
+      "reason": "Valeo 在美國投資 2.25 億美元設廠，專門生產 GM 的中央運算單元，顯示 GM 在車用軟體與數據處理硬體供應鏈上的深度布局。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Gene Munster Says Upcoming Tesla Deliveries Will Be 'First Good Read,' As Ford, GM Scale Back EV Ambitions",
+      "publisher": "Benzinga",
+      "date": "2026-03-28 03:12",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場對於電動車需求放緩的擔憂持續存在，GM 縮減電動車野心的策略反映了當前產業面臨的成長壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "General Motors (GM) Stock Moves -1.32%: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "反映短期股價波動，單日下跌 1.32 % 屬於正常的市場修正，未有重大基本面利空。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "GM Financial to Release First Quarter 2026 Operating Results",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 17:34",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "公司預告將發布第一季財報，屬於例行性公告，市場正等待具體數據以評估獲利表現。"
+    },
+    {
+      "rank": 2,
+      "title": "GM, Jeep Parent Stellantis Say No Disruptions After Ohio Glass Factory Fire",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 21:31",
+      "impact": "low",
+      "category": "營運狀況",
+      "reason": "儘管發生火災，但公司確認未對生產造成中斷，屬於風險排除的正面消息，但對股價影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "Ford stock drops, but GM, Stellantis up for week ending March 27",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 12:13",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "總結過去一週股價表現，GM 表現優於 Ford，反映了投資人對 GM 近期策略的相對認可。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

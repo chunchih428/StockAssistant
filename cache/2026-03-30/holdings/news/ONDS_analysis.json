@@ -1,0 +1,102 @@
+{
+  "ticker": "ONDS",
+  "company": "Ondas",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/holdings/news/ONDS.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 13,
+    "bearish_count": 2,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司憑藉強勁的 Q4 營收成長與 2026 年高成長展望，獲得分析師調升目標價與評級，儘管近期因二次發行股票引發稀釋擔憂，但整體市場對其轉型國防與機器人平台的長期潛力持樂觀態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ondas: From Drone Niche To Defense Platform (Rating Upgrade)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-27 17:20",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師將評級調升至「強力買入」，強調公司從無人機利基市場轉型為國防平台的策略成功，且 3.75 億美元的營收指引是關鍵轉折點。"
+    },
+    {
+      "rank": 2,
+      "title": "Needham Maintains Buy on Ondas, Raises Price Target to $23",
+      "publisher": "Benzinga",
+      "date": "2026-03-24 06:12",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Needham 分析師 Austin Bohlig 將目標價從 17 美元大幅調升至 23 美元，反映對公司成長動能的高度信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Ondas Stock Is Climbing Tuesday After Record Q4 Results",
+      "publisher": "Benzinga",
+      "date": "2026-03-24 10:24",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司公布創紀錄的 Q4 財報，營收年增 629 % 達 3,010 萬美元，並上調 2026 年營收展望至 3.75 億美元，強勁的基本面支撐股價上漲。"
+    },
+    {
+      "rank": 4,
+      "title": "Ondas Inc. (ONDS) Wins Bullish Backing on Mistral Deal and Robotics Reach",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-26 19:41",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場看好公司透過 Mistral 交易擴大在機器人與國防領域的影響力，進一步鞏固其產業地位。"
+    },
+    {
+      "rank": 5,
+      "title": "Ondas To Acquire World View Enterprises; Terms Not Disclosed",
+      "publisher": "Benzinga",
+      "date": "2026-03-23 08:40",
+      "impact": "medium",
+      "category": "併購活動",
+      "reason": "宣布收購 World View Enterprises，顯示公司積極透過併購擴張業務版圖，有助於長期成長。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ondas Files Secondary Offering Of 1.926M Common Shares",
+      "publisher": "Benzinga",
+      "date": "2026-03-26 08:57",
+      "impact": "high",
+      "category": "股權融資",
+      "reason": "公司宣布進行 192.6 萬股的二次發行，導致市場擔憂股權稀釋，進而引發股價回調壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Ondas Holdings Q4 EPS $(0.36) Misses $(0.05) Estimate",
+      "publisher": "Benzinga",
+      "date": "2026-03-23 08:18",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "雖然營收優於預期，但每股虧損 0.36 美元遜於市場預期的 0.05 美元虧損，顯示獲利能力仍面臨挑戰。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ondas Inc. (ONDS) Q4 2025 Earnings Call Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-25 16:15",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "提供財報會議詳細內容，供投資人了解管理層對未來策略的說明，屬於資訊揭露性質。"
+    },
+    {
+      "rank": 2,
+      "title": "Ondas, GameStop, PDD and More Stocks With Earnings This Week",
+      "publisher": "Benzinga",
+      "date": "2026-03-23 17:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅提及 Ondas 為本週公布財報的觀察名單之一，未對公司基本面進行評價。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

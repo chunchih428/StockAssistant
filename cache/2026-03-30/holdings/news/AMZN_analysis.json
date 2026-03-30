@@ -1,0 +1,165 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 6,
+    "bearish_count": 8,
+    "neutral_count": 6,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場對 Amazon 在 AI 領域的高額資本支出與債務壓力感到擔憂，且核心 AI 晶片部門的人事動盪加劇了投資人對其技術競爭力的疑慮。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bernstein Says Qualcomm Isn’t an AI Winner. Try Top-Rated Nvidia or Amazon Stock Instead.",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 20:10",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析師看好 Amazon 在雲端基礎設施與 AI 領域的長期競爭優勢，將其列為 AI 浪潮下的首選標的。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon Rides on New Logistics and Delivery Innovations: What's Ahead?",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 17:00",
+      "impact": "medium",
+      "category": "營運策略",
+      "reason": "透過物流創新與自動化技術降低成本，持續強化電商業務的護城河，有助於提升長期獲利能力。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon just made a move that could change how you shop everywhere",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 02:03",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "測試將 Prime 會員權益擴展至第三方網站，若成功推廣將顯著提升 Prime 生態系的黏著度與市場份額。"
+    },
+    {
+      "rank": 4,
+      "title": "Amazon acquires 'approachable' humanoid maker Fauna Robotics",
+      "publisher": "CNBC",
+      "date": "2026-03-24 17:05",
+      "impact": "low",
+      "category": "併購活動",
+      "reason": "收購機器人公司 Fauna Robotics 顯示 Amazon 積極布局自動化倉儲與未來機器人技術，具備長期戰略價值。"
+    },
+    {
+      "rank": 5,
+      "title": "1 Underrated Reason to Invest in Amazon Stock",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 15:05",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "強調公司擁有豐富的資產組合，在多個業務領域具備強大的變現潛力。"
+    },
+    {
+      "rank": 6,
+      "title": "Amazon rolls out locker collection service in the Netherlands",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 11:41",
+      "impact": "low",
+      "category": "市場擴張",
+      "reason": "在荷蘭擴展物流儲物櫃服務，有助於優化歐洲市場的最後一哩路配送效率。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Amazon Chip Division Hit By Second Senior Exit In Months",
+      "publisher": "Benzinga",
+      "date": "2026-03-27 07:31",
+      "impact": "high",
+      "category": "高層異動",
+      "reason": "選取此篇代表相關系列報導。Annapurna Labs 晶片部門高層頻繁離職，引發市場對 Trainium AI 晶片研發進度與競爭力的嚴重質疑。"
+    },
+    {
+      "rank": 2,
+      "title": "Stock Market Today, March 27: Amazon Falls as AI Spending Raises Margin Pressure",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 21:41",
+      "impact": "high",
+      "category": "財報與獲利",
+      "reason": "市場擔憂 AI 相關資本支出過高將壓縮利潤空間，導致股價單日下跌 3 %。"
+    },
+    {
+      "rank": 3,
+      "title": "Meta, Amazon And Big Tech Is Driving A $140 Billion AI Debt Tsunami Spooking Wall Street",
+      "publisher": "Benzinga",
+      "date": "2026-03-27 12:52",
+      "impact": "medium",
+      "category": "財務狀況",
+      "reason": "大型科技公司為 AI 融資累積龐大債務，引發華爾街對信用風險與資本配置效率的擔憂。"
+    },
+    {
+      "rank": 4,
+      "title": "Amazon.com (AMZN) Underperformed Despite Strong Positioning in AI and Cloud",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 16:37",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "儘管在 AI 與雲端領域布局強勁，但股價表現仍落後，反映投資人對其執行力與獲利轉化速度的疑慮。"
+    },
+    {
+      "rank": 5,
+      "title": "Who in Big Tech Is Ready for Agentic AI? — Amazon is fighting Perplexity",
+      "publisher": "Yahoo",
+      "date": "2026-03-29 01:47",
+      "impact": "low",
+      "category": "法律訴訟",
+      "reason": "與 Perplexity 在購物代理 AI 領域的競爭與法律糾紛，顯示傳統科技巨頭在面對新興 AI 創企時的防禦壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Market Chatter: Amazon-Backed Anthropic Wins Early Round in Pentagon Legal Battle",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 08:48",
+      "impact": "low",
+      "category": "法律訴訟",
+      "reason": "Amazon 投資的 Anthropic 在法律戰中獲勝，對 Amazon 本身股價影響間接且有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Vanguard’s VCR ETF Carries 40% Amazon and Tesla Exposure",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 13:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為 ETF 持倉結構分析，反映市場資金流向，非公司基本面變動。"
+    },
+    {
+      "rank": 3,
+      "title": "Deal Dispatch: Estée Lauder Considers Merger, KKR Buys Nothing Bundt Cakes, Amazon Acquires Fauna Robotics",
+      "publisher": "Benzinga",
+      "date": "2026-03-27 15:29",
+      "impact": "low",
+      "category": "併購活動",
+      "reason": "彙整多項市場併購消息，Amazon 的收購僅為其中一部分，影響力被稀釋。"
+    },
+    {
+      "rank": 4,
+      "title": "Amazon vs Walmart: Which is a Better Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 16:06",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "常見的同業比較分析，未提供新的基本面資訊。"
+    },
+    {
+      "rank": 5,
+      "title": "Had You Invested $1,000 in Amazon or Google 10 Years Ago, Here’s What You’d Have Now",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 12:40",
+      "impact": "low",
+      "category": "歷史回顧",
+      "reason": "純屬歷史績效回顧，對當前股價走勢無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

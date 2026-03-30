@@ -1,0 +1,84 @@
+{
+  "ticker": "GDDY",
+  "company": "GoDaddy",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/GDDY.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 2,
+    "bearish_count": 3,
+    "neutral_count": 2,
+    "overall_sentiment": "混合偏空",
+    "key_theme": "儘管 GoDaddy 近期財報表現優於預期並上調展望，但股價長期表現疲軟且面臨分析師大幅下調目標價的壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Did Strong Q4 Results and Upgraded 2026 Outlook Just Shift GoDaddy's (GDDY) Investment Narrative?",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 10:06",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司 2025 年第四季財報營收與獲利均優於市場預期，且上調 2026 年財務展望，顯示核心業務具備韌性。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Is GoDaddy (GDDY) Up 3.1% Since Last Earnings Report?",
+      "publisher": "Zacks",
+      "date": "2026-03-26 15:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "財報發布後股價出現 3.1 % 的漲幅，反映市場對其獲利能力改善的正面反應。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "GoDaddy (GDDY) Price Target Decreased by 31.21% to 117.70",
+      "publisher": "Fintel",
+      "date": "2026-03-27 17:36",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "目標價遭大幅下調 31.21 %，顯示機構投資人對其未來成長動能與估值修正的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "3 Reasons GDDY is Risky and 1 Stock to Buy Instead",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 16:36",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "指出過去六個月股價下跌 42.4 %，並強調公司面臨的風險因素，建議投資人轉向其他標的。"
+    },
+    {
+      "rank": 3,
+      "title": "Is GoDaddy Stock Underperforming the Nasdaq?",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 12:51",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析顯示 GDDY 過去一年表現明顯落後於 Nasdaq 指數，顯示其相對於大盤的疲軟態勢。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Building Confidence and Community: Meet Athira Nambiath Asokan",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 14:30",
+      "impact": "low",
+      "category": "企業文化",
+      "reason": "屬於企業資源庫的訪談內容，主要介紹員工與社群建設，對股價無直接財務影響。"
+    },
+    {
+      "rank": 2,
+      "title": "What We Learned From Talking to Hundreds of Web Designers and Developers in 2025",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 14:00",
+      "impact": "low",
+      "category": "市場研究",
+      "reason": "分享產業洞察報告，屬於品牌行銷與市場研究範疇，對短期股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

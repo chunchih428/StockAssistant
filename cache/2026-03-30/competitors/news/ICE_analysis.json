@@ -1,0 +1,66 @@
+{
+  "ticker": "ICE",
+  "company": "Intercontinental Exchange",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/ICE.json",
+  "summary": {
+    "total_articles": 12,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "ICE 透過完成對 Polymarket 的 16.4 億美元投資展現強勁資本實力，同時受惠於地緣政治不確定性帶動的交易量激增。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Intercontinental Exchange Announces New $600 Million Investment in Polymarket",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 12:00",
+      "impact": "high",
+      "category": "策略投資",
+      "reason": "ICE 完成對預測市場平台 Polymarket 的 6 億美元注資，使其總持股價值達到 16.4 億美元，顯示公司積極布局新興金融科技領域的決心。"
+    },
+    {
+      "rank": 2,
+      "title": "ICE Reports Record Market Activity as Customers Respond to Middle East Impacts",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 11:30",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "受中東局勢影響，ICE 旗下商品與能源期貨（如原油、天然氣及布蘭特原油）交易量創下歷史新高，直接推升交易手續費收入預期。"
+    },
+    {
+      "rank": 3,
+      "title": "New York Stock Exchange and Securitize Agree to Memorandum of Understanding to Support Tokenized Securities",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 12:00",
+      "impact": "medium",
+      "category": "業務合作",
+      "reason": "NYSE 與 Securitize 合作推動證券代幣化系統，顯示 ICE 在數位資產基礎設施領域的技術領先地位，有助於未來開拓新業務模式。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "ICE First Look at Mortgage Performance: Prepayments Rise on Recent Refinance Activity and Serious Delinquencies Increase as Cure Rates Slow",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 13:00",
+      "impact": "medium",
+      "category": "市場數據",
+      "reason": "房貸績效報告顯示嚴重拖欠率上升且修復率放緩，這可能對 ICE 的房貸技術與數據服務部門的長期營收成長構成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Canlan Sports Reports Record $100 Million in Revenue and 14% Growth in Operating Earnings for 2025",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 18:44",
+      "impact": "low",
+      "category": "其他公司",
+      "reason": "此新聞涉及代號同樣為 ICE 的 Canlan Sports Corp.，與 Intercontinental Exchange 無關，屬於誤報。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,120 @@
+{
+  "ticker": "META",
+  "company": "Meta",
+  "analysis_date": "2026-03-30",
+  "source_file": "cache/2026-03-30/holdings/news/META.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 3,
+    "bearish_count": 13,
+    "neutral_count": 4,
+    "overall_sentiment": "bearish",
+    "key_theme": "Meta 面臨嚴峻的法律訴訟與監管壓力，儘管 AI 基礎設施投資持續推進，但市場情緒受法律敗訴與機構減持影響而轉趨保守。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Meta Just Made a Nuclear Power Bet Worth 6.6 Gigawatts, and These 2 Stocks Could Benefit Most",
+      "publisher": "Yahoo",
+      "date": "2026-03-30 01:35",
+      "impact": "medium",
+      "category": "策略投資",
+      "reason": "Meta 積極布局 6.6 GW 核能以支撐 AI 運算需求，顯示公司在 AI 基礎設施與能源供應鏈的長期戰略眼光，有利於維持競爭優勢。"
+    },
+    {
+      "rank": 2,
+      "title": "Jim Cramer on Meta's legal defeats: These are buying opportunities",
+      "publisher": "CNBC",
+      "date": "2026-03-26 12:31",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "知名分析師 Jim Cramer 認為法律訴訟帶來的股價回調是長線買入機會，強調公司基本面未受法律事件根本性動搖。"
+    },
+    {
+      "rank": 3,
+      "title": "Meta Platforms Just Cut Jobs. Does That Make META Stock a Buy, Sell, or Hold Before Q2 Starts?",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 15:30",
+      "impact": "low",
+      "category": "營運調整",
+      "reason": "透過裁員優化營運效率，分析師認為若成長動能持續，即便面臨 AI 巨額資本支出，股價仍具備上漲潛力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Meta's court defeats add to Zuckerberg's recent woes, represent 'watershed event' for social media",
+      "publisher": "CNBC",
+      "date": "2026-03-26 08:10",
+      "impact": "high",
+      "category": "法律訴訟",
+      "reason": "Meta 在涉及青少年安全與平台成癮的訴訟中敗訴，被視為社交媒體產業的轉折點，恐引發後續大規模賠償與監管審查，法律風險顯著上升。"
+    },
+    {
+      "rank": 2,
+      "title": "Cathie Wood Going Cold On Big Tech? Ark Sells Nvidia, AMD, Meta And Google Stock",
+      "publisher": "Yahoo",
+      "date": "2026-03-29 13:31",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Cathie Wood 旗下的 Ark Invest 大幅減持 Meta 等科技巨頭，顯示機構投資人對大型科技股在高估值下的獲利了結與避險情緒。"
+    },
+    {
+      "rank": 3,
+      "title": "Beijing's surprise intervention on Meta's Manus rattles tech founders, VCs eyeing 'China shedding'",
+      "publisher": "CNBC",
+      "date": "2026-03-27 12:30",
+      "impact": "medium",
+      "category": "地緣政治",
+      "reason": "北京當局對 Meta 相關業務的突發干預，加劇了市場對地緣政治風險的擔憂，並可能影響公司在國際市場的擴張策略。"
+    },
+    {
+      "rank": 4,
+      "title": "Tech stocks suffer worst week in nearly a year, driven down by war worries, Meta legal woes",
+      "publisher": "CNBC",
+      "date": "2026-03-27 16:24",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Meta 的法律敗訴成為科技股整體拋售潮的催化劑之一，顯示市場對公司法律風險的敏感度極高，短期賣壓沉重。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Meta Platforms, Inc. (META) Stock A Good Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-03-29 23:45",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "投資機構發布季度報告，對 Meta 的投資價值進行多空分析，未給出明確買賣建議，僅提供投資人參考。"
+    },
+    {
+      "rank": 2,
+      "title": "Stocks making the biggest moves midday: Meta, Best Buy, AppLovin, Scotts Miracle-Gro and more",
+      "publisher": "CNBC",
+      "date": "2026-03-26 12:09",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為盤中股價波動的例行性報導，列出 Meta 為當日市場焦點個股，未包含新的基本面利多或利空訊息。"
+    },
+    {
+      "rank": 3,
+      "title": "Final Trades: Meta, IBM, CrowdStrike and the ICE U.S. Dollar Index",
+      "publisher": "CNBC",
+      "date": "2026-03-26 13:10",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "投資委員會成員將 Meta 列為下半年觀察名單，屬於常規市場評論，無具體財務影響。"
+    },
+    {
+      "rank": 4,
+      "title": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now.",
+      "publisher": "Yahoo",
+      "date": "2026-03-29 20:20",
+      "impact": "low",
+      "category": "投資觀點",
+      "reason": "個人投資者分享對 Meta 等科技巨頭的持股策略，屬於個人觀點分享，對股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

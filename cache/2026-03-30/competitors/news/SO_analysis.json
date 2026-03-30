@@ -1,0 +1,56 @@
+{
+  "ticker": "SO",
+  "company": "Southern",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/SO.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 Southern Company 的政策風險擔憂減弱，且受惠於再生能源項目擴展與基礎設施投資，分析師維持正面評級。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Southern Company Risk Looks Overdone as Policy Fears Fade",
+      "publisher": "Mizuho / Yahoo",
+      "date": "2026-03-27",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Mizuho 分析師認為市場對 Southern Company 的政策風險過度反應，維持 Outperform 評級，顯示機構投資人對其基本面信心回升。"
+    },
+    {
+      "rank": 2,
+      "title": "Taking A Fresh Look At Southern (SO) Valuation After Georgia Power’s Largest Distributed Solar Commitment",
+      "publisher": "Yahoo",
+      "date": "2026-03-27",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Georgia Power 獲得監管批准進行大規模分散式太陽能電力採購，有助於提升公司綠能組合佔比並符合長期 ESG 發展目標。"
+    },
+    {
+      "rank": 3,
+      "title": "Southern Linc And Virginia Natural Gas Projects Add Context To Southern Stock",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-21",
+      "impact": "low",
+      "category": "市場擴張",
+      "reason": "透過 Southern Linc 與 Virginia Natural Gas 的項目進展，顯示公司在通訊與天然氣基礎設施領域的多元化佈局，為股價提供穩定支撐。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Southern Company first-quarter 2026 earnings to be released April 30",
+      "publisher": "Yahoo",
+      "date": "2026-03-24",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "僅為例行性的財報發布日期公告，屬於市場預期內的資訊，對股價無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

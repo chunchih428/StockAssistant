@@ -1,0 +1,47 @@
+{
+  "ticker": "APG",
+  "company": "APi Group",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/APG.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "APG 股價近期受地緣政治風險緩解與分析師調升目標價的正面驅動，展現出強勁的市場動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "APi Group (APG) Price Target Increased by 11.45% to 53.24",
+      "publisher": "Fintel",
+      "date": "2026-03-27 05:39",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師將目標價調升 11.45 % 至 53.24 美元，顯示市場對 APG 的長期獲利能力與基本面成長持樂觀態度，直接提振投資人信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Advanced Energy, Builders FirstSource, APi, Herc, and SPX Technologies Shares Are Soaring, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 02:59",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "由於川普政府推遲對伊朗的軍事行動，市場避險情緒降溫，帶動工業與基礎設施相關類股（包含 APG）出現顯著反彈。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bel Fuse, TopBuild, First Solar, APi, and Owens Corning Shares Plummet, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-20 20:52",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "APG 股價隨整體工業與建築材料板塊出現回調，反映出市場在特定時間點對宏觀經濟環境或產業週期性波動的擔憂。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

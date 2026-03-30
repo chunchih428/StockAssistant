@@ -1,0 +1,28 @@
+{
+  "ticker": "AME",
+  "company": "AMETEK",
+  "analysis_date": "2026-03-28",
+  "source_file": "cache/2026-03-28/competitors/news/AME.json",
+  "summary": {
+    "total_articles": 1,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "BMO Capital 分析師給予 AMETEK 優於大盤評級，顯示市場對其成長前景持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "BMO Capital Initiates Coverage On AMETEK with Outperform Rating, Announces Price Target of $253",
+      "publisher": "Benzinga",
+      "date": "2026-03-27 08:58",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "BMO Capital 分析師 Daniel DiCicco 給予 AMETEK 「優於大盤」評級並設定 253 美元目標價，顯示機構投資人看好其長期獲利能力。此處選用 Benzinga 報導，因其提供具體的分析師姓名與目標價細節，涵蓋面較 Fintel 更完整。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

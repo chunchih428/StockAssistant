@@ -1,0 +1,102 @@
+{
+  "ticker": "DELL",
+  "company": "Dell",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/DELL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 13,
+    "bearish_count": 2,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於企業端 AI 伺服器需求強勁與商用 PC 產品更新，Dell 股價動能持續獲得華爾街分析師看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Evercore ISI Group Maintains Outperform on Dell Technologies, Raises Price Target to $205",
+      "publisher": "Benzinga",
+      "date": "2026-03-26 13:34",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Amit Daryanani 維持優於大盤評級並調升目標價至 205 美元，顯示對公司 AI 業務獲利能力的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Dell's Enterprise AI Demand Drives Stock's Momentum Score Amid 46% YTD Surge",
+      "publisher": "Benzinga",
+      "date": "2026-03-26 08:34",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "今年以來股價已上漲 46 %，強勁的企業 AI 需求與安全功能升級持續推升動能指標。"
+    },
+    {
+      "rank": 3,
+      "title": "Dell Taps Canada’s HIVE Digital For A.I. GPU Cluster",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 13:15",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 HIVE Digital 建立合作關係，進一步擴大在 AI GPU 基礎設施市場的市占率。"
+    },
+    {
+      "rank": 4,
+      "title": "Dell Reimagines Commercial PCs with New Sleek and Powerful Designs",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 13:03",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出全新商用 PC 產品組合，強調 AI 運算能力與便攜性，有助於帶動企業換機潮。"
+    },
+    {
+      "rank": 5,
+      "title": "4 Tech Picks That Saw Double-Digit Gains Amid Volatility in Past Month",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 13:01",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "在科技股波動期間展現韌性，獲選為 AI 與雲端趨勢下的首選標的。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Dell Director Offloads Hundreds of Thousands of Shares as Insider Selling Tops $330M",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 12:50",
+      "impact": "medium",
+      "category": "內部人交易",
+      "reason": "董事大規模拋售股票，總金額超過 3.3 億美元，可能引發市場對股價高點的疑慮。"
+    },
+    {
+      "rank": 2,
+      "title": "Elizabeth Warren Slams Big Tech–Heavy AI Council As Lisa Su, Michael Dell, Others Thank Trump",
+      "publisher": "Benzinga",
+      "date": "2026-03-26 04:28",
+      "impact": "low",
+      "category": "政治風險",
+      "reason": "參與川普 AI 諮詢委員會引發政治人物批評，可能增加公司在監管與公眾形象上的不確定性。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Dell, UniFirst, Fortune Brands, and More Stocks See Action From Activist Investors",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 21:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為例行性 13 D 文件揭露，目前未見具體激進投資策略對公司營運的實質影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Final Trade: HOOD, DELL, GLD, WYNN",
+      "publisher": "CNBC",
+      "date": "2026-03-24 18:03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "媒體節目中的短線交易討論，對公司基本面無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

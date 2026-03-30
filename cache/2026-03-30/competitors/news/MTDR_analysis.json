@@ -1,0 +1,38 @@
+{
+  "ticker": "MTDR",
+  "company": "Matador Resources",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/MTDR.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司近期股價表現強勁，主要受惠於財報後的正面動能，但分析師對後續漲幅持審慎態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why Is Matador (MTDR) Up 22.7% Since Last Earnings Report?",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 15:30",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "Matador Resources 在過去 30 天內股價上漲 22.7%，反映出市場對其上一季財報表現的高度認可，該報導涵蓋了 Zacks 的分析觀點，為最具代表性的正面消息。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Truist Securities Initiates Coverage On Matador Resources with Hold Rating, Announces Price Target of $60",
+      "publisher": "Benzinga",
+      "date": "2026-03-24 12:01",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Truist Securities 分析師 Gabe Daoud 給予「持有」評級並設定目標價為 60 美元，顯示儘管公司基本面穩健，但目前股價可能已充分反映價值，因此選用此篇作為代表。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

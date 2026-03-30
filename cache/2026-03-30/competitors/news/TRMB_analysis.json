@@ -1,0 +1,47 @@
+{
+  "ticker": "TRMB",
+  "company": "Trimble Inc.",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/TRMB.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 0,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "Trimble 近期股價表現疲軟，顯著落後於大盤指數，引發市場對於其估值與成長動能的擔憂。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "3 Reasons to Sell TRMB and 1 Stock to Buy Instead",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 16:11",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "該報導指出 Trimble 在過去六個月內股價下跌 19.6 %，表現遠低於市場預期，並建議投資人考慮轉向其他標的，反映出市場對其短期成長動能的強烈質疑。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Trimble Stock Underperforming the Dow?",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 13:52",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "雖然該文確認 Trimble 過去一年表現落後於道瓊工業指數，但同時提到分析師仍維持強勁的看漲評級，顯示市場在股價疲軟與長期基本面價值之間存在分歧。"
+    },
+    {
+      "rank": 2,
+      "title": "Is It Time To Revisit Trimble (TRMB) After Recent Share Price Weakness?",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 23:05",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章探討股價下跌後是否具備投資價值，屬於中性觀察報告，旨在引導投資人重新評估公司當前股價與內在價值的匹配度，未給出明確買賣建議。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,47 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-03-30",
+  "source_file": "cache/2026-03-30/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場對地緣政治風險與高估值環境的擔憂，導致大型科技股成長動能面臨壓力。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "QQQ: Stocks Still Dangerously Detached From Reality — QQQâ€™s risk-reward is worsening as Iran conflict risk, rising real yields and weak growth shrink equity premium.",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-25 11:52",
+      "impact": "high",
+      "category": "市場風險分析",
+      "reason": "該分析指出 QQQ 面臨伊朗地緣政治衝突、實質利率上升以及經濟成長疲軟的三重打擊，導致風險溢價縮減，股價估值與基本面脫節，具備顯著下行風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "IWM vs. QQQ: How Small-Cap Diversification Compares to Large-Cap Growth for Investors",
+      "publisher": "Motley Fool",
+      "date": "2026-03-29 20:43",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "本文僅針對小型股與大型成長股進行資產配置的比較分析，未對 QQQ 的短期股價走勢提供明確的多空指引，屬於中立的投資教育性質內容。"
+    },
+    {
+      "rank": 2,
+      "title": "How To Trade SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, TSLA Using Technical Analysis",
+      "publisher": "Benzinga",
+      "date": "2026-03-27 10:17",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "該報導聚焦於技術分析方法論，旨在提供交易者參考指標與趨勢判斷工具，而非針對 QQQ 的基本面或市場消息進行方向性預測。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,74 @@
+{
+  "ticker": "ETR",
+  "company": "Entergy",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/ETR.json",
+  "summary": {
+    "total_articles": 15,
+    "bullish_count": 13,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "Entergy 與 Meta 達成擴大電力供應協議，預計將為客戶節省約 20 億至 26.5 億美元，強勁的數據中心需求推動股價連續上漲。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Entergy Louisiana Expands Agreement With Meta Platforms To Support Hyperscale Data Center In Northeast Louisiana",
+      "publisher": "Benzinga",
+      "date": "2026-03-27 09:02",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "這是本次新聞的核心事件。Entergy 與 Meta 達成擴大電力供應協議，Meta 將承擔 7 座天然氣發電廠及相關輸電基礎設施的建設成本，預計為客戶帶來超過 20 億美元的節省，顯著提升公司長期營收能見度。"
+    },
+    {
+      "rank": 2,
+      "title": "Entergy (ETR) Rallies 6.8% on Meta Deal",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 04:18",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "市場對 Meta 合作案反應熱烈，推動 Entergy 股價連續 5 個交易日上漲，漲幅達 6.8 %，反映投資人對公用事業公司在 AI 數據中心電力需求增長中的獲利前景高度看好。"
+    },
+    {
+      "rank": 3,
+      "title": "Entergy (ETR) Upgraded to Buy: What Does It Mean for the Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 16:00",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Zacks 將 Entergy 評級上調至「買入」（Rank #2），顯示在該合作案發布前，市場已對其獲利前景抱持樂觀態度，基本面獲得專業機構認可。"
+    },
+    {
+      "rank": 4,
+      "title": "Wells Fargo Maintains Buy Rating on Entergy (ETR) Stock",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 15:50",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "富國銀行維持對 Entergy 的「買入」評級，將其視為當前市場中具備防禦性與成長潛力的優質標的，增強了投資人信心。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Stocks making the biggest moves midday: Brown-Forman, Entergy, Meta Platforms, Carnival, Argan & more",
+      "publisher": "CNBC",
+      "date": "2026-03-27 12:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅將 Entergy 列入盤中波動較大的股票清單，屬於客觀的市場行情報導，未對公司基本面進行深入分析。"
+    },
+    {
+      "rank": 2,
+      "title": "Top Midday Stories: Meta Expands Power Supply Contract with Entergy's Louisiana Unit",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 15:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導彙整了當日市場焦點，雖然提及 Entergy 與 Meta 的合作，但同時討論了整體大盤下跌與其他產業新聞，屬於綜合性市場摘要。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

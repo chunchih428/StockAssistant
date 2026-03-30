@@ -1,0 +1,93 @@
+{
+  "ticker": "PPL",
+  "company": "PPL",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/PPL.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 4,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司維持 2026 財年每股盈餘預測，展現營運穩定性，且股價在市場波動中表現出相對抗跌的韌性。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "PPL Affirms FY2026 Adj EPS Guidance of $1.90-$1.98 vs $1.95 Est",
+      "publisher": "Benzinga",
+      "date": "2026-03-24 18:28",
+      "impact": "high",
+      "category": "財報預測",
+      "reason": "公司重申 2026 財年調整後每股盈餘 (EPS) 指引為 1.90 美元至 1.98 美元，中位數符合市場預期，為投資人提供明確的獲利能見度。"
+    },
+    {
+      "rank": 2,
+      "title": "PPL (PPL) Gains As Market Dips: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 22:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "在整體市場下跌的環境下，PPL 股價逆勢上漲 1.02 %，顯示出公用事業股作為防禦性資產的吸引力。"
+    },
+    {
+      "rank": 3,
+      "title": "Wall Street Analysts Think PPL (PPL) Is a Good Investment: Is It?",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 13:30",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "基於平均經紀商建議 (ABR)，分析師普遍給予正面評價，建議將 PPL 納入投資組合，顯示市場對其長期價值認可。"
+    },
+    {
+      "rank": 4,
+      "title": "PPL Corp Says On March 19, 2026, The Federal Energy Regulatory Commission Issued Opinion No. 594",
+      "publisher": "Benzinga",
+      "date": "2026-03-24 17:23",
+      "impact": "low",
+      "category": "法規監管",
+      "reason": "針對聯邦能源管理委員會 (FERC) 的意見書，公司確認其對 2026 年獲利預測不變，消除了市場對監管變動可能影響獲利的疑慮。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "PPL (PPL) Suffers a Larger Drop Than the General Market: Key Insights",
+      "publisher": "Zacks",
+      "date": "2026-03-19 22:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導指出 PPL 在特定交易日跌幅超過大盤，反映出短期內賣壓較重或市場對其估值修正的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "PPL vs. Ameren: Which Electricity Utility Stock Has Better Prospects?",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 12:55",
+      "impact": "low",
+      "category": "同業競爭",
+      "reason": "比較分析顯示 Ameren (AEE) 在股東權益報酬率 (ROE) 與資本支出規模上略勝一籌，可能導致部分追求高成長的資金流向同業。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Assessing PPL (PPL) Valuation After Recent Modest Share Price Moves",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 16:07",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為例行性的股價表現評估，未提供新的基本面催化劑，屬於市場技術性觀察。"
+    },
+    {
+      "rank": 2,
+      "title": "Pembina Pipeline Declares Quarterly Preferred Share Dividends and Announces Business Update",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 21:00",
+      "impact": "low",
+      "category": "公司公告",
+      "reason": "此新聞主要涉及 Pembina Pipeline (PBA)，雖提及 PPL 代碼，但實質內容與 PPL Corporation 無直接關聯，屬資訊混淆。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

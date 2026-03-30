@@ -1,0 +1,111 @@
+{
+  "ticker": "INTC",
+  "company": "Intel",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/INTC.json",
+  "summary": {
+    "total_articles": 18,
+    "bullish_count": 2,
+    "bearish_count": 10,
+    "neutral_count": 6,
+    "overall_sentiment": "bearish",
+    "key_theme": "Intel 面臨供應鏈緊縮與產品漲價壓力，且在 AI 領域競爭力受質疑，導致股價近期表現疲軟並遭機構投資人減持。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Can Intel's Core Ultra Series 3 Launch Propel Its Shares?",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 15:58",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Intel 推出 Core Ultra Series 3 處理器與 Arc Pro GPU，旨在透過 AI PC 產品線提升市場競爭力與營收動能。"
+    },
+    {
+      "rank": 2,
+      "title": "INTC & CrowdStrike Team Up to Secure AI Adoption: Will it Fuel Growth?",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 12:56",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "與 CrowdStrike 合作強化 AI PC 安全性，有助於提升企業級客戶對 Intel 平台的採用意願。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Intel Price Hikes And Supply Strains Test Recent Share Momentum",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 15:05",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "供應鏈限制導致交貨週期延長，且被迫調漲 CPU 價格，恐影響終端需求與市占率。"
+    },
+    {
+      "rank": 2,
+      "title": "Intel (INTC) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 21:45",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價單日重挫 6.53%，顯示市場對其基本面信心不足，拋售壓力大於大盤。"
+    },
+    {
+      "rank": 3,
+      "title": "Nvidia, AMD and Intel Lead Chip Stocks Sell-Off Amid Middle East Tension",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 19:44",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "地緣政治風險加劇導致半導體類股集體下挫，Intel 作為指標股受避險情緒影響顯著。"
+    },
+    {
+      "rank": 4,
+      "title": "Institutional Investors Are Selling One of Wall Street's Premier Trillion-Dollar Club Members",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 09:26",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "機構投資人持續減持 Intel，顯示專業投資機構對其未來成長前景持保留態度。"
+    },
+    {
+      "rank": 5,
+      "title": "As Claude Deals Yet Another Blow, Here’s Why HP and Intel Are the Lowest-Rated IT Stocks to Buy",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 13:30",
+      "impact": "medium",
+      "category": "產業分析",
+      "reason": "AI 技術演進（如 Claude）對傳統硬體與軟體架構造成威脅，Intel 被評為 IT 領域中較不具吸引力的標的。"
+    },
+    {
+      "rank": 6,
+      "title": "Teradyne, Applied Materials, Intel, KLA Corporation, and Semtech Shares Plummet",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 21:24",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受 Google 新演算法 TurboQuant 消息影響，半導體設備與晶片股出現連鎖性下跌。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Intel vs AMD: Which is a Better Long-Term Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 12:59",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "針對 Intel 與 AMD 的長期投資價值進行比較分析，未提供明確買賣建議，屬中性觀點。"
+    },
+    {
+      "rank": 2,
+      "title": "3 Artificial Intelligence (AI) Stocks to Buy at a Discount",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 12:35",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討 AI 類股的折價機會，雖提及 Intel 相關產業，但未將其列為首選。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,47 @@
+{
+  "ticker": "THO",
+  "company": "Thor Industries",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/THO.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司維持穩定股利政策與市場情緒回暖，帶動股價表現強勁。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "THOR INDUSTRIES ANNOUNCES REGULAR QUARTERLY DIVIDEND",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 20:30",
+      "impact": "medium",
+      "category": "股利政策",
+      "reason": "董事會批准發放季度股利，顯示公司現金流穩定且對股東回饋具備承諾，有助於支撐股價信心。"
+    },
+    {
+      "rank": 2,
+      "title": "American Woodmark, Resideo, Hertz, THOR Industries, and DXP Shares Skyrocket",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 02:09",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "受地緣政治緊張局勢緩解（川普政府推遲軍事行動）影響，市場風險偏好上升，帶動 THO 股價顯著上漲。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "A Look At THOR Industries (THO) Valuation After Recent Share Price Weakness",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-21T07:05:25Z",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "針對近期股價疲軟進行的估值分析，提供投資人理性評估指標，未直接對股價產生買賣方向的強烈訊號。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

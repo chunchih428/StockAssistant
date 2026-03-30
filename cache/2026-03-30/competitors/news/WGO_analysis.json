@@ -1,0 +1,84 @@
+{
+  "ticker": "WGO",
+  "company": "Winnebago Industries",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/WGO.json",
+  "summary": {
+    "total_articles": 16,
+    "bullish_count": 6,
+    "bearish_count": 4,
+    "neutral_count": 6,
+    "overall_sentiment": "Mixed",
+    "key_theme": "Winnebago Industries 雖然在第 2 季財報中繳出優於預期的營收與獲利表現，但市場對其未來展望與目標價下調仍存有疑慮，導致股價波動加劇。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Winnebago Industries Q2 Adj. EPS $0.27 Beats $0.24 Estimate, Sales $657.400M Beat $627.133M Estimate",
+      "publisher": "Benzinga",
+      "date": "2026-03-25 07:01",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第 2 季調整後每股盈餘與營收均優於華爾街分析師預期，顯示核心業務具備韌性，為股價提供基本面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Winnebago Industries: Those Who Take Risks After The Selloff May Win With New Gains",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-26 07:35",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出在經歷 24 % 的股價修正後，公司估值已顯得便宜，且流動性維持強勁，適合風險承受度較高的投資人進場。"
+    },
+    {
+      "rank": 3,
+      "title": "Citigroup Maintains Buy on Winnebago Industries, Lowers Price Target to $46",
+      "publisher": "Benzinga",
+      "date": "2026-03-27 11:13",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "儘管花旗銀行下調目標價至 46 美元，但仍維持「買進」評級，顯示對公司長期競爭力與市場地位仍持正面看法。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Winnebago (WGO) Shares Are Getting Obliterated Today",
+      "publisher": "StockStory",
+      "date": "2026-03-25 20:51",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "儘管財報優於預期，但市場對其拖車與船舶部門面臨的挑戰感到擔憂，導致股價在財報日出現顯著賣壓。"
+    },
+    {
+      "rank": 2,
+      "title": "Baird Maintains Neutral on Winnebago Industries, Lowers Price Target to $42",
+      "publisher": "Benzinga",
+      "date": "2026-03-26 07:50",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Baird 分析師 Craig Kennison 維持「中性」評級並下調目標價，反映出對未來成長動能放緩的保守預期。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Winnebago Industries Affirms FY26 Adj. EPS Guidance Of $2.10-$2.80 And Net Revenue Guidance Of $2.8B-$3.0B",
+      "publisher": "Benzinga",
+      "date": "2026-03-25 07:22",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "公司重申 2026 財年全年財測，顯示管理層對營運目標維持穩定預期，未有顯著利多或利空驚喜。"
+    },
+    {
+      "rank": 2,
+      "title": "Winnebago Industries, Inc. (WGO) Q2 2026 Earnings Call Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-25 14:15",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "提供完整的法說會逐字稿，供投資人深入了解公司營運細節與管理層對各業務部門的看法，屬資訊揭露性質。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

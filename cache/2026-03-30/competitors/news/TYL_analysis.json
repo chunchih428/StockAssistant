@@ -1,0 +1,37 @@
+{
+  "ticker": "TYL",
+  "company": "Tyler Technologies, Inc.",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/TYL.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司長期營收目標明確且第一季財報預期成長，展現穩健的財務前景。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Tyler Technologies Expected to Reiterate 2030 Revenue Targets, Oppenheimer Says",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 15:09",
+      "impact": "high",
+      "category": "市場展望",
+      "reason": "Oppenheimer 分析師預期 Tyler Technologies 將在 6 月 9 日的投資者日重申 2030 年的營收目標，顯示管理層對長期成長策略具備高度信心，有助於穩定市場對其估值的預期。"
+    },
+    {
+      "rank": 2,
+      "title": "Tyler Technologies’ Q1 2026 Earnings: What to Expect",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 10:26",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "市場預期 Tyler Technologies 第一季財報將呈現低雙位數的獲利成長，顯示公司在核心業務上的獲利能力持續提升。此處選用 Yahoo 版本作為代表，因其內容涵蓋了分析師對獲利能力的具體預期。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

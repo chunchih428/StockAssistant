@@ -1,0 +1,111 @@
+{
+  "ticker": "FDS",
+  "company": "FactSet Research Systems",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/FDS.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 3,
+    "bearish_count": 4,
+    "neutral_count": 3,
+    "overall_sentiment": "bearish",
+    "key_theme": "FactSet 正面臨 AI 轉型帶來的競爭壓力與估值修正，儘管公司積極布局 AI 技術並維持穩定配息，但分析師下調目標價與指數成分股剔除引發市場擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "FactSet Expands AI Document Search Beta And Tests Pricing Power",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 12:03",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "公司擴大 AI 文件搜尋功能的測試規模，並嘗試驗證其定價能力，顯示其在金融數據領域的技術競爭力與獲利潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "FactSet Research (FDS) Earnings Expected to Grow: Should You Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 14:00",
+      "impact": "medium",
+      "category": "財報預測",
+      "reason": "市場預期 FactSet 具備獲利成長的關鍵要素，可能在即將公布的財報中出現優於預期的表現。"
+    },
+    {
+      "rank": 3,
+      "title": "Why FactSet Research (FDS) is a Great Dividend Stock Right Now",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 15:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "強調公司作為配息股的穩定性，對於尋求長期收益的投資人具有吸引力，提供股價下檔支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "RBC Capital Lowers its Price Target on FactSet Research Systems (FDS) to $243 from $320",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 11:02",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "RBC Capital 大幅下調目標價，反映市場對其未來成長動能與估值的擔憂，對股價造成直接負面壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "How The FactSet (FDS) Narrative Is Shifting With AI Competition And Lower Street Targets",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 11:07",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "市場對 FactSet 的公允價值模型進行重估，從約 300.24 美元下調至 280 美元，反映 AI 競爭加劇對其護城河的挑戰。"
+    },
+    {
+      "rank": 3,
+      "title": "FactSet Drops From FTSE All World Index What It Means For Investors",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 18:05",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "被剔除出 FTSE 全球指數將導致被動型基金進行強制賣出，短期內對股價流動性與籌碼面產生負面影響。"
+    },
+    {
+      "rank": 4,
+      "title": "FactSet’s New AI Leadership And Crime Platform Meet Valuation Gap Questions",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 09:06",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "儘管任命了 AI 與技術長，但市場仍質疑其估值差距，顯示管理層變動尚未完全消除投資人對成長性的疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "FactSet to Report Q2 Earnings: What's in Store for the Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 14:00",
+      "impact": "low",
+      "category": "財報預測",
+      "reason": "針對第二季財報的例行性前瞻分析，市場預期成長穩定，未有過度激進的看多或看空觀點。"
+    },
+    {
+      "rank": 2,
+      "title": "FactSet (FDS) Q2 Earnings Preview: What You Should Know Beyond the Headline Estimates",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 13:15",
+      "impact": "low",
+      "category": "財報預測",
+      "reason": "提供財報公布前的深度分析，旨在協助投資人解讀財報細節，屬於中性的資訊揭露。"
+    },
+    {
+      "rank": 3,
+      "title": "FDS vs. VRSK: Which Stock Is the Better Value Option?",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 15:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 FDS 與同業 VRSK 進行價值比較，屬於投資組合配置的分析建議，無明確多空傾向。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
