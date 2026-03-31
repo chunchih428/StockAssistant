@@ -1,0 +1,38 @@
+{
+  "ticker": "VRSN",
+  "company": "VeriSign",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/VRSN.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "Mixed",
+    "key_theme": "市場對於 VeriSign 的投資評級調升與機構投資人減持股份之間的拉鋸效應。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "All You Need to Know About VeriSign (VRSN) Rating Upgrade to Buy",
+      "publisher": "Zacks",
+      "date": "2026-03-20T16:00:02Z",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Zacks 將 VeriSign 的評級調升至「買入」，顯示市場對其核心域名註冊業務的穩定性與現金流產生能力持樂觀態度，有助於提振投資人信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "VeriSign (VRSN) Shares Slid Following Berkshire Hathaway’s Reduction of Its Stake",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-20T11:43:56Z",
+      "impact": "high",
+      "category": "機構持股變動",
+      "reason": "波克夏海瑟威 (Berkshire Hathaway) 減持 VeriSign 股份引發市場對該公司長期成長潛力的擔憂，由於波克夏作為指標性投資機構，其減持動作通常會導致股價短期承壓。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

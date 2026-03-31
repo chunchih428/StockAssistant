@@ -1,0 +1,38 @@
+{
+  "ticker": "MORN",
+  "company": "Morningstar",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/MORN.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "中性偏空",
+    "key_theme": "市場地緣政治風險導致包裝類股拋售，以及私募信貸贖回壓力增加對投資顧問產業的挑戰。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Packaging stocks among hardest hit by Iran war: Morningstar",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 12:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Morningstar 的研究報告指出，受伊朗戰爭影響，包裝類股出現顯著拋售。此類市場動盪可能影響 Morningstar 追蹤的相關投資組合表現，並反映出總體經濟風險對特定產業的衝擊。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "10 Investment Must Reads for This Week (March 24, 2026)",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 14:20",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "Morningstar 發布針對投資顧問的產業洞察，重點關注私募信貸領域贖回率上升的風險。此為公司常規的市場研究產出，對股價無直接顯著影響，但顯示其在產業研究領域的持續影響力。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

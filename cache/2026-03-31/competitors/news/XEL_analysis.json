@@ -1,0 +1,47 @@
+{
+  "ticker": "XEL",
+  "company": "Xcel Energy",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/XEL.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管面臨野火風險與目標價下調，分析師仍看好 Xcel Energy 的估值修復潛力與長期投資價值。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Xcel Energy Could Hit $89 by Year-End as UBS Argues Wildfire Risks Are Already Priced Into $76.75 Stock",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 14:32",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "UBS 分析師認為市場已充分反映野火相關風險，當前股價具備吸引力，預期年底目標價可達 89 美元，顯示強勁的上漲空間。"
+    },
+    {
+      "rank": 2,
+      "title": "UBS Maintains Buy on Xcel Energy, Lowers Price Target to $89",
+      "publisher": "Benzinga",
+      "date": "2026-03-24 10:38",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "UBS 維持「買入」評級，雖將目標價從 93 美元下調至 89 美元，但仍顯示對公司基本面與長期成長的信心。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ethics Streak Puts Xcel Energy’s Valuation And Risk Profile In Focus",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-20",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "該報導側重於公司治理與風險評估的長期觀察，未提供具體的股價催化劑，屬於中性的市場觀點分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,46 @@
+{
+  "ticker": "ETSY",
+  "company": "Etsy",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/ETSY.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 0,
+    "bearish_count": 3,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "能源價格上漲導致消費者可支配所得下降，進而對 Etsy 的非必需消費品銷售構成顯著的獲利壓力。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Etsy More Exposed to Energy Price Rally Than Peers, Oppenheimer Says",
+      "publisher": "MT Newswires",
+      "date": "2026-03-24T14:27:12Z",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Oppenheimer 分析指出 Etsy 的商業模式對能源價格波動極為敏感，相較於同業更容易受到通膨壓力影響，此報告為後續股價下跌的主要催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Etsy falls after Opco lowers estimates on higher gas prices",
+      "publisher": "TipRanks",
+      "date": "2026-03-25T14:35:15Z",
+      "impact": "medium",
+      "category": "財務預測",
+      "reason": "基於能源價格上漲的預期，Opco 下調了 Etsy 的財務預測，直接導致市場對其短期獲利能力產生疑慮，進而引發股價修正。"
+    },
+    {
+      "rank": 3,
+      "title": "3 Reasons to Avoid ETSY and 1 Stock to Buy Instead",
+      "publisher": "StockStory",
+      "date": "2026-03-27T12:21:58Z",
+      "impact": "medium",
+      "category": "投資建議",
+      "reason": "該評論彙整了 Etsy 目前面臨的宏觀經濟逆風，強調消費者支出疲軟與競爭壓力，建議投資人避開該標的，進一步加深市場的負面情緒。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

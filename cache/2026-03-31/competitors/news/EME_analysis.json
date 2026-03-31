@@ -1,0 +1,93 @@
+{
+  "ticker": "EME",
+  "company": "EMCOR",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/EME.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管近期股價出現短期回調，但受惠於美國基礎建設需求與資料中心業務強勁，分析師仍看好其長期成長潛力並調升目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "EMCOR Group (EME) Price Target Increased by 16.61% to 853.00",
+      "publisher": "Fintel",
+      "date": "2026-03-27 01:37",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "目標價大幅調升 16.61 % 至 853.00 美元，顯示市場對 EME 未來獲利能力與成長前景的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Assessing EMCOR Group (EME) Valuation After FTSE All World Index Inclusion",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 08:07",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "獲納入 FTSE All-World Index 將增加被動資金配置，提升 EME 在全球投資人眼中的能見度與流動性。"
+    },
+    {
+      "rank": 3,
+      "title": "Is EMCOR Strengthening Its Growth Position in U.S. Infrastructure?",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 13:53",
+      "impact": "medium",
+      "category": "業務發展",
+      "reason": "公司積壓訂單（backlog）創下歷史新高，且受惠於美國基礎建設與資料中心需求，基本面成長動能強勁。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Here's Why Emcor Group (EME) Fell More Than Broader Market",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 22:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "單日股價下跌 5.03 %，表現弱於大盤，反映出短期獲利了結賣壓或市場對高估值的修正。"
+    },
+    {
+      "rank": 2,
+      "title": "EMCOR Group (EME) Shares Pulled Back Due to the Strong Performance of a Competitor",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-20 12:24",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "因競爭對手表現強勁導致資金排擠效應，造成 EME 股價出現短期回調。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Investors Heavily Search EMCOR Group, Inc. (EME): Here is What You Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅反映 Zacks.com 使用者搜尋熱度增加，屬於市場關注度指標，對股價無直接基本面影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Is EMCOR Stock Outperforming the Nasdaq?",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 18:33",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "回顧過去一年表現優於 Nasdaq，但分析師態度轉趨謹慎，屬於中性觀點分析。"
+    },
+    {
+      "rank": 3,
+      "title": "Is EMCOR Group (EME) Offering Value After A 10.8% One Month Pullback?",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 00:15",
+      "impact": "low",
+      "category": "投資評估",
+      "reason": "探討股價回調後的價值面，未給出明確買進或賣出建議，僅提供投資人參考的分析觀點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

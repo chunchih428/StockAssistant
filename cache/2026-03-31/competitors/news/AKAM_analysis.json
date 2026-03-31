@@ -1,0 +1,66 @@
+{
+  "ticker": "AKAM",
+  "company": "Akamai",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/AKAM.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "Akamai 積極透過 AI 驅動的資安產品與 NVIDIA 運算架構的整合，強化其在雲端安全與邊緣運算領域的競爭優勢。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Akamai Launches Brand Guardian to Help Enterprises Combat Automated Fraud",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 10:30",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "選取此篇作為代表，因其詳細說明了 Brand Guardian 如何利用 AI 偵測並阻斷品牌仿冒，直接提升企業資安防護價值，有助於擴大其資安產品線的營收潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Akamai Guardicore Segmentation Transforms Zero Trust with New AI-Powered Capabilities",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 10:29",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "透過 AI 強化零信任架構的細分功能，能有效降低企業部署複雜度，增強 Akamai 在企業級資安市場的技術護城河。"
+    },
+    {
+      "rank": 3,
+      "title": "Akamai’s Global NVIDIA AI Grid Rollout Could Be A Game Changer For Akamai Technologies (AKAM)",
+      "publisher": "Yahoo",
+      "date": "2026-03-22 19:05",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "與 NVIDIA 的全球 AI 網格部署合作，標誌著 Akamai 在邊緣運算領域的重大戰略轉型，具備長期推動營收成長的潛力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Akamai Technologies (AKAM) Dipped More Than Broader Market Today",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 22:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 2.35 %，表現遜於大盤，反映短期市場獲利了結壓力或技術性修正，而非公司基本面惡化。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Akamai Technologies Stock Outperforming the Dow?",
+      "publisher": "Barchart",
+      "date": "2026-03-19 15:14",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為針對股價表現與道瓊指數的比較分析，未提供具體的財務預測或戰略變動資訊，屬於中性的市場觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

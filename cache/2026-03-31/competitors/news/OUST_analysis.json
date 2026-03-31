@@ -1,0 +1,65 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/OUST.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 0,
+    "bearish_count": 3,
+    "neutral_count": 2,
+    "overall_sentiment": "bearish",
+    "key_theme": "近期股價表現疲軟且面臨內部高層賣股壓力，市場對於 Ouster 的估值與成長前景持審慎評估態度。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ouster, Inc. (OUST) Suffers a Larger Drop Than the General Market: Key Insights",
+      "publisher": "Zacks",
+      "date": "2026-03-26T22:15:03Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導指出 OUST 股價跌幅超過大盤，反映出投資人對該公司短期動能的擔憂，此篇涵蓋了近期多次下跌的趨勢分析，故選為代表。"
+    },
+    {
+      "rank": 2,
+      "title": "Chief Operating Officer Sells 10,938 Ouster Shares for $256,000",
+      "publisher": "Motley Fool",
+      "date": "2026-03-24T21:09:21Z",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "營運長 (COO) 出售價值約 25.6 萬美元的股票，內部人賣股通常會引發市場對公司未來股價信心不足的負面解讀。"
+    },
+    {
+      "rank": 3,
+      "title": "Ouster, Inc. (OUST) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "publisher": "Zacks",
+      "date": "2026-03-20T22:15:04Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此為較早期的市場下跌報告，顯示 OUST 近期股價持續承受賣壓，與 3 月 26 日的報告具備連貫性。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ouster (OUST) Valuation Check After Mixed Share Price Performance And Lidar Growth Prospects",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-24T21:06:19Z",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "該分析對 OUST 的估值進行了綜合評估，平衡了雷射雷達 (Lidar) 的成長潛力與近期股價波動的混合表現，未給出明確買賣建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Is It Time To Reassess Ouster (OUST) After Its Recent Share Price Surge",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-24T14:05:52Z",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "針對先前股價上漲後的重新評估，屬於中性的市場觀察，旨在提醒投資人關注基本面而非單純追逐價格波動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

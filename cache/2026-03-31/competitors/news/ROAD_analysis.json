@@ -1,0 +1,66 @@
+{
+  "ticker": "ROAD",
+  "company": "Construction Partners",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/ROAD.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司近期股價表現強勁並宣布雙重上市計畫，市場對其成長動能持正面看法，但投資人對於高漲幅後的估值修正風險仍保持謹慎。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Construction Partners Announces Dual Listing Of Its Class A Common Stock On Nasdaq Texas",
+      "publisher": "Benzinga",
+      "date": "2026-03-27 16:36",
+      "impact": "medium",
+      "category": "公司治理",
+      "reason": "公司宣布在 Nasdaq Texas 進行雙重上市，此舉有助於提升股票流動性並擴大投資人基礎，對股價具有正面激勵作用。"
+    },
+    {
+      "rank": 2,
+      "title": "Are Construction Stocks Lagging Construction Partners (ROAD) This Year?",
+      "publisher": "Zacks",
+      "date": "2026-03-24T13:40:04Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出 ROAD 在今年表現優於同業，顯示其強勁的營運表現與市場競爭力，吸引投資人持續關注。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Construction Partners, Vishay Precision, AAR, Sanmina, and Comfort Systems Shares Plummet, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-20T20:07:25Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管股價曾出現短期回調，但該報導主要反映市場波動，而非公司基本面惡化，故影響力評估為低。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Too Late To Consider Construction Partners (ROAD) After Its 52.9% One Year Rally?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-28T15:07:46Z",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "該文探討過去一年 52.9% 的漲幅後是否仍具投資價值，屬於中性的估值分析，提醒投資人注意漲多後的風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Owens Corning, Construction Partners, Wabash, Avis Budget Group, and Sanmina Stocks Trade Up, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-24T01:59:35Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場盤中波動的例行性報導，未提及具體公司營運變動，對股價影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

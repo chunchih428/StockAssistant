@@ -1,0 +1,66 @@
+{
+  "ticker": "AEP",
+  "company": "American Electric Power",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/AEP.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於電氣化需求激增與大規模資本支出計畫，AEP 在公用事業領域展現強勁的成長潛力與投資吸引力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "American Electric Power: An Attractive Exposure To The Electrification Boom",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-24 13:54",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "分析師指出 AEP 受惠於電氣化帶來的需求激增，透過 720 億美元的資本支出計畫，預計將推動每股盈餘 (EPS) 成長 9%，且煤炭組合的調整提升了營運穩定性。"
+    },
+    {
+      "rank": 2,
+      "title": "Morgan Stanley Boosts AEP PT, Highlights Constructive Utility Sector Outlook",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 01:00",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "摩根士丹利調升 AEP 目標價，並將其納入收益型股票投資組合，顯示機構投資人對該公司在公用事業板塊的防禦性與成長性持正面看法。"
+    },
+    {
+      "rank": 3,
+      "title": "American Electric Power Company (AEP): US Department of Energy, SB Energy, and AEP Ohio Announce Planned Investments",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 15:50",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與美國能源部及 SB Energy 的合作投資計畫，強化了 AEP 在基礎設施升級與能源轉型方面的市場地位，有利於長期營收增長。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "NEE vs. AEP: Which Power Utility Offers Stronger Investment Potential?",
+      "publisher": "Yahoo",
+      "date": "2026-03-23 16:32",
+      "impact": "low",
+      "category": "競爭分析",
+      "reason": "比較分析顯示 NextEra Energy (NEE) 在股東權益報酬率 (ROE)、EPS 成長預期及 940 億美元的資本支出規模上均優於 AEP，導致 AEP 相對吸引力略顯不足。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Time To Reassess American Electric Power (AEP) After Strong Multi‑Year Gains?",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 18:18",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "在經歷多年強勁漲幅後，市場對於 AEP 目前約 127.92 美元的股價是否已充分反映價值進行評估，屬於中性的獲利了結或重新評估觀點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

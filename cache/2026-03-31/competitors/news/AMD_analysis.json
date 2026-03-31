@@ -1,0 +1,102 @@
+{
+  "ticker": "AMD",
+  "company": "AMD",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/AMD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 6,
+    "bearish_count": 8,
+    "neutral_count": 6,
+    "overall_sentiment": "bearish",
+    "key_theme": "儘管 CPU 漲價帶動短期獲利預期，但地緣政治緊張局勢、機構減持以及市場對 AI 競爭格局的擔憂，使股價面臨顯著壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Intel, AMD Stocks Jump After Reports of 15% CPU Price Increase",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 19:47",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "市場傳出 CPU 價格將調漲 15%，此舉直接提升了 AMD 的毛利率預期，是近期股價反彈的主要驅動力。"
+    },
+    {
+      "rank": 2,
+      "title": "AMD Linux Push With CIQ Adds New Angle To AI Investment Story",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 07:04",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "AMD 與 CIQ 合作推出優化版 Rocky Linux，強化了其在 AI 與高效能運算領域的軟體生態系，有助於提升競爭力。"
+    },
+    {
+      "rank": 3,
+      "title": "Lisa Su Hosts Howard Lutnick As Commerce Department Highlights 'Gold Standard' American Tech Stack",
+      "publisher": "Benzinga",
+      "date": "2026-03-27 02:31",
+      "impact": "medium",
+      "category": "公司策略",
+      "reason": "執行長 Lisa Su 與商務部官員會面，顯示 AMD 在美國國家級 AI 戰略中佔有核心地位，獲得政策背書。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Nvidia, AMD and Intel Lead Chip Stocks Sell-Off Amid Middle East Tension",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 19:44",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "中東局勢緊張導致全球避險情緒升溫，半導體類股作為高風險資產遭到拋售，AMD 股價隨大盤重挫。"
+    },
+    {
+      "rank": 2,
+      "title": "Cathie Wood Going Cold On Big Tech? Ark Sells Nvidia, AMD, Meta And Google Stock",
+      "publisher": "Benzinga",
+      "date": "2026-03-26 22:36",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名投資人 Cathie Wood 的 Ark Invest 大舉減持 AMD 等 AI 龍頭股，引發市場對高估值科技股的獲利了結擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Chip Security Act Puts AMD Export Controls And Valuation In Focus",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 09:04",
+      "impact": "medium",
+      "category": "法規",
+      "reason": "美國國會推動《晶片安全法案》，可能對 AI 晶片實施更嚴格的出口管制，限制了 AMD 在海外市場的營收潛力。"
+    },
+    {
+      "rank": 4,
+      "title": "Nova, Lattice Semiconductor, IPG Photonics, AMD, and Entegris Shares Plummet",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 21:39",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場傳聞 Google 開發出 TurboQuant 演算法，引發投資人對傳統晶片廠在 AI 運算領域面臨新技術威脅的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Intel vs AMD: Which is a Better Long-Term Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 12:59",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "針對 Intel 與 AMD 的長期投資價值進行比較，屬於例行性的市場分析，未提供具體利多或利空消息。"
+    },
+    {
+      "rank": 2,
+      "title": "Advanced Micro Devices, Inc. (AMD) is Attracting Investor Attention",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅指出 AMD 近期受到投資人關注，屬於中性的市場熱度觀察，未對股價產生實質影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

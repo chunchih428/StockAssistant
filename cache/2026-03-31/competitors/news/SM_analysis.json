@@ -1,0 +1,75 @@
+{
+  "ticker": "SM",
+  "company": "SM Energy",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/SM.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 4,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "SM Energy 受益於強勁的財報表現與分析師正面評級，儘管近期股價波動，但市場對其併購後的資本結構調整持樂觀態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why Is SM Energy (SM) Up 54.7% Since Last Earnings Report?",
+      "publisher": "Zacks",
+      "date": "2026-03-27",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "該報導總結了公司自上次財報發布以來 54.7% 的強勁漲幅，反映出市場對其營運效率與獲利能力的極高認可。"
+    },
+    {
+      "rank": 2,
+      "title": "Truist Securities Initiates Coverage of SM Energy (SM) with Buy Recommendation",
+      "publisher": "Fintel",
+      "date": "2026-03-25",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Truist Securities 給予買入評級，顯示機構投資人對該公司未來的成長潛力與基本面持正面看法。"
+    },
+    {
+      "rank": 3,
+      "title": "SM Energy (SM) Soars 8.3%: Is Further Upside Left in the Stock?",
+      "publisher": "Zacks",
+      "date": "2026-03-23",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "單日 8.3% 的漲幅顯示市場買盤強勁，且分析師探討後續上漲空間，進一步強化了市場的樂觀情緒。"
+    },
+    {
+      "rank": 4,
+      "title": "Is Trending Stock SM Energy Company (SM) a Buy Now?",
+      "publisher": "Zacks",
+      "date": "2026-03-25",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "作為熱門股的分析，該文探討了當前的買入時機，對投資人心理具有正面引導作用。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "SM Energy (SM) Stock Sinks As Market Gains: What You Should Know",
+      "publisher": "Zacks",
+      "date": "2026-03-23",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管大盤上漲但該股下跌，顯示短期內存在獲利了結的賣壓，屬於正常的技術性回調。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Does SM Energy’s (SM) Post‑Merger Note Refinancing Reveal a Deeper Shift in Capital Strategy?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-21",
+      "impact": "low",
+      "category": "資本結構",
+      "reason": "該文深入探討併購後的債務再融資策略，屬於中性的財務結構調整分析，旨在評估長期資本配置的合理性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

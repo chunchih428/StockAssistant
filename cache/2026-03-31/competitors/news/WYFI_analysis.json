@@ -1,0 +1,66 @@
+{
+  "ticker": "WYFI",
+  "company": "WhiteFiber",
+  "analysis_date": "2026-03-30",
+  "source_file": "cache/2026-03-30/competitors/news/WYFI.json",
+  "summary": {
+    "total_articles": 12,
+    "bullish_count": 1,
+    "bearish_count": 10,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司 第 4 季財報表現不如預期，導致虧損擴大並引發多家分析師下調目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "WhiteFiber: Look Past Q4 Noise For The $865M NC-1 Inflection Point",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-27 08:19",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "儘管短期財報表現不佳，但分析師看好公司在 2026 年底前達到 1.39 億美元營收與 1.05 億美元 EBITDA 的長期成長潛力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Whitefiber Q4 EPS $(0.67) Misses $(0.18) Estimate, Sales $23.561M Miss $23.791M Estimate",
+      "publisher": "Benzinga",
+      "date": "2026-03-26 07:02",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第 4 季每股虧損 0.67 美元，遠差於預期的 0.18 美元虧損，且營收 2,356 萬美元亦未達預期，是導致股價重挫的核心原因。"
+    },
+    {
+      "rank": 2,
+      "title": "WhiteFiber shares are trading lower after Needham maintained a Buy rating on the stock and lowered its price target from $38 to $36. HC Wainwright & Co lowered its price target on the stock from $34 to $20.",
+      "publisher": "Benzinga",
+      "date": "2026-03-27 11:41",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "多家券商因財報表現不佳而下調目標價，其中 HC Wainwright 將目標價大幅砍至 20 美元，對市場信心造成顯著打擊。"
+    },
+    {
+      "rank": 3,
+      "title": "WhiteFiber Inc. (NASDAQ:WYFI) Plunges 9% After Q4 Earnings Miss, Wider-Than-Expected Loss",
+      "publisher": "ChartMill",
+      "date": "2026-03-26 12:23",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出財報公布後股價單日重挫 9 %，反映市場對其虧損擴大及 AI 基礎設施投入成本的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "WhiteFiber Q4 Earnings Call Highlights",
+      "publisher": "MarketBeat",
+      "date": "2026-03-26 16:21",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "僅整理財報會議重點，未提供額外觀點或市場評估，屬於資訊彙整性質。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

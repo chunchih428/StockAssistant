@@ -1,0 +1,37 @@
+{
+  "ticker": "MGY",
+  "company": "Magnolia Oil & Gas",
+  "analysis_date": "2026-03-25",
+  "source_file": "cache/2026-03-25/competitors/news/MGY.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 0,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "neutral",
+    "key_theme": "市場分析師對 Magnolia Oil & Gas 的估值與投資評級持審慎觀望態度。"
+  },
+  "bullish": [],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Truist Securities Initiates Coverage of Magnolia Oil & Gas (MGY) with Hold Recommendation",
+      "publisher": "Fintel",
+      "date": "2026-03-25",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Truist Securities 給予 MGY 持有 (Hold) 評級，顯示分析師認為該公司目前股價已反映其基本面，缺乏進一步推升的短期催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Zacks Value Trader Highlights: EOG Resources, Diamondback Energy and Magnolia Oil & Gas",
+      "publisher": "Zacks",
+      "date": "2026-03-24",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Zacks 將 MGY 列入價值型投資組合觀察名單，屬於常規性的市場篩選報告，未對公司營運基本面提出具體利多或利空觀點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,38 @@
+{
+  "ticker": "FE",
+  "company": "FirstEnergy Corp.",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/FE.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司股價在財報後表現強勁，且持續透過客戶援助計畫維持良好的社區與監管關係。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why Is FirstEnergy ( FE ) Up 3.5 % Since Last Earnings Report?",
+      "publisher": "Zacks",
+      "date": "2026-03-19",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "FirstEnergy 在財報發布後股價上漲 3.5 %，顯示市場對其營運績效與財務展望持正面態度，反映出投資人對公司基本面的信心。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "FirstEnergy Pennsylvania and Ohio Customers Can Get Assistance with Electric Bills",
+      "publisher": "Yahoo",
+      "date": "2026-03-24",
+      "impact": "low",
+      "category": "企業社會責任",
+      "reason": "將兩則關於賓州與俄亥俄州客戶帳單援助計畫的新聞合併。此類計畫屬於公用事業公司的常規營運與社會責任範疇，有助於維持客戶關係與監管穩定性，但對短期股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

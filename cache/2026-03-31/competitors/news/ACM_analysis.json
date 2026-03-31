@@ -1,0 +1,65 @@
+{
+  "ticker": "ACM",
+  "company": "AECOM",
+  "analysis_date": "2026-03-30",
+  "source_file": "cache/2026-03-30/competitors/news/ACM.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "AECOM 透過獲得大型國防與能源基礎設施合約展現強勁的業務動能，儘管保留建築業務引發市場對整合風險的討論。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "AECOM Joins $151 B SHIELD Program to Boost U.S. Defense Systems",
+      "publisher": "Zacks",
+      "date": "2026-03-20",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "參與高達 1510 億美元的 SHIELD 計畫，顯示公司在美國國防基礎設施領域的關鍵地位，預期將帶來長期穩定的營收貢獻。"
+    },
+    {
+      "rank": 2,
+      "title": "AECOM (ACM) Joins ILIOS Consortium for First Phase of £200 M STEP Fusion Energy Program",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-20",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "加入價值 2 億英鎊的核融合能源計畫，展現公司在尖端能源基礎設施領域的技術實力與市場競爭力。"
+    },
+    {
+      "rank": 3,
+      "title": "AECOM selected to continue advancing San Diego Unified School District’s capital bond programs",
+      "publisher": "Yahoo",
+      "date": "2026-03-24",
+      "impact": "low",
+      "category": "業務合約",
+      "reason": "成功續約聖地牙哥聯合學區的資本債券計畫，反映公司在公共基礎設施管理領域的客戶黏著度與穩定獲利能力。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "AECOM Retains Construction Business: Strategic Win or Risk?",
+      "publisher": "Yahoo",
+      "date": "2026-03-26",
+      "impact": "medium",
+      "category": "公司策略",
+      "reason": "公司決定保留建築業務，市場對其獲利能力持正面看法，但同時擔憂潛在的整合風險與營運複雜度，屬於多空參半的策略決策。"
+    },
+    {
+      "rank": 2,
+      "title": "Comfort Systems vs. AECOM: Which Infra Play is the Smarter Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-03-25",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此篇為產業比較分析，探討 AI 驅動的基礎設施需求下，ACM 與同業 FIX 的估值與成長潛力，未直接影響公司基本面。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

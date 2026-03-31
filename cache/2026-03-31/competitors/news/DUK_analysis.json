@@ -1,0 +1,84 @@
+{
+  "ticker": "DUK",
+  "company": "Duke Energy",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/DUK.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "neutral",
+    "key_theme": "Duke Energy 在 Sunbelt 地區的 AI 電力需求成長潛力與監管批准的新天然氣發電計畫，正與高利率環境下的殖利率吸引力挑戰相互拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Duke Energy: Prime Sunbelt Assets Set It Up For AI Tailwinds",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-25 06:29",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "Duke Energy 位於 Sunbelt 地區的資產組合使其能直接受惠於 AI 資料中心帶來的電力需求激增，具備長期成長動能。"
+    },
+    {
+      "rank": 2,
+      "title": "Regulators approve Duke Energy's proposal for new natural gas generation to support South Carolina's growing energy needs",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 18:15",
+      "impact": "medium",
+      "category": "監管批准",
+      "reason": "南卡羅來納州公共服務委員會 (PSCSC) 批准新建天然氣發電廠，有助於滿足當地日益增長的能源需求，確保未來營收基礎。此處選擇 Yahoo 報導作為代表，因其涵蓋了完整的監管決策背景。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Duke Energy: Surging Treasury Yields Could Spark Volatility For This Utility",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-27 15:50",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "美國 10 年期公債殖利率攀升，導致 Duke Energy 的 3.29 % 股息殖利率吸引力相對下降，可能引發公用事業股價波動。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Duke Energy (DUK) Pricing Fully Reflect Its Mixed Returns And Dividend Outlook",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 15:05",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "市場對於 Duke Energy 當前股價是否已完全反映其混合回報率與股息前景存有疑慮，暗示估值可能已達瓶頸。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Energy Bill Assistance Available for Qualified Duke Energy Florida Customers",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 17:23",
+      "impact": "low",
+      "category": "客戶服務",
+      "reason": "佛羅里達州客戶的風災成本回收費用已移除，屬於例行性帳單調整，對公司整體財務結構影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Flowserve Adds Duke Energy CFO To Board As Governance Focus Grows",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-21 07:05",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "Duke Energy 的財務長加入 Flowserve 董事會，反映其專業能力受肯定，但對 Duke Energy 本身的營運策略無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Duke Energy Corporation (DUK) A Good Stock To Buy Now?",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-21 21:09",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導為一般性的投資觀點分析，未提供具體的新財務數據或重大營運變動，僅作為市場情緒參考。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "RDDT",
+  "company": "Reddit",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/RDDT.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 4,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管面臨內部人士拋售與法律審查的短期壓力，市場對 Reddit 獨特的人類生成數據在 AI 訓練與廣告領域的長期價值仍持高度樂觀態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Reddit Starting To Look Straight-Up Attractive At This Price",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-28 07:16",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "分析指出 Reddit 擁有獨特的人類生成內容數據，對 AI 開發商與廣告商具有極高戰略價值，被視為長期成長的核心驅動力。"
+    },
+    {
+      "rank": 2,
+      "title": "Jim Cramer on Reddit (RDDT): “I Want to Buy Reddit Right Here”",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-28 21:11",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "知名財經評論員 Jim Cramer 公開表達買入意願，為市場情緒帶來正面支撐。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Reddit Inc. (RDDT) a Buy as Wall Street Analysts Look Optimistic?",
+      "publisher": "Zacks",
+      "date": "2026-03-27 13:30",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "華爾街分析師普遍持樂觀態度，反映出市場對其商業模式轉型與獲利能力的信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Reddit Shares Climb Wednesday: What's Happening?",
+      "publisher": "Benzinga",
+      "date": "2026-03-25 11:02",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價表現優於大盤，顯示在市場波動期間具備相對抗跌性與買盤支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Reddit Shares Are Trending Lower On Thursday? — Reddit (RDDT) stock drops over 8% on Thursday following insider sales by the CTO and COO amid a broader Nasdaq sell-off.",
+      "publisher": "Benzinga",
+      "date": "2026-03-26 13:21",
+      "impact": "high",
+      "category": "高層異動",
+      "reason": "公司 CTO 與 COO 的內部人士拋售行為引發市場對股價前景的擔憂，疊加 Nasdaq 大盤回調，導致股價單日下跌超過 8 %。"
+    },
+    {
+      "rank": 2,
+      "title": "US Jury Ruling Puts Reddit’s Engagement Model Under New Scrutiny",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-29 01:04",
+      "impact": "medium",
+      "category": "法規與法律",
+      "reason": "美國陪審團的裁決對 Reddit 的用戶參與模式提出質疑，可能影響未來廣告業務的合規性與營運模式。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Reddit (RDDT) Shares Are Sliding Today",
+      "publisher": "StockStory",
+      "date": "2026-03-27 22:09",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "反映股價在短期內面臨獲利回吐與市場修正壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Meta, Kodiak Sciences, Unity Software, Lumentum Holdings And Reddit: Why These 5 Stocks Are On Investors' Radars Today",
+      "publisher": "Benzinga",
+      "date": "2026-03-26 21:21",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場熱門股清單，主要受大盤整體下跌影響，未涉及公司基本面變動。"
+    },
+    {
+      "rank": 2,
+      "title": "Reddit’s Bull Case for Zoom Has Nothing to Do With Video Calls",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-03-27 13:35",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "討論 Reddit 平台上的投資討論趨勢，對 RDDT 本身股價無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Reddit Sentiment on SMCI Collapsed From 82 to 12 in Three Weeks as Legal Crisis Deepens",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-03-27 10:35",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "報導 Reddit 用戶對其他公司（SMCI）的情緒變化，與 RDDT 公司本身營運無關。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,174 @@
+{
+  "ticker": "NVDA",
+  "company": "NVIDIA",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/holdings/news/NVDA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 11,
+    "bearish_count": 4,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管面臨地緣政治與競爭壓力，NVIDIA 憑藉 GTC 2026 發布的 Vera Rubin 平台及強勁的 AI 基礎設施需求，持續獲得華爾街分析師的看好與估值重估。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "NVIDIA GTC 2026 Unveils Vera Rubin AI Factories And Investor Questions",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 07:05",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "發布 Vera Rubin 平台（Vera CPU 與 Rubin GPU）是 NVIDIA 維持技術領先地位的核心，直接推動未來 AI 基礎設施的升級需求。"
+    },
+    {
+      "rank": 2,
+      "title": "Nvidia Data Center Outlook Seen Underestimated by Analysts",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 17:00",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Wells Fargo 指出市場低估了資料中心的需求，預測營收潛力可能突破 1 兆美元，顯示長期成長動能強勁。"
+    },
+    {
+      "rank": 3,
+      "title": "Nvidia Stock Is Now Cheaper Than the S&P 500",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 18:18",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "基於預期本益比（Forward P/E）顯示 NVIDIA 股價相較於 S&P 500 指數呈現折價，吸引價值型投資人關注。"
+    },
+    {
+      "rank": 4,
+      "title": "Analysts Nudge Their Nvidia (NVDA) Price Targets Higher After GTC",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 15:18",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "GTC 大會後分析師普遍上調目標價，反映市場對其技術路線圖與獲利能力的信心增強。"
+    },
+    {
+      "rank": 5,
+      "title": "Micron Just Started Mass-Producing HBM4 for Nvidia's Vera Rubin",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 18:25",
+      "impact": "medium",
+      "category": "供應鏈",
+      "reason": "Micron 開始量產 HBM4 記憶體以支援 Vera Rubin 平台，確保了 NVIDIA 下一代產品的關鍵零組件供應。"
+    },
+    {
+      "rank": 6,
+      "title": "CoreWeave Targets High Intensity AI Workloads With New Platform And Clients",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 14:04",
+      "impact": "low",
+      "category": "市場擴張",
+      "reason": "CoreWeave 擴大採用 NVIDIA HGX B300 硬體，顯示雲端服務供應商對 NVIDIA 高階運算平台的持續依賴。"
+    },
+    {
+      "rank": 7,
+      "title": "Dassault Systèmes AI Push With NVIDIA Puts Focus On Undervalued Shares",
+      "publisher": "Yahoo",
+      "date": "2026-03-29 00:16",
+      "impact": "low",
+      "category": "合作夥伴",
+      "reason": "與 Dassault Systèmes 的合作進一步擴展了 NVIDIA 在工業 AI 與代理 AI（Agentic AI）領域的應用場景。"
+    },
+    {
+      "rank": 8,
+      "title": "Nvidia May be Back in Business in China. Here's What That Means for Revenue.",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 09:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "若 NVIDIA 能恢復對中國市場的晶片出貨，將為營收帶來顯著的正面挹注，緩解先前出口限制帶來的壓力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Nvidia, AMD and Intel Lead Chip Stocks Sell-Off Amid Middle East Tension",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 19:44",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "中東地緣政治緊張局勢引發市場避險情緒，導致半導體類股普遍遭到拋售，屬於系統性風險影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Huawei Targets Nvidia's Turf With New AI Chip",
+      "publisher": "Yahoo",
+      "date": "2026-03-29 01:31",
+      "impact": "medium",
+      "category": "競爭分析",
+      "reason": "華為與中國科技巨頭加速開發國產 AI 晶片，長期來看可能削弱 NVIDIA 在中國市場的市佔率與定價權。"
+    },
+    {
+      "rank": 3,
+      "title": "Super Micro Computer Hit With Securities Fraud Lawsuit Amid Alleged China Sales Cover-Up And Nvidia Chip Smuggling Scandal",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 19:31",
+      "impact": "low",
+      "category": "法規與訴訟",
+      "reason": "雖然訴訟主體為 Super Micro，但涉及 NVIDIA 晶片走私醜聞，可能引發監管機構對 NVIDIA 供應鏈合規性的審查。"
+    },
+    {
+      "rank": 4,
+      "title": "Broadcom vs. TSMC: Which AI Chip Stock Is the Better Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 16:54",
+      "impact": "low",
+      "category": "競爭分析",
+      "reason": "市場開始探討大型科技公司在 NVIDIA 之外的替代方案，顯示競爭對手如 Broadcom 正試圖瓜分 AI 晶片市場份額。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "How To Trade SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, TSLA Using Technical Analysis",
+      "publisher": "Benzinga",
+      "date": "2026-03-27 10:17",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為技術分析教學，不涉及公司基本面變動，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "BetterInvesting™ Magazine Update on NVIDIA Corp. (NASDAQ: NVDA) and Tennant Company (NYSE: TNC)",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 20:15",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "僅為投資雜誌的常規更新，未提供具體買賣建議或重大財務變動資訊。"
+    },
+    {
+      "rank": 3,
+      "title": "$10,000 in XRP and Bitcoin vs $10,000 in Nvidia: What Each Could Be Worth by the End of 2026",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 12:23",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "屬於投資比較類型的觀點文章，對 NVIDIA 本身業務發展無實質影響。"
+    },
+    {
+      "rank": 4,
+      "title": "Will JFrog's (FROG) New MCP and NVIDIA AI Integrations Reframe Its Autonomous Agent Narrative",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 10:04",
+      "impact": "low",
+      "category": "合作夥伴",
+      "reason": "JFrog 的產品整合對 NVIDIA 而言屬於生態系擴展，但對其整體營收影響較小。"
+    },
+    {
+      "rank": 5,
+      "title": "NVIDIA (NVDA) Shares Higher After Jim Cramer Criticized Sellers",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 13:49",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價波動歸因於媒體評論員的言論，屬於市場情緒面影響，非基本面驅動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

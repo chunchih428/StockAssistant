@@ -1,0 +1,111 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/holdings/news/CEG.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 6,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管面臨電網瓶頸與部分分析師下調目標價的短期壓力，Constellation Energy 受惠於 AI 資料中心電力需求強勁及機構投資人如 Daniel Loeb 的增持，長期成長前景依然看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Constellation Energy Taps NVIDIA AI Factories As Power Market Role Grows",
+      "publisher": "Yahoo",
+      "date": "2026-03-24",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "與 NVIDIA 合作供應 AI 資料中心電力，確立了公司在 AI 基礎設施成長浪潮中的核心供應商地位。"
+    },
+    {
+      "rank": 2,
+      "title": "Morgan Stanley Reinstates Overweight on Constellation Energy, Announces $385 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-03-25",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "摩根士丹利給予「加碼」評級，顯示機構投資人對其在能源轉型中的競爭優勢持正面看法。"
+    },
+    {
+      "rank": 3,
+      "title": "Billionaire Investor Reshuffles Utility Bets, Buys Constellation Energy And Trims PG&E",
+      "publisher": "Benzinga",
+      "date": "2026-03-23",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名對沖基金經理 Daniel Loeb 增持 47.5 萬股，反映出大型投資人對該公司基本面的信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Constellation Energy: Nuclear And Electric Demand Strength Is Going Nowhere",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-25",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "強調核能作為基載電力的不可替代性，以及 AI 驅動的電力需求成長將持續支撐公司長期獲利。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Constellation Energy Exec Says Reactor Restart Faces Grid Bottleneck",
+      "publisher": "Yahoo",
+      "date": "2026-03-26",
+      "impact": "high",
+      "category": "營運風險",
+      "reason": "高層證實三哩島核電廠重啟面臨電網瓶頸，可能延誤產能擴張計畫並影響市場對其成長速度的預期。"
+    },
+    {
+      "rank": 2,
+      "title": "B of A Securities Maintains Buy on Constellation Energy, Lowers Price Target to $401",
+      "publisher": "Benzinga",
+      "date": "2026-03-27",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "美銀證券雖維持買進評級，但將目標價從 $407 下調至 $401，反映出市場對短期估值與營運挑戰的修正。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Is Constellation Energy Corporation (CEG) Down 6.9% Since Last Earnings Report?",
+      "publisher": "Yahoo",
+      "date": "2026-03-26",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "財報後股價回調 6.9%，顯示市場對其獲利成長動能與高估值的平衡點存在疑慮。"
+    },
+    {
+      "rank": 4,
+      "title": "CEG vs. VST: Which Nuclear Stock Has the Edge in the Utility Sector?",
+      "publisher": "Yahoo",
+      "date": "2026-03-25",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "分析指出 VST 在獲利成長與 ROE 表現上優於 CEG，導致部分資金可能轉向同業。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Constellation Energy’s (CEG) DEI Push and Massive ESOP Shelf Quietly Redefining Its Capital Strategy?",
+      "publisher": "Yahoo",
+      "date": "2026-03-28",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "涉及股東提案與資本策略調整，屬於長期治理議題，對短期股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "How to make energy consumer-affordable: Constellation CEO explains",
+      "publisher": "Yahoo",
+      "date": "2026-03-25",
+      "impact": "low",
+      "category": "公司策略",
+      "reason": "CEO 針對能源價格與消費者負擔能力的公開說明，屬於例行性政策溝通。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

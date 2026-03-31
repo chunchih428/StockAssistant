@@ -1,0 +1,38 @@
+{
+  "ticker": "GPGI",
+  "company": "GPGI",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/GPGI.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "分析師評級下調與估值不確定性導致市場信心轉弱"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Needham Suspends Buy Rating on GPGI",
+      "publisher": "Benzinga",
+      "date": "2026-03-25 05:52",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Needham 宣布暫停對 GPGI 的買入評級，這通常暗示公司基本面出現不確定性或缺乏足夠的資訊來支撐原有的樂觀預期，對股價短期走勢構成顯著壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "GPGI (GPGI) Valuation Check After Recent Share Price Pullback And Conflicting Fair Value Signals",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-23",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "文章探討了股價回調後的估值合理性，並指出市場存在相互矛盾的公允價值訊號，顯示投資人對於該股當前價格是否已觸底仍存有分歧。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

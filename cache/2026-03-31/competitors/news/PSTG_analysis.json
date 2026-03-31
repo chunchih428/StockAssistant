@@ -1,0 +1,75 @@
+{
+  "ticker": "PSTG",
+  "company": "Pure Storage",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/PSTG.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 5,
+    "overall_sentiment": "bearish",
+    "key_theme": "近期受成本壓力與 AI 支出不確定性影響，股價呈現疲軟，儘管企業需求與超大規模數據中心業務仍具潛力，但市場情緒偏向保守。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Everpure (PSTG) was Volatile Despite Strong Results",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 13:27",
+      "impact": "medium",
+      "category": "財報表現",
+      "reason": "儘管股價波動劇烈，但公司財報表現強勁，顯示其核心業務在市場動盪中仍具備韌性，此篇為該主題之代表報導。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Everpure Stock Down 25% in Past 6 Months: Should You Hold or Offload?",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 13:25",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價在 6 個月內下跌 25%，主要受成本壓力與 AI 支出不確定性影響，反映出投資人對公司獲利能力的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Everpure (PSTG) Down 6% Since Last Earnings Report: Can It Rebound?",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 15:30",
+      "impact": "medium",
+      "category": "財報表現",
+      "reason": "財報公布後 30 天內股價下跌 6%，顯示市場對財報後的指引或後續成長動能持保留態度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Pure Storage, PAR Technology, IMAX, Getty Images, and Kyndryl Stocks Trade Down, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 22:49",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價下跌主要受地緣政治緊張導致的整體美股大盤走弱影響，並非公司基本面出現重大惡化。"
+    },
+    {
+      "rank": 2,
+      "title": "TTEC vs. PSTG: Which Stock Should Value Investors Buy Now?",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 15:40",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "此類文章為價值投資比較分析，旨在提供投資人選股參考，不涉及公司具體營運變動，選取 Yahoo 版本作為代表。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Everpure, Inc. (PSTG) A Good Stock To Buy Now?",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-21 21:13",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "屬於市場觀點分析，探討投資價值，未提供新的實質營運數據或重大消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

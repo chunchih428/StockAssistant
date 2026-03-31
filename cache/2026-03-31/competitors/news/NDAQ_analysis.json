@@ -1,0 +1,74 @@
+{
+  "ticker": "NDAQ",
+  "company": "Nasdaq",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/NDAQ.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 4,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "Nasdaq 透過獲得 SEC 核准代幣化證券交易以及與 Talos 合作整合數位資產基礎設施，積極擴展金融科技版圖。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "SEC Grants Approval for Nasdaq Tokenized Securities Trading via Blockchain",
+      "publisher": "Blockspace",
+      "date": "2026-03-20",
+      "impact": "high",
+      "category": "法規核准",
+      "reason": "SEC 正式核准 Nasdaq 進行基於區塊鏈的代幣化證券交易，這標誌著傳統金融市場與數位資產整合的重大里程碑，有助於提升交易效率與市場競爭力。"
+    },
+    {
+      "rank": 2,
+      "title": "Nasdaq and Talos Partner to Advance Tokenized Collateral Management Across Mainstream and Digital Asset Markets",
+      "publisher": "Yahoo",
+      "date": "2026-03-23",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "選擇此篇作為代表，因其詳細說明了將 Talos 的數位資產基礎設施整合至 Nasdaq 的 Calypso 與交易監控平台，能為客戶提供統一的抵押品管理方案，強化技術護城河。"
+    },
+    {
+      "rank": 3,
+      "title": "Carbon-Removal Credits Licensed by EU Get Nasdaq Backing",
+      "publisher": "The Wall Street Journal",
+      "date": "2026-03-26",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "Nasdaq 宣布支持歐盟授權的碳移除信用額度，此舉切入潛在價值數千億美元的綠色金融市場，展現其在 ESG 相關金融產品的布局能力。"
+    },
+    {
+      "rank": 4,
+      "title": "The Rise of Tokenized Stocks Is Being Driven by Legacy Finance",
+      "publisher": "Yahoo",
+      "date": "2026-03-23",
+      "impact": "low",
+      "category": "市場趨勢",
+      "reason": "報導指出傳統金融機構（如 Nasdaq）正成為代幣化股票市場的主要推動者，進一步驗證了公司在金融創新領域的領導地位。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Time To Reassess Nasdaq (NDAQ) After Multi Year Share Price Gains?",
+      "publisher": "Yahoo",
+      "date": "2026-03-25",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "文章探討在股價經歷多年上漲後，目前約 84 美元的價位是否已充分反映價值，屬於中性的投資評估觀點。"
+    },
+    {
+      "rank": 2,
+      "title": "Nasdaq Announces Mid-Month Open Short Interest Positions in Nasdaq Stocks as of Settlement Date March 13, 2026",
+      "publisher": "Yahoo",
+      "date": "2026-03-24",
+      "impact": "low",
+      "category": "市場數據",
+      "reason": "此為例行性的市場數據發布，提供 Nasdaq 交易所內上市股票的空頭部位統計，對公司本身股價無直接多空影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

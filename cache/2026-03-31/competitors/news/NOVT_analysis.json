@@ -1,0 +1,48 @@
+{
+  "ticker": "NOVT",
+  "company": "Novanta",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/NOVT.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "Neutral",
+    "key_theme": "公司股價受地緣政治局勢與電子元件產業整體財報表現的波動影響，缺乏明確的個股基本面驅動因素。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "United Rentals, Atkore, Novanta, EnerSys, and UFP Industries Stocks Trade Up, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-24 02:44",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "由於川普政府推遲對伊朗的軍事行動，市場避險情緒降溫，帶動包括 Novanta 在內的工業與電子元件類股出現反彈。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "BWX, Tecnoglass, SPX Technologies, Novanta, and Kimball Electronics Shares Plummet, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-20T20:22:25Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導指出 Novanta 股價出現顯著下跌，反映出市場對電子元件產業短期需求或估值的修正壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Q4 Rundown: Novanta (NASDAQ:NOVT) Vs Other Electronic Components Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 14:37",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "此篇為財報季後的產業績效回顧，將 Novanta 與同業進行比較，未提供具體的個股利多或利空訊息，僅作為產業表現的參考。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

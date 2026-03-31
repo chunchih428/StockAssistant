@@ -1,0 +1,66 @@
+{
+  "ticker": "ITRI",
+  "company": "Itron",
+  "analysis_date": "2026-03-29",
+  "source_file": "cache/2026-03-29/competitors/news/ITRI.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司透過與 Nvidia 的 AI 合作及 Ausgrid 的電網管理專案，展現了在智慧電網邊緣運算領域的技術領先地位，抵銷了短期股價回調的壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Itron (ITRI), Nvidia (NVDA) Collaborate to Integrate AI-Powered Grid Edge Intelligence With Jetson Platform",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-20T15:54:51Z",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "與 Nvidia 的合作將 AI 運算能力導入電網邊緣，顯著提升 Itron 產品的技術護城河，有助於長期市場競爭力。"
+    },
+    {
+      "rank": 2,
+      "title": "Itron & Ausgrid Tackle Solar Surge With Intelligent Grid Management",
+      "publisher": "Zacks",
+      "date": "2026-03-20T14:43:00Z",
+      "impact": "medium",
+      "category": "業務拓展",
+      "reason": "透過與 Ausgrid 的合作解決太陽能激增帶來的電網挑戰，驗證了 Itron 解決方案在再生能源整合上的實用價值。"
+    },
+    {
+      "rank": 3,
+      "title": "Itron (ITRI) Exceeds Market Returns: Some Facts to Consider",
+      "publisher": "Zacks",
+      "date": "2026-03-23T22:00:04Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析指出 Itron 近期表現優於大盤，反映市場對其基本面與成長潛力的正面認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Itron (ITRI) Down 7.8% Since Last Earnings Report: Can It Rebound?",
+      "publisher": "Zacks",
+      "date": "2026-03-19T15:30:09Z",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "財報後股價下跌 7.8 %，顯示市場對短期獲利能力或財測指引存在擔憂，需觀察後續反彈動能。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Will Itron’s (ITRI) Deeper Role in Ausgrid’s Real-Time CER Management Recast Its Grid-Edge Narrative?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-20T22:06:52Z",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "該文探討 Itron 在 Ausgrid 專案中的角色轉變，屬於中性的深度分析，旨在評估其對公司長期敘事的影響，而非直接的利多或利空消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

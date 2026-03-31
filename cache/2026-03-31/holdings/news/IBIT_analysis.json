@@ -1,0 +1,120 @@
+{
+  "ticker": "IBIT",
+  "company": "Bitcoin",
+  "analysis_date": "2026-03-30",
+  "source_file": "cache/2026-03-30/holdings/news/IBIT.json",
+  "summary": {
+    "total_articles": 11,
+    "bullish_count": 4,
+    "bearish_count": 4,
+    "neutral_count": 3,
+    "overall_sentiment": "neutral",
+    "key_theme": "比特幣 ETF 資金流向呈現短期波動，市場在機構採用率提升的長期樂觀預期與地緣政治引發的避險賣壓之間拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bitcoin ETFs Inflows Soar Past $2 Billion While Gold ETFs Bleed—A Safe Haven Shift Unfolds",
+      "publisher": "Benzinga",
+      "date": "2026-03-25 12:25",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "比特幣 ETF 吸引超過 20 億美元資金流入，顯示機構投資者正將比特幣視為數位黃金，資金從傳統黃金 ETF 轉移至比特幣 ETF，對 IBIT 具備強勁支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Bitcoin ETFs Draw in $2.5B in a Month, Close to Erasing YTD Losses",
+      "publisher": "decrypt",
+      "date": "2026-03-25 12:48",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "單月 25 億美元的淨流入顯示市場需求強勁，接近抹平年初至今的虧損，反映出投資者對 IBIT 等產品的長期信心。"
+    },
+    {
+      "rank": 3,
+      "title": "BlackRock CEO Issues Major Crypto Prediction as Bitcoin Price Stabilize",
+      "publisher": "99bitcoins",
+      "date": "2026-03-26 15:33",
+      "impact": "medium",
+      "category": "公司動態",
+      "reason": "BlackRock 執行長 Larry Fink 對加密貨幣市場的正面預測，強化了市場對 IBIT 發行商 BlackRock 在數位資產領域領導地位的信心。"
+    },
+    {
+      "rank": 4,
+      "title": "How Bitcoin Fueled Larry Fink’s Biggest Payday as BlackRock CEO",
+      "publisher": "BeInCrypto",
+      "date": "2026-03-29 20:46",
+      "impact": "low",
+      "category": "公司動態",
+      "reason": "報導指出比特幣業務對 BlackRock 獲利的貢獻，間接證明 IBIT 的成功已成為公司核心成長引擎，對股東情緒有正面影響。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bitcoin Plunges 3% And ETFs Bleed $171M After Ukraine Destroys Russian Oil Ports",
+      "publisher": "Benzinga",
+      "date": "2026-03-27 10:39",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "地緣政治衝突導致比特幣價格下跌 3%，引發 ETF 單日 1.71 億美元的流出，顯示避險情緒下投資者傾向於短期獲利了結或減倉。"
+    },
+    {
+      "rank": 2,
+      "title": "Bitcoin ETFs See Biggest Single-Day Outflow In Three Weeks",
+      "publisher": "CryptoProwl",
+      "date": "2026-03-27 13:46",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "此篇與上述流出事件重複，選此篇作為代表，強調這是三週以來最大單日流出，反映市場短期賣壓加劇。"
+    },
+    {
+      "rank": 3,
+      "title": "Shares of crypto-linked companies are trading lower amid a drop in the price of Bitcoin.",
+      "publisher": "Benzinga",
+      "date": "2026-03-27 12:42",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "比特幣價格下跌導致相關加密貨幣概念股同步走低，IBIT 作為追蹤比特幣的工具，其價格直接受比特幣現貨價格波動影響。"
+    },
+    {
+      "rank": 4,
+      "title": "Is a Bitcoin Price Drop Coming? Investors Pull $171M From ETFs in Biggest Outflow in Weeks",
+      "publisher": "CCN",
+      "date": "2026-03-28 12:12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "進一步分析流出數據，市場對價格回調的擔憂情緒升溫，可能導致短期內 IBIT 的交易量與資金流入放緩。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Morgan Stanley's Bitcoin ETF Gets Official Listing Announcement By NYSE: Analyst Says This 'Typically' Means Launch Imminent",
+      "publisher": "Benzinga",
+      "date": "2026-03-26 00:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "競爭對手 Morgan Stanley 的比特幣 ETF 即將上市，雖然增加市場競爭，但同時也驗證了比特幣 ETF 的市場需求，對 IBIT 而言是中性偏多。"
+    },
+    {
+      "rank": 2,
+      "title": "Morgan Stanley Undercuts Rivals with New Bitcoin ETF",
+      "publisher": "CryptoProwl",
+      "date": "2026-03-29 23:28",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Morgan Stanley 採取低費率策略競爭，可能對 IBIT 的市佔率構成壓力，但目前影響尚待觀察，故列為中性。"
+    },
+    {
+      "rank": 3,
+      "title": "Bitcoin: What's Really Happening Despite The Bear Market",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-24 09:00",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析指出比特幣需求結構正在轉變，儘管市場處於熊市，但機構需求依然存在，對 IBIT 的長期持有者而言屬於中性觀點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

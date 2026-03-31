@@ -1,0 +1,156 @@
+{
+  "ticker": "COIN",
+  "company": "Coinbase",
+  "analysis_date": "2026-03-30",
+  "source_file": "cache/2026-03-30/holdings/news/COIN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 6,
+    "bearish_count": 9,
+    "neutral_count": 5,
+    "overall_sentiment": "bearish",
+    "key_theme": "儘管 Coinbase 積極推動加密貨幣抵押貸款等創新業務並獲得分析師買入評級，但近期面臨加密市場回調、用戶資產保障爭議以及監管政策不確定性的多重壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Goldman Sachs Maintains Buy on Coinbase Global, Lowers Price Target to $235",
+      "publisher": "Benzinga",
+      "date": "2026-03-26 11:35",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "高盛分析師 James Yaro 維持對 Coinbase 的買入評級，儘管下調了目標價，但 235 美元的目標價仍顯示出相較於當前股價有顯著的上漲空間。"
+    },
+    {
+      "rank": 2,
+      "title": "Fannie Mae accepts first crypto-backed mortgage product",
+      "publisher": "CNBC",
+      "date": "2026-03-26 12:00",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Coinbase 與 Better Home 合作推出符合 Fannie Mae 指引的加密貨幣抵押貸款，標誌著加密資產在傳統金融領域的應用取得重大突破。"
+    },
+    {
+      "rank": 3,
+      "title": "Coinbase Integrates Chainlink to Deliver Institutional Trading Data Onchain",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 15:37",
+      "impact": "low",
+      "category": "技術合作",
+      "reason": "透過與 Chainlink 整合，Coinbase 強化了其機構級交易數據的鏈上透明度，有助於鞏固其在機構市場的競爭優勢。"
+    },
+    {
+      "rank": 4,
+      "title": "Crypto-Backed Group Reveals First Midterm Targets. Why It Matters for Coinbase.",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 16:04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Coinbase 支持的 Stand With Crypto 組織加強政治遊說，旨在影響中期選舉並推動有利於加密產業的法規制定。"
+    },
+    {
+      "rank": 5,
+      "title": "Coinbase’s Top Lawyer Says Prediction Markets Aren’t Gambling—and Predicts Supreme Court Will Agree",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 06:00",
+      "impact": "low",
+      "category": "法規",
+      "reason": "公司首席法務官積極為預測市場辯護，試圖釐清監管邊界，若勝訴將為公司開拓新業務領域提供法律依據。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Coinbase Shares Slide As Crypto Market Faces Broad Sell-Off",
+      "publisher": "Benzinga",
+      "date": "2026-03-27 08:20",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "受整體加密貨幣市場拋售潮影響，Coinbase 股價在盤前交易中下跌超過 3 %，反映出公司營收與加密市場高度相關的風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Crypto Thefts Hit $2.7 Billion as Coinbase Coverage Limits Raise Investor Questions",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 20:07",
+      "impact": "medium",
+      "category": "風險管理",
+      "reason": "加密貨幣盜竊案頻發，且 Coinbase 的保險條款與用戶預期存在落差，引發市場對其平台安全保障能力的質疑。"
+    },
+    {
+      "rank": 3,
+      "title": "Crypto Insurance Sounds Great Until You Actually Need It—Here's The Ugly Truth",
+      "publisher": "Benzinga",
+      "date": "2026-03-27 13:47",
+      "impact": "medium",
+      "category": "風險管理",
+      "reason": "報導指出 Coinbase 拒絕賠付 10 萬美元比特幣損失的案例，損害了投資人對平台資產保護機制的信任。"
+    },
+    {
+      "rank": 4,
+      "title": "Senator Lummis Says America Can't Wait Until 2030, But Coinbase Still Blocking Stablecoin Bill",
+      "publisher": "Benzinga",
+      "date": "2026-03-26 08:15",
+      "impact": "medium",
+      "category": "法規",
+      "reason": "Coinbase 因穩定幣收益條款問題反對 Clarity Act，導致與監管機構出現分歧，增加了未來法規環境的不確定性。"
+    },
+    {
+      "rank": 5,
+      "title": "Coinbase Global, Inc. (COIN) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Coinbase 股價跌幅大於大盤，顯示投資人對其基本面與市場情緒的敏感度較高，短期賣壓沉重。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Coinbase Global (COIN) Pricing In Too Much Optimism After Recent Share Price Weakness",
+      "publisher": "Yahoo",
+      "date": "2026-03-29 20:05",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章探討股價是否過度反映樂觀情緒，屬於市場分析觀點，對股價無直接驅動作用。"
+    },
+    {
+      "rank": 2,
+      "title": "Had You Invested $1,000 in Coinbase or Robinhood IPOs, Here’s What You’d Have Today",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 14:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "回顧性投資績效分析，僅供投資人參考，不影響公司當前營運。"
+    },
+    {
+      "rank": 3,
+      "title": "Stocks making the biggest moves premarket: AstraZeneca, Unity Software, Coinbase & more",
+      "publisher": "CNBC",
+      "date": "2026-03-27 07:35",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為盤前波動概覽，未提供具體基本面分析。"
+    },
+    {
+      "rank": 4,
+      "title": "Stocks making big moves this week: Shopify, Winnebago, Coinbase, STAAR Surgical, and Viavi Solutions",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 17:14",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "週度市場波動總結，屬於資訊彙整性質。"
+    },
+    {
+      "rank": 5,
+      "title": "Coinbase Stock Is Trending As Senate Stablecoin Draft Keeps Yield Pressure In Focus",
+      "publisher": "Benzinga",
+      "date": "2026-03-25 12:18",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "描述股價橫盤整理狀態，反映市場在等待政策進一步明朗。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,84 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-03-30",
+  "source_file": "cache/2026-03-30/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 5,
+    "bearish_count": 12,
+    "neutral_count": 3,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場對 Anthropic 的 Claude Mythos 洩漏事件引發的 AI 安全擔憂，導致網路安全類股出現集體拋售，抵銷了公司與 Intel 及 IBM 合作帶來的技術利多。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike Teams Up With IBM And Intel To Launch Autonomous AI Security Hub",
+      "publisher": "Benzinga",
+      "date": "2026-03-26 08:50",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "CrowdStrike 與 IBM 及 Intel 建立戰略合作，推出自主 AI 安全中心與 Charlotte AI AgentWorks 生態系統，顯著強化其在 AI PC 與自動化安全防禦領域的競爭優勢。"
+    },
+    {
+      "rank": 2,
+      "title": "I've Changed My Mind on CrowdStrike Stock. The Agentic AI Boom Changes Everything.",
+      "publisher": "Yahoo",
+      "date": "2026-03-29 11:32",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析師看好 Agentic AI 的爆發式成長將為網路安全產業帶來結構性轉變，認為近期股價回調提供了重新佈局的機會。"
+    },
+    {
+      "rank": 3,
+      "title": "CrowdStrike Stock Outlook as Cybersecurity Spending Holds",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 11:40",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "儘管面臨短期壓力，但強勁的 ARR (年度經常性收入) 成長與網路安全產業的整合趨勢，為公司長期基本面提供支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cybersecurity stocks plunge as Anthropic’s ‘Claude Mythos’ leak sparks AI fear",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 12:46",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Anthropic 的 Claude Mythos 數據洩漏事件引發市場對 AI 模型安全性的恐慌，導致 CrowdStrike 等網路安全股集體重挫，股價單日下跌約 7 %。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike Slides 7% Today as Earnings Disappoint and AI Rivals Intensify Pressure",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 14:29",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "財報表現不如預期，加上來自 AI 競爭對手的壓力加劇，導致市場信心動搖，股價出現顯著回調。"
+    },
+    {
+      "rank": 3,
+      "title": "CrowdStrike Stock Was Absolutely Hammered This Week. Why I'm Still Not Buying.",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 22:26",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "儘管營收成長強勁，但高估值使得該股在面對 AI 產業變動時顯得脆弱，分析師對當前買入持保留態度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Final Trades: Meta, IBM, CrowdStrike and the ICE U.S. Dollar Index",
+      "publisher": "CNBC",
+      "date": "2026-03-26 13:10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為財經節目中提及的觀察名單，未提供具體的買賣建議或基本面分析，對股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

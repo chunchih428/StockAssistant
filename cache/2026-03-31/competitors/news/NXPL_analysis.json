@@ -1,0 +1,38 @@
+{
+  "ticker": "NXPL",
+  "company": "NextPlat Corp",
+  "analysis_date": "2026-03-30",
+  "source_file": "cache/2026-03-30/competitors/news/NXPL.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司透過與 Healthwarehouse.com 的戰略合作推動業務擴張，但同時宣布進行 1 換 10 的反向股票分割以維持上市合規性。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "NextPlat Collaborates With Healthwarehouse.com To Immediately Enable Nationwide Fulfillment Of Prescription And OTC Products To Consumers",
+      "publisher": "Benzinga",
+      "date": "2026-03-26 09:09",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "與 Healthwarehouse.com 的合作使 NextPlat 能夠立即在全美 50 州提供處方藥與非處方藥的配送服務，顯著提升了其電商物流的規模化能力與市場覆蓋範圍，為營收成長帶來正面預期。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "NextPlat Announces 1-For-10 Reverse Stock Split Effective On April 6, 2026",
+      "publisher": "Benzinga",
+      "date": "2026-03-27 17:27",
+      "impact": "medium",
+      "category": "資本結構調整",
+      "reason": "公司宣布進行 1 換 10 的反向股票分割，通常反映了股價長期低迷以致面臨交易所下市風險的壓力，儘管此舉有助於維持上市資格，但往往會對短期市場信心造成負面影響。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}
