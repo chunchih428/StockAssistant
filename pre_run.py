@@ -337,7 +337,7 @@ class StockPrerun:
             if sym not in seen:
                 pending.append(sym)
                 seen.add(sym)
-        for peers in list(holdings_map.values()) + list(candidates_map.values()) + list(competitors_map.values()):
+        for peers in list(holdings_map.values()) + list(candidates_map.values()):
             for p in peers:
                 if p not in seen:
                     pending.append(p)
@@ -351,6 +351,10 @@ class StockPrerun:
             peers = target_map.get(sym)
 
             if peers:
+                continue
+
+            # 只替 holdings/candidates 取得同業清單，不展開競品的競品
+            if sym not in fetch_root_set:
                 continue
 
             skip_payload = skip_data.get("symbols", {}).get(sym)
@@ -496,6 +500,60 @@ class StockPrerun:
         if changed:
             self.save_company_names(company_names, portfolio_symbols)
             print("  [Company Names] 已寫回 company_names.json")
+
+    def cleanup_competitors(self, portfolio_symbols):
+        """清理 competitors.json：
+        - competitors 區塊只保留直接屬於 holdings 競品的項目
+        - 清除 competitors 的競品列表（不存在「競品的競品」）
+        """
+        comp_path = self.CONFIG_FILE.parent / "competitors.json"
+        if not comp_path.exists():
+            return
+        try:
+            raw = json.loads(comp_path.read_text(encoding="utf-8"))
+        except Exception:
+            return
+
+        if "holdings" not in raw and "competitors" not in raw and "candidates" not in raw:
+            return
+
+        holdings_map = dict(raw.get("holdings", {}))
+        competitors_map = dict(raw.get("competitors", {}))
+        candidates_map = dict(raw.get("candidates", {}))
+
+        portfolio_set = {
+            str(sym).strip().upper()
+            for sym in portfolio_symbols
+            if self._is_us_peer_symbol(str(sym).strip().upper())
+        }
+
+        # 僅允許直接屬於 holdings 的競品（不含 candidates 的競品）
+        direct_holdings_peers = set()
+        for hs in portfolio_set:
+            direct_holdings_peers.update(holdings_map.get(hs) or [])
+
+        changed = False
+        # 移除不屬於 holdings 直接競品的項目
+        for sym in list(competitors_map.keys()):
+            if sym not in direct_holdings_peers:
+                del competitors_map[sym]
+                changed = True
+
+        # 清除 competitors 的競品列表（避免「競品的競品」）
+        for sym in list(competitors_map.keys()):
+            if competitors_map[sym]:
+                competitors_map[sym] = []
+                changed = True
+
+        if changed:
+            payload = {"holdings": holdings_map, "competitors": competitors_map, "candidates": candidates_map}
+            comp_path.write_text(
+                json.dumps(payload, ensure_ascii=False, indent=2),
+                encoding="utf-8",
+            )
+            print(f"  [競品] cleanup 完成: {comp_path}")
+        else:
+            print(f"  [競品] cleanup: 無需更新")
 
     def process_cache(self):
         if not self.cache_mgr or not self.comp_cache_mgr:

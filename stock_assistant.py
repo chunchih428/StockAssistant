@@ -55,6 +55,7 @@ from market_data.fundamental import fetch_fundamental, extract_current_price
 from market_data.technical import fetch_technical
 from portfolio import calculate_allocation, enrich_option_market_data
 from market_data.analysis_ai import analyze_with_claude
+from market_data.risk import compute_portfolio_risk_metrics
 
 
 from market_data.information import fetch_news
@@ -244,6 +245,7 @@ def fetch_holdings_data(
     system_prompt='',
     sleep_seconds=1.0,
     progress_prefix='',
+    skip_news=False,
 ):
     """Fetch stock/news data and optional AI analysis for a stock list."""
     results = []
@@ -263,12 +265,15 @@ def fetch_holdings_data(
             company_names[symbol] = fund['company_name']
 
         company_name = fund.get('company_name', '')
-        news = fetch_news(
-            symbol,
-            news_count,
-            cache_mgr=cache_mgr,
-            company_name=company_name,
-        )
+        if skip_news:
+            news = []
+        else:
+            news = fetch_news(
+                symbol,
+                news_count,
+                cache_mgr=cache_mgr,
+                company_name=company_name,
+            )
 
         analysis_result = {'recommendation': 'unknown', 'scores': {}, 'analysis': ''}
         if has_api_key and 'error' not in stock_data:
@@ -412,6 +417,7 @@ def fetch_competitor_data(stocks, cache_mgr, company_names, config=None):
         has_api_key=False,
         sleep_seconds=0.5,
         progress_prefix='[競品] ',
+        skip_news=True,
     )
 
 # ═══════════════════════════════════════════════════════════════
@@ -499,6 +505,7 @@ def main():
     skip_comp_bootstrap = ('--skip-competitor-bootstrap' in sys.argv) or ('-sc' in sys.argv)
     if skip_comp_bootstrap:
         print("  [競品] 跳過 bootstrap（--skip-competitor-bootstrap）")
+        prerun.cleanup_competitors(portfolio_symbols)
     else:
         prerun.auto_populate_competitors(portfolio_symbols)
         prerun.ensure_competitor_names(company_names, portfolio_symbols)
@@ -559,6 +566,10 @@ def main():
     enrich_option_market_data(options, print_fn=print)
     allocation = calculate_allocation(results, cash, options)
 
+    # Portfolio-level risk metrics (Step 7: HHI, concentration, leverage, beta)
+    portfolio_risk = compute_portfolio_risk_metrics(allocation, results)
+    allocation['portfolio_risk'] = portfolio_risk
+
     # Save results JSON
     generated_at = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     save_data = {
@@ -567,6 +578,7 @@ def main():
             'total_value': allocation['total_value'],
             'total_pnl': allocation['total_pnl'],
             'cash': allocation['cash'],
+            'portfolio_risk': portfolio_risk,
         },
         'results': [
             {
@@ -607,6 +619,14 @@ def main():
     print(f"  加倉建議: {rec_counts.get('add', 0)} 檔")
     print(f"  減倉建議: {rec_counts.get('reduce', 0)} 檔")
     print(f"  平倉建議: {rec_counts.get('close', 0)} 檔")
+    if portfolio_risk:
+        pr = portfolio_risk
+        print(f"\n  組合風險指標:")
+        print(f"    集中度 HHI:    {pr.get('hhi', 'N/A')}  ({pr.get('hhi_label', '')})")
+        print(f"    Top-1/3/5:     {pr.get('top1_concentration')}% / {pr.get('top3_concentration')}% / {pr.get('top5_concentration')}%")
+        print(f"    有效槓桿:      {pr.get('effective_leverage')}x")
+        if pr.get('portfolio_beta') is not None:
+            print(f"    組合 Beta:     {pr.get('portfolio_beta')}")
     print(f"{'=' * 56}")
     print(f"\n  開啟儀表板:")
     print(f"    python stock_assistant.py --open")

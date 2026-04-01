@@ -209,6 +209,11 @@ def get_fundamental_data(
     if cached_fund is not None:
         fundamental = dict(cached_fund)
         fundamental["current_price"] = current_price
+        # 若 cache 中尚未包含 fund_score，則補算
+        if fundamental.get('fund_score') is None and info:
+            score_details = compute_fundamental_score(symbol, info, config)
+            fundamental['fund_score'] = score_details.get('health_score')
+            fundamental['fund_score_details'] = score_details
         return fundamental, True
 
     fundamental = {k: info.get(k) for k in FUNDAMENTAL_KEYS}

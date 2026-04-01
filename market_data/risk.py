@@ -129,3 +129,87 @@ def compute_risk_score(returns: pd.Series, info: dict, config: dict = None) -> d
         
     details['risk_score'] = round(final_score, 1)
     return details
+
+
+# ─── 組合層級風險 ──────────────────────────────────────────────────────────
+
+def compute_hhi(market_values) -> float:
+    """Herfindahl-Hirschman Index（集中度，0=完全分散，1=完全集中）"""
+    arr = np.array([abs(float(v)) for v in market_values if v is not None], dtype=float)
+    total = arr.sum()
+    if total <= 0:
+        return np.nan
+    w = arr / total
+    return float((w ** 2).sum())
+
+
+def compute_portfolio_risk_metrics(allocation: dict, results: list) -> dict:
+    """
+    計算組合層級風險指標：
+    - HHI 集中度 + Top-1/3/5
+    - 有效槓桿（含選擇權市值）
+    - 加權平均 Beta（由個股 yfinance beta 加權）
+    """
+    positions = [p for p in allocation.get('positions', []) if (p.get('market_value') or 0) > 0]
+    total_value = allocation.get('total_value', 0)
+
+    if not positions or total_value <= 0:
+        return {}
+
+    market_values = [p['market_value'] for p in positions]
+
+    # HHI
+    hhi = compute_hhi(market_values)
+    if np.isnan(hhi):
+        hhi_label = 'N/A'
+    elif hhi > 0.25:
+        hhi_label = '高度集中'
+    elif hhi > 0.15:
+        hhi_label = '中度集中'
+    elif hhi > 0.08:
+        hhi_label = '適度集中'
+    else:
+        hhi_label = '分散'
+
+    # Top-1/3/5 集中度
+    sorted_pcts = sorted([p['alloc_pct'] for p in positions], reverse=True)
+    top1 = sorted_pcts[0] if sorted_pcts else 0
+    top3 = sum(sorted_pcts[:3])
+    top5 = sum(sorted_pcts[:5])
+
+    # 有效槓桿 = (股票市值 + 選擇權市值) / 組合淨值
+    stock_exposure = sum(abs(v) for v in market_values)
+    options_value = abs(allocation.get('options_value') or 0)
+    effective_leverage = (stock_exposure + options_value) / total_value
+
+    # 加權平均 Beta（排除競品）
+    beta_vals, beta_weights = [], []
+    for r in results:
+        if r.get('stock_info', {}).get('category') == '競品參考':
+            continue
+        beta = r.get('stock_data', {}).get('fundamental', {}).get('beta')
+        price = r.get('stock_data', {}).get('fundamental', {}).get('current_price') or 0
+        shares = r.get('stock_info', {}).get('shares') or 0
+        mv = price * shares
+        if beta is not None and mv > 0:
+            try:
+                beta_vals.append(float(beta))
+                beta_weights.append(mv)
+            except (TypeError, ValueError):
+                pass
+
+    portfolio_beta = None
+    if beta_vals:
+        total_w = sum(beta_weights)
+        if total_w > 0:
+            portfolio_beta = sum(b * w for b, w in zip(beta_vals, beta_weights)) / total_w
+
+    return {
+        'hhi': _safe_round(hhi, 4),
+        'hhi_label': hhi_label,
+        'top1_concentration': _safe_round(top1, 1),
+        'top3_concentration': _safe_round(top3, 1),
+        'top5_concentration': _safe_round(top5, 1),
+        'effective_leverage': _safe_round(effective_leverage, 3),
+        'portfolio_beta': _safe_round(portfolio_beta, 2),
+    }

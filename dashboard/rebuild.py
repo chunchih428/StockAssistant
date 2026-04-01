@@ -2,7 +2,11 @@
 import datetime
 import json
 
+import yfinance as yf
+
 from cache_manager import load_latest_cache_json
+from market_data.fundamental import compute_fundamental_score
+from market_data.risk import compute_portfolio_risk_metrics
 
 from .render import generate_html
 
@@ -87,6 +91,14 @@ def rebuild_dashboard(
         symbol = stock_info['symbol']
         fund = load_latest_cache_json(cache_dir, 'holdings', 'fundamental', symbol)
         tech = load_latest_cache_json(cache_dir, 'holdings', 'technical', symbol)
+        # 補算 fund_score（若 cache 中無此欄位）
+        if fund and fund.get('fund_score') is None:
+            try:
+                info = yf.Ticker(symbol).info or {}
+                sd = compute_fundamental_score(symbol, info, prerun.config)
+                fund['fund_score'] = sd.get('health_score')
+            except Exception:
+                pass
         stock_data = {'fundamental': fund, 'technical': tech}
 
         if tech.get('current_price') is not None:
@@ -155,6 +167,14 @@ def rebuild_dashboard(
             for comp_symbol in sorted(competitor_symbols):
                 fund = load_latest_cache_json(cache_dir, 'competitors', 'fundamental', comp_symbol)
                 tech = load_latest_cache_json(cache_dir, 'competitors', 'technical', comp_symbol)
+                # 補算 fund_score（若 cache 中無此欄位）
+                if fund and fund.get('fund_score') is None:
+                    try:
+                        info = yf.Ticker(comp_symbol).info or {}
+                        sd = compute_fundamental_score(comp_symbol, info, prerun.config)
+                        fund['fund_score'] = sd.get('health_score')
+                    except Exception:
+                        pass
                 stock_data = {'fundamental': fund, 'technical': tech}
                 if tech.get('current_price') is not None:
                     fund['current_price'] = tech.get('current_price')
@@ -207,6 +227,7 @@ def rebuild_dashboard(
 
     enrich_option_market_data(options, print_fn=print_fn)
     allocation = calculate_allocation_fn(results, cash, options)
+    allocation['portfolio_risk'] = compute_portfolio_risk_metrics(allocation, results)
     generated_at = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
     html_content = generate_html_fn(results, allocation, options, generated_at)

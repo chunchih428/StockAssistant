@@ -120,6 +120,7 @@ def _build_interactive_dashboard(results, allocation, options, generated_at):
                 'freeCashflow', 'fcf_margin', 'operatingCashflow', 'totalDebt', 'totalCash',
                 'net_debt', 'debtToEquity', 'currentRatio', 'returnOnEquity', 'returnOnAssets',
                 'sector', 'industry', 'next_earnings_date', 'longBusinessSummary',
+                'fund_score',
             ]},
             'technical': tech,
             'news': [{
@@ -169,6 +170,7 @@ def _build_interactive_dashboard(results, allocation, options, generated_at):
         } for p in allocation['positions']],
         'options_value': allocation.get('options_value', 0),
         'options_pct': allocation.get('options_pct', 0),
+        'portfolio_risk': allocation.get('portfolio_risk', {}),
     }
 
     embedded_json = json.dumps(

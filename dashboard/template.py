@@ -193,6 +193,49 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
       </div>
     </div>
 
+    <!-- Portfolio Risk Metrics (Step 5-7: Tech / Fundamental / Risk) -->
+    <div v-if="data.allocation.portfolio_risk && data.allocation.portfolio_risk.hhi != null" class="panel anim" style="padding:1.25rem;margin-bottom:1.25rem;animation-delay:.13s">
+      <div style="display:flex;align-items:center;gap:.5rem;margin-bottom:.85rem">
+        <div style="padding:.4rem;background:#fef3c7;border-radius:.5rem;color:#d97706;display:flex"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div>
+        <h3 style="font-size:.95rem;font-weight:700;color:#0f172a">組合風險指標</h3>
+      </div>
+      <div style="display:flex;gap:.75rem;flex-wrap:wrap">
+        <!-- HHI -->
+        <div class="kpi" style="min-width:9rem;padding:.75rem 1rem">
+          <div class="kv" style="font-size:1.25rem">{{data.allocation.portfolio_risk.hhi}}</div>
+          <div class="kl">HHI 集中度</div>
+          <div style="font-size:.68rem;margin-top:.2rem;padding:.1rem .4rem;border-radius:.3rem;display:inline-block"
+               :style="data.allocation.portfolio_risk.hhi > 0.25 ? 'background:#fee2e2;color:#dc2626' : data.allocation.portfolio_risk.hhi > 0.15 ? 'background:#fef3c7;color:#d97706' : 'background:#dcfce7;color:#16a34a'">
+            {{data.allocation.portfolio_risk.hhi_label}}
+          </div>
+        </div>
+        <!-- Concentration -->
+        <div class="kpi" style="min-width:9rem;padding:.75rem 1rem">
+          <div class="kv" style="font-size:1.25rem">{{data.allocation.portfolio_risk.top1_concentration}}%</div>
+          <div class="kl">最大單一持倉</div>
+          <div style="font-size:.68rem;color:#94a3b8;margin-top:.2rem">
+            Top-3: {{data.allocation.portfolio_risk.top3_concentration}}% &nbsp;·&nbsp; Top-5: {{data.allocation.portfolio_risk.top5_concentration}}%
+          </div>
+        </div>
+        <!-- Effective Leverage -->
+        <div class="kpi" style="min-width:9rem;padding:.75rem 1rem">
+          <div class="kv" :style="'font-size:1.25rem' + (data.allocation.portfolio_risk.effective_leverage > 1.5 ? ';color:#dc2626' : '')">
+            {{data.allocation.portfolio_risk.effective_leverage}}x
+          </div>
+          <div class="kl">有效槓桿</div>
+          <div style="font-size:.68rem;color:#94a3b8;margin-top:.2rem">含選擇權市值</div>
+        </div>
+        <!-- Portfolio Beta -->
+        <div v-if="data.allocation.portfolio_risk.portfolio_beta != null" class="kpi" style="min-width:9rem;padding:.75rem 1rem">
+          <div class="kv" :style="'font-size:1.25rem' + (data.allocation.portfolio_risk.portfolio_beta > 1.5 ? ';color:#dc2626' : '')">
+            {{data.allocation.portfolio_risk.portfolio_beta}}
+          </div>
+          <div class="kl">加權平均 Beta</div>
+          <div style="font-size:.68rem;color:#94a3b8;margin-top:.2rem">相對大盤波動</div>
+        </div>
+      </div>
+    </div>
+
     <!-- Holdings Table grouped by category -->
     <div class="panel anim" style="padding:1.25rem;margin-bottom:1.25rem;animation-delay:.15s">
       <div style="display:flex;align-items:center;gap:.5rem;margin-bottom:1rem">
@@ -288,79 +331,266 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
       </div>
     </div>
 
-    <!-- Scoring Criteria -->
-    <div class="panel anim" style="padding:1.25rem;margin-bottom:1.25rem;animation-delay:.25s">
+
+    <!-- ── 個股評分一覽 ── -->
+    <div class="panel anim" style="padding:1.25rem;margin-bottom:1.25rem">
+      <div style="display:flex;align-items:center;gap:.5rem;margin-bottom:.85rem">
+        <div style="padding:.4rem;background:#ede9fe;border-radius:.5rem;color:#7c3aed;display:flex"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="2"/><line x1="3" y1="9" x2="21" y2="9"/><line x1="9" y1="21" x2="9" y2="9"/></svg></div>
+        <h3 style="font-size:.95rem;font-weight:700;color:#0f172a">個股評分一覽</h3>
+        <span style="margin-left:auto;font-size:.7rem;color:#94a3b8">基本面 / 技術面 / 風險  均為 0–100，分數愈高愈佳</span>
+      </div>
+      <div style="overflow-x:auto">
+        <table class="ot">
+          <thead><tr>
+            <th>代號</th>
+            <th>公司</th>
+            <th style="text-align:center">基本面</th>
+            <th style="text-align:center">技術面</th>
+            <th style="text-align:center">風險</th>
+            <th style="text-align:center">趨勢</th>
+            <th style="text-align:center">建議</th>
+          </tr></thead>
+          <tbody>
+            <template v-for="s in data.stocks.filter(s=>s.shares>0)" :key="s.symbol">
+              <tr class="row-click" @click="goDetail(s.symbol)">
+                <td style="font-weight:700">{{s.symbol}}</td>
+                <td style="font-size:.78rem;color:#475569;max-width:10rem;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">{{s.company}}</td>
+                <!-- 基本面 -->
+                <td style="text-align:center">
+                  <span v-if="s.fundamental.fund_score!=null">
+                    <span :style="'font-weight:700;font-size:.82rem;color:'+(s.fundamental.fund_score>=80?'#16a34a':s.fundamental.fund_score>=60?'#2563eb':s.fundamental.fund_score>=40?'#d97706':'#dc2626')">{{s.fundamental.fund_score}}</span>
+                    <div style="width:3.5rem;height:.3rem;background:#e2e8f0;border-radius:.2rem;margin:.2rem auto 0">
+                      <div :style="'height:100%;border-radius:.2rem;background:'+(s.fundamental.fund_score>=80?'#16a34a':s.fundamental.fund_score>=60?'#2563eb':s.fundamental.fund_score>=40?'#d97706':'#dc2626')+';width:'+Math.min(s.fundamental.fund_score,100)+'%'"></div>
+                    </div>
+                  </span>
+                  <span v-else style="color:#94a3b8;font-size:.78rem">—</span>
+                </td>
+                <!-- 技術面 -->
+                <td style="text-align:center">
+                  <span v-if="s.technical.tech_score!=null">
+                    <span :style="'font-weight:700;font-size:.82rem;color:'+(s.technical.tech_score>=80?'#16a34a':s.technical.tech_score>=60?'#2563eb':s.technical.tech_score>=40?'#d97706':'#dc2626')">{{s.technical.tech_score}}</span>
+                    <div style="width:3.5rem;height:.3rem;background:#e2e8f0;border-radius:.2rem;margin:.2rem auto 0">
+                      <div :style="'height:100%;border-radius:.2rem;background:'+(s.technical.tech_score>=80?'#16a34a':s.technical.tech_score>=60?'#2563eb':s.technical.tech_score>=40?'#d97706':'#dc2626')+';width:'+Math.min(s.technical.tech_score,100)+'%'"></div>
+                    </div>
+                  </span>
+                  <span v-else style="color:#94a3b8;font-size:.78rem">—</span>
+                </td>
+                <!-- 風險 -->
+                <td style="text-align:center">
+                  <span v-if="s.technical.risk_score!=null">
+                    <span :style="'font-weight:700;font-size:.82rem;color:'+(s.technical.risk_score>=80?'#16a34a':s.technical.risk_score>=60?'#2563eb':s.technical.risk_score>=40?'#d97706':'#dc2626')">{{s.technical.risk_score}}</span>
+                    <div style="width:3.5rem;height:.3rem;background:#e2e8f0;border-radius:.2rem;margin:.2rem auto 0">
+                      <div :style="'height:100%;border-radius:.2rem;background:'+(s.technical.risk_score>=80?'#16a34a':s.technical.risk_score>=60?'#2563eb':s.technical.risk_score>=40?'#d97706':'#dc2626')+';width:'+Math.min(s.technical.risk_score,100)+'%'"></div>
+                    </div>
+                  </span>
+                  <span v-else style="color:#94a3b8;font-size:.78rem">—</span>
+                </td>
+                <!-- 趨勢 -->
+                <td style="text-align:center">
+                  <span style="font-size:.68rem;padding:.15rem .45rem;border-radius:.3rem;font-weight:600"
+                    :style="s.technical.trend_status==='UPTREND'||s.technical.trend_status==='OVERSOLD_UPTREND'?'background:#dcfce7;color:#16a34a':s.technical.trend_status==='DOWNTREND'||s.technical.trend_status==='BREAKDOWN'?'background:#fee2e2;color:#dc2626':'background:#f1f5f9;color:#475569'">
+                    {{s.technical.trend_status||'—'}}
+                  </span>
+                </td>
+                <!-- 建議 -->
+                <td style="text-align:center">
+                  <span v-if="RI[s.recommendation]" style="font-size:.7rem;padding:.15rem .5rem;border-radius:.3rem;font-weight:600"
+                        :style="'background:'+RI[s.recommendation].bg+';color:'+RI[s.recommendation].color">
+                    {{RI[s.recommendation].label}}
+                  </span>
+                  <span v-else style="color:#94a3b8;font-size:.78rem">—</span>
+                </td>
+              </tr>
+            </template>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- ── 評分規則說明 ── -->
+    <div class="panel anim" style="padding:1.25rem;margin-bottom:1.25rem">
       <button @click="crOpen=!crOpen" style="width:100%;display:flex;align-items:center;justify-content:space-between;background:none;border:none;cursor:pointer;padding:0">
         <div style="display:flex;align-items:center;gap:.5rem">
-          <div style="padding:.4rem;background:#ecfdf5;border-radius:.5rem;color:#059669;display:flex"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg></div>
-          <h3 style="font-size:.95rem;font-weight:700;color:#0f172a">AI 評分標準與決策規則</h3>
+          <div style="padding:.4rem;background:#f0fdf4;border-radius:.5rem;color:#16a34a;display:flex"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg></div>
+          <h3 style="font-size:.95rem;font-weight:700;color:#0f172a">評分規則說明</h3>
+          <span style="font-size:.68rem;color:#94a3b8;background:#f1f5f9;padding:.15rem .5rem;border-radius:1rem;border:1px solid #e2e8f0">分色：<span style="color:#16a34a">●</span> 80+ &nbsp;<span style="color:#2563eb">●</span> 60–79 &nbsp;<span style="color:#d97706">●</span> 40–59 &nbsp;<span style="color:#dc2626">●</span> &lt;40</span>
         </div>
         <svg width="18" height="18" fill="none" stroke="#94a3b8" stroke-width="2" viewBox="0 0 24 24" :style="crOpen?'transform:rotate(180deg);transition:transform .2s':'transition:transform .2s'"><polyline points="6 9 12 15 18 9"/></svg>
       </button>
       <div v-show="crOpen" style="margin-top:1rem;border-top:1px solid #e2e8f0;padding-top:1rem">
-        <div class="crit-grid">
-          <!-- 基本面評分 -->
-          <div class="crit-card" style="border-left:3px solid #f59e0b">
-            <h4><span style="width:1.4rem;height:1.4rem;border-radius:.4rem;background:#fef3c7;color:#d97706;display:inline-flex;align-items:center;justify-content:center;font-size:.7rem">F</span> 基本面 (0-5)</h4>
-            <ul>
-              <li><span style="background:#f59e0b" class="crit-dot"></span><strong style="color:#0f172a">成長 (0-2)</strong>：營收 YoY、EPS YoY 趨勢</li>
-              <li><span style="background:#f59e0b" class="crit-dot"></span><strong style="color:#0f172a">品質 (0-2)</strong>：FCF 體質、獲利穩定性</li>
-              <li><span style="background:#f59e0b" class="crit-dot"></span><strong style="color:#0f172a">估值 (0-1)</strong>：Forward P/E 預期差</li>
-            </ul>
-            <div style="margin-top:.5rem;padding:.4rem .6rem;background:#fffbeb;border-radius:.4rem;font-size:.72rem;color:#92400e">
-              <strong>觀察指標：</strong>P/E · P/S · PEG · FCF Margin · D/E · ROE
+        <div style="display:grid;grid-template-columns:1fr;gap:1rem">
+
+          <!-- 基本面 -->
+          <div style="background:#fff;border-radius:.85rem;padding:1.15rem 1.25rem;border:1px solid #e2e8f0;border-left:3px solid #2563eb">
+            <div style="display:flex;align-items:center;gap:.5rem;margin-bottom:.85rem">
+              <span style="display:inline-flex;align-items:center;justify-content:center;width:1.5rem;height:1.5rem;border-radius:.4rem;background:#dbeafe;color:#2563eb;font-size:.7rem;font-weight:800">F</span>
+              <span style="font-size:.88rem;font-weight:700;color:#0f172a">基本面評分</span>
+              <span style="font-size:.68rem;color:#64748b;background:#f1f5f9;padding:.1rem .45rem;border-radius:.3rem">fund_score · 滿分 100</span>
+            </div>
+            <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(14rem,1fr));gap:.75rem">
+              <!-- 營收成長率 -->
+              <div style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
+                <div style="background:#dbeafe;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#1e40af;display:flex;justify-content:space-between"><span>營收成長率</span><span>滿分 15</span></div>
+                <table style="width:100%;font-size:.72rem;border-collapse:collapse">
+                  <tr><td style="padding:.3rem .6rem;color:#334155">&gt;30%</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#16a34a">+15</td></tr>
+                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">&gt;15%</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#2563eb">+11</td></tr>
+                  <tr><td style="padding:.3rem .6rem;color:#334155">&gt;5%</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+7</td></tr>
+                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">&gt;0%</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+3</td></tr>
+                  <tr><td style="padding:.3rem .6rem;color:#334155">負成長</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#dc2626">−5</td></tr>
+                </table>
+              </div>
+              <!-- 毛利率 -->
+              <div style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
+                <div style="background:#dbeafe;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#1e40af;display:flex;justify-content:space-between"><span>毛利率</span><span>滿分 15</span></div>
+                <table style="width:100%;font-size:.72rem;border-collapse:collapse">
+                  <tr><td style="padding:.3rem .6rem;color:#334155">&gt;60%</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#16a34a">+15</td></tr>
+                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">&gt;40%</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+10</td></tr>
+                  <tr><td style="padding:.3rem .6rem;color:#334155">&gt;20%</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+5</td></tr>
+                </table>
+              </div>
+              <!-- FCF Margin -->
+              <div style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
+                <div style="background:#dbeafe;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#1e40af;display:flex;justify-content:space-between"><span>FCF Margin</span><span>滿分 10</span></div>
+                <table style="width:100%;font-size:.72rem;border-collapse:collapse">
+                  <tr><td style="padding:.3rem .6rem;color:#334155">&gt;20%</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#16a34a">+10</td></tr>
+                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">&gt;10%</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+7</td></tr>
+                  <tr><td style="padding:.3rem .6rem;color:#334155">&gt;0%</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+3</td></tr>
+                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">負數</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#dc2626">−5</td></tr>
+                </table>
+              </div>
+              <!-- 負債/權益比 -->
+              <div style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
+                <div style="background:#dbeafe;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#1e40af;display:flex;justify-content:space-between"><span>負債 / 權益比</span><span>±5</span></div>
+                <table style="width:100%;font-size:.72rem;border-collapse:collapse">
+                  <tr><td style="padding:.3rem .6rem;color:#334155">&lt;0.5</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#16a34a">+5</td></tr>
+                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">&lt;1.5</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+2</td></tr>
+                  <tr><td style="padding:.3rem .6rem;color:#334155">&gt;5.0</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#dc2626">−5</td></tr>
+                </table>
+              </div>
+              <!-- 分析師評級 -->
+              <div style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
+                <div style="background:#dbeafe;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#1e40af;display:flex;justify-content:space-between"><span>分析師評級</span><span>滿分 10</span></div>
+                <table style="width:100%;font-size:.72rem;border-collapse:collapse">
+                  <tr><td style="padding:.3rem .6rem;color:#334155">&lt;1.8</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#16a34a">+10</td></tr>
+                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">&lt;2.3</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+7</td></tr>
+                  <tr><td style="padding:.3rem .6rem;color:#334155">&lt;3.0</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+3</td></tr>
+                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">&gt;4.0</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#dc2626">−5</td></tr>
+                </table>
+              </div>
+            </div>
+            <div style="margin-top:.75rem;padding:.45rem .65rem;background:#eff6ff;border-radius:.5rem;font-size:.7rem;color:#1e40af;display:flex;align-items:center;gap:.35rem">
+              <svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4"/><path d="M12 8h.01"/></svg>
+              若有知識庫基準分：最終分 = 知識庫 × 40% + 計算分 × 60%
             </div>
           </div>
-          <!-- 技術面評分 -->
-          <div class="crit-card" style="border-left:3px solid #8b5cf6">
-            <h4><span style="width:1.4rem;height:1.4rem;border-radius:.4rem;background:#f3e8ff;color:#7c3aed;display:inline-flex;align-items:center;justify-content:center;font-size:.7rem">T</span> 技術面 (0-5)</h4>
-            <ul>
-              <li><span style="background:#8b5cf6" class="crit-dot"></span><strong style="color:#0f172a">趨勢 (0-2)</strong>：50D/200D 均線方向、多空判讀</li>
-              <li><span style="background:#8b5cf6" class="crit-dot"></span><strong style="color:#0f172a">風報比 (0-2)</strong>：關鍵支撐壓力位、52W 區間</li>
-              <li><span style="background:#8b5cf6" class="crit-dot"></span><strong style="color:#0f172a">量價 (0-1)</strong>：突破放量或量縮整理確認</li>
-            </ul>
-            <div style="margin-top:.5rem;padding:.4rem .6rem;background:#faf5ff;border-radius:.4rem;font-size:.72rem;color:#6b21a8">
-              <strong>趨勢判讀：</strong>多頭(價>200D且50D上穿) · 空頭(價&lt;200D且50D下彎) · 盤整(均線糾結)
+
+          <!-- 技術面 -->
+          <div style="background:#fff;border-radius:.85rem;padding:1.15rem 1.25rem;border:1px solid #e2e8f0;border-left:3px solid #7c3aed">
+            <div style="display:flex;align-items:center;gap:.5rem;margin-bottom:.85rem">
+              <span style="display:inline-flex;align-items:center;justify-content:center;width:1.5rem;height:1.5rem;border-radius:.4rem;background:#f3e8ff;color:#7c3aed;font-size:.7rem;font-weight:800">T</span>
+              <span style="font-size:.88rem;font-weight:700;color:#0f172a">技術面評分</span>
+              <span style="font-size:.68rem;color:#64748b;background:#f1f5f9;padding:.1rem .45rem;border-radius:.3rem">tech_score · 滿分 100</span>
+            </div>
+            <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(14rem,1fr));gap:.75rem">
+              <!-- 趨勢狀態 -->
+              <div style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
+                <div style="background:#f3e8ff;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#6b21a8;display:flex;justify-content:space-between"><span>趨勢狀態</span><span>滿分 40</span></div>
+                <table style="width:100%;font-size:.72rem;border-collapse:collapse">
+                  <tr><td style="padding:.3rem .6rem;color:#334155">UPTREND</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#16a34a">40</td></tr>
+                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">OVERSOLD_UPTREND</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">35</td></tr>
+                  <tr><td style="padding:.3rem .6rem;color:#334155">RECOVERY</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">25</td></tr>
+                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">CONSOLIDATION</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">20</td></tr>
+                  <tr><td style="padding:.3rem .6rem;color:#334155">BREAKDOWN</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#d97706">10</td></tr>
+                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">DOWNTREND</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#dc2626">0</td></tr>
+                </table>
+              </div>
+              <!-- RSI-14 -->
+              <div style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
+                <div style="background:#f3e8ff;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#6b21a8;display:flex;justify-content:space-between"><span>RSI-14</span><span>滿分 20</span></div>
+                <table style="width:100%;font-size:.72rem;border-collapse:collapse">
+                  <tr><td style="padding:.3rem .6rem;color:#334155">40 – 65</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#16a34a">+20</td></tr>
+                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">30–40 / 65–75</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+12</td></tr>
+                  <tr><td style="padding:.3rem .6rem;color:#334155">&lt;30（超賣）</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+8</td></tr>
+                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">&gt;75（超買）</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#d97706">+5</td></tr>
+                </table>
+              </div>
+              <!-- MACD -->
+              <div style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
+                <div style="background:#f3e8ff;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#6b21a8;display:flex;justify-content:space-between"><span>MACD</span><span>滿分 20</span></div>
+                <table style="width:100%;font-size:.72rem;border-collapse:collapse">
+                  <tr><td style="padding:.3rem .6rem;color:#334155">多頭 &gt; 零軸</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#16a34a">+20</td></tr>
+                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">多頭 &lt; 零軸</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+12</td></tr>
+                  <tr><td style="padding:.3rem .6rem;color:#334155">空頭 &gt; 零軸</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#d97706">+6</td></tr>
+                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">空頭 &lt; 零軸</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#dc2626">0</td></tr>
+                </table>
+              </div>
+              <!-- 布林帶 %B -->
+              <div style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
+                <div style="background:#f3e8ff;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#6b21a8;display:flex;justify-content:space-between"><span>布林帶 %B</span><span>滿分 10</span></div>
+                <table style="width:100%;font-size:.72rem;border-collapse:collapse">
+                  <tr><td style="padding:.3rem .6rem;color:#334155">0.3 – 0.7</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#16a34a">+10</td></tr>
+                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">0.1 – 0.3</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+7</td></tr>
+                  <tr><td style="padding:.3rem .6rem;color:#334155">&lt;0.1 或 &gt;0.9</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#d97706">+4</td></tr>
+                </table>
+              </div>
             </div>
           </div>
-          <!-- 風險評分 -->
-          <div class="crit-card" style="border-left:3px solid #ef4444">
-            <h4><span style="width:1.4rem;height:1.4rem;border-radius:.4rem;background:#fee2e2;color:#dc2626;display:inline-flex;align-items:center;justify-content:center;font-size:.7rem">R</span> 風險 (0-5，越高越危險)</h4>
-            <ul>
-              <li><span style="background:#ef4444" class="crit-dot"></span><strong style="color:#0f172a">波動回撤 (0-2)</strong>：Beta、最大回撤幅度</li>
-              <li><span style="background:#ef4444" class="crit-dot"></span><strong style="color:#0f172a">不確定性 (0-2)</strong>：財報可見度、市場預期</li>
-              <li><span style="background:#ef4444" class="crit-dot"></span><strong style="color:#0f172a">事件風險 (0-1)</strong>：監管/訴訟/地緣等</li>
-            </ul>
-            <div style="margin-top:.5rem;padding:.4rem .6rem;background:#fef2f2;border-radius:.4rem;font-size:.72rem;color:#991b1b">
-              <strong>注意：</strong>風險分數越高代表越危險，與基本/技術面相反
+
+          <!-- 風險 -->
+          <div style="background:#fff;border-radius:.85rem;padding:1.15rem 1.25rem;border:1px solid #e2e8f0;border-left:3px solid #d97706">
+            <div style="display:flex;align-items:center;gap:.5rem;margin-bottom:.85rem">
+              <span style="display:inline-flex;align-items:center;justify-content:center;width:1.5rem;height:1.5rem;border-radius:.4rem;background:#fef3c7;color:#d97706;font-size:.7rem;font-weight:800">R</span>
+              <span style="font-size:.88rem;font-weight:700;color:#0f172a">風險評分</span>
+              <span style="font-size:.68rem;color:#64748b;background:#f1f5f9;padding:.1rem .45rem;border-radius:.3rem">risk_score · 滿分 100 · 分數愈高風險愈低</span>
+            </div>
+            <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(14rem,1fr));gap:.75rem">
+              <!-- VaR-95 -->
+              <div style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
+                <div style="background:#fef3c7;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#92400e;display:flex;justify-content:space-between"><span>VaR-95（1日）</span><span>滿分 30</span></div>
+                <table style="width:100%;font-size:.72rem;border-collapse:collapse">
+                  <tr><td style="padding:.3rem .6rem;color:#334155">損失 &lt;2%</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#16a34a">+30</td></tr>
+                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">損失 &lt;4%</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+20</td></tr>
+                  <tr><td style="padding:.3rem .6rem;color:#334155">損失 &lt;6%</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#d97706">+10</td></tr>
+                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">損失 ≥6%</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#dc2626">0</td></tr>
+                </table>
+              </div>
+              <!-- Sharpe Ratio -->
+              <div style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
+                <div style="background:#fef3c7;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#92400e;display:flex;justify-content:space-between"><span>Sharpe Ratio</span><span>滿分 25</span></div>
+                <table style="width:100%;font-size:.72rem;border-collapse:collapse">
+                  <tr><td style="padding:.3rem .6rem;color:#334155">&gt;1.0</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#16a34a">+25</td></tr>
+                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">&gt;0.5</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+15</td></tr>
+                  <tr><td style="padding:.3rem .6rem;color:#334155">&gt;0</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+5</td></tr>
+                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">≤0</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#dc2626">0</td></tr>
+                </table>
+              </div>
+              <!-- Sortino Ratio -->
+              <div style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
+                <div style="background:#fef3c7;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#92400e;display:flex;justify-content:space-between"><span>Sortino Ratio</span><span>滿分 25</span></div>
+                <table style="width:100%;font-size:.72rem;border-collapse:collapse">
+                  <tr><td style="padding:.3rem .6rem;color:#334155">&gt;1.5</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#16a34a">+25</td></tr>
+                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">&gt;1.0</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+15</td></tr>
+                  <tr><td style="padding:.3rem .6rem;color:#334155">&gt;0</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+5</td></tr>
+                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">≤0</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#dc2626">0</td></tr>
+                </table>
+              </div>
+              <!-- Beta -->
+              <div style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
+                <div style="background:#fef3c7;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#92400e;display:flex;justify-content:space-between"><span>Beta（yfinance）</span><span>滿分 20</span></div>
+                <table style="width:100%;font-size:.72rem;border-collapse:collapse">
+                  <tr><td style="padding:.3rem .6rem;color:#334155">&lt;0.8</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#16a34a">+20</td></tr>
+                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">&lt;1.2</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+15</td></tr>
+                  <tr><td style="padding:.3rem .6rem;color:#334155">&lt;1.5</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#d97706">+5</td></tr>
+                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">≥1.5</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#dc2626">0</td></tr>
+                </table>
+              </div>
+            </div>
+            <div style="margin-top:.75rem;padding:.45rem .65rem;background:#fffbeb;border-radius:.5rem;font-size:.7rem;color:#92400e;display:flex;align-items:center;gap:.35rem">
+              <svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4"/><path d="M12 8h.01"/></svg>
+              歷史資料不足時給中庸分 50。以近一年日報酬率計算（yfinance 1y）
             </div>
           </div>
-        </div>
-        <!-- Decision Rules -->
-        <div style="margin-top:1rem;padding:1rem;background:#f8fafc;border-radius:.85rem;border:1px solid #e2e8f0">
-          <h4 style="font-size:.85rem;font-weight:700;color:#0f172a;margin-bottom:.65rem;display:flex;align-items:center;gap:.4rem">
-            <svg width="16" height="16" fill="none" stroke="#0f172a" stroke-width="2" viewBox="0 0 24 24"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
-            行動決策規則
-          </h4>
-          <div style="display:flex;flex-wrap:wrap;gap:.65rem">
-            <div style="flex:1;min-width:200px;padding:.65rem;border-radius:.65rem;background:#dcfce7;border:1px solid #bbf7d0">
-              <div style="font-size:.78rem;font-weight:700;color:#166534;margin-bottom:.3rem">加倉條件</div>
-              <div style="font-size:.72rem;color:#15803d">基本面 ≥ 4 且 技術面 ≥ 3 且 風險 ≤ 2<br>或明確支撐位分批小加</div>
-            </div>
-            <div style="flex:1;min-width:200px;padding:.65rem;border-radius:.65rem;background:#fef3c7;border:1px solid #fde68a">
-              <div style="font-size:.78rem;font-weight:700;color:#92400e;margin-bottom:.3rem">減倉條件</div>
-              <div style="font-size:.72rem;color:#a16207">風險 ≥ 4<br>或 技術面 ≤ 1 且 基本面 ≤ 2<br>或 估值偏貴且近壓力位</div>
-            </div>
-            <div style="flex:1;min-width:200px;padding:.65rem;border-radius:.65rem;background:#fee2e2;border:1px solid #fecaca">
-              <div style="font-size:.78rem;font-weight:700;color:#991b1b;margin-bottom:.3rem">平倉條件</div>
-              <div style="font-size:.72rem;color:#dc2626">基本面 ≤ 1<br>或 風險 ≥ 4 且 結構破位/敘事崩塌</div>
-            </div>
-          </div>
-        </div>
-        <!-- Output Format -->
-        <div style="margin-top:.75rem;padding:.75rem 1rem;background:#f1f5f9;border-radius:.65rem;font-size:.72rem;color:#475569">
-          <strong style="color:#0f172a">每檔輸出：</strong>
-          結論(加/減/平+信心) → 持倉快照 → 估值/成長/FCF/負債表 → 評分(F/T/R) → 基本面重點 → 技術面觀點 → 催化劑 → 風控停損 → 待補資料
+
         </div>
       </div>
     </div>
@@ -652,7 +882,7 @@ const RI=__REC_INFO_JSON__;
 const C=__COLORS_JSON__;
 const {createApp}=Vue;
 createApp({
-  data(){return{data:D,view:'summary',idx:0,ddOpen:false,sq:'',anim:false,ftab:'valuation',ao:false,naNeut:false,crOpen:false,colors:C,
+  data(){return{data:D,RI:RI,view:'summary',idx:0,ddOpen:false,sq:'',anim:false,ftab:'valuation',ao:false,naNeut:false,crOpen:false,colors:C,
     ftabs:[{key:'valuation',label:'估值'},{key:'profit',label:'獲利'},{key:'growth',label:'成長'},{key:'competitors',label:'競品'}]}},
   computed:{
     cur(){return this.data.stocks[this.idx]||{}},
