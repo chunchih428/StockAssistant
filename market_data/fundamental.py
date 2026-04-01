@@ -32,37 +32,35 @@ MANUAL_SCORES = {
 # 基本面評分權重定義
 DEFAULT_FUND_WEIGHTS = {
     'rev_growth': {
-        'over_30': 15,
-        'over_15': 11,
-        'over_5': 7,
-        'over_0': 3,
-        'below_0': -5
+        'over_30': 30,
+        'over_15': 22,
+        'over_5': 14,
+        'over_0': 6,
+        'below_0': -10
     },
     'gross_margin': {
-        'over_60': 15,
-        'over_40': 10,
-        'over_20': 5,
+        'over_60': 25,
+        'over_40': 16,
+        'over_20': 8,
         'default': 0
     },
     'fcf_margin': {
-        'over_20': 10,
-        'over_10': 7,
-        'over_0': 3,
-        'below_0': -5
+        'over_20': 15,
+        'over_10': 10,
+        'over_0': 5,
+        'below_0': -8
     },
     'debt_equity': {
-        'below_05': 5,
-        'below_15': 2,
-        'over_50': -5
+        'below_05': 10,
+        'below_15': 4,
+        'over_50': -10
     },
     'analyst_rec': {
-        'below_18': 10,
-        'below_23': 7,
-        'below_30': 3,
-        'over_40': -5
-    },
-    'base_weighting': 0.4,
-    'computed_weighting': 0.6
+        'below_18': 20,
+        'below_23': 14,
+        'below_30': 6,
+        'over_40': -10
+    }
 }
 
 FUNDAMENTAL_KEYS = [
@@ -109,9 +107,9 @@ def compute_fundamental_score(ticker: str, info: dict, config: dict = None) -> d
     weights = (config or {}).get('fundamental_weights', DEFAULT_FUND_WEIGHTS)
     
     if ticker in ETF_LIKE:
-        return {'health_score': MANUAL_SCORES.get(ticker, 60), 'source': 'manual_etf'}
+        return {'health_score': 60, 'source': 'default_etf'}
         
-    score = 50.0
+    score = 0.0
     details = {}
 
     # 1. 營收成長率
@@ -176,22 +174,15 @@ def compute_fundamental_score(ticker: str, info: dict, config: dict = None) -> d
     else:
         details['analyst_rec'] = None
 
-    # 基準分調整
-    score = score - 50  # 各項目的純加分
-    
-    base_score = MANUAL_SCORES.get(ticker, 55)
-    base_weight = weights.get('base_weighting', 0.4)
-    comp_weight = weights.get('computed_weighting', 0.6)
-    
-    final_score = (base_score * base_weight) + ((50 + score) * comp_weight)
-    final_score = min(100.0, max(0.0, final_score))
+    # 總分限制在 0-100 之間
+    final_score = min(100.0, max(0.0, score))
 
     details['health_score'] = round(final_score, 1)
     
     has_valid_data = rev_growth is not None or gross_margin is not None or de_ratio is not None
     details['source'] = 'yfinance' if has_valid_data else 'fallback'
     if not has_valid_data:
-        details['health_score'] = base_score
+        details['health_score'] = 50.0  # 預設中庸分數
         
     return details
 

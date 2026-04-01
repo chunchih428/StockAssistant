@@ -61,7 +61,7 @@ def rebuild_dashboard(
         company_names_file,
         competitors_file=competitors_file,
     )
-    prerun.load_config()
+    config = prerun.load_config()
     stocks, options, cash = prerun.load_portfolio()
     portfolio_symbols = {s['symbol'] for s in stocks}
     company_names = prerun.load_company_names()
@@ -95,7 +95,7 @@ def rebuild_dashboard(
         if fund and fund.get('fund_score') is None:
             try:
                 info = yf.Ticker(symbol).info or {}
-                sd = compute_fundamental_score(symbol, info, prerun.config)
+                sd = compute_fundamental_score(symbol, info, config)
                 fund['fund_score'] = sd.get('health_score')
             except Exception:
                 pass
@@ -171,7 +171,7 @@ def rebuild_dashboard(
                 if fund and fund.get('fund_score') is None:
                     try:
                         info = yf.Ticker(comp_symbol).info or {}
-                        sd = compute_fundamental_score(comp_symbol, info, prerun.config)
+                        sd = compute_fundamental_score(comp_symbol, info, config)
                         fund['fund_score'] = sd.get('health_score')
                     except Exception:
                         pass

@@ -26,6 +26,12 @@ DEFAULT_TECH_WEIGHTS = {
         'lower': 7,      # 0.1 <= bb < 0.3
         'below_low': 4,  # bb < 0.1
         'above_high': 4  # bb > 0.9
+    },
+    'atr': {
+        'low_vol': 10,      # atr_pct < 0.02
+        'normal_vol': 6,    # atr_pct < 0.04
+        'high_vol': 2,      # atr_pct < 0.06
+        'extreme_vol': 0    # atr_pct >= 0.06
     }
 }
 
@@ -112,7 +118,7 @@ def classify_trend(close_val, ma20, ma50, ma200, rsi) -> str:
         return "CONSOLIDATION"
 
 
-def compute_tech_score(trend, rsi, macd, macd_sig, bb_pct, weights=None) -> float:
+def compute_tech_score(trend, rsi, macd, macd_sig, bb_pct, atr_pct, weights=None) -> float:
     """
     技術健康分數 0–100
     可以動態傳入 weights 來覆蓋預設權重。
@@ -120,8 +126,8 @@ def compute_tech_score(trend, rsi, macd, macd_sig, bb_pct, weights=None) -> floa
     if weights is None:
         weights = DEFAULT_TECH_WEIGHTS
 
-    score = 50.0   # 基準分可以設在外層或視為一部分，這裡保留原本邏輯
-    score = weights.get('trend', {}).get(trend, 20)
+    score = 0.0
+    score += weights.get('trend', {}).get(trend, 20)
 
     # RSI 分
     if not pd.isna(rsi):
@@ -158,6 +164,18 @@ def compute_tech_score(trend, rsi, macd, macd_sig, bb_pct, weights=None) -> floa
             score += w_bb.get('below_low', 4)
         elif bb_pct > 0.9:
             score += w_bb.get('above_high', 4)
+
+    # ATR 正規化分
+    if not pd.isna(atr_pct):
+        w_atr = weights.get('atr', {})
+        if atr_pct < 0.02:
+            score += w_atr.get('low_vol', 10)
+        elif atr_pct < 0.04:
+            score += w_atr.get('normal_vol', 6)
+        elif atr_pct < 0.06:
+            score += w_atr.get('high_vol', 2)
+        else:
+            score += w_atr.get('extreme_vol', 0)
 
     return min(100.0, max(0.0, score))
 
@@ -218,13 +236,14 @@ def compute_technical_from_history(hist, config=None, info=None):
             last_bb_l = float(bb_l.iloc[-1])
             bb_pct_val = (last_close - last_bb_l) / (last_bb_u - last_bb_l) if (last_bb_u - last_bb_l) != 0 else np.nan
             last_atr = float(atr_series.iloc[-1])
+            atr_pct_val = last_atr / last_close if last_close != 0 else np.nan
             last_vol_ratio = float(vol_ratio_series.iloc[-1])
 
             trend = classify_trend(last_close, last_ma20, last_ma50, last_ma200, last_rsi)
 
             # 從 config 中取得權重，如果沒有則使用預設
             weights = (config or {}).get('technical_weights', DEFAULT_TECH_WEIGHTS)
-            tech_score = compute_tech_score(trend, last_rsi, last_macd, last_signal, bb_pct_val, weights)
+            tech_score = compute_tech_score(trend, last_rsi, last_macd, last_signal, bb_pct_val, atr_pct_val, weights)
 
             tech.update({
                 'ma20': _safe_round(last_ma20),

@@ -172,15 +172,22 @@ def fetch_stock_data(symbol, cache_mgr=None, config=None):
 
     if cached_fund and cached_tech:
         print(f"    [Cache HIT] {symbol} 基本面+技術面")
-        # 即使快取命中，也抓最新價格
+        # 即使快取命中，也抓最新價格並補算 fund_score (若舊快取無)
         try:
             stock = yf.Ticker(symbol)
             info = stock.info or {}
             live_price = extract_current_price(info)
             if live_price:
                 cached_fund['current_price'] = live_price
+            
+            # 若快取中沒有 fund_score 則補算
+            if cached_fund.get('fund_score') is None and info:
+                from market_data.fundamental import compute_fundamental_score
+                sd = compute_fundamental_score(symbol, info, config)
+                cached_fund['fund_score'] = sd.get('health_score')
+                cached_fund['fund_score_details'] = sd
         except Exception:
-            pass  # 價格抓取失敗，沿用快取中的價格
+            pass  # 抓取失敗，沿用快取中的資料
         return {
             'symbol': symbol,
             'fundamental': cached_fund,
