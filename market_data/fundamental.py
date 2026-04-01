@@ -2,6 +2,68 @@
 
 from .fundamental_ai import translate_summary_with_gemini
 
+# 標的分類（用於選擇評分邏輯）
+ETF_LIKE = {
+    'QQQ', 'SPY', 'VOO', 'IBIT', 'SQQQ', 'TQQQ', 'QID',
+    'AMZU', 'GGLL', 'TSLL', 'METU'
+}
+
+# 手動設定的質性評分（0-100），用於無法取得財務資料的標的
+MANUAL_SCORES = {
+    # 大型科技（基本面強）
+    'NVDA':  92, 'META':  88, 'GOOGL': 87, 'GOOG': 87, 'MSFT': 89,
+    'AMZN':  86, 'AAPL':  82, 'TSLA':  70,
+    # 成長科技
+    'CRWD':  82, 'NET':   80, 'PLTR':  72, 'SHOP': 74, 'NFLX': 78,
+    'COIN':  62, 'SOFI':  58, 'IBIT':  65,
+    # 電力/基礎設施（AI 受惠）
+    'CEG':   78, 'ETN':   80, 'PWR':   79, 'VST':  76, 'VRT':  77,
+    'CCJ':   72, 'SMR':   60, 'OKLO':  50,
+    # 科技中型股
+    'NTAP':  72, 'ORCL':  76, 'PANW':  81, 'GTLB': 68, 'LASR': 55,
+    'ONDS':  40,  # 小型股，基本面較弱
+    # ETF / 指數
+    'QQQ':   80, 'VOO':   82, 'SPY':   80, 'TQQQ': 60, 'SQQQ': 40,
+    'AMZU':  65, 'GGLL':  62, 'TSLL':  58,
+    # 其他
+    'MCD':   78, 'UNH':   72, 'LMT':   74, 'COST': 80,
+}
+
+# 基本面評分權重定義
+DEFAULT_FUND_WEIGHTS = {
+    'rev_growth': {
+        'over_30': 15,
+        'over_15': 11,
+        'over_5': 7,
+        'over_0': 3,
+        'below_0': -5
+    },
+    'gross_margin': {
+        'over_60': 15,
+        'over_40': 10,
+        'over_20': 5,
+        'default': 0
+    },
+    'fcf_margin': {
+        'over_20': 10,
+        'over_10': 7,
+        'over_0': 3,
+        'below_0': -5
+    },
+    'debt_equity': {
+        'below_05': 5,
+        'below_15': 2,
+        'over_50': -5
+    },
+    'analyst_rec': {
+        'below_18': 10,
+        'below_23': 7,
+        'below_30': 3,
+        'over_40': -5
+    },
+    'base_weighting': 0.4,
+    'computed_weighting': 0.6
+}
 
 FUNDAMENTAL_KEYS = [
     "marketCap",
@@ -34,11 +96,104 @@ FUNDAMENTAL_KEYS = [
     "sector",
     "industry",
     "longBusinessSummary",
+    "recommendationMean",
 ]
 
 
 def extract_current_price(info):
     return info.get("currentPrice") or info.get("regularMarketPrice") or info.get("previousClose")
+
+
+def compute_fundamental_score(ticker: str, info: dict, config: dict = None) -> dict:
+    """根據 yfinance info 字典計算基本面健康分 (0-100)，支援動態權重"""
+    weights = (config or {}).get('fundamental_weights', DEFAULT_FUND_WEIGHTS)
+    
+    if ticker in ETF_LIKE:
+        return {'health_score': MANUAL_SCORES.get(ticker, 60), 'source': 'manual_etf'}
+        
+    score = 50.0
+    details = {}
+
+    # 1. 營收成長率
+    rev_growth = info.get('revenueGrowth', None)
+    if rev_growth is not None:
+        details['rev_growth_yoy'] = rev_growth * 100
+        w_rev = weights.get('rev_growth', {})
+        if rev_growth > 0.30:    score += w_rev.get('over_30', 15)
+        elif rev_growth > 0.15:  score += w_rev.get('over_15', 11)
+        elif rev_growth > 0.05:  score += w_rev.get('over_5', 7)
+        elif rev_growth > 0:     score += w_rev.get('over_0', 3)
+        else:                    score += w_rev.get('below_0', -5)
+    else:
+        details['rev_growth_yoy'] = None
+
+    # 2. 毛利率
+    gross_margin = info.get('grossMargins', None)
+    if gross_margin is not None:
+        details['gross_margin'] = gross_margin * 100
+        w_gm = weights.get('gross_margin', {})
+        if gross_margin > 0.60:   score += w_gm.get('over_60', 15)
+        elif gross_margin > 0.40: score += w_gm.get('over_40', 10)
+        elif gross_margin > 0.20: score += w_gm.get('over_20', 5)
+        else:                     score += w_gm.get('default', 0)
+    else:
+        details['gross_margin'] = None
+
+    # 3. 自由現金流 margin
+    fcf = info.get('freeCashflow', None)
+    rev = info.get('totalRevenue', None)
+    if fcf and rev and rev > 0:
+        fcf_margin = fcf / rev
+        details['fcf_margin'] = fcf_margin * 100
+        w_fcf = weights.get('fcf_margin', {})
+        if fcf_margin > 0.20:   score += w_fcf.get('over_20', 10)
+        elif fcf_margin > 0.10: score += w_fcf.get('over_10', 7)
+        elif fcf_margin > 0:    score += w_fcf.get('over_0', 3)
+        else:                   score += w_fcf.get('below_0', -5)
+    else:
+        details['fcf_margin'] = None
+
+    # 4. 負債/股東權益
+    de_ratio = info.get('debtToEquity', None)
+    if de_ratio is not None:
+        details['debt_equity'] = de_ratio
+        w_de = weights.get('debt_equity', {})
+        if de_ratio < 0.5:    score += w_de.get('below_05', 5)
+        elif de_ratio < 1.5:  score += w_de.get('below_15', 2)
+        elif de_ratio > 5.0:  score += w_de.get('over_50', -5)
+    else:
+        details['debt_equity'] = None
+
+    # 5. 分析師評級
+    rec = info.get('recommendationMean', None)
+    if rec is not None:
+        details['analyst_rec'] = rec
+        w_rec = weights.get('analyst_rec', {})
+        if rec < 1.8:    score += w_rec.get('below_18', 10)
+        elif rec < 2.3:  score += w_rec.get('below_23', 7)
+        elif rec < 3.0:  score += w_rec.get('below_30', 3)
+        elif rec > 4.0:  score += w_rec.get('over_40', -5)
+    else:
+        details['analyst_rec'] = None
+
+    # 基準分調整
+    score = score - 50  # 各項目的純加分
+    
+    base_score = MANUAL_SCORES.get(ticker, 55)
+    base_weight = weights.get('base_weighting', 0.4)
+    comp_weight = weights.get('computed_weighting', 0.6)
+    
+    final_score = (base_score * base_weight) + ((50 + score) * comp_weight)
+    final_score = min(100.0, max(0.0, final_score))
+
+    details['health_score'] = round(final_score, 1)
+    
+    has_valid_data = rev_growth is not None or gross_margin is not None or de_ratio is not None
+    details['source'] = 'yfinance' if has_valid_data else 'fallback'
+    if not has_valid_data:
+        details['health_score'] = base_score
+        
+    return details
 
 
 def get_fundamental_data(
@@ -49,6 +204,7 @@ def get_fundamental_data(
     cached_fund=None,
     cache_mgr=None,
     translate_summary_fn=None,
+    config=None,
 ):
     if cached_fund is not None:
         fundamental = dict(cached_fund)
@@ -83,6 +239,11 @@ def get_fundamental_data(
     except Exception:
         pass
 
+    # 計算基本面評分
+    score_details = compute_fundamental_score(symbol, info, config)
+    fundamental['fund_score'] = score_details.get('health_score')
+    fundamental['fund_score_details'] = score_details
+
     if cache_mgr:
         fund_to_cache = {k: v for k, v in fundamental.items() if k != "current_price"}
         cache_mgr.set("fundamental", symbol, fund_to_cache)
@@ -90,7 +251,7 @@ def get_fundamental_data(
     return fundamental, False
 
 
-def fetch_fundamental(symbol, cache_mgr=None, translate_summary_fn=None):
+def fetch_fundamental(symbol, cache_mgr=None, translate_summary_fn=None, config=None):
     cached_fund = cache_mgr.get("fundamental", symbol) if cache_mgr else None
     stock = yf.Ticker(symbol)
     info = stock.info or {}
@@ -107,5 +268,6 @@ def fetch_fundamental(symbol, cache_mgr=None, translate_summary_fn=None):
         cached_fund=cached_fund,
         cache_mgr=cache_mgr,
         translate_summary_fn=translate_summary_fn,
+        config=config,
     )
     return fundamental, current_price, from_cache

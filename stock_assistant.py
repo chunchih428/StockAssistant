@@ -160,7 +160,7 @@ def configure_test_mode():
 # ═══════════════════════════════════════════════════════════════
 
 
-def fetch_stock_data(symbol, cache_mgr=None):
+def fetch_stock_data(symbol, cache_mgr=None, config=None):
     """從 Yahoo Finance 抓取基本面 + 技術面數據，支援快取。"""
     # 嘗試從快取讀取
     cached_fund = cache_mgr.get('fundamental', symbol) if cache_mgr else None
@@ -197,6 +197,7 @@ def fetch_stock_data(symbol, cache_mgr=None):
             stock=stock,
             cached_tech=cached_tech,
             cache_mgr=cache_mgr,
+            config=config,
         )
         if tech_from_cache:
             print(f"    [Cache HIT] {symbol} 技術面")
@@ -208,7 +209,8 @@ def fetch_stock_data(symbol, cache_mgr=None):
 
         fundamental, _, fund_from_cache = fetch_fundamental(
             symbol=symbol,
-            cache_mgr=cache_mgr
+            cache_mgr=cache_mgr,
+            config=config
         )
         if fund_from_cache:
             print(f"    [Cache HIT] {symbol} 基本面")
@@ -252,7 +254,7 @@ def fetch_holdings_data(
         symbol = stock_info['symbol']
         print(f"  [{i}/{total}] {progress_prefix}{symbol}")
 
-        stock_data = fetch_stock_data(symbol, cache_mgr=cache_mgr)
+        stock_data = fetch_stock_data(symbol, cache_mgr=cache_mgr, config=config)
 
         fund = stock_data.get('fundamental', {})
         if symbol in company_names:
@@ -278,23 +280,38 @@ def fetch_holdings_data(
 
         if not analysis_result.get('scores') and fund and stock_data.get('technical'):
             f_score, t_score, r_score = 3, 3, 3
-            roe = fund.get('returnOnEquity', 0)
-            if roe:
-                if roe > 0.15:
-                    f_score += 1
-                if roe < 0:
-                    f_score -= 1
+            fund_score = fund.get('fund_score')
+            if fund_score is not None:
+                # 0-100分轉換為1-5分
+                f_score = min(5, max(1, int(fund_score / 20) + 1))
+            else:
+                roe = fund.get('returnOnEquity', 0)
+                if roe:
+                    if roe > 0.15:
+                        f_score += 1
+                    if roe < 0:
+                        f_score -= 1
             tech = stock_data.get('technical', {})
-            ma50 = tech.get('ma50')
-            ma200 = tech.get('ma200')
-            price = fund.get('current_price')
-            if price and ma50:
-                if price > ma50:
+            tech_score = tech.get('tech_score')
+            if tech_score is not None:
+                # 0-100分轉換為1-5分
+                t_score = min(5, max(1, int(tech_score / 20) + 1))
+            else:
+                ma50 = tech.get('ma50')
+                ma200 = tech.get('ma200')
+                price = fund.get('current_price')
+                if price and ma50:
+                    if price > ma50:
+                        t_score += 1
+                    else:
+                        t_score -= 1
+                if ma50 and ma200 and ma50 > ma200:
                     t_score += 1
-                else:
-                    t_score -= 1
-            if ma50 and ma200 and ma50 > ma200:
-                t_score += 1
+
+            risk_score = tech.get('risk_score')
+            if risk_score is not None:
+                # 0-100分轉換為1-5分
+                r_score = min(5, max(1, int(risk_score / 20) + 1))
 
             f_score = max(1, min(5, f_score))
             t_score = max(1, min(5, t_score))
