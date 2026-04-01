@@ -1,0 +1,75 @@
+{
+  "ticker": "BMI",
+  "company": "Badger Meter",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/BMI.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 5,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "分析師調升評級與目標價帶動市場信心，儘管股價短期波動，但長期投資價值獲得認可。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Baird Upgrades Badger Meter to Outperform, Raises Price Target to $173",
+      "publisher": "Benzinga",
+      "date": "2026-03-30 08:49",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Baird 分析師 Robert Mason 將評級從中立調升至優於大盤，並將目標價調升至 $173，直接推動股價上漲，為近期最強利多訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "Badger Meter: A Good Long-Term Buy At Reasonable Valuation (Rating Upgrade)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-30 16:59",
+      "impact": "medium",
+      "category": "投資建議",
+      "reason": "文章指出 BMI 的本益比處於 20 倍高位區間，但仍具備長期買入價值，為投資人提供基本面支撐觀點。"
+    },
+    {
+      "rank": 3,
+      "title": "Badger Meter (BMI) Stock Trades Up, Here Is Why",
+      "publisher": "StockStory",
+      "date": "2026-03-30 22:14",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "確認股價上漲趨勢，並歸因於市場對分析師評級調整的正面反應。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Badger Meter (BMI) Dips More Than Broader Market: What You Should Know",
+      "publisher": "Zacks",
+      "date": "2026-03-24 22:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "反映該股在 3 月 24 日表現弱於大盤，顯示短期賣壓，但屬於歷史數據，影響力已隨後續評級調升而減弱。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Badger Meter (BMI) Gains But Lags Market: What You Should Know",
+      "publisher": "Zacks",
+      "date": "2026-03-31 22:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "雖然股價上漲，但漲幅落後於大盤，屬於中性市場觀察，不具備強烈方向性指引。"
+    },
+    {
+      "rank": 2,
+      "title": "A Look At Badger Meter (BMI) Valuation After Recent Share Price Weakness",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-27 19:06",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "針對股價回調後的估值進行客觀分析，未給出明確買賣建議，屬於中性研究報告。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

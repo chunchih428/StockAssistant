@@ -1,0 +1,66 @@
+{
+  "ticker": "CNX",
+  "company": "CNX Resources",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/CNX.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "CNX 展現強勁的成長動能與技術面突破訊號，儘管面臨券商賣出評級的挑戰，市場對其價值與獲利能力仍持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "CNX Resources Corp (NYSE:CNX) Passes Key Growth Stock Screen",
+      "publisher": "ChartMill",
+      "date": "2026-03-31 10:51",
+      "impact": "high",
+      "category": "財務績效",
+      "reason": "該報導指出 CNX 在銷售額、利潤率及 ROE 等關鍵指標上表現優異，通過成長股篩選機制，顯示公司具備強勁的基本面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "CNX Resources Corp (NYSE:CNX) Shows High-Growth Momentum and Positive Technical Setup",
+      "publisher": "ChartMill",
+      "date": "2026-03-28 12:01",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "結合獲利成長與現金流動能，技術面呈現正面訊號，顯示股價具備持續上漲的潛力。"
+    },
+    {
+      "rank": 3,
+      "title": "CNX Resources Corp (NYSE:CNX) Shows Strong Technical Setup for Potential Breakout",
+      "publisher": "ChartMill",
+      "date": "2026-03-25 12:31",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "技術面顯示強勁的突破型態，為投資人提供潛在的進場點，反映市場對其短期股價走勢的樂觀預期。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Truist Securities Initiates Coverage of CNX Resources (CNX) with Sell Recommendation",
+      "publisher": "Fintel",
+      "date": "2026-03-25 00:03",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Truist Securities 給予賣出評級，可能基於對能源產業前景或公司估值的擔憂，對股價構成短期壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "CNX or CTRA: Which Is the Better Value Stock Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-03-30 15:40",
+      "impact": "low",
+      "category": "市場比較",
+      "reason": "此報導為 CNX 與 CTRA 的價值投資比較分析，未給出明確的買賣建議，僅提供投資人參考兩者的價值屬性，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

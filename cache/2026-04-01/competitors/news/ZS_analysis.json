@@ -1,0 +1,84 @@
+{
+  "ticker": "ZS",
+  "company": "Zscaler",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/ZS.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 4,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 AI 顛覆網路安全產業的擔憂逐漸消退，投資人轉而關注 Zscaler 在零信任架構與 Z-Flex 靈活定價模式下的強勁 ARR 成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "The Great Repricing Crushed This Cybersecurity Growth Stock. That's a Buying Opportunity. — Zscaler looks undervalued after its latest pullback.",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 17:25",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "分析師認為近期股價回調提供了買入機會，強調 Zscaler 在網路安全領域的成長性被市場低估。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Zscaler (ZS) Stock Is Trading Up Today — Shares of cloud security platform Zscaler (NASDAQ:ZS) jumped 4.3% in the afternoon session after sentiment improved",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 00:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場情緒好轉帶動股價單日上漲 4.3 %，反映出投資人對該公司基本面的信心回升。"
+    },
+    {
+      "rank": 3,
+      "title": "Can Zero Trust Everywhere Adoption Boost Zscaler's Long-Term Growth? — ZS' Zero Trust Everywhere adoption is accelerating, with enterprise customers surging and larger deals boosting ARR",
+      "publisher": "Yahoo",
+      "date": "2026-03-30 14:28",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "零信任架構的採用率加速，大型企業客戶增加直接推升了年度經常性收入 (ARR)，顯示長期成長動能強勁。"
+    },
+    {
+      "rank": 4,
+      "title": "Will the Rising Adoption of Z-Flex Boost Zscaler's Revenue Growth? — ZS' Z-Flex gains traction with $290M in bookings and rising multi-module deals.",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 12:50",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Z-Flex 模式獲得市場認可，錄得 2.9 億美元訂單，且多模組交易增加，有助於提升營收成長的可持續性。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Zscaler Stock Shows No Signs of Bottoming Amid Claude Mythos-Induced Crash — Zscaler stock sinks on Anthropic’s Claude Mythos leak.",
+      "publisher": "Yahoo",
+      "date": "2026-03-30 14:00",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Anthropic 的 Claude Mythos 模型洩漏引發市場對 AI 顛覆傳統網路安全業務的擔憂，導致股價承壓。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike, Zscaler, and SentinelOne Shares Plummet, What You Need To Know — A number of stocks fell in the afternoon session after the cybersecurity sector sold off",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 21:37",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "整個網路安全板塊因市場對競爭加劇的擔憂而遭到拋售，導致 Zscaler 股價隨同產業下跌。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Prediction: This Cybersecurity Stock Will Double After the AI Disruption Fears Fade",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 10:42",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該文屬於觀點評論，指出股價下跌主因是 AI 恐慌，雖對未來持樂觀態度，但未提供具體財務數據支撐，故列為中性觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,65 @@
+{
+  "ticker": "FROG",
+  "company": "JFrog",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/FROG.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 UBS 評級上調以及與 NVIDIA 在 AI 代理技術上的深度整合，市場對其軟體供應鏈平台的成長前景持樂觀態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "JFrog (FROG) Shares Skyrocket, What You Need To Know — Shares of software supply chain platform JFrog (NASDAQ:FROG) jumped 9% in the afternoon session after UBS upgraded the s",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 18:15",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "UBS 將 JFrog 評級從「中立」調升至「買入」，直接推動股價單日上漲 9 %，顯示機構投資人對其業務轉型與市場定位的信心增強。"
+    },
+    {
+      "rank": 2,
+      "title": "Will JFrog's (FROG) New MCP and NVIDIA AI Integrations Reframe Its Autonomous Agent Narrative",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 10:04",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "JFrog 推出 MCP Registry 並與 NVIDIA 進行 AI 技術整合，強化了其在自動化代理領域的競爭力，有助於提升長期營收成長潛力。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Stocks making big moves yesterday: Genuine Parts, Sabre, JFrog, Palantir Technologies, and Nubank",
+      "publisher": "StockStory",
+      "date": "2026-03-24 14:03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場盤點類新聞，列出當日股價波動較大的標的，未提供具體的財務分析或基本面變動資訊。"
+    },
+    {
+      "rank": 2,
+      "title": "Here Are Tuesday’s Top Wall Street Analyst Research Calls",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-03-24 11:54",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "彙整多檔股票的分析師報告，僅提及 JFrog 為其中之一，缺乏針對該公司個股的深入分析細節。"
+    },
+    {
+      "rank": 3,
+      "title": "Why JFrog (FROG) Stock Is Up Today",
+      "publisher": "StockStory",
+      "date": "2026-03-23 19:09",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對股價波動進行的例行性市場回顧，內容較為淺顯，未包含新的重大基本面消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

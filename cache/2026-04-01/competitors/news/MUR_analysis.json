@@ -1,0 +1,92 @@
+{
+  "ticker": "MUR",
+  "company": "Murphy Oil",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/MUR.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 5,
+    "bearish_count": 0,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司透過調升股利與成功的離岸開發策略，獲得分析師調升評級與目標價，市場對其資本回報與營運風險控管持正面態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Johnson Rice Upgrades Murphy Oil to Accumulate, Announces $63 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-03-25 08:18",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Charles Meade 將評級由「持有」調升至「累積」，並給出 63 美元的目標價，顯示對公司未來成長潛力的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Assessing Murphy Oil (MUR) Valuation After Dividend Increase And Capital Return Progress",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 00:16",
+      "impact": "high",
+      "category": "股利政策",
+      "reason": "公司將季度股利調升 8 % 至每股 0.35 美元，展現強勁的現金流與對股東回報的承諾，直接提升投資吸引力。"
+    },
+    {
+      "rank": 3,
+      "title": "Murphy Oil: Accurate Risk Assessment Results In A Field Discovery And A Very Profitable Contract",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-31 10:06",
+      "impact": "medium",
+      "category": "營運績效",
+      "reason": "報導強調公司在越南離岸開發中展現卓越的風險控管能力，成功發現油田並簽署獲利豐厚的合約，證明其技術與策略執行力。"
+    },
+    {
+      "rank": 4,
+      "title": "Murphy Oil Has Surged 48% in a Year — Can It Hold Above Wells Fargo’s $38 Price Target?",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 16:21",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價在一年內上漲 48 %，反映市場對公司能源業務的高度認可，儘管面臨目標價挑戰，但強勁的動能顯示市場情緒偏多。"
+    },
+    {
+      "rank": 5,
+      "title": "Johnson Rice Upgrades Murphy Oil (MUR)",
+      "publisher": "Fintel",
+      "date": "2026-03-25 21:55",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "此為 Johnson Rice 調升評級的簡要報導，確認了市場對該公司正面評價的共識。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Wells Fargo Maintains Equal-Weight on Murphy Oil, Raises Price Target to $38",
+      "publisher": "Benzinga",
+      "date": "2026-03-26 10:48",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師 Hanwen Chang 維持「中立」評級，雖調升目標價至 38 美元，但相較於其他看多觀點，態度相對保守。"
+    },
+    {
+      "rank": 2,
+      "title": "Murphy Oil Details Vietnam PSC Mechanics, Cost Recovery and Entitlement Production in Offshore Webinar",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 08:15",
+      "impact": "low",
+      "category": "投資人關係",
+      "reason": "公司透過網路研討會向投資人說明越南離岸專案的合約機制與成本回收細節，屬於例行性的資訊揭露，有助於市場理解營運細節。"
+    },
+    {
+      "rank": 3,
+      "title": "Murphy Oil Corporation (MUR) Discusses Production Sharing Contract Fundamentals and Their Role in Offshore Vietnam Strategy - Slideshow",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-26 19:16",
+      "impact": "low",
+      "category": "投資人關係",
+      "reason": "此為上述研討會的簡報資料公開，內容與研討會主題一致，屬於中性的資訊透明化舉措。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

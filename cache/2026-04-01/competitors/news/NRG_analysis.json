@@ -1,0 +1,66 @@
+{
+  "ticker": "NRG",
+  "company": "NRG Energy",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/NRG.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場正在權衡 AI 驅動的電力需求成長潛力與近期股價回調及債務風險之間的平衡。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Morgan Stanley Raises PT on NRG Energy (NRG) Stock",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 15:50",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "摩根士丹利 (Morgan Stanley) 上調了 NRG 的目標價，並將其列為當前最佳保守型股票之一，顯示機構投資者對其長期價值與防禦性特質的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "NRG Energy Weighs AI Power Demand Against Debt And Gas Risks",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 21:04",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "公司管理層積極強調 AI 與資料中心帶來的電力需求成長，這為 NRG 的長期營收成長提供了強勁的結構性驅動力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Is NRG (NRG) Down 17.7% Since Last Earnings Report?",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 15:30",
+      "impact": "high",
+      "category": "財報表現",
+      "reason": "自上季財報發布以來股價累計下跌 17.7%，反映出市場對財報細節或未來獲利預期的失望，此處選用 Yahoo 版本作為代表，因其涵蓋了對後續盈利預測的分析。"
+    },
+    {
+      "rank": 2,
+      "title": "NRG Energy (NRG) Declines More Than Market: Some Information for Investors",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 22:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "單日股價下跌 3.24%，表現弱於大盤，顯示短期內賣壓沉重，投資者情緒偏向保守。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Time To Reassess NRG Energy (NRG) After Its Recent Share Price Pullback?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-22 16:04",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "文章旨在引導投資者重新評估股價回調後的估值，並未給出明確的買入或賣出建議，屬於中性的市場觀察報告。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

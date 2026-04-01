@@ -1,0 +1,38 @@
+{
+  "ticker": "AME",
+  "company": "AMETEK",
+  "analysis_date": "2026-03-31",
+  "source_file": "cache/2026-03-31/competitors/news/AME.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "Neutral",
+    "key_theme": "華爾街分析師對 AMETEK 的評級出現分歧，BMO Capital 看好其成長潛力，而 Baird 則因估值考量下調目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "BMO Capital Initiates Coverage On AMETEK with Outperform Rating, Announces Price Target of $253",
+      "publisher": "Benzinga",
+      "date": "2026-03-27 08:58",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "BMO Capital 分析師 Daniel DiCicco 給予 AMETEK 優於大盤 (Outperform) 評級，並設定目標價為 253 美元，顯示市場對其長期業務表現持樂觀態度。此處選用 Benzinga 報導，因其內容涵蓋了分析師姓名與具體目標價。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Baird Maintains Neutral on AMETEK, Lowers Price Target to $235",
+      "publisher": "Benzinga",
+      "date": "2026-03-30 09:07",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Baird 分析師 Richard Eastman 維持 AMETEK 中立評級，並將目標價從 245 美元下調至 235 美元，反映出對該公司短期股價成長空間的保守看法。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

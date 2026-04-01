@@ -1,0 +1,37 @@
+{
+  "ticker": "HUBB",
+  "company": "Hubbell Inc",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/HUBB.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 0,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "neutral",
+    "key_theme": "市場正密切關注 Hubbell 在電網基礎設施支出帶動下的估值合理性及其相對於工業同業的表現。"
+  },
+  "bullish": [],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Hubbell (HUBB) Pricing Reflecting Its Grid Spending Story And Recent Share Price Run?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-24T10:03:55Z",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "文章探討了 Hubbell 在電網現代化支出趨勢下的估值是否過高，分析師關注近期股價漲幅是否已充分反映基本面利多，屬於中性的價值評估。"
+    },
+    {
+      "rank": 2,
+      "title": "How Is Hubbell's Stock Performance Compared to Other Industrial Stocks?",
+      "publisher": "Barchart",
+      "date": "2026-03-23T13:59:34Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導僅針對 Hubbell 與工業類股的相對績效進行數據比較，未涉及具體營運利多或利空消息，屬於客觀的市場表現觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

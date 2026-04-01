@@ -1,0 +1,192 @@
+{
+  "ticker": "F",
+  "company": "Ford",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/F.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 4,
+    "bearish_count": 9,
+    "neutral_count": 7,
+    "overall_sentiment": "bearish",
+    "key_theme": "Ford 面臨營運挑戰、產品召回與監管壓力，儘管部分分析師看好其長期價值，但短期股價仍受負面情緒與分析師降評影響。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ford Is A Compelling Deep Value Play - Initiating With A Buy",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-31",
+      "impact": "medium",
+      "category": "投資評級",
+      "reason": "分析師認為儘管近期營運疲軟，但 Ford 具備深層價值與長期成長潛力，因此給予買入評級。"
+    },
+    {
+      "rank": 2,
+      "title": "Ford vs. Stellantis: Which Automaker Stock Has the Edge Now?",
+      "publisher": "Yahoo",
+      "date": "2026-03-25",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "相較於 Stellantis，Ford 在營收成長、Ford Pro 部門動能及股息發放上展現出競爭優勢。"
+    },
+    {
+      "rank": 3,
+      "title": "Assessing Ford Motor (F) Valuation After New MLB Partnership And EV Sustainability Updates",
+      "publisher": "Yahoo",
+      "date": "2026-03-25",
+      "impact": "low",
+      "category": "市場行銷",
+      "reason": "透過與美國職棒大聯盟 (MLB) 的合作，Ford 試圖提升品牌形象並為投資人創造新的話題與價值故事。"
+    },
+    {
+      "rank": 4,
+      "title": "Ford and onX Give Owners a Complimentary Year of Off-Road Navigation",
+      "publisher": "Yahoo",
+      "date": "2026-03-31",
+      "impact": "low",
+      "category": "產品服務",
+      "reason": "透過與 onX 合作提供導航服務，增強了旗下越野車款（如 F-150 Raptor R）的產品附加價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Wells Fargo Maintains Underweight on Ford Motor, Lowers Price Target to $10",
+      "publisher": "Benzinga",
+      "date": "2026-03-31",
+      "impact": "high",
+      "category": "投資評級",
+      "reason": "富國銀行分析師 Colin Langan 維持減持評級，並將目標價下調至 10 美元，反映對公司財務前景的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Drivers in Dire Crashes Relied Too Much on Ford’s Hands-Free Technology, NTSB Says",
+      "publisher": "Yahoo",
+      "date": "2026-03-31",
+      "impact": "high",
+      "category": "法規與安全",
+      "reason": "美國國家運輸安全委員會 (NTSB) 指出 Ford 的自動駕駛輔助系統存在過度依賴風險，涉及致命車禍，恐引發法律與監管風險。"
+    },
+    {
+      "rank": 3,
+      "title": "Update: Ford Motor Recalling Over 250,000 SUVs in US Due to Software Issues",
+      "publisher": "Yahoo",
+      "date": "2026-03-25",
+      "impact": "medium",
+      "category": "產品召回",
+      "reason": "大規模召回 25 萬輛 SUV 處理軟體問題，將增加額外的維修成本並影響品牌信譽。"
+    },
+    {
+      "rank": 4,
+      "title": "Ford Motor Company (F) Falls More Steeply Than Broader Market",
+      "publisher": "Yahoo",
+      "date": "2026-03-30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價表現弱於大盤，顯示投資人對其近期營運表現缺乏信心。"
+    },
+    {
+      "rank": 5,
+      "title": "Ford's \"Most Radical Change\" Was Supposed to Reduce Costs. What if It Does the Opposite?",
+      "publisher": "Yahoo",
+      "date": "2026-03-28",
+      "impact": "medium",
+      "category": "企業策略",
+      "reason": "市場質疑 Ford 的轉型策略是否能有效降低成本，擔憂其在與中國車廠競爭中反而面臨更高支出。"
+    },
+    {
+      "rank": 6,
+      "title": "Ford Has Run Out Of Places To Go",
+      "publisher": "Yahoo",
+      "date": "2026-03-25",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "評論指出 Ford 在中國、歐盟及美國市場均面臨成長瓶頸，全球擴張策略受阻。"
+    },
+    {
+      "rank": 7,
+      "title": "Ford stock drops, but GM, Stellantis up for week ending March 27",
+      "publisher": "Yahoo",
+      "date": "2026-03-28",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "與同業 GM 和 Stellantis 相比，Ford 在該週股價表現相對疲弱。"
+    },
+    {
+      "rank": 8,
+      "title": "OPSEU/SEFPO slams Ford's spending priorities after another provincial budget",
+      "publisher": "Yahoo",
+      "date": "2026-03-26",
+      "impact": "low",
+      "category": "政治與法規",
+      "reason": "此新聞雖主要針對加拿大安大略省政府（Ford 政府），但負面輿論可能間接影響公司品牌形象。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ford cancels summer shutdown at 4 plants to boost F-Series production",
+      "publisher": "Yahoo",
+      "date": "2026-03-31",
+      "impact": "medium",
+      "category": "生產營運",
+      "reason": "為應對供應商火災導致的產能不足，Ford 取消夏季停工以提升 F-Series 產量，此舉為營運調整，對獲利影響尚待觀察。"
+    },
+    {
+      "rank": 2,
+      "title": "Ford CEO Jim Farley receives career‑high $27.5M compensation in 2025",
+      "publisher": "Yahoo",
+      "date": "2026-03-27",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "執行長薪酬創新高，反映公司過去一年的獲利表現，但高額薪酬亦可能引發股東對治理的討論。"
+    },
+    {
+      "rank": 3,
+      "title": "Ford Shareholder Activism Puts Governance And DEI Oversight In Focus",
+      "publisher": "Yahoo",
+      "date": "2026-03-28",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "股東提出多項治理提案，屬於年度股東大會前的常規程序，對股價短期影響有限。"
+    },
+    {
+      "rank": 4,
+      "title": "Ford Issues 2026 Proxy Statement, Sets Virtual Annual Meeting for May 14",
+      "publisher": "Yahoo",
+      "date": "2026-03-27",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "發布代理聲明與公告股東大會日期，屬於公司例行行政事務。"
+    },
+    {
+      "rank": 5,
+      "title": "Is Ford (F) Offering Value After Recent Share Price Pullback?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-04-01",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "探討股價回調後的價值投資機會，屬於中性的市場分析觀點。"
+    },
+    {
+      "rank": 6,
+      "title": "Gene Munster Says Upcoming Tesla Deliveries Will Be 'First Good Read,' As Ford, GM Scale Back EV Ambitions",
+      "publisher": "Benzinga",
+      "date": "2026-03-28",
+      "impact": "low",
+      "category": "產業趨勢",
+      "reason": "提及 Ford 縮減電動車野心，反映整體產業趨勢調整，非單一公司利空。"
+    },
+    {
+      "rank": 7,
+      "title": "How much to invest in Ford stock for $1,000 in 2026 dividends",
+      "publisher": "Yahoo",
+      "date": "2026-03-28",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "純粹的股息收益試算分析，對公司基本面無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,84 @@
+{
+  "ticker": "FDS",
+  "company": "FactSet Research Systems",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/FDS.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 1,
+    "neutral_count": 7,
+    "overall_sentiment": "bullish",
+    "key_theme": "FactSet 憑藉強勁的第二季財報表現與 AI 產品整合的進展，成功上調全年財測，展現出穩健的有機成長動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "FactSet Research Systems Raises FY2026 Adj EPS Guidance and Sales Guidance",
+      "publisher": "Benzinga",
+      "date": "2026-03-31 06:57",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司上調 2026 財年調整後每股盈餘至 17.25 - 17.75 美元，營收指引亦上調至 24.5 - 24.7 億美元，顯示管理層對未來獲利能力充滿信心。"
+    },
+    {
+      "rank": 2,
+      "title": "FactSet Research Systems Q2 Adj. EPS $4.46 Beats $4.37 Estimate, Sales $611M Beat $604M Estimate",
+      "publisher": "Benzinga",
+      "date": "2026-03-31 06:56",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "第二季財報營收與每股盈餘雙雙優於市場預期，顯示公司在核心業務與客戶獲取上表現強勁。"
+    },
+    {
+      "rank": 3,
+      "title": "FactSet’s 2026 Upgrade And New AI Tools Might Change The Case For Investing In FDS",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 20:04",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "AI 工具的整合被視為推動未來成長的關鍵，有助於提升產品競爭力並改變市場對其估值的看法。"
+    },
+    {
+      "rank": 4,
+      "title": "FactSet Expands AI Document Search Beta And Tests Pricing Power",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 12:03",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "AI 文件搜尋功能的擴大測試，顯示公司正積極將技術轉化為定價能力，有利於長期毛利率提升。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "How The FactSet (FDS) Narrative Is Shifting With AI Competition And Lower Street Targets",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 11:07",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管近期表現良好，但市場對於 AI 競爭加劇以及分析師下調目標價的擔憂，仍對股價估值造成一定壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Time To Reconsider FactSet Research Systems (FDS) After A 54% Share Price Decline?",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 12:06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討股價大幅回調後的價值投資機會，屬於市場情緒觀察，未提供具體營運變動資訊。"
+    },
+    {
+      "rank": 2,
+      "title": "FDS vs. VRSK: Which Stock Is the Better Value Option?",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 15:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "同業比較分析，旨在協助投資人進行資產配置，對公司基本面無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,38 @@
+{
+  "ticker": "DJT",
+  "company": "Trump Media & Technology Group ",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/DJT.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "Mixed",
+    "key_theme": "市場正處於機構投資意願提升與股價大幅修正後的估值重新評估之間的拉鋸戰。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Institutional Interest Growing in Trump Media & Technology Group (DJT)",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-31T22:46:35Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "機構投資者對 DJT 的關注度提升，通常被視為市場信心回穩的訊號，有助於改善該股的流動性與長期股價支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "A Look At Trump Media & Technology Group (DJT) Valuation After Steep Recent Share Price Declines",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-31T14:05:40Z",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "股價近期經歷顯著下跌，引發市場對其基本面估值的擔憂，反映出投資人對該公司獲利能力與高估值溢價的質疑。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

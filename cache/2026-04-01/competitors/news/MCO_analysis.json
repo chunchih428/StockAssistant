@@ -1,0 +1,47 @@
+{
+  "ticker": "MCO",
+  "company": "Moody's",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/MCO.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 Moody's 的核心業務韌性與 AI 衝擊風險持正面看法，儘管內部人拋售股票引發短期謹慎情緒。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "This is why AI will not be Disruptive on Moody’s Corporation (MCO) Core Business",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 19:01",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析師指出 AI 對 Moody's 核心評級業務的顛覆性有限，且 Argus 重申對該股的正面評級，顯示市場對其長期獲利能力的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Moody's Corporation: Cheap Enough And Well-Protected",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-26 11:01",
+      "impact": "medium",
+      "category": "投資建議",
+      "reason": "文章認為近期股價回調過度，強調 Moody's 作為高品質企業，其基本面依然穩健，目前估值處於合理區間，具備投資價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Moody's Insiders Sell US$4.3m Of Stock, Possibly Signalling Caution",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 14:00",
+      "impact": "low",
+      "category": "內部人交易",
+      "reason": "多位內部人拋售價值 430 萬美元的股票，雖不一定代表基本面惡化，但通常被市場解讀為管理層對短期股價表現持謹慎態度。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

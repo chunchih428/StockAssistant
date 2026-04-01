@@ -1,0 +1,93 @@
+{
+  "ticker": "VRT",
+  "company": "Vertiv",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/VRT.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 資料中心基礎設施需求強勁，公司透過擴大俄亥俄州產能與液冷技術布局持續成長，儘管面臨估值過高的分析師降評風險。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Vertiv Announces Expansion of Two Ohio Facilities, Including U.S. Headquarters",
+      "publisher": "Yahoo",
+      "date": "2026-03-30 20:12",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "公司宣布投入約 5,000 萬美元擴建俄亥俄州 Westerville 總部與 Ironton 製造廠，預計至 2029 年創造 730 個職位，直接提升液冷與冷卻系統產能以應對 AI 需求。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Vertiv (VRT) a Solid Growth Stock? 3 Reasons to Think \"Yes\"",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 16:45",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "分析指出 Vertiv 展現出高於平均水準的財務成長性，在 AI 基礎設施領域的市場地位穩固，具備長期超越大盤的潛力。"
+    },
+    {
+      "rank": 3,
+      "title": "Vertiv Gains From Expanding Client Base: Will the Momentum Continue?",
+      "publisher": "Yahoo",
+      "date": "2026-03-30 15:09",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "強調公司訂單量與積壓訂單持續成長，受惠於 AI 資料中心建設潮，強勁的客戶基礎是推動股價動能的核心。"
+    },
+    {
+      "rank": 4,
+      "title": "Vertiv Holdings Co-A (NYSE:VRT): A Prime Example of Growth at a Reasonable Price",
+      "publisher": "ChartMill",
+      "date": "2026-03-31 11:11",
+      "impact": "medium",
+      "category": "投資建議",
+      "reason": "將 Vertiv 定位為 GARP (成長型價值股)，認為其在資料中心基礎設施的成長性與當前獲利能力相匹配，具備投資吸引力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Vertiv Downgraded as Wall Street Cites Too Lofty Expectations",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 13:10",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Jefferies 將 Vertiv 評級從「買入」下調至「持有」，並將目標價從 280 美元調降至 260 美元，主要理由是市場對其成長預期過高，估值面臨修正壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Powell, Vertiv, AAON, Nextpower, and Allient Shares Are Falling, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 02:54",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受地緣政治風險（川普威脅言論）影響，導致市場整體情緒轉弱，Vertiv 隨大盤出現短期回調。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Vertiv, Flowserve, EMCOR, Terex, and Caterpillar Shares Are Soaring, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 23:57",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導市場因油價穩定而反彈，Vertiv 作為工業股之一隨大盤上漲，並非公司基本面發生重大變動。"
+    },
+    {
+      "rank": 2,
+      "title": "Is It Worth Investing in Vertiv (VRT) Based on Wall Street's Bullish Views?",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 13:30",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "僅彙整華爾街券商的平均建議 (ABR)，屬於市場共識的客觀描述，未提供新的基本面資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,75 @@
+{
+  "ticker": "ICE",
+  "company": "Intercontinental Exchange",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/ICE.json",
+  "summary": {
+    "total_articles": 11,
+    "bullish_count": 8,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "ICE 透過擴大對 Polymarket 的策略性投資與創紀錄的市場交易量，展現了強勁的業務成長動能與市場領導地位。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Intercontinental Exchange Announces New $600 Million Investment in Polymarket",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 12:00",
+      "impact": "high",
+      "category": "策略投資",
+      "reason": "ICE 完成了對 Polymarket 的 6 億美元注資，使其總持股達到 16.4 億美元，顯示公司積極佈局預測市場，此舉被視為長期成長策略的關鍵里程碑。"
+    },
+    {
+      "rank": 2,
+      "title": "ICE Reports Record Market Activity as Customers Respond to Middle East Impacts",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 11:30",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "受地緣政治影響，ICE 的大宗商品與能源交易量創下歷史新高，直接帶動交易手續費收入，展現了市場波動時期的避險與獲利能力。"
+    },
+    {
+      "rank": 3,
+      "title": "Intercontinental Exchange Reports 3.57B Shares Traded At NYSE Closing Auction, With Record Notional Of $230.5B Traded",
+      "publisher": "Benzinga",
+      "date": "2026-03-27 07:38",
+      "impact": "medium",
+      "category": "營運數據",
+      "reason": "紐約證券交易所（NYSE）收盤競價交易量達到 35.7 億股，名義價值達 2305 億美元，反映了核心業務的強勁流動性與市場市佔率。"
+    },
+    {
+      "rank": 4,
+      "title": "A Look At Intercontinental Exchange (ICE) Valuation As NYSE Partners With Securitize On Tokenized Securities System",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 10:05",
+      "impact": "medium",
+      "category": "數位轉型",
+      "reason": "NYSE 與 Securitize 合作開發代幣化證券系統，顯示 ICE 在金融科技與資產數位化領域的領先佈局，有助於提升長期估值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "ICE First Look at Mortgage Performance: Prepayments Rise on Recent Refinance Activity and Serious Delinquencies Increase as Cure Rates Slow",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 13:00",
+      "impact": "low",
+      "category": "房貸數據",
+      "reason": "房貸數據顯示嚴重拖欠率上升且修復率放緩，反映出房貸市場的信用風險增加，可能對 ICE 的房貸技術業務部門帶來潛在的營收壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Why The Narrative Around Intercontinental Exchange (ICE) Is Shifting After Recent Analyst And News Updates",
+      "publisher": "Yahoo",
+      "date": "2026-03-29 05:04",
+      "impact": "low",
+      "category": "分析師觀點",
+      "reason": "分析師將公平價值估計從 196.57 美元微調至 197.21 美元，變動幅度極小，屬於市場對近期新聞的例行性估值修正。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

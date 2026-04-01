@@ -1,0 +1,38 @@
+{
+  "ticker": "CRK",
+  "company": "Comstock Resources",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/CRK.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司股價近期表現強勁，市場正密切關注其估值水平與能源板塊的整體動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Borr Drilling, Comstock Resources, Green Plains, Core Natural Resources, and Clean Energy Fuels Stocks Trade Up, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-27T21:53:08Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Comstock Resources 股價呈現上漲趨勢，反映出能源板塊整體市場情緒轉佳，投資人對該公司近期表現持正面態度。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "A Look At Comstock Resources (CRK) Valuation After Recent Share Price Swings",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-31T10:07:24Z",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "該報導針對近期股價波動後的估值進行客觀分析，未給出明確買賣建議，主要協助投資人評估當前股價是否合理。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

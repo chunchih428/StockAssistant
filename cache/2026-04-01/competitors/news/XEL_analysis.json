@@ -1,0 +1,38 @@
+{
+  "ticker": "XEL",
+  "company": "Xcel Energy",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/XEL.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "Mixed",
+    "key_theme": "市場對於 Xcel Energy 的野火訴訟風險定價存在分歧，一方面有投行看好估值修復，另一方面則面臨聯邦監管機構的合規審查壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Xcel Energy Could Hit $89 by Year-End as UBS Argues Wildfire Risks Are Already Priced Into $76.75 Stock",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-03-24",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "瑞銀 (UBS) 分析師認為市場已充分反映野火相關的法律與賠償風險，將目標價上調至 89 美元，顯示機構投資人對該公司基本面復甦持樂觀態度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Xcel Energy Faces FERC Dam Safety Reviews And Valuation Questions",
+      "publisher": "Yahoo",
+      "date": "2026-03-31",
+      "impact": "medium",
+      "category": "法規監管",
+      "reason": "聯邦能源管理委員會 (FERC) 對公司提出多項大壩安全合規審查要求，這可能導致額外的營運成本或資本支出，並引發市場對公司資產管理能力的質疑。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

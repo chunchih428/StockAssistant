@@ -1,0 +1,93 @@
+{
+  "ticker": "SNAP",
+  "company": "Snap",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/SNAP.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 2,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "Mixed",
+    "key_theme": "激進投資人 Irenic Capital 入股推動策略轉型，與全球監管機構對未成年人保護法規的嚴格審查形成多空拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Irenic Capital Discloses Snapchat Stake, Seeks Strategy Changes to Boost Valuation",
+      "publisher": "The Wall Street Journal",
+      "date": "2026-03-31T16:32:00Z",
+      "impact": "high",
+      "category": "股權變動",
+      "reason": "激進投資人 Irenic Capital 揭露持股，市場預期其將推動 Snap 進行裁員與 AI 轉型，此舉被視為提升公司估值的關鍵催化劑，選此篇作為代表是因為其涵蓋了投資人身份與具體策略訴求。"
+    },
+    {
+      "rank": 2,
+      "title": "Snap Stock Gains After Activist Investor Takes New Stake",
+      "publisher": "The Wall Street Journal",
+      "date": "2026-03-31T16:11:28Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "反映了市場對激進投資人介入後的正面情緒反應，股價隨之走高，顯示投資人對管理層面臨外部壓力後的改革抱持期待。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Australia Probes Meta, Snap, TikTok Over Under-16 Ban, Flags A$49.5M Risk",
+      "publisher": "GuruFocus.com",
+      "date": "2026-03-31T15:55:08Z",
+      "impact": "high",
+      "category": "法規風險",
+      "reason": "澳洲政府針對未成年人社交媒體禁令展開調查，並明確指出潛在罰款風險高達 4950 萬澳元，此篇涵蓋了具體金額風險，較單純提及調查的新聞更具指標性。"
+    },
+    {
+      "rank": 2,
+      "title": "Snapchat's Compliance With Child Protection Rules Facing European Commission Probe",
+      "publisher": "Benzinga",
+      "date": "2026-03-26 07:19",
+      "impact": "medium",
+      "category": "法規風險",
+      "reason": "歐盟委員會針對非法內容與未成年人保護進行調查，增加了 Snap 在歐洲市場的營運不確定性與合規成本壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "What's Going On With Snap Stock Monday? — Snap faces EU probe into illegal content and grooming risks",
+      "publisher": "Benzinga",
+      "date": "2026-03-30 14:31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出股價在 4 美元支撐位附近徘徊，反映出監管壓力對投資人信心造成的負面影響，導致股價走勢疲軟。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Snap Stock Could Quintuple If It Cuts Staff and Pivots to AI, Activist Says",
+      "publisher": "Barrons.com",
+      "date": "2026-03-31T20:52:00Z",
+      "impact": "medium",
+      "category": "分析評論",
+      "reason": "此文為分析師觀點，探討若公司執行裁員與 AI 轉型後的潛在漲幅，屬於對未來策略的假設性評估，而非已發生的實質變動。"
+    },
+    {
+      "rank": 2,
+      "title": "2 Reasons to Like SNAP (and 1 Not So Much)",
+      "publisher": "StockStory",
+      "date": "2026-03-31T19:17:19Z",
+      "impact": "low",
+      "category": "分析評論",
+      "reason": "提供多空平衡的觀點分析，對股價短期走勢影響有限，主要作為投資人參考的綜合性評估。"
+    },
+    {
+      "rank": 3,
+      "title": "Australia Flags Instagram, TikTok And Google For Potential Violations Of World's-First Under 16 Social Media Ban",
+      "publisher": "Benzinga",
+      "date": "2026-03-31 02:25",
+      "impact": "low",
+      "category": "法規風險",
+      "reason": "此篇為上述澳洲調查事件的概括性報導，因內容與已列入 bearish 的澳洲調查新聞重疊，故歸類為中性補充資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

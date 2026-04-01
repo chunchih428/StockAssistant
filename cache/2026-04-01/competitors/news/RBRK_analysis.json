@@ -1,0 +1,75 @@
+{
+  "ticker": "RBRK",
+  "company": "Rubrik",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/RBRK.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管 Rubrik 在營運表現與 AI 產品整合上展現強勁動能，但市場對其高估值與股價表現的落差仍存有疑慮。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Rubrik announces new integration with Microsoft Defender at RSAC 2026",
+      "publisher": "TipRanks",
+      "date": "2026-03-24",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "與 Microsoft Defender 的整合強化了 Rubrik 在網路安全生態系中的地位，有助於提升企業客戶的採用率與產品黏著度。"
+    },
+    {
+      "rank": 2,
+      "title": "Rubrik: Excellent Operational Performance But Stock Performance Lagging",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-25",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "報告指出公司在營收、利潤率及 ARR (年度經常性收入) 均優於預期，顯示基本面強勁，為長期投資價值提供支撐。"
+    },
+    {
+      "rank": 3,
+      "title": "Does Rubrik’s New SAGE AI Governance And Defender Integration Change The Bull Case For RBRK?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-24",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "透過 SAGE AI 治理與 Defender 整合，Rubrik 成功切入 AI 安全領域，進一步擴大其潛在市場規模 (TAM)。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Rubrik (RBRK) Price Target Decreased by 17.25% to 89.09",
+      "publisher": "Fintel",
+      "date": "2026-03-28",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "目標價大幅下調 17.25 %，反映出市場對於該公司在高估值環境下，股價成長動能是否能持續的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Rubrik CEO on Balancing AI Growth and Cybersecurity",
+      "publisher": "WSJ",
+      "date": "2026-03-24",
+      "impact": "low",
+      "category": "高層訪談",
+      "reason": "CEO 針對 AI 成長與資安平衡的論述屬於戰略性說明，未涉及具體財務指引，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Rubrik, Inc. (RBRK) A Good Stock To Buy Now?",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-29",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該文章為綜合性市場觀點，未提供新的重大基本面資訊，僅作為投資人參考之市場情緒分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

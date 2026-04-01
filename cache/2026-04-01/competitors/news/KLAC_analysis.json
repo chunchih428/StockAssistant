@@ -1,0 +1,111 @@
+{
+  "ticker": "KLAC",
+  "company": "KLA Corporation",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/KLAC.json",
+  "summary": {
+    "total_articles": 12,
+    "bullish_count": 4,
+    "bearish_count": 4,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司強勁的資本回報計畫與穩健的財報預期支撐了長期成長信心，儘管短期面臨地緣政治與市場波動的干擾。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "KLA (KLAC) Announces an Additional $7 Billion Share Buyback and Dividend Increase",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 15:46",
+      "impact": "high",
+      "category": "資本配置",
+      "reason": "公司宣布高達 70 億美元的額外股票回購計畫並提高股利，顯示管理層對現金流的信心以及對股東回報的承諾，直接提升投資價值。"
+    },
+    {
+      "rank": 2,
+      "title": "Why KLA (KLAC) Could Beat Earnings Estimates Again",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 16:10",
+      "impact": "medium",
+      "category": "財報預期",
+      "reason": "基於 KLA 過去優異的財報表現紀錄，市場預期其具備再次超越分析師預期的潛力，強化了市場對其獲利能力的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "KLA Corporation (KLAC) Reaffirms Outlook on Analyst Day",
+      "publisher": "Yahoo",
+      "date": "2026-03-29 20:18",
+      "impact": "medium",
+      "category": "公司展望",
+      "reason": "在分析師日重申財務展望，為市場提供了明確的成長路徑，消除了投資人對短期營運不確定性的擔憂。"
+    },
+    {
+      "rank": 4,
+      "title": "Magnachip, Analog Devices, Applied Materials, KLA Corporation, and MACOM Shares Skyrocket",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 00:49",
+      "impact": "low",
+      "category": "政策利多",
+      "reason": "受惠於政府宣布的產業支持計畫，帶動半導體設備類股整體上漲，反映了政策面帶來的市場情緒提振。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Seagate, Applied Materials, KLA Corporation, Lam Research, and MACOM Stocks Trade Down",
+      "publisher": "Yahoo",
+      "date": "2026-03-30 23:18",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受伊朗戰爭引發的地緣政治緊張局勢影響，導致半導體設備類股普遍下跌，反映了宏觀風險對股價的壓抑。"
+    },
+    {
+      "rank": 2,
+      "title": "Teradyne, Applied Materials, Intel, KLA Corporation, and Semtech Shares Plummet",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 21:24",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場對 Google 新演算法 TurboQuant 的反應導致科技股整體回調，KLAC 作為半導體設備供應鏈一環亦受到波及。"
+    },
+    {
+      "rank": 3,
+      "title": "KLA (KLAC) Stock Dips While Market Gains",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 22:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價出現 -1.43% 的回調，顯示在市場整體上漲背景下，該股面臨短期獲利了結的賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Which Chip Equipment Stock Now Offers the Smartest Dip Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 13:50",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "文章探討半導體設備股的買入時機，將 KLAC 與同業進行比較，屬於中性的投資建議分析。"
+    },
+    {
+      "rank": 2,
+      "title": "Assessing KLA (KLAC) Valuation After A Powerful 1 Year Share Price Rally",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 19:07",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "針對過去一年強勁漲幅後的估值進行評估，旨在提醒投資人注意風險與回報平衡，無明顯多空傾向。"
+    },
+    {
+      "rank": 3,
+      "title": "Semiconductor Manufacturing Stocks Q4 Results: Benchmarking KLA Corporation",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 09:10",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "對第四季財報進行同業基準比較，提供客觀的數據分析，幫助投資人了解公司在產業中的相對地位。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

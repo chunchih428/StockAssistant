@@ -1,0 +1,56 @@
+{
+  "ticker": "NOVT",
+  "company": "Novanta",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/NOVT.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "分析師評級上調與市場關注度提升，帶動 Novanta 股價表現優於同業。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Baird Upgrades Novanta to Outperform, Lowers Price Target to $144",
+      "publisher": "Benzinga",
+      "date": "2026-03-30 08:54",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Baird 分析師 Robert Mason 將評級從「中立」上調至「優於大盤」，顯示對公司長期基本面轉趨樂觀，儘管目標價下調，但評級上調通常被市場視為買入訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "United Rentals, Atkore, Novanta, EnerSys, and UFP Industries Stocks Trade Up, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-24 02:44",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "公司股價呈現上漲趨勢，反映出市場對其在電子元件產業中的競爭力與近期表現給予正面回饋。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "A Look At Novanta (NOVT) Valuation As Recent Returns Pressure Contrasts With A Higher Narrative Fair Value",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 06:04",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "文章探討了近期回報壓力與敘事性公允價值之間的落差，呈現多空交織的觀點，對股價短期影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Q4 Rundown: Novanta (NASDAQ:NOVT) Vs Other Electronic Components Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 14:37",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "針對第四季財報進行同業比較，屬於例行性的市場回顧，並未提供具體的利多或利空指引。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

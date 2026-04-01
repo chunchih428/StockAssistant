@@ -1,0 +1,47 @@
+{
+  "ticker": "PGY",
+  "company": "Pagaya Technologies Ltd.",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/PGY.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 0,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場對 PGY 的獲利動能與股價持續下跌的趨勢感到擔憂，投資人正評估其估值異常與風險回報比。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Pagaya Technologies Ltd. (PGY) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "publisher": "Zacks",
+      "date": "2026-03-27",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導指出 PGY 的股價表現顯著落後於大盤，顯示市場賣壓沉重，且投資人對其基本面信心不足。"
+    },
+    {
+      "rank": 2,
+      "title": "PGY Stock: Is Pagaya's Profit Momentum Worth the Risk?",
+      "publisher": "Zacks",
+      "date": "2026-03-23",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "分析師質疑 PGY 的獲利動能是否足以支撐其風險水平，暗示公司在成長與獲利能力之間面臨挑戰。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Pagaya Technologies (PGY) Pricing Look Anomaly After Sharp Year To Date Share Slide",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-24",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "文章探討 PGY 在年初股價大幅下跌後是否存在定價異常，屬於中性的技術性估值探討，未給出明確買賣建議。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

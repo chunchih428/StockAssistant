@@ -1,0 +1,56 @@
+{
+  "ticker": "RUN",
+  "company": "Sunrun Inc.",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/RUN.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 0,
+    "overall_sentiment": "Mixed",
+    "key_theme": "市場對 Sunrun 估值與股價波動的看法分歧，短期技術面疲軟與長期價值吸引力並存。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Sunrun, Commercial Vehicle Group, Viavi Solutions, Goodyear, and ATI Stocks Trade Up, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-04-01T00:53:19Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導指出 Sunrun 股價出現上漲趨勢，顯示市場買盤回流，為近期股價修正後的正面訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "Assessing Sunrun (RUN) Valuation After Recent Share Price Weakness Attracts Investor Interest",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-29T10:04:28Z",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "分析認為股價下跌後估值變得更具吸引力，吸引了價值型投資人的關注，長期基本面支撐力道受到市場認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Sunrun (RUN) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "publisher": "Zacks",
+      "date": "2026-03-30T22:15:04Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價跌幅超過大盤，顯示該公司在當前市場環境下表現相對疲弱，投資人信心不足，賣壓較重。"
+    },
+    {
+      "rank": 2,
+      "title": "Sunrun (RUN) Increases Yet Falls Behind Market: What Investors Need to Know",
+      "publisher": "Zacks",
+      "date": "2026-03-23T22:00:05Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管股價有所上漲，但漲幅落後於整體市場，顯示其相對於大盤的動能不足，投資人對其成長潛力持保留態度。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

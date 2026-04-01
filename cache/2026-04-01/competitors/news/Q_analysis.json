@@ -1,0 +1,83 @@
+{
+  "ticker": "Q",
+  "company": "Qnity Electronics, Inc.",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/Q.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 6,
+    "bearish_count": 0,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Qnity Electronics 受惠於與 NVIDIA 的 AI 研發合作以及納入 Apple 美國製造供應鏈，市場對其成長前景持高度樂觀態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Qnity Electronics Taps NVIDIA And New Plant To Target AI Chip Demand",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 13:05",
+      "impact": "high",
+      "category": "技術合作",
+      "reason": "與 NVIDIA 建立合作關係，利用 AI 與高效能運算進行半導體材料研發，直接切入 AI 晶片供應鏈，具備長期成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple adds Bosch, Cirrus Logic, others to US manufacturing program, to invest $400 million",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 13:02",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "Apple 宣布將 Qnity Electronics 納入其 4 億美元的美國製造計畫，此舉不僅帶來穩定訂單，更提升了公司在高端供應鏈的品牌地位。此篇涵蓋了其他媒體報導的相同主題，故選為代表。"
+    },
+    {
+      "rank": 3,
+      "title": "Qnity Electronics (Q) Price Target Increased by 22.80% to 142.16",
+      "publisher": "Fintel",
+      "date": "2026-03-27 00:32",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "目標價大幅上調 22.8 %，反映市場對公司近期業務擴張與技術突破的正面預期。"
+    },
+    {
+      "rank": 4,
+      "title": "Jim Cramer on Qnity Electronics: “I Think the Company, Which Sells Materials for Semis, Is Fantastic”",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 18:01",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "知名財經評論員 Jim Cramer 公開背書，稱讚其半導體材料業務表現優異，有助於提升散戶投資信心。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Too Late To Consider Qnity Electronics (Q) After Its 31.5% Year-To-Date Jump?",
+      "publisher": "Yahoo",
+      "date": "2026-03-29 01:07",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討年初至今股價已上漲 31.5 % 後的估值合理性，提醒投資人注意過熱風險，屬於中性市場觀察。"
+    },
+    {
+      "rank": 2,
+      "title": "Assessing Qnity Electronics (Q) Valuation After Mixed Recent Share Price Performance",
+      "publisher": "Yahoo",
+      "date": "2026-03-29 02:05",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對近期股價波動進行技術性評估，提供投資人關於估值與交易表現的客觀分析。"
+    },
+    {
+      "rank": 3,
+      "title": "Lightning Round: Sell Penn Entertainment",
+      "publisher": "CNBC",
+      "date": "2026-03-25 19:51",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "Jim Cramer 在節目中提及 Qnity Electronics，雖未給予明確買進或賣出建議，但將其列入討論清單，對股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

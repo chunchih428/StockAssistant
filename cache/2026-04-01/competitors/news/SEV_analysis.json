@@ -1,0 +1,28 @@
+{
+  "ticker": "SEV",
+  "company": "Aptera Motors",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/SEV.json",
+  "summary": {
+    "total_articles": 1,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司 Q4 財報顯示虧損幅度擴大，反映出營運成本壓力與獲利能力挑戰。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Aptera Motors Q4 Adj. EPS $(0.32) Down From $(0.23) YoY",
+      "publisher": "Benzinga",
+      "date": "2026-03-30 16:49",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司每股虧損由去年同期的 $(0.23) 擴大至 $(0.32)，虧損幅度增加 39.13 %，顯示在量產前夕面臨顯著的現金消耗與獲利壓力，對股價構成負面影響。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

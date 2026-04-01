@@ -1,0 +1,120 @@
+{
+  "ticker": "MDB",
+  "company": "MongoDB",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/MDB.json",
+  "summary": {
+    "total_articles": 11,
+    "bullish_count": 4,
+    "bearish_count": 4,
+    "neutral_count": 3,
+    "overall_sentiment": "混合偏空",
+    "key_theme": "儘管公司任命新任營收長並擁有強勁現金流，但市場對 Atlas 雲端平台成長放緩及企業支出疲軟的擔憂，導致股價面臨顯著修正壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "MongoDB: Buy The Dip, Risks Are Manageable With Valuation Offset (Rating Upgrade)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-29",
+      "impact": "high",
+      "category": "投資評級",
+      "reason": "分析師指出 MDB 年初至今股價下跌約 40 %，但考慮到其強勁的成長潛力、利潤率以及超過 20 億美元的現金儲備，認為目前估值已具備吸引力，給予買進評級。"
+    },
+    {
+      "rank": 2,
+      "title": "MongoDB, Inc. (MDB) Appoints Ryan Mac Ban as Chief Revenue Officer",
+      "publisher": "Yahoo",
+      "date": "2026-03-27",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "任命 Ryan Mac Ban 為新任營收長，市場預期此舉將強化公司在 AI 與多雲策略的執行力，有助於改善銷售動能。"
+    },
+    {
+      "rank": 3,
+      "title": "Super Micro downgraded, MongoDB upgraded: Wall Street's top analyst calls",
+      "publisher": "The Fly",
+      "date": "2026-03-23",
+      "impact": "medium",
+      "category": "投資評級",
+      "reason": "華爾街分析師給予 MongoDB 升級評級，顯示部分機構投資人對其長期基本面仍持正面看法，與其他科技股的降級形成對比。"
+    },
+    {
+      "rank": 4,
+      "title": "Upland Software, Upstart, RingCentral, SoundHound AI, and MongoDB Stocks Trade Up, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-23",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出 MongoDB 股價出現短期上漲趨勢，反映市場在波動中存在買盤支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "MongoDB: Growth Surprise Is Coming — MongoDB stock plunged 30% post-earnings on Atlas slowdown and soft guidance",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-31",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "財報後股價重挫 30 %，主因是核心產品 Atlas 成長放緩且財測疲軟，顯示市場對其營收成長動能失去信心。"
+    },
+    {
+      "rank": 2,
+      "title": "MDB's Atlas Outlook Reflects Caution: Is Growth Losing Momentum?",
+      "publisher": "Yahoo",
+      "date": "2026-03-25",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場對於 Atlas 的成長前景感到擔憂，消費趨勢轉趨溫和且企業支出保持謹慎，直接影響對公司未來營收的預期。"
+    },
+    {
+      "rank": 3,
+      "title": "Why MongoDB (MDB) Stock Is Falling Today",
+      "publisher": "Yahoo",
+      "date": "2026-03-25",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "因 Anthropic 發布新消息導致股價單日下跌 6.2 %，反映出市場對競爭對手動態的高度敏感性。"
+    },
+    {
+      "rank": 4,
+      "title": "Assessing MongoDB (MDB) Valuation After A Sharp Pullback And Diverging Fair Value Estimates",
+      "publisher": "Yahoo",
+      "date": "2026-03-30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價經歷劇烈回調後，市場對於其公允價值出現分歧，顯示投資人對該股的估值模型存在不確定性。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "MongoDB vs. ServiceNow: Which AI Software Stock Has Greater Upside?",
+      "publisher": "Zacks",
+      "date": "2026-03-23",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "將 MongoDB 與 ServiceNow 進行比較，屬於產業內的橫向對比分析，未對股價產生直接驅動影響。"
+    },
+    {
+      "rank": 2,
+      "title": "MongoDB’s New CRO Appointment Puts AI And Multi Cloud Growth In Focus",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-24",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "此篇為針對 CRO 任命的深度分析，補充了 AI 與多雲策略的背景，屬於資訊性報導，對股價影響中性。"
+    },
+    {
+      "rank": 3,
+      "title": "Why MongoDB (MDB) Stock Is Falling Today",
+      "publisher": "StockStory",
+      "date": "2026-03-25",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "與 Yahoo 同名報導內容重複，選此篇作為補充，主要說明股價下跌的技術性原因。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

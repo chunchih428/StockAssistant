@@ -1,0 +1,57 @@
+{
+  "ticker": "M",
+  "company": "Macy's",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/M.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "Mixed",
+    "key_theme": "Macy's 展現財報韌性與 AI 數位轉型潛力，但仍面臨通膨壓力與分析師調降目標價的逆風。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Macy's Rolls Out AI Assistant as Users Spend 4.75x More Online",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 18:43",
+      "impact": "medium",
+      "category": "數位轉型",
+      "reason": "Macy's 導入 AI 助理後，線上用戶支出提升 4.75 倍，顯示公司在數位化與提升客戶參與度方面取得實質成效，有助於改善長期營收結構。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why TD Cowen Turned More Cautious on Macy’s (M) Despite a Fourth-Quarter Beat",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 20:08",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "TD Cowen 分析師 Oliver Chen 指出儘管 Q4 財報優於預期，但 Macy's 受通膨影響嚴重，消費力道疲軟，導致投資機構態度轉趨保守。"
+    },
+    {
+      "rank": 2,
+      "title": "Macy's (M) Price Target Decreased by 11.29% to 19.59",
+      "publisher": "Fintel",
+      "date": "2026-03-27 03:36",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "目標價下調 11.29 % 至 19.59 美元，反映市場對其未來獲利成長空間的擔憂，直接對股價估值造成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Will Macy's (M) Earnings Resilience and Major Buyback Amid Softer Sales Change Its Narrative?",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 05:04",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "報導涵蓋 Q4 營收 79.16 億美元與淨利 5.07 億美元，雖然財報展現韌性並伴隨庫藏股計畫，但銷售疲軟的現實抵銷了利多，整體呈現多空拉鋸。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

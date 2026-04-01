@@ -1,0 +1,38 @@
+{
+  "ticker": "CARG",
+  "company": "CarGurus",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/CARG.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場分析師關注 CarGurus 的成長價值與財務穩健性，認為其符合 GARP 投資策略。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cargurus Inc (NASDAQ:CARG) Fits the Peter Lynch GARP Investment Framework",
+      "publisher": "ChartMill",
+      "date": "2026-03-31 12:21",
+      "impact": "medium",
+      "category": "投資分析",
+      "reason": "該分析指出 CarGurus 具備穩定的獲利成長與無負債的資產負債表，符合彼得 · 林區 (Peter Lynch) 的 GARP (成長型價值投資) 策略，對長期投資人具吸引力。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "CMRC or CARG: Which Is the Better Value Stock Right Now?",
+      "publisher": "Zacks",
+      "date": "2026-03-25",
+      "impact": "low",
+      "category": "市場比較",
+      "reason": "文章僅進行 CARG 與 CMRC 的價值股比較分析，未對 CARG 本身給出明確的買進或賣出建議，屬於中性的市場觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

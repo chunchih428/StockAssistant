@@ -1,0 +1,46 @@
+{
+  "ticker": "SO",
+  "company": "Southern",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/SO.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "Southern Company 受益於再生能源布局擴張及市場對政策風險的過度擔憂消退，股價表現優於大盤。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Southern Company Risk Looks Overdone as Policy Fears Fade",
+      "publisher": "Mizuho / 24/7 Wall St.",
+      "date": "2026-03-27",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Mizuho 維持對 Southern Company 的「優於大盤」評級，指出市場先前對政策風險的擔憂已過度反應，此觀點有助於修復市場信心。此篇彙整了兩家媒體報導，因其直接影響投資人對風險溢價的評估。"
+    },
+    {
+      "rank": 2,
+      "title": "Taking A Fresh Look At Southern (SO) Valuation After Georgia Power’s Largest Distributed Solar Commitment",
+      "publisher": "Yahoo",
+      "date": "2026-03-27",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "子公司 Georgia Power 獲得監管批准，將執行 16 項分散式太陽能購電協議，顯示公司在綠能轉型與基礎設施建設上的執行力，長期有利於提升 ESG 評級與營收穩定性。"
+    },
+    {
+      "rank": 3,
+      "title": "Southern Co. (SO) Rises As Market Takes a Dip: Key Facts",
+      "publisher": "Zacks / Yahoo",
+      "date": "2026-03-30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "在整體市場回調的背景下，SO 股價逆勢上漲 1.44 %，顯示其作為公用事業股的防禦性特質受到資金青睞。此處選用 Zacks 作為代表，因其提供了具體的股價變動數據。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

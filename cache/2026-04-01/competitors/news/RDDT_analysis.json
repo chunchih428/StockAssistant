@@ -1,0 +1,84 @@
+{
+  "ticker": "RDDT",
+  "company": "Reddit",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/RDDT.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 2,
+    "bearish_count": 3,
+    "neutral_count": 2,
+    "overall_sentiment": "Mixed",
+    "key_theme": "Reddit 股價近期波動劇烈，主要受內部人士拋售、AI 數據價值潛力以及法律監管風險等多重因素交互影響。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Reddit (RDDT) Shares Skyrocket, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-31",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價出現顯著上漲，顯示市場對 Reddit 的成長動能與投資價值重新評估，為近期最強勁的正面訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "Reddit Starting To Look Straight-Up Attractive At This Price",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-28",
+      "impact": "medium",
+      "category": "投資分析",
+      "reason": "分析師指出 Reddit 獨特的人類生成內容對 AI 開發者與廣告商具有高度價值，基本面吸引力提升。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Reddit Shares Are Trending Lower On Thursday? — Reddit (RDDT) stock drops over 8% on Thursday following insider sales by the CTO and COO amid a broader Nasdaq sell-off.",
+      "publisher": "Benzinga",
+      "date": "2026-03-26",
+      "impact": "high",
+      "category": "高層異動",
+      "reason": "CTO 與 COO 的內部拋售行為引發市場對公司前景的擔憂，加上 Nasdaq 大盤走弱，導致股價單日重挫超過 8 %。"
+    },
+    {
+      "rank": 2,
+      "title": "US Jury Ruling Puts Reddit’s Engagement Model Under New Scrutiny",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-29",
+      "impact": "medium",
+      "category": "法規與訴訟",
+      "reason": "美國陪審團的裁決對 Reddit 的用戶參與模式提出質疑，可能影響其商業模式的合法性與未來營運策略。"
+    },
+    {
+      "rank": 3,
+      "title": "Ross Stores Beat Earnings and Gained 68% in a Year. Reddit Is Still Betting Against It.",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-03-30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導提及 Reddit 社群對 Ross Stores 的負面情緒，反映出平台上的投資觀點可能與市場實際表現脫節，對公司品牌形象有潛在負面影響。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Meta, Kodiak Sciences, Unity Software, Lumentum Holdings And Reddit: Why These 5 Stocks Are On Investors' Radars Today",
+      "publisher": "Benzinga",
+      "date": "2026-03-26",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場觀察清單，反映大盤整體下跌背景下 Reddit 的市場關注度，並無針對公司本身的重大基本面變動。"
+    },
+    {
+      "rank": 2,
+      "title": "Reddit Shares Climb Wednesday: What's Happening?",
+      "publisher": "Benzinga",
+      "date": "2026-03-25",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導 Reddit 股價隨大盤反彈上漲 4 %，屬於正常的市場波動範疇，缺乏具體的公司層面利多驅動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

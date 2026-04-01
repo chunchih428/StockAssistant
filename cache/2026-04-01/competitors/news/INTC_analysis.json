@@ -1,0 +1,75 @@
+{
+  "ticker": "INTC",
+  "company": "Intel",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/INTC.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 17,
+    "overall_sentiment": "neutral",
+    "key_theme": "市場對 Intel 在 AI 轉型期的競爭力與核心 CPU 業務疲軟存有疑慮，投資人正密切關注即將公布的財報表現。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Here’s What The CrowdStrike (CRWD) Partnership Means For Intel (INTC) Stock",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 10:49",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "Intel 與 CrowdStrike 的合作有助於強化其在資安領域的產品競爭力，並被分析師列為量子運算領域的潛力股，對長期技術布局有正面助益。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Intel Faces Pressure as Core CPU Business Weakens",
+      "publisher": "Yahoo",
+      "date": "2026-03-30 18:36",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Intel 核心 CPU 業務面臨需求疲軟與競爭加劇的雙重壓力，顯示公司在轉型過程中仍難以擺脫對傳統 PC 市場的依賴。"
+    },
+    {
+      "rank": 2,
+      "title": "Intel Slides 5%, AMD Drops 3%: The Semiconductor Sector Is at a Crossroads",
+      "publisher": "Yahoo",
+      "date": "2026-03-30 17:39",
+      "impact": "medium",
+      "category": "股價表現",
+      "reason": "股價單日下跌 5 % 跌至 41 美元區間，反映市場對半導體產業前景的擔憂，以及 Intel 在與 AMD 的競爭中處於相對弱勢的市場情緒。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Intel to Report First-Quarter 2026 Financial Results",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 21:02",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "公司即將公布 2026 年第一季財報，這是市場評估 Intel 轉型進度與 AI 策略執行力的關鍵事件，目前處於觀望階段。"
+    },
+    {
+      "rank": 2,
+      "title": "How The Intel (INTC) Narrative Is Shifting With Advanced Packaging And Data Center Uncertainty",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 11:07",
+      "impact": "low",
+      "category": "分析報告",
+      "reason": "分析師將 Intel 的合理價值預估從 47.12 美元微調至 47.11 美元，顯示市場對其先進封裝與資料中心業務的發展仍持保留態度，變動幅度極小。"
+    },
+    {
+      "rank": 3,
+      "title": "Company News for Mar 31, 2026 — Companies in The News Are: INTC, CAT, SYY, AVD",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 13:21",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為每日市場新聞彙整，未提供針對 Intel 的具體營運分析或重大消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

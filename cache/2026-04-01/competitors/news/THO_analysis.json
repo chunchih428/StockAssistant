@@ -1,0 +1,48 @@
+{
+  "ticker": "THO",
+  "company": "Thor Industries",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/THO.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "Neutral",
+    "key_theme": "公司高層人事異動與市場定價壓力並存，導致股價走勢呈現多空拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "American Woodmark, Resideo, Hertz, THOR Industries, and DXP Shares Skyrocket, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-24",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "THO 股價近期出現顯著上漲，反映出市場對該公司在當前經濟環境下的表現持正面態度，此報導涵蓋了股價強勢表現的背景因素。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Truist Cuts THOR Industries (THO) Target to $109 on Pricing Weakness",
+      "publisher": "Yahoo",
+      "date": "2026-03-30",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Truist 基於產品定價疲軟的擔憂，將 THO 目標價下調至 109 美元，顯示分析師對其利潤率與市場競爭力的短期展望轉趨保守。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "THOR INDUSTRIES ANNOUNCES APPOINTMENT OF ANDY MURRAY",
+      "publisher": "Yahoo",
+      "date": "2026-03-31",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "公司宣布任命 Andy Murray 加入管理團隊，此類人事變動屬於常規營運調整，市場需觀察其後續對公司策略執行的具體影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

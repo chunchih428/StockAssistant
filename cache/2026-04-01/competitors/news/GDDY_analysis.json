@@ -1,0 +1,75 @@
+{
+  "ticker": "GDDY",
+  "company": "GoDaddy",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/GDDY.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 2,
+    "bearish_count": 4,
+    "neutral_count": 2,
+    "overall_sentiment": "bearish",
+    "key_theme": "儘管 GoDaddy 近期財報表現優於預期並上調 2026 年展望，但市場對其股價長期表現仍存疑，導致分析師下調目標價並引發對其相較於大盤表現的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Did Strong Q4 Results and Upgraded 2026 Outlook Just Shift GoDaddy's (GDDY) Investment Narrative?",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 10:06",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司 2025 年第四季財報營收與獲利均優於市場預期，且上調 2026 年財測，顯示核心業務具備韌性，為股價提供基本面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Is GoDaddy (GDDY) Up 3.1% Since Last Earnings Report?",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 15:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "財報發布後 30 天內股價上漲 3.1 %，反映市場對其獲利能力的初步正面反應，為投資人信心回升的訊號。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "GoDaddy (GDDY) Price Target Decreased by 31.21% to 117.70",
+      "publisher": "Fintel",
+      "date": "2026-03-27 17:36",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "目標價遭大幅下調 31.21 %，顯示機構投資人對其未來成長動能與估值修正的擔憂，對股價構成顯著壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "3 Reasons GDDY is Risky and 1 Stock to Buy Instead",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 16:36",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "過去六個月股價下跌 42.4 %，市場觀點認為其風險過高，建議投資人轉向其他標的，負面情緒濃厚。"
+    },
+    {
+      "rank": 3,
+      "title": "Is GoDaddy Stock Underperforming the Nasdaq?",
+      "publisher": "Barchart",
+      "date": "2026-03-24 12:51",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "探討 GDDY 相對於 Nasdaq 指數的疲軟表現，顯示該股在科技類股中的相對強度不足，可能導致資金流出。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Building Confidence and Community: Meet Athira Nambiath Asokan",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 14:30",
+      "impact": "low",
+      "category": "企業文化",
+      "reason": "屬於公司資源庫的社群人物介紹，對財務表現或股價走勢無直接影響，僅為企業形象宣傳。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

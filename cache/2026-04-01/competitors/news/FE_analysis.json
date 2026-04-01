@@ -1,0 +1,38 @@
+{
+  "ticker": "FE",
+  "company": "FirstEnergy Corp.",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/FE.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司持續推動基礎設施升級以提升服務品質，同時市場對即將公布的 Q1 財報抱持樂觀預期。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Potomac Edison Takes Next Step with Power Line Upgrades to Benefit Frederick and Montgomery County Customers",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 15:54",
+      "impact": "medium",
+      "category": "基礎設施升級",
+      "reason": "FirstEnergy 旗下子公司 Potomac Edison 積極推動電力線路升級，有助於提升電網可靠度與客戶滿意度，長期來看有利於監管資產基礎的擴張與費率調整。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Here's What to Expect From FirstEnergy's Next Earnings Report",
+      "publisher": "Yahoo",
+      "date": "2026-03-30 13:12",
+      "impact": "low",
+      "category": "財報預測",
+      "reason": "市場預期 FirstEnergy 第一季財報將呈現高個位數的成長，此為市場預期內的資訊，在財報正式公布前維持中性觀點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

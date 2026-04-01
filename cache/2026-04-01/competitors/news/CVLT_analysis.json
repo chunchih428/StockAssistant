@@ -1,0 +1,37 @@
+{
+  "ticker": "CVLT",
+  "company": "Commvault Systems, Inc.",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/CVLT.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 0,
+    "bearish_count": 2,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "近期股價表現疲軟，主要受機構投資人持倉調整及市場波動影響。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Here’s Why Commvault Systems (CVLT) Traded Lower in Q4",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-25",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導彙整了 Loomis Sayles 在 2025 年第四季的投資信，指出該機構對 CVLT 的持倉調整導致股價承壓。選擇此篇作為代表，因其深入解釋了機構投資人對小型成長股的配置策略變動，對股價具備實質參考價值。"
+    },
+    {
+      "rank": 2,
+      "title": "Commvault Systems (CVLT) Suffers a Larger Drop Than the General Market",
+      "publisher": "Yahoo",
+      "date": "2026-03-30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出 CVLT 單日下跌 1.18 %，表現弱於大盤。此類新聞反映了短期技術性賣壓，雖對長期基本面影響有限，但顯示市場情緒偏向保守。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

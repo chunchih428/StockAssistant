@@ -1,0 +1,75 @@
+{
+  "ticker": "ORCL",
+  "company": "Oracle",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/ORCL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 6,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "Oracle 透過大規模裁員以削減營運成本，將資源集中投入於 AI 基礎設施與雲端運算擴張，市場對此策略轉型給予正面回饋，帶動股價上漲。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Shares in Oracle Jump 6% as Layoffs Begin",
+      "publisher": "The Wall Street Journal",
+      "date": "2026-03-31 21:38",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "市場對 Oracle 採取裁員以優化成本結構的決策反應積極，股價單日上漲 6 %，顯示投資人認可其將資源轉向 AI 領域的策略。"
+    },
+    {
+      "rank": 2,
+      "title": "Oracle Targets Restaurant Industry With New AI Back Office Solution",
+      "publisher": "Benzinga",
+      "date": "2026-03-31 06:06",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Oracle 推出針對餐飲業的 AI 後台管理平台，展現其 AI 技術在垂直產業的應用落地能力，有助於拓展營收來源。"
+    },
+    {
+      "rank": 3,
+      "title": "Better Artificial Intelligence Stock: Palantir vs. Oracle",
+      "publisher": "Yahoo",
+      "date": "2026-04-01 03:20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析指出 Oracle 與 Palantir 皆受惠於 AI 帶來的強勁銷售成長，強化了 Oracle 作為 AI 基礎設施核心供應商的市場地位。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Oracle Cuts 29,000 Jobs & Wall Street Throws a Party",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 19:55",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "報導指出 Oracle 裁員規模高達 29,000 人（約 18 % 員工），儘管市場反應正面，但大規模人力縮減引發了關於企業文化與 AI 轉型人道成本的爭議。"
+    },
+    {
+      "rank": 2,
+      "title": "Big Tech promised AI would disrupt labor — just not like this",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 22:06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 Oracle 的裁員與科技業整體趨勢連結，強調 AI 發展對勞動力市場的負面衝擊，可能對公司長期雇主品牌形象造成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Oracle Corporation (ORCL) Faces Near-Term Pressure but AI and Cloud Growth Remain Intact",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 16:08",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "Ariel Investments 的報告指出公司短期面臨壓力，但長期 AI 與雲端成長動能依然穩健，屬於中性觀點的長期投資評估。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

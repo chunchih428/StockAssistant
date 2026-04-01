@@ -1,0 +1,56 @@
+{
+  "ticker": "VSAT",
+  "company": "ViaSat",
+  "analysis_date": "2026-03-30",
+  "source_file": "cache/2026-03-30/competitors/news/VSAT.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "Viasat 受惠於財報表現優於預期、巴西市場拓展及機上 Wi-Fi 業務成長，獲得分析師調升目標價與市場正面評價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Needham Maintains Buy on Viasat, Raises Price Target to $58",
+      "publisher": "Benzinga",
+      "date": "2026-03-27 07:09",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Needham 分析師 Ryan Koontz 維持買入評級，並將目標價大幅調升至 $58，顯示市場對公司未來獲利能力與成長潛力信心增強。"
+    },
+    {
+      "rank": 2,
+      "title": "A Look At Viasat (VSAT) Valuation After Earnings Beat And New Brazil And In Flight Wi Fi Deals",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-20 06:04",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司財報表現優於預期，且在巴西市場與機上 Wi-Fi 領域取得新合約，基本面改善支撐股價估值重估。"
+    },
+    {
+      "rank": 3,
+      "title": "Viasat, Driven Brands, OSI Systems, Mirion, and Vestis Shares Are Soaring, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-23 17:34",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價近期表現強勁，反映市場對 Viasat 業務擴張與營運效率提升的正面情緒，選此篇作為市場動能代表。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Does Viasat’s (VSAT) Brazil Push Reframe Its Capital Intensity And Global Connectivity Ambitions?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-20 21:06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討巴西市場擴張對資本支出與全球連線策略的影響，屬於中性分析，旨在評估長期資本密集度與成長策略的平衡。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

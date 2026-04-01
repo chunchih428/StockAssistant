@@ -1,0 +1,57 @@
+{
+  "ticker": "ONTO",
+  "company": "Onto Innovation Inc.",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/ONTO.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 HBM4 訂單動能與高品質投資評級，儘管短期股價波動，市場對其在先進封裝檢測領域的成長潛力仍持樂觀態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why Onto Innovation (ONTO) Is Up 9.5% After Dragonfly G5 Wins Key HBM4 Orders And What's Next",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 18:06",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "公司推出的 Dragonfly G5 檢測系統成功獲得 HBM4 關鍵訂單，顯示其在 AI 晶片供應鏈中的技術競爭力，直接推動股價上漲 9.5 %。"
+    },
+    {
+      "rank": 2,
+      "title": "ONTO Innovation Inc. (NYSE:ONTO) Passes the Rigorous \"Caviar Cruise\" Quality Investing Screen",
+      "publisher": "ChartMill",
+      "date": "2026-03-30 08:01",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "通過嚴格的「魚子醬巡航」品質投資篩選，證明公司具備卓越的獲利成長能力，有助於吸引長期機構投資者信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Onto Innovation (ONTO) Dips More Than Broader Market: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-30 22:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日下跌 7.33 %，表現弱於大盤，反映出在經歷先前漲幅後，市場出現獲利了結賣壓，屬於技術性修正。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "With Lumentum (LITE) And Coherent (COHR) Surging, Onto Innovation (ONTO) Could Be Next",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 19:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此文章屬於市場觀察與推測，將 ONTO 與其他光學類股進行比價分析，雖具備潛在補漲題材，但未有實質營運數據支撐，故列為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

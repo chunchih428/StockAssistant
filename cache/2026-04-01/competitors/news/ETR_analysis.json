@@ -1,0 +1,74 @@
+{
+  "ticker": "ETR",
+  "company": "Entergy",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/ETR.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 18,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "Entergy 與 Meta 達成重大基礎設施擴建協議，由 Meta 全額資助路易斯安那州的新天然氣電廠與電網升級，顯著提升市場對其長期成長與防禦性價值的信心。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Entergy (ETR) Is Up 8.4% After Meta Funds New Gas Fleet And Grid Upgrades In Louisiana",
+      "publisher": "Yahoo",
+      "date": "2026-03-30 16:06",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "Meta 承諾全額資助 7 座天然氣電廠及 240 英里輸電線路，此舉不僅大幅降低 Entergy 的資本支出壓力，更預計為客戶帶來約 26.5 億美元的成本節省，成為股價強勁上漲的核心驅動力。"
+    },
+    {
+      "rank": 2,
+      "title": "Mizuho Maintains Outperform on Entergy, Raises Price Target to $120",
+      "publisher": "Benzinga",
+      "date": "2026-03-30 10:05",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Mizuho 分析師 Anthony Crowdell 基於與 Meta 的合作協議，將目標價上調至 120 美元，顯示專業機構對該公司未來獲利成長與資產負債表改善的高度認可。"
+    },
+    {
+      "rank": 3,
+      "title": "BMO Capital Maintains Outperform on Entergy, Raises Price Target to $118",
+      "publisher": "Benzinga",
+      "date": "2026-03-30 09:31",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "BMO Capital 分析師 James Thalacker 同步上調目標價至 118 美元，反映市場對 Entergy 在數據中心電力需求增長趨勢下的競爭優勢持正面態度。"
+    },
+    {
+      "rank": 4,
+      "title": "5 Defensive Stocks to Buy Amid Market's Recent Bloodbath",
+      "publisher": "Yahoo",
+      "date": "2026-03-30 14:52",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "在市場波動加劇的背景下，Entergy 因其穩定的股息與低 Beta 特性，被列為防禦性投資首選，吸引尋求避險的資金流入。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "$100 Invested In Entergy 5 Years Ago Would Be Worth This Much Today",
+      "publisher": "Benzinga",
+      "date": "2026-03-30 16:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此類文章為歷史績效回顧，對當前股價走勢無直接影響，僅提供投資人參考長期報酬表現。"
+    },
+    {
+      "rank": 2,
+      "title": "Wells Fargo Maintains Buy Rating on Entergy (ETR) Stock",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 15:50",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "此為 3 月 17 日發布的舊評級重申，在近期 Meta 合作案發布後，市場影響力已相對減弱。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

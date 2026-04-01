@@ -1,0 +1,57 @@
+{
+  "ticker": "ASTS",
+  "company": "AST SpaceMobile, Inc.",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/ASTS.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "neutral",
+    "key_theme": "市場對 ASTS 的關注點已從單純的衛星發射成功轉向商業化變現能力與高估值壓力之間的平衡。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "The Space Sector Is Surging. Should You Buy AST SpaceMobile and Rocket Lab?",
+      "publisher": "Motley Fool",
+      "date": "2026-03-30T18:25:00Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導指出太空產業整體趨勢向上，將 ASTS 列為具備成長潛力的標的，反映出市場對其技術願景的長期信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Here's What Investors Need to Know About AST SpaceMobile Stock's Recent Pullback",
+      "publisher": "Motley Fool",
+      "date": "2026-03-28T18:45:00Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "針對近期股價回調進行分析，提醒投資人注意高波動性風險，此篇涵蓋面較廣，適合作為近期股價修正的代表性分析。"
+    },
+    {
+      "rank": 2,
+      "title": "AST SpaceMobile, Inc. (ASTS) Declines More Than Market: Some Information for Investors",
+      "publisher": "Zacks",
+      "date": "2026-03-27T22:00:04Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出 ASTS 股價表現弱於大盤，主要反映短期獲利了結賣壓，對股價短期走勢構成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "AST SpaceMobile Satellite Launch Shifts Focus Toward Valuation And Monetisation",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-28T09:05:35Z",
+      "impact": "medium",
+      "category": "公司策略",
+      "reason": "分析指出衛星發射後的關鍵在於商業化變現與估值合理性，這是投資人從技術驗證階段轉向財務基本面檢視的理性觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

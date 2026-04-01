@@ -1,0 +1,38 @@
+{
+  "ticker": "THR",
+  "company": "Thermon Group Holdings, Inc.",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/THR.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "neutral",
+    "key_theme": "市場分析師對 Thermon Group 的評價出現分歧，評級上調與目標價下調同時發生，反映出市場對其未來成長潛力與估值調整的拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Thermon Group (THR) Upgraded to Buy: Here's Why",
+      "publisher": "Zacks",
+      "date": "2026-03-30",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Zacks 將該股評級上調至「買入」，顯示分析師看好公司基本面改善或獲利前景，這通常能提振投資人信心並吸引資金流入。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Thermon Group Holdings (THR) Price Target Decreased by 10.53% to 52.02",
+      "publisher": "Fintel",
+      "date": "2026-03-27",
+      "impact": "medium",
+      "category": "目標價調整",
+      "reason": "目標價被下調 10.53 % 至 52.02 ，顯示市場對公司短期股價表現的預期轉趨保守，可能與總體經濟環境或公司營收成長放緩的擔憂有關。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

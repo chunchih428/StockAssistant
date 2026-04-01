@@ -1,0 +1,46 @@
+{
+  "ticker": "GEN",
+  "company": "Gen Digital",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/GEN.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司透過併購 Trellis 強化 AI 競爭力，並獲得分析師調升評級，顯示市場對其成長潛力持正面態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Gen Digital: Recent Correction And Traction Present Potential Near-Term Rebound (Upgrade)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-26 07:52",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師將 GEN 評級調升至「買入」，並給出 21.8 美元的目標價，預期有 12 % 的上漲空間，主要基於近期股價修正後的反彈潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Gen Digital (GEN) Acquires Trellis to Enhance AI-Powered Insurance Marketplace",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-23",
+      "impact": "medium",
+      "category": "企業併購",
+      "reason": "透過收購 Trellis，Gen Digital 旨在強化其 AI 驅動的保險市場平台，此舉有助於擴大產品生態系並提升技術競爭力。"
+    },
+    {
+      "rank": 3,
+      "title": "How is Gen Digital (GEN) Preparing Itself Against Gen AI Threats",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 05:55",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出 GEN 作為市值 30 美元以下的大型股，具備巨大的上漲潛力，且公司正積極採取措施應對生成式 AI 帶來的資安威脅。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

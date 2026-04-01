@@ -1,0 +1,75 @@
+{
+  "ticker": "PRIM",
+  "company": "Primoris",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/PRIM.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "Mixed",
+    "key_theme": "公司透過 4.22 億美元收購 PayneCrest Electric 積極擴張數據中心與再生能源業務，雖帶動市場樂觀情緒，但 2026 年營收展望持平的預期仍對股價造成壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Primoris Services Corp Acquires PayneCrest Electric For $422M To Expand Data Center, Industrial, And Renewables Services",
+      "publisher": "Benzinga",
+      "date": "2026-03-31 08:48",
+      "impact": "high",
+      "category": "併購與擴張",
+      "reason": "以 4.22 億美元收購 PayneCrest Electric，預計 2026 年貢獻 2.6 億至 2.8 億美元營收，顯著強化公司在數據中心與工業領域的競爭力。"
+    },
+    {
+      "rank": 2,
+      "title": "A Look At Primoris Services (PRIM) Valuation After Winning The Cormorant Energy Storage Contract",
+      "publisher": "Simply Wall St.",
+      "date": "2026-04-01",
+      "impact": "medium",
+      "category": "合約簽署",
+      "reason": "獲得 Cormorant 儲能合約，顯示公司在再生能源基礎建設市場的強勁執行力，有助於提升長期估值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Primoris Services Conference: Renewables Bookings Strong, But 2026 Revenue Seen Flat to Slightly Down",
+      "publisher": "MarketBeat",
+      "date": "2026-03-28",
+      "impact": "medium",
+      "category": "財報展望",
+      "reason": "儘管再生能源訂單強勁，但管理層對 2026 年營收預期持平或微幅下滑，引發市場對成長動能放緩的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Primoris, Rocket Lab, Curtiss-Wright, American Superconductor, and BWX Stocks Trade Down, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "反映短期市場賣壓與板塊輪動，導致股價出現修正，屬於技術性調整。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Advanced Energy, Matson, MasTec, FuelCell Energy, and Primoris Shares Are Soaring, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-04-01",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此報導為市場行情總結，股價上漲主要受產業整體情緒帶動，而非公司單一基本面事件。"
+    },
+    {
+      "rank": 2,
+      "title": "Reflecting On Construction and Maintenance Services Stocks’ Q4 Earnings: Primoris (NYSE:PRIM)",
+      "publisher": "StockStory",
+      "date": "2026-03-24",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "針對 Q4 財報的回顧性分析，資訊已反映在過往股價中，對當前股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

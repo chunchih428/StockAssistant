@@ -1,0 +1,66 @@
+{
+  "ticker": "TWLO",
+  "company": "Twilio",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/TWLO.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "Bullish",
+    "key_theme": "Twilio 股價在 AI 獲利敘事與市場波動中展現韌性，券商評級維持買入，但仍面臨 AI 模型競爭帶來的市場情緒干擾。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Brokers Suggest Investing in Twilio (TWLO): Read This Before Placing a Bet",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 13:30",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "平均券商建議 (ABR) 維持在「買入」水準，顯示機構投資者對公司基本面與長期獲利潛力仍持正面看法。"
+    },
+    {
+      "rank": 2,
+      "title": "Twilio (TWLO) Beats Stock Market Upswing: What Investors Need to Know",
+      "publisher": "Zacks",
+      "date": "2026-03-23 22:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價表現優於大盤，顯示在市場波動期間，Twilio 的個股動能強勁，吸引投資人關注。"
+    },
+    {
+      "rank": 3,
+      "title": "Cadence Design Systems, Twilio, nCino, Bandwidth, and C3.ai Stocks Trade Up, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-23 18:44",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "與同業共同上漲，反映出軟體與雲端服務板塊的整體市場情緒回暖，對股價有短期支撐作用。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Twilio, Elastic, nCino, C3.ai, and Five9 Shares Are Falling, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 20:49",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Anthropic 的「Claude Mythos」模型洩漏引發市場對 AI 競爭格局的擔憂，導致相關軟體股集體回調，Twilio 亦受波及。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Twilio (TWLO) Valuation Check After Recent Pullback And AI Profitability Narrative",
+      "publisher": "Yahoo",
+      "date": "2026-03-30 03:10",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "針對近期股價回調後的估值進行檢視，並探討 AI 獲利敘事對股價的影響，屬於中性的市場觀察與風險評估。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,74 @@
+{
+  "ticker": "ENTG",
+  "company": "Entegris, Inc.",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/ENTG.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 2,
+    "bearish_count": 4,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "半導體 供應鏈 受到 地緣政治 緊張局勢 與 貿易 限制 的 負面 影響，儘管 有 策略性 合作 消息 支撐，但 市場 波動 劇烈。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Power Integrations, Entegris, and Penguin Solutions Shares Are Soaring, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-04-01 01:17",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "受惠於 Nvidia 宣布 的 策略性 合作 與 20 億 美元 的 投資 消息，帶動 半導體 供應鏈 相關 個股 強勁 上漲，顯示 市場 對 其 技術 整合 能力 的 信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Entegris, Texas Instruments, Photronics, FormFactor, and Amkor Shares Are Soaring, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-24T20:09:22Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場 資金 輪動 帶動 半導體 設備 與 材料 類股 走強，反映 出 產業 週期 復甦 的 預期。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Himax, Teradyne, Entegris, IPG Photonics, and Universal Display Shares Plummet, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-30 23:26",
+      "impact": "high",
+      "category": "地緣政治",
+      "reason": "伊朗 戰爭 導致 的 地緣政治 緊張 局勢 升溫，引發 市場 對 全球 半導體 供應鏈 中斷 的 擔憂，導致 股價 急劇 下跌。"
+    },
+    {
+      "rank": 2,
+      "title": "onsemi, Allegro MicroSystems, Entegris, Broadcom, and NXP Semiconductors Stocks Trade Down, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 00:49",
+      "impact": "medium",
+      "category": "貿易法規",
+      "reason": "中國 對 美國 發起 貿易 壁壘 調查，增加 了 跨國 半導體 企業 的 營運 不確定性 與 關稅 風險。"
+    },
+    {
+      "rank": 3,
+      "title": "Nova, Lattice Semiconductor, IPG Photonics, AMD, and Entegris Shares Plummet, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 21:39",
+      "impact": "medium",
+      "category": "技術變革",
+      "reason": "Google 推出 新型 TurboQuant 演算法 引發 市場 對 傳統 半導體 運算 效率 的 重新 評估，導致 相關 科技 股 遭到 拋售。"
+    },
+    {
+      "rank": 4,
+      "title": "Entegris Governance Vote May Shift Shareholder Power And Valuation Debate",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 01:44",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "公司 提議 修改 章程 以 移除 部分 股東 權利，引發 市場 對 公司 治理 結構 與 股東 權益 的 辯論，可能 造成 短期 股價 波動。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

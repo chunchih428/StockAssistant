@@ -1,0 +1,93 @@
+{
+  "ticker": "IONQ",
+  "company": "IonQ",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/IONQ.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 2,
+    "bearish_count": 4,
+    "neutral_count": 2,
+    "overall_sentiment": "bearish",
+    "key_theme": "儘管 IonQ 持續透過與韓國機構及 SkyWater 的合作拓展技術版圖，但受財報後股價修正與分析師調降目標價影響，市場情緒轉趨保守。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "IonQ Links SkyWater Deal And KISTI MoU To Long Term Quantum Goals",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-31T13:19:16Z",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "透過與 SkyWater 的製造合作及與韓國 KISTI 的備忘錄簽署，強化了公司在量子運算硬體量產與全球市場的長期戰略佈局，具備正面成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Financial Modeling Of IonQ - A Quantum Leader Going Through Hypergrowth",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-26 09:05",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "分析師指出公司 2025 年財報符合預期，且處於超高速成長階段，認為目前股價具備買入價值，為市場提供正面觀點。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Is IonQ (IONQ) Down 27% Since Last Earnings Report?",
+      "publisher": "Zacks",
+      "date": "2026-03-27T15:30:07Z",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "財報後股價重挫 27 %，反映市場對公司獲利能力或成長速度的擔憂，是近期股價疲軟的主要驅動因素。"
+    },
+    {
+      "rank": 2,
+      "title": "IonQ (IONQ) Price Target Decreased by 10.22% to 68.58",
+      "publisher": "Fintel",
+      "date": "2026-03-27 09:06",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "目標價下調 10.22 % 至 68.58，顯示機構投資人對其短期估值修正的預期，對股價構成壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "MillerKnoll, IonQ, Super Micro, and Lumen Shares Are Falling, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-31T07:41:19Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出 IonQ 股價隨大盤或科技板塊修正而下跌，反映市場情緒不佳，屬於系統性風險影響。"
+    },
+    {
+      "rank": 4,
+      "title": "IonQ, ASGN, Applied Digital, DXC, and Hewlett Packard Enterprise Stocks Trade Down, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-03-27T22:41:08Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "與其他科技股一同下跌，顯示近期資金流出科技成長股，對 IonQ 股價造成連帶賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "IonQ Inc (IONQ) Strengthens Its Partnership With Korean Technology Institutes",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-31T10:49:30Z",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "此新聞與 Simply Wall St. 的報導內容重疊，重點在於與韓國機構的合作，雖屬正面但對股價短期影響有限，故列為中性觀察。"
+    },
+    {
+      "rank": 2,
+      "title": "IonQ (IONQ): Buy, Sell, or Hold Post Q4 Earnings?",
+      "publisher": "StockStory",
+      "date": "2026-03-30T18:22:18Z",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "文章探討財報後的投資策略（買入、賣出或持有），未給出明確單一方向，僅提供投資人決策參考。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

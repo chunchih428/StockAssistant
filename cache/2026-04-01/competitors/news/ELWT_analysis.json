@@ -1,0 +1,38 @@
+{
+  "ticker": "ELWT",
+  "company": "Elauwit Connection, Inc.",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/ELWT.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司 Q4 財報顯示營收雖有成長，但每股虧損大幅擴大，顯示獲利能力面臨嚴峻挑戰。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Elauwit Connection Q4 EPS $(0.69) Down From $(0.20) YoY, Sales $4.679M Up From $3.312M YoY",
+      "publisher": "Benzinga",
+      "date": "2026-03-31 07:33",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司 Q4 每股虧損由去年同期的 $(0.20) 擴大至 $(0.69)，虧損幅度增加 245 %，儘管營收從 3.312M 美元成長至 4.679M 美元，但獲利能力的惡化對股價構成顯著負面壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Elauwit Connection, Inc. (ELWT) Q4 2025 Earnings Call Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-31 13:12",
+      "impact": "low",
+      "category": "財報會議",
+      "reason": "此為財報電話會議逐字稿，提供管理層對營運狀況的說明與未來展望，屬於資訊揭露性質，本身不具備直接的利多或利空導向，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,75 @@
+{
+  "ticker": "MPWR",
+  "company": "Monolithic Power Systems",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/MPWR.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 2,
+    "bearish_count": 3,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司股價受地緣政治風險、內部人拋售及科技產業競爭動態影響，儘管有 Nvidia 合作利多支撐，整體市場情緒仍偏向謹慎。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Microchip Technology, Monolithic Power Systems, onsemi, Vishay Intertechnology, and Amtech Shares Are Soaring, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-04-01 01:25",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "Nvidia 宣布戰略合作並投入 20 億美元資金，直接推升 MPWR 等半導體供應鏈股價，具備強勁的市場信心提振效果。"
+    },
+    {
+      "rank": 2,
+      "title": "Monolithic Power (MPWR) Gained as Its Blackwell Platform Fared Stronger",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-23 11:48",
+      "impact": "medium",
+      "category": "產品表現",
+      "reason": "Blackwell 平台表現優於預期，顯示公司在高效能運算電源管理領域的技術競爭力，對股價有正面支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Insiders At Monolithic Power Systems Sold US$383m In Stock, Alluding To Potential Weakness",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 11:00",
+      "impact": "high",
+      "category": "內部人交易",
+      "reason": "內部人拋售高達 3.83 億美元股票，通常被市場解讀為管理層對公司未來短期成長信心不足或股價已達高點的訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "Amtech, Magnachip, Monolithic Power Systems, Allegro MicroSystems, and Kulicke and Soffa Shares Are Falling, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-30 23:34",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "伊朗戰爭引發的地緣政治緊張局勢導致供應鏈擔憂，造成半導體板塊集體回調，屬於系統性風險影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Kulicke and Soffa, Lam Research, Monolithic Power Systems, MACOM, and FormFactor Stocks Trade Down, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 21:34",
+      "impact": "low",
+      "category": "技術競爭",
+      "reason": "Google 推出 TurboQuant 演算法引發市場對半導體產業競爭格局變化的擔憂，導致相關個股短期承壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "What Is Monolithic Power Systems, Inc.'s (NASDAQ:MPWR) Share Price Doing?",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 11:00",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "該文章為例行性的股價走勢回顧與分析，未提供具體影響股價的重大基本面消息，僅為市場現況整理。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

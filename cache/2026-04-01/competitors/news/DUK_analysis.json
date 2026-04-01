@@ -1,0 +1,102 @@
+{
+  "ticker": "DUK",
+  "company": "Duke Energy",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/DUK.json",
+  "summary": {
+    "total_articles": 12,
+    "bullish_count": 6,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Duke Energy 憑藉其防禦性資產配置、AI 驅動的電力需求成長潛力以及監管環境的正面支持，在市場波動中展現出穩健的投資價值。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Duke Energy: Prime Sunbelt Assets Set It Up For AI Tailwinds",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-25 06:29",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "Duke Energy 位於高成長的 Sunbelt 地區，受惠於 AI 資料中心帶來的電力需求激增，具備長期成長動能。"
+    },
+    {
+      "rank": 2,
+      "title": "Regulators approve Duke Energy's proposal for new natural gas generation to support South Carolina's growing energy needs",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 18:15",
+      "impact": "medium",
+      "category": "法規與監管",
+      "reason": "南卡羅來納州公共服務委員會批准興建天然氣發電設施，有助於滿足區域內不斷增長的能源需求，強化基礎設施布局。"
+    },
+    {
+      "rank": 3,
+      "title": "5 Defensive Stocks to Buy Amid Market's Recent Bloodbath",
+      "publisher": "Yahoo",
+      "date": "2026-03-30 14:52",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "在市場波動加劇之際，Duke Energy 因其穩定的股息與低 Beta 特性，被視為防禦性投資組合的首選標的之一。"
+    },
+    {
+      "rank": 4,
+      "title": "Duke Energy (DUK) Advances While Market Declines: Some Information for Investors",
+      "publisher": "Yahoo",
+      "date": "2026-03-30 22:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價在市場整體下跌時逆勢上漲 1.32 %，顯示投資人對其防禦性資產的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Duke Energy: Surging Treasury Yields Could Spark Volatility For This Utility",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-27 15:50",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "美國 10 年期公債殖利率上升，使得 Duke Energy 的股息殖利率吸引力相對減弱，可能引發股價波動。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Duke Energy (DUK) Pricing Fully Reflect Its Mixed Returns And Dividend Outlook",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 15:05",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "市場對於 Duke Energy 目前的股價是否已充分反映其混合報酬表現與股息前景存有疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Duke Energy completes sale of its Tennessee Piedmont Natural Gas business to Spire",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 20:30",
+      "impact": "low",
+      "category": "資產處置",
+      "reason": "完成非核心業務出售，屬於預期內的資產組合調整，對財務結構影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Duke Energy's Products Give Us A Credit Risk-Free Opportunity Once Again",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-30 10:30",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "針對 DUKB 與 DUK.PR.A 的配對交易建議，屬於特定交易策略，對公司基本面影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "Energy Bill Assistance Available for Qualified Duke Energy Florida Customers",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 17:23",
+      "impact": "low",
+      "category": "客戶服務",
+      "reason": "屬於例行性的客戶帳單協助措施，對公司整體營收與獲利影響微乎其微。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

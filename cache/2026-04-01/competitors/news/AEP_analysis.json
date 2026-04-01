@@ -1,0 +1,65 @@
+{
+  "ticker": "AEP",
+  "company": "American Electric Power",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/AEP.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "AEP 受益於公用事業板塊的正面展望、機構調升目標價以及基礎設施投資計畫，技術面亦呈現強勢突破訊號。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Morgan Stanley Boosts AEP PT, Highlights Constructive Utility Sector Outlook",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 01:00",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "摩根士丹利調升 AEP 目標價，反映出對公用事業板塊的建設性看法，且 AEP 被納入高股息投資組合，增強了長期投資價值。"
+    },
+    {
+      "rank": 2,
+      "title": "American Electric Power Company (AEP): US Department of Energy, SB Energy, and AEP Ohio Announce Planned Investments",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 15:50",
+      "impact": "high",
+      "category": "資本支出",
+      "reason": "與美國能源部及 SB Energy 的合作投資計畫，顯示公司在能源轉型與基礎設施擴張上的積極佈局，有助於未來營收成長。"
+    },
+    {
+      "rank": 3,
+      "title": "American Electric Power (NASDAQ:AEP) Presents a High-Probability Technical Breakout Setup",
+      "publisher": "ChartMill",
+      "date": "2026-03-30 10:31",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "技術面顯示 AEP 具備強勁動能與明確的突破型態，為短期股價走勢提供正面支撐。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Fresh Look At American Electric Power (AEP) Valuation After Recent Share Price Momentum",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 05:03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "在股價近期強勢表現後進行估值回顧，屬於中性的市場觀察，並未提出具體的利多或利空催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Is It Time To Reassess American Electric Power (AEP) After Strong Multi‑Year Gains?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-24 18:18",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對多年漲幅後的投資組合再平衡建議，屬於常規的投資評估，對股價短期影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

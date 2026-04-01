@@ -1,0 +1,84 @@
+{
+  "ticker": "ROK",
+  "company": "Rockwell Automation",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/ROK.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 1,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "bearish",
+    "key_theme": "華爾街分析師對 Rockwell Automation 的估值重估與成長潛力持保留態度，導致評級下調與目標價修正。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Rockwell Automation (ROK) Up Since Jim Cramer Said It’s Going in the Right Direction",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 13:49",
+      "impact": "low",
+      "category": "市場情緒",
+      "reason": "知名財經評論員 Jim Cramer 將其列為機器人與實體 AI 領域的熱門標的，為股價提供了一定的市場信心支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Rockwell Automation Downgraded by Jefferies, Key Price Target Drops to $380",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 13:16",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Jefferies 將評級從「買入」下調至「持有」，並大幅削減目標價，反映出市場對於該公司短期內缺乏進一步重估潛力的擔憂。此篇涵蓋了 Jefferies 的完整降級動作，故選為代表。"
+    },
+    {
+      "rank": 2,
+      "title": "Baird Maintains Outperform on Rockwell Automation, Lowers Price Target to $410",
+      "publisher": "Benzinga",
+      "date": "2026-03-30 09:18",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "儘管 Baird 維持「優於大盤」評級，但下調目標價至 $410，顯示分析師 Richard Eastman 對於公司未來獲利成長空間的預期轉趨保守。"
+    },
+    {
+      "rank": 3,
+      "title": "Jefferies Downgrades Rockwell Automation (ROK)",
+      "publisher": "Fintel",
+      "date": "2026-03-31 22:13",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "重複報導 Jefferies 的降級事件，進一步強化了市場對於該公司估值過高的負面情緒。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "A Look At Rockwell Automation’s Valuation After Recent Share Price Rebound And Longer Term Gains",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 22:06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對近期股價反彈後的估值進行客觀分析，未給出明確買賣建議，僅提供投資人參考。"
+    },
+    {
+      "rank": 2,
+      "title": "FLEX vs. ROK: Which Stock Is the Better Value Option?",
+      "publisher": "Yahoo",
+      "date": "2026-03-30 15:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 ROK 與 FLEX 進行價值比較，屬於產業內的橫向對比分析，對股價無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Rockwell downgraded at Jefferies on limited re-rating potential",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 07:48",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "報導 Jefferies 的降級理由，內容與主要降級新聞重複，故歸類為中性補充資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

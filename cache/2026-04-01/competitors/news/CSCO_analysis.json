@@ -1,0 +1,93 @@
+{
+  "ticker": "CSCO",
+  "company": "Cisco Systems",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/CSCO.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "neutral",
+    "key_theme": "Cisco 正積極透過量子網路與 AI 安全工具轉型，但短期股價面臨市場波動與獲利回吐壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Is Cisco’s Quantum Networking Push With Atom Computing Reshaping Its AI Infrastructure Story (CSCO)?",
+      "publisher": "Yahoo",
+      "date": "2026-04-01 01:12",
+      "impact": "medium",
+      "category": "技術創新",
+      "reason": "Cisco 與 Atom Computing 簽署合作備忘錄，探索量子網路技術，顯示公司在 AI 基礎設施領域的長期競爭力與技術前瞻性。"
+    },
+    {
+      "rank": 2,
+      "title": "Cisco Expands AI Agentic Security Portfolio: Will the Tech Deliver?",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 18:38",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出 AI 代理安全工具，旨在強化身分識別與安全防護，雖目前安全營收下滑，但此舉展現了公司在 AI 軟體服務轉型的決心。"
+    },
+    {
+      "rank": 3,
+      "title": "Smart Hospitality Market Report 2026-2030 Featuring Strategic Analysis of Cisco Systems",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 12:02",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報告指出 Cisco 在智慧飯店自動化市場具備成長潛力，反映其企業解決方案在垂直領域的持續滲透。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Here's Why Cisco Systems (CSCO) Fell More Than Broader Market",
+      "publisher": "Yahoo",
+      "date": "2026-03-30 21:45",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Cisco 單日下跌 3.6 %，表現弱於大盤，顯示短期內投資人對其股價估值或基本面存在獲利了結壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Cisco (CSCO) Stock Is Down Today",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 22:57",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價下跌 2.8 %，主要受整體美股市場情緒影響，顯示該股在當前市場環境下對大盤波動較為敏感。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Too Late To Consider Cisco Systems (CSCO) After Its Recent Share Price Pullback?",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 02:04",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "針對 77.04 美元的股價進行估值討論，分析師觀點中立，旨在探討回調後的進場價值，並未給出明確買賣建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Kingsoft Cloud (KC) Stock Outpacing Its Computer and Technology Peers This Year?",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 13:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅作為同業績效比較的基準對象，並未針對 Cisco 本身的基本面進行深入分析。"
+    },
+    {
+      "rank": 3,
+      "title": "Cisco Systems Inc. stock outperforms competitors on strong trading day",
+      "publisher": "MarketWatch",
+      "date": "2026-03-25 16:32",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅描述單日股價表現優於競爭對手，屬於市場常態波動，缺乏具體基本面驅動因素。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

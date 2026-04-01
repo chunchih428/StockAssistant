@@ -1,0 +1,38 @@
+{
+  "ticker": "FFAI",
+  "company": "Faraday Future Intelligent",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/FFAI.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司在機器人業務交付進度上展現超預期表現，並透過財報會議揭露營運細節。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Reported Sunday, Faraday Future's FFAI Exceeds First-Month Robotics Shipping Target, Signs 22-Unit Contracts Ahead Of Schedule En Route To 200-Unit First Delivery Quarter Goal",
+      "publisher": "Benzinga",
+      "date": "2026-03-30 01:19",
+      "impact": "high",
+      "category": "業務進展",
+      "reason": "公司在機器人業務的首月交付目標達成超預期表現，並提前簽署 22 台合約，顯示其邁向首季 200 台交付目標的執行力強勁，對營收成長具正面助益。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Faraday Future Intelligent Electric Inc. (FFAI) Q4 2025 Earnings Call Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-31 22:12",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "財報會議提供了公司 2025 年第四季的營運數據與未來展望，屬於例行性資訊揭露，投資人需進一步評估其現金流狀況與成本控制能力。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

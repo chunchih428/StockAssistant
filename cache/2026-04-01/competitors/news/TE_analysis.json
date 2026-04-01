@@ -1,0 +1,56 @@
+{
+  "ticker": "TE",
+  "company": "T1 Energy Inc.",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/TE.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 5,
+    "overall_sentiment": "bearish",
+    "key_theme": "T1 Energy 因 Q4 財報表現嚴重不如預期，EPS 與營收雙雙失利，導致市場信心崩潰並引發股價大幅下挫。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "T1 Energy Q4 EPS $(0.70) Misses $0.02 Estimate, Sales $358.554M Miss $401.420M Estimate",
+      "publisher": "Benzinga",
+      "date": "2026-03-31 06:01",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "選定此篇作為代表，因其提供了最完整的財務數據細節。公司 Q4 EPS 為虧損 0.70 美元，遠低於市場預期的獲利 0.02 美元，且營收 3.58 億美元亦未達 4.01 億美元的預期，顯示營運出現顯著衰退。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "T1 Energy Inc. (TE) Q4 2025 Earnings Call Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-31 10:52",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "提供完整的法說會逐字稿，供投資人深入了解管理層對 2026 年生產展望與現金流狀況的說明，屬於資訊揭露性質。"
+    },
+    {
+      "rank": 2,
+      "title": "T1 Energy Inc (TE) Q4 2025 Earnings Call Highlights: Strategic Growth Amid Regulatory Challenges",
+      "publisher": "GuruFocus.com",
+      "date": "2026-03-31 19:00",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "摘要法說會重點，提及在法規挑戰下的策略成長，雖為中性報導，但未能抵銷財報利空帶來的負面影響。"
+    },
+    {
+      "rank": 3,
+      "title": "T1 Energy Inc Q4 2025 Earnings Call Summary",
+      "publisher": "Moby",
+      "date": "2026-03-31 16:46",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "提供法說會的總結報告，屬於例行性的財報後續資訊整理。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

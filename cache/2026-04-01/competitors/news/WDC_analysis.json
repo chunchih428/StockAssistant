@@ -1,0 +1,111 @@
+{
+  "ticker": "WDC",
+  "company": "Western Digital",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/WDC.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 7,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管面臨 Google TurboQuant 技術帶來的潛在市場競爭壓力，Western Digital 憑藉 AI 與雲端儲存需求的強勁成長、技術升級以及分析師的正面評級，仍維持長期成長動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Wall Street Thinks Western Digital Stock Price Will Soar Higher This Year",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 13:27",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Bernstein 將 WDC 評級上調至 Outperform，顯示華爾街對其年度股價表現持高度樂觀態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Western Digital’s Long Contracts Recast AI Storage Growth And Valuation",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 03:15",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "公司獲得關鍵客戶的高容量儲存長期採購合約，顯著提升了營收的可預測性與長期估值。"
+    },
+    {
+      "rank": 3,
+      "title": "Will Next-Gen HAMR & ePMR Drives Give Western Digital a Storage Edge?",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 13:26",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "透過 ePMR 與 HAMR 技術提升硬碟容量，直接回應 AI 與雲端市場對高密度儲存的迫切需求。"
+    },
+    {
+      "rank": 4,
+      "title": "Western Digital: Cloud Key Driver To Growth And Margins",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-27 05:07",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "分析指出雲端業務是推動公司毛利率擴張的核心驅動力，強化了買入建議。"
+    },
+    {
+      "rank": 5,
+      "title": "Western Digital vs. NetApp: Which Data Storage Stock is the Better Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 15:10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "比較分析顯示 WDC 在 AI 驅動的儲存需求與現金回報方面優於競爭對手 NetApp。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Google TurboQuant Puts Western Digital AI Storage Growth In Focus",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 07:04",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Google 推出的 TurboQuant 演算法旨在降低 AI 記憶體需求，市場擔憂這將削弱對傳統儲存設備的需求成長。"
+    },
+    {
+      "rank": 2,
+      "title": "Western Digital (WDC) Dips More Than Broader Market: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-30 22:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日下跌 8.6%，表現弱於大盤，反映出投資人對近期技術面與市場情緒的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Western Digital, Photronics, Nova, FormFactor, and Amkor Stocks Trade Down",
+      "publisher": "Yahoo",
+      "date": "2026-03-30 23:42",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受伊朗戰爭引發的地緣政治緊張局勢影響，半導體類股普遍遭到拋售，WDC 同步走跌。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Open Quantum Design Signs Open-Source Partnership With Western Digital, QuScript",
+      "publisher": "Benzinga",
+      "date": "2026-03-26 10:13",
+      "impact": "low",
+      "category": "技術合作",
+      "reason": "參與量子錯誤修正工作小組，屬於長期技術研發布局，對短期股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Had You Invested $1,000 in Micron or Western Digital 10 Years Ago",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 17:31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "回顧過去十年的歷史績效，屬於投資教育性質，對當前股價無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

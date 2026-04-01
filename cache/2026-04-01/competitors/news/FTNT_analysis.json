@@ -1,0 +1,75 @@
+{
+  "ticker": "FTNT",
+  "company": "Fortinet",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/FTNT.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "Fortinet 展現出優於大盤的結構性韌性，儘管面臨 AI 安全性疑慮的短期波動，但其技術創新（如 FortiOS 8.0）仍為長期成長提供支撐。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "How Fortinet’s AI and Quantum-Safe FortiOS 8.0 Launch Will Impact Fortinet (FTNT) Investors",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-24",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "推出具備 AI 與量子安全功能的 FortiOS 8.0，顯示公司在網路安全技術領域的領先地位，有助於提升長期競爭力與市場份額。"
+    },
+    {
+      "rank": 2,
+      "title": "Fortinet (FTNT) Rises As Market Takes a Dip: Key Facts",
+      "publisher": "Zacks",
+      "date": "2026-03-30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "在整體市場回調的情況下，FTNT 仍能逆勢上漲 1.09 %，顯示資金對該公司防禦性與成長性的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Fortinet's Edge In A Weak Cybersecurity Market",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-25",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 Fortinet 在網路安全板塊普遍拋售的環境下展現結構性韌性，證明其業務模式較同業更具抗跌性。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Fortinet Stock Falls As Anthropic AI Leak Pressures Cybersecurity Stocks",
+      "publisher": "Benzinga",
+      "date": "2026-03-27",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受 Anthropic AI 資料外洩事件影響，市場對 AI 安全性產生擔憂，導致整體網路安全類股承壓，FTNT 股價隨之回落。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Fortinet (FTNT) Laps the Stock Market: Here's Why",
+      "publisher": "Zacks",
+      "date": "2026-03-23",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "回顧性分析公司過去的市場表現，雖為正面評價，但對未來股價走勢缺乏直接的驅動影響。"
+    },
+    {
+      "rank": 2,
+      "title": "If You Invested $1000 In Fortinet Stock 5 Years Ago, You Would Have This Much Today",
+      "publisher": "Benzinga",
+      "date": "2026-03-27",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "純粹的歷史績效回顧，對當前投資決策與股價短期波動無實質影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

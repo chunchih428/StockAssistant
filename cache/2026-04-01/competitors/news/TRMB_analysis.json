@@ -1,0 +1,66 @@
+{
+  "ticker": "TRMB",
+  "company": "Trimble Inc.",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/TRMB.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 1,
+    "bearish_count": 3,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "Trimble 近期股價表現疲軟，分析師對其估值看法分歧，部分機構下調目標價反映市場對其成長動能的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why The Trimble ( TRMB ) Story Is Shifting As Analyst Targets Tighten Around Fair Value",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 12:05",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管股價波動，部分分析師仍看好其長期價值，並將目標價上調至 100 美元區間，顯示市場對其基本面轉型仍有信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Baird Maintains Outperform on Trimble, Lowers Price Target to $85",
+      "publisher": "Benzinga",
+      "date": "2026-03-30 09:24",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Baird 分析師 Richard Eastman 雖維持「優於大盤」評級，但將目標價從 90 美元下調，反映出對短期股價成長動能的保守預期。"
+    },
+    {
+      "rank": 2,
+      "title": "3 Reasons to Sell TRMB and 1 Stock to Buy Instead",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 16:11",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "該報導指出 Trimble 過去六個月股價下跌 19.6 %，表現落後大盤，並建議投資人考慮轉向其他標的，對股價信心構成打擊。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Trimble Stock Underperforming the Dow?",
+      "publisher": "Barchart",
+      "date": "2026-03-23 13:52",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討 Trimble 股價表現是否持續落後於道瓊指數，進一步加深市場對該公司相對弱勢的負面印象。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Time To Revisit Trimble ( TRMB ) After Recent Share Price Weakness?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-22 23:05",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章採取中立觀點，探討在股價近期走弱後，是否為投資人重新評估該公司價值的好時機，並未給出明確買賣建議。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

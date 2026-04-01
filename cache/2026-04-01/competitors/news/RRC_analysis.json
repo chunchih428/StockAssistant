@@ -1,0 +1,47 @@
+{
+  "ticker": "RRC",
+  "company": "Range Resources Corporation",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/RRC.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 Range Resources 的獲利能力與成長潛力持正面看法，分析師調升目標價反映了對其營運表現的信心。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Range Resources price target raised to $48 from $40 at Morgan Stanley",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 11:43",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Morgan Stanley 分析師 Devin McDermott 將目標價從 40 美元大幅調升至 48 美元，顯示市場對公司未來股價表現與基本面改善的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Range Resources (RRC) Up 19.1% Since Last Earnings Report: Can It Continue?",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 15:30",
+      "impact": "medium",
+      "category": "財報表現",
+      "reason": "自上季財報公布以來股價上漲 19.1 %，顯示市場對其獲利能力與營運效率的認可，並持續關注其後續成長動能。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Truist Initiates Coverage of Range Resources Corporation (RRC) With a Hold Rating",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 15:06",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "Truist Securities 給予「持有」評級，雖然認可其為 NYSE 中獲利能力較佳的股票，但評級相對保守，故歸類為中性。此處選用 Yahoo 報導作為代表，因其涵蓋了對公司獲利能力的正面評價。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

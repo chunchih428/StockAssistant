@@ -1,0 +1,48 @@
+{
+  "ticker": "GWRE",
+  "company": "Guidewire Software, Inc.",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/GWRE.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "Neutral",
+    "key_theme": "市場對於 Guidewire Software 的獲利預期與估值調整存在分歧，機構投資人獲利了結與分析師看好財報表現形成拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Looking for Earnings Beat? Buy These 4 Top-Ranked Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-03-30 14:50",
+      "impact": "medium",
+      "category": "財報預測",
+      "reason": "分析師將 GWRE 列為具備獲利超預期潛力的標的，顯示市場對其即將公布的財報表現持樂觀態度，有利於短期股價支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Parnassus Mid Cap Fund Sold Guidewire Software (GWRE) After Achieving Investment Thesis",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 14:33",
+      "impact": "medium",
+      "category": "機構持倉變動",
+      "reason": "Parnassus Mid Cap Fund 出清持股，雖主因為達成投資目標後的獲利了結，但機構賣壓仍可能對股價造成短期壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Assessing Guidewire Software (GWRE) Valuation After Recent Share Price Pullback",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 04:18",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章針對近期股價回調進行基本面評估，屬於中性的市場分析，旨在引導投資人重新檢視估值合理性，未帶有強烈買賣建議。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

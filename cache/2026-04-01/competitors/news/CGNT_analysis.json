@@ -1,0 +1,65 @@
+{
+  "ticker": "CGNT",
+  "company": "Cognyte Software Ltd.",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/CGNT.json",
+  "summary": {
+    "total_articles": 12,
+    "bullish_count": 10,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司發布優於預期的 Q4 財報與強勁的 2027 財年財測，並獲得大型執法機構合約，推動股價顯著上漲。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cognyte Software shares are trading higher after the company reported better-than-expected Q4 adjusted EPS results and issued FY27 guidance above estimates.",
+      "publisher": "Benzinga",
+      "date": "2026-03-25 12:16",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司 Q4 調整後每股盈餘 (EPS) 優於預期，且 2027 財年財測高於市場共識，顯示營運成長動能強勁，為股價上漲主要驅動力。"
+    },
+    {
+      "rank": 2,
+      "title": "One Of US State Law Enforcement Agencies Selects Cognyte Software In A Contract Valued At Approximately $5M, To Deploy Cognyte's Tactical SIGINT Solution To Support Mission-critical Investigations And Real-time Field Operations Across Its State",
+      "publisher": "Benzinga",
+      "date": "2026-03-25 07:11",
+      "impact": "medium",
+      "category": "業務拓展",
+      "reason": "獲得價值約 500 萬美元的美國州級執法機構合約，證明其戰術 SIGINT 解決方案的市場競爭力與長期營收穩定性。"
+    },
+    {
+      "rank": 3,
+      "title": "Cognyte Software: Compelling EBITDA, Low Dilution — Cognyte Software stands out amid tech sector pessimism, offering recurring revenue and resilience against near-term AI d",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-26 02:00",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析師指出公司具備強勁的 EBITDA 表現與低稀釋風險，且其經常性收入模式在科技業波動中展現出高度韌性。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Cognyte Software Ltd. (CGNT) Q4 2026 Earnings Call Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-25 12:46",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "提供財報會議逐字稿，屬於資訊揭露性質，供投資人深入了解管理層對未來策略的說明。"
+    },
+    {
+      "rank": 2,
+      "title": "Cognyte Software Ltd. 2026 Q4 - Results - Earnings Call Presentation",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-25 16:30",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "公司發布的財報簡報檔，為投資人提供財務數據的視覺化呈現，屬中性資訊揭露。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

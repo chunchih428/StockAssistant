@@ -1,0 +1,66 @@
+{
+  "ticker": "MTCH",
+  "company": "Match Group",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/MTCH.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 1,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司面臨 FTC 隱私訴訟的法律風險，且股價長期表現疲軟，儘管市場對其低估值存在反彈預期，但整體信心仍顯不足。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Match Group Is Significantly Undervalued For A Stable, High-Margin Business",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-30 03:45",
+      "impact": "medium",
+      "category": "投資分析",
+      "reason": "分析師指出 Match Group 作為高利潤率的線上約會龍頭，目前交易價格僅為 11 倍預期本益比，認為其估值被嚴重低估，具備長期投資價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Match Group settles US FTC claims it illegally shared OkCupid user data",
+      "publisher": "Reuters",
+      "date": "2026-03-30 14:13",
+      "impact": "high",
+      "category": "法規與訴訟",
+      "reason": "Match Group 與美國聯邦貿易委員會 (FTC) 就 OkCupid 用戶數據隱私洩露案達成和解，該事件不僅涉及法律賠償，更對公司品牌聲譽造成負面影響，故選此篇作為代表。"
+    },
+    {
+      "rank": 2,
+      "title": "3 Reasons MTCH is Risky and 1 Stock to Buy Instead",
+      "publisher": "StockStory",
+      "date": "2026-03-25 13:58",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導明確指出 Match Group 目前面臨的營運風險，建議投資人轉向其他標的，對股價短期情緒構成壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "Is It Time To Reconsider Match Group (MTCH) After Years Of Share Price Weakness",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-26 19:06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討公司股價多年來的疲軟表現，反映出市場對其成長動能的質疑，對投資人信心產生負面影響。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Match Group Stock Underperforming the S&P 500?",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 10:38",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "客觀分析 Match Group 過去一年相較於 S&P 500 指數的表現，屬於中性的市場數據回顧，選用 Yahoo 報導作為代表。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

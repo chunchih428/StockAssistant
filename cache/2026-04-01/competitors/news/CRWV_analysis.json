@@ -1,0 +1,93 @@
+{
+  "ticker": "CRWV",
+  "company": "CoreWeave",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/CRWV.json",
+  "summary": {
+    "total_articles": 15,
+    "bullish_count": 9,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司成功取得 85 億美元投資級貸款以擴張 AI 雲端平台，顯著提升市場信心與機構資金流入。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "CoreWeave Just Got an $8.5 Billion Loan. Why the Stock Is Rising 11%.",
+      "publisher": "Barrons.com",
+      "date": "2026-03-31T19:20:00Z",
+      "impact": "high",
+      "category": "融資與資本結構",
+      "reason": "公司成功取得 85 億美元的投資級延遲提取定期貸款，此舉不僅降低了資本成本，更顯示機構投資人對其 AI 雲端平台擴張模式的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Cathie Wood Just Snapped Up This Nvidia Cloud Play — Here's Everything Else Ark Traded Monday",
+      "publisher": "Benzinga",
+      "date": "2026-03-30 22:38",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Cathie Wood 旗下的 Ark Invest 買入約 300 萬美元的 CoreWeave 股票，顯示知名基金經理人對該公司作為 Nvidia 雲端合作夥伴的長期看好。"
+    },
+    {
+      "rank": 3,
+      "title": "CoreWeave stock gets bold call from Bank of America amid AI shortage",
+      "publisher": "TheStreet",
+      "date": "2026-03-31T16:03:00Z",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "美國銀行對 CoreWeave 發布正面評價，強調在 AI 算力短缺的背景下，該公司具備強大的市場競爭優勢。"
+    },
+    {
+      "rank": 4,
+      "title": "Jim Cramer on CoreWeave: “I Want You to Keep It”",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-31T16:04:51Z",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "知名財經評論員 Jim Cramer 公開建議投資人持有該股票，為散戶市場帶來正面情緒支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Forget CoreWeave. 3 Profitable AI Stocks That Don’t Burn $30B a Year",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-03-31T18:38:20Z",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "該報導質疑 CoreWeave 的高額資本支出與獲利能力，警告投資人應關注現金流狀況，而非僅看重營收成長。"
+    },
+    {
+      "rank": 2,
+      "title": "CoreWeave Trails Nebius As AI Spending Fears Rattle Investors",
+      "publisher": "Benzinga",
+      "date": "2026-03-26 05:31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場對於 AI 基礎設施過度投資的擔憂，導致部分投資人對 CoreWeave 的虧損擴大感到不安，並將其與同業 Nebius 進行比較。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "These Stocks Are Today’s Movers: CoreWeave, Microsoft, McCormick, Constellation, Biogen, Marvell, and More",
+      "publisher": "Barrons.com",
+      "date": "2026-03-31T20:43:00Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅作為當日市場波動個股的清單式報導，未提供深入的財務分析，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "CoreWeave’s US$8.5b GPU Facility And What It Means For Valuation",
+      "publisher": "Simply Wall St.",
+      "date": "2026-04-01T02:09:19Z",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "該文章客觀分析了 85 億美元融資對公司估值的潛在影響，屬於中性的財務評估報告。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

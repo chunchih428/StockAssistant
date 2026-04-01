@@ -1,0 +1,75 @@
+{
+  "ticker": "ENPH",
+  "company": "Enphase Energy, Inc.",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/ENPH.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 1,
+    "bearish_count": 3,
+    "neutral_count": 2,
+    "overall_sentiment": "bearish",
+    "key_theme": "近期股價表現疲軟且持續跑輸大盤，儘管部分指標顯示具備成長潛力，但分析師下調目標價反映了市場對其估值的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Enphase Energy Inc (NASDAQ:ENPH) Passes Peter Lynch's GARP Investment Screen",
+      "publisher": "ChartMill",
+      "date": "2026-03-31 10:21",
+      "impact": "medium",
+      "category": "投資策略",
+      "reason": "該公司符合 Peter Lynch 的 GARP (成長型價值投資) 策略，顯示其具備可持續成長性、低 PEG 比率以及穩健的財務結構，為長期投資者提供正面訊號。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Jefferies Maintains Buy on Enphase Energy, Lowers Price Target to $54",
+      "publisher": "Benzinga",
+      "date": "2026-03-26 12:18",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Jefferies 分析師 Julien Dumoulin-Smith 雖維持買入評級，但下調目標價至 $54，反映出對公司短期成長動能或市場環境的保守預期。"
+    },
+    {
+      "rank": 2,
+      "title": "Enphase Energy (ENPH) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "publisher": "Zacks",
+      "date": "2026-03-30T21:50:05Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "選此篇作為代表，因其涵蓋了近期股價表現弱於大盤的現象，反映出市場對該公司在當前總體經濟環境下的抗壓性存疑。"
+    },
+    {
+      "rank": 3,
+      "title": "Enphase Energy (ENPH) Stock Dips While Market Gains: Key Facts",
+      "publisher": "Zacks",
+      "date": "2026-03-23T21:50:03Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此篇報導與 3 月 30 日的報導主題重複，均指出股價與大盤走勢背離，顯示該股近期面臨較大的拋售壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Investors Heavily Search Enphase Energy, Inc. (ENPH): Here is What You Need to Know",
+      "publisher": "Zacks",
+      "date": "2026-03-27T13:00:03Z",
+      "impact": "low",
+      "category": "市場情緒",
+      "reason": "報導指出該股受到投資人高度關注，屬於中性市場情緒分析，並未提供具體的利多或利空基本面變動。"
+    },
+    {
+      "rank": 2,
+      "title": "Enphase Energy (ENPH) Valuation Check After Recent Share Price Weakness",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-27T12:05:52Z",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "針對股價下跌後的估值進行檢視，屬於客觀的財務數據回顧，旨在幫助投資人評估當前股價是否合理，無明顯情緒偏向。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

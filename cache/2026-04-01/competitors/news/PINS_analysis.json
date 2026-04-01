@@ -1,0 +1,75 @@
+{
+  "ticker": "PINS",
+  "company": "Pinterest",
+  "analysis_date": "2026-04-01",
+  "source_file": "cache/2026-04-01/competitors/news/PINS.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 1,
+    "bearish_count": 3,
+    "neutral_count": 2,
+    "overall_sentiment": "bearish",
+    "key_theme": "Pinterest 面臨法律訴訟風險與分析師下調目標價的壓力，儘管股價短期出現反彈，但整體市場情緒仍偏向保守。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Pinterest (PINS) Rises As Market Takes a Dip: Key Facts",
+      "publisher": "Zacks",
+      "date": "2026-03-30 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該股在整體市場下跌的環境下逆勢上漲 1.41 %，顯示出短期內有買盤支撐，選用 Zacks 報導因其提供較完整的市場表現數據。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Reddit, Meta, Roku, Snap, and Pinterest Shares Plummet, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 20:54",
+      "impact": "high",
+      "category": "法規與訴訟",
+      "reason": "洛杉磯陪審團裁定多家社交媒體平台存在疏忽，此類法律風險可能導致長期營運成本增加及監管壓力，對股價構成顯著負面影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Morgan Stanley Maintains Overweight on Pinterest, Lowers Price Target to $27",
+      "publisher": "Benzinga",
+      "date": "2026-03-25 13:39",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "摩根士丹利分析師 Brian Nowak 雖維持「加碼」評級，但下調目標價至 27 美元，反映出對公司成長動能的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Can Pinterest Reach $27? 3 Things Must Go Right After Morgan Stanley’s Target Cut",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 14:42",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "文章深入分析了 Pinterest 今年以來股價下跌近 30 % 的嚴峻處境，強調公司需達成特定目標才能扭轉頹勢，加深市場對其基本面的疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "A Look At Pinterest (PINS) Valuation As Shares Trade Below Popular Undervaluation Narratives",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 11:07",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "文章探討了 Pinterest 的估值現狀，指出近期股價表現疲軟，但未給出明確的買入或賣出建議，屬於中性的市場觀察。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Pinterest, Inc. (PINS) One of the Cheap Rising Stocks to Buy Now?",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 18:50",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "引用 Rosenblatt 重申的「中立」評級，顯示分析師對該股目前處於觀望態度，未有強烈的方向性指引。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
