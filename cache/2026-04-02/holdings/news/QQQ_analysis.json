@@ -1,0 +1,65 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-04-02",
+  "source_file": "cache/2026-04-02/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "地緣政治風險緩解帶動市場情緒回升，技術面顯示 QQQ 處於超賣後的反彈區間。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Oil Tumbles, Nasdaq 100 Jumps 3% As Iran Says It's Ready To Halt Hostilities: 10 Stocks Moving",
+      "publisher": "Benzinga",
+      "date": "2026-03-31 22:09",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "伊朗釋出停止敵對行動訊號，導致油價下跌 2%，市場避險情緒消退，直接推動 Nasdaq 100 指數與 QQQ 大漲 3.2%，為近期最強勁的利多因子。"
+    },
+    {
+      "rank": 2,
+      "title": "SPY: After 5 Down Weeks, Here's Why A Sharp Rebound Could Be Coming",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-30 22:17",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析指出 QQQ 在經歷 10% 以上的修正後已進入超賣區間，隨著恐慌指數飆升，市場具備技術性反彈的條件。"
+    },
+    {
+      "rank": 3,
+      "title": "Breadth Rebounds Sharply, But Long-Term Trend Pressure Remains on SPY and QQQ",
+      "publisher": "ChartMill",
+      "date": "2026-04-01 19:03",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "市場廣度指標出現強勁反彈，顯示內部結構改善，雖然長期趨勢仍有壓力，但短期買盤力道增強對 QQQ 股價構成支撐。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "QQQI With JEPQ: Outperforming QQQ Amidst The 2026 Tech Correction",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-02 01:40",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "文章比較了 QQQI 與 JEPQ 等掩護性買權 ETF 的績效，重點在於收益與下檔保護，對 QQQ 本身股價無直接影響，僅提供投資組合配置參考。"
+    },
+    {
+      "rank": 2,
+      "title": "How To Trade SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, TSLA Using Technical Analysis",
+      "publisher": "Benzinga",
+      "date": "2026-03-27 18:17",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "此為純技術分析教學文章，旨在提供交易策略與點位參考，不涉及基本面變動或市場消息，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,4 +1,4 @@
-﻿"""Dashboard rebuild workflow."""
+"""Dashboard rebuild workflow."""
 import datetime
 import json
 
@@ -232,9 +232,13 @@ def rebuild_dashboard(
 
     html_content = generate_html_fn(results, allocation, options, generated_at)
     html_file.write_text(html_content, encoding='utf-8')
+    archive_dir = html_file.parent / "archive"
+    archive_dir.mkdir(exist_ok=True)
+    archive_file = archive_dir / f"index_{datetime.datetime.now().strftime('%Y%m%d')}.html"
+    archive_file.write_text(html_content, encoding='utf-8')
 
     print_fn(f"\n{'=' * 56}")
-    print_fn(f"  ✅ index.html 已重新生成: {html_file}")
+    print_fn(f"  ✅ index.html 已重新生成: {html_file} (備份至 archive/{archive_file.name})")
     print_fn(f"  投資組合總值: ${allocation['total_value']:,.0f}")
     print_fn(f"{'=' * 56}")
     print_fn("\n  開啟儀表板:")

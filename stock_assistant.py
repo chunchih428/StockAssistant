@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 股票分析儀表板 (Stock Analysis Dashboard)
 
@@ -609,7 +609,11 @@ def main():
     # Generate HTML dashboard
     html_content = generate_html(results, allocation, options, generated_at)
     HTML_FILE.write_text(html_content, encoding='utf-8')
-    print(f"  儀表板已生成: {HTML_FILE}")
+    archive_dir = BASE_DIR / "archive"
+    archive_dir.mkdir(exist_ok=True)
+    archive_file = archive_dir / f"index_{datetime.datetime.now().strftime('%Y%m%d')}.html"
+    archive_file.write_text(html_content, encoding='utf-8')
+    print(f"  儀表板已生成: {HTML_FILE} (備份至 archive/{archive_file.name})")
 
     # Cache stats
     print("\n  [Cache 持倉]")

@@ -1,4 +1,4 @@
-﻿"""Dashboard HTML template."""
+"""Dashboard HTML template."""
 DASHBOARD_TEMPLATE = r"""<!DOCTYPE html>
 <html lang="zh-TW">
 <head>
@@ -254,14 +254,13 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
         <div v-show="cat.open" style="overflow-x:auto">
           <table class="ot">
             <thead><tr>
-              <th>代號</th><th>公司</th><th style="text-align:right">股數</th><th style="text-align:right">成本</th>
+              <th>代號</th><th style="text-align:right">股數</th><th style="text-align:right">成本</th>
               <th style="text-align:right">現價</th><th style="text-align:right">市值</th><th style="text-align:right">損益</th>
-              <th style="text-align:right">損益%</th><th style="text-align:right">配置%</th><th>建議</th>
+              <th style="text-align:right">損益%</th><th style="text-align:right">配置%</th>
             </tr></thead>
             <tbody>
               <tr v-for="p in cat.items" :key="p.symbol" class="row-click" @click="goDetail(p.symbol)">
                 <td style="font-weight:700">{{p.symbol}}</td>
-                <td style="max-width:10rem;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">{{stockName(p.symbol)}}</td>
                 <td class="num">{{p.shares.toFixed(0)}}</td>
                 <td class="num">${{p.cost_basis.toFixed(2)}}</td>
                 <td class="num">{{p.current_price?'$'+p.current_price.toFixed(2):'N/A'}}</td>
@@ -269,19 +268,17 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
                 <td class="num" :class="p.pnl>=0?'text-up':'text-down'">{{p.pnl>=0?'+':''}}{{fmtMoney(p.pnl)}}</td>
                 <td class="num" :class="p.pnl_pct>=0?'text-up':'text-down'">{{p.pnl_pct>=0?'+':''}}{{p.pnl_pct.toFixed(2)}}%</td>
                 <td class="num">{{p.alloc_pct.toFixed(1)}}%</td>
-                <td><span v-if="stockRec(p.symbol)!=='unknown'" class="badge" :style="'background:'+RI[stockRec(p.symbol)].bg+';color:'+RI[stockRec(p.symbol)].color">{{RI[stockRec(p.symbol)].label}}</span><span v-else style="color:#94a3b8;font-size:.7rem">-</span></td>
               </tr>
             </tbody>
             <tfoot style="font-weight:700;background:#f8fafc">
               <tr>
-                <td colspan="2">小計</td>
+                <td colspan="1">小計</td>
                 <td class="num">{{cat.items.reduce((a,p)=>a+p.shares,0).toFixed(0)}}</td>
                 <td></td><td></td>
                 <td class="num">{{fmtMoney(cat.totalMV)}}</td>
                 <td class="num" :class="cat.totalPnl>=0?'text-up':'text-down'">{{cat.totalPnl>=0?'+':''}}{{fmtMoney(cat.totalPnl)}}</td>
                 <td class="num" :class="cat.totalPnl>=0?'text-up':'text-down'">{{cat.totalCost>0?((cat.totalPnl/cat.totalCost)*100).toFixed(2)+'%':'—'}}</td>
                 <td class="num">{{cat.items.reduce((a,p)=>a+p.alloc_pct,0).toFixed(1)}}%</td>
-                <td></td>
               </tr>
             </tfoot>
           </table>
@@ -299,12 +296,12 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
       <div style="overflow-x:auto">
         <table class="ot">
           <thead><tr>
-            <th>公司</th><th>Option Type</th><th>Strike Price</th><th>Expiration Date</th><th style="text-align:right">股數</th><th style="text-align:right">成本</th>
+            <th>代號</th><th>Option Type</th><th>Strike Price</th><th>Expiration Date</th><th style="text-align:right">股數</th><th style="text-align:right">成本</th>
             <th style="text-align:right">現價</th><th style="text-align:right">市值</th><th style="text-align:right">損益</th>
             <th style="text-align:right">損益%</th><th style="text-align:right">配置%</th>
           </tr></thead>
           <tbody><tr v-for="o in data.options" :key="o.underlying+o.strike+o.expiry">
-            <td style="font-weight:700;max-width:10rem;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">{{stockName(o.underlying)}}</td>
+            <td style="font-weight:700">{{o.underlying}}</td>
             <td>{{o.type}}</td>
             <td class="num">${{o.strike.toFixed(2)}}</td>
             <td>{{o.expiry}}</td>
@@ -343,18 +340,16 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
         <table class="ot">
           <thead><tr>
             <th>代號</th>
-            <th>公司</th>
             <th style="text-align:center;cursor:pointer" @click="toggleScoreSort('fund')">基本面 <span v-if="sortScoreKey==='fund'">{{sortScoreDesc?'↓':'↑'}}</span></th>
             <th style="text-align:center;cursor:pointer" @click="toggleScoreSort('tech')">技術面 <span v-if="sortScoreKey==='tech'">{{sortScoreDesc?'↓':'↑'}}</span></th>
             <th style="text-align:center;cursor:pointer" @click="toggleScoreSort('risk')">風險 <span v-if="sortScoreKey==='risk'">{{sortScoreDesc?'↓':'↑'}}</span></th>
             <th style="text-align:center">趨勢</th>
-            <th style="text-align:center">建議</th>
+            <th style="text-align:center">消息面</th>
           </tr></thead>
           <tbody>
             <template v-for="s in sortedScoreStocks" :key="s.symbol">
               <tr class="row-click" @click="goDetail(s.symbol)">
                 <td style="font-weight:700">{{s.symbol}}</td>
-                <td style="font-size:.78rem;color:#475569;max-width:10rem;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">{{s.company}}</td>
                 <!-- 基本面 -->
                 <td style="text-align:center">
                   <span v-if="s.fundamental.fund_score!=null">
@@ -389,16 +384,15 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
                 <td style="text-align:center">
                   <span style="font-size:.68rem;padding:.15rem .45rem;border-radius:.3rem;font-weight:600"
                     :style="s.technical.trend_status==='UPTREND'||s.technical.trend_status==='OVERSOLD_UPTREND'?'background:#dcfce7;color:#16a34a':s.technical.trend_status==='DOWNTREND'||s.technical.trend_status==='BREAKDOWN'?'background:#fee2e2;color:#dc2626':'background:#f1f5f9;color:#475569'">
-                    {{s.technical.trend_status||'—'}}
+                    {{trendLabel(s.technical.trend_status)}}
                   </span>
                 </td>
-                <!-- 建議 -->
+                <!-- 消息面 -->
                 <td style="text-align:center">
-                  <span v-if="RI[s.recommendation]" style="font-size:.7rem;padding:.15rem .5rem;border-radius:.3rem;font-weight:600"
-                        :style="'background:'+RI[s.recommendation].bg+';color:'+RI[s.recommendation].color">
-                    {{RI[s.recommendation].label}}
+                  <span style="font-size:.7rem;padding:.15rem .5rem;border-radius:.3rem;font-weight:600"
+                        :style="newsSentStyle(s)">
+                    {{newsSentLabel(s)}}
                   </span>
-                  <span v-else style="color:#94a3b8;font-size:.78rem">—</span>
                 </td>
               </tr>
             </template>
@@ -497,12 +491,12 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
               <div style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
                 <div style="background:#f3e8ff;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#6b21a8;display:flex;justify-content:space-between"><span>趨勢狀態</span><span>滿分 40</span></div>
                 <table style="width:100%;font-size:.72rem;border-collapse:collapse">
-                  <tr><td style="padding:.3rem .6rem;color:#334155">UPTREND</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#16a34a">40</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">OVERSOLD_UPTREND</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">35</td></tr>
-                  <tr><td style="padding:.3rem .6rem;color:#334155">RECOVERY</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">25</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">CONSOLIDATION</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">20</td></tr>
-                  <tr><td style="padding:.3rem .6rem;color:#334155">BREAKDOWN</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#d97706">10</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">DOWNTREND</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#dc2626">0</td></tr>
+                  <tr><td style="padding:.3rem .6rem;color:#334155">多頭排列 (UPTREND)</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#16a34a">40</td></tr>
+                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">多頭超賣 (OVERSOLD_UPTREND)</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">35</td></tr>
+                  <tr><td style="padding:.3rem .6rem;color:#334155">跌深反彈 (RECOVERY)</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">25</td></tr>
+                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">盤整整固 (CONSOLIDATION)</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">20</td></tr>
+                  <tr><td style="padding:.3rem .6rem;color:#334155">跌破支撐 (BREAKDOWN)</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#d97706">10</td></tr>
+                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">空頭排列 (DOWNTREND)</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#dc2626">0</td></tr>
                 </table>
               </div>
               <!-- RSI-14 -->
@@ -926,6 +920,20 @@ createApp({
     categories(){const map={};this.data.allocation.positions.forEach(p=>{const c=p.category||'未分類';if(c==='競品參考')return;if(!map[c])map[c]={name:c,items:[],totalMV:0,totalPnl:0,totalCost:0,open:true};map[c].items.push(p);map[c].totalMV+=p.market_value;map[c].totalPnl+=p.pnl;map[c].totalCost+=p.cost_total});const order=['長期霸主','長期穩健','中期題材(股票)','短期投機(股票)','未分類'];return order.filter(k=>map[k]).map(k=>map[k]).concat(Object.keys(map).filter(k=>!order.includes(k)).map(k=>map[k]))},
   },
   methods:{
+    trendLabel(status){
+      const map = {
+        'UPTREND':'多頭排列',
+        'OVERSOLD_UPTREND':'多頭超賣',
+        'OVERBOUGHT_UPTREND':'多頭超買',
+        'DOWNTREND':'空頭排列',
+        'REBOUND':'跌深反彈',
+        'RECOVERY':'跌深反彈',
+        'BREAKDOWN':'跌破支撐',
+        'SIDEWAYS':'盤整整固',
+        'CONSOLIDATION':'盤整整固'
+      };
+      return map[status] || status || '—';
+    },
     toggleScoreSort(key) {
       if (this.sortScoreKey === key) {
         this.sortScoreDesc = !this.sortScoreDesc;

@@ -4,3 +4,8 @@ __pycache__/
 .env
 .pytest_cache/
 cache/_yfinance/
+node_modules/
+package-lock.json
+package.json
+risk_monitor/
+shared/
