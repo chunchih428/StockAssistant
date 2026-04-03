@@ -1,0 +1,83 @@
+{
+  "_version": 1,
+  "_last_optimized": null,
+  "_note": "此檔案由 monitor.py --optimize 自動更新，也可手動調整。overrides 區塊永遠不會被自動覆蓋。",
+
+  "thresholds": {
+    "_note": "警示規則觸發條件，所有數值皆可被 overrides 個股覆蓋",
+    "stop_loss_pct":        -20,
+    "warn_loss_pct":        -12,
+    "take_profit_pct":       60,
+    "max_single_alloc_pct":  30,
+    "fund_score_close":      30,
+    "fund_score_add":        70,
+    "tech_score_reduce":     45,
+    "tech_score_add":        58,
+    "risk_score_reduce":     30,
+    "rsi_overbought":        75,
+    "rsi_oversold":          28,
+    "max_portfolio_beta":     1.6,
+    "warn_portfolio_beta":    1.3,
+    "max_hhi":               0.25,
+    "warn_hhi":              0.15,
+    "max_top1_pct":          35,
+    "warn_top1_pct":         25,
+    "add_max_alloc_pct":     22,
+    "min_cash_pct":           5,
+    "max_cash_pct":          25,
+    "warn_high_cash_pct":    18
+  },
+
+  "scoring_weights": {
+    "_note": "覆蓋各模組的預設權重，留空或移除某項則回用程式碼預設值",
+
+    "fundamental": {
+      "rev_growth":   { "over_30": 30, "over_15": 22, "over_5": 14, "over_0": 6, "below_0": -10 },
+      "gross_margin": { "over_60": 25, "over_40": 16, "over_20": 8, "default": 0 },
+      "fcf_margin":   { "over_20": 15, "over_10": 10, "over_0": 5,  "below_0": -8 },
+      "debt_equity":  { "below_05": 10, "below_15": 4, "over_50": -10 },
+      "analyst_rec":  { "below_18": 20, "below_23": 14, "below_30": 6, "over_40": -10 }
+    },
+
+    "technical": {
+      "trend":  {
+        "UPTREND": 40, "OVERSOLD_UPTREND": 35, "RECOVERY": 25,
+        "CONSOLIDATION": 20, "BREAKDOWN": 10, "DOWNTREND": 0, "UNKNOWN": 20
+      },
+      "rsi":    { "healthy_momentum": 20, "normal": 12, "overheated": 5, "oversold": 8 },
+      "macd":   { "bull_above_zero": 20, "bull_below_zero": 12, "bear_below_zero": 0, "bear_above_zero": 6 },
+      "bb":     { "mid": 10, "lower": 7, "below_low": 4, "above_high": 4 },
+      "atr":    { "low_vol": 10, "normal_vol": 6, "high_vol": 2, "extreme_vol": 0 }
+    },
+
+    "risk": {
+      "var_95":  { "above_minus_2pct": 30, "above_minus_4pct": 20, "above_minus_6pct": 10, "below_minus_6pct": 0 },
+      "sharpe":  { "above_1": 25, "above_05": 15, "above_0": 5, "below_0": 0 },
+      "sortino": { "above_15": 25, "above_1": 15, "above_0": 5, "below_0": 0 },
+      "beta":    { "below_08": 20, "below_12": 15, "below_15": 5, "above_15": 0 }
+    },
+
+    "news_sentiment": {
+      "_note": "消息面加成分數（疊加在候選股綜合評分上，無 AI 分析時為 0）",
+      "bullish":  8,
+      "bearish": -8,
+      "mixed":    0,
+      "neutral":  2
+    },
+
+    "composite_for_candidates": {
+      "_note": "候選股綜合評分加權比例，三項加總應等於 1.0（news_boost 額外加）",
+      "fund_score":  0.40,
+      "tech_score":  0.35,
+      "risk_score":  0.20,
+      "news_boost":  0.05
+    }
+  },
+
+  "overrides": {
+    "_note": "個股設定覆蓋，key 為股票代號，只需填入要覆蓋的閾值即可",
+    "_example_disabled": {
+      "AAPL": { "stop_loss_pct": -15, "take_profit_pct": 80 }
+    }
+  }
+}

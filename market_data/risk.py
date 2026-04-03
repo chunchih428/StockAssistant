@@ -68,7 +68,22 @@ def compute_sharpe_sortino(returns: pd.Series, rf: float = RISK_FREE) -> tuple[f
 
 
 def compute_risk_score(returns: pd.Series, info: dict, config: dict = None) -> dict:
-    weights = (config or {}).get('risk_weights', DEFAULT_RISK_WEIGHTS)
+    """風險評分 0-100。
+
+    權重優先順序：
+        1. config['risk_weights']（stock_assistant 傳入）
+        2. monitor_config.json 的 scoring_weights.risk
+        3. DEFAULT_RISK_WEIGHTS（程式碼預設值）
+    """
+    weights = (config or {}).get('risk_weights')
+    if weights is None:
+        try:
+            from monitor.config import get_scoring_weights
+            weights = get_scoring_weights().get('risk')
+        except Exception:
+            pass
+    if weights is None:
+        weights = DEFAULT_RISK_WEIGHTS
     
     score = 0.0
     details = {}

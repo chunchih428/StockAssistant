@@ -18,12 +18,19 @@ def render_md(text):
     return md_lib.markdown(text, extensions=['tables', 'fenced_code', 'sane_lists'])
 
 
-def generate_html(results, allocation, options, generated_at):
-    """生成互動式 HTML 儀表板（Vue 3 + Tailwind CSS）。"""
-    return _build_interactive_dashboard(results, allocation, options, generated_at)
+def generate_html(results, allocation, options, generated_at, alerts_data=None):
+    """生成互動式 HTML 儀表板（Vue 3 + Tailwind CSS）。
+
+    Parameters
+    ----------
+    alerts_data : dict | None
+        由 monitor.engine.run_monitor() 產生的監測警示資料。
+        None 時儀表板不顯示警示面板（向下相容舊行為）。
+    """
+    return _build_interactive_dashboard(results, allocation, options, generated_at, alerts_data)
 
 
-def _build_interactive_dashboard(results, allocation, options, generated_at):
+def _build_interactive_dashboard(results, allocation, options, generated_at, alerts_data=None):
     """建構互動式儀表板 HTML。"""
     competitors_map = {}
     candidate_symbols = []
@@ -180,6 +187,7 @@ def _build_interactive_dashboard(results, allocation, options, generated_at):
             'options': options_data,
             'generated_at': generated_at,
             'candidates': candidate_symbols,
+            'alerts': alerts_data or {},
         },
         ensure_ascii=False,
         default=str,

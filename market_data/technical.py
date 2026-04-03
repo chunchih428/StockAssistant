@@ -122,7 +122,18 @@ def compute_tech_score(trend, rsi, macd, macd_sig, bb_pct, atr_pct, weights=None
     """
     技術健康分數 0–100
     可以動態傳入 weights 來覆蓋預設權重。
+
+    權重優先順序：
+        1. weights 參數（直接傳入）
+        2. monitor_config.json 的 scoring_weights.technical
+        3. DEFAULT_TECH_WEIGHTS（程式碼預設值）
     """
+    if weights is None:
+        try:
+            from monitor.config import get_scoring_weights
+            weights = get_scoring_weights().get('technical')
+        except Exception:
+            pass
     if weights is None:
         weights = DEFAULT_TECH_WEIGHTS
 

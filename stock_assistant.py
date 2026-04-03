@@ -606,8 +606,26 @@ def main():
     )
     print(f"\n  結果已儲存: {RESULTS_FILE}")
 
+    # Run risk monitor
+    alerts_data = {}
+    try:
+        from monitor import run_monitor
+        candidate_syms = []
+        if CANDIDATES_FILE.exists():
+            for line in CANDIDATES_FILE.read_text(encoding='utf-8').splitlines():
+                sym = line.split('#', 1)[0].strip().upper()
+                if sym:
+                    candidate_syms.append(sym)
+        alerts_data = run_monitor(results, allocation, candidate_syms, config)
+        _close = sum(1 for h in alerts_data.get('holdings', {}).values() if h['top_level'] == 0)
+        _reduce = sum(1 for h in alerts_data.get('holdings', {}).values() if h['top_level'] == 1)
+        _add = sum(1 for h in alerts_data.get('holdings', {}).values() if h['top_level'] == 3)
+        print(f"\n  📊 監測警示：🔴 {_close} 停損 ｜ 🟠 {_reduce} 減倉 ｜ 💎 {_add} 加倉機會")
+    except Exception as _e:
+        print(f"  [Monitor] 警示計算略過：{_e}")
+
     # Generate HTML dashboard
-    html_content = generate_html(results, allocation, options, generated_at)
+    html_content = generate_html(results, allocation, options, generated_at, alerts_data)
     HTML_FILE.write_text(html_content, encoding='utf-8')
     archive_dir = BASE_DIR / "archive"
     archive_dir.mkdir(exist_ok=True)

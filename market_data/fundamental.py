@@ -103,8 +103,22 @@ def extract_current_price(info):
 
 
 def compute_fundamental_score(ticker: str, info: dict, config: dict = None) -> dict:
-    """根據 yfinance info 字典計算基本面健康分 (0-100)，支援動態權重"""
-    weights = (config or {}).get('fundamental_weights', DEFAULT_FUND_WEIGHTS)
+    """根據 yfinance info 字典計算基本面健康分 (0-100)，支援動態權重
+
+    權重優先順序：
+        1. config['fundamental_weights']（stock_assistant 傳入）
+        2. monitor_config.json 的 scoring_weights.fundamental
+        3. DEFAULT_FUND_WEIGHTS（程式碼預設值）
+    """
+    weights = (config or {}).get('fundamental_weights')
+    if weights is None:
+        try:
+            from monitor.config import get_scoring_weights
+            weights = get_scoring_weights().get('fundamental')
+        except Exception:
+            pass
+    if weights is None:
+        weights = DEFAULT_FUND_WEIGHTS
     
     if ticker in ETF_LIKE:
         return {'health_score': 60, 'source': 'default_etf'}

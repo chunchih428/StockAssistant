@@ -230,7 +230,24 @@ def rebuild_dashboard(
     allocation['portfolio_risk'] = compute_portfolio_risk_metrics(allocation, results)
     generated_at = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
-    html_content = generate_html_fn(results, allocation, options, generated_at)
+    # Run risk monitor (best-effort)
+    alerts_data = {}
+    try:
+        from monitor import run_monitor
+        from pathlib import Path as _Path
+        cand_file = _Path(html_file).parent / 'config' / 'candidates.txt'
+        candidate_syms = []
+        if cand_file.exists():
+            for _line in cand_file.read_text(encoding='utf-8').splitlines():
+                _sym = _line.split('#', 1)[0].strip().upper()
+                if _sym:
+                    candidate_syms.append(_sym)
+        alerts_data = run_monitor(results, allocation, candidate_syms)
+        print_fn("  [Monitor] 警示計算完成")
+    except Exception as _e:
+        print_fn(f"  [Monitor] 警示計算略過：{_e}")
+
+    html_content = generate_html_fn(results, allocation, options, generated_at, alerts_data)
     html_file.write_text(html_content, encoding='utf-8')
     archive_dir = html_file.parent / "archive"
     archive_dir.mkdir(exist_ok=True)

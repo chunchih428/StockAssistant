@@ -329,6 +329,89 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
     </div>
 
 
+    <!-- ── 監測警示面板 ── -->
+    <div v-if="data.alerts && (data.alerts.portfolio&&data.alerts.portfolio.length||Object.keys(data.alerts.holdings||{}).length||data.alerts.candidates&&data.alerts.candidates.length)" class="panel anim" style="padding:1.25rem;margin-bottom:1.25rem">
+      <div style="display:flex;align-items:center;gap:.5rem;margin-bottom:.85rem">
+        <div style="padding:.4rem;background:#fee2e2;border-radius:.5rem;color:#dc2626;display:flex"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg></div>
+        <h3 style="font-size:.95rem;font-weight:700;color:#0f172a">監測警示</h3>
+        <span style="margin-left:auto;font-size:.7rem;color:#94a3b8">{{data.alerts.generated_at?data.alerts.generated_at.slice(0,16).replace('T',' '):''}} 更新</span>
+      </div>
+
+      <!-- 組合層級警示（含現金）-->
+      <div v-if="data.alerts.portfolio&&data.alerts.portfolio.length" style="margin-bottom:1rem">
+        <div style="font-size:.78rem;font-weight:700;color:#475569;margin-bottom:.4rem;display:flex;align-items:center;gap:.35rem">
+          <svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="2"/><line x1="3" y1="9" x2="21" y2="9"/><line x1="9" y1="21" x2="9" y2="9"/></svg>組合層級警示
+        </div>
+        <div style="display:flex;flex-wrap:wrap;gap:.4rem">
+          <span v-for="a in data.alerts.portfolio" :key="a.rule"
+            style="display:inline-flex;align-items:center;gap:.3rem;padding:.3rem .65rem;border-radius:.5rem;font-size:.75rem;font-weight:600;border:1px solid"
+            :style="'background:'+a.level_color+'18;color:'+a.level_color+';border-color:'+a.level_color+'44'">
+            {{a.msg}}
+          </span>
+        </div>
+      </div>
+
+      <!-- 持股逐股警示 -->
+      <div v-if="monHoldingAlerts.length" style="margin-bottom:1rem">
+        <div style="font-size:.78rem;font-weight:700;color:#475569;margin-bottom:.4rem;display:flex;align-items:center;gap:.35rem">
+          <svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/></svg>持股警示
+        </div>
+        <div style="overflow-x:auto">
+          <table class="ot">
+            <thead><tr><th>代號</th><th style="text-align:center">最高警示</th><th style="text-align:right">配置</th><th style="text-align:right">損益</th><th>說明（前兩項）</th></tr></thead>
+            <tbody>
+              <tr v-for="h in monHoldingAlerts" :key="h.symbol" class="row-click" @click="goDetail(h.symbol)">
+                <td style="font-weight:700">{{h.symbol}}</td>
+                <td style="text-align:center">
+                  <span style="font-size:.72rem;font-weight:700;padding:.15rem .5rem;border-radius:.35rem"
+                    :style="'background:'+h.top_level_color+'20;color:'+h.top_level_color">
+                    {{h.alerts[0]?h.alerts[0].level_icon+' '+h.alerts[0].level_label:''}}
+                  </span>
+                </td>
+                <td style="text-align:right;font-size:.82rem">{{h.alloc_pct!=null?h.alloc_pct.toFixed(1)+'%':'—'}}</td>
+                <td style="text-align:right;font-size:.82rem" :style="h.pnl_pct==null?'':'color:'+(h.pnl_pct>=0?'#059669':'#dc2626')">
+                  {{h.pnl_pct!=null?(h.pnl_pct>=0?'+':'')+h.pnl_pct.toFixed(1)+'%':'—'}}
+                </td>
+                <td style="font-size:.76rem;color:#475569;max-width:24rem">
+                  <div v-for="a in h.alerts.slice(0,2)" :key="a.rule" style="line-height:1.5">
+                    <span :style="'color:'+a.level_color+';margin-right:.25rem'">{{a.level_icon}}</span>{{a.msg}}
+                  </div>
+                  <span v-if="h.alerts.length>2" style="color:#94a3b8;font-size:.7rem">…另有 {{h.alerts.length-2}} 項</span>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- 候選股排行（可折疊）-->
+      <div v-if="data.alerts.candidates&&data.alerts.candidates.length">
+        <div style="font-size:.78rem;font-weight:700;color:#475569;margin-bottom:.45rem;display:flex;align-items:center;gap:.35rem;cursor:pointer;user-select:none" @click="monCandOpen=!monCandOpen">
+          <svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.86L12 17.77 5.82 21l1.18-6.86-5-4.87 6.91-1.01z"/></svg>
+          候選股評分排行
+          <svg width="12" height="12" fill="none" stroke="#94a3b8" stroke-width="2" viewBox="0 0 24 24" :style="monCandOpen?'transform:rotate(180deg);transition:.2s':'transition:.2s'"><polyline points="6 9 12 15 18 9"/></svg>
+        </div>
+        <div v-show="monCandOpen" style="overflow-x:auto">
+          <table class="ot">
+            <thead><tr><th>#</th><th>代號</th><th style="text-align:center">綜合分</th><th style="text-align:center">基本面</th><th style="text-align:center">技術面</th><th style="text-align:center">風險</th><th>趨勢</th><th>信號</th><th>亮點</th></tr></thead>
+            <tbody>
+              <tr v-for="(c,i) in data.alerts.candidates" :key="c.symbol" :class="c.in_portfolio?'row-click':''" @click="c.in_portfolio?goDetail(c.symbol):null">
+                <td style="color:#94a3b8;font-size:.76rem">{{i+1}}</td>
+                <td style="font-weight:700">{{c.symbol}}<span v-if="c.in_portfolio" style="font-size:.65rem;color:#3b82f6;margin-left:.3rem">[持]</span></td>
+                <td style="text-align:center"><span v-if="c.composite!=null" style="font-weight:700;font-size:.85rem" :style="'color:'+(c.composite>=75?'#16a34a':c.composite>=60?'#2563eb':c.composite>=50?'#d97706':'#dc2626')">{{c.composite}}</span><span v-else style="color:#94a3b8">—</span></td>
+                <td style="text-align:center"><span v-if="c.fund_score!=null" :style="'font-size:.8rem;font-weight:600;color:'+(c.fund_score>=75?'#16a34a':c.fund_score>=60?'#2563eb':c.fund_score>=40?'#d97706':'#dc2626')">{{c.fund_score}}</span><span v-else style="color:#94a3b8">—</span></td>
+                <td style="text-align:center"><span v-if="c.tech_score!=null" :style="'font-size:.8rem;font-weight:600;color:'+(c.tech_score>=75?'#16a34a':c.tech_score>=60?'#2563eb':c.tech_score>=40?'#d97706':'#dc2626')">{{c.tech_score}}</span><span v-else style="color:#94a3b8">—</span></td>
+                <td style="text-align:center"><span v-if="c.risk_score!=null" :style="'font-size:.8rem;font-weight:600;color:'+(c.risk_score>=75?'#16a34a':c.risk_score>=60?'#2563eb':c.risk_score>=40?'#d97706':'#dc2626')">{{c.risk_score}}</span><span v-else style="color:#94a3b8">—</span></td>
+                <td><span style="font-size:.7rem;padding:.1rem .35rem;border-radius:.3rem;font-weight:600" :style="c.trend==='UPTREND'||c.trend==='OVERSOLD_UPTREND'?'background:#dcfce7;color:#16a34a':c.trend==='DOWNTREND'||c.trend==='BREAKDOWN'?'background:#fee2e2;color:#dc2626':'background:#f1f5f9;color:#475569'">{{trendLabel(c.trend)}}</span></td>
+                <td><span style="font-size:.72rem;font-weight:700;padding:.1rem .4rem;border-radius:.35rem;white-space:nowrap" :style="'background:'+c.signal_color+'18;color:'+c.signal_color">{{c.signal}}</span></td>
+                <td style="font-size:.72rem;color:#64748b;max-width:16rem;white-space:normal">{{(c.reasons||[]).slice(0,2).join(' ｜ ')}}</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
     <!-- ── 個股評分一覽 ── -->
     <div class="panel anim" style="padding:1.25rem;margin-bottom:1.25rem">
       <div style="display:flex;align-items:center;gap:.5rem;margin-bottom:.85rem">
@@ -887,7 +970,7 @@ const RI=__REC_INFO_JSON__;
 const C=__COLORS_JSON__;
 const {createApp}=Vue;
 createApp({
-  data(){return{data:D,RI:RI,view:'summary',idx:0,ddOpen:false,sq:'',anim:false,ftab:'valuation',ao:false,naNeut:false,crOpen:false,colors:C,sortScoreKey:null,sortScoreDesc:true,
+  data(){return{data:D,RI:RI,view:'summary',idx:0,ddOpen:false,sq:'',anim:false,ftab:'valuation',ao:false,naNeut:false,crOpen:false,monCandOpen:true,colors:C,sortScoreKey:null,sortScoreDesc:true,
     ftabs:[{key:'valuation',label:'估值'},{key:'profit',label:'獲利'},{key:'growth',label:'成長'},{key:'competitors',label:'競品'}]}},
   computed:{
     cur(){return this.data.stocks[this.idx]||{}},
@@ -905,6 +988,7 @@ createApp({
       });
     },
     candidateStocks(){const list=Array.isArray(this.data.candidates)?this.data.candidates:[];if(!list.length)return[];const set=new Set(list.map(s=>String(s||'').toUpperCase()));return this.data.stocks.filter(s=>set.has(String(s.symbol||'').toUpperCase()))},
+    monHoldingAlerts(){const h=this.data.alerts&&this.data.alerts.holdings||{};return Object.values(h).filter(x=>x.top_level<4).sort((a,b)=>a.top_level-b.top_level)},
     pp(){const s=this.cur;if(!s.price||!s.technical||!s.technical.high_52w||!s.technical.low_52w)return 50;const r=s.technical.high_52w-s.technical.low_52w;return r<=0?50:Math.max(0,Math.min(100,(s.price-s.technical.low_52w)/r*100))},
     vr(){const t=this.cur.technical||{};return t.current_vol&&t.avg_vol_20d?t.current_vol/t.avg_vol_20d:0},
     earningsInfo(){const f=this.cur.fundamental||{};const ed=f.next_earnings_date;if(!ed)return null;const d=new Date(ed+'T00:00:00');const now=new Date();const diff=Math.ceil((d-now)/(1000*60*60*24));const mm=String(d.getMonth()+1).padStart(2,'0');const dd=String(d.getDate()).padStart(2,'0');const label=d.getFullYear()+'/'+mm+'/'+dd+(diff>=0?' ('+diff+'天後)':' (已過)');if(diff<=14&&diff>=0)return{label,bg:'#fef2f2',border:'#fecaca',color:'#dc2626'};if(diff<=30&&diff>=0)return{label,bg:'#fffbeb',border:'#fde68a',color:'#d97706'};return{label,bg:'#f0f9ff',border:'#bae6fd',color:'#0284c7'}},
