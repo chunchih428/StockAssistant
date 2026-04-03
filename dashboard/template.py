@@ -329,95 +329,17 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
     </div>
 
 
-    <!-- ── 監測警示面板 ── -->
-    <div v-if="data.alerts && (data.alerts.portfolio&&data.alerts.portfolio.length||Object.keys(data.alerts.holdings||{}).length||data.alerts.candidates&&data.alerts.candidates.length)" class="panel anim" style="padding:1.25rem;margin-bottom:1.25rem">
-      <div style="display:flex;align-items:center;gap:.5rem;margin-bottom:.85rem">
-        <div style="padding:.4rem;background:#fee2e2;border-radius:.5rem;color:#dc2626;display:flex"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg></div>
-        <h3 style="font-size:.95rem;font-weight:700;color:#0f172a">監測警示</h3>
-        <span style="margin-left:auto;font-size:.7rem;color:#94a3b8">{{data.alerts.generated_at?data.alerts.generated_at.slice(0,16).replace('T',' '):''}} 更新</span>
-      </div>
-
-      <!-- 組合層級警示（含現金）-->
-      <div v-if="data.alerts.portfolio&&data.alerts.portfolio.length" style="margin-bottom:1rem">
-        <div style="font-size:.78rem;font-weight:700;color:#475569;margin-bottom:.4rem;display:flex;align-items:center;gap:.35rem">
-          <svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="2"/><line x1="3" y1="9" x2="21" y2="9"/><line x1="9" y1="21" x2="9" y2="9"/></svg>組合層級警示
-        </div>
-        <div style="display:flex;flex-wrap:wrap;gap:.4rem">
-          <span v-for="a in data.alerts.portfolio" :key="a.rule"
-            style="display:inline-flex;align-items:center;gap:.3rem;padding:.3rem .65rem;border-radius:.5rem;font-size:.75rem;font-weight:600;border:1px solid"
-            :style="'background:'+a.level_color+'18;color:'+a.level_color+';border-color:'+a.level_color+'44'">
-            {{a.msg}}
-          </span>
-        </div>
-      </div>
-
-      <!-- 持股逐股警示 -->
-      <div v-if="monHoldingAlerts.length" style="margin-bottom:1rem">
-        <div style="font-size:.78rem;font-weight:700;color:#475569;margin-bottom:.4rem;display:flex;align-items:center;gap:.35rem">
-          <svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/></svg>持股警示
-        </div>
-        <div style="overflow-x:auto">
-          <table class="ot">
-            <thead><tr><th>代號</th><th style="text-align:center">最高警示</th><th style="text-align:right">配置</th><th style="text-align:right">損益</th><th>說明（前兩項）</th></tr></thead>
-            <tbody>
-              <tr v-for="h in monHoldingAlerts" :key="h.symbol" class="row-click" @click="goDetail(h.symbol)">
-                <td style="font-weight:700">{{h.symbol}}</td>
-                <td style="text-align:center">
-                  <span style="font-size:.72rem;font-weight:700;padding:.15rem .5rem;border-radius:.35rem"
-                    :style="'background:'+h.top_level_color+'20;color:'+h.top_level_color">
-                    {{h.alerts[0]?h.alerts[0].level_icon+' '+h.alerts[0].level_label:''}}
-                  </span>
-                </td>
-                <td style="text-align:right;font-size:.82rem">{{h.alloc_pct!=null?h.alloc_pct.toFixed(1)+'%':'—'}}</td>
-                <td style="text-align:right;font-size:.82rem" :style="h.pnl_pct==null?'':'color:'+(h.pnl_pct>=0?'#059669':'#dc2626')">
-                  {{h.pnl_pct!=null?(h.pnl_pct>=0?'+':'')+h.pnl_pct.toFixed(1)+'%':'—'}}
-                </td>
-                <td style="font-size:.76rem;color:#475569;max-width:24rem">
-                  <div v-for="a in h.alerts.slice(0,2)" :key="a.rule" style="line-height:1.5">
-                    <span :style="'color:'+a.level_color+';margin-right:.25rem'">{{a.level_icon}}</span>{{a.msg}}
-                  </div>
-                  <span v-if="h.alerts.length>2" style="color:#94a3b8;font-size:.7rem">…另有 {{h.alerts.length-2}} 項</span>
-                </td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-      </div>
-
-      <!-- 候選股排行（可折疊）-->
-      <div v-if="data.alerts.candidates&&data.alerts.candidates.length">
-        <div style="font-size:.78rem;font-weight:700;color:#475569;margin-bottom:.45rem;display:flex;align-items:center;gap:.35rem;cursor:pointer;user-select:none" @click="monCandOpen=!monCandOpen">
-          <svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.86L12 17.77 5.82 21l1.18-6.86-5-4.87 6.91-1.01z"/></svg>
-          候選股評分排行
-          <svg width="12" height="12" fill="none" stroke="#94a3b8" stroke-width="2" viewBox="0 0 24 24" :style="monCandOpen?'transform:rotate(180deg);transition:.2s':'transition:.2s'"><polyline points="6 9 12 15 18 9"/></svg>
-        </div>
-        <div v-show="monCandOpen" style="overflow-x:auto">
-          <table class="ot">
-            <thead><tr><th>#</th><th>代號</th><th style="text-align:center">綜合分</th><th style="text-align:center">基本面</th><th style="text-align:center">技術面</th><th style="text-align:center">風險</th><th>趨勢</th><th>信號</th><th>亮點</th></tr></thead>
-            <tbody>
-              <tr v-for="(c,i) in data.alerts.candidates" :key="c.symbol" :class="c.in_portfolio?'row-click':''" @click="c.in_portfolio?goDetail(c.symbol):null">
-                <td style="color:#94a3b8;font-size:.76rem">{{i+1}}</td>
-                <td style="font-weight:700">{{c.symbol}}<span v-if="c.in_portfolio" style="font-size:.65rem;color:#3b82f6;margin-left:.3rem">[持]</span></td>
-                <td style="text-align:center"><span v-if="c.composite!=null" style="font-weight:700;font-size:.85rem" :style="'color:'+(c.composite>=75?'#16a34a':c.composite>=60?'#2563eb':c.composite>=50?'#d97706':'#dc2626')">{{c.composite}}</span><span v-else style="color:#94a3b8">—</span></td>
-                <td style="text-align:center"><span v-if="c.fund_score!=null" :style="'font-size:.8rem;font-weight:600;color:'+(c.fund_score>=75?'#16a34a':c.fund_score>=60?'#2563eb':c.fund_score>=40?'#d97706':'#dc2626')">{{c.fund_score}}</span><span v-else style="color:#94a3b8">—</span></td>
-                <td style="text-align:center"><span v-if="c.tech_score!=null" :style="'font-size:.8rem;font-weight:600;color:'+(c.tech_score>=75?'#16a34a':c.tech_score>=60?'#2563eb':c.tech_score>=40?'#d97706':'#dc2626')">{{c.tech_score}}</span><span v-else style="color:#94a3b8">—</span></td>
-                <td style="text-align:center"><span v-if="c.risk_score!=null" :style="'font-size:.8rem;font-weight:600;color:'+(c.risk_score>=75?'#16a34a':c.risk_score>=60?'#2563eb':c.risk_score>=40?'#d97706':'#dc2626')">{{c.risk_score}}</span><span v-else style="color:#94a3b8">—</span></td>
-                <td><span style="font-size:.7rem;padding:.1rem .35rem;border-radius:.3rem;font-weight:600" :style="c.trend==='UPTREND'||c.trend==='OVERSOLD_UPTREND'?'background:#dcfce7;color:#16a34a':c.trend==='DOWNTREND'||c.trend==='BREAKDOWN'?'background:#fee2e2;color:#dc2626':'background:#f1f5f9;color:#475569'">{{trendLabel(c.trend)}}</span></td>
-                <td><span style="font-size:.72rem;font-weight:700;padding:.1rem .4rem;border-radius:.35rem;white-space:nowrap" :style="'background:'+c.signal_color+'18;color:'+c.signal_color">{{c.signal}}</span></td>
-                <td style="font-size:.72rem;color:#64748b;max-width:16rem;white-space:normal">{{(c.reasons||[]).slice(0,2).join(' ｜ ')}}</td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-      </div>
-    </div>
-
     <!-- ── 個股評分一覽 ── -->
     <div class="panel anim" style="padding:1.25rem;margin-bottom:1.25rem">
       <div style="display:flex;align-items:center;gap:.5rem;margin-bottom:.85rem">
         <div style="padding:.4rem;background:#ede9fe;border-radius:.5rem;color:#7c3aed;display:flex"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="2"/><line x1="3" y1="9" x2="21" y2="9"/><line x1="9" y1="21" x2="9" y2="9"/></svg></div>
         <h3 style="font-size:.95rem;font-weight:700;color:#0f172a">個股評分一覽</h3>
         <span style="margin-left:auto;font-size:.7rem;color:#94a3b8">基本面 / 技術面 / 風險  均為 0–100，分數愈高愈佳</span>
+      </div>
+      <!-- 組合層級警示（整合自監測系統）-->
+      <div v-if="data.alerts&&data.alerts.portfolio&&data.alerts.portfolio.length" style="display:flex;flex-wrap:wrap;align-items:center;gap:.4rem;margin-bottom:.85rem;padding:.55rem .75rem;border-radius:.65rem;background:#fef2f2;border:1px solid #fecaca">
+        <span style="font-size:.72rem;font-weight:700;color:#991b1b;margin-right:.2rem;display:flex;align-items:center;gap:.25rem"><svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>組合警示</span>
+        <span v-for="a in data.alerts.portfolio" :key="a.rule" style="display:inline-flex;align-items:center;gap:.3rem;padding:.25rem .55rem;border-radius:.45rem;font-size:.72rem;font-weight:600;border:1px solid" :style="'background:'+a.level_color+'18;color:'+a.level_color+';border-color:'+a.level_color+'44'">{{a.msg}}</span>
       </div>
       <div style="overflow-x:auto">
         <table class="ot">
@@ -428,6 +350,7 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
             <th style="text-align:center;cursor:pointer" @click="toggleScoreSort('risk')">風險 <span v-if="sortScoreKey==='risk'">{{sortScoreDesc?'↓':'↑'}}</span></th>
             <th style="text-align:center">趨勢</th>
             <th style="text-align:center">消息面</th>
+            <th v-if="data.alerts&&data.alerts.holdings" style="text-align:left">警示</th>
           </tr></thead>
           <tbody>
             <template v-for="s in sortedScoreStocks" :key="s.symbol">
@@ -476,6 +399,14 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
                         :style="newsSentStyle(s)">
                     {{newsSentLabel(s)}}
                   </span>
+                </td>
+                <!-- 警示 -->
+                <td v-if="data.alerts&&data.alerts.holdings" style="white-space:nowrap">
+                  <template v-if="data.alerts.holdings[s.symbol]&&data.alerts.holdings[s.symbol].top_level<4">
+                    <span style="font-size:.68rem;font-weight:700;padding:.12rem .4rem;border-radius:.35rem;display:inline-flex;align-items:center;gap:.2rem" :style="'background:'+data.alerts.holdings[s.symbol].top_level_color+'20;color:'+data.alerts.holdings[s.symbol].top_level_color">{{data.alerts.holdings[s.symbol].alerts[0].level_icon}} {{data.alerts.holdings[s.symbol].alerts[0].level_label}}</span>
+                    <div style="font-size:.68rem;color:#64748b;margin-top:.15rem;max-width:14rem;white-space:normal;line-height:1.4">{{data.alerts.holdings[s.symbol].alerts[0].msg}}</div>
+                  </template>
+                  <span v-else style="font-size:.7rem;color:#059669;font-weight:600">🟢 HOLD</span>
                 </td>
               </tr>
             </template>
@@ -685,8 +616,94 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
 
   </main>
 
+  <!-- ==================== CANDIDATES VIEW ==================== -->
+  <main v-if="view==='candidates'" style="max-width:76rem;margin:0 auto;padding:1.5rem">
+    <div v-if="!candidateStocks.length" class="panel" style="padding:1.25rem;color:#64748b;font-size:.9rem">
+      候選清單沒有可顯示的標的。請確認 `config/candidates.txt` 內代號是否已在本次資料中載入。
+    </div>
+    <div v-else class="panel anim" style="padding:1.25rem">
+      <div style="display:flex;align-items:center;gap:.5rem;margin-bottom:.85rem">
+        <div style="padding:.4rem;background:#ede9fe;border-radius:.5rem;color:#7c3aed;display:flex"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="2"/><line x1="3" y1="9" x2="21" y2="9"/><line x1="9" y1="21" x2="9" y2="9"/></svg></div>
+        <h3 style="font-size:.95rem;font-weight:700;color:#0f172a">候選清單 - 個股評分一覽</h3>
+        <span style="margin-left:auto;font-size:.7rem;color:#94a3b8">基本面 / 技術面 / 風險  均為 0–100，分數愈高愈佳</span>
+      </div>
+      <div style="overflow-x:auto">
+        <table class="ot">
+          <thead><tr>
+            <th>代號</th>
+            <th style="text-align:center;cursor:pointer" @click="toggleScoreSort('fund')">基本面 <span v-if="sortScoreKey==='fund'">{{sortScoreDesc?'↓':'↑'}}</span></th>
+            <th style="text-align:center;cursor:pointer" @click="toggleScoreSort('tech')">技術面 <span v-if="sortScoreKey==='tech'">{{sortScoreDesc?'↓':'↑'}}</span></th>
+            <th style="text-align:center;cursor:pointer" @click="toggleScoreSort('risk')">風險 <span v-if="sortScoreKey==='risk'">{{sortScoreDesc?'↓':'↑'}}</span></th>
+            <th style="text-align:center">趨勢</th>
+            <th style="text-align:center">消息面</th>
+            <th v-if="data.alerts&&data.alerts.candidates" style="text-align:left">警示/信號</th>
+          </tr></thead>
+          <tbody>
+            <template v-for="s in sortedScoreCandidates" :key="s.symbol">
+              <tr class="row-click" @click="goDetail(s.symbol)">
+                <td style="font-weight:700">{{s.symbol}}</td>
+                <!-- 基本面 -->
+                <td style="text-align:center">
+                  <span v-if="s.fundamental&&s.fundamental.fund_score!=null">
+                    <span :style="'font-weight:700;font-size:.82rem;color:'+(s.fundamental.fund_score>=80?'#16a34a':s.fundamental.fund_score>=60?'#2563eb':s.fundamental.fund_score>=40?'#d97706':'#dc2626')">{{s.fundamental.fund_score}}</span>
+                    <div style="width:3.5rem;height:.3rem;background:#e2e8f0;border-radius:.2rem;margin:.2rem auto 0">
+                      <div :style="'height:100%;border-radius:.2rem;background:'+(s.fundamental.fund_score>=80?'#16a34a':s.fundamental.fund_score>=60?'#2563eb':s.fundamental.fund_score>=40?'#d97706':'#dc2626')+';width:'+Math.min(s.fundamental.fund_score,100)+'%'"></div>
+                    </div>
+                  </span>
+                  <span v-else style="color:#94a3b8;font-size:.78rem">—</span>
+                </td>
+                <!-- 技術面 -->
+                <td style="text-align:center">
+                  <span v-if="s.technical&&s.technical.tech_score!=null">
+                    <span :style="'font-weight:700;font-size:.82rem;color:'+(s.technical.tech_score>=80?'#16a34a':s.technical.tech_score>=60?'#2563eb':s.technical.tech_score>=40?'#d97706':'#dc2626')">{{s.technical.tech_score}}</span>
+                    <div style="width:3.5rem;height:.3rem;background:#e2e8f0;border-radius:.2rem;margin:.2rem auto 0">
+                      <div :style="'height:100%;border-radius:.2rem;background:'+(s.technical.tech_score>=80?'#16a34a':s.technical.tech_score>=60?'#2563eb':s.technical.tech_score>=40?'#d97706':'#dc2626')+';width:'+Math.min(s.technical.tech_score,100)+'%'"></div>
+                    </div>
+                  </span>
+                  <span v-else style="color:#94a3b8;font-size:.78rem">—</span>
+                </td>
+                <!-- 風險 -->
+                <td style="text-align:center">
+                  <span v-if="s.technical&&s.technical.risk_score!=null">
+                    <span :style="'font-weight:700;font-size:.82rem;color:'+(s.technical.risk_score>=80?'#16a34a':s.technical.risk_score>=60?'#2563eb':s.technical.risk_score>=40?'#d97706':'#dc2626')">{{s.technical.risk_score}}</span>
+                    <div style="width:3.5rem;height:.3rem;background:#e2e8f0;border-radius:.2rem;margin:.2rem auto 0">
+                      <div :style="'height:100%;border-radius:.2rem;background:'+(s.technical.risk_score>=80?'#16a34a':s.technical.risk_score>=60?'#2563eb':s.technical.risk_score>=40?'#d97706':'#dc2626')+';width:'+Math.min(s.technical.risk_score,100)+'%'"></div>
+                    </div>
+                  </span>
+                  <span v-else style="color:#94a3b8;font-size:.78rem">—</span>
+                </td>
+                <!-- 趨勢 -->
+                <td style="text-align:center">
+                  <span v-if="s.technical&&s.technical.trend_status"
+                    style="font-size:.68rem;padding:.15rem .45rem;border-radius:.3rem;font-weight:600"
+                    :style="s.technical.trend_status==='UPTREND'||s.technical.trend_status==='OVERSOLD_UPTREND'?'background:#dcfce7;color:#16a34a':s.technical.trend_status==='DOWNTREND'||s.technical.trend_status==='BREAKDOWN'?'background:#fee2e2;color:#dc2626':'background:#f1f5f9;color:#475569'">
+                    {{trendLabel(s.technical.trend_status)}}
+                  </span>
+                  <span v-else style="color:#94a3b8;font-size:.78rem">—</span>
+                </td>
+                <!-- 消息面 -->
+                <td style="text-align:center">
+                  <span style="font-size:.7rem;padding:.15rem .5rem;border-radius:.3rem;font-weight:600"
+                        :style="newsSentStyle(s)">{{newsSentLabel(s)}}</span>
+                </td>
+                <!-- 警示/信號 -->
+                <td v-if="data.alerts&&data.alerts.candidates" style="white-space:nowrap">
+                  <template v-if="getCandAlert(s.symbol)">
+                    <span style="font-size:.7rem;font-weight:700;padding:.12rem .4rem;border-radius:.35rem;display:inline-flex;align-items:center;gap:.2rem" :style="'background:'+getCandAlert(s.symbol).signal_color+'20;color:'+getCandAlert(s.symbol).signal_color">{{getCandAlert(s.symbol).signal}}</span>
+                    <div style="font-size:.68rem;color:#64748b;margin-top:.15rem;max-width:14rem;white-space:normal;line-height:1.4">{{(getCandAlert(s.symbol).reasons||[]).slice(0,2).join(' / ')}}</div>
+                  </template>
+                  <span v-else style="color:#94a3b8;font-size:.78rem">—</span>
+                </td>
+              </tr>
+            </template>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </main>
+
   <!-- ==================== DETAIL / COMPETITORS VIEW ==================== -->
-  <main v-if="view==='detail'||view==='competitors'||view==='candidates'" style="max-width:76rem;margin:0 auto;padding:1.5rem">
+  <main v-if="view==='detail'||view==='competitors'" style="max-width:76rem;margin:0 auto;padding:1.5rem">
 
     <!-- Stock Selector -->
     <div style="position:relative;max-width:24rem;margin-bottom:1.25rem">
@@ -987,7 +1004,8 @@ createApp({
         return this.sortScoreDesc ? valB - valA : valA - valB;
       });
     },
-    candidateStocks(){const list=Array.isArray(this.data.candidates)?this.data.candidates:[];if(!list.length)return[];const set=new Set(list.map(s=>String(s||'').toUpperCase()));return this.data.stocks.filter(s=>set.has(String(s.symbol||'').toUpperCase()))},
+    candidateStocks(){const list=Array.isArray(this.data.candidates)?this.data.candidates:[];const set=new Set(list.map(s=>String(s||'').toUpperCase()));return this.data.stocks.filter(s=>s.category==='候選'||set.has(String(s.symbol||'').toUpperCase()))},
+    sortedScoreCandidates(){let arr=this.candidateStocks.slice();if(!this.sortScoreKey)return arr;return arr.sort((a,b)=>{let va=0,vb=0;if(this.sortScoreKey==='fund'){va=a.fundamental?.fund_score||0;vb=b.fundamental?.fund_score||0;}else if(this.sortScoreKey==='tech'){va=a.technical?.tech_score||0;vb=b.technical?.tech_score||0;}else if(this.sortScoreKey==='risk'){va=a.technical?.risk_score||0;vb=b.technical?.risk_score||0;}return this.sortScoreDesc?vb-va:va-vb;});},
     monHoldingAlerts(){const h=this.data.alerts&&this.data.alerts.holdings||{};return Object.values(h).filter(x=>x.top_level<4).sort((a,b)=>a.top_level-b.top_level)},
     pp(){const s=this.cur;if(!s.price||!s.technical||!s.technical.high_52w||!s.technical.low_52w)return 50;const r=s.technical.high_52w-s.technical.low_52w;return r<=0?50:Math.max(0,Math.min(100,(s.price-s.technical.low_52w)/r*100))},
     vr(){const t=this.cur.technical||{};return t.current_vol&&t.avg_vol_20d?t.current_vol/t.avg_vol_20d:0},
@@ -1031,6 +1049,7 @@ createApp({
     goSym(sym){const i=this.data.stocks.findIndex(s=>s.symbol===sym);if(i>=0&&i!==this.idx){this.anim=true;this.ao=false;this.naNeut=false;this.ftab='valuation';setTimeout(()=>{this.idx=i;this.anim=false},150)}},
     goDetail(sym){const i=this.data.stocks.findIndex(s=>s.symbol===sym);if(i>=0){this.idx=i;this.view='detail';this.ao=false;this.naNeut=false;this.ftab='valuation';window.scrollTo(0,0)}},
     oidx(s){return this.data.stocks.findIndex(st=>st.symbol===s.symbol)},
+    getCandAlert(sym){return (this.data.alerts&&this.data.alerts.candidates)?this.data.alerts.candidates.find(c=>c.symbol===sym):null;},
     newsSentimentKey(s){const k=s&&s.news_analysis&&s.news_analysis.summary&&s.news_analysis.summary.overall_sentiment;return(k==='bullish'||k==='bearish'||k==='neutral'||k==='mixed')?k:'neutral'},
     newsSentLabel(s){const k=this.newsSentimentKey(s);if(k==='bullish')return'利多';if(k==='bearish')return'利空';return'中立'},
     newsSentStyle(s){const k=this.newsSentimentKey(s);if(k==='bullish')return'background:#dcfce7;color:#166534;border:1px solid #bbf7d0';if(k==='bearish')return'background:#fee2e2;color:#991b1b;border:1px solid #fecaca';return'background:#f1f5f9;color:#475569;border:1px solid #e2e8f0'},
