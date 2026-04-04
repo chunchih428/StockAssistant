@@ -81,8 +81,13 @@ def _build_interactive_dashboard(results, allocation, options, generated_at, ale
         analysis_html = render_md(ar['analysis']) if ar.get('analysis') else ''
 
         news_analysis = None
-        _is_comp = si.get('category') == '競品參考'
-        _scope = 'competitors' if _is_comp else 'holdings'
+        _cat = si.get('category', '')
+        if _cat == '競品參考':
+            _scope = 'competitors'
+        elif _cat == '候選':
+            _scope = 'candidates'
+        else:
+            _scope = 'holdings'
         na_path = find_latest_news_analysis_file(Path('cache'), _scope, si['symbol'])
 
         if na_path and na_path.exists():

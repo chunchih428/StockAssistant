@@ -259,8 +259,8 @@ def _load_from_cache(symbol: str) -> tuple[dict, dict]:
         from pathlib import Path
         from cache_manager import load_latest_cache_json
         cache_dir = Path(__file__).resolve().parent.parent / "cache"
-        # 先嘗試 holdings，再嘗試 competitors
-        for scope in ("holdings", "competitors"):
+        # 先嘗試 holdings，再嘗試 candidates，最後嘗試 competitors
+        for scope in ("holdings", "candidates", "competitors"):
             fund = load_latest_cache_json(cache_dir, scope, "fundamental", symbol)
             tech = load_latest_cache_json(cache_dir, scope, "technical",   symbol)
             if fund or tech:

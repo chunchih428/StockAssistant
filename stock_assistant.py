@@ -400,7 +400,7 @@ def fetch_competitor_data(stocks, cache_mgr, company_names, config=None):
             for comp in comps:
                 if comp and is_us_ticker(comp) and comp not in portfolio_symbols:
                     competitor_symbols.add(comp)
-    competitor_symbols.update(candidate_symbols)
+    # 候選股不再混入競品，改由 fetch_candidates_data() 獨立處理
 
     if not competitor_symbols:
         return []
@@ -426,6 +426,80 @@ def fetch_competitor_data(stocks, cache_mgr, company_names, config=None):
         progress_prefix='[競品] ',
         skip_news=True,
     )
+
+def fetch_candidates_data(stocks, cand_cache_mgr, company_names, config=None):
+    """獲取候選股的完整數據：基本面 + 技術面 + 消息面 + AI 新聞分析。
+
+    候選股有自己的 cache scope='candidates'，與競品分開存放。
+    消息面蒐集後立即觸發 Gemini 新聞情緒分析（若 API key 存在）。
+
+    Args:
+        stocks: 持股列表（用於排除已持有的股票）
+        cand_cache_mgr: 候選股專用快取管理器（scope='candidates'）
+        company_names: 公司名稱映射
+        config: 配置檔
+
+    Returns:
+        候選股的 results 列表（category='候選'）
+    """
+    portfolio_symbols = {s['symbol'] for s in stocks}
+    is_us_ticker = lambda sym: isinstance(sym, str) and re.fullmatch(r"[A-Z]{1,5}", sym) and "." not in sym
+
+    candidate_symbols = []
+    candidate_paths = [CANDIDATES_FILE, BASE_DIR / "candidates.txt"]
+    seen = set()
+    for cp in candidate_paths:
+        if not cp.exists():
+            continue
+        try:
+            for raw in cp.read_text(encoding='utf-8').splitlines():
+                line = raw.split('#', 1)[0].strip().upper()
+                if line and is_us_ticker(line) and line not in portfolio_symbols and line not in seen:
+                    candidate_symbols.append(line)
+                    seen.add(line)
+        except Exception:
+            print(f"  [WARN] candidates 讀取失敗，略過: {cp}")
+
+    if not candidate_symbols:
+        return []
+
+    news_count = (config or {}).get('news_count', 1000)
+    candidate_stocks = [
+        {'symbol': sym, 'shares': 0, 'cost_basis': 0, 'category': '候選'}
+        for sym in candidate_symbols
+    ]
+
+    results = fetch_holdings_data(
+        candidate_stocks,
+        cand_cache_mgr,
+        company_names,
+        {'news_count': news_count},
+        has_api_key=False,
+        sleep_seconds=0.5,
+        progress_prefix='[候選] ',
+        skip_news=False,          # ← 蒐集消息面
+    )
+
+    # 觸發 Gemini 新聞情緒分析（若 API key 存在）
+    try:
+        from market_data.information_ai import analyze_news_with_gemini
+        for r in results:
+            sym = r['stock_info']['symbol']
+            articles = r.get('news', [])
+            if articles:
+                company_name = r['stock_data'].get('fundamental', {}).get('company_name', '')
+                analyze_news_with_gemini(
+                    symbol=sym,
+                    articles=articles,
+                    cache_dir=str(CACHE_DIR),
+                    scope='candidates',
+                    company_name=company_name,
+                )
+    except ImportError:
+        pass
+
+    return results
+
 
 # ═══════════════════════════════════════════════════════════════
 #  Section 4: Claude Analysis
@@ -498,6 +572,7 @@ def main():
     config = prerun.load_config()
     cache_mgr = CacheManager(config=config, scope='holdings', base_cache_dir=CACHE_DIR)
     comp_cache_mgr = CacheManager(config=config, scope='competitors', base_cache_dir=CACHE_DIR)
+    cand_cache_mgr = CacheManager(config=config, scope='candidates', base_cache_dir=CACHE_DIR)
     prerun.cache_mgr = cache_mgr
     prerun.comp_cache_mgr = comp_cache_mgr
     system_prompt = prerun.load_system_prompt() if has_api_key else ''
@@ -557,6 +632,16 @@ def main():
 
     # Save company names mapping (auto-populate new symbols)
     prerun.save_company_names(company_names, portfolio_symbols)
+
+    # Fetch candidate data (基本面 + 技術面 + 消息面)
+    print("\n  📋 獲取候選股數據...")
+    candidate_results = fetch_candidates_data(stocks, cand_cache_mgr, company_names, config)
+    if candidate_results:
+        print(f"  ✅ 已獲取 {len(candidate_results)} 檔候選股數據")
+        results.extend(candidate_results)
+        prerun.save_company_names(company_names, portfolio_symbols)
+    else:
+        print("  ℹ️  無候選股數據需要獲取")
 
     # Fetch competitor data
     print("\n  📊 獲取競品數據...")

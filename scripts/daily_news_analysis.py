@@ -207,8 +207,8 @@ def _find_latest_news(ticker: str) -> tuple[Path | None, str | None]:
     )
 
     for d in date_dirs:
-        # Check both holdings and competitors
-        for scope in ["holdings", "competitors"]:
+        # Check holdings, candidates, and competitors
+        for scope in ["holdings", "candidates", "competitors"]:
             path = d / scope / "news" / f"{ticker}.json"
             if path.exists():
                 return path, scope
@@ -314,7 +314,7 @@ def main():
             for date_dir in cache_dir.iterdir():
                 if not date_dir.is_dir() or len(date_dir.name) != 10:
                     continue
-                for scope in ["holdings", "competitors"]:
+                for scope in ["holdings", "candidates", "competitors"]:
                     news_dir = date_dir / scope / "news"
                     if news_dir.exists():
                         for f in news_dir.glob('*.json'):
