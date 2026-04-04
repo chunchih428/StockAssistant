@@ -1004,7 +1004,7 @@ createApp({
         return this.sortScoreDesc ? valB - valA : valA - valB;
       });
     },
-    candidateStocks(){const list=Array.isArray(this.data.candidates)?this.data.candidates:[];const set=new Set(list.map(s=>String(s||'').toUpperCase()));return this.data.stocks.filter(s=>s.category==='候選'||set.has(String(s.symbol||'').toUpperCase()))},
+    candidateStocks(){const list=Array.isArray(this.data.candidates)?this.data.candidates:[];const set=new Set(list.map(s=>String(s||'').toUpperCase()));const raw=this.data.stocks.filter(s=>s.category==='候選'||set.has(String(s.symbol||'').toUpperCase()));const seen=new Map();raw.forEach(s=>{const sym=s.symbol;if(!seen.has(sym)||s.category==='候選')seen.set(sym,s);});return Array.from(seen.values());},
     sortedScoreCandidates(){let arr=this.candidateStocks.slice();if(!this.sortScoreKey)return arr;return arr.sort((a,b)=>{let va=0,vb=0;if(this.sortScoreKey==='fund'){va=a.fundamental?.fund_score||0;vb=b.fundamental?.fund_score||0;}else if(this.sortScoreKey==='tech'){va=a.technical?.tech_score||0;vb=b.technical?.tech_score||0;}else if(this.sortScoreKey==='risk'){va=a.technical?.risk_score||0;vb=b.technical?.risk_score||0;}return this.sortScoreDesc?vb-va:va-vb;});},
     monHoldingAlerts(){const h=this.data.alerts&&this.data.alerts.holdings||{};return Object.values(h).filter(x=>x.top_level<4).sort((a,b)=>a.top_level-b.top_level)},
     pp(){const s=this.cur;if(!s.price||!s.technical||!s.technical.high_52w||!s.technical.low_52w)return 50;const r=s.technical.high_52w-s.technical.low_52w;return r<=0?50:Math.max(0,Math.min(100,(s.price-s.technical.low_52w)/r*100))},

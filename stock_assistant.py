@@ -398,9 +398,9 @@ def fetch_competitor_data(stocks, cache_mgr, company_names, config=None):
     for symbol, comps in competitors_map.items():
         if symbol in root_symbols:
             for comp in comps:
-                if comp and is_us_ticker(comp) and comp not in portfolio_symbols:
+                if comp and is_us_ticker(comp) and comp not in portfolio_symbols and comp not in candidate_symbols:
                     competitor_symbols.add(comp)
-    # 候選股不再混入競品，改由 fetch_candidates_data() 獨立處理
+    # 候選股不再混入競品，改由 fetch_candidates_data() 獨立處理（含排除重複）
 
     if not competitor_symbols:
         return []

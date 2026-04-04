@@ -225,6 +225,55 @@ def rebuild_dashboard(
         except Exception as e:
             print_fn(f"  ⚠️  載入競品失敗: {e}")
 
+    # ── 載入候選股 cache ────────────────────────────────────────
+    try:
+        from pathlib import Path as _Path
+        cand_file_rb = _Path(html_file).parent / 'config' / 'candidates.txt'
+        cand_syms = []
+        if cand_file_rb.exists():
+            for _l in cand_file_rb.read_text(encoding='utf-8').splitlines():
+                _s = _l.split('#', 1)[0].strip().upper()
+                if _s and _s not in portfolio_symbols:
+                    cand_syms.append(_s)
+        for cand_sym in cand_syms:
+            # 查找順序：candidates（優先）→ holdings → competitors
+            fund_c = load_latest_cache_json(cache_dir, 'candidates', 'fundamental', cand_sym)
+            tech_c = load_latest_cache_json(cache_dir, 'candidates', 'technical', cand_sym)
+            if not fund_c and not tech_c:
+                fund_c = load_latest_cache_json(cache_dir, 'holdings', 'fundamental', cand_sym)
+                tech_c = load_latest_cache_json(cache_dir, 'holdings', 'technical', cand_sym)
+            if not fund_c and not tech_c:
+                fund_c = load_latest_cache_json(cache_dir, 'competitors', 'fundamental', cand_sym)
+                tech_c = load_latest_cache_json(cache_dir, 'competitors', 'technical', cand_sym)
+            if not fund_c:
+                fund_c = {}
+            if not tech_c:
+                tech_c = {}
+            if tech_c.get('current_price') is not None:
+                fund_c['current_price'] = tech_c.get('current_price')
+            if cand_sym in company_names:
+                fund_c['company_name'] = company_names[cand_sym]
+            news_cache_c = load_latest_cache_json(cache_dir, 'candidates', 'news', cand_sym)
+            if not news_cache_c:
+                news_cache_c = load_latest_cache_json(cache_dir, 'holdings', 'news', cand_sym)
+            if not news_cache_c:
+                news_cache_c = load_latest_cache_json(cache_dir, 'competitors', 'news', cand_sym)
+            news_c = news_cache_c.get('articles', []) if news_cache_c else []
+            results.append({
+                'stock_info': {
+                    'symbol': cand_sym,
+                    'shares': 0,
+                    'cost_basis': 0,
+                    'category': '候選',
+                },
+                'stock_data': {'fundamental': fund_c, 'technical': tech_c},
+                'news': news_c,
+                'analysis_result': {'recommendation': 'unknown', 'scores': {}, 'analysis': ''},
+            })
+            print_fn(f"    ✅ {cand_sym} (候選)")
+    except Exception as _ce:
+        print_fn(f"  ⚠️  載入候選股失敗: {_ce}")
+
     enrich_option_market_data(options, print_fn=print_fn)
     allocation = calculate_allocation_fn(results, cash, options)
     allocation['portfolio_risk'] = compute_portfolio_risk_metrics(allocation, results)
