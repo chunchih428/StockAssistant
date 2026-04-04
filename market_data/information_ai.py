@@ -6,6 +6,8 @@ import re
 import time
 from pathlib import Path
 
+from typing import Literal
+
 from pydantic import BaseModel, Field
 
 
@@ -24,7 +26,7 @@ class SummaryObj(BaseModel):
     bullish_count: int
     bearish_count: int
     neutral_count: int
-    overall_sentiment: str
+    overall_sentiment: Literal['strongly_bullish', 'bullish', 'neutral', 'mixed', 'bearish', 'strongly_bearish']
     key_theme: str = Field(description="一句話總結近期消息面的主要驅動因素")
 
 
@@ -51,6 +53,13 @@ NEWS_ANALYSIS_PROMPT_TEMPLATE = """
 4. 繁體中文分類 (category)：你必須將 category 的回傳內容寫成「繁體中文」，例如：「高層異動」、「財報公布」、「市場擴張」等。絕對不能是純英文。
 5. reason 與 key_theme 必須使用「繁體中文」撰寫，並盡可能提供財務分析師會關注的細節（人名、金額、因果鏈）。
 6. 在中文字與英文字母或數字之間，必須加一個半形空格。例如：「Google 宣布與 Microsoft 合作」，而不是「Google宣布與Microsoft合作」。
+7. overall_sentiment 必須從以下六個選項中選一個，不得使用其他值：
+   - strongly_bullish：重大正面催化劑（財報大幅超預期、多家上調目標價、重大合約/併購）
+   - bullish：正面消息占多數，無顯著利空
+   - neutral：無重大消息，或正負小幅抵銷，方向不明確
+   - mixed：同時存在顯著利多與利空，多空並陳
+   - bearish：負面消息占多數
+   - strongly_bearish：重大負面催化劑（財報大幅低於預期、重大訴訟/監管制裁、高層異動/醜聞）
 
 ## 輸入資料
 {news_data}

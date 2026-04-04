@@ -89,7 +89,7 @@ ANALYSIS_PROMPT = """你是一位專業的股票新聞情緒分析師。
     "bullish_count": <利多數>,
     "bearish_count": <利空數>,
     "neutral_count": <中性數>,
-    "overall_sentiment": "<bullish|bearish|neutral|mixed>",
+    "overall_sentiment": "<strongly_bullish|bullish|neutral|mixed|bearish|strongly_bearish>",
     "key_theme": "<一句話總結最重要主題，繁體中文>"
   }},
   "bullish": [ {{ "rank":1, "title":"...", "publisher":"...", "date":"YYYY-MM-DD", "link":"...", "impact":"high|medium|low", "category":"...", "reason":"..." }} ],
@@ -98,7 +98,15 @@ ANALYSIS_PROMPT = """你是一位專業的股票新聞情緒分析師。
   "_schema_version": "1.1",
   "_schema_notes": {{
     "impact_levels": ["high","medium","low"],
-    "sentiment_options": ["bullish","bearish","neutral","mixed"],
+    "sentiment_options": ["strongly_bullish","bullish","neutral","mixed","bearish","strongly_bearish"],
+    "sentiment_guide": {{
+      "strongly_bullish": "重大正面催化劑：財報大幅超預期、多家上調目標價、重大合約/併購",
+      "bullish": "正面消息占多數，無顯著利空",
+      "neutral": "無重大消息，或正負小幅抵銷",
+      "mixed": "同時存在顯著利多與利空，多空並陳",
+      "bearish": "負面消息占多數",
+      "strongly_bearish": "重大負面催化劑：財報大幅低於預期、重大訴訟/監管制裁、高層醜聞"
+    }},
     "common_categories": ["strategic_investment","cloud_and_ai","chip_and_hardware","analyst_sentiment","market_expansion","institutional_selling","layoffs","labor_risk","earnings","regulation","competition","product_launch","duplicate_coverage"]
   }}
 }}

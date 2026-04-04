@@ -59,10 +59,12 @@
 
     "news_sentiment": {
       "_note": "消息面加成分數（疊加在候選股綜合評分上，無 AI 分析時為 0）",
-      "bullish":  8,
-      "bearish": -8,
-      "mixed":    0,
-      "neutral":  2
+      "strongly_bullish": 15,
+      "bullish":           8,
+      "neutral":           2,
+      "mixed":             0,
+      "bearish":          -8,
+      "strongly_bearish": -15
     },
 
     "composite_for_candidates": {

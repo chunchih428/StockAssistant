@@ -34,7 +34,7 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
 .rel-low{background:#f1f5f9;color:#94a3b8;border:1px solid #e2e8f0}
 .na-summary{display:flex;flex-wrap:wrap;align-items:center;gap:.5rem;margin-bottom:1rem;padding:.65rem .85rem;border-radius:.75rem;background:#f8fafc;border:1px solid #e2e8f0}
 .na-sent{font-size:.78rem;font-weight:700;padding:.2rem .6rem;border-radius:.5rem;letter-spacing:.02em}
-.na-sent-bullish{background:#dcfce7;color:#166534}.na-sent-bearish{background:#fee2e2;color:#991b1b}.na-sent-neutral{background:#f1f5f9;color:#475569}.na-sent-mixed{background:#fef9c3;color:#854d0e}
+.na-sent-strongly_bullish{background:#14532d;color:#fff}.na-sent-bullish{background:#dcfce7;color:#166534}.na-sent-neutral{background:#f1f5f9;color:#475569}.na-sent-mixed{background:#fef9c3;color:#854d0e}.na-sent-bearish{background:#fee2e2;color:#991b1b}.na-sent-strongly_bearish{background:#450a0a;color:#fff}
 .na-theme{font-size:.78rem;color:#475569;flex:1;min-width:0}
 .na-chip{font-size:.68rem;padding:.15rem .45rem;border-radius:.75rem;font-weight:600;border:1px solid}
 .na-chip-bull{background:#f0fdf4;color:#166534;border-color:#bbf7d0}.na-chip-bear{background:#fef2f2;color:#991b1b;border-color:#fecaca}.na-chip-neut{background:#f1f5f9;color:#64748b;border-color:#e2e8f0}
@@ -906,7 +906,7 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
         <template v-if="cur.news_analysis">
           <div class="na-summary">
             <span class="na-sent" :class="'na-sent-'+cur.news_analysis.summary.overall_sentiment">
-              {{cur.news_analysis.summary.overall_sentiment==='bullish'?'看多':cur.news_analysis.summary.overall_sentiment==='bearish'?'看空':cur.news_analysis.summary.overall_sentiment==='mixed'?'多空分歧':'中性'}}
+              {{cur.news_analysis.summary.overall_sentiment==='strongly_bullish'?'🔥 強力利多':cur.news_analysis.summary.overall_sentiment==='bullish'?'看多':cur.news_analysis.summary.overall_sentiment==='strongly_bearish'?'🚨 強力利空':cur.news_analysis.summary.overall_sentiment==='bearish'?'看空':cur.news_analysis.summary.overall_sentiment==='mixed'?'多空分歧':'中性'}}
             </span>
             <span class="na-theme">{{cur.news_analysis.summary.key_theme}}</span>
             <span class="na-chip na-chip-bull" v-if="cur.news_analysis.summary.bullish_count">利多 {{cur.news_analysis.summary.bullish_count}}</span>
@@ -1019,7 +1019,7 @@ createApp({
     visPos(){return this.data.allocation.positions.filter(p=>p.alloc_pct>=0.5&&p.category!=='競品參考')},
     totalPnlPct(){const c=this.data.allocation.total_cost-this.data.allocation.cash;return c>0?(this.data.allocation.total_pnl/c)*100:0},
     actualStocksCount(){return this.data.stocks.filter(s=>s.category!=='競品參考').length},
-    categories(){const map={};this.data.allocation.positions.forEach(p=>{const c=p.category||'未分類';if(c==='競品參考')return;if(!map[c])map[c]={name:c,items:[],totalMV:0,totalPnl:0,totalCost:0,open:true};map[c].items.push(p);map[c].totalMV+=p.market_value;map[c].totalPnl+=p.pnl;map[c].totalCost+=p.cost_total});const order=['長期霸主','長期穩健','中期題材(股票)','短期投機(股票)','未分類'];return order.filter(k=>map[k]).map(k=>map[k]).concat(Object.keys(map).filter(k=>!order.includes(k)).map(k=>map[k]))},
+    categories(){const map={};this.data.allocation.positions.forEach(p=>{const c=p.category||'未分類';if(c==='競品參考'||c==='候選')return;if(!map[c])map[c]={name:c,items:[],totalMV:0,totalPnl:0,totalCost:0,open:true};map[c].items.push(p);map[c].totalMV+=p.market_value;map[c].totalPnl+=p.pnl;map[c].totalCost+=p.cost_total});const order=['長期霸主','長期穩健','中期題材(股票)','短期投機(股票)','未分類'];return order.filter(k=>map[k]).map(k=>map[k]).concat(Object.keys(map).filter(k=>!order.includes(k)).map(k=>map[k]))},
   },
   methods:{
     trendLabel(status){
@@ -1050,9 +1050,25 @@ createApp({
     goDetail(sym){const i=this.data.stocks.findIndex(s=>s.symbol===sym);if(i>=0){this.idx=i;this.view='detail';this.ao=false;this.naNeut=false;this.ftab='valuation';window.scrollTo(0,0)}},
     oidx(s){return this.data.stocks.findIndex(st=>st.symbol===s.symbol)},
     getCandAlert(sym){return (this.data.alerts&&this.data.alerts.candidates)?this.data.alerts.candidates.find(c=>c.symbol===sym):null;},
-    newsSentimentKey(s){const k=s&&s.news_analysis&&s.news_analysis.summary&&s.news_analysis.summary.overall_sentiment;return(k==='bullish'||k==='bearish'||k==='neutral'||k==='mixed')?k:'neutral'},
-    newsSentLabel(s){const k=this.newsSentimentKey(s);if(k==='bullish')return'利多';if(k==='bearish')return'利空';return'中立'},
-    newsSentStyle(s){const k=this.newsSentimentKey(s);if(k==='bullish')return'background:#dcfce7;color:#166534;border:1px solid #bbf7d0';if(k==='bearish')return'background:#fee2e2;color:#991b1b;border:1px solid #fecaca';return'background:#f1f5f9;color:#475569;border:1px solid #e2e8f0'},
+    newsSentimentKey(s){
+      const raw=s&&s.news_analysis&&s.news_analysis.summary&&s.news_analysis.summary.overall_sentiment;
+      if(!raw)return'';
+      const k=raw.toLowerCase().trim();
+      // English exact match (6-level)
+      if(k==='strongly_bullish'||k==='bullish'||k==='neutral'||k==='mixed'||k==='bearish'||k==='strongly_bearish')return k;
+      // Chinese exact map
+      const zhMap={'看多':'bullish','偏多':'bullish','看空':'bearish','偏空':'bearish','中性':'neutral','中立':'neutral','多空分歧':'mixed','分歧':'mixed','混合':'mixed'};
+      if(zhMap[raw])return zhMap[raw];
+      // Chinese keyword fallback: 混合/分歧 → mixed first, then 多/空 direction
+      if(raw.includes('混合')||raw.includes('分歧'))return'mixed';
+      if(raw.includes('多')&&raw.includes('空'))return'mixed';
+      if(raw.includes('多'))return'bullish';
+      if(raw.includes('空'))return'bearish';
+      if(raw.includes('中性')||raw.includes('中立'))return'neutral';
+      return'';
+    },
+    newsSentLabel(s){const k=this.newsSentimentKey(s);if(!k)return'—';if(k==='strongly_bullish')return'🔥 強力利多';if(k==='bullish')return'利多';if(k==='mixed')return'分歧';if(k==='bearish')return'利空';if(k==='strongly_bearish')return'🚨 強力利空';return'中立'},
+    newsSentStyle(s){const k=this.newsSentimentKey(s);if(!k)return'color:#94a3b8;font-size:.78rem';if(k==='strongly_bullish')return'background:#14532d;color:#fff;border:1px solid #166534';if(k==='bullish')return'background:#dcfce7;color:#166534;border:1px solid #bbf7d0';if(k==='strongly_bearish')return'background:#450a0a;color:#fff;border:1px solid #991b1b';if(k==='bearish')return'background:#fee2e2;color:#991b1b;border:1px solid #fecaca';if(k==='mixed')return'background:#fef9c3;color:#854d0e;border:1px solid #fde68a';return'background:#f1f5f9;color:#475569;border:1px solid #e2e8f0'},
     stockName(sym){const s=this.data.stocks.find(x=>x.symbol===sym);return s?s.company:sym},
     stockRec(sym){const s=this.data.stocks.find(x=>x.symbol===sym);return s?s.recommendation:'unknown'},
     fmtMoney(v){if(v==null)return'N/A';return'$'+v.toLocaleString('en-US',{minimumFractionDigits:0,maximumFractionDigits:0})},

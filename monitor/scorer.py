@@ -191,7 +191,9 @@ def _build_reasons(fs, ts, rs, trend, rsi, change_3mo, drawdown, news_sentiment)
     if drawdown is not None and drawdown < -20:
         reasons.append(f"距52w高點-{abs(drawdown):.0f}%（低位）")
 
-    if news_sentiment == "bullish":  reasons.append("消息面偏多")
-    elif news_sentiment == "bearish": reasons.append("⚠️消息面偏空")
+    if news_sentiment == "strongly_bullish":   reasons.append("🔥消息面強力利多")
+    elif news_sentiment == "bullish":          reasons.append("消息面偏多")
+    elif news_sentiment == "strongly_bearish": reasons.append("🚨消息面強力利空")
+    elif news_sentiment == "bearish":          reasons.append("⚠️消息面偏空")
 
     return reasons
