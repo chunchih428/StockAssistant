@@ -244,18 +244,21 @@ class CacheManager:
                         continue
                     try:
                         data = json.loads(f.read_text(encoding="utf-8"))
-                        if category == "fundamental":
-                            expired = self.should_refresh_fundamental(data)
+                        if category == "news":
+                            # news 保留完整歷史，不依 TTL 刪除
+                            pass
+                        elif category == "fundamental":
+                            if self.should_refresh_fundamental(data):
+                                print(f"  [Cache/expired] 刪除過期檔案 {category}/{symbol}: {f}")
+                                f.unlink()
+                                removed += 1
                         else:
                             cached_time = datetime.datetime.fromisoformat(data["_cached_at"])
                             age = (datetime.datetime.now() - cached_time).total_seconds()
-                            ttl = self._get_ttl(category)
-                            expired = age >= ttl
-
-                        if expired:
-                            print(f"  [Cache/expired] 刪除過期檔案 {category}/{symbol}: {f}")
-                            f.unlink()
-                            removed += 1
+                            if age >= self._get_ttl(category):
+                                print(f"  [Cache/expired] 刪除過期檔案 {category}/{symbol}: {f}")
+                                f.unlink()
+                                removed += 1
                     except (json.JSONDecodeError, KeyError, ValueError) as e:
                         print(f"  [Cache/expired] 刪除損壞檔案 {category}/{symbol}: {f}")
                         print(f"    └─ 錯誤: {type(e).__name__}: {e}")
