@@ -578,10 +578,10 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
                         :style="newsSentStyle(s)">{{newsSentLabel(s)}}</span>
                 </td>
                 <!-- 警示/信號 -->
-                <td v-if="data.alerts&&data.alerts.candidates" style="white-space:nowrap">
+                <td v-if="data.alerts&&data.alerts.candidates" style="white-space:nowrap;word-break:keep-all">
                   <template v-if="getCandAlert(s.symbol)">
-                    <span style="font-size:.7rem;font-weight:700;padding:.12rem .4rem;border-radius:.35rem;display:inline-flex;align-items:center;gap:.2rem" :style="'background:'+getCandAlert(s.symbol).signal_color+'20;color:'+getCandAlert(s.symbol).signal_color">{{getCandAlert(s.symbol).signal}}</span>
-                    <div style="font-size:.68rem;color:#64748b;margin-top:.15rem;max-width:14rem;white-space:normal;line-height:1.4">{{(getCandAlert(s.symbol).reasons||[]).slice(0,2).join(' / ')}}</div>
+                    <span style="font-size:.7rem;font-weight:700;padding:.12rem .4rem;border-radius:.35rem;display:inline-flex;align-items:center;gap:.2rem;word-break:keep-all;white-space:nowrap" :style="'background:'+getCandAlert(s.symbol).signal_color+'20;color:'+getCandAlert(s.symbol).signal_color">{{getCandAlert(s.symbol).signal}}</span>
+                    <div style="font-size:.68rem;color:#64748b;margin-top:.15rem;white-space:nowrap;word-break:keep-all;line-height:1.4">{{(getCandAlert(s.symbol).reasons||[]).slice(0,2).join(' / ')}}</div>
                   </template>
                   <span v-else style="color:#94a3b8;font-size:.78rem">—</span>
                 </td>
