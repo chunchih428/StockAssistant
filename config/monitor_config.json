@@ -5,9 +5,10 @@
 
   "thresholds": {
     "_note": "警示規則觸發條件，所有數值皆可被 overrides 個股覆蓋",
-    "stop_loss_pct":          -28,
-    "warn_loss_heavy_pct":    -20,
-    "warn_loss_light_pct":    -12,
+    "stop_loss_cost_pct":     -25,
+    "drawdown_watch_pct":     -28,
+    "warn_loss_heavy_pct":    -15,
+    "warn_loss_light_pct":    -8,
     "take_profit_pct":        100,
     "max_single_alloc_pct":   30,
     "max_sector_alloc_pct":   50,
@@ -27,6 +28,8 @@
     "max_top1_pct":           35,
     "warn_top1_pct":          25,
     "add_max_alloc_pct":      25,
+    "systemic_correction_ratio": 0.70,
+    "systemic_index_drawdown": -15,
     "min_cash_pct":            5,
     "max_cash_pct":           25,
     "warn_high_cash_pct":     18
@@ -118,7 +121,7 @@
   "overrides": {
     "_note": "個股設定覆蓋，key 為股票代號，只需填入要覆蓋的閾值即可",
     "_example_disabled": {
-      "AAPL": { "stop_loss_pct": -15, "take_profit_pct": 80 }
+      "AAPL": { "stop_loss_cost_pct": -15, "take_profit_pct": 80 }
     }
   }
 }

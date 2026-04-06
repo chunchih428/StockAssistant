@@ -1,0 +1,102 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy",
+  "analysis_date": "2026-04-04",
+  "source_file": "cache/2026-04-04/holdings/news/CEG.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 2,
+    "bearish_count": 12,
+    "neutral_count": 6,
+    "overall_sentiment": "bearish",
+    "key_theme": "投資人對 Constellation Energy 的投資者日指引感到失望，擔憂未來獲利成長動能不足及電網瓶頸限制。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Wall Street Bulls Look Optimistic About Constellation Energy Corporation (CEG): Should You Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 21:30",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "儘管近期股價波動，華爾街分析師的平均建議仍維持在買入評級，顯示長期基本面仍受部分機構看好。"
+    },
+    {
+      "rank": 2,
+      "title": "Constellation Energy (CEG) and LS Power Equity Advisors, LLC Announce an Agreement",
+      "publisher": "Yahoo",
+      "date": "2026-03-26 23:50",
+      "impact": "low",
+      "category": "業務合作",
+      "reason": "與 LS Power 的合作協議被視為公司在保守型投資組合中的價值體現，有助於穩定市場信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Constellation Whiffed on Its Investor Day. Why the Stock Is Dropping.",
+      "publisher": "Yahoo",
+      "date": "2026-04-01 00:42",
+      "impact": "high",
+      "category": "投資者日",
+      "reason": "投資者日活動未能滿足市場對成長的高預期，導致股價顯著下跌，為近期最主要的負面催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Constellation Energy Stock Flopped Today",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 22:34",
+      "impact": "high",
+      "category": "財報與指引",
+      "reason": "公司發布的 2030 年前指引被市場解讀為可能連續五年錯失獲利預期，引發投資人對長期成長性的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Wells Fargo Maintains Overweight on Constellation Energy, Lowers Price Target to $450",
+      "publisher": "Benzinga",
+      "date": "2026-03-30 19:34",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "儘管維持買入評級，但富國銀行下調目標價反映了對公司短期估值與成長動能的修正。"
+    },
+    {
+      "rank": 4,
+      "title": "Constellation Energy Exec Says Reactor Restart Faces Grid Bottleneck",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 06:43",
+      "impact": "medium",
+      "category": "營運風險",
+      "reason": "高層證實三哩島核電廠重啟面臨電網瓶頸，直接影響市場對其核能擴張計畫的執行預期。"
+    },
+    {
+      "rank": 5,
+      "title": "B of A Securities Maintains Buy on Constellation Energy, Lowers Price Target to $401",
+      "publisher": "Benzinga",
+      "date": "2026-03-27 17:53",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "美國銀行下調目標價，顯示機構投資人對該股在公用事業板塊的溢價空間持保留態度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "A Look At Constellation Energy (CEG) Valuation After Recent Share Price Weakness",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 11:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對近期股價疲軟後的估值分析，提供投資人客觀的參考數據，未直接影響股價走勢。"
+    },
+    {
+      "rank": 2,
+      "title": "CEG vs. VST: Which Nuclear Stock Has the Edge in the Utility Sector?",
+      "publisher": "Yahoo",
+      "date": "2026-03-25 23:43",
+      "impact": "low",
+      "category": "產業比較",
+      "reason": "將 CEG 與 VST 進行比較，指出 VST 在獲利成長與估值上具備優勢，屬於產業內的競爭分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

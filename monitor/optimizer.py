@@ -32,7 +32,7 @@ THRESHOLD_GRID = {
     "tech_score_add":       [52, 55, 58, 62, 65],
     "fund_score_add":       [60, 65, 70, 75, 80],
     "fund_score_close":     [25, 30, 35],
-    "stop_loss_pct":        [-15, -18, -20, -25],
+    "stop_loss_cost_pct":   [-15, -18, -20, -25],
     "take_profit_pct":      [50, 60, 70, 80],
     "rsi_overbought":       [70, 75, 80],
     "rsi_oversold":         [25, 28, 32],
@@ -364,7 +364,7 @@ def _make_threshold_fn(param: str):
             return fn
         return builder
 
-    if param == "stop_loss_pct":
+    if param == "stop_loss_cost_pct":
         def builder(val):
             def fn(rec): return "REDUCE" if rec.pnl_pct is not None and rec.pnl_pct <= val else None
             return fn

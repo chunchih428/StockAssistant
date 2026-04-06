@@ -41,9 +41,9 @@ class TestMonitorConfig(unittest.TestCase):
 
     def test_load_valid_config(self):
         data = {
-            "thresholds": {"stop_loss_pct": -15},
+            "thresholds": {"stop_loss_cost_pct": -15},
             "scoring_weights": {"fundamental": {}},
-            "overrides": {"AAPL": {"stop_loss_pct": -10}},
+            "overrides": {"AAPL": {"stop_loss_cost_pct": -10}},
             "_version": 1,
         }
         with tempfile.NamedTemporaryFile(mode="w", suffix=".json", delete=False, encoding="utf-8") as f:
@@ -51,7 +51,7 @@ class TestMonitorConfig(unittest.TestCase):
             tmp = f.name
         try:
             cfg = load_monitor_config(tmp)
-            self.assertEqual(cfg["thresholds"]["stop_loss_pct"], -15)
+            self.assertEqual(cfg["thresholds"]["stop_loss_cost_pct"], -15)
             # _version should be stripped
             self.assertNotIn("_version", cfg)
         finally:
@@ -59,21 +59,21 @@ class TestMonitorConfig(unittest.TestCase):
 
     def test_get_thresholds_with_override(self):
         cfg = {
-            "thresholds": {"stop_loss_pct": -28, "take_profit_pct": 100},
-            "overrides": {"TSLA": {"stop_loss_pct": -20}},
+            "thresholds": {"stop_loss_cost_pct": -28, "take_profit_pct": 100},
+            "overrides": {"TSLA": {"stop_loss_cost_pct": -20}},
         }
         # Without symbol
         th = get_thresholds(cfg)
-        self.assertEqual(th["stop_loss_pct"], -28)
+        self.assertEqual(th["stop_loss_cost_pct"], -28)
 
         # With symbol that has override
         th = get_thresholds(cfg, "TSLA")
-        self.assertEqual(th["stop_loss_pct"], -20)
+        self.assertEqual(th["stop_loss_cost_pct"], -20)
         self.assertEqual(th["take_profit_pct"], 100)
 
         # With symbol that has no override
         th = get_thresholds(cfg, "AAPL")
-        self.assertEqual(th["stop_loss_pct"], -28)
+        self.assertEqual(th["stop_loss_cost_pct"], -28)
 
     def test_get_scoring_weights(self):
         cfg = {"scoring_weights": {"fundamental": {"rev_growth": {}}}}
@@ -115,9 +115,10 @@ def _make_ctx(**kwargs):
         "recommendation": "hold",
         "sector_alloc_pct": None,
         "thresholds": {
-            "stop_loss_pct": -28,
-            "warn_loss_heavy_pct": -20,
-            "warn_loss_light_pct": -12,
+            "stop_loss_cost_pct": -25,
+            "drawdown_watch_pct": -28,
+            "warn_loss_heavy_pct": -15,
+            "warn_loss_light_pct": -8,
             "take_profit_pct": 100,
             "max_single_alloc_pct": 30,
             "max_sector_alloc_pct": 50,
@@ -140,21 +141,19 @@ def _make_ctx(**kwargs):
 class TestCloseRules(unittest.TestCase):
 
     def test_stop_loss_triggers(self):
-        # v2: 距 52w 高點回撤 ≤ -28% 觸發
-        ctx = _make_ctx(tech={"current_price": 72.0, "high_52w": 100.0})  # -28%
+        # v3: 從持有成本虧損 <= -25% 觸發
+        ctx = _make_ctx(pnl_pct=-25.0)
         result = rule_stop_loss(ctx)
         self.assertIsNotNone(result)
         self.assertEqual(result.level, LEVEL_CLOSE)
-        self.assertEqual(result.rule, "stop_loss")
+        self.assertEqual(result.rule, "stop_loss_cost")
 
     def test_stop_loss_not_triggers(self):
-        # 只回撤 -15%，不觸發
-        ctx = _make_ctx(tech={"current_price": 85.0, "high_52w": 100.0})
+        ctx = _make_ctx(pnl_pct=-12.0)
         self.assertIsNone(rule_stop_loss(ctx))
 
     def test_stop_loss_none_price(self):
-        # 無價格資料，不觸發
-        ctx = _make_ctx(tech={})
+        ctx = _make_ctx(pnl_pct=None)
         self.assertIsNone(rule_stop_loss(ctx))
 
     def test_fund_collapse_triggers(self):
@@ -227,27 +226,26 @@ class TestReduceRules(unittest.TestCase):
         self.assertIsNone(rule_take_profit(ctx))
 
     def test_warn_loss_heavy_triggers(self):
-        # v2: 距高點 -20% ～ -28% 觸發重度警告
-        ctx = _make_ctx(tech={"current_price": 78.0, "high_52w": 100.0})  # -22%
+        # v3: 從成本虧損 -15% ～ -25% 觸發重度警告
+        ctx = _make_ctx(pnl_pct=-20.0)
         result = rule_warn_loss_heavy(ctx)
         self.assertIsNotNone(result)
         self.assertEqual(result.level, LEVEL_REDUCE)
 
     def test_warn_loss_triggers(self):
-        # v2: 距高點 -12% ～ -20% 觸發輕度警告
-        ctx = _make_ctx(tech={"current_price": 85.0, "high_52w": 100.0})  # -15%
+        # v3: 從成本虧損 -8% ～ -15% 觸發輕度警告
+        ctx = _make_ctx(pnl_pct=-10.0)
         result = rule_warn_loss(ctx)
         self.assertIsNotNone(result)
         self.assertEqual(result.level, LEVEL_REDUCE)
 
     def test_warn_loss_not_triggers_small_dd(self):
-        # 只回撤 -5%，不觸發
-        ctx = _make_ctx(tech={"current_price": 95.0, "high_52w": 100.0})
+        ctx = _make_ctx(pnl_pct=-5.0)
         self.assertIsNone(rule_warn_loss(ctx))
 
     def test_warn_loss_not_triggers_beyond_heavy(self):
-        # 回撤超過 -20%，由 warn_loss_heavy 或 stop_loss 處理
-        ctx = _make_ctx(tech={"current_price": 75.0, "high_52w": 100.0})  # -25%
+        # 虧損超過重度區間上限，應由 warn_loss_heavy / stop_loss_cost 處理
+        ctx = _make_ctx(pnl_pct=-25.0)
         self.assertIsNone(rule_warn_loss(ctx))
 
     def test_downtrend_tech_triggers(self):

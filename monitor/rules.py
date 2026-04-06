@@ -100,6 +100,43 @@ def _drawdown_from_high(ctx: RuleContext) -> float | None:
     return None
 
 
+def _is_drawdown_based_rule_id(rule_id: str) -> bool:
+    if rule_id in DRAWDOWN_BASED_RULES:
+        return True
+
+    # 允許以函式屬性 drawdown_based=True 宣告（便於新增規則時擴充）
+    for rule_fn in RULE_REGISTRY:
+        if not getattr(rule_fn, "drawdown_based", False):
+            continue
+        fn_name = getattr(rule_fn, "__name__", "")
+        # 預設規則函式命名為 rule_<rule_id>
+        if fn_name.startswith("rule_") and fn_name[5:] == rule_id:
+            return True
+    return False
+
+
+def _apply_systemic_correction_downgrade(alerts: list[Alert], enabled: bool) -> list[Alert]:
+    """
+    系統性修正過濾：將「52w 回撤類」警示降一級
+    （停損→減倉、減倉→觀察；其餘等級不變）。
+    """
+    if not enabled:
+        return alerts
+
+    downgraded: list[Alert] = []
+    for alert in alerts:
+        if _is_drawdown_based_rule_id(alert.rule) and alert.level in (LEVEL_CLOSE, LEVEL_REDUCE):
+            downgraded.append(Alert(
+                level=min(alert.level + 1, LEVEL_WATCH),
+                rule=alert.rule,
+                msg=f"系統性修正期間：{alert.msg}",
+                detail=alert.detail,
+            ))
+        else:
+            downgraded.append(alert)
+    return downgraded
+
+
 # ═══════════════════════════════════════════════════════════════
 #  🔴 LEVEL_CLOSE 規則
 # ═══════════════════════════════════════════════════════════════
@@ -112,6 +149,13 @@ def rule_stop_loss_cost(ctx: RuleContext) -> Alert | None:
         return Alert(LEVEL_CLOSE, "stop_loss_cost",
                      f"從成本虧損 {ctx.pnl_pct:.1f}%，觸及停損線（{limit}%），建議評估平倉",
                      {"pnl_pct": ctx.pnl_pct, "limit": limit})
+
+
+def rule_stop_loss(ctx: RuleContext) -> Alert | None:
+    """
+    相容舊介面：v2 名稱 rule_stop_loss 已改為 rule_stop_loss_cost。
+    """
+    return rule_stop_loss_cost(ctx)
 
 
 @register_rule
@@ -186,14 +230,21 @@ def rule_warn_loss_heavy(ctx: RuleContext) -> Alert | None:
 
 
 @register_rule
-def rule_warn_loss(ctx: RuleContext) -> Alert | None:
+def rule_warn_loss_light(ctx: RuleContext) -> Alert | None:
     """v3：改為持有成本損益計算，-8% ～ -15%（建議減倉 1/4）。"""
     heavy = ctx.thresholds.get("warn_loss_heavy_pct", -15)
     light = ctx.thresholds.get("warn_loss_light_pct", -8)
     if ctx.pnl_pct is not None and heavy < ctx.pnl_pct <= light:
-        return Alert(LEVEL_REDUCE, "warn_loss",
+        return Alert(LEVEL_REDUCE, "warn_loss_light",
                      f"從成本虧損 {ctx.pnl_pct:.1f}%（{light}% ～ {heavy}%），建議減倉 1/4",
                      {"pnl_pct": ctx.pnl_pct, "light": light, "heavy": heavy})
+
+
+def rule_warn_loss(ctx: RuleContext) -> Alert | None:
+    """
+    相容舊介面：v2 名稱 rule_warn_loss 已改為 rule_warn_loss_light。
+    """
+    return rule_warn_loss_light(ctx)
 
 
 @register_rule
@@ -205,6 +256,7 @@ def rule_drawdown_cost_weak(ctx: RuleContext) -> Alert | None:
         return Alert(LEVEL_REDUCE, "drawdown_cost_weak",
                      f"52w 回撤 {dd:.1f}% + 成本虧損 {ctx.pnl_pct:.1f}% + 基本面偏弱({int(fs)})，建議降低倉位",
                      {"drawdown_pct": dd, "pnl_pct": ctx.pnl_pct, "fund_score": fs})
+rule_drawdown_cost_weak.drawdown_based = True
 
 
 @register_rule
@@ -237,6 +289,33 @@ def rule_ai_reduce(ctx: RuleContext) -> Alert | None:
 # ═══════════════════════════════════════════════════════════════
 #  🟡 LEVEL_WATCH 規則
 # ═══════════════════════════════════════════════════════════════
+
+@register_rule
+def rule_drawdown_watch(ctx: RuleContext) -> Alert | None:
+    """
+    v3：原先 52w 回撤停損改為觀察，僅提醒不強制動作。
+    """
+    dd = _drawdown_from_high(ctx)
+    limit = ctx.thresholds.get("drawdown_watch_pct", -28)
+    if dd is not None and dd <= limit:
+        return Alert(LEVEL_WATCH, "drawdown_watch",
+                     f"距 52w 高點回撤 {dd:.1f}%（<= {limit}%），先列觀察並追蹤後續變化",
+                     {"drawdown_pct": dd, "limit": limit})
+rule_drawdown_watch.drawdown_based = True
+
+
+@register_rule
+def rule_drawdown_fund_mismatch(ctx: RuleContext) -> Alert | None:
+    """
+    v3：回撤偏大但基本面仍佳，標記觀察而非直接風險警示。
+    """
+    dd = _drawdown_from_high(ctx)
+    fs = ctx.fund.get("fund_score")
+    if dd is not None and fs is not None and dd <= -20 and fs >= 65:
+        return Alert(LEVEL_WATCH, "drawdown_fund_mismatch",
+                     f"52w 回撤 {dd:.1f}% 但基本面 {int(fs)} 分，可能是修正中的龍頭股，建議觀察",
+                     {"drawdown_pct": dd, "fund_score": fs})
+rule_drawdown_fund_mismatch.drawdown_based = True
 
 @register_rule
 def rule_rsi_overbought(ctx: RuleContext) -> Alert | None:
@@ -353,6 +432,26 @@ def rule_quality_dip(ctx: RuleContext) -> Alert | None:
 
 
 @register_rule
+def rule_systemic_dip_opportunity(ctx: RuleContext) -> Alert | None:
+    """
+    v3：系統性修正期間，基本面佳且回撤夠深、成本僅小幅虧損時，提示逢低加碼機會。
+    """
+    if not ctx.is_systemic_correction:
+        return None
+
+    fs = ctx.fund.get("fund_score") or 0
+    dd = _drawdown_from_high(ctx)
+    pnl = ctx.pnl_pct
+    if dd is None or pnl is None:
+        return None
+
+    if fs >= 70 and dd <= -25 and pnl <= -5:
+        return Alert(LEVEL_ADD, "systemic_dip_opportunity",
+                     f"系統性修正中且基本面 {int(fs)} 分、52w 回撤 {dd:.1f}%、成本損益 {pnl:.1f}%，可評估分批加碼",
+                     {"fund_score": fs, "drawdown_pct": dd, "pnl_pct": pnl})
+
+
+@register_rule
 def rule_fund_upgrade(ctx: RuleContext) -> Alert | None:
     """v2 新增：基本面評分大幅改善（如財報超預期）。需 fund cache 提供 fund_score_prev。"""
     fs      = ctx.fund.get("fund_score")
@@ -389,6 +488,7 @@ def run_all_rules(ctx: RuleContext) -> list[Alert]:
         except Exception as e:
             print(f"  [Monitor] 規則 {rule_fn.__name__} 執行錯誤：{e}")
 
+    alerts = _apply_systemic_correction_downgrade(alerts, ctx.is_systemic_correction)
     alerts.sort(key=lambda a: a.level)
 
     if not alerts:

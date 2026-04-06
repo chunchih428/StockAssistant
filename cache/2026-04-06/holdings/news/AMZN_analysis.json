@@ -1,0 +1,102 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-04-04",
+  "source_file": "cache/2026-04-04/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 1,
+    "neutral_count": 4,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Amazon 透過與 Delta 航空的重大衛星網路合作、參與 OpenAI 高額融資以及華爾街分析師上調目標價，展現了在 AI 與雲端基礎設施領域的強勁成長動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Amazon partners up with Delta to provide high-speed internet",
+      "publisher": "Yahoo",
+      "date": "2026-04-01 05:33",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "Amazon 與 Delta 航空達成重大合作協議，將在 500 架飛機上部署 Amazon Leo 衛星網路，此舉被視為挑戰 SpaceX Starlink 的關鍵里程碑，顯著提升市場對其衛星通訊業務的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "OpenAI Closes Silicon Valley’s Largest-Ever Funding Round",
+      "publisher": "Yahoo",
+      "date": "2026-04-01 04:05",
+      "impact": "high",
+      "category": "策略投資",
+      "reason": "Amazon 參與 OpenAI 高達 1,220 億美元的融資案，顯示其在 AI 生態系中的核心戰略地位，有助於鞏固其雲端運算與 AI 領域的長期競爭優勢。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon.com, Inc. (AMZN) Upgraded on AI-Driven Growth and Margin Expansion Prospects",
+      "publisher": "Yahoo",
+      "date": "2026-04-01 03:00",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Tigress Financial 與 Citi 等機構近期上調目標價，主要歸功於 AWS 在 AI 驅動下的成長潛力以及整體利潤率擴張的預期。"
+    },
+    {
+      "rank": 4,
+      "title": "Netflix, Amazon named among UBS top technology, media and telecommunications stocks picks",
+      "publisher": "Yahoo",
+      "date": "2026-04-01 03:46",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "瑞銀 (UBS) 將 Amazon 列為科技與媒體領域的首選股，反映出機構投資人對其核心業務穩定性與成長性的高度認可。"
+    },
+    {
+      "rank": 5,
+      "title": "Small Businesses Can Soon Enjoy New Rewards With the Prime Business and Amazon Business Credit Cards",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 21:00",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "推出新的企業信用卡服務，有助於深化 B2B 客戶黏著度，並進一步擴大 Amazon Business 的生態系統價值。"
+    },
+    {
+      "rank": 6,
+      "title": "SPECTRUM TV APP TO LAUNCH ON AMAZON FIRE TV DEVICES ON APRIL 15",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 23:00",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "與 Spectrum 合作將 TV App 引入 Fire TV，增強了硬體裝置的內容豐富度，有助於提升廣告與訂閱服務的潛在營收。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Can Amazon's Advertising Revenue Momentum Drive Upside for AMZN Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 22:44",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管廣告業務成長強勁，但市場仍擔憂宏觀經濟風險與日益激烈的競爭壓力，可能對未來營收成長率構成挑戰。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Amazon (AMZN) Intends to Revive Smartphones over Ten Years after the Fire Phone’s Failure",
+      "publisher": "Yahoo",
+      "date": "2026-04-01 01:39",
+      "impact": "low",
+      "category": "市場傳聞",
+      "reason": "關於重啟智慧型手機計畫的傳聞，由於過去有失敗經驗，市場對其執行力與策略方向持觀望態度，目前影響力有限。"
+    },
+    {
+      "rank": 2,
+      "title": "4 Cloud Computing Stocks to Buy Amid Heightened Market Volatility",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 22:22",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 Amazon 與其他雲端巨頭並列為波動市況下的避險選擇，屬於常規性的投資組合建議，無重大新訊息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -8,10 +8,12 @@ run_monitor() 是與外部（stock_assistant.py）的唯一介面，
 from __future__ import annotations
 
 from datetime import datetime
+from pathlib import Path
 
 from .config import load_monitor_config, get_thresholds, get_scoring_weights
 from .rules import RuleContext, run_all_rules, LEVEL_HOLD, LEVEL_CLOSE, LEVEL_REDUCE, LEVEL_WATCH, LEVEL_ADD, LEVEL_COLOR
 from .scorer import score_candidate
+from cache_manager import load_latest_cache_json
 
 
 # ─── 組合層級規則 ────────────────────────────────────────────
@@ -118,6 +120,110 @@ def _palert(level, rule, msg) -> dict:
     }
 
 
+def _calc_drawdown_pct_from_payload(fund: dict, tech: dict) -> float | None:
+    """計算距 52w 高點回撤（%），負值代表回撤。"""
+    price = tech.get("current_price") or fund.get("current_price")
+    high_52w = tech.get("high_52w")
+    if price and high_52w and high_52w > 0:
+        return (price - high_52w) / high_52w * 100
+    return None
+
+
+def _extract_index_drawdown_proxy_pct(tech: dict) -> float | None:
+    """
+    取大盤 30 日回撤值（僅接受 30d/1m 欄位，不使用 3m 代理）。
+    """
+    for key in ("drawdown_30d_pct", "drawdown_30d", "change_30d_pct", "change_1mo_pct", "change_1m_pct"):
+        val = tech.get(key)
+        if val is not None:
+            try:
+                return float(val)
+            except (TypeError, ValueError):
+                pass
+    return None
+
+
+def _load_symbol_tech_from_cache(symbol: str) -> dict:
+    """
+    嘗試從 cache 讀取某 symbol 的 technical（holdings/candidates/competitors）。
+    """
+    cache_dir = Path(__file__).resolve().parent.parent / "cache"
+    for scope in ("holdings", "candidates", "competitors"):
+        try:
+            tech = load_latest_cache_json(cache_dir, scope, "technical", symbol)
+        except Exception:
+            tech = None
+        if tech:
+            return tech
+    return {}
+
+
+def _detect_systemic_correction(results: list, thresholds: dict) -> tuple[bool, dict]:
+    """
+    系統性修正判定：
+    1) 持股中有 >= systemic_correction_ratio 的標的 52w 回撤 <= -25%
+    2) SPY/QQQ 的 30 日回撤近似值 <= systemic_index_drawdown
+    """
+    ratio_threshold = thresholds.get("systemic_correction_ratio", 0.70)
+    index_threshold = thresholds.get("systemic_index_drawdown", -15)
+
+    holdings_total = 0
+    holdings_drawdown_hits = 0
+
+    for r in results:
+        si = r.get("stock_info", {})
+        if si.get("category") == "競品參考":
+            continue
+        if (si.get("shares", 0) or 0) <= 0:
+            continue
+
+        holdings_total += 1
+        sd = r.get("stock_data", {})
+        dd = _calc_drawdown_pct_from_payload(
+            sd.get("fundamental", {}) or {},
+            sd.get("technical", {}) or {},
+        )
+        if dd is not None and dd <= -25:
+            holdings_drawdown_hits += 1
+
+    holdings_ratio = (holdings_drawdown_hits / holdings_total) if holdings_total > 0 else 0.0
+    by_holdings = holdings_total > 0 and holdings_ratio >= ratio_threshold
+
+    index_drawdowns: dict[str, float] = {}
+    missing_index_symbols = {"SPY", "QQQ"}
+    for r in results:
+        sym = (r.get("stock_info", {}).get("symbol") or "").upper()
+        if sym not in {"SPY", "QQQ"}:
+            continue
+        missing_index_symbols.discard(sym)
+        tech = r.get("stock_data", {}).get("technical", {}) or {}
+        dd_proxy = _extract_index_drawdown_proxy_pct(tech)
+        if dd_proxy is not None:
+            index_drawdowns[sym] = dd_proxy
+
+    for sym in sorted(missing_index_symbols):
+        tech = _load_symbol_tech_from_cache(sym)
+        dd_proxy = _extract_index_drawdown_proxy_pct(tech)
+        if dd_proxy is not None:
+            index_drawdowns[sym] = dd_proxy
+
+    by_index = any(v <= index_threshold for v in index_drawdowns.values())
+    is_systemic = by_holdings or by_index
+
+    info = {
+        "enabled": is_systemic,
+        "by_holdings_ratio": by_holdings,
+        "by_index_drawdown": by_index,
+        "holdings_ratio": round(holdings_ratio, 4),
+        "holdings_hit_count": holdings_drawdown_hits,
+        "holdings_total": holdings_total,
+        "index_drawdowns": index_drawdowns,
+        "ratio_threshold": ratio_threshold,
+        "index_threshold": index_threshold,
+    }
+    return is_systemic, info
+
+
 # ─── 主引擎 ─────────────────────────────────────────────────
 def run_monitor(
     results: list,
@@ -145,6 +251,7 @@ def run_monitor(
 
     # ── 計算全局閾值（不含個股 override，個股層再各自取）
     global_thresholds = mon_cfg.get("thresholds", {})
+    is_systemic_correction, systemic_info = _detect_systemic_correction(results, global_thresholds)
 
     # ── 組合層級警示 ──────────────────────────────────────
     portfolio_alerts = _portfolio_alerts(allocation, results, global_thresholds)
@@ -230,6 +337,7 @@ def run_monitor(
             recommendation=rec,
             thresholds=thresholds,
             sector_alloc_pct=sector_alloc_pct,
+            is_systemic_correction=is_systemic_correction,
         )
         alerts = run_all_rules(ctx)
         top_level = alerts[0].level if alerts else LEVEL_HOLD
@@ -280,6 +388,7 @@ def run_monitor(
 
     return {
         "generated_at": datetime.now().isoformat(),
+        "systemic_correction": systemic_info,
         "portfolio":    portfolio_alerts,
         "holdings":     holdings_alerts,
         "candidates":   scored_candidates,
