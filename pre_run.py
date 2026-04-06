@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 import csv
 import datetime
 import json
@@ -290,7 +290,8 @@ class StockPrerun:
             if self._is_us_peer_symbol(str(sym).strip().upper())
         }
         candidate_set = self._load_candidates() - portfolio_set
-        fetch_root_set = portfolio_set | candidate_set
+        # 暫時停止對候選清單蒐集競品
+        fetch_root_set = portfolio_set
 
         normalized_holdings = {}
         for sym, peers in holdings_map.items():
@@ -421,12 +422,8 @@ class StockPrerun:
         direct_holdings_peers = set()
         for hs in portfolio_set:
             direct_holdings_peers.update(holdings_map.get(hs) or [])
-        direct_candidate_peers = set()
-        for cs in candidate_set:
-            direct_candidate_peers.update(candidates_map.get(cs) or [])
         allowed_competitors = (
-            (direct_holdings_peers - portfolio_set)
-            | (direct_candidate_peers - portfolio_set - candidate_set)
+            direct_holdings_peers - portfolio_set
         )
         for sym in list(competitors_map.keys()):
             if sym not in allowed_competitors:

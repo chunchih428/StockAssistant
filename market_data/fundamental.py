@@ -29,37 +29,49 @@ MANUAL_SCORES = {
     'MCD':   78, 'UNH':   72, 'LMT':   74, 'COST': 80,
 }
 
-# 基本面評分權重定義
+# 基本面評分權重定義（v2）
 DEFAULT_FUND_WEIGHTS = {
-    'rev_growth': {
-        'over_30': 30,
-        'over_15': 22,
-        'over_5': 14,
-        'over_0': 6,
+    'rev_growth': {       # 營收成長率（3Y CAGR）— 滿分 25
+        'over_30': 25,
+        'over_15': 18,
+        'over_5':  10,
+        'over_0':   4,
         'below_0': -10
     },
-    'gross_margin': {
-        'over_60': 25,
-        'over_40': 16,
-        'over_20': 8,
-        'default': 0
+    'gross_margin': {     # 毛利率 — 滿分 20
+        'over_60': 20,
+        'over_40': 14,
+        'over_20':  7,
+        'default':  0
     },
-    'fcf_margin': {
+    'fcf_margin': {       # FCF Margin — 滿分 15
         'over_20': 15,
         'over_10': 10,
-        'over_0': 5,
+        'over_0':   5,
         'below_0': -8
     },
-    'debt_equity': {
-        'below_05': 10,
-        'below_15': 4,
-        'over_50': -10
+    'roic': {             # ROIC（以 ROE 作為 proxy）— 滿分 15
+        'over_25': 15,
+        'over_15': 10,
+        'over_8':   5,
+        'default':  0
     },
-    'analyst_rec': {
-        'below_18': 20,
-        'below_23': 14,
-        'below_30': 6,
-        'over_40': -10
+    'forward_peg': {      # Forward PEG — ±10
+        'below_10':  10,
+        'below_15':   5,
+        'below_25':   0,
+        'over_30':  -10
+    },
+    'analyst_rec': {      # 分析師評級 — 滿分 10
+        'below_18': 10,
+        'below_23':  7,
+        'below_30':  3,
+        'over_40':  -5
+    },
+    'debt_equity': {      # 負債 / 權益比 — ±5
+        'below_05':  5,
+        'below_15':  2,
+        'over_30':  -5
     }
 }
 
@@ -126,16 +138,16 @@ def compute_fundamental_score(ticker: str, info: dict, config: dict = None) -> d
     score = 0.0
     details = {}
 
-    # 1. 營收成長率
+    # 1. 營收成長率（yfinance 提供 YoY，用作 3Y CAGR 近似）
     rev_growth = info.get('revenueGrowth', None)
     if rev_growth is not None:
         details['rev_growth_yoy'] = rev_growth * 100
         w_rev = weights.get('rev_growth', {})
-        if rev_growth > 0.30:    score += w_rev.get('over_30', 15)
-        elif rev_growth > 0.15:  score += w_rev.get('over_15', 11)
-        elif rev_growth > 0.05:  score += w_rev.get('over_5', 7)
-        elif rev_growth > 0:     score += w_rev.get('over_0', 3)
-        else:                    score += w_rev.get('below_0', -5)
+        if rev_growth > 0.30:    score += w_rev.get('over_30', 25)
+        elif rev_growth > 0.15:  score += w_rev.get('over_15', 18)
+        elif rev_growth > 0.05:  score += w_rev.get('over_5', 10)
+        elif rev_growth > 0:     score += w_rev.get('over_0', 4)
+        else:                    score += w_rev.get('below_0', -10)
     else:
         details['rev_growth_yoy'] = None
 
@@ -144,47 +156,72 @@ def compute_fundamental_score(ticker: str, info: dict, config: dict = None) -> d
     if gross_margin is not None:
         details['gross_margin'] = gross_margin * 100
         w_gm = weights.get('gross_margin', {})
-        if gross_margin > 0.60:   score += w_gm.get('over_60', 15)
-        elif gross_margin > 0.40: score += w_gm.get('over_40', 10)
-        elif gross_margin > 0.20: score += w_gm.get('over_20', 5)
+        if gross_margin > 0.60:   score += w_gm.get('over_60', 20)
+        elif gross_margin > 0.40: score += w_gm.get('over_40', 14)
+        elif gross_margin > 0.20: score += w_gm.get('over_20', 7)
         else:                     score += w_gm.get('default', 0)
     else:
         details['gross_margin'] = None
 
-    # 3. 自由現金流 margin
+    # 3. FCF Margin
     fcf = info.get('freeCashflow', None)
     rev = info.get('totalRevenue', None)
     if fcf and rev and rev > 0:
         fcf_margin = fcf / rev
         details['fcf_margin'] = fcf_margin * 100
         w_fcf = weights.get('fcf_margin', {})
-        if fcf_margin > 0.20:   score += w_fcf.get('over_20', 10)
-        elif fcf_margin > 0.10: score += w_fcf.get('over_10', 7)
-        elif fcf_margin > 0:    score += w_fcf.get('over_0', 3)
-        else:                   score += w_fcf.get('below_0', -5)
+        if fcf_margin > 0.20:   score += w_fcf.get('over_20', 15)
+        elif fcf_margin > 0.10: score += w_fcf.get('over_10', 10)
+        elif fcf_margin > 0:    score += w_fcf.get('over_0', 5)
+        else:                   score += w_fcf.get('below_0', -8)
     else:
         details['fcf_margin'] = None
 
-    # 4. 負債/股東權益
+    # 4. ROIC（以 returnOnEquity 作為 proxy，decimal 格式）
+    roe = info.get('returnOnEquity', None)
+    if roe is not None:
+        details['roic_proxy'] = round(roe * 100, 1)
+        w_roic = weights.get('roic', {})
+        if roe > 0.25:   score += w_roic.get('over_25', 15)
+        elif roe > 0.15: score += w_roic.get('over_15', 10)
+        elif roe > 0.08: score += w_roic.get('over_8', 5)
+        else:            score += w_roic.get('default', 0)
+    else:
+        details['roic_proxy'] = None
+
+    # 5. Forward PEG
+    peg = info.get('pegRatio', None)
+    if peg is not None and peg > 0:
+        details['forward_peg'] = peg
+        w_peg = weights.get('forward_peg', {})
+        if peg < 1.0:   score += w_peg.get('below_10', 10)
+        elif peg < 1.5: score += w_peg.get('below_15', 5)
+        elif peg < 2.5: score += w_peg.get('below_25', 0)
+        elif peg > 3.0: score += w_peg.get('over_30', -10)
+    else:
+        details['forward_peg'] = None
+
+    # 6. 負債/股東權益（yfinance debtToEquity 為 % 格式，需 ÷100 換算）
     de_ratio = info.get('debtToEquity', None)
     if de_ratio is not None:
-        details['debt_equity'] = de_ratio
+        de = de_ratio / 100  # 換算為比率
+        details['debt_equity'] = round(de, 2)
         w_de = weights.get('debt_equity', {})
-        if de_ratio < 0.5:    score += w_de.get('below_05', 5)
-        elif de_ratio < 1.5:  score += w_de.get('below_15', 2)
-        elif de_ratio > 5.0:  score += w_de.get('over_50', -5)
+        if de < 0.5:   score += w_de.get('below_05', 5)
+        elif de < 1.5: score += w_de.get('below_15', 2)
+        elif de > 3.0: score += w_de.get('over_30', -5)
     else:
         details['debt_equity'] = None
 
-    # 5. 分析師評級
+    # 7. 分析師評級
     rec = info.get('recommendationMean', None)
     if rec is not None:
         details['analyst_rec'] = rec
         w_rec = weights.get('analyst_rec', {})
-        if rec < 1.8:    score += w_rec.get('below_18', 10)
-        elif rec < 2.3:  score += w_rec.get('below_23', 7)
-        elif rec < 3.0:  score += w_rec.get('below_30', 3)
-        elif rec > 4.0:  score += w_rec.get('over_40', -5)
+        if rec < 1.8:   score += w_rec.get('below_18', 10)
+        elif rec < 2.3: score += w_rec.get('below_23', 7)
+        elif rec < 3.0: score += w_rec.get('below_30', 3)
+        elif rec > 4.0: score += w_rec.get('over_40', -5)
     else:
         details['analyst_rec'] = None
 

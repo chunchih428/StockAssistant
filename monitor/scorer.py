@@ -1,62 +1,67 @@
 """
-monitor/scorer.py — 候選股綜合評分
+monitor/scorer.py — 候選股綜合評分 v2
 
-綜合分 = fund_score × w_f + tech_score × w_t + risk_score × w_r + news_boost × w_n
+綜合分 = fund_score × 0.45 + tech_score × 0.30 + risk_score × 0.15 + news_boost × 0.10
+         （news_boost 直接加減，上限 ±5 分）
 所有權重來自 monitor_config.json 的 scoring_weights.composite_for_candidates。
 """
 from __future__ import annotations
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 
-from .config import get_scoring_weights
-
-
-# 買入信號分級門檻（綜合分）
-_BUY_SIGNAL_TIERS = [
-    (75, "💎 強力買入", "#7c3aed"),
-    (65, "✅ 可以買入", "#059669"),
-    (52, "👀 觀察等候", "#eab308"),
-    (0,  "⏸️  尚未就緒", "#94a3b8"),
-]
+from .config import get_scoring_weights, get_candidate_signals
 
 TREND_UPWARD = {"UPTREND", "RECOVERY", "OVERSOLD_UPTREND"}
+
+# 建議建倉比例（依信號等級）
+SUGGESTED_ALLOC = {
+    "💎 強力買入": "12–15%（分批，首批 5%）",
+    "✅ 可以買入": "6–10%（分批，首批 4%）",
+    "👀 觀察等候": "0%",
+    "⏸️  尚未就緒": "0%",
+    "❌ 不予以考慮": "0%",
+}
 
 
 @dataclass
 class CandidateScore:
-    symbol:     str
-    composite:  float | None
-    signal:     str
-    color:      str
-    fund_score: float | None
-    tech_score: float | None
-    risk_score: float | None
-    trend:      str
-    rsi:        float | None
-    price:      float | None
-    change_3mo: float | None
-    high_52w:   float | None
-    drawdown_pct: float | None   # 距 52w 高點回撤 %
-    news_sentiment: str          # bullish / bearish / neutral / mixed / ""
-    reasons:    list[str]
-    in_portfolio: bool
+    symbol:           str
+    composite:        float | None
+    signal:           str
+    color:            str
+    fund_score:       float | None
+    tech_score:       float | None
+    risk_score:       float | None
+    trend:            str
+    rsi:              float | None
+    price:            float | None
+    change_3mo:       float | None
+    high_52w:         float | None
+    drawdown_pct:     float | None   # 距 52w 高點回撤 %
+    news_sentiment:   str            # bullish / bearish / neutral / mixed / ""
+    reasons:          list[str]
+    in_portfolio:     bool
+    suggested_alloc:  str            # v2 新增：建議建倉比例
+    sector_alloc_pct: float | None   # v2 新增：同產業已持有佔比 %
 
     def to_dict(self) -> dict:
         return {
-            "symbol":       self.symbol,
-            "composite":    self.composite,
-            "signal":       self.signal,
-            "signal_color": self.color,
-            "fund_score":   self.fund_score,
-            "tech_score":   self.tech_score,
-            "risk_score":   self.risk_score,
-            "trend":        self.trend,
-            "rsi":          self.rsi,
-            "price":        self.price,
-            "change_3mo":   self.change_3mo,
-            "drawdown_pct": self.drawdown_pct,
-            "news_sentiment": self.news_sentiment,
-            "reasons":      self.reasons,
-            "in_portfolio": self.in_portfolio,
+            "symbol":           self.symbol,
+            "composite":        self.composite,
+            "signal":           self.signal,
+            "signal_color":     self.color,
+            "fund_score":       self.fund_score,
+            "tech_score":       self.tech_score,
+            "risk_score":       self.risk_score,
+            "trend":            self.trend,
+            "rsi":              self.rsi,
+            "price":            self.price,
+            "change_3mo":       self.change_3mo,
+            "drawdown_pct":     self.drawdown_pct,
+            "news_sentiment":   self.news_sentiment,
+            "reasons":          self.reasons,
+            "in_portfolio":     self.in_portfolio,
+            "suggested_alloc":  self.suggested_alloc,
+            "sector_alloc_pct": self.sector_alloc_pct,
         }
 
 
@@ -66,32 +71,38 @@ def score_candidate(
     tech: dict,
     in_portfolio: bool = False,
     config: dict | None = None,
+    sector_alloc_pct: float | None = None,   # v2 新增：同產業已持有佔比
+    prev_signal: str | None = None,           # v2 新增：上次信號（滯後機制用）
 ) -> CandidateScore:
     """
-    計算候選股綜合評分。
+    計算候選股綜合評分 v2。
     fund / tech 為 cache 讀出的 dict（同 dashboard 使用的格式）。
     """
     weights_cfg = get_scoring_weights(config)
-    comp_w = weights_cfg.get("composite_for_candidates", {})
+    comp_w   = weights_cfg.get("composite_for_candidates", {})
     news_cfg = weights_cfg.get("news_sentiment", {})
 
-    w_f = comp_w.get("fund_score", 0.40)
-    w_t = comp_w.get("tech_score", 0.35)
-    w_r = comp_w.get("risk_score", 0.20)
-    w_n = comp_w.get("news_boost", 0.05)
+    # v2 預設權重：fund 0.45 / tech 0.30 / risk 0.15 / news 0.10
+    w_f = comp_w.get("fund_score",  0.45)
+    w_t = comp_w.get("tech_score",  0.30)
+    w_r = comp_w.get("risk_score",  0.15)
+    w_n = comp_w.get("news_boost",  0.10)
 
-    fs = fund.get("fund_score")
-    ts = tech.get("tech_score")
-    rs = tech.get("risk_score")
+    fs    = fund.get("fund_score")
+    ts    = tech.get("tech_score")
+    rs    = tech.get("risk_score")
     trend = tech.get("trend_status") or "UNKNOWN"
     rsi   = tech.get("rsi")
     price = tech.get("current_price") or fund.get("current_price")
     change_3mo = tech.get("change_3mo_pct")
     high_52w   = tech.get("high_52w")
+    peg        = fund.get("pegRatio")
 
     # 消息面（從 fund cache 的 news_analysis 讀取）
     news_sentiment = _extract_news_sentiment(fund)
-    news_score = news_cfg.get(news_sentiment, 0) if news_sentiment else 0
+    # v2：news_cfg 儲存的是 ±50 尺度的原始分，乘以 w_n 後 cap 在 ±5
+    news_raw   = news_cfg.get(news_sentiment, 0) if news_sentiment else 0
+    news_boost = min(5.0, max(-5.0, news_raw * w_n)) if news_raw != 0 else 0.0
 
     # 計算綜合分
     if fs is None and ts is None and rs is None:
@@ -101,8 +112,7 @@ def score_candidate(
         if fs is not None: composite += fs * w_f
         if ts is not None: composite += ts * w_t
         if rs is not None: composite += rs * w_r
-        # news boost 以 100 為基準正規化
-        composite += news_score * w_n * 100 / max(abs(news_score), 1) if news_score != 0 else 0
+        composite += news_boost
         composite = round(composite, 1)
 
     # 距 52w 高點回撤
@@ -110,11 +120,22 @@ def score_candidate(
     if price and high_52w and high_52w > 0:
         drawdown = round((price - high_52w) / high_52w * 100, 1)
 
-    # 買入信號分級
-    signal, color = _buy_signal(composite, fs, ts, trend)
+    # 買入信號分級（v2）
+    signals_cfg = get_candidate_signals(config)
+    signal, color = _buy_signal(
+        composite, fs, ts, trend, signals_cfg,
+        sector_alloc_pct=sector_alloc_pct,
+        prev_signal=prev_signal,
+    )
 
-    # 說明理由
-    reasons = _build_reasons(fs, ts, rs, trend, rsi, change_3mo, drawdown, news_sentiment)
+    # 建議建倉比例
+    suggested_alloc = _get_suggested_alloc(signal)
+
+    # 說明理由（v2：新增 PEG、產業曝險）
+    reasons = _build_reasons(
+        fs, ts, rs, trend, rsi, change_3mo, drawdown, news_sentiment,
+        peg=peg, sector_alloc_pct=sector_alloc_pct, signal=signal,
+    )
 
     return CandidateScore(
         symbol=symbol,
@@ -133,67 +154,155 @@ def score_candidate(
         news_sentiment=news_sentiment,
         reasons=reasons,
         in_portfolio=in_portfolio,
+        suggested_alloc=suggested_alloc,
+        sector_alloc_pct=sector_alloc_pct,
     )
 
 
-def _buy_signal(composite, fs, ts, trend):
-    """根據綜合分 + 輔助條件決定買入信號。"""
+def _buy_signal(
+    composite,
+    fs,
+    ts,
+    trend,
+    signals_cfg: dict | None = None,
+    sector_alloc_pct: float | None = None,
+    prev_signal: str | None = None,
+):
+    """v2：根據綜合分決定買入信號，疊加軟性 Disqualify、產業曝險、滯後機制。"""
+    cfg   = signals_cfg or get_candidate_signals()
+    tiers = sorted(cfg.get("tiers", []), key=lambda t: t["min_score"], reverse=True)
+    disq       = cfg.get("disqualify", {})
+    disq_soft  = cfg.get("disqualify_soft", {})
+    hysteresis = cfg.get("hysteresis_band", 3)
+
     if composite is None:
         return "⏸️  無資料", "#94a3b8"
 
-    # 若技術面或基本面明顯弱，降級
-    if (fs or 0) < 40 or (ts or 0) < 35:
-        return "⏸️  尚未就緒", "#94a3b8"
+    # ── 1. composite 對應 tier ──────────────────────────────
+    composite_tier = None
+    for tier in tiers:
+        if composite >= tier["min_score"]:
+            if tier.get("require_uptrend") and trend not in TREND_UPWARD:
+                next_tier = next((t for t in tiers if t["min_score"] < tier["min_score"]), None)
+                composite_tier = next_tier if next_tier else tier
+            else:
+                composite_tier = tier
+            break
+    if composite_tier is None:
+        composite_tier = tiers[-1] if tiers else {"label": "⏸️  尚未就緒", "color": "#94a3b8", "min_score": 0}
 
-    for threshold, label, color in _BUY_SIGNAL_TIERS:
-        if composite >= threshold:
-            # 💎 強力買入需額外確認趨勢向上
-            if label == "💎 強力買入" and trend not in TREND_UPWARD:
-                return "✅ 可以買入", "#059669"
-            return label, color
+    def _find_tier(label_prefix):
+        return next((t for t in tiers if t["label"].startswith(label_prefix)), None)
 
-    return "⏸️  尚未就緒", "#94a3b8"
+    # ── 2. 硬性 Disqualify：fund < 40 OR tech < 35 → 尚未就緒 ──
+    fund_hard = disq.get("fund_score_min", 40)
+    tech_hard = disq.get("tech_score_min", 35)
+    if (fs or 0) < fund_hard or (ts or 0) < tech_hard:
+        disq_label = disq.get("disqualify_label", "⏸️  尚未就緒")
+        disq_tier  = next((t for t in tiers if t["label"] == disq_label), None)
+        if disq_tier and composite_tier["min_score"] > disq_tier["min_score"]:
+            return disq_tier["label"], disq_tier["color"]
+
+    # ── 3. 軟性 Disqualify（v2）：fund 40-50 OR tech 35-45 → 上限觀察等候 ──
+    soft_fund = disq_soft.get("fund_score_min", 50)
+    soft_tech = disq_soft.get("tech_score_min", 45)
+    watch_tier = _find_tier("👀")
+    if watch_tier:
+        fund_in_soft = fund_hard <= (fs or 0) < soft_fund
+        tech_in_soft = tech_hard <= (ts or 0) < soft_tech
+        if (fund_in_soft or tech_in_soft) and composite_tier["min_score"] > watch_tier["min_score"]:
+            composite_tier = watch_tier
+
+    # ── 4. 產業曝險檢查（v2）：同產業已持有 ≥ sector_cap → 上限觀察等候 ──
+    sector_cap = cfg.get("sector_cap_for_candidate", 40)
+    if sector_alloc_pct is not None and sector_alloc_pct >= sector_cap:
+        if watch_tier and composite_tier["min_score"] > watch_tier["min_score"]:
+            composite_tier = watch_tier
+
+    # ── 5. 滯後機制（v2）：降級需低於 prev_tier - hysteresis_band ──
+    if prev_signal is not None:
+        prev_tier = next((t for t in tiers if t["label"] == prev_signal), None)
+        if prev_tier and composite_tier["min_score"] < prev_tier["min_score"]:
+            # 嘗試降級：只在 composite 低於 (prev min - band) 時才實際降
+            if composite >= prev_tier["min_score"] - hysteresis:
+                composite_tier = prev_tier  # 繼續留在上一個 tier
+
+    return composite_tier["label"], composite_tier["color"]
+
+
+def _get_suggested_alloc(signal: str) -> str:
+    """根據信號取得建議建倉比例。"""
+    for key, val in SUGGESTED_ALLOC.items():
+        if signal.startswith(key[:3]):   # 用前 3 個字元比對（避免空白差異）
+            return val
+    return "0%"
 
 
 def _extract_news_sentiment(fund: dict) -> str:
     """從 fund cache 中嘗試取得消息面情緒。"""
-    # news_analysis 欄位由 render.py 填入（holdings cache 可能沒有）
-    na = fund.get("news_analysis") or {}
+    na      = fund.get("news_analysis") or {}
     summary = na.get("summary") or {}
     return summary.get("overall_sentiment", "") or ""
 
 
-def _build_reasons(fs, ts, rs, trend, rsi, change_3mo, drawdown, news_sentiment) -> list[str]:
+def _build_reasons(
+    fs, ts, rs, trend, rsi, change_3mo, drawdown, news_sentiment,
+    peg=None, sector_alloc_pct=None, signal=None,
+) -> list[str]:
     reasons = []
+
+    # 基本面
     if fs is not None:
         if fs >= 80:   reasons.append(f"基本面優秀({int(fs)})")
         elif fs >= 65: reasons.append(f"基本面良好({int(fs)})")
         elif fs < 45:  reasons.append(f"基本面偏弱({int(fs)})")
 
+    # Forward PEG 估值（v2 新增）
+    if peg is not None and peg > 0:
+        if peg < 1.0:   reasons.append(f"估值偏低(PEG={peg:.1f})")
+        elif peg <= 2.0: reasons.append(f"估值合理(PEG={peg:.1f})")
+        elif peg > 2.5: reasons.append(f"⚠️估值偏高(PEG={peg:.1f})")
+
+    # 趨勢
     if trend == "UPTREND":             reasons.append("上升趨勢")
     elif trend == "OVERSOLD_UPTREND":  reasons.append("超賣反彈")
     elif trend == "RECOVERY":          reasons.append("趨勢修復中")
     elif trend == "DOWNTREND":         reasons.append("⚠️下跌趨勢")
     elif trend == "BREAKDOWN":         reasons.append("⚠️技術崩跌")
 
+    # RSI
     if rsi is not None:
-        if rsi < 32:       reasons.append(f"RSI超賣({rsi:.0f})")
+        if rsi < 32:          reasons.append(f"RSI超賣({rsi:.0f})")
         elif 40 <= rsi <= 58: reasons.append(f"RSI健康({rsi:.0f})")
-        elif rsi > 72:     reasons.append(f"RSI超買({rsi:.0f})")
+        elif rsi > 72:        reasons.append(f"RSI超買({rsi:.0f})")
 
+    # 風險
     if rs is not None and rs >= 70: reasons.append(f"風險低({int(rs)})")
     if rs is not None and rs < 35:  reasons.append(f"⚠️風險高({int(rs)})")
 
+    # 近 3 月表現
     if change_3mo is not None:
-        if change_3mo >= 15:   reasons.append(f"近3月強勢(+{change_3mo:.0f}%)")
+        if change_3mo >= 15:    reasons.append(f"近3月強勢(+{change_3mo:.0f}%)")
         elif change_3mo <= -15: reasons.append(f"近3月弱勢({change_3mo:.0f}%)")
 
+    # 距 52w 高點
     if drawdown is not None and drawdown < -20:
         reasons.append(f"距52w高點-{abs(drawdown):.0f}%（低位）")
 
+    # 產業曝險（v2 新增）
+    if sector_alloc_pct is not None and sector_alloc_pct >= 40:
+        reasons.append(f"⚠️產業曝險偏高({sector_alloc_pct:.0f}%)")
+
+    # 消息面
     if news_sentiment == "strongly_bullish":   reasons.append("🔥消息面強力利多")
     elif news_sentiment == "bullish":          reasons.append("消息面偏多")
     elif news_sentiment == "strongly_bearish": reasons.append("🚨消息面強力利空")
     elif news_sentiment == "bearish":          reasons.append("⚠️消息面偏空")
+
+    # 建議建倉比例（v2 新增）
+    if signal:
+        alloc = _get_suggested_alloc(signal)
+        if alloc and alloc != "0%":
+            reasons.append(f"建議建倉 {alloc}")
 
     return reasons

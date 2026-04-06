@@ -5,75 +5,114 @@
 
   "thresholds": {
     "_note": "警示規則觸發條件，所有數值皆可被 overrides 個股覆蓋",
-    "stop_loss_pct":        -20,
-    "warn_loss_pct":        -12,
-    "take_profit_pct":       60,
-    "max_single_alloc_pct":  30,
-    "fund_score_close":      30,
-    "fund_score_add":        70,
-    "tech_score_reduce":     45,
-    "tech_score_add":        58,
-    "risk_score_reduce":     30,
-    "rsi_overbought":        75,
-    "rsi_oversold":          28,
-    "max_portfolio_beta":     1.6,
-    "warn_portfolio_beta":    1.3,
-    "max_hhi":               0.25,
-    "warn_hhi":              0.15,
-    "max_top1_pct":          35,
-    "warn_top1_pct":         25,
-    "add_max_alloc_pct":     22,
-    "min_cash_pct":           5,
-    "max_cash_pct":          25,
-    "warn_high_cash_pct":    18
+    "stop_loss_pct":          -28,
+    "warn_loss_heavy_pct":    -20,
+    "warn_loss_light_pct":    -12,
+    "take_profit_pct":        100,
+    "max_single_alloc_pct":   30,
+    "max_sector_alloc_pct":   50,
+    "fund_score_close":       30,
+    "fund_score_add":         70,
+    "fund_score_add_dip":     65,
+    "fund_improvement_min":   10,
+    "tech_score_reduce":      45,
+    "tech_score_add":         55,
+    "risk_score_reduce":      30,
+    "rsi_overbought":         80,
+    "rsi_oversold":           28,
+    "max_portfolio_beta":      1.6,
+    "warn_portfolio_beta":     1.3,
+    "max_hhi":                0.25,
+    "warn_hhi":               0.15,
+    "max_top1_pct":           35,
+    "warn_top1_pct":          25,
+    "add_max_alloc_pct":      25,
+    "min_cash_pct":            5,
+    "max_cash_pct":           25,
+    "warn_high_cash_pct":     18
   },
 
   "scoring_weights": {
     "_note": "覆蓋各模組的預設權重，留空或移除某項則回用程式碼預設值",
 
     "fundamental": {
-      "rev_growth":   { "over_30": 30, "over_15": 22, "over_5": 14, "over_0": 6, "below_0": -10 },
-      "gross_margin": { "over_60": 25, "over_40": 16, "over_20": 8, "default": 0 },
-      "fcf_margin":   { "over_20": 15, "over_10": 10, "over_0": 5,  "below_0": -8 },
-      "debt_equity":  { "below_05": 10, "below_15": 4, "over_50": -10 },
-      "analyst_rec":  { "below_18": 20, "below_23": 14, "below_30": 6, "over_40": -10 }
+      "_note": "v2: 加入 ROIC（ROE proxy）與 Forward PEG，調整各項權重",
+      "rev_growth":   { "over_30": 25, "over_15": 18, "over_5": 10, "over_0": 4, "below_0": -10 },
+      "gross_margin": { "over_60": 20, "over_40": 14, "over_20": 7, "default": 0 },
+      "fcf_margin":   { "over_20": 15, "over_10": 10, "over_0": 5, "below_0": -8 },
+      "roic":         { "over_25": 15, "over_15": 10, "over_8": 5, "default": 0 },
+      "forward_peg":  { "below_10": 10, "below_15": 5, "below_25": 0, "over_30": -10 },
+      "analyst_rec":  { "below_18": 10, "below_23": 7, "below_30": 3, "over_40": -5 },
+      "debt_equity":  { "below_05": 5, "below_15": 2, "over_30": -5 }
     },
 
     "technical": {
-      "trend":  {
-        "UPTREND": 40, "OVERSOLD_UPTREND": 35, "RECOVERY": 25,
-        "CONSOLIDATION": 20, "BREAKDOWN": 10, "DOWNTREND": 0, "UNKNOWN": 20
+      "trend": {
+        "UPTREND": 35, "OVERSOLD_UPTREND": 30, "RECOVERY": 20,
+        "CONSOLIDATION": 15, "BREAKDOWN": 5, "DOWNTREND": 0, "UNKNOWN": 15
       },
-      "rsi":    { "healthy_momentum": 20, "normal": 12, "overheated": 5, "oversold": 8 },
-      "macd":   { "bull_above_zero": 20, "bull_below_zero": 12, "bear_below_zero": 0, "bear_above_zero": 6 },
-      "bb":     { "mid": 10, "lower": 7, "below_low": 4, "above_high": 4 },
-      "atr":    { "low_vol": 10, "normal_vol": 6, "high_vol": 2, "extreme_vol": 0 }
+      "rsi": {
+        "peak_momentum": 20,
+        "strong_momentum": 15,
+        "normal": 12,
+        "oversold": 8,
+        "overheated": 5
+      },
+      "macd": { "bull_above_zero": 15, "bull_below_zero": 10, "bear_below_zero": 0, "bear_above_zero": 4 },
+      "bb":   { "mid": 15, "upper": 10, "lower": 8, "breakout": 5, "near_low": 2 },
+      "vol_ratio": { "up_high": 10, "up_flat": 6, "down_low": 4, "down_high": 0 },
+      "atr":  { "low_vol": 5, "normal_vol": 3, "high_vol": 1, "extreme_vol": 0 }
     },
 
     "risk": {
-      "var_95":  { "above_minus_2pct": 30, "above_minus_4pct": 20, "above_minus_6pct": 10, "below_minus_6pct": 0 },
-      "sharpe":  { "above_1": 25, "above_05": 15, "above_0": 5, "below_0": 0 },
-      "sortino": { "above_15": 25, "above_1": 15, "above_0": 5, "below_0": 0 },
-      "beta":    { "below_08": 20, "below_12": 15, "below_15": 5, "above_15": 0 }
+      "var_95":       { "above_minus_3pct": 25, "above_minus_5pct": 18, "above_minus_7pct": 10, "below_minus_7pct": 0 },
+      "sortino":      { "above_15": 25, "above_1": 15, "above_0": 5, "below_0": 0 },
+      "max_drawdown": { "below_15pct": 25, "below_25pct": 18, "below_40pct": 10, "below_55pct": 5, "above_55pct": 0 },
+      "beta":         { "below_12": 15, "below_15": 10, "below_20": 5, "above_20": 0 },
+      "calmar":       { "above_20": 10, "above_10": 7, "above_05": 3, "below_05": 0 }
     },
 
     "news_sentiment": {
-      "_note": "消息面加成分數（疊加在候選股綜合評分上，無 AI 分析時為 0）",
-      "strongly_bullish": 15,
-      "bullish":           8,
-      "neutral":           2,
+      "_note": "消息面原始分（±50 尺度），乘以 news_boost 權重後 cap 在 ±5 加入綜合分",
+      "strongly_bullish": 50,
+      "bullish":          40,
+      "neutral":          10,
       "mixed":             0,
-      "bearish":          -8,
-      "strongly_bearish": -15
+      "bearish":         -40,
+      "strongly_bearish": -50
     },
 
     "composite_for_candidates": {
-      "_note": "候選股綜合評分加權比例，三項加總應等於 1.0（news_boost 額外加）",
-      "fund_score":  0.40,
-      "tech_score":  0.35,
-      "risk_score":  0.20,
-      "news_boost":  0.05
+      "_note": "候選股綜合評分加權比例（v2：fund 主導，risk 降低高波動懲罰，news 影響力提升）",
+      "fund_score":  0.45,
+      "tech_score":  0.30,
+      "risk_score":  0.15,
+      "news_boost":  0.10
     }
+  },
+
+  "candidate_signals": {
+    "_note": "候選股信號分級門檻（composite 分數由高到低），以及 Disqualify 與產業曝險保護（v2）",
+    "tiers": [
+      { "min_score": 75, "label": "💎 強力買入", "color": "#7c3aed", "require_uptrend": true },
+      { "min_score": 65, "label": "✅ 可以買入", "color": "#059669" },
+      { "min_score": 52, "label": "👀 觀察等候", "color": "#eab308" },
+      { "min_score": 40, "label": "⏸️  尚未就緒", "color": "#94a3b8" },
+      { "min_score":  0, "label": "❌ 不予以考慮", "color": "#dc2626" }
+    ],
+    "disqualify": {
+      "_note": "硬性：基本面或技術面低於此門檻時，強制降為 disqualify_label",
+      "fund_score_min": 40,
+      "tech_score_min": 35,
+      "disqualify_label": "⏸️  尚未就緒"
+    },
+    "disqualify_soft": {
+      "_note": "軟性（v2）：介於硬性門檻與此值之間時，信號上限壓到「觀察等候」",
+      "fund_score_min": 50,
+      "tech_score_min": 45
+    },
+    "sector_cap_for_candidate": 40,
+    "hysteresis_band": 3
   },
 
   "overrides": {

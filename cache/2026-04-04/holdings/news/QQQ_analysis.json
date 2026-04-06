@@ -1,0 +1,65 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-04-04",
+  "source_file": "cache/2026-04-04/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "地緣政治風險緩解帶動市場情緒回升，技術面顯示 QQQ 在經歷修正後出現超賣反彈跡象。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Oil Tumbles, Nasdaq 100 Jumps 3% As Iran Says It's Ready To Halt Hostilities: 10 Stocks Moving",
+      "publisher": "Benzinga",
+      "date": "2026-03-31 22:09",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "伊朗釋出停止敵對行動的訊號，導致油價下跌 2 %，市場避險情緒降溫，推動 Nasdaq 100 指數與 QQQ 大漲 3.2 %，為近期最強勁的利多催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "SPY: After 5 Down Weeks, Here's Why A Sharp Rebound Could Be Coming",
+      "publisher": "SeekingAlpha",
+      "date": "2026-03-30 22:17",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "分析指出 QQQ 在經歷超過 10 % 的修正後已進入超賣區間，配合市場恐慌情緒達到高峰，預期將出現強勁的技術性反彈。"
+    },
+    {
+      "rank": 3,
+      "title": "Breadth Rebounds Sharply, But Long-Term Trend Pressure Remains on SPY and QQQ",
+      "publisher": "ChartMill",
+      "date": "2026-04-01 19:03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場內部廣度指標出現顯著改善，顯示賣壓減輕，儘管長期趨勢仍面臨壓力，但短期內市場參與度提升對 QQQ 構成支撐。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "QQQI With JEPQ: Outperforming QQQ Amidst The 2026 Tech Correction",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-02 01:40",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "該文主要比較 covered-call ETF 與 QQQ 的績效差異，屬於投資組合配置建議，對 QQQ 本身股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "How To Trade SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, TSLA Using Technical Analysis",
+      "publisher": "Benzinga",
+      "date": "2026-03-27 18:17",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "純粹的技術分析教學文章，提供交易策略參考，不涉及基本面變動或市場趨勢的判斷。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

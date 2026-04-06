@@ -34,7 +34,7 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
 .rel-low{background:#f1f5f9;color:#94a3b8;border:1px solid #e2e8f0}
 .na-summary{display:flex;flex-wrap:wrap;align-items:center;gap:.5rem;margin-bottom:1rem;padding:.65rem .85rem;border-radius:.75rem;background:#f8fafc;border:1px solid #e2e8f0}
 .na-sent{font-size:.78rem;font-weight:700;padding:.2rem .6rem;border-radius:.5rem;letter-spacing:.02em}
-.na-sent-strongly_bullish{background:#14532d;color:#fff}.na-sent-bullish{background:#dcfce7;color:#166534}.na-sent-neutral{background:#f1f5f9;color:#475569}.na-sent-mixed{background:#fef9c3;color:#854d0e}.na-sent-bearish{background:#fee2e2;color:#991b1b}.na-sent-strongly_bearish{background:#450a0a;color:#fff}
+.na-sent-strongly_bullish{background:#16a34a;color:#fff}.na-sent-bullish{background:#bbf7d0;color:#14532d}.na-sent-neutral{background:#f1f5f9;color:#475569}.na-sent-mixed{background:#fef9c3;color:#854d0e}.na-sent-bearish{background:#fee2e2;color:#991b1b}.na-sent-strongly_bearish{background:#450a0a;color:#fff}
 .na-theme{font-size:.78rem;color:#475569;flex:1;min-width:0}
 .na-chip{font-size:.68rem;padding:.15rem .45rem;border-radius:.75rem;font-weight:600;border:1px solid}
 .na-chip-bull{background:#f0fdf4;color:#166534;border-color:#bbf7d0}.na-chip-bear{background:#fef2f2;color:#991b1b;border-color:#fecaca}.na-chip-neut{background:#f1f5f9;color:#64748b;border-color:#e2e8f0}
@@ -112,16 +112,16 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
         <!-- View Toggle -->
         <div style="display:flex;gap:.35rem;background:#f1f5f9;padding:.25rem;border-radius:.6rem">
           <button class="view-btn" :class="{active:view==='summary'}" @click="switchView('summary')">
-            <span style="display:flex;align-items:center;gap:.35rem"><svg width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>總覽</span>
+            <span style="display:flex;align-items:center;gap:.35rem"><svg width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>持股總覽</span>
+          </button>
+          <button class="view-btn" :class="{active:view==='scores'}" @click="switchView('scores')">
+            <span style="display:flex;align-items:center;gap:.35rem"><svg width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="2"/><line x1="3" y1="9" x2="21" y2="9"/><line x1="9" y1="21" x2="9" y2="9"/></svg>持股評分</span>
+          </button>
+          <button class="view-btn" :class="{active:view==='candidates'}" @click="switchView('candidates')">
+            <span style="display:flex;align-items:center;gap:.35rem"><svg width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.86L12 17.77 5.82 21l1.18-6.86-5-4.87 6.91-1.01z"/></svg>候選評分</span>
           </button>
           <button class="view-btn" :class="{active:view==='detail'}" @click="switchView('detail')">
             <span style="display:flex;align-items:center;gap:.35rem"><svg width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>個股</span>
-          </button>
-          <button class="view-btn" :class="{active:view==='candidates'}" @click="switchView('candidates')">
-            <span style="display:flex;align-items:center;gap:.35rem"><svg width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.86L12 17.77 5.82 21l1.18-6.86-5-4.87 6.91-1.01z"/></svg>候選</span>
-          </button>
-          <button class="view-btn" :class="{active:view==='competitors'}" @click="switchView('competitors')">
-            <span style="display:flex;align-items:center;gap:.35rem"><svg width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>競品</span>
           </button>
         </div>
         <div style="text-align:right">
@@ -329,6 +329,11 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
     </div>
 
 
+  </main>
+
+  <!-- ==================== SCORES VIEW ==================== -->
+  <main v-if="view==='scores'" style="max-width:76rem;margin:0 auto;padding:1.5rem">
+
     <!-- ── 個股評分一覽 ── -->
     <div class="panel anim" style="padding:1.25rem;margin-bottom:1.25rem">
       <div style="display:flex;align-items:center;gap:.5rem;margin-bottom:.85rem">
@@ -344,18 +349,18 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
       <div style="overflow-x:auto">
         <table class="ot">
           <thead><tr>
-            <th>代號</th>
+            <th style="text-align:center">代號</th>
             <th style="text-align:center;cursor:pointer" @click="toggleScoreSort('fund')">基本面 <span v-if="sortScoreKey==='fund'">{{sortScoreDesc?'↓':'↑'}}</span></th>
             <th style="text-align:center;cursor:pointer" @click="toggleScoreSort('tech')">技術面 <span v-if="sortScoreKey==='tech'">{{sortScoreDesc?'↓':'↑'}}</span></th>
             <th style="text-align:center;cursor:pointer" @click="toggleScoreSort('risk')">風險 <span v-if="sortScoreKey==='risk'">{{sortScoreDesc?'↓':'↑'}}</span></th>
             <th style="text-align:center">趨勢</th>
-            <th style="text-align:center">消息面</th>
-            <th v-if="data.alerts&&data.alerts.holdings" style="text-align:left">警示</th>
+            <th style="text-align:center;cursor:pointer" @click="toggleScoreSort('news')">消息面 <span v-if="sortScoreKey==='news'">{{sortScoreDesc?'↓':'↑'}}</span></th>
+            <th v-if="data.alerts&&data.alerts.holdings" style="text-align:center;cursor:pointer" @click="toggleScoreSort('alert')">警示 <span v-if="sortScoreKey==='alert'">{{sortScoreDesc?'↓':'↑'}}</span></th>
           </tr></thead>
           <tbody>
             <template v-for="s in sortedScoreStocks" :key="s.symbol">
-              <tr class="row-click" @click="goDetail(s.symbol)">
-                <td style="font-weight:700">{{s.symbol}}</td>
+              <tr>
+                <td style="font-weight:700;text-align:center;cursor:pointer;color:#2563eb" @click="goDetail(s.symbol)">{{s.symbol}}</td>
                 <!-- 基本面 -->
                 <td style="text-align:center">
                   <span v-if="s.fundamental.fund_score!=null">
@@ -403,10 +408,10 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
                 <!-- 警示 -->
                 <td v-if="data.alerts&&data.alerts.holdings" style="white-space:nowrap">
                   <template v-if="data.alerts.holdings[s.symbol]&&data.alerts.holdings[s.symbol].top_level<4">
-                    <span style="font-size:.68rem;font-weight:700;padding:.12rem .4rem;border-radius:.35rem;display:inline-flex;align-items:center;gap:.2rem" :style="'background:'+data.alerts.holdings[s.symbol].top_level_color+'20;color:'+data.alerts.holdings[s.symbol].top_level_color">{{data.alerts.holdings[s.symbol].alerts[0].level_icon}} {{data.alerts.holdings[s.symbol].alerts[0].level_label}}</span>
-                    <div style="font-size:.68rem;color:#64748b;margin-top:.15rem;max-width:14rem;white-space:normal;line-height:1.4">{{data.alerts.holdings[s.symbol].alerts[0].msg}}</div>
+                    <span style="font-size:.68rem;font-weight:700;padding:.12rem .4rem;border-radius:.35rem;display:inline-flex;align-items:center;gap:.2rem" :style="'background:'+data.alerts.holdings[s.symbol].top_level_color+'20;color:'+data.alerts.holdings[s.symbol].top_level_color">{{data.alerts.holdings[s.symbol].alerts[0].level_label}}</span>
+                    <div style="font-size:.68rem;color:#64748b;margin-top:.15rem;white-space:nowrap">{{data.alerts.holdings[s.symbol].alerts[0].msg}}</div>
                   </template>
-                  <span v-else style="font-size:.7rem;color:#059669;font-weight:600">🟢 HOLD</span>
+                  <span v-else style="font-size:.68rem;font-weight:700;padding:.12rem .4rem;border-radius:.35rem;display:inline-flex;align-items:center;background:#05966920;color:#059669">✅ 持有</span>
                 </td>
               </tr>
             </template>
@@ -436,54 +441,13 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
               <span style="font-size:.68rem;color:#64748b;background:#f1f5f9;padding:.1rem .45rem;border-radius:.3rem">fund_score · 滿分 100</span>
             </div>
             <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(14rem,1fr));gap:.75rem">
-              <!-- 營收成長率 -->
-              <div style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
-                <div style="background:#dbeafe;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#1e40af;display:flex;justify-content:space-between"><span>營收成長率</span><span>滿分 30</span></div>
+              <div v-for="(card,ci) in (data.scoring_config&&data.scoring_config.fundamental||[])" :key="ci" style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
+                <div style="background:#dbeafe;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#1e40af;display:flex;justify-content:space-between"><span>{{card.title}}</span><span>{{card.max}}</span></div>
                 <table style="width:100%;font-size:.72rem;border-collapse:collapse">
-                  <tr><td style="padding:.3rem .6rem;color:#334155">&gt;30%</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#16a34a">+30</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">&gt;15%</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#2563eb">+22</td></tr>
-                  <tr><td style="padding:.3rem .6rem;color:#334155">&gt;5%</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+14</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">&gt;0%</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+6</td></tr>
-                  <tr><td style="padding:.3rem .6rem;color:#334155">負成長</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#dc2626">−10</td></tr>
-                </table>
-              </div>
-              <!-- 毛利率 -->
-              <div style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
-                <div style="background:#dbeafe;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#1e40af;display:flex;justify-content:space-between"><span>毛利率</span><span>滿分 25</span></div>
-                <table style="width:100%;font-size:.72rem;border-collapse:collapse">
-                  <tr><td style="padding:.3rem .6rem;color:#334155">&gt;60%</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#16a34a">+25</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">&gt;40%</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+16</td></tr>
-                  <tr><td style="padding:.3rem .6rem;color:#334155">&gt;20%</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+8</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">≤20%</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">0</td></tr>
-                </table>
-              </div>
-              <!-- FCF Margin -->
-              <div style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
-                <div style="background:#dbeafe;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#1e40af;display:flex;justify-content:space-between"><span>FCF Margin</span><span>滿分 15</span></div>
-                <table style="width:100%;font-size:.72rem;border-collapse:collapse">
-                  <tr><td style="padding:.3rem .6rem;color:#334155">&gt;20%</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#16a34a">+15</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">&gt;10%</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+10</td></tr>
-                  <tr><td style="padding:.3rem .6rem;color:#334155">&gt;0%</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+5</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">負數</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#dc2626">−8</td></tr>
-                </table>
-              </div>
-              <!-- 負債/權益比 -->
-              <div style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
-                <div style="background:#dbeafe;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#1e40af;display:flex;justify-content:space-between"><span>負債 / 權益比</span><span>±10</span></div>
-                <table style="width:100%;font-size:.72rem;border-collapse:collapse">
-                  <tr><td style="padding:.3rem .6rem;color:#334155">&lt;0.5</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#16a34a">+10</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">&lt;1.5</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+4</td></tr>
-                  <tr><td style="padding:.3rem .6rem;color:#334155">&gt;5.0</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#dc2626">−10</td></tr>
-                </table>
-              </div>
-              <!-- 分析師評級 -->
-              <div style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
-                <div style="background:#dbeafe;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#1e40af;display:flex;justify-content:space-between"><span>分析師評級</span><span>滿分 20</span></div>
-                <table style="width:100%;font-size:.72rem;border-collapse:collapse">
-                  <tr><td style="padding:.3rem .6rem;color:#334155">&lt;1.8</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#16a34a">+20</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">&lt;2.3</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+14</td></tr>
-                  <tr><td style="padding:.3rem .6rem;color:#334155">&lt;3.0</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+6</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">&gt;4.0</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#dc2626">−10</td></tr>
+                  <tr v-for="(row,ri) in card.rows" :key="ri" :style="ri%2===1?'background:#f8fafc':''">
+                    <td style="padding:.3rem .6rem;color:#334155">{{row.cond}}</td>
+                    <td style="padding:.3rem .6rem;text-align:right;font-weight:700" :style="row.val>0?'color:#16a34a':row.val<0?'color:#dc2626':'color:#475569'">{{row.val>0?'+':''}}{{row.val}}</td>
+                  </tr>
                 </table>
               </div>
             </div>
@@ -501,55 +465,13 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
               <span style="font-size:.68rem;color:#64748b;background:#f1f5f9;padding:.1rem .45rem;border-radius:.3rem">tech_score · 滿分 100</span>
             </div>
             <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(14rem,1fr));gap:.75rem">
-              <!-- 趨勢狀態 -->
-              <div style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
-                <div style="background:#f3e8ff;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#6b21a8;display:flex;justify-content:space-between"><span>趨勢狀態</span><span>滿分 40</span></div>
+              <div v-for="(card,ci) in (data.scoring_config&&data.scoring_config.technical||[])" :key="ci" style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
+                <div style="background:#f3e8ff;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#6b21a8;display:flex;justify-content:space-between"><span>{{card.title}}</span><span>{{card.max}}</span></div>
                 <table style="width:100%;font-size:.72rem;border-collapse:collapse">
-                  <tr><td style="padding:.3rem .6rem;color:#334155">多頭排列 (UPTREND)</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#16a34a">40</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">多頭超賣 (OVERSOLD_UPTREND)</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">35</td></tr>
-                  <tr><td style="padding:.3rem .6rem;color:#334155">跌深反彈 (RECOVERY)</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">25</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">盤整整固 (CONSOLIDATION)</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">20</td></tr>
-                  <tr><td style="padding:.3rem .6rem;color:#334155">跌破支撐 (BREAKDOWN)</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#d97706">10</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">空頭排列 (DOWNTREND)</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#dc2626">0</td></tr>
-                </table>
-              </div>
-              <!-- RSI-14 -->
-              <div style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
-                <div style="background:#f3e8ff;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#6b21a8;display:flex;justify-content:space-between"><span>RSI-14</span><span>滿分 20</span></div>
-                <table style="width:100%;font-size:.72rem;border-collapse:collapse">
-                  <tr><td style="padding:.3rem .6rem;color:#334155">40 – 65</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#16a34a">+20</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">30–40 / 65–75</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+12</td></tr>
-                  <tr><td style="padding:.3rem .6rem;color:#334155">&lt;30（超賣）</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+8</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">&gt;75（超買）</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#d97706">+5</td></tr>
-                </table>
-              </div>
-              <!-- MACD -->
-              <div style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
-                <div style="background:#f3e8ff;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#6b21a8;display:flex;justify-content:space-between"><span>MACD</span><span>滿分 20</span></div>
-                <table style="width:100%;font-size:.72rem;border-collapse:collapse">
-                  <tr><td style="padding:.3rem .6rem;color:#334155">多頭 &gt; 零軸</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#16a34a">+20</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">多頭 &lt; 零軸</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+12</td></tr>
-                  <tr><td style="padding:.3rem .6rem;color:#334155">空頭 &gt; 零軸</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#d97706">+6</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">空頭 &lt; 零軸</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#dc2626">0</td></tr>
-                </table>
-              </div>
-              <!-- 布林帶 %B -->
-              <div style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
-                <div style="background:#f3e8ff;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#6b21a8;display:flex;justify-content:space-between"><span>布林帶 %B</span><span>滿分 20</span></div>
-                <table style="width:100%;font-size:.72rem;border-collapse:collapse">
-                  <tr><td style="padding:.3rem .6rem;color:#334155">0.3 – 0.7</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#16a34a">+20</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">0.1 – 0.3</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+14</td></tr>
-                  <tr><td style="padding:.3rem .6rem;color:#334155">&lt;0.1 或 &gt;0.9</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#d97706">+8</td></tr>
-                </table>
-              </div>
-              <!-- ATR 波動率 -->
-              <div style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
-                <div style="background:#f3e8ff;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#6b21a8;display:flex;justify-content:space-between"><span>ATR 波動率</span><span>滿分 10</span></div>
-                <table style="width:100%;font-size:.72rem;border-collapse:collapse">
-                  <tr><td style="padding:.3rem .6rem;color:#334155">低波 (&lt;2%)</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#16a34a">+10</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">正常 (&lt;4%)</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+6</td></tr>
-                  <tr><td style="padding:.3rem .6rem;color:#334155">高波 (&lt;6%)</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#d97706">+2</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">極端 (≥6%)</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#dc2626">0</td></tr>
+                  <tr v-for="(row,ri) in card.rows" :key="ri" :style="ri%2===1?'background:#f8fafc':''">
+                    <td style="padding:.3rem .6rem;color:#334155">{{row.cond}}</td>
+                    <td style="padding:.3rem .6rem;text-align:right;font-weight:700" :style="row.val>0?'color:#16a34a':row.val<0?'color:#dc2626':'color:#475569'">{{row.val>0?'+':''}}{{row.val}}</td>
+                  </tr>
                 </table>
               </div>
             </div>
@@ -563,44 +485,13 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
               <span style="font-size:.68rem;color:#64748b;background:#f1f5f9;padding:.1rem .45rem;border-radius:.3rem">risk_score · 滿分 100 · 分數愈高風險愈低</span>
             </div>
             <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(14rem,1fr));gap:.75rem">
-              <!-- VaR-95 -->
-              <div style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
-                <div style="background:#fef3c7;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#92400e;display:flex;justify-content:space-between"><span>VaR-95（1日）</span><span>滿分 30</span></div>
+              <div v-for="(card,ci) in (data.scoring_config&&data.scoring_config.risk||[])" :key="ci" style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
+                <div style="background:#fef3c7;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#92400e;display:flex;justify-content:space-between"><span>{{card.title}}</span><span>{{card.max}}</span></div>
                 <table style="width:100%;font-size:.72rem;border-collapse:collapse">
-                  <tr><td style="padding:.3rem .6rem;color:#334155">損失 &lt;2%</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#16a34a">+30</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">損失 &lt;4%</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+20</td></tr>
-                  <tr><td style="padding:.3rem .6rem;color:#334155">損失 &lt;6%</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#d97706">+10</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">損失 ≥6%</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#dc2626">0</td></tr>
-                </table>
-              </div>
-              <!-- Sharpe Ratio -->
-              <div style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
-                <div style="background:#fef3c7;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#92400e;display:flex;justify-content:space-between"><span>Sharpe Ratio</span><span>滿分 25</span></div>
-                <table style="width:100%;font-size:.72rem;border-collapse:collapse">
-                  <tr><td style="padding:.3rem .6rem;color:#334155">&gt;1.0</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#16a34a">+25</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">&gt;0.5</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+15</td></tr>
-                  <tr><td style="padding:.3rem .6rem;color:#334155">&gt;0</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+5</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">≤0</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#dc2626">0</td></tr>
-                </table>
-              </div>
-              <!-- Sortino Ratio -->
-              <div style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
-                <div style="background:#fef3c7;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#92400e;display:flex;justify-content:space-between"><span>Sortino Ratio</span><span>滿分 25</span></div>
-                <table style="width:100%;font-size:.72rem;border-collapse:collapse">
-                  <tr><td style="padding:.3rem .6rem;color:#334155">&gt;1.5</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#16a34a">+25</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">&gt;1.0</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+15</td></tr>
-                  <tr><td style="padding:.3rem .6rem;color:#334155">&gt;0</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+5</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">≤0</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#dc2626">0</td></tr>
-                </table>
-              </div>
-              <!-- Beta -->
-              <div style="border:1px solid #e2e8f0;border-radius:.65rem;overflow:hidden">
-                <div style="background:#fef3c7;padding:.35rem .6rem;font-size:.74rem;font-weight:700;color:#92400e;display:flex;justify-content:space-between"><span>Beta（yfinance）</span><span>滿分 20</span></div>
-                <table style="width:100%;font-size:.72rem;border-collapse:collapse">
-                  <tr><td style="padding:.3rem .6rem;color:#334155">&lt;0.8</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#16a34a">+20</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">&lt;1.2</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#475569">+15</td></tr>
-                  <tr><td style="padding:.3rem .6rem;color:#334155">&lt;1.5</td><td style="padding:.3rem .6rem;text-align:right;font-weight:600;color:#d97706">+5</td></tr>
-                  <tr style="background:#f8fafc"><td style="padding:.3rem .6rem;color:#334155">≥1.5</td><td style="padding:.3rem .6rem;text-align:right;font-weight:700;color:#dc2626">0</td></tr>
+                  <tr v-for="(row,ri) in card.rows" :key="ri" :style="ri%2===1?'background:#f8fafc':''">
+                    <td style="padding:.3rem .6rem;color:#334155">{{row.cond}}</td>
+                    <td style="padding:.3rem .6rem;text-align:right;font-weight:700" :style="row.val>0?'color:#16a34a':row.val<0?'color:#dc2626':'color:#475569'">{{row.val>0?'+':''}}{{row.val}}</td>
+                  </tr>
                 </table>
               </div>
             </div>
@@ -624,7 +515,7 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
     <div v-else class="panel anim" style="padding:1.25rem">
       <div style="display:flex;align-items:center;gap:.5rem;margin-bottom:.85rem">
         <div style="padding:.4rem;background:#ede9fe;border-radius:.5rem;color:#7c3aed;display:flex"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="2"/><line x1="3" y1="9" x2="21" y2="9"/><line x1="9" y1="21" x2="9" y2="9"/></svg></div>
-        <h3 style="font-size:.95rem;font-weight:700;color:#0f172a">候選清單 - 個股評分一覽</h3>
+        <h3 style="font-size:.95rem;font-weight:700;color:#0f172a">個股評分一覽</h3>
         <span style="margin-left:auto;font-size:.7rem;color:#94a3b8">基本面 / 技術面 / 風險  均為 0–100，分數愈高愈佳</span>
       </div>
       <div style="overflow-x:auto">
@@ -636,12 +527,12 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft 
             <th style="text-align:center;cursor:pointer" @click="toggleScoreSort('risk')">風險 <span v-if="sortScoreKey==='risk'">{{sortScoreDesc?'↓':'↑'}}</span></th>
             <th style="text-align:center">趨勢</th>
             <th style="text-align:center">消息面</th>
-            <th v-if="data.alerts&&data.alerts.candidates" style="text-align:left">警示/信號</th>
+            <th v-if="data.alerts&&data.alerts.candidates" style="text-align:left;cursor:pointer" @click="toggleScoreSort('csignal')">警示/信號 <span v-if="sortScoreKey==='csignal'">{{sortScoreDesc?'↓':'↑'}}</span></th>
           </tr></thead>
           <tbody>
             <template v-for="s in sortedScoreCandidates" :key="s.symbol">
-              <tr class="row-click" @click="goDetail(s.symbol)">
-                <td style="font-weight:700">{{s.symbol}}</td>
+              <tr>
+                <td style="font-weight:700;cursor:pointer;color:#2563eb" @click="goDetail(s.symbol)">{{s.symbol}}</td>
                 <!-- 基本面 -->
                 <td style="text-align:center">
                   <span v-if="s.fundamental&&s.fundamental.fund_score!=null">
@@ -996,16 +887,19 @@ createApp({
     sortedScoreStocks() {
       let arr = this.data.stocks.filter(s => s.shares > 0);
       if (!this.sortScoreKey) return arr;
+      const newsOrd = {'strongly_bullish':5,'bullish':4,'neutral':3,'mixed':2,'bearish':1,'strongly_bearish':0};
       return arr.sort((a, b) => {
         let valA = 0, valB = 0;
         if (this.sortScoreKey === 'fund') { valA = a.fundamental?.fund_score || 0; valB = b.fundamental?.fund_score || 0; }
         else if (this.sortScoreKey === 'tech') { valA = a.technical?.tech_score || 0; valB = b.technical?.tech_score || 0; }
         else if (this.sortScoreKey === 'risk') { valA = a.technical?.risk_score || 0; valB = b.technical?.risk_score || 0; }
+        else if (this.sortScoreKey === 'news') { valA = newsOrd[this.newsSentimentKey(a)] ?? -1; valB = newsOrd[this.newsSentimentKey(b)] ?? -1; }
+        else if (this.sortScoreKey === 'alert') { const alertOrd={3:5,4:4,2:3,1:2,0:1}; const h=this.data.alerts?.holdings||{}; valA=alertOrd[h[a.symbol]?.top_level??4]??4; valB=alertOrd[h[b.symbol]?.top_level??4]??4; }
         return this.sortScoreDesc ? valB - valA : valA - valB;
       });
     },
     candidateStocks(){const list=Array.isArray(this.data.candidates)?this.data.candidates:[];const set=new Set(list.map(s=>String(s||'').toUpperCase()));const raw=this.data.stocks.filter(s=>s.category==='候選'||set.has(String(s.symbol||'').toUpperCase()));const seen=new Map();raw.forEach(s=>{const sym=s.symbol;if(!seen.has(sym)||s.category==='候選')seen.set(sym,s);});return Array.from(seen.values());},
-    sortedScoreCandidates(){let arr=this.candidateStocks.slice();if(!this.sortScoreKey)return arr;return arr.sort((a,b)=>{let va=0,vb=0;if(this.sortScoreKey==='fund'){va=a.fundamental?.fund_score||0;vb=b.fundamental?.fund_score||0;}else if(this.sortScoreKey==='tech'){va=a.technical?.tech_score||0;vb=b.technical?.tech_score||0;}else if(this.sortScoreKey==='risk'){va=a.technical?.risk_score||0;vb=b.technical?.risk_score||0;}return this.sortScoreDesc?vb-va:va-vb;});},
+    sortedScoreCandidates(){let arr=this.candidateStocks.slice();if(!this.sortScoreKey)return arr;return arr.sort((a,b)=>{let va=0,vb=0;if(this.sortScoreKey==='fund'){va=a.fundamental?.fund_score||0;vb=b.fundamental?.fund_score||0;}else if(this.sortScoreKey==='tech'){va=a.technical?.tech_score||0;vb=b.technical?.tech_score||0;}else if(this.sortScoreKey==='risk'){va=a.technical?.risk_score||0;vb=b.technical?.risk_score||0;}else if(this.sortScoreKey==='csignal'){const ca=this.getCandAlert(a.symbol);const cb=this.getCandAlert(b.symbol);va=ca?.composite??-999;vb=cb?.composite??-999;}return this.sortScoreDesc?vb-va:va-vb;});},
     monHoldingAlerts(){const h=this.data.alerts&&this.data.alerts.holdings||{};return Object.values(h).filter(x=>x.top_level<4).sort((a,b)=>a.top_level-b.top_level)},
     pp(){const s=this.cur;if(!s.price||!s.technical||!s.technical.high_52w||!s.technical.low_52w)return 50;const r=s.technical.high_52w-s.technical.low_52w;return r<=0?50:Math.max(0,Math.min(100,(s.price-s.technical.low_52w)/r*100))},
     vr(){const t=this.cur.technical||{};return t.current_vol&&t.avg_vol_20d?t.current_vol/t.avg_vol_20d:0},
@@ -1018,7 +912,7 @@ createApp({
     competitorData(){const cur=this.cur;if(!cur.competitors||!cur.competitors.length)return[];const result=[];result.push(this.formatCompetitor(cur,true));cur.competitors.forEach(sym=>{const stock=this.data.stocks.find(s=>s.symbol===sym);if(stock)result.push(this.formatCompetitor(stock,false))});return result},
     visPos(){return this.data.allocation.positions.filter(p=>p.alloc_pct>=0.5&&p.category!=='競品參考')},
     totalPnlPct(){const c=this.data.allocation.total_cost-this.data.allocation.cash;return c>0?(this.data.allocation.total_pnl/c)*100:0},
-    actualStocksCount(){return this.data.stocks.filter(s=>s.category!=='競品參考').length},
+    actualStocksCount(){return this.data.stocks.filter(s=>s.shares>0).length},
     categories(){const map={};this.data.allocation.positions.forEach(p=>{const c=p.category||'未分類';if(c==='競品參考'||c==='候選')return;if(!map[c])map[c]={name:c,items:[],totalMV:0,totalPnl:0,totalCost:0,open:true};map[c].items.push(p);map[c].totalMV+=p.market_value;map[c].totalPnl+=p.pnl;map[c].totalCost+=p.cost_total});const order=['長期霸主','長期穩健','中期題材(股票)','短期投機(股票)','未分類'];return order.filter(k=>map[k]).map(k=>map[k]).concat(Object.keys(map).filter(k=>!order.includes(k)).map(k=>map[k]))},
   },
   methods:{
@@ -1068,7 +962,7 @@ createApp({
       return'';
     },
     newsSentLabel(s){const k=this.newsSentimentKey(s);if(!k)return'—';if(k==='strongly_bullish')return'🔥 強力利多';if(k==='bullish')return'利多';if(k==='mixed')return'分歧';if(k==='bearish')return'利空';if(k==='strongly_bearish')return'🚨 強力利空';return'中立'},
-    newsSentStyle(s){const k=this.newsSentimentKey(s);if(!k)return'color:#94a3b8;font-size:.78rem';if(k==='strongly_bullish')return'background:#14532d;color:#fff;border:1px solid #166534';if(k==='bullish')return'background:#dcfce7;color:#166534;border:1px solid #bbf7d0';if(k==='strongly_bearish')return'background:#450a0a;color:#fff;border:1px solid #991b1b';if(k==='bearish')return'background:#fee2e2;color:#991b1b;border:1px solid #fecaca';if(k==='mixed')return'background:#fef9c3;color:#854d0e;border:1px solid #fde68a';return'background:#f1f5f9;color:#475569;border:1px solid #e2e8f0'},
+    newsSentStyle(s){const k=this.newsSentimentKey(s);if(!k)return'color:#94a3b8;font-size:.78rem';if(k==='strongly_bullish')return'background:#16a34a;color:#fff;border:1px solid #15803d';if(k==='bullish')return'background:#bbf7d0;color:#14532d;border:1px solid #4ade80';if(k==='strongly_bearish')return'background:#450a0a;color:#fff;border:1px solid #991b1b';if(k==='bearish')return'background:#fee2e2;color:#991b1b;border:1px solid #fecaca';if(k==='mixed')return'background:#fef9c3;color:#854d0e;border:1px solid #fde68a';return'background:#f1f5f9;color:#475569;border:1px solid #e2e8f0'},
     stockName(sym){const s=this.data.stocks.find(x=>x.symbol===sym);return s?s.company:sym},
     stockRec(sym){const s=this.data.stocks.find(x=>x.symbol===sym);return s?s.recommendation:'unknown'},
     fmtMoney(v){if(v==null)return'N/A';return'$'+v.toLocaleString('en-US',{minimumFractionDigits:0,maximumFractionDigits:0})},

@@ -1,0 +1,111 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-04-04",
+  "source_file": "cache/2026-04-04/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管股價近期經歷回調，但華爾街分析師與市場專家普遍看好 CrowdStrike 在 AI 安全領域的領先地位及強勁的營收成長潛力，並透過策略合作與產品升級持續鞏固市場份額。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Wall Street Says Buy CrowdStrike And Watch It Gain $100 This Year",
+      "publisher": "Yahoo",
+      "date": "2026-04-01 22:24",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Benchmark 分析師 Yi Fu Lee 給予買入評級，並設定 500 美元目標價，顯示對公司未來成長空間的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike Gains 4% as Morgan Stanley Names It a Top AI Security Bet",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 02:33",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "摩根士丹利將 CrowdStrike 列為 AI 安全領域的首選標的，強化了市場對其技術競爭力的認可。"
+    },
+    {
+      "rank": 3,
+      "title": "CrowdStrike and HCLTech Expand Strategic Partnership with AI-Powered Continuous Threat Exposure Management Services",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 20:00",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 HCLTech 擴大合作，透過 AI 驅動的威脅管理服務，有助於進一步擴大企業客戶群與市場滲透率。"
+    },
+    {
+      "rank": 4,
+      "title": "Will Rising Adoption of Next-Gen SIEM Boost CRWD's Revenue Growth?",
+      "publisher": "Yahoo",
+      "date": "2026-04-01 22:17",
+      "impact": "medium",
+      "category": "財報表現",
+      "reason": "下一代 SIEM 產品年度經常性收入 (ARR) 超過 5.85 億美元，年增率超過 75 %，證明核心業務成長強勁。"
+    },
+    {
+      "rank": 5,
+      "title": "Jim Cramer Defends CrowdStrike Against Anthropic Narrative",
+      "publisher": "Yahoo",
+      "date": "2026-04-02 00:27",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "Jim Cramer 公開反駁 Anthropic 對 CrowdStrike 的威脅論，消除了市場對競爭格局的過度擔憂。"
+    },
+    {
+      "rank": 6,
+      "title": "CrowdStrike Stock Jumps as Wolfe Research Sees Buying Opportunity",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 02:23",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Wolfe Research 的升級報告帶動股價上漲，市場將其視為逢低買入的良機。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike Plunges 21% in 6 Months: Time to Hold or Fold the Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-04-01 22:23",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "指出過去六個月股價下跌 21 %，主要受營收成長放緩及高估值壓力影響，反映投資人對成長持續性的疑慮。"
+    },
+    {
+      "rank": 2,
+      "title": "MSFT vs. PLTR vs. CRWD: Down 25% or More, Which Beaten-Down Tech Stock Is the Best Buy Now?",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 21:13",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 CrowdStrike 列為近期表現疲軟的科技股之一，反映出市場對大型科技股在 2026 年面臨的成長阻力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Q4 Cybersecurity Earnings: CrowdStrike (NASDAQ:CRWD) Earns Top Marks",
+      "publisher": "Yahoo",
+      "date": "2026-04-02 01:59",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "總結第四季財報表現，確認公司為網路安全領域的領先者，屬於對已發布財報的例行性回顧。"
+    },
+    {
+      "rank": 2,
+      "title": "Stocks making the biggest moves premarket: Sysco, CrowdStrike, Alcoa & more",
+      "publisher": "CNBC",
+      "date": "2026-03-30 15:29",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為盤前交易動態的例行報導，未提供新的基本面分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

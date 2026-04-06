@@ -1,0 +1,120 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla",
+  "analysis_date": "2026-04-04",
+  "source_file": "cache/2026-04-04/holdings/news/TSLA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 8,
+    "bearish_count": 6,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場高度關注即將公布的第 1 季交車數據，同時在自動駕駛技術進展與地緣政治風險之間拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Newest Version Of Tesla FSD 'Probably' Launching This Week, Elon Musk Says",
+      "publisher": "Yahoo",
+      "date": "2026-04-02 02:41",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "執行長 Elon Musk 確認全自動駕駛 (FSD) 系統更新即將發布，這被視為推動 Tesla 邁向自動駕駛商業化與長期估值的關鍵催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Update: Market Chatter: Tesla's March Car Registrations Surge in Key European Markets",
+      "publisher": "Yahoo",
+      "date": "2026-04-01 20:03",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "歐洲市場註冊量激增顯示需求回溫，有助於抵銷市場對第 1 季交付量的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Tesla (TSLA) Rises Higher Than Market: Key Facts",
+      "publisher": "Yahoo",
+      "date": "2026-04-02 05:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價表現優於大盤，反映出投資人對即將公布的交付數據抱持樂觀預期。"
+    },
+    {
+      "rank": 4,
+      "title": "Tesla’s Path to $1,000 Per Share Runs Through the Autonomous Vehicle Boom",
+      "publisher": "Yahoo",
+      "date": "2026-04-02 00:37",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析指出自動駕駛業務是 Tesla 達成長期高估值的核心，強化了市場對其轉型為 AI 與機器人公司的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Canaccord slashes Tesla price target by $100",
+      "publisher": "CNBC",
+      "date": "2026-03-31 20:09",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Canaccord 大幅下調目標價 100 美元，反映出華爾街對公司獲利能力與交付成長放緩的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "GLJ Maintains Sell Rating on Tesla (TSLA)",
+      "publisher": "Yahoo",
+      "date": "2026-04-02 03:30",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "GLJ Research 重申賣出評級，持續對 Tesla 的基本面與競爭壓力提出負面看法。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon Is Starting to Put Tesla in the Rearview Mirror",
+      "publisher": "Yahoo",
+      "date": "2026-04-02 02:11",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "報導指出 Tesla 在關鍵未來業務領域面臨 Amazon 等科技巨頭的競爭威脅，可能削弱其市場領先地位。"
+    },
+    {
+      "rank": 4,
+      "title": "Nvidia, Apple, Tesla on Iran's Hit List as Tehran Warns of Imminent Attacks",
+      "publisher": "Yahoo",
+      "date": "2026-04-01 21:09",
+      "impact": "medium",
+      "category": "地緣政治",
+      "reason": "地緣政治風險升溫，Tesla 被列入潛在威脅名單，增加了市場的不確定性與避險情緒。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Tesla Stock Rises Ahead of Delivery Numbers. Brace for Volatility.",
+      "publisher": "Yahoo",
+      "date": "2026-04-01 22:05",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "市場正等待第 1 季交付數據，預期波動性將加劇，目前處於觀望狀態。"
+    },
+    {
+      "rank": 2,
+      "title": "Dow Jones Futures: Stock Market Rallies Into Trump's Iran Speech",
+      "publisher": "Yahoo",
+      "date": "2026-04-02 05:42",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價受整體大盤情緒與地緣政治演說影響，非公司基本面因素。"
+    },
+    {
+      "rank": 3,
+      "title": "'The Algorithm': Former Tesla president Jon McNeill on the Elon Musk playbook",
+      "publisher": "CNBC",
+      "date": "2026-04-01 17:09",
+      "impact": "low",
+      "category": "人物訪談",
+      "reason": "前總裁對公司管理風格的評論，屬於歷史回顧與管理分析，對短期股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

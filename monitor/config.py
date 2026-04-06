@@ -59,6 +59,35 @@ def get_scoring_weights(config: dict | None = None) -> dict:
     return cfg.get("scoring_weights", {})
 
 
+def get_candidate_signals(config: dict | None = None) -> dict:
+    """取得候選股信號分級設定（candidate_signals 區塊）。沒有設定時回傳程式碼預設值。"""
+    cfg = config or load_monitor_config()
+    return cfg.get("candidate_signals", _default_candidate_signals())
+
+
+def _default_candidate_signals() -> dict:
+    return {
+        "tiers": [
+            {"min_score": 75, "label": "💎 強力買入", "color": "#7c3aed", "require_uptrend": True},
+            {"min_score": 65, "label": "✅ 可以買入", "color": "#059669"},
+            {"min_score": 52, "label": "👀 觀察等候", "color": "#eab308"},
+            {"min_score": 40, "label": "⏸️  尚未就緒",  "color": "#94a3b8"},
+            {"min_score":  0, "label": "❌ 不予以考慮", "color": "#dc2626"},
+        ],
+        "disqualify": {
+            "fund_score_min":   40,
+            "tech_score_min":   35,
+            "disqualify_label": "⏸️  尚未就緒",
+        },
+        "disqualify_soft": {
+            "fund_score_min": 50,
+            "tech_score_min": 45,
+        },
+        "sector_cap_for_candidate": 40,
+        "hysteresis_band": 3,
+    }
+
+
 def _strip_meta(obj):
     """遞迴移除所有以 _ 開頭的說明 key。"""
     if isinstance(obj, dict):

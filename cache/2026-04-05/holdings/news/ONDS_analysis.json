@@ -1,0 +1,93 @@
+{
+  "ticker": "ONDS",
+  "company": "Ondas",
+  "analysis_date": "2026-04-04",
+  "source_file": "cache/2026-04-04/holdings/news/ONDS.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 4,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司積極透過併購 World View 拓展至「近太空」防禦技術領域，雖帶動市場動能與股價上漲，但股權稀釋風險與合資企業估值疑慮仍對投資人信心構成壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ondas Wraps Up World View Acquisition, Expands Reach In Defense Tech",
+      "publisher": "Benzinga",
+      "date": "2026-04-01 21:17",
+      "impact": "high",
+      "category": "企業併購",
+      "reason": "成功完成 World View 收購案，顯著增強了公司在 ISR（情報、監視與偵察）領域的技術能力，為未來營收成長提供明確驅動力。"
+    },
+    {
+      "rank": 2,
+      "title": "Ondas Inc (ONDS) Climbs 8.97% as Firm Ventures Into ‘Near-Space’ Industry",
+      "publisher": "Insider Monkey",
+      "date": "2026-04-03 06:41",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場對公司進入「近太空」產業給予正面回饋，帶動股價單日上漲 8.97 %，顯示投資人對其防禦科技轉型策略的認可。"
+    },
+    {
+      "rank": 3,
+      "title": "Ondas Expands Into Stratospheric Intelligence With Palantir Defense Platform Bet",
+      "publisher": "Simply Wall St.",
+      "date": "2026-04-03 09:10",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "透過與 Palantir 防禦平台的整合，公司在平流層情報領域的佈局更具競爭力，有助於提升其在國防供應鏈中的地位。"
+    },
+    {
+      "rank": 4,
+      "title": "Ondas Inc. Flywheel Gains Momentum, Vertical Liftoff Imminent",
+      "publisher": "MarketBeat",
+      "date": "2026-03-27 18:36",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析指出公司業務動能正在增強，預期未來營運將出現顯著成長，為股價提供技術面支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ondas Files Prospectus To Register The Offer And Sale Of 4.4M Shares Of Common Stock By The Selling Stockholders — -SEC Filing",
+      "publisher": "Benzinga",
+      "date": "2026-04-03 01:29",
+      "impact": "high",
+      "category": "股權融資",
+      "reason": "公司提交註冊 440 萬股普通股供售股股東出售，此舉將導致股權稀釋，對現有股東權益造成短期負面壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Ondas Drone Defense JV With Heidelberg Raises Questions On Valuation Gap",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-31 13:20",
+      "impact": "medium",
+      "category": "企業治理",
+      "reason": "市場對與 Heidelberg 的無人機防禦合資企業提出估值疑慮，質疑其資產定價與實際營運效益之間的落差。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ondas vs. Unusual Machines: Which Drone Stock Offers Better Upside?",
+      "publisher": "Zacks",
+      "date": "2026-03-30 14:40",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "僅為產業內的同業比較分析，並未提供具體的買賣建議或重大營運變動，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Ondas Mistral Deal Recasts Defense Role And Puts Focus On Execution",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-26 21:06",
+      "impact": "low",
+      "category": "策略轉型",
+      "reason": "討論 Mistral 交易對公司防禦角色定位的影響，重點在於後續執行力，屬於中性觀察報告。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

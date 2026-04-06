@@ -3,35 +3,43 @@ import numpy as np
 
 from .risk import compute_risk_score
 
-# 預設的技術指標權重配置
+# 預設的技術指標權重配置（v2）
 DEFAULT_TECH_WEIGHTS = {
     'trend': {
-        'UPTREND': 40, 'OVERSOLD_UPTREND': 35, 'RECOVERY': 25,
-        'CONSOLIDATION': 20, 'BREAKDOWN': 10, 'DOWNTREND': 0, 'UNKNOWN': 20
+        'UPTREND': 35, 'OVERSOLD_UPTREND': 30, 'RECOVERY': 20,
+        'CONSOLIDATION': 15, 'BREAKDOWN': 5, 'DOWNTREND': 0, 'UNKNOWN': 15
     },
     'rsi': {
-        'healthy_momentum': 20, # 40 <= rsi <= 65
-        'normal': 12,           # 30 <= rsi < 40 or 65 < rsi <= 75
-        'overheated': 5,        # rsi > 75
-        'oversold': 8           # rsi < 30
+        'peak_momentum': 20,    # 50 <= rsi <= 70
+        'strong_momentum': 15,  # 70 < rsi <= 80（強勢動能）
+        'normal': 12,           # 40 <= rsi < 50
+        'oversold': 8,          # rsi < 30（含 30-40 弱勢區）
+        'overheated': 5         # rsi > 80（過熱）
     },
     'macd': {
-        'bull_above_zero': 20, # macd > macd_sig and macd > 0
-        'bull_below_zero': 12, # macd > macd_sig
-        'bear_below_zero': 0,  # macd < macd_sig and macd < 0
-        'bear_above_zero': 6   # macd < macd_sig and macd > 0
+        'bull_above_zero': 15,  # macd > macd_sig and macd > 0
+        'bull_below_zero': 10,  # macd > macd_sig
+        'bear_below_zero': 0,   # macd < macd_sig and macd < 0
+        'bear_above_zero': 4    # macd < macd_sig and macd > 0
     },
     'bb': {
-        'mid': 10,       # 0.3 <= bb <= 0.7
-        'lower': 7,      # 0.1 <= bb < 0.3
-        'below_low': 4,  # bb < 0.1
-        'above_high': 4  # bb > 0.9
+        'mid': 15,       # 0.4 <= bb <= 0.7
+        'upper': 10,     # 0.7 < bb <= 0.9（上軌趨近，強勢）
+        'lower': 8,      # 0.2 <= bb < 0.4
+        'breakout': 5,   # bb > 0.9（突破上軌）
+        'near_low': 2    # bb < 0.2（接近下軌）
+    },
+    'vol_ratio': {
+        'up_high': 10,   # 上漲 + 量增（>1.2x）
+        'up_flat': 6,    # 上漲 + 量平（0.8–1.2x）
+        'down_low': 4,   # 下跌 + 量縮（<0.8x）
+        'down_high': 0   # 下跌 + 量增（>1.2x）
     },
     'atr': {
-        'low_vol': 10,      # atr_pct < 0.02
-        'normal_vol': 6,    # atr_pct < 0.04
-        'high_vol': 2,      # atr_pct < 0.06
-        'extreme_vol': 0    # atr_pct >= 0.06
+        'low_vol': 5,       # atr_pct < 0.03
+        'normal_vol': 3,    # atr_pct < 0.05
+        'high_vol': 1,      # atr_pct < 0.07
+        'extreme_vol': 0    # atr_pct >= 0.07
     }
 }
 
@@ -118,10 +126,10 @@ def classify_trend(close_val, ma20, ma50, ma200, rsi) -> str:
         return "CONSOLIDATION"
 
 
-def compute_tech_score(trend, rsi, macd, macd_sig, bb_pct, atr_pct, weights=None) -> float:
+def compute_tech_score(trend, rsi, macd, macd_sig, bb_pct, atr_pct,
+                       weights=None, vol_ratio=None, price_up=None) -> float:
     """
-    技術健康分數 0–100
-    可以動態傳入 weights 來覆蓋預設權重。
+    技術健康分數 0–100（v2：新增成交量比、調整 RSI/BB/ATR 區間）
 
     權重優先順序：
         1. weights 參數（直接傳入）
@@ -138,53 +146,69 @@ def compute_tech_score(trend, rsi, macd, macd_sig, bb_pct, atr_pct, weights=None
         weights = DEFAULT_TECH_WEIGHTS
 
     score = 0.0
-    score += weights.get('trend', {}).get(trend, 20)
+    score += weights.get('trend', {}).get(trend, 15)
 
-    # RSI 分
-    if not pd.isna(rsi):
+    # RSI 分（v2：50-70 最佳，70-80 強勢動能不懲罰）
+    if rsi is not None and not pd.isna(rsi):
         w_rsi = weights.get('rsi', {})
-        if 40 <= rsi <= 65:
-            score += w_rsi.get('healthy_momentum', 20)
-        elif 30 <= rsi < 40 or 65 < rsi <= 75:
+        if 50 <= rsi <= 70:
+            score += w_rsi.get('peak_momentum', 20)
+        elif 70 < rsi <= 80:
+            score += w_rsi.get('strong_momentum', 15)
+        elif 40 <= rsi < 50:
             score += w_rsi.get('normal', 12)
-        elif rsi > 75:
-            score += w_rsi.get('overheated', 5)
-        elif rsi < 30:
+        elif rsi <= 40:
             score += w_rsi.get('oversold', 8)
+        else:  # rsi > 80
+            score += w_rsi.get('overheated', 5)
 
     # MACD 分
-    if not pd.isna(macd) and not pd.isna(macd_sig):
+    if macd is not None and macd_sig is not None and not pd.isna(macd) and not pd.isna(macd_sig):
         w_macd = weights.get('macd', {})
         if macd > macd_sig and macd > 0:
-            score += w_macd.get('bull_above_zero', 20)
+            score += w_macd.get('bull_above_zero', 15)
         elif macd > macd_sig:
-            score += w_macd.get('bull_below_zero', 12)
+            score += w_macd.get('bull_below_zero', 10)
         elif macd < macd_sig and macd < 0:
             score += w_macd.get('bear_below_zero', 0)
         else:
-            score += w_macd.get('bear_above_zero', 6)
+            score += w_macd.get('bear_above_zero', 4)
 
-    # 布林帶位置
-    if not pd.isna(bb_pct):
+    # 布林帶位置（v2：區分上下軌，上軌趨近視為強勢）
+    if bb_pct is not None and not pd.isna(bb_pct):
         w_bb = weights.get('bb', {})
-        if 0.3 <= bb_pct <= 0.7:
-            score += w_bb.get('mid', 10)
-        elif 0.1 <= bb_pct < 0.3:
-            score += w_bb.get('lower', 7)
-        elif bb_pct < 0.1:
-            score += w_bb.get('below_low', 4)
+        if 0.4 <= bb_pct <= 0.7:
+            score += w_bb.get('mid', 15)
+        elif 0.7 < bb_pct <= 0.9:
+            score += w_bb.get('upper', 10)
+        elif 0.2 <= bb_pct < 0.4:
+            score += w_bb.get('lower', 8)
         elif bb_pct > 0.9:
-            score += w_bb.get('above_high', 4)
+            score += w_bb.get('breakout', 5)
+        else:  # bb_pct < 0.2
+            score += w_bb.get('near_low', 2)
 
-    # ATR 正規化分
-    if not pd.isna(atr_pct):
+    # 成交量比（v2 新增）
+    if vol_ratio is not None and not pd.isna(vol_ratio) and price_up is not None:
+        w_vol = weights.get('vol_ratio', {})
+        if price_up and vol_ratio > 1.2:
+            score += w_vol.get('up_high', 10)
+        elif price_up and vol_ratio >= 0.8:
+            score += w_vol.get('up_flat', 6)
+        elif not price_up and vol_ratio < 0.8:
+            score += w_vol.get('down_low', 4)
+        else:  # not price_up and vol_ratio >= 0.8（下跌量增，最差）
+            score += w_vol.get('down_high', 0)
+
+    # ATR 正規化分（v2：放寬門檻適應科技股高 beta）
+    if atr_pct is not None and not pd.isna(atr_pct):
         w_atr = weights.get('atr', {})
-        if atr_pct < 0.02:
-            score += w_atr.get('low_vol', 10)
-        elif atr_pct < 0.04:
-            score += w_atr.get('normal_vol', 6)
-        elif atr_pct < 0.06:
-            score += w_atr.get('high_vol', 2)
+        if atr_pct < 0.03:
+            score += w_atr.get('low_vol', 5)
+        elif atr_pct < 0.05:
+            score += w_atr.get('normal_vol', 3)
+        elif atr_pct < 0.07:
+            score += w_atr.get('high_vol', 1)
         else:
             score += w_atr.get('extreme_vol', 0)
 
@@ -249,12 +273,16 @@ def compute_technical_from_history(hist, config=None, info=None):
             last_atr = float(atr_series.iloc[-1])
             atr_pct_val = last_atr / last_close if last_close != 0 else np.nan
             last_vol_ratio = float(vol_ratio_series.iloc[-1])
+            price_up = bool(close.iloc[-1] > close.iloc[-2]) if len(close) >= 2 else None
 
             trend = classify_trend(last_close, last_ma20, last_ma50, last_ma200, last_rsi)
 
             # 從 config 中取得權重，如果沒有則使用預設
             weights = (config or {}).get('technical_weights', DEFAULT_TECH_WEIGHTS)
-            tech_score = compute_tech_score(trend, last_rsi, last_macd, last_signal, bb_pct_val, atr_pct_val, weights)
+            tech_score = compute_tech_score(
+                trend, last_rsi, last_macd, last_signal, bb_pct_val, atr_pct_val,
+                weights, vol_ratio=last_vol_ratio, price_up=price_up
+            )
 
             tech.update({
                 'ma20': _safe_round(last_ma20),

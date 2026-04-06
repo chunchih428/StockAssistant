@@ -1,0 +1,57 @@
+{
+  "ticker": "SCCO",
+  "company": "Southern Copper Corporation",
+  "analysis_date": "2026-04-04",
+  "source_file": "cache/2026-04-04/candidates/news/SCCO.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "銅價波動與市場情緒導致股價震盪，投資人正重新評估其估值與相對於同業的競爭優勢。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Southern Copper Corporation (SCCO) is Attracting Investor Attention: Here is What You Should Know",
+      "publisher": "Zacks",
+      "date": "2026-03-26T13:00:02Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該文章強調了公司在銅礦產業的強勢地位，吸引了市場資金關注，顯示投資人對其長期基本面仍具信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Southern Copper (SCCO) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "publisher": "Zacks",
+      "date": "2026-03-26T21:50:04Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價表現弱於大盤，反映出市場對短期銅價波動或特定營運風險的擔憂，導致賣壓較重。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "BHP vs. SCCO: Which Copper Stock is the Better Buy?",
+      "publisher": "Zacks",
+      "date": "2026-03-30T17:56:00Z",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "將 SCCO 與 BHP 進行比較分析，屬於中立的投資建議，旨在協助投資人評估資產配置，而非針對公司本身發布利多或利空消息。"
+    },
+    {
+      "rank": 2,
+      "title": "A Look At Southern Copper (SCCO) Valuation After Recent Share Price Swings",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-29T18:04:02Z",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "針對股價波動後的估值進行客觀檢視，未給出明確買賣方向，僅提供數據供投資人參考。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

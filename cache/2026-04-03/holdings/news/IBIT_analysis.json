@@ -1,0 +1,84 @@
+{
+  "ticker": "IBIT",
+  "company": "Bitcoin",
+  "analysis_date": "2026-04-02",
+  "source_file": "cache/2026-04-02/holdings/news/IBIT.json",
+  "summary": {
+    "total_articles": 12,
+    "bullish_count": 2,
+    "bearish_count": 7,
+    "neutral_count": 3,
+    "overall_sentiment": "bearish",
+    "key_theme": "比特幣價格波動加劇導致現貨 ETF 出現顯著資金淨流出，市場避險情緒濃厚。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Shares of crypto-related companies are trading higher amid a gain in the price of Bitcoin.",
+      "publisher": "Benzinga",
+      "date": "2026-03-31 18:39",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "比特幣價格回升直接帶動相關加密貨幣資產與 ETF 的市場表現，顯示市場情緒短期內有所修復。"
+    },
+    {
+      "rank": 2,
+      "title": "How Bitcoin Fueled Larry Fink’s Biggest Payday as BlackRock CEO",
+      "publisher": "BeInCrypto",
+      "date": "2026-03-29 20:46",
+      "impact": "low",
+      "category": "公司營運",
+      "reason": "BlackRock 執行長 Larry Fink 因比特幣 ETF 的成功推動獲得高額薪酬，間接證明 IBIT 對於資產管理巨頭的戰略價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bitcoin ETFs See Heaviest Single-Day Bleed Of The Week With $225M Exodus",
+      "publisher": "Benzinga",
+      "date": "2026-03-30 17:55",
+      "impact": "high",
+      "category": "資金流向",
+      "reason": "選取此篇作為代表，因其詳細報導了單日高達 2.25 億美元的資金流出，反映出投資人對比特幣短期走勢的擔憂與避險情緒。"
+    },
+    {
+      "rank": 2,
+      "title": "Bitcoin Plunges 3% And ETFs Bleed $171M After Ukraine Destroys Russian Oil Ports",
+      "publisher": "Benzinga",
+      "date": "2026-03-27 18:39",
+      "impact": "high",
+      "category": "地緣政治",
+      "reason": "地緣政治衝突導致比特幣價格重挫 3 %，進而引發 ETF 出現 1.71 億美元的拋售潮，顯示宏觀風險對加密資產的直接衝擊。"
+    },
+    {
+      "rank": 3,
+      "title": "Bitcoin ETFs See $290M in Outflows as Risk-Off Sentiment Intensifies",
+      "publisher": "Cryptonews",
+      "date": "2026-03-30 13:44",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場避險情緒加劇導致資金持續撤出，總流出額達 2.9 億美元，對 IBIT 的資產規模構成短期壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Morgan Stanley's Bitcoin ETF Gets Official Listing Announcement By NYSE",
+      "publisher": "Benzinga",
+      "date": "2026-03-26 08:00",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Morgan Stanley 的 ETF 獲准上市，雖然增加了市場競爭，但同時也驗證了比特幣 ETF 作為主流金融產品的持續擴張趨勢。"
+    },
+    {
+      "rank": 2,
+      "title": "Morgan Stanley Undercuts Rivals with New Bitcoin ETF",
+      "publisher": "CryptoProwl",
+      "date": "2026-03-29 23:28",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "Morgan Stanley 透過價格策略挑戰現有 ETF 競爭對手，對 IBIT 而言屬於長期市場份額競爭的常態。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

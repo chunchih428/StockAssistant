@@ -18,11 +18,11 @@ LEVEL_ADD    = 3   # 💎 加倉機會
 LEVEL_HOLD   = 4   # 🟢 持有
 
 LEVEL_LABEL = {
-    LEVEL_CLOSE:  "CLOSE",
-    LEVEL_REDUCE: "REDUCE",
-    LEVEL_WATCH:  "WATCH",
-    LEVEL_ADD:    "ADD",
-    LEVEL_HOLD:   "HOLD",
+    LEVEL_CLOSE:  "🚨 停損",
+    LEVEL_REDUCE: "⚠️ 減倉",
+    LEVEL_WATCH:  "👀 觀察",
+    LEVEL_ADD:    "💎 加倉機會",
+    LEVEL_HOLD:   "✅ 持有",
 }
 
 LEVEL_ICON = {
@@ -63,17 +63,26 @@ class Alert:
 @dataclass
 class RuleContext:
     """傳入每條規則的上下文物件，統一介面。"""
-    symbol:         str
-    fund:           dict          # fundamental cache
-    tech:           dict          # technical cache
-    alloc_pct:      float | None  # 佔組合比例（%）
-    pnl_pct:        float | None  # 持倉損益（%）
-    recommendation: str           # AI 建議 (add/reduce/close/hold/unknown)
-    thresholds:     dict          # 已套用 override 的有效閾值
+    symbol:                 str
+    fund:                   dict          # fundamental cache
+    tech:                   dict          # technical cache
+    alloc_pct:              float | None  # 佔組合比例（%）
+    pnl_pct:                float | None  # 持倉損益（%，從成本價計算）
+    recommendation:         str           # AI 建議 (add/reduce/close/hold/unknown)
+    thresholds:             dict          # 已套用 override 的有效閾值
+    sector_alloc_pct:       float | None = None   # 同產業合計佔比（%）
+    is_systemic_correction: bool = False          # 是否處於系統性修正
 
 
 # ─── 規則 Registry ────────────────────────────────────────────
 RULE_REGISTRY: list = []
+
+# 系統性修正過濾：這些規則 ID 在系統性修正時自動降一等級
+DRAWDOWN_BASED_RULES = frozenset({
+    "drawdown_watch",
+    "drawdown_fund_mismatch",
+    "drawdown_cost_weak",
+})
 
 def register_rule(fn):
     """裝飾器：把函式加入全域規則清單。"""
@@ -81,16 +90,27 @@ def register_rule(fn):
     return fn
 
 
+# ─── 輔助：計算距 52w 高點回撤 % ──────────────────────────────
+def _drawdown_from_high(ctx: RuleContext) -> float | None:
+    """從技術面 cache 計算當前價格距 52 週高點的回撤百分比（負值）。"""
+    price   = ctx.tech.get("current_price")
+    high_52 = ctx.tech.get("high_52w")
+    if price and high_52 and high_52 > 0:
+        return (price - high_52) / high_52 * 100
+    return None
+
+
 # ═══════════════════════════════════════════════════════════════
 #  🔴 LEVEL_CLOSE 規則
 # ═══════════════════════════════════════════════════════════════
 
 @register_rule
-def rule_stop_loss(ctx: RuleContext) -> Alert | None:
-    limit = ctx.thresholds.get("stop_loss_pct", -20)
+def rule_stop_loss_cost(ctx: RuleContext) -> Alert | None:
+    """v3：從持有成本計算停損，門檻 -25%（唯你真正虧損才觸發，取代 v2 的 52w 回撤停損）。"""
+    limit = ctx.thresholds.get("stop_loss_cost_pct", -25)
     if ctx.pnl_pct is not None and ctx.pnl_pct <= limit:
-        return Alert(LEVEL_CLOSE, "stop_loss",
-                     f"虧損 {ctx.pnl_pct:.1f}%，觸及停損線（{limit}%），建議評估平倉",
+        return Alert(LEVEL_CLOSE, "stop_loss_cost",
+                     f"從成本虧損 {ctx.pnl_pct:.1f}%，觸及停損線（{limit}%），建議評估平倉",
                      {"pnl_pct": ctx.pnl_pct, "limit": limit})
 
 
@@ -134,22 +154,57 @@ def rule_concentration(ctx: RuleContext) -> Alert | None:
 
 
 @register_rule
+def rule_sector_concentration(ctx: RuleContext) -> Alert | None:
+    """v2 新增：同產業合計佔比過高。"""
+    limit = ctx.thresholds.get("max_sector_alloc_pct", 50)
+    if ctx.sector_alloc_pct is not None and ctx.sector_alloc_pct > limit:
+        return Alert(LEVEL_REDUCE, "sector_concentration",
+                     f"同產業持倉合計佔比 {ctx.sector_alloc_pct:.1f}%（>{limit}%），產業集中度過高，建議分散配置",
+                     {"sector_alloc_pct": ctx.sector_alloc_pct, "limit": limit})
+
+
+@register_rule
 def rule_take_profit(ctx: RuleContext) -> Alert | None:
-    limit = ctx.thresholds.get("take_profit_pct", 60)
-    if ctx.pnl_pct is not None and ctx.pnl_pct >= limit:
+    """v2：門檻從 +60% 提高至 +100%，且趨勢非 UPTREND 才觸發（避免強勢中被迫減碼）。"""
+    limit = ctx.thresholds.get("take_profit_pct", 100)
+    trend = ctx.tech.get("trend_status", "")
+    if ctx.pnl_pct is not None and ctx.pnl_pct >= limit and trend != "UPTREND":
         return Alert(LEVEL_REDUCE, "take_profit",
-                     f"已獲利 {ctx.pnl_pct:.1f}%（>{limit}%），可考慮鎖定部分利潤",
-                     {"pnl_pct": ctx.pnl_pct, "limit": limit})
+                     f"已獲利 {ctx.pnl_pct:.1f}%（>{limit}%）且趨勢非 UPTREND，可考慮鎖定部分利潤",
+                     {"pnl_pct": ctx.pnl_pct, "limit": limit, "trend": trend})
+
+
+@register_rule
+def rule_warn_loss_heavy(ctx: RuleContext) -> Alert | None:
+    """v3：改為持有成本損益計算，-15% ～ -25%（建議減倉 1/2）。"""
+    stop  = ctx.thresholds.get("stop_loss_cost_pct", -25)
+    heavy = ctx.thresholds.get("warn_loss_heavy_pct", -15)
+    if ctx.pnl_pct is not None and stop < ctx.pnl_pct <= heavy:
+        return Alert(LEVEL_REDUCE, "warn_loss_heavy",
+                     f"從成本虧損 {ctx.pnl_pct:.1f}%（{heavy}% ～ {stop}%），建議減倉 1/2",
+                     {"pnl_pct": ctx.pnl_pct, "heavy": heavy, "stop": stop})
 
 
 @register_rule
 def rule_warn_loss(ctx: RuleContext) -> Alert | None:
-    stop = ctx.thresholds.get("stop_loss_pct", -20)
-    warn = ctx.thresholds.get("warn_loss_pct", -12)
-    if ctx.pnl_pct is not None and stop < ctx.pnl_pct <= warn:
+    """v3：改為持有成本損益計算，-8% ～ -15%（建議減倉 1/4）。"""
+    heavy = ctx.thresholds.get("warn_loss_heavy_pct", -15)
+    light = ctx.thresholds.get("warn_loss_light_pct", -8)
+    if ctx.pnl_pct is not None and heavy < ctx.pnl_pct <= light:
         return Alert(LEVEL_REDUCE, "warn_loss",
-                     f"虧損 {ctx.pnl_pct:.1f}%，接近停損線（{stop}%），建議減少倉位",
-                     {"pnl_pct": ctx.pnl_pct, "warn": warn, "stop": stop})
+                     f"從成本虧損 {ctx.pnl_pct:.1f}%（{light}% ～ {heavy}%），建議減倉 1/4",
+                     {"pnl_pct": ctx.pnl_pct, "light": light, "heavy": heavy})
+
+
+@register_rule
+def rule_drawdown_cost_weak(ctx: RuleContext) -> Alert | None:
+    """v3 新增：52w 回撤大 + 成本虧損 + 基本面偏弱，三重確認才減倉。（系統性修正時降一等級）"""
+    dd = _drawdown_from_high(ctx)
+    fs = ctx.fund.get("fund_score") or 0
+    if dd is not None and dd < -35 and (ctx.pnl_pct or 0) < -5 and fs < 50:
+        return Alert(LEVEL_REDUCE, "drawdown_cost_weak",
+                     f"52w 回撤 {dd:.1f}% + 成本虧損 {ctx.pnl_pct:.1f}% + 基本面偏弱({int(fs)})，建議降低倉位",
+                     {"drawdown_pct": dd, "pnl_pct": ctx.pnl_pct, "fund_score": fs})
 
 
 @register_rule
@@ -185,12 +240,14 @@ def rule_ai_reduce(ctx: RuleContext) -> Alert | None:
 
 @register_rule
 def rule_rsi_overbought(ctx: RuleContext) -> Alert | None:
-    rsi = ctx.tech.get("rsi")
-    limit = ctx.thresholds.get("rsi_overbought", 75)
-    if rsi is not None and rsi > limit:
+    """v2：門檻從 75 提高至 80，且趨勢非 UPTREND 才觸發（與技術面評分 v2 統一）。"""
+    rsi   = ctx.tech.get("rsi")
+    trend = ctx.tech.get("trend_status", "")
+    limit = ctx.thresholds.get("rsi_overbought", 80)
+    if rsi is not None and rsi > limit and trend != "UPTREND":
         return Alert(LEVEL_WATCH, "rsi_overbought",
-                     f"RSI = {rsi:.1f}（>{limit} 超買），短期可能回調，可設好停利點",
-                     {"rsi": rsi, "limit": limit})
+                     f"RSI = {rsi:.1f}（>{limit} 過熱）且趨勢非 UPTREND，短期可能回調",
+                     {"rsi": rsi, "limit": limit, "trend": trend})
 
 
 @register_rule
@@ -249,12 +306,13 @@ def rule_rev_decline(ctx: RuleContext) -> Alert | None:
 
 @register_rule
 def rule_add_signal(ctx: RuleContext) -> Alert | None:
+    """v2：技術門檻 58→55，持倉上限 22%→25%。"""
     fs = ctx.fund.get("fund_score") or 0
     ts = ctx.tech.get("tech_score") or 0
     trend = ctx.tech.get("trend_status", "")
     fs_th = ctx.thresholds.get("fund_score_add", 70)
-    ts_th = ctx.thresholds.get("tech_score_add", 58)
-    max_alloc = ctx.thresholds.get("add_max_alloc_pct", 22)
+    ts_th = ctx.thresholds.get("tech_score_add", 55)
+    max_alloc = ctx.thresholds.get("add_max_alloc_pct", 25)
 
     is_quality = fs >= fs_th
     is_tech_ok = ts >= ts_th
@@ -272,21 +330,40 @@ def rule_oversold_add(ctx: RuleContext) -> Alert | None:
     trend = ctx.tech.get("trend_status", "")
     fs = ctx.fund.get("fund_score") or 0
     fs_th = max(ctx.thresholds.get("fund_score_add", 70) - 8, 55)  # 超賣加碼門檻稍低
-    if trend == "OVERSOLD_UPTREND" and fs >= fs_th and (ctx.pnl_pct or 0) < -3:
+    dd = _drawdown_from_high(ctx)
+    in_dip = (dd is not None and dd < -3) or (ctx.pnl_pct is not None and ctx.pnl_pct < -3)
+    if trend == "OVERSOLD_UPTREND" and fs >= fs_th and in_dip:
         return Alert(LEVEL_ADD, "oversold_add",
-                     f"超賣反彈且尚在成本線以下，可考慮分批加碼（基本面 {int(fs)}）",
+                     f"超賣反彈且尚在高點以下，可考慮分批加碼（基本面 {int(fs)}）",
                      {"fund_score": fs, "trend": trend, "pnl_pct": ctx.pnl_pct})
 
 
 @register_rule
 def rule_quality_dip(ctx: RuleContext) -> Alert | None:
+    """v2：基本面門檻 70→65（fund_score_add_dip）。"""
     fs = ctx.fund.get("fund_score") or 0
     trend = ctx.tech.get("trend_status", "")
-    fs_th = ctx.thresholds.get("fund_score_add", 70)
-    if (ctx.pnl_pct or 0) < -8 and fs >= fs_th and trend == "CONSOLIDATION":
+    fs_th = ctx.thresholds.get("fund_score_add_dip", 65)
+    dd = _drawdown_from_high(ctx)
+    in_dip = (dd is not None and dd < -8) or (ctx.pnl_pct is not None and ctx.pnl_pct < -8)
+    if in_dip and fs >= fs_th and trend == "CONSOLIDATION":
         return Alert(LEVEL_ADD, "quality_dip",
-                     f"優質股回落 {ctx.pnl_pct:.1f}% 進入盤整，可留意加碼時機",
+                     f"優質股進入盤整低位，可留意加碼時機（基本面 {int(fs)}）",
                      {"fund_score": fs, "pnl_pct": ctx.pnl_pct, "trend": trend})
+
+
+@register_rule
+def rule_fund_upgrade(ctx: RuleContext) -> Alert | None:
+    """v2 新增：基本面評分大幅改善（如財報超預期）。需 fund cache 提供 fund_score_prev。"""
+    fs      = ctx.fund.get("fund_score")
+    fs_prev = ctx.fund.get("fund_score_prev")  # 上期評分（尚未填入時為 None，自然跳過）
+    trend   = ctx.tech.get("trend_status", "")
+    min_imp = ctx.thresholds.get("fund_improvement_min", 10)
+    if fs is not None and fs_prev is not None and (fs - fs_prev) >= min_imp \
+            and trend not in ("DOWNTREND", "BREAKDOWN"):
+        return Alert(LEVEL_ADD, "fund_upgrade",
+                     f"基本面評分大幅改善（{int(fs_prev)} → {int(fs)}，+{int(fs - fs_prev)}），事件性加倉機會",
+                     {"fund_score": fs, "fund_score_prev": fs_prev, "improvement": fs - fs_prev})
 
 
 @register_rule

@@ -4,31 +4,38 @@ import pandas as pd
 # 日化無風險利率（假設5%年化）
 RISK_FREE = 0.05 / 252
 
-# 風險評分權重定義 (0 - 100分，愈高分代表風險愈低/風險回報愈好)
+# 風險評分權重定義 v2 (0 - 100分，愈高分代表風險愈低/風險回報愈好)
 DEFAULT_RISK_WEIGHTS = {
     'var_95': {
-        'above_minus_2pct': 30,  # 損失 < 2%
-        'above_minus_4pct': 20,  # 損失 < 4%
-        'above_minus_6pct': 10,  # 損失 < 6%
-        'below_minus_6pct': 0    # 損失 >= 6%
-    },
-    'sharpe': {
-        'above_1': 25,
-        'above_05': 15,
-        'above_0': 5,
-        'below_0': 0
+        'above_minus_3pct': 25,  # 損失 < 3%
+        'above_minus_5pct': 18,  # 損失 < 5%
+        'above_minus_7pct': 10,  # 損失 < 7%
+        'below_minus_7pct': 0    # 損失 >= 7%
     },
     'sortino': {
-        'above_15': 25,
-        'above_1': 15,
-        'above_0': 5,
-        'below_0': 0
+        'above_15': 25,          # Sortino > 1.5
+        'above_1': 15,           # Sortino > 1.0
+        'above_0': 5,            # Sortino > 0
+        'below_0': 0             # Sortino <= 0
+    },
+    'max_drawdown': {
+        'below_15pct': 25,       # MDD < 15%
+        'below_25pct': 18,       # MDD < 25%
+        'below_40pct': 10,       # MDD < 40%
+        'below_55pct': 5,        # MDD < 55%
+        'above_55pct': 0         # MDD >= 55%
     },
     'beta': {
-        'below_08': 20,
-        'below_12': 15,
-        'below_15': 5,
-        'above_15': 0
+        'below_12': 15,          # Beta < 1.2
+        'below_15': 10,          # Beta < 1.5
+        'below_20': 5,           # Beta < 2.0
+        'above_20': 0            # Beta >= 2.0
+    },
+    'calmar': {
+        'above_20': 10,          # Calmar > 2.0
+        'above_10': 7,           # Calmar > 1.0
+        'above_05': 3,           # Calmar > 0.5
+        'below_05': 0            # Calmar <= 0.5
     }
 }
 
@@ -63,8 +70,28 @@ def compute_sharpe_sortino(returns: pd.Series, rf: float = RISK_FREE) -> tuple[f
 
     downside = clean[clean < 0].std() * np.sqrt(252)
     sortino = (clean.mean() - rf) * 252 / downside if downside > 0 else np.nan
-    
+
     return sharpe, sortino
+
+
+def compute_max_drawdown(returns: pd.Series) -> float:
+    """從報酬率序列計算最大回撤（正數，例如 0.3 代表 30%）"""
+    clean = returns.dropna()
+    if len(clean) < 20:
+        return np.nan
+    cum = (1 + clean).cumprod()
+    rolling_max = cum.cummax()
+    drawdown = (cum - rolling_max) / rolling_max
+    return float(abs(drawdown.min()))
+
+
+def compute_calmar(returns: pd.Series, mdd: float) -> float:
+    """Calmar Ratio = 年化報酬 / Max Drawdown"""
+    clean = returns.dropna()
+    if len(clean) < 20 or np.isnan(mdd) or mdd <= 0:
+        return np.nan
+    annualized_return = clean.mean() * 252
+    return float(annualized_return / mdd)
 
 
 def compute_risk_score(returns: pd.Series, info: dict, config: dict = None) -> dict:
@@ -87,34 +114,25 @@ def compute_risk_score(returns: pd.Series, info: dict, config: dict = None) -> d
     
     score = 0.0
     details = {}
-    
+
     var_95, var_99, cvar_95 = compute_var_cvar(returns)
-    sharpe, sortino = compute_sharpe_sortino(returns)
+    _, sortino = compute_sharpe_sortino(returns)
+    mdd = compute_max_drawdown(returns)
+    calmar = compute_calmar(returns, mdd)
     beta = info.get('beta', None)
-    
-    # 1. VaR 95 (0 - 30 分)
+
+    # 1. VaR-95 (0 – 25 分, v2：門檻放寬)
     if not np.isnan(var_95):
         details['var_95'] = _safe_round(var_95 * 100, 2)
         w_var = weights.get('var_95', {})
-        if var_95 > -0.02:    score += w_var.get('above_minus_2pct', 30)
-        elif var_95 > -0.04:  score += w_var.get('above_minus_4pct', 20)
-        elif var_95 > -0.06:  score += w_var.get('above_minus_6pct', 10)
-        else:                 score += w_var.get('below_minus_6pct', 0)
+        if var_95 > -0.03:    score += w_var.get('above_minus_3pct', 25)
+        elif var_95 > -0.05:  score += w_var.get('above_minus_5pct', 18)
+        elif var_95 > -0.07:  score += w_var.get('above_minus_7pct', 10)
+        else:                 score += w_var.get('below_minus_7pct', 0)
     else:
         details['var_95'] = None
-        
-    # 2. Sharpe (0 - 25 分)
-    if not np.isnan(sharpe):
-        details['sharpe'] = _safe_round(sharpe, 2)
-        w_sharpe = weights.get('sharpe', {})
-        if sharpe > 1.0:   score += w_sharpe.get('above_1', 25)
-        elif sharpe > 0.5: score += w_sharpe.get('above_05', 15)
-        elif sharpe > 0:   score += w_sharpe.get('above_0', 5)
-        else:              score += w_sharpe.get('below_0', 0)
-    else:
-        details['sharpe'] = None
-        
-    # 3. Sortino (0 - 25 分)
+
+    # 2. Sortino (0 – 25 分，unchanged)
     if not np.isnan(sortino):
         details['sortino'] = _safe_round(sortino, 2)
         w_sortino = weights.get('sortino', {})
@@ -124,24 +142,47 @@ def compute_risk_score(returns: pd.Series, info: dict, config: dict = None) -> d
         else:               score += w_sortino.get('below_0', 0)
     else:
         details['sortino'] = None
-        
-    # 4. Beta (0 - 20 分)
+
+    # 3. Max Drawdown (0 – 25 分，v2 新增，取代 Sharpe)
+    if not np.isnan(mdd):
+        details['max_drawdown'] = _safe_round(mdd * 100, 1)  # 轉換為 %
+        w_mdd = weights.get('max_drawdown', {})
+        if mdd < 0.15:    score += w_mdd.get('below_15pct', 25)
+        elif mdd < 0.25:  score += w_mdd.get('below_25pct', 18)
+        elif mdd < 0.40:  score += w_mdd.get('below_40pct', 10)
+        elif mdd < 0.55:  score += w_mdd.get('below_55pct', 5)
+        else:             score += w_mdd.get('above_55pct', 0)
+    else:
+        details['max_drawdown'] = None
+
+    # 4. Beta (0 – 15 分，v2：門檻大幅放寬)
     if beta is not None and not np.isnan(beta):
         details['beta'] = _safe_round(beta, 2)
         w_beta = weights.get('beta', {})
-        if beta < 0.8:    score += w_beta.get('below_08', 20)
-        elif beta < 1.2:  score += w_beta.get('below_12', 15)
-        elif beta < 1.5:  score += w_beta.get('below_15', 5)
-        else:             score += w_beta.get('above_15', 0)
+        if beta < 1.2:    score += w_beta.get('below_12', 15)
+        elif beta < 1.5:  score += w_beta.get('below_15', 10)
+        elif beta < 2.0:  score += w_beta.get('below_20', 5)
+        else:             score += w_beta.get('above_20', 0)
     else:
         details['beta'] = None
-        
+
+    # 5. Calmar Ratio (0 – 10 分，v2 新增)
+    if not np.isnan(calmar):
+        details['calmar'] = _safe_round(calmar, 2)
+        w_calmar = weights.get('calmar', {})
+        if calmar > 2.0:   score += w_calmar.get('above_20', 10)
+        elif calmar > 1.0: score += w_calmar.get('above_10', 7)
+        elif calmar > 0.5: score += w_calmar.get('above_05', 3)
+        else:              score += w_calmar.get('below_05', 0)
+    else:
+        details['calmar'] = None
+
     # 在歷史資料不足時，給一個中庸分數 50 分
-    if np.isnan(var_95) and np.isnan(sharpe) and beta is None:
+    if np.isnan(var_95) and np.isnan(sortino) and beta is None:
         final_score = 50.0
     else:
         final_score = min(100.0, max(0.0, score))
-        
+
     details['risk_score'] = round(final_score, 1)
     return details
 

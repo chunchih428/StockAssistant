@@ -1,0 +1,84 @@
+{
+  "ticker": "WPM",
+  "company": "Wheaton Precious Metals Corp.",
+  "analysis_date": "2026-04-04",
+  "source_file": "cache/2026-04-04/candidates/news/WPM.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 4,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司透過收購 Jervois 銅礦項目金銀串流合約持續擴張資產組合，儘管面臨估值與 Antamina 項目風險的質疑，但整體成長動能與分析師評級調整仍支撐股價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Wheaton Precious Metals Closes Silver Stream on Antamina Mine, Acquires Gold and Silver Stream on Jervois Project",
+      "publisher": "MT Newswires",
+      "date": "2026-04-02",
+      "impact": "high",
+      "category": "業務擴張",
+      "reason": "此新聞涵蓋了 Antamina 礦場串流合約的完成與 Jervois 項目 2.75 億美元的新合約，代表公司核心業務模式的持續執行與資產組合的實質擴張。"
+    },
+    {
+      "rank": 2,
+      "title": "UBS Upgrades Wheaton Precious Metals (WPM)",
+      "publisher": "Fintel",
+      "date": "2026-03-28",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "瑞銀 (UBS) 的評級上調通常會帶動機構投資人的買盤，反映市場對公司未來獲利前景的信心提升。"
+    },
+    {
+      "rank": 3,
+      "title": "$1000 Invested In Wheaton Precious Metals 10 Years Ago Would Be Worth This Much Today",
+      "publisher": "Benzinga",
+      "date": "2026-03-31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "回顧過去 10 年的長期績效，有助於強化投資人對公司長期價值創造能力的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Wheaton Precious Metals: BHP Deal Adds Even More Risk At Elevated Prices",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-03",
+      "impact": "medium",
+      "category": "風險評估",
+      "reason": "分析指出 Antamina 交易帶來的風險與當前高估值可能限制上漲空間，提醒投資人關注資產收購成本與潛在的營運風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Berenberg Lowers its Price Target on Wheaton Precious Metals (WPM) to 13,000 GBp",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-27",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "貝倫貝格 (Berenberg) 下調目標價，反映了對短期股價表現或估值模型的保守看法。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Wheaton Precious Metals vs. SSR Mining: Which Mining Stock Wins Now?",
+      "publisher": "Zacks",
+      "date": "2026-03-30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為同業間的比較分析，未提供具體的買賣建議或重大公司消息，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Is It Time To Reassess Wheaton Precious Metals (TSX:WPM) After Recent Share Price Swings",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對近期股價波動的技術性回顧，屬於市場情緒觀察，不涉及基本面變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

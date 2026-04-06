@@ -1,0 +1,111 @@
+{
+  "ticker": "PWR",
+  "company": "Quanta Services",
+  "analysis_date": "2026-04-02",
+  "source_file": "cache/2026-04-02/holdings/news/PWR.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 11,
+    "bearish_count": 2,
+    "neutral_count": 7,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 數據中心電力需求激增與電網現代化趨勢，公司在投資人日展現強勁的長期成長前景與高額訂單積壓。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Quanta Services Investor Day: CEO Pegs $2.4T TAM, Targets $21.60-$26.75 EPS by 2030",
+      "publisher": "Yahoo",
+      "date": "2026-04-01 16:40",
+      "impact": "high",
+      "category": "投資人會議",
+      "reason": "公司在投資人日明確指出 2.4 兆美元的潛在市場規模 (TAM)，並給出 2030 年 EPS 目標區間，展現強勁的長期成長願景。"
+    },
+    {
+      "rank": 2,
+      "title": "Quanta Services: Leading The Way For U.S. Reindustrialization (Rating Upgrade)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-01 19:46",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師給予「強力買進」評級與 713 美元目標價，強調 440 億美元的訂單積壓與美國再工業化帶來的 EPC 市場需求。"
+    },
+    {
+      "rank": 3,
+      "title": "BMO Capital Upgrades Quanta Services to Outperform, Raises Price Target to $650",
+      "publisher": "Benzinga",
+      "date": "2026-03-27 17:14",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "BMO Capital 將評級從「表現符合市場」調升至「優於大盤」，並大幅調升目標價，顯示機構投資人對其基本面信心增強。"
+    },
+    {
+      "rank": 4,
+      "title": "Quanta Services: The Infrastructure Trade Of The Decade",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-02 01:39",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "強調電網現代化與策略性併購將成為未來十年的關鍵成長驅動力，看好其在基礎設施領域的領先地位。"
+    },
+    {
+      "rank": 5,
+      "title": "Are Data Centers Becoming the Core Growth Engine for Quanta?",
+      "publisher": "Yahoo",
+      "date": "2026-04-01 23:23",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 AI 帶動的電力需求正將數據中心轉化為公司核心成長引擎，有助於市場重新評估其估值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Quanta Services (PWR) Dipped More Than Broader Market Today",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 06:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導當日股價下跌 4.86%，反映短期市場獲利了結賣壓或對特定技術性修正的反應。"
+    },
+    {
+      "rank": 2,
+      "title": "Mizuho Maintains Neutral on Quanta Services, Raises Price Target to $580",
+      "publisher": "Benzinga",
+      "date": "2026-03-30 18:09",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "儘管調升目標價，但維持「中立」評級，顯示分析師認為目前股價已反映大部分利多，上漲空間有限。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Quanta Services, Inc. (PWR) Analyst/Investor Day Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-01 17:32",
+      "impact": "low",
+      "category": "投資人會議",
+      "reason": "提供投資人日詳細會議紀錄，屬於資訊揭露性質，供市場消化公司管理層的長期策略。"
+    },
+    {
+      "rank": 2,
+      "title": "Quanta Services (PWR) Rises Yet Lags Behind Market: Some Facts Worth Knowing",
+      "publisher": "Yahoo",
+      "date": "2026-04-01 06:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "單純回顧當日股價表現，並未提供新的基本面資訊，僅為市場數據的客觀陳述。"
+    },
+    {
+      "rank": 3,
+      "title": "Does Quanta Services’ Routine Dividend and Growing Backlog Reveal a Deeper Capital Allocation Shift for PWR?",
+      "publisher": "Yahoo",
+      "date": "2026-03-27 05:04",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "探討股利政策與資本配置，屬於常規財務分析，對股價短期波動影響較小。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

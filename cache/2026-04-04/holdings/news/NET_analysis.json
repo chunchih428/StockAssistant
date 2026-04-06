@@ -1,0 +1,84 @@
+{
+  "ticker": "NET",
+  "company": "Cloudflare",
+  "analysis_date": "2026-04-04",
+  "source_file": "cache/2026-04-04/holdings/news/NET.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 1,
+    "bearish_count": 4,
+    "neutral_count": 2,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場對 Cloudflare 高估值與 AI 競爭加劇的擔憂，蓋過了其在邊緣運算領域的成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare’s AI Edge Contracts Shift Growth Outlook Despite Rich Valuation",
+      "publisher": "Simply Wall St.",
+      "date": "2026-04-01",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "儘管估值偏高，但 Cloudflare 在 AI 邊緣運算領域獲得的新合約為公司長期成長前景提供了實質支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare Stock Slides On Anthropic Leak, AI Competition Concerns",
+      "publisher": "Benzinga",
+      "date": "2026-03-27",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Anthropic 洩漏事件引發市場對 AI 競爭格局的擔憂，導致股價短期承壓，反映出投資人對 AI 領域技術安全與競爭優勢的敏感度。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Cloudflare (NET) Dipped More Than Broader Market Today",
+      "publisher": "Zacks",
+      "date": "2026-03-30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價表現弱於大盤，顯示在市場情緒波動時，高估值科技股面臨較大的獲利了結壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Cloudflare (NET) Still Sensibly Priced After Its 80% One Year Share Price Surge",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-30",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "過去一年股價飆升 80 % 後，市場對其估值合理性產生質疑，高本益比使得股價對負面消息更為脆弱。"
+    },
+    {
+      "rank": 4,
+      "title": "CoreWeave vs. Cloudflare: Which AI Cloud Stock Offers Better Upside?",
+      "publisher": "Zacks",
+      "date": "2026-03-30",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "將 Cloudflare 與 CoreWeave 進行比較，凸顯了 AI 雲端市場競爭加劇，投資人開始重新評估其成長溢價。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Q4 Rundown: Cloudflare (NYSE:NET) Vs Other Content Delivery Stocks",
+      "publisher": "StockStory",
+      "date": "2026-03-31",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "針對 Q4 財報與同業進行橫向對比，提供中性的市場定位分析，未對股價產生直接驅動。"
+    },
+    {
+      "rank": 2,
+      "title": "Cloud Security: Cloudflare Head of Threat Intelligence Blake Darché, Live at RSAC 2026",
+      "publisher": "Exec Edge",
+      "date": "2026-03-30",
+      "impact": "low",
+      "category": "產業活動",
+      "reason": "高層參與資安會議展示技術領導力，屬於常規企業公關活動，對短期股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

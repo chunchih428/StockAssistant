@@ -1,0 +1,111 @@
+{
+  "ticker": "META",
+  "company": "Meta",
+  "analysis_date": "2026-04-04",
+  "source_file": "cache/2026-04-04/holdings/news/META.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 11,
+    "bearish_count": 4,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "Meta 積極擴張 AI 基礎設施與產品應用，儘管面臨監管訴訟與廣告環境疲軟的挑戰，市場對其長期成長潛力仍持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Meta Expands AI Glasses And Infrastructure As Capital Commitments Climb",
+      "publisher": "Yahoo",
+      "date": "2026-04-01 21:12",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Meta 擴展 Ray-Ban 智慧眼鏡產品線並持續投入 AI 基礎設施，顯示公司在 AI 變現路徑上的執行力。"
+    },
+    {
+      "rank": 2,
+      "title": "Corning and Meta Celebrate Start of Construction on Cable Manufacturing Expansion",
+      "publisher": "Yahoo",
+      "date": "2026-04-01 01:53",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "與 Corning 合作擴建光纜製造廠，直接支持 Meta 的 AI 資料中心建設，強化長期硬體競爭力。"
+    },
+    {
+      "rank": 3,
+      "title": "Meta’s natural gas binge could power South Dakota",
+      "publisher": "Yahoo",
+      "date": "2026-04-02 02:35",
+      "impact": "medium",
+      "category": "基礎設施",
+      "reason": "透過新建天然氣發電廠為 Hyperion AI 資料中心供電，解決了 AI 運算所需的能源瓶頸問題。"
+    },
+    {
+      "rank": 4,
+      "title": "Jim Cramer Explains Why He Thought Meta’s Sell-Off Was Strange",
+      "publisher": "Yahoo",
+      "date": "2026-04-02 00:27",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名評論員 Jim Cramer 公開表示近期因訴訟導致的股價下跌並不合理，有助於穩定市場信心。"
+    },
+    {
+      "rank": 5,
+      "title": "Wall Street Analysts Think Meta Platforms Is a Good Investment",
+      "publisher": "Yahoo",
+      "date": "2026-04-01 21:30",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "基於平均經紀商建議 (ABR)，分析師普遍認為 Meta 值得納入投資組合，反映市場對其基本面的認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Morgan Stanley Trims PT on Meta Platforms to $775 Amid Softer Advertising Backdrop",
+      "publisher": "Yahoo",
+      "date": "2026-04-02 00:44",
+      "impact": "high",
+      "category": "財報與展望",
+      "reason": "摩根士丹利下調目標價，主要歸因於廣告市場環境疲軟，這對 Meta 的核心營收來源構成直接威脅。"
+    },
+    {
+      "rank": 2,
+      "title": "Meta Has a Safety Problem. It Might Have to Fix It.",
+      "publisher": "Barrons.com",
+      "date": "2026-04-01 18:30",
+      "impact": "medium",
+      "category": "法規與訴訟",
+      "reason": "法院判決不利於 Meta，涉及平台安全與內容設計問題，可能迫使公司調整產品設計並增加合規成本。"
+    },
+    {
+      "rank": 3,
+      "title": "Will 2026 See More Tech Layoffs Than 2025?",
+      "publisher": "Benzinga",
+      "date": "2026-04-01 10:22",
+      "impact": "low",
+      "category": "人力資源",
+      "reason": "預測市場顯示 Meta 可能持續裁員以優化 AI 轉型期間的成本結構，雖有利於利潤率，但反映了營運調整的壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Meta Platforms, Inc. is Attracting Investor Attention",
+      "publisher": "Yahoo",
+      "date": "2026-04-01 21:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅反映股票受到投資人高度關注，未提供具體利多或利空訊息。"
+    },
+    {
+      "rank": 2,
+      "title": "Should You Chase the Rally in Meta Platforms Stock Today?",
+      "publisher": "Yahoo",
+      "date": "2026-04-01 21:03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "討論股價隨大盤反彈的技術面與選擇權定價，屬於市場情緒分析，無實質基本面變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

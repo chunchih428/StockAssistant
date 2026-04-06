@@ -11,6 +11,165 @@ from .constants import CHART_COLORS, REC_INFO
 from .template import DASHBOARD_TEMPLATE
 
 
+def _build_scoring_display(weights: dict) -> dict:
+    """
+    將 monitor_config.json 的 scoring_weights 轉換為前端 display 結構。
+    每個指標 → { title, max, rows: [{cond, val}] }
+    """
+    def _card(title, max_label, rows):
+        return {"title": title, "max": max_label, "rows": [{"cond": c, "val": v} for c, v in rows]}
+
+    fw = weights.get('fundamental', {})
+    tw = weights.get('technical', {})
+    rw = weights.get('risk', {})
+
+    rg = fw.get('rev_growth', {})
+    gm = fw.get('gross_margin', {})
+    fcf = fw.get('fcf_margin', {})
+    roic = fw.get('roic', {})
+    peg = fw.get('forward_peg', {})
+    rec = fw.get('analyst_rec', {})
+    de = fw.get('debt_equity', {})
+
+    fundamental = [
+        _card("營收成長率", f"滿分 {rg.get('over_30', 25)}", [
+            (">30%",  rg.get('over_30',  25)),
+            (">15%",  rg.get('over_15',  18)),
+            (">5%",   rg.get('over_5',   10)),
+            (">0%",   rg.get('over_0',    4)),
+            ("負成長", rg.get('below_0', -10)),
+        ]),
+        _card("毛利率", f"滿分 {gm.get('over_60', 20)}", [
+            (">60%",  gm.get('over_60', 20)),
+            (">40%",  gm.get('over_40', 14)),
+            (">20%",  gm.get('over_20',  7)),
+            ("≤20%",  gm.get('default',  0)),
+        ]),
+        _card("FCF Margin", f"滿分 {fcf.get('over_20', 15)}", [
+            (">20%",  fcf.get('over_20',  15)),
+            (">10%",  fcf.get('over_10',  10)),
+            (">0%",   fcf.get('over_0',    5)),
+            ("負數",   fcf.get('below_0', -8)),
+        ]),
+        _card("ROIC（ROE proxy）", f"滿分 {roic.get('over_25', 15)}", [
+            (">25%",  roic.get('over_25', 15)),
+            (">15%",  roic.get('over_15', 10)),
+            (">8%",   roic.get('over_8',   5)),
+            ("≤8%",   roic.get('default',  0)),
+        ]),
+        _card("Forward PEG", f"±{abs(peg.get('below_10', 10))}", [
+            ("<1.0",  peg.get('below_10',  10)),
+            ("<1.5",  peg.get('below_15',   5)),
+            ("<2.5",  peg.get('below_25',   0)),
+            (">3.0",  peg.get('over_30',  -10)),
+        ]),
+        _card("分析師評級", f"滿分 {rec.get('below_18', 10)}", [
+            ("<1.8",  rec.get('below_18', 10)),
+            ("<2.3",  rec.get('below_23',  7)),
+            ("<3.0",  rec.get('below_30',  3)),
+            (">4.0",  rec.get('over_40',  -5)),
+        ]),
+        _card("負債 / 權益比", f"±{abs(de.get('below_05', 5))}", [
+            ("<0.5",  de.get('below_05',  5)),
+            ("<1.5",  de.get('below_15',  2)),
+            (">1.5",  0),
+            (">3.0",  de.get('over_30',  -5)),
+        ]),
+    ]
+
+    tr = tw.get('trend', {})
+    ri = tw.get('rsi', {})
+    mc = tw.get('macd', {})
+    bb = tw.get('bb', {})
+    vr = tw.get('vol_ratio', {})
+    at = tw.get('atr', {})
+
+    technical = [
+        _card("趨勢狀態", f"滿分 {tr.get('UPTREND', 35)}", [
+            ("多頭排列 (UPTREND)",          tr.get('UPTREND',          35)),
+            ("多頭超賣 (OVERSOLD_UPTREND)", tr.get('OVERSOLD_UPTREND', 30)),
+            ("跌深反彈 (RECOVERY)",         tr.get('RECOVERY',         20)),
+            ("盤整整固 (CONSOLIDATION)",    tr.get('CONSOLIDATION',    15)),
+            ("跌破支撐 (BREAKDOWN)",        tr.get('BREAKDOWN',         5)),
+            ("空頭排列 (DOWNTREND)",        tr.get('DOWNTREND',         0)),
+        ]),
+        _card("RSI-14", f"滿分 {ri.get('peak_momentum', 20)}", [
+            ("50 – 70（最佳動能）",   ri.get('peak_momentum',   20)),
+            ("70 – 80（強勢動能）",   ri.get('strong_momentum', 15)),
+            ("40 – 50（正常偏弱）",   ri.get('normal',          12)),
+            ("≤40（超賣區）",         ri.get('oversold',         8)),
+            (">80（過熱）",           ri.get('overheated',       5)),
+        ]),
+        _card("MACD", f"滿分 {mc.get('bull_above_zero', 15)}", [
+            ("多頭 > 零軸", mc.get('bull_above_zero', 15)),
+            ("多頭 < 零軸", mc.get('bull_below_zero', 10)),
+            ("空頭 > 零軸", mc.get('bear_above_zero',  4)),
+            ("空頭 < 零軸", mc.get('bear_below_zero',  0)),
+        ]),
+        _card("布林帶 %B", f"滿分 {bb.get('mid', 15)}", [
+            ("0.4 – 0.7（中軌強勢）",  bb.get('mid',      15)),
+            ("0.7 – 0.9（趨近上軌）",  bb.get('upper',    10)),
+            ("0.2 – 0.4（中軌偏低）",  bb.get('lower',     8)),
+            (">0.9（突破上軌）",       bb.get('breakout',  5)),
+            ("<0.2（接近下軌）",       bb.get('near_low',  2)),
+        ]),
+        _card("成交量比（當日/20日均）", f"滿分 {vr.get('up_high', 10)}", [
+            ("上漲 + 量增 (>1.2x)",  vr.get('up_high',  10)),
+            ("上漲 + 量平 (0.8–1.2x)", vr.get('up_flat', 6)),
+            ("下跌 + 量縮 (<0.8x)",  vr.get('down_low',  4)),
+            ("下跌 + 量增 (>1.2x)",  vr.get('down_high', 0)),
+        ]),
+        _card("ATR 波動率", f"滿分 {at.get('low_vol', 5)}", [
+            ("低波 (<3%)",   at.get('low_vol',     5)),
+            ("正常 (<5%)",   at.get('normal_vol',  3)),
+            ("高波 (<7%)",   at.get('high_vol',    1)),
+            ("極端 (≥7%)",   at.get('extreme_vol', 0)),
+        ]),
+    ]
+
+    va = rw.get('var_95', {})
+    so = rw.get('sortino', {})
+    md = rw.get('max_drawdown', {})
+    bt = rw.get('beta', {})
+    ca = rw.get('calmar', {})
+
+    risk = [
+        _card("VaR-95（1日）", f"滿分 {va.get('above_minus_3pct', 25)}", [
+            ("損失 <3%",  va.get('above_minus_3pct', 25)),
+            ("損失 <5%",  va.get('above_minus_5pct', 18)),
+            ("損失 <7%",  va.get('above_minus_7pct', 10)),
+            ("損失 ≥7%",  va.get('below_minus_7pct',  0)),
+        ]),
+        _card("Sortino Ratio", f"滿分 {so.get('above_15', 25)}", [
+            (">1.5",  so.get('above_15', 25)),
+            (">1.0",  so.get('above_1',  15)),
+            (">0",    so.get('above_0',   5)),
+            ("≤0",    so.get('below_0',   0)),
+        ]),
+        _card("Max Drawdown", f"滿分 {md.get('below_15pct', 25)}", [
+            ("<15%",  md.get('below_15pct', 25)),
+            ("<25%",  md.get('below_25pct', 18)),
+            ("<40%",  md.get('below_40pct', 10)),
+            ("<55%",  md.get('below_55pct',  5)),
+            ("≥55%",  md.get('above_55pct',  0)),
+        ]),
+        _card("Beta（yfinance）", f"滿分 {bt.get('below_12', 15)}", [
+            ("<1.2",  bt.get('below_12', 15)),
+            ("<1.5",  bt.get('below_15', 10)),
+            ("<2.0",  bt.get('below_20',  5)),
+            ("≥2.0",  bt.get('above_20',  0)),
+        ]),
+        _card("Calmar Ratio", f"滿分 {ca.get('above_20', 10)}", [
+            (">2.0",  ca.get('above_20', 10)),
+            (">1.0",  ca.get('above_10',  7)),
+            (">0.5",  ca.get('above_05',  3)),
+            ("≤0.5",  ca.get('below_05',  0)),
+        ]),
+    ]
+
+    return {"fundamental": fundamental, "technical": technical, "risk": risk}
+
+
 def render_md(text):
     """Markdown -> HTML。"""
     text = re.sub(r'([^\n])\n(#{1,6} )', r'\1\n\n\2', text)
@@ -185,6 +344,14 @@ def _build_interactive_dashboard(results, allocation, options, generated_at, ale
         'portfolio_risk': allocation.get('portfolio_risk', {}),
     }
 
+    try:
+        from monitor.config import get_scoring_weights, reload_monitor_config
+        reload_monitor_config()
+        _sw = get_scoring_weights()
+    except Exception:
+        _sw = {}
+    scoring_config = _build_scoring_display(_sw)
+
     embedded_json = json.dumps(
         {
             'stocks': stocks_data,
@@ -193,6 +360,7 @@ def _build_interactive_dashboard(results, allocation, options, generated_at, ale
             'generated_at': generated_at,
             'candidates': candidate_symbols,
             'alerts': alerts_data or {},
+            'scoring_config': scoring_config,
         },
         ensure_ascii=False,
         default=str,

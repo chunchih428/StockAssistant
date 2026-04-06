@@ -1,0 +1,102 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-04-04",
+  "source_file": "cache/2026-04-04/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 6,
+    "bearish_count": 4,
+    "neutral_count": 10,
+    "overall_sentiment": "mixed",
+    "key_theme": "Apple 邁入 50 週年之際，市場聚焦其在 AI 領域的競爭力、高層接班規劃以及地緣政治帶來的潛在營運風險。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Warren Buffett says he sold Apple too soon and would buy more of it",
+      "publisher": "CNBC",
+      "date": "2026-03-31 16:54",
+      "impact": "high",
+      "category": "投資人動向",
+      "reason": "巴菲特公開表示過早減持 Apple 持股並表達回購意願，儘管 Berkshire Hathaway 仍持有大量股份，此言論強化了長期投資人對 Apple 價值與韌性的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Dan Ives: Tim Cook's legacy will be defined by the AI chapter",
+      "publisher": "CNBC",
+      "date": "2026-04-01 23:59",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "Wedbush 分析師 Dan Ives 強調 Apple 在 AI 轉型期的韌性優於同業，認為 Tim Cook 的領導力將在 AI 時代持續發揮關鍵作用。"
+    },
+    {
+      "rank": 3,
+      "title": "Early Apple stock investors now earn a 5.2 percent dividend yield",
+      "publisher": "Yahoo",
+      "date": "2026-04-03 08:03",
+      "impact": "low",
+      "category": "財務表現",
+      "reason": "報導指出 Apple 對長期投資人而言已具備高殖利率特性，提升了該股作為收益型資產的吸引力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Iran threatens Nvidia, Apple and other tech giants with attacks",
+      "publisher": "CNBC",
+      "date": "2026-04-01 13:03",
+      "impact": "high",
+      "category": "地緣政治",
+      "reason": "伊朗革命衛隊威脅將針對在該地區有業務的科技巨頭進行報復，直接威脅 Apple 的全球供應鏈與營運安全。"
+    },
+    {
+      "rank": 2,
+      "title": "Column: Apple's crackdown on AI apps puts it on the wrong side of history",
+      "publisher": "CNBC",
+      "date": "2026-04-01 00:50",
+      "impact": "medium",
+      "category": "產品與法規",
+      "reason": "批評 Apple 在 App Store 對 AI 應用程式的限制，認為此舉阻礙創新，可能導致公司在 AI 時代失去競爭優勢。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple built a hardware empire in its first 50 years. The next 50 could be defined by AI.",
+      "publisher": "CNBC",
+      "date": "2026-04-01 17:58",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "報導指出 Apple 在 AI 競賽中處於落後地位，且被迫開放 Siri 給競爭對手，顯示其護城河正面臨嚴峻挑戰。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Five key questions Apple faces entering its second half-century",
+      "publisher": "CNBC",
+      "date": "2026-04-01 16:00",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "針對 Apple 50 週年進行的綜合性回顧與展望，探討接班人計畫與 AI 策略等長期議題，未有立即性的股價催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon is Considering a $9 Billion Deal to Acquire Satellite Communications Company Globalstar",
+      "publisher": "Yahoo",
+      "date": "2026-04-03 03:49",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "提及 Amazon 的併購計畫可能影響 Apple 的衛星通訊合作夥伴，但目前僅為市場觀察，對 Apple 財務影響尚不明確。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Trending Stock Apple Inc. (AAPL) a Buy Now?",
+      "publisher": "Yahoo",
+      "date": "2026-04-03 21:00",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "僅為基於 Zacks.com 用戶關注度的技術性分析，未提供新的基本面利多或利空訊息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

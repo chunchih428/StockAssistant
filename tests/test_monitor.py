@@ -15,11 +15,12 @@ from monitor.rules import (
     LEVEL_LABEL, LEVEL_ICON, LEVEL_COLOR,
     run_all_rules,
     rule_stop_loss, rule_fund_collapse, rule_breakdown, rule_ai_close,
-    rule_concentration, rule_take_profit, rule_warn_loss,
+    rule_concentration, rule_sector_concentration, rule_take_profit,
+    rule_warn_loss_heavy, rule_warn_loss,
     rule_downtrend_tech, rule_high_risk, rule_ai_reduce,
     rule_rsi_overbought, rule_rsi_oversold_danger, rule_tech_weak,
     rule_var_high, rule_high_leverage, rule_rev_decline,
-    rule_add_signal, rule_oversold_add, rule_quality_dip, rule_ai_add,
+    rule_add_signal, rule_oversold_add, rule_quality_dip, rule_fund_upgrade, rule_ai_add,
 )
 from monitor.scorer import score_candidate, CandidateScore
 from monitor.engine import run_monitor, _portfolio_alerts, _cash_alerts
@@ -58,21 +59,21 @@ class TestMonitorConfig(unittest.TestCase):
 
     def test_get_thresholds_with_override(self):
         cfg = {
-            "thresholds": {"stop_loss_pct": -20, "take_profit_pct": 60},
-            "overrides": {"TSLA": {"stop_loss_pct": -10}},
+            "thresholds": {"stop_loss_pct": -28, "take_profit_pct": 100},
+            "overrides": {"TSLA": {"stop_loss_pct": -20}},
         }
         # Without symbol
         th = get_thresholds(cfg)
-        self.assertEqual(th["stop_loss_pct"], -20)
+        self.assertEqual(th["stop_loss_pct"], -28)
 
         # With symbol that has override
         th = get_thresholds(cfg, "TSLA")
-        self.assertEqual(th["stop_loss_pct"], -10)
-        self.assertEqual(th["take_profit_pct"], 60)
+        self.assertEqual(th["stop_loss_pct"], -20)
+        self.assertEqual(th["take_profit_pct"], 100)
 
         # With symbol that has no override
         th = get_thresholds(cfg, "AAPL")
-        self.assertEqual(th["stop_loss_pct"], -20)
+        self.assertEqual(th["stop_loss_pct"], -28)
 
     def test_get_scoring_weights(self):
         cfg = {"scoring_weights": {"fundamental": {"rev_growth": {}}}}
@@ -89,7 +90,7 @@ class TestAlert(unittest.TestCase):
         a = Alert(LEVEL_CLOSE, "stop_loss", "test msg", {"key": "val"})
         d = a.to_dict()
         self.assertEqual(d["level"], LEVEL_CLOSE)
-        self.assertEqual(d["level_label"], "CLOSE")
+        self.assertEqual(d["level_label"], "🚨 停損")
         self.assertEqual(d["rule"], "stop_loss")
         self.assertEqual(d["msg"], "test msg")
         self.assertIn("level_icon", d)
@@ -104,7 +105,7 @@ class TestAlert(unittest.TestCase):
 
 
 def _make_ctx(**kwargs):
-    """Helper to create a RuleContext with defaults."""
+    """Helper to create a RuleContext with defaults (v2 thresholds)."""
     defaults = {
         "symbol": "AAPL",
         "fund": {},
@@ -112,19 +113,24 @@ def _make_ctx(**kwargs):
         "alloc_pct": 10.0,
         "pnl_pct": 5.0,
         "recommendation": "hold",
+        "sector_alloc_pct": None,
         "thresholds": {
-            "stop_loss_pct": -20,
-            "warn_loss_pct": -12,
-            "take_profit_pct": 60,
+            "stop_loss_pct": -28,
+            "warn_loss_heavy_pct": -20,
+            "warn_loss_light_pct": -12,
+            "take_profit_pct": 100,
             "max_single_alloc_pct": 30,
+            "max_sector_alloc_pct": 50,
             "fund_score_close": 30,
             "fund_score_add": 70,
+            "fund_score_add_dip": 65,
+            "fund_improvement_min": 10,
             "tech_score_reduce": 45,
-            "tech_score_add": 58,
+            "tech_score_add": 55,
             "risk_score_reduce": 30,
-            "rsi_overbought": 75,
+            "rsi_overbought": 80,
             "rsi_oversold": 28,
-            "add_max_alloc_pct": 22,
+            "add_max_alloc_pct": 25,
         },
     }
     defaults.update(kwargs)
@@ -134,18 +140,21 @@ def _make_ctx(**kwargs):
 class TestCloseRules(unittest.TestCase):
 
     def test_stop_loss_triggers(self):
-        ctx = _make_ctx(pnl_pct=-25.0)
+        # v2: 距 52w 高點回撤 ≤ -28% 觸發
+        ctx = _make_ctx(tech={"current_price": 72.0, "high_52w": 100.0})  # -28%
         result = rule_stop_loss(ctx)
         self.assertIsNotNone(result)
         self.assertEqual(result.level, LEVEL_CLOSE)
         self.assertEqual(result.rule, "stop_loss")
 
     def test_stop_loss_not_triggers(self):
-        ctx = _make_ctx(pnl_pct=-10.0)
+        # 只回撤 -15%，不觸發
+        ctx = _make_ctx(tech={"current_price": 85.0, "high_52w": 100.0})
         self.assertIsNone(rule_stop_loss(ctx))
 
-    def test_stop_loss_none_pnl(self):
-        ctx = _make_ctx(pnl_pct=None)
+    def test_stop_loss_none_price(self):
+        # 無價格資料，不觸發
+        ctx = _make_ctx(tech={})
         self.assertIsNone(rule_stop_loss(ctx))
 
     def test_fund_collapse_triggers(self):
@@ -191,29 +200,54 @@ class TestReduceRules(unittest.TestCase):
         ctx = _make_ctx(alloc_pct=15.0)
         self.assertIsNone(rule_concentration(ctx))
 
+    def test_sector_concentration_triggers(self):
+        ctx = _make_ctx(sector_alloc_pct=55.0)
+        result = rule_sector_concentration(ctx)
+        self.assertIsNotNone(result)
+        self.assertEqual(result.level, LEVEL_REDUCE)
+
+    def test_sector_concentration_not_triggers(self):
+        ctx = _make_ctx(sector_alloc_pct=40.0)
+        self.assertIsNone(rule_sector_concentration(ctx))
+
     def test_take_profit_triggers(self):
-        ctx = _make_ctx(pnl_pct=65.0)
+        # v2: 門檻 100%，且趨勢非 UPTREND
+        ctx = _make_ctx(pnl_pct=110.0, tech={"trend_status": "CONSOLIDATION"})
         result = rule_take_profit(ctx)
         self.assertIsNotNone(result)
         self.assertEqual(result.level, LEVEL_REDUCE)
 
-    def test_take_profit_not_triggers(self):
-        ctx = _make_ctx(pnl_pct=40.0)
+    def test_take_profit_not_triggers_uptrend(self):
+        # v2: 趨勢 UPTREND 時不觸發，即使獲利超過門檻
+        ctx = _make_ctx(pnl_pct=110.0, tech={"trend_status": "UPTREND"})
         self.assertIsNone(rule_take_profit(ctx))
 
+    def test_take_profit_not_triggers_below_limit(self):
+        ctx = _make_ctx(pnl_pct=65.0, tech={"trend_status": "CONSOLIDATION"})
+        self.assertIsNone(rule_take_profit(ctx))
+
+    def test_warn_loss_heavy_triggers(self):
+        # v2: 距高點 -20% ～ -28% 觸發重度警告
+        ctx = _make_ctx(tech={"current_price": 78.0, "high_52w": 100.0})  # -22%
+        result = rule_warn_loss_heavy(ctx)
+        self.assertIsNotNone(result)
+        self.assertEqual(result.level, LEVEL_REDUCE)
+
     def test_warn_loss_triggers(self):
-        ctx = _make_ctx(pnl_pct=-15.0)
+        # v2: 距高點 -12% ～ -20% 觸發輕度警告
+        ctx = _make_ctx(tech={"current_price": 85.0, "high_52w": 100.0})  # -15%
         result = rule_warn_loss(ctx)
         self.assertIsNotNone(result)
         self.assertEqual(result.level, LEVEL_REDUCE)
 
-    def test_warn_loss_not_triggers_above_warn(self):
-        ctx = _make_ctx(pnl_pct=-5.0)
+    def test_warn_loss_not_triggers_small_dd(self):
+        # 只回撤 -5%，不觸發
+        ctx = _make_ctx(tech={"current_price": 95.0, "high_52w": 100.0})
         self.assertIsNone(rule_warn_loss(ctx))
 
-    def test_warn_loss_not_triggers_below_stop(self):
-        # At exactly stop_loss, stop_loss rule triggers, not warn
-        ctx = _make_ctx(pnl_pct=-20.0)
+    def test_warn_loss_not_triggers_beyond_heavy(self):
+        # 回撤超過 -20%，由 warn_loss_heavy 或 stop_loss 處理
+        ctx = _make_ctx(tech={"current_price": 75.0, "high_52w": 100.0})  # -25%
         self.assertIsNone(rule_warn_loss(ctx))
 
     def test_downtrend_tech_triggers(self):
@@ -246,13 +280,19 @@ class TestReduceRules(unittest.TestCase):
 class TestWatchRules(unittest.TestCase):
 
     def test_rsi_overbought_triggers(self):
-        ctx = _make_ctx(tech={"rsi": 80})
+        # v2: 門檻 80，且趨勢非 UPTREND
+        ctx = _make_ctx(tech={"rsi": 85, "trend_status": "CONSOLIDATION"})
         result = rule_rsi_overbought(ctx)
         self.assertIsNotNone(result)
         self.assertEqual(result.level, LEVEL_WATCH)
 
-    def test_rsi_overbought_not_triggers(self):
-        ctx = _make_ctx(tech={"rsi": 60})
+    def test_rsi_overbought_not_triggers_uptrend(self):
+        # v2: UPTREND 中 RSI > 80 不觸發
+        ctx = _make_ctx(tech={"rsi": 85, "trend_status": "UPTREND"})
+        self.assertIsNone(rule_rsi_overbought(ctx))
+
+    def test_rsi_overbought_not_triggers_below_limit(self):
+        ctx = _make_ctx(tech={"rsi": 75, "trend_status": "CONSOLIDATION"})
         self.assertIsNone(rule_rsi_overbought(ctx))
 
     def test_rsi_oversold_danger_triggers(self):
@@ -336,17 +376,29 @@ class TestAddRules(unittest.TestCase):
         self.assertIsNone(rule_add_signal(ctx))
 
     def test_add_signal_not_triggers_full_alloc(self):
+        # v2: add_max_alloc_pct = 25，所以 26% 不觸發
         ctx = _make_ctx(
             fund={"fund_score": 75},
             tech={"tech_score": 62, "trend_status": "UPTREND"},
-            alloc_pct=25.0,
+            alloc_pct=26.0,
         )
         self.assertIsNone(rule_add_signal(ctx))
+
+    def test_add_signal_triggers_with_v2_thresholds(self):
+        # v2: tech_score_add = 55（舊為 58），55 分應觸發
+        ctx = _make_ctx(
+            fund={"fund_score": 75},
+            tech={"tech_score": 55, "trend_status": "UPTREND"},
+            alloc_pct=10.0,
+        )
+        result = rule_add_signal(ctx)
+        self.assertIsNotNone(result)
+        self.assertEqual(result.level, LEVEL_ADD)
 
     def test_oversold_add_triggers(self):
         ctx = _make_ctx(
             fund={"fund_score": 70},
-            tech={"trend_status": "OVERSOLD_UPTREND"},
+            tech={"trend_status": "OVERSOLD_UPTREND", "current_price": 90.0, "high_52w": 100.0},
             pnl_pct=-8.0,
         )
         result = rule_oversold_add(ctx)
@@ -354,14 +406,35 @@ class TestAddRules(unittest.TestCase):
         self.assertEqual(result.level, LEVEL_ADD)
 
     def test_quality_dip_triggers(self):
+        # v2: fund_score_add_dip = 65
         ctx = _make_ctx(
-            fund={"fund_score": 75},
-            tech={"trend_status": "CONSOLIDATION"},
+            fund={"fund_score": 65},
+            tech={"trend_status": "CONSOLIDATION", "current_price": 88.0, "high_52w": 100.0},
             pnl_pct=-12.0,
         )
         result = rule_quality_dip(ctx)
         self.assertIsNotNone(result)
         self.assertEqual(result.level, LEVEL_ADD)
+
+    def test_fund_upgrade_triggers(self):
+        ctx = _make_ctx(
+            fund={"fund_score": 75, "fund_score_prev": 60},
+            tech={"trend_status": "UPTREND"},
+        )
+        result = rule_fund_upgrade(ctx)
+        self.assertIsNotNone(result)
+        self.assertEqual(result.level, LEVEL_ADD)
+
+    def test_fund_upgrade_not_triggers_small_improvement(self):
+        ctx = _make_ctx(
+            fund={"fund_score": 65, "fund_score_prev": 60},
+            tech={"trend_status": "UPTREND"},
+        )
+        self.assertIsNone(rule_fund_upgrade(ctx))
+
+    def test_fund_upgrade_not_triggers_no_prev(self):
+        ctx = _make_ctx(fund={"fund_score": 80}, tech={"trend_status": "UPTREND"})
+        self.assertIsNone(rule_fund_upgrade(ctx))
 
     def test_ai_add_triggers(self):
         ctx = _make_ctx(

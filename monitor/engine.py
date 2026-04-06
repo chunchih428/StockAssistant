@@ -165,6 +165,29 @@ def run_monitor(
     portfolio_symbols = set()
     holdings_alerts: dict[str, dict] = {}
 
+    # 預先建立 symbol → sector 對照表，用於計算產業集中度
+    sector_map: dict[str, str] = {}
+    for r in results:
+        si = r.get("stock_info", {})
+        sd = r.get("stock_data", {})
+        sym = si.get("symbol", "")
+        sector = sd.get("fundamental", {}).get("sector") or ""
+        if sym and sector:
+            sector_map[sym] = sector
+
+    # 計算每個產業的合計佔比（只算有實際持股的標的）
+    sector_alloc: dict[str, float] = {}
+    for r in results:
+        si = r.get("stock_info", {})
+        sd = r.get("stock_data", {})
+        sym = si.get("symbol", "")
+        shares = si.get("shares", 0) or 0
+        if shares <= 0 or si.get("category") == "競品參考":
+            continue
+        sector = sector_map.get(sym, "")
+        if sector:
+            sector_alloc[sector] = sector_alloc.get(sector, 0) + (alloc_map.get(sym, 0))
+
     for r in results:
         si = r.get("stock_info", {})
         sd = r.get("stock_data", {})
@@ -194,6 +217,10 @@ def run_monitor(
         # 取得個股有效閾值（套用 override）
         thresholds = get_thresholds(mon_cfg, symbol)
 
+        # 產業集中度
+        sector = sector_map.get(symbol, "")
+        sector_alloc_pct = sector_alloc.get(sector) if sector else None
+
         ctx = RuleContext(
             symbol=symbol,
             fund=fund,
@@ -202,6 +229,7 @@ def run_monitor(
             pnl_pct=pnl_pct,
             recommendation=rec,
             thresholds=thresholds,
+            sector_alloc_pct=sector_alloc_pct,
         )
         alerts = run_all_rules(ctx)
         top_level = alerts[0].level if alerts else LEVEL_HOLD
@@ -233,12 +261,17 @@ def run_monitor(
         if not fund and not tech:
             fund, tech = _load_from_cache(sym)
 
+        # v2：計算候選股的同產業已持有佔比
+        cand_sector = (fund.get("sector") or "").strip()
+        cand_sector_alloc = sector_alloc.get(cand_sector) if cand_sector else None
+
         cs = score_candidate(
             symbol=sym,
             fund=fund,
             tech=tech,
             in_portfolio=(sym in portfolio_symbols),
             config=mon_cfg,
+            sector_alloc_pct=cand_sector_alloc,
         )
         scored_candidates.append(cs.to_dict())
 
