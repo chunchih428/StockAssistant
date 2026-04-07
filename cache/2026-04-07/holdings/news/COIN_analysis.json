@@ -1,0 +1,93 @@
+{
+  "ticker": "COIN",
+  "company": "Coinbase",
+  "analysis_date": "2026-04-05",
+  "source_file": "cache/2026-04-05/holdings/news/COIN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "Coinbase 獲得美國監管機構核准成立國家信託公司，顯著提升其合規地位與業務擴展潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Coinbase Receives Conditional Nod To Operate As National Trust Company",
+      "publisher": "Benzinga",
+      "date": "2026-04-03 06:54",
+      "impact": "high",
+      "category": "監管進展",
+      "reason": "獲得美國貨幣監理署 (OCC) 有條件核准成立國家信託公司，為公司在加密貨幣託管與穩定幣業務上的重大合規里程碑，增強市場信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Clarity Act Could Pass Within 48 Hours, Says Coinbase Exec",
+      "publisher": "Benzinga",
+      "date": "2026-04-02 18:00",
+      "impact": "medium",
+      "category": "法規政策",
+      "reason": "公司高層透露加密貨幣監管法案進展順利，若法案通過將為 Coinbase 提供更明確的營運環境，降低長期法律風險。"
+    },
+    {
+      "rank": 3,
+      "title": "Coinbase Extends DeFi Reach As Valuation Concerns Meet New Use Cases",
+      "publisher": "Yahoo",
+      "date": "2026-04-02 22:08",
+      "impact": "medium",
+      "category": "產品與技術",
+      "reason": "透過整合 Chainlink 的數據服務，Coinbase 進一步擴展其在去中心化金融 (DeFi) 領域的影響力，有助於提升平台數據價值與用戶黏著度。"
+    },
+    {
+      "rank": 4,
+      "title": "Bernstein Cuts PT on Coinbase Global (COIN), Reiterates “Outperform” Rating",
+      "publisher": "Yahoo",
+      "date": "2026-04-03 03:13",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "儘管下調目標價，但 Bernstein 仍維持「優於大盤」評級，顯示機構投資人對其長期基本面與區塊鏈市場地位仍持正面看法。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Barclays Resets Coinbase Stock Price Target",
+      "publisher": "Yahoo",
+      "date": "2026-04-03 04:31",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "巴克萊銀行下調目標價，反映市場對短期獲利能力或市場競爭壓力的擔憂，對股價造成直接賣壓。"
+    },
+    {
+      "rank": 2,
+      "title": "Coinbase Stock Slides As Bitcoin Faces Selling Pressure",
+      "publisher": "Benzinga",
+      "date": "2026-04-02 21:22",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Coinbase 股價與比特幣價格高度連動，當比特幣面臨賣壓時，投資人傾向減持 Coinbase 以規避加密市場波動風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Coinbase Stock Bounces Around Monday: What's Happening With COIN?",
+      "publisher": "Benzinga",
+      "date": "2026-03-30 19:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場處於消化近期多空消息的震盪期，股價走勢平淡，缺乏明確的驅動方向。"
+    },
+    {
+      "rank": 2,
+      "title": "Coinbase, Stripe Back Competing AI Payment Protocols as 97M Transactions Logged",
+      "publisher": "Yahoo",
+      "date": "2026-04-03 02:03",
+      "impact": "low",
+      "category": "產業合作",
+      "reason": "參與 AI 支付協議開發屬於長期戰略佈局，對短期財務表現影響有限，屬於中性偏正面的產業動態。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

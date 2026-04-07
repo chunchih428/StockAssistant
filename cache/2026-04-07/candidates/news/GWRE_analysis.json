@@ -1,0 +1,56 @@
+{
+  "ticker": "GWRE",
+  "company": "Guidewire Software, Inc.",
+  "analysis_date": "2026-04-04",
+  "source_file": "cache/2026-04-04/candidates/news/GWRE.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 0,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司持續推動雲端轉型並獲得客戶採用，但面臨機構投資人獲利了結的賣壓與股價估值修正的討論。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ethias Goes Live on Guidewire Cloud Platform, Building a Trusted Foundation for AI Innovation",
+      "publisher": "Yahoo",
+      "date": "2026-04-02 14:36",
+      "impact": "medium",
+      "category": "業務拓展",
+      "reason": "比利時保險公司 Ethias 正式導入 Guidewire Cloud 平台，顯示公司核心雲端轉型策略持續獲得大型保險機構採用，有助於長期經常性收入 (ARR) 的增長。"
+    },
+    {
+      "rank": 2,
+      "title": "Looking for Earnings Beat? Buy These 4 Top-Ranked Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-03-30 22:50",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析師將 GWRE 列為具備財報超預期潛力的標的，反映市場對其獲利能力的正面預期。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Parnassus Mid Cap Fund Sold Guidewire Software (GWRE) After Achieving Investment Thesis",
+      "publisher": "Yahoo",
+      "date": "2026-03-31 22:33",
+      "impact": "medium",
+      "category": "機構持倉",
+      "reason": "Parnassus Mid Cap Fund 出清持股，理由是已達成投資目標，此類機構獲利了結行為可能對短期股價造成賣壓。"
+    },
+    {
+      "rank": 2,
+      "title": "Assessing Guidewire Software (GWRE) Valuation After Recent Share Price Pullback",
+      "publisher": "Yahoo",
+      "date": "2026-03-28 12:18",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價近期出現回調，引發市場對其估值合理性的重新評估，顯示投資人對於高估值軟體股的風險偏好有所收斂。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

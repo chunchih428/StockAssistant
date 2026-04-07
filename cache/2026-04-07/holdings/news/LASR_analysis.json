@@ -1,0 +1,66 @@
+{
+  "ticker": "LASR",
+  "company": "nLIGHT",
+  "analysis_date": "2026-04-05",
+  "source_file": "cache/2026-04-05/holdings/news/LASR.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管 nLIGHT 實現了創紀錄的 第 4 季 業績並擁有強勁的國防訂單前景，但市場對其估值與獲利能力風險的擔憂導致股價在財報後出現顯著回調。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "nLIGHT and Laser Weapons: The Next Capacity Cycle to Aid Prospects",
+      "publisher": "Zacks",
+      "date": "2026-03-26T18:22:00Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 nLIGHT 在雷射武器領域的產能擴張週期將成為未來成長的關鍵驅動力，長期前景看好。"
+    },
+    {
+      "rank": 2,
+      "title": "nLIGHT (LASR) Hits an All-Time High, Here’s What You Need to Know",
+      "publisher": "Insider Monkey",
+      "date": "2026-03-29T20:33:13Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價創下歷史新高反映了市場對公司技術領先地位與國防業務成長的高度認可。"
+    },
+    {
+      "rank": 3,
+      "title": "A Look At nLIGHT (LASR) Valuation After Record Q4 Results And Optimistic Revenue And Margin Outlook",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-31T19:05:21Z",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "雖然財報表現亮眼，但該文側重於估值分析，為後續股價回調提供了基本面背景。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "nLIGHT (LASR) Is Down 20.3% After Record Q4 Results And Strong Q1 2026 Guidance - Has The Bull Case Changed?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-04-01T04:17:48Z",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "儘管財報與指引強勁，但股價單日重挫 20.3 %，顯示市場對其高估值與獲利持續性的信心動搖，為最具代表性的利空新聞。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "LASR Stock: Defense Backlog vs. Margin Risk in 2026 Outlook",
+      "publisher": "Zacks",
+      "date": "2026-03-27T16:35:00Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該文平衡了國防訂單積壓帶來的成長潛力與利潤率風險，呈現多空並陳的觀點，未有明確偏向。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
