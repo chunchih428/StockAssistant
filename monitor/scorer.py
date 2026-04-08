@@ -1,5 +1,5 @@
 """
-monitor/scorer.py — 候選股綜合評分 v2
+monitor/scorer.py — 候選股綜合評分 v3
 
 綜合分 = fund_score × 0.45 + tech_score × 0.30 + risk_score × 0.15 + news_boost × 0.10
          （news_boost 直接加減，上限 ±5 分）
@@ -120,9 +120,9 @@ def score_candidate(
     if price and high_52w and high_52w > 0:
         drawdown = round((price - high_52w) / high_52w * 100, 1)
 
-    # 買入信號分級（v2）
+    # 買入信號分級（v3）
     signals_cfg = get_candidate_signals(config)
-    signal, color = _buy_signal(
+    signal, color, signal_reasons = _buy_signal(
         composite, fs, ts, trend, signals_cfg,
         sector_alloc_pct=sector_alloc_pct,
         prev_signal=prev_signal,
@@ -131,11 +131,12 @@ def score_candidate(
     # 建議建倉比例
     suggested_alloc = _get_suggested_alloc(signal)
 
-    # 說明理由（v2：新增 PEG、產業曝險）
+    # 說明理由（v3：新增趨勢保護、Soft DQ 限制標籤）
     reasons = _build_reasons(
         fs, ts, rs, trend, rsi, change_3mo, drawdown, news_sentiment,
         peg=peg, sector_alloc_pct=sector_alloc_pct, signal=signal,
     )
+    reasons.extend(signal_reasons)
 
     return CandidateScore(
         symbol=symbol,
@@ -168,66 +169,85 @@ def _buy_signal(
     sector_alloc_pct: float | None = None,
     prev_signal: str | None = None,
 ):
-    """v2：根據綜合分決定買入信號，疊加軟性 Disqualify、產業曝險、滯後機制。"""
+    """v3：根據綜合分決定買入信號，疊加趨勢保護、Disqualify、產業曝險、滯後機制。"""
     cfg   = signals_cfg or get_candidate_signals()
     tiers = sorted(cfg.get("tiers", []), key=lambda t: t["min_score"], reverse=True)
     disq       = cfg.get("disqualify", {})
     disq_soft  = cfg.get("disqualify_soft", {})
     hysteresis = cfg.get("hysteresis_band", 3)
+    extra_reasons: list[str] = []
 
     if composite is None:
-        return "⏸️  無資料", "#94a3b8"
-
-    # ── 1. composite 對應 tier ──────────────────────────────
-    composite_tier = None
-    for tier in tiers:
-        if composite >= tier["min_score"]:
-            if tier.get("require_uptrend") and trend not in TREND_UPWARD:
-                next_tier = next((t for t in tiers if t["min_score"] < tier["min_score"]), None)
-                composite_tier = next_tier if next_tier else tier
-            else:
-                composite_tier = tier
-            break
-    if composite_tier is None:
-        composite_tier = tiers[-1] if tiers else {"label": "⏸️  尚未就緒", "color": "#94a3b8", "min_score": 0}
+        return "⏸️  無資料", "#94a3b8", []
 
     def _find_tier(label_prefix):
         return next((t for t in tiers if t["label"].startswith(label_prefix)), None)
 
-    # ── 2. 硬性 Disqualify：fund < 40 OR tech < 35 → 尚未就緒 ──
+    watch_tier     = _find_tier("👀")
+    not_ready_tier = _find_tier("⏸️")
+
+    # ── 1. composite 對應 tier（純分數比較） ────────────────────
+    composite_tier = None
+    for tier in tiers:
+        if composite >= tier["min_score"]:
+            composite_tier = tier
+            break
+    if composite_tier is None:
+        composite_tier = tiers[-1] if tiers else {"label": "⏸️  尚未就緒", "color": "#94a3b8", "min_score": 0}
+
+    # ── 2. 趨勢保護（v3）───────────────────────────────────────
+    # a. 💎 強力買入：趨勢必須向上，否則降到 ✅ 可以買入
+    if composite_tier.get("require_uptrend") and trend not in TREND_UPWARD:
+        buy_tier = _find_tier("✅")
+        if buy_tier:
+            composite_tier = buy_tier
+
+    # b. ✅ 可以買入：趨勢不得為 BREAKDOWN / DOWNTREND，否則降到 👀 觀察等候
+    TREND_REJECT = {"BREAKDOWN", "DOWNTREND"}
+    if composite_tier.get("reject_breakdown") and trend in TREND_REJECT:
+        if watch_tier and composite_tier["min_score"] > watch_tier["min_score"]:
+            composite_tier = watch_tier
+            extra_reasons.append("⚠️趨勢不佳，信號受限")
+
+    # ── 3. 硬性 Disqualify：fund < 40 OR tech < 35 → 尚未就緒 ──
     fund_hard = disq.get("fund_score_min", 40)
     tech_hard = disq.get("tech_score_min", 35)
     if (fs or 0) < fund_hard or (ts or 0) < tech_hard:
         disq_label = disq.get("disqualify_label", "⏸️  尚未就緒")
         disq_tier  = next((t for t in tiers if t["label"] == disq_label), None)
         if disq_tier and composite_tier["min_score"] > disq_tier["min_score"]:
-            return disq_tier["label"], disq_tier["color"]
+            return disq_tier["label"], disq_tier["color"], extra_reasons
 
-    # ── 3. 軟性 Disqualify（v2）：fund 40-50 OR tech 35-45 → 上限觀察等候 ──
+    # ── 4. 軟性 Disqualify（v3）：只壓到 👀 觀察等候，絕不壓到尚未就緒 ──
     soft_fund = disq_soft.get("fund_score_min", 50)
     soft_tech = disq_soft.get("tech_score_min", 45)
-    watch_tier = _find_tier("👀")
     if watch_tier:
         fund_in_soft = fund_hard <= (fs or 0) < soft_fund
         tech_in_soft = tech_hard <= (ts or 0) < soft_tech
         if (fund_in_soft or tech_in_soft) and composite_tier["min_score"] > watch_tier["min_score"]:
             composite_tier = watch_tier
+            extra_reasons.append("⚠️子分偏弱，信號受限")
 
-    # ── 4. 產業曝險檢查（v2）：同產業已持有 ≥ sector_cap → 上限觀察等候 ──
-    sector_cap = cfg.get("sector_cap_for_candidate", 40)
-    if sector_alloc_pct is not None and sector_alloc_pct >= sector_cap:
-        if watch_tier and composite_tier["min_score"] > watch_tier["min_score"]:
-            composite_tier = watch_tier
+    # ── 5. 產業曝險（v3）───────────────────────────────────────
+    # 軟上限（≥40%）→ 上限觀察等候；硬上限（≥50%）→ 壓到尚未就緒
+    sector_cap      = cfg.get("sector_cap_for_candidate", 40)
+    sector_hard_cap = cfg.get("sector_hard_cap", 50)
+    if sector_alloc_pct is not None:
+        if sector_alloc_pct >= sector_hard_cap and not_ready_tier:
+            if composite_tier["min_score"] > not_ready_tier["min_score"]:
+                composite_tier = not_ready_tier
+        elif sector_alloc_pct >= sector_cap and watch_tier:
+            if composite_tier["min_score"] > watch_tier["min_score"]:
+                composite_tier = watch_tier
 
-    # ── 5. 滯後機制（v2）：降級需低於 prev_tier - hysteresis_band ──
+    # ── 6. 滯後機制（v2）：降級需低於 prev_tier - hysteresis_band ──
     if prev_signal is not None:
         prev_tier = next((t for t in tiers if t["label"] == prev_signal), None)
         if prev_tier and composite_tier["min_score"] < prev_tier["min_score"]:
-            # 嘗試降級：只在 composite 低於 (prev min - band) 時才實際降
             if composite >= prev_tier["min_score"] - hysteresis:
-                composite_tier = prev_tier  # 繼續留在上一個 tier
+                composite_tier = prev_tier
 
-    return composite_tier["label"], composite_tier["color"]
+    return composite_tier["label"], composite_tier["color"], extra_reasons
 
 
 def _get_suggested_alloc(signal: str) -> str:

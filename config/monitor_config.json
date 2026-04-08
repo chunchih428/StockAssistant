@@ -95,10 +95,10 @@
   },
 
   "candidate_signals": {
-    "_note": "候選股信號分級門檻（composite 分數由高到低），以及 Disqualify 與產業曝險保護（v2）",
+    "_note": "候選股信號分級門檻（composite 分數由高到低），以及 Disqualify 與產業曝險保護（v3）",
     "tiers": [
       { "min_score": 75, "label": "💎 強力買入", "color": "#7c3aed", "require_uptrend": true },
-      { "min_score": 65, "label": "✅ 可以買入", "color": "#059669" },
+      { "min_score": 65, "label": "✅ 可以買入", "color": "#059669", "reject_breakdown": true },
       { "min_score": 52, "label": "👀 觀察等候", "color": "#eab308" },
       { "min_score": 40, "label": "⏸️  尚未就緒", "color": "#94a3b8" },
       { "min_score":  0, "label": "❌ 不予以考慮", "color": "#dc2626" }
@@ -110,11 +110,12 @@
       "disqualify_label": "⏸️  尚未就緒"
     },
     "disqualify_soft": {
-      "_note": "軟性（v2）：介於硬性門檻與此值之間時，信號上限壓到「觀察等候」",
+      "_note": "軟性（v3）：介於硬性門檻與此值之間時，信號上限壓到「觀察等候」(max_tier=WATCH，絕不壓到尚未就緒)",
       "fund_score_min": 50,
       "tech_score_min": 45
     },
     "sector_cap_for_candidate": 40,
+    "sector_hard_cap": 50,
     "hysteresis_band": 3
   },
 
