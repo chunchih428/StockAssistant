@@ -1,0 +1,56 @@
+{
+  "ticker": "CAVA",
+  "company": "CAVA Group, Inc.",
+  "analysis_date": "2026-04-08",
+  "source_file": "cache/2026-04-08/candidates/news/CAVA.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 CAVA 的成長潛力持正面看法，分析師紛紛上調目標價，反映出對其營運表現與估值的信心。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "TD Cowen Maintains Buy on Cava Group, Raises Price Target to $100",
+      "publisher": "Benzinga",
+      "date": "2026-04-02 08:24",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "TD Cowen 分析師 Andrew M. Charles 維持買入評級，並將目標價從 $90 上調至 $100，顯示機構投資人對公司未來獲利成長與市場擴張能力的強烈信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Cava Group (CAVA) Surpasses Market Returns: Some Facts Worth Knowing",
+      "publisher": "Yahoo",
+      "date": "2026-04-07 21:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日上漲 1.57 %，顯示近期交易動能強勁，且股價表現優於大盤，反映市場對其近期營運表現的認可。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Mizuho Maintains Neutral on Cava Group, Raises Price Target to $80",
+      "publisher": "Benzinga",
+      "date": "2026-04-02 08:10",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Mizuho 分析師 Nick Setyan 雖將目標價從 $72 上調至 $80，但維持中性評級，顯示儘管看好基本面改善，但對目前股價估值是否過高仍持保留態度。"
+    },
+    {
+      "rank": 2,
+      "title": "A Look At Cava Group’s Valuation After Mixed Recent Share Performance",
+      "publisher": "Simply Wall St.",
+      "date": "2026-03-31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對近期股價波動後的估值分析，文章採取客觀視角探討公司價值，未給出明確買賣建議，屬於中性市場觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

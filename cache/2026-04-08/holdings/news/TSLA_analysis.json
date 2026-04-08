@@ -1,0 +1,102 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla",
+  "analysis_date": "2026-04-05",
+  "source_file": "cache/2026-04-05/holdings/news/TSLA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 2,
+    "bearish_count": 12,
+    "neutral_count": 6,
+    "overall_sentiment": "bearish",
+    "key_theme": "第一季交車量不及預期引發市場對成長放緩與競爭加劇的擔憂，導致股價顯著承壓。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Prediction: Tesla Stock Is a Buy Before 2029 Due to This $10 Trillion Opportunity",
+      "publisher": "Yahoo",
+      "date": "2026-04-05 04:11",
+      "impact": "low",
+      "category": "市場展望",
+      "reason": "儘管短期面臨交車量下滑壓力，但長期看好特斯拉在 AI 與自動駕駛領域的 10 兆美元潛在市場機會。"
+    },
+    {
+      "rank": 2,
+      "title": "Elon Musk Says Outsider Status Key To SpaceX, Tesla's 'Radical' Breakthroughs",
+      "publisher": "Yahoo",
+      "date": "2026-04-04 23:01",
+      "impact": "low",
+      "category": "公司策略",
+      "reason": "強調執行長 Elon Musk 的創新思維與非傳統製造模式是公司長期競爭力的核心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Tesla reports 358,000 first-quarter vehicle deliveries, down 14% from last quarter",
+      "publisher": "CNBC",
+      "date": "2026-04-02 17:26",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "第一季交車量僅 358,000 輛，較上一季下滑 14%，且未達華爾街預期，直接導致股價重挫。"
+    },
+    {
+      "rank": 2,
+      "title": "BNP Paribas warns stakes 'couldn't be higher' for Tesla stock investors",
+      "publisher": "Yahoo",
+      "date": "2026-04-04 11:17",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "法國巴黎銀行警告特斯拉面臨嚴峻的營運挑戰，交車量疲軟加劇了投資人的風險擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Wedbush Keeps $600 Tesla Stock Price Target despite Q1 Miss",
+      "publisher": "Yahoo",
+      "date": "2026-04-05 03:12",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "雖然分析師 Dan Ives 維持目標價，但承認第一季交車量表現不佳，對股價造成短期壓力。"
+    },
+    {
+      "rank": 4,
+      "title": "Tesla Ends Model S, X Production As Elon Musk Calls It 'Ending Of An Era'",
+      "publisher": "Yahoo",
+      "date": "2026-04-04 23:33",
+      "impact": "low",
+      "category": "產品策略",
+      "reason": "正式結束 Model S 與 Model X 生產，象徵舊產品線的終結，短期內可能影響產品組合與營收結構。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "SpaceX IPO 2026 — Why Tesla (TSLA) Investors Should Pay Attention",
+      "publisher": "Yahoo",
+      "date": "2026-04-04 02:49",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討 SpaceX IPO 對特斯拉投資人的潛在影響，屬於間接關聯，對股價無直接驅動作用。"
+    },
+    {
+      "rank": 2,
+      "title": "Rocket Lab, Beyond Meat, Micron Technology And More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+      "publisher": "Benzinga",
+      "date": "2026-04-04 16:31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅提及特斯拉在社群媒體上的討論度，屬於市場情緒觀察，不涉及公司基本面變化。"
+    },
+    {
+      "rank": 3,
+      "title": "Gavin Newsom Hails Apple's '50 Years Of Innovation' As Tesla, Chevron, McKesson Leave California",
+      "publisher": "Yahoo",
+      "date": "2026-04-04 20:31",
+      "impact": "low",
+      "category": "公司營運",
+      "reason": "報導特斯拉遷出加州，屬於已知的營運調整，對當前股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,84 @@
+{
+  "ticker": "FC",
+  "company": "Franklin Covey Co.",
+  "analysis_date": "2026-04-08",
+  "source_file": "cache/2026-04-08/candidates/news/FC.json",
+  "summary": {
+    "total_articles": 11,
+    "bullish_count": 5,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司公布 2026 財年第 2 季財報，營收優於預期且維持全年財測，但 EPS 表現不如預期，市場對其獲利能力與技術面動能看法分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Franklin Covey shares are trading higher after the company reported better-than-expected Q2 sales results.",
+      "publisher": "Benzinga",
+      "date": "2026-04-02 11:48",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第 2 季營收達 5,965 萬美元，優於市場預期的 5,871 萬美元，顯示核心業務需求強勁，帶動股價上漲。"
+    },
+    {
+      "rank": 2,
+      "title": "Franklin Covey Affirms FY2026 Sales Guidance of $265.000M-$275.000M",
+      "publisher": "Benzinga",
+      "date": "2026-04-01 16:14",
+      "impact": "medium",
+      "category": "財測展望",
+      "reason": "公司重申 2026 財年營收目標為 2.65 億至 2.75 億美元，展現管理層對未來營運穩定性的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Franklin Covey Co (FC) Q2 2026 Earnings Call Highlights: Strong Education Division Growth",
+      "publisher": "GuruFocus.com",
+      "date": "2026-04-02 03:00",
+      "impact": "medium",
+      "category": "業務發展",
+      "reason": "財報會議中強調教育部門表現亮眼，顯示公司在特定垂直市場的成長動能依然強勁。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Franklin Covey Q2 EPS $(0.17) Misses $0.03 Estimate",
+      "publisher": "Benzinga",
+      "date": "2026-04-01 16:13",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "每股虧損 0.17 美元，顯著低於市場預期的 0.03 美元獲利，反映出獲利能力面臨壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Top 2 Industrials Stocks You May Want To Dump In Q2",
+      "publisher": "Benzinga",
+      "date": "2026-04-02 12:12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析師基於 RSI 指標指出該股動能減弱，建議投資人考慮減持，屬於技術面負面觀點。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Franklin Covey Co (NYSE:FC) Reports Mixed Q2 2026 Results",
+      "publisher": "ChartMill",
+      "date": "2026-04-01 20:40",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "綜合報導指出財報表現好壞參半，雖然 EPS 未達標，但現金流與遞延營收成長表現良好，抵銷了部分負面情緒。"
+    },
+    {
+      "rank": 2,
+      "title": "Franklin Covey Co. 2026 Q2 - Results - Earnings Call Presentation",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-01 17:30",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "提供財報簡報原始資料，供投資人自行解讀，無特定立場。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

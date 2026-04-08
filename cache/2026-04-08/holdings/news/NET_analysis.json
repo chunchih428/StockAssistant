@@ -1,0 +1,57 @@
+{
+  "ticker": "NET",
+  "company": "Cloudflare",
+  "analysis_date": "2026-04-05",
+  "source_file": "cache/2026-04-05/holdings/news/NET.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "Cloudflare 在 AI 邊緣運算領域的成長潛力與其高估值之間的拉鋸戰，導致股價近期波動加劇。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare’s AI Edge Contracts Shift Growth Outlook Despite Rich Valuation",
+      "publisher": "Simply Wall St.",
+      "date": "2026-04-01T18:10:37Z",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "該報導指出 Cloudflare 透過 AI 邊緣運算合約成功轉型，為長期營收成長提供強勁動能，儘管估值偏高，但市場對其技術護城河仍持正面看法。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Cloudflare (NET) Dipped More Than Broader Market Today",
+      "publisher": "Zacks",
+      "date": "2026-03-30T22:00:04Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價表現弱於大盤，反映出投資人對於高成長科技股在市場修正期間的脆弱性感到擔憂，賣壓主要來自於獲利了結與估值修正。"
+    },
+    {
+      "rank": 2,
+      "title": "Q4 Rundown: Cloudflare (NYSE:NET) Vs Other Content Delivery Stocks",
+      "publisher": "StockStory",
+      "date": "2026-03-31T08:29:19Z",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "透過與同業比較，顯示 Cloudflare 在內容傳遞網路 (CDN) 市場的競爭壓力，成長速度與獲利能力受到同業競爭的檢視。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Trending Stock Cloudflare, Inc. (NET) a Buy Now?",
+      "publisher": "Zacks",
+      "date": "2026-04-03T13:00:03Z",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "此類文章通常為技術性或量化指標分析，未提供具體的新基本面消息，僅作為投資人評估買入時機的參考，對股價無直接驅動影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
