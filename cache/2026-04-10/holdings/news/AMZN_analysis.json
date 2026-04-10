@@ -1,0 +1,93 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-04-08",
+  "source_file": "cache/2026-04-08/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 2,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "Amazon 透過擴大 AI 晶片應用、深化 Anthropic 合作及與 USPS 達成物流協議，展現強大的生態系韌性與成長動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Uber is the latest to be won over by Amazon’s AI chips",
+      "publisher": "Yahoo",
+      "date": "2026-04-07 16:46",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "Uber 擴大 AWS 合約並採用 Amazon 自研 AI 晶片，驗證了 Amazon 在雲端運算與硬體基礎設施的競爭優勢。"
+    },
+    {
+      "rank": 2,
+      "title": "Anthropic Lets Apple, Amazon Test More Powerful Mythos AI Model",
+      "publisher": "Yahoo",
+      "date": "2026-04-07 18:00",
+      "impact": "high",
+      "category": "技術合作",
+      "reason": "Amazon 獲得 Anthropic 最先進 AI 模型測試權，強化了其在生成式 AI 領域的技術領先地位。"
+    },
+    {
+      "rank": 3,
+      "title": "Anthropic launches cybersecurity partnership with Nvidia, Microsoft, other tech giants",
+      "publisher": "Yahoo",
+      "date": "2026-04-07 18:01",
+      "impact": "medium",
+      "category": "技術合作",
+      "reason": "參與 Project Glasswing 資安計畫，顯示 Amazon 在 AI 安全標準制定上的核心影響力。"
+    },
+    {
+      "rank": 4,
+      "title": "Billionaires Are Loading Up on This Genius Stock",
+      "publisher": "Yahoo",
+      "date": "2026-04-07 17:53",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "機構投資人持續增持，反映市場對 Amazon 長期成長潛力的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Amazon signs new delivery deal with Postal Service at 20% less volume",
+      "publisher": "Yahoo",
+      "date": "2026-04-07 16:14",
+      "impact": "medium",
+      "category": "物流營運",
+      "reason": "與 USPS 的新合約削減了 20 % 的包裹量，可能增加 Amazon 自建物流體系的營運成本壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "AWS teams working around the clock to keep Middle East services up after drone strikes",
+      "publisher": "CNBC",
+      "date": "2026-04-07 12:56",
+      "impact": "low",
+      "category": "地緣政治",
+      "reason": "中東地區無人機攻擊影響資料中心運作，雖公司正全力搶修，但地緣政治風險對雲端服務穩定性構成潛在威脅。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "AWS CEO Matt Garman on Amazon’s AI investments: There isn’t just one winner",
+      "publisher": "CNBC",
+      "date": "2026-04-07 11:58",
+      "impact": "low",
+      "category": "高層觀點",
+      "reason": "AWS CEO 對 AI 市場競爭的看法較為保守，強調市場多元性，未提供具體財務指引。"
+    },
+    {
+      "rank": 2,
+      "title": "Nu Holdings Adds Ex Amazon Leader As U.S. Expansion Shapes Valuation",
+      "publisher": "Yahoo",
+      "date": "2026-04-07 18:12",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "前 Amazon 高管加入 Nu Holdings 董事會，對 Amazon 本身股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

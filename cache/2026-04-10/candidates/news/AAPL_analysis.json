@@ -1,0 +1,129 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-04-08",
+  "source_file": "cache/2026-04-08/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 4,
+    "bearish_count": 12,
+    "neutral_count": 4,
+    "overall_sentiment": "bearish",
+    "key_theme": "折疊式 iPhone 開發面臨工程挑戰導致股價重挫，市場對其 AI 競爭力與服務成長放緩亦存有疑慮。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple's iPhone 17 Dominated Global Sales In Q4",
+      "publisher": "Benzinga",
+      "date": "2026-04-07 07:05",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "iPhone 17 系列在第四季表現強勁，市佔率達到 69 %，顯示 Apple 在高階智慧型手機市場仍具備極強的定價權與品牌忠誠度。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple’s stock could surge 20%, and the MacBook Neo could be a key catalyst",
+      "publisher": "MarketWatch",
+      "date": "2026-04-06 12:24",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "分析師看好 MacBook Neo 作為未來成長催化劑，預期股價有 20 % 的上漲空間，反映市場對 Apple 硬體創新仍有期待。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple's global sales for iPhone 17 surged in February",
+      "publisher": "Yahoo",
+      "date": "2026-04-07 19:34",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "二月份 iPhone 17 全球銷售年增 26 %，數據顯示短期內產品需求依然穩健。"
+    },
+    {
+      "rank": 4,
+      "title": "UnitedHealth, Apple share gains contribute to Dow's 117-point jump",
+      "publisher": "MarketWatch",
+      "date": "2026-04-06 10:16",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Apple 股價上漲對道瓊指數產生正面貢獻，反映其作為權值股的市場影響力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Apple shares sink 4% on report of foldable iPhone delays",
+      "publisher": "CNBC",
+      "date": "2026-04-07 12:16",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "折疊式 iPhone 因工程挑戰面臨延遲，此消息為股價下跌主因，市場擔憂 Apple 在創新產品線的執行力。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple shares plunge 4% as foldable iPhone delays, App Store slump weigh on AAPL",
+      "publisher": "Yahoo",
+      "date": "2026-04-07 14:53",
+      "impact": "high",
+      "category": "財報與營運",
+      "reason": "除折疊機延遲外，App Store 成長放緩亦對股價造成壓力，顯示服務部門營收動能減弱。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple at 50: The iPhone maker 'blew a 5-year lead' on AI",
+      "publisher": "CNBC",
+      "date": "2026-04-04 08:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場評論指出 Apple 在 AI 領域落後，需進行重大策略轉型以維持競爭力，引發投資人對長期成長性的擔憂。"
+    },
+    {
+      "rank": 4,
+      "title": "Bank of America resets Apple stock forecast",
+      "publisher": "Yahoo",
+      "date": "2026-04-07 11:03",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "美銀調整 Apple 股價預測，考量到年初至今 4.6 % 的跌幅，反映市場對其短期表現的修正。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Dow Jones Futures: Stocks Whipsaw Into Trump's Iran War Deadline; Apple, Tesla Slump",
+      "publisher": "Yahoo",
+      "date": "2026-04-07 21:44",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Apple 股價下跌部分受到地緣政治風險（伊朗衝突）影響，屬於大盤整體波動的一部分。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple Weighs AI Security Push And China Risks As Shares Trade Below Targets",
+      "publisher": "Yahoo",
+      "date": "2026-04-07 21:11",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Apple 參與 Project Glasswing 資安計畫，顯示其在 AI 安全的投入，但同時面臨中國市場風險，正負因素抵銷。"
+    },
+    {
+      "rank": 3,
+      "title": "Hope for a U.S.-Iran deal, Apple's anniversary, OpenAI's podcast deal and more in Morning Squawk",
+      "publisher": "CNBC",
+      "date": "2026-04-06 07:43",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "提及 Apple 週年紀念等資訊，對股價無實質影響。"
+    },
+    {
+      "rank": 4,
+      "title": "Josh Brown on Apple: Close your eyes and buy it",
+      "publisher": "CNBC",
+      "date": "2026-04-07 12:38",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場評論員對 Apple 長期看好，但此觀點與當日股價下跌的短期情緒形成對比，屬於市場雜音。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
