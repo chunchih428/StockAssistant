@@ -1,0 +1,102 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy",
+  "analysis_date": "2026-04-08",
+  "source_file": "cache/2026-04-08/holdings/news/CEG.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 2,
+    "bearish_count": 7,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "儘管 AI 數據中心帶動核能需求長期看好，但近期財報展望不如預期及多家券商下調目標價，導致股價面臨修正壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Barclays Maintains Overweight on Constellation Energy, Raises Price Target to $360",
+      "publisher": "Benzinga",
+      "date": "2026-04-06 10:02",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Barclays 分析師 Nicholas Campanella 維持對 CEG 的增持評級，並將目標價上調至 $360，顯示在市場普遍下調目標價的環境下，仍有機構看好其長期價值。"
+    },
+    {
+      "rank": 2,
+      "title": "Buy 3 Nuclear Energy Stocks for 2026 Amid AI-Powered Data Center Boom",
+      "publisher": "Yahoo",
+      "date": "2026-04-02 16:39",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "強調 AI 數據中心對核能電力的強勁需求，將 CEG 列為核能領域的長期贏家，支撐其基本面成長邏輯。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Constellation Energy Reset Weighs On Outlook As Buyback And Capex Expand",
+      "publisher": "Yahoo",
+      "date": "2026-04-04 06:07",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司發布的 2026 年獲利展望低於市場預期，且資本支出與庫藏股計畫的調整引發市場對獲利能力的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Wells Fargo Maintains Overweight on Constellation Energy, Lowers Price Target to $404",
+      "publisher": "Benzinga",
+      "date": "2026-04-01 12:31",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "儘管維持增持評級，但 Wells Fargo 大幅下調目標價，反映出市場對該公司短期成長動能的修正。"
+    },
+    {
+      "rank": 3,
+      "title": "Keybanc Maintains Overweight on Constellation Energy, Lowers Price Target to $321",
+      "publisher": "Benzinga",
+      "date": "2026-04-01 11:13",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Keybanc 分析師 Sophie Karp 下調目標價，顯示機構投資人對 CEG 的估值模型進行了保守化調整。"
+    },
+    {
+      "rank": 4,
+      "title": "BMO Capital Maintains Outperform on Constellation Energy, Lowers Price Target to $386",
+      "publisher": "Benzinga",
+      "date": "2026-04-02 11:11",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "BMO Capital 下調目標價，反映出在財報展望不佳後，市場對其股價溢價空間的重新評估。"
+    },
+    {
+      "rank": 5,
+      "title": "Constellation Energy Corp. stock falls Thursday, underperforms market",
+      "publisher": "MarketWatch",
+      "date": "2026-04-02 16:38",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價表現落後大盤，反映出市場對近期利空消息的負面反應，短期賣壓沉重。"
+    },
+    {
+      "rank": 6,
+      "title": "Constellation Energy Corporation (CEG) Stock Drops Despite Market Gains",
+      "publisher": "Yahoo",
+      "date": "2026-04-02 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "在市場整體上漲時 CEG 逆勢下跌 2.38 %，顯示個股面臨特定的賣壓與信心不足。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Mizuho Maintains Neutral on Constellation Energy, Lowers Price Target to $300",
+      "publisher": "Benzinga",
+      "date": "2026-04-01 09:43",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Mizuho 維持中性評級並下調目標價，代表分析師對該股目前價格與未來獲利成長之間的平衡點持保留態度。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
