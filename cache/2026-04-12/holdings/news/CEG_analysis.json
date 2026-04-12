@@ -1,0 +1,74 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy",
+  "analysis_date": "2026-04-12",
+  "source_file": "cache/2026-04-12/holdings/news/CEG.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 3,
+    "bearish_count": 3,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對於 Constellation Energy 在 AI 數據中心電力需求下的成長潛力持樂觀態度，但近期面臨 Three Mile Island 核電廠重啟進度延遲的營運不確定性。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Barclays Maintains Overweight on Constellation Energy, Raises Price Target to $360",
+      "publisher": "Benzinga",
+      "date": "2026-04-06 10:02",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Barclays 分析師 Nicholas Campanella 維持對 CEG 的「加碼」評級，並將目標價調升至 $360，反映出華爾街對其核能資產在 AI 能源需求激增背景下的長期價值認可。"
+    },
+    {
+      "rank": 2,
+      "title": "The Bull Case for Constellation Energy: Here's Where It Could Be in 3 Years",
+      "publisher": "Yahoo",
+      "date": "2026-04-09 14:05",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "文章強調該公司在滿足超大規模資料中心（Hyperscalers）電力需求方面處於極佳競爭地位，具備長期成長潛力。"
+    },
+    {
+      "rank": 3,
+      "title": "Constellation Energy Corp Digital Transformation Strategy Analysis Report 2025",
+      "publisher": "Yahoo",
+      "date": "2026-04-09 14:28",
+      "impact": "low",
+      "category": "企業策略",
+      "reason": "報告指出公司透過數位轉型與擴大清潔能源組合（目標達成 95% 無碳電力）來提升市場競爭力，屬於長期利多因素。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Three Mile Island Delays Test Constellation Energy’s Nuclear Growth And Valuation",
+      "publisher": "Yahoo",
+      "date": "2026-04-09 01:16",
+      "impact": "high",
+      "category": "營運風險",
+      "reason": "Three Mile Island 核電廠重啟計畫面臨延遲，直接衝擊市場對公司核能產能擴張的預期，增加了估值修正的風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Constellation Energy Stock Slumped in March",
+      "publisher": "Motley Fool",
+      "date": "2026-04-08 13:35",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "選用 Motley Fool 版本作為代表，分析了 3 月份股價回調的背景，指出在經歷大幅上漲後，市場對高估值的擔憂與獲利了結壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "Constellation Energy Corporation (CEG) Stock Slides as Market Rises",
+      "publisher": "Yahoo",
+      "date": "2026-04-09 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出股價在市場整體上漲時反而下跌 1.49%，顯示短期內賣壓較重，技術面表現疲軟。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

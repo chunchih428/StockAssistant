@@ -1,0 +1,57 @@
+{
+  "ticker": "PWR",
+  "company": "Quanta Services",
+  "analysis_date": "2026-04-12",
+  "source_file": "cache/2026-04-12/holdings/news/PWR.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場正評估 Quanta Services 在 AI 需求驅動下的高估值合理性，儘管長期成長前景看好，但近期股價面臨獲利回吐與短期技術性修正壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Quanta Trades at a Premium: Should Investors Buy the Stock or Fold? — Is PWR stock's premium valuation justified by AI-driven demand, record backlog and strong 2026 growth outlook?",
+      "publisher": "Yahoo",
+      "date": "2026-04-08 15:23",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "文章探討了 Quanta Services 的高估值是否由 AI 基礎設施需求、創紀錄的積壓訂單以及 2026 年強勁的成長展望所支撐，顯示市場對其基本面仍具信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Quanta Services Inc. stock underperforms Monday when compared to competitors",
+      "publisher": "MarketWatch",
+      "date": "2026-04-06 16:42",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價表現落後於同業，反映出短期內資金配置的輪動或市場對該板塊特定個股的暫時性冷卻。"
+    },
+    {
+      "rank": 2,
+      "title": "Quanta Services (PWR) Stock Falls Amid Market Uptick: What Investors Need to Know — In the most recent trading session, Quanta Services (PWR) closed at $554.38, indicating a -1.11% shift from the previous",
+      "publisher": "Yahoo",
+      "date": "2026-04-06 22:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "在整體市場上漲的背景下，PWR 股價逆勢下跌 1.11 %，顯示短期內存在獲利回吐的賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Assessing Quanta Services (PWR) Valuation After Strong Three Month Share Price Momentum — Quanta Services stock in focus Quanta Services (PWR) has drawn investor attention after recent gains over the past 3 mon",
+      "publisher": "Yahoo",
+      "date": "2026-04-07 16:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導主要回顧過去 3 個月的強勁漲勢並進行估值評估，屬於中性的市場觀察，未提供新的利多或利空催化劑。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
