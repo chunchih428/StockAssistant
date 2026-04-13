@@ -1,0 +1,93 @@
+{
+  "ticker": "META",
+  "company": "Meta",
+  "analysis_date": "2026-04-12",
+  "source_file": "cache/2026-04-12/holdings/news/META.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "Meta 積極投入 AI 基礎設施與模型開發，雖獲得市場對其技術潛力的認可，但仍面臨法律訴訟與監管壓力的負面影響。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "CoreWeave Inks $21B AI Infrastructure Deal With Meta Platforms",
+      "publisher": "Yahoo",
+      "date": "2026-04-10 15:05",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "Meta 與 CoreWeave 簽署高達 210 億美元的 AI 雲端基礎設施合約，顯示公司在 AI 運算能力上的巨大資本投入，有助於鞏固其在 AI 領域的競爭優勢。"
+    },
+    {
+      "rank": 2,
+      "title": "Oklo Meta Nuclear Campus Puts AI Power Demand At Center Stage",
+      "publisher": "Yahoo",
+      "date": "2026-04-11 21:11",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "Meta 與 Oklo 合作開發 1.2 GW 核能園區，旨在解決 AI 資料中心龐大的電力需求，展現公司對長期基礎設施布局的遠見。"
+    },
+    {
+      "rank": 3,
+      "title": "Meta's Muse Spark AI Model Impressed. Here's The Next Test In Race With Google, OpenAI.",
+      "publisher": "Yahoo",
+      "date": "2026-04-10 14:49",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "新 AI 模型 Muse Spark 的發布獲得華爾街分析師正面評價，被視為 Meta 在 AI 競賽中追趕 Google 與 OpenAI 的重要里程碑。"
+    },
+    {
+      "rank": 4,
+      "title": "Will Meta Unity VR Deal Reshape Unity Software's (U) Role in Immersive and AI-Powered Tools?",
+      "publisher": "Yahoo",
+      "date": "2026-04-11 23:07",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "Meta 與 Unity 延長多年期合作協議，將持續支援沉浸式體驗與 AI 工具開發，有助於強化其元宇宙與 AI 生態系統。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Meta yanks plaintiff lawyer recruitment ads for addiction lawsuits",
+      "publisher": "Yahoo",
+      "date": "2026-04-10 14:30",
+      "impact": "medium",
+      "category": "法律訴訟",
+      "reason": "Meta 因青少年成癮訴訟被判賠償 3.81 億美元，且面臨持續的法律與監管審查，對公司聲譽與財務造成負面影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Down 5% in 2026, Is Muse Spark What META Stock Needs to Finally Recover?",
+      "publisher": "Yahoo",
+      "date": "2026-04-10 19:29",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管有新產品發布，但 Meta 今年股價仍下跌 5%，反映出市場對 AI 高額支出與法律訴訟風險的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Amazon, Meta, Levi Strauss And More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+      "publisher": "Benzinga",
+      "date": "2026-04-11 09:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅反映散戶投資者在社群媒體上的討論熱度，未提供實質性的財務或業務變動資訊。"
+    },
+    {
+      "rank": 2,
+      "title": "Got $10,000? Here’s the Clear Winner Between Meta and Alphabet",
+      "publisher": "Yahoo",
+      "date": "2026-04-10 16:27",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "屬於投資觀點比較類文章，對股價無直接驅動影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
