@@ -1,0 +1,93 @@
+{
+  "ticker": "ETN",
+  "company": "Eaton",
+  "analysis_date": "2026-04-12",
+  "source_file": "cache/2026-04-12/holdings/news/ETN.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 5,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 資料中心帶動的電力基礎設施需求，Eaton 積極擴大美國產能，儘管面臨內部人賣股與估值討論，整體成長前景仍受市場看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Eaton Expands Operations in Nebraska with New Manufacturing Facility to Meet Increasing Switchgear Demand Driven by AI Data Center Boom",
+      "publisher": "Yahoo",
+      "date": "2026-04-08 12:33",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "Eaton 宣布投資超過 3,000 萬美元在內布拉斯加州興建新廠，旨在滿足 AI 資料中心對中壓開關設備的強勁需求，此舉直接強化了公司在電力管理領域的長期成長動能。"
+    },
+    {
+      "rank": 2,
+      "title": "Eaton Corp PLC (NYSE:ETN): A Durable Dividend Stock Built on Profitability and Financial Health",
+      "publisher": "ChartMill",
+      "date": "2026-04-09 10:11",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "分析指出 Eaton 具備強勁的獲利能力與穩健的財務體質，作為股息成長股，其長期投資價值獲得市場肯定。"
+    },
+    {
+      "rank": 3,
+      "title": "$1000 Invested In Eaton Corp 5 Years Ago Would Be Worth This Much Today",
+      "publisher": "Benzinga",
+      "date": "2026-04-08 19:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "回顧過去 5 年的股價表現，強調了 Eaton 作為長期投資標的的資本增值能力，有助於維持市場信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Eaton Insiders Sold US$22m Of Shares Suggesting Hesitancy",
+      "publisher": "Simply Wall St.",
+      "date": "2026-04-04 14:00",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "內部人賣出價值 2,200 萬美元的股票，引發市場對於管理層是否認為股價已達高點的疑慮，可能對短期股價造成壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Eaton (ETN) Stock Sinks As Market Gains: Here's Why",
+      "publisher": "Zacks",
+      "date": "2026-04-02 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出股價在市場上漲期間出現回調，反映出部分投資人對近期漲幅過快後的獲利了結心態。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Assessing Eaton (ETN) Valuation After Strong Recent Share Price Performance",
+      "publisher": "Yahoo",
+      "date": "2026-04-10 15:09",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對股價近期強勁表現後的估值進行理性評估，屬於中性的市場觀察，未給出明確買賣建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Eaton Corporation, PLC (ETN) is Attracting Investor Attention: Here is What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-04-08 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場關注度分析，整理公司基本面資訊，未對股價走勢產生直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Powell Industries: A Competitive Analysis",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-09 09:55",
+      "impact": "low",
+      "category": "競爭分析",
+      "reason": "將 Powell Industries 與 Eaton 進行比較，指出競爭對手在特定指標上的表現，對 Eaton 本身而言屬於產業競爭的常態資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-04-12",
+  "source_file": "cache/2026-04-12/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對 QQQ 的長期成長潛力與 AI 驅動的科技股表現持樂觀態度，但近期面臨資金輪動至非科技類股的壓力與波動性風險。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "QQQ: This Pullback Is A Buying Opportunity For Quality Growth",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-07 07:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師認為 QQQ 涵蓋的 AI、雲端運算與晶片龍頭企業具備長期成長品質，當前的回調提供了良好的進場點。"
+    },
+    {
+      "rank": 2,
+      "title": "QQQX: Generates Income From The Current Uncertainty Of AI",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-07 06:12",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "指出 QQQX 在市場震盪時的折價優勢，並強調其在市場持續波動下相較於 QQQ 的潛在超額報酬機會。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ditching SPY, QQQ? These Unconventional ETFs Lead 2026 Gains",
+      "publisher": "Benzinga",
+      "date": "2026-04-06 14:20",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出投資人正將資金從 QQQ 等主流 ETF 輪動至能源與原物料等利基型 ETF，反映出市場對科技股動能減弱的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "The Biggest Risk For Covered Call ETF Investors And How To Avoid It",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-07 09:15",
+      "impact": "low",
+      "category": "風險評估",
+      "reason": "提醒投資人過度集中於 QQQ 等標的的掩護性買權 (Covered Call) 策略存在風險，特別是在市場劇烈波動時的資產保護能力有限。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "QQQ Beat the Market 46% Last Year. Here’s the Volatility You’re Really Buying",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-04-11 13:02",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "回顧 QQQ 去年優異的績效，並提醒投資人高報酬背後伴隨的高波動性，屬於客觀的風險收益分析。"
+    },
+    {
+      "rank": 2,
+      "title": "IQQQ: Tax-Efficient Income From The Nasdaq But Does Not Protect Against Declines",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-11 08:45",
+      "impact": "low",
+      "category": "產品評測",
+      "reason": "針對 IQQQ 的稅務效率與選擇權策略進行評估，強調其收益特性但同時指出其無法規避市場下跌風險。"
+    },
+    {
+      "rank": 3,
+      "title": "TQQQ: A Correction Could Be A Blessing In Disguise (Technical Analysis)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-06 22:33",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "針對槓桿型 ETF TQQQ 的技術面分析，認為修正可能帶來機會，但屬於特定槓桿產品的觀點，對 QQQ 本身影響中性。"
+    },
+    {
+      "rank": 4,
+      "title": "The Zacks Analyst Blog Highlights MAGS, QQQ, VGT, XLK, SMH and FTEC",
+      "publisher": "Zacks",
+      "date": "2026-04-10 11:20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為分析師部落格的概覽文章，將 QQQ 與其他科技類 ETF 並列提及，未提供具體的買賣建議或重大基本面變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
