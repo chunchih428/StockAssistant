@@ -1,0 +1,93 @@
+{
+  "ticker": "NET",
+  "company": "Cloudflare",
+  "analysis_date": "2026-04-12",
+  "source_file": "cache/2026-04-12/holdings/news/NET.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 2,
+    "bearish_count": 5,
+    "neutral_count": 2,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對 AI 模型更新引發的替代擔憂導致股價承壓，但分析師認為拋售過度，且公司在 AI 基礎設施與合作夥伴關係上持續取得進展。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare Sell-Off Offers Buying Opportunity as Project Glasswing Concerns 'Overblown,' Oppenheimer Says",
+      "publisher": "MT Newswires",
+      "date": "2026-04-10 19:59",
+      "impact": "high",
+      "category": "分析師觀點",
+      "reason": "Oppenheimer 分析師指出近期市場對 Project Glasswing 的擔憂被過度放大，認為目前的股價回調提供了良好的買入機會，顯示機構對其長期基本面仍具信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Cloudflare-GoDaddy Roll Out AI Crawl Control For Websites",
+      "publisher": "Benzinga",
+      "date": "2026-04-07 11:53",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Cloudflare 與 GoDaddy 合作推出 AI 爬蟲控制功能，並整合 Agent Name Service (ANS) 等標準，強化了公司在 AI 時代的網路安全與數據主權地位，具備長期戰略價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "SaaS Stock Meltdown: ServiceNow, Salesforce, Cloudflare, Snowflake Hit Hard",
+      "publisher": "Benzinga",
+      "date": "2026-04-09 13:56",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Anthropic 與 Meta 發布的新模型引發市場對 SaaS 企業被 AI 取代的恐懼，導致 Cloudflare 等 SaaS 類股遭到拋售，反映出投資人對 AI 競爭格局的敏感度極高。"
+    },
+    {
+      "rank": 2,
+      "title": "Anthropic Launch Sends Fastly Down 18%, Cloudflare And Akamai Also Fall",
+      "publisher": "GuruFocus.com",
+      "date": "2026-04-10 19:03",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Anthropic 的產品發布對邊緣運算與 CDN 領域產生連鎖反應，導致同業 Fastly 大跌，Cloudflare 亦受市場情緒波及而下跌，顯示板塊估值面臨壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "Cloudflare (NET) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "publisher": "Zacks",
+      "date": "2026-04-10 21:50",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Cloudflare 股價跌幅超過大盤，顯示在市場震盪期間，高估值的成長股面臨較大的賣壓與流動性風險。"
+    },
+    {
+      "rank": 4,
+      "title": "Why Cloudflare (NET) Stock Is Down Today",
+      "publisher": "StockStory",
+      "date": "2026-04-11 01:34",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對股價下跌的技術性分析，確認了近期賣壓主要源於市場對 AI 替代風險的擔憂，而非公司內部基本面惡化。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "How Cloudflare's Revenue Model Has Shifted Amid Artificial Intelligence Boom",
+      "publisher": "Investor's Business Daily",
+      "date": "2026-04-10 20:29",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "文章探討 Cloudflare 在 AI 浪潮下的營收模式轉型，屬於中性的產業趨勢分析，有助於投資人理解公司長期策略，但對短期股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Here's How Much You Would Have Made Owning Cloudflare Stock In The Last 5 Years",
+      "publisher": "Benzinga",
+      "date": "2026-04-10 12:15",
+      "impact": "low",
+      "category": "歷史回顧",
+      "reason": "回顧過去 5 年的股價表現，屬於歷史數據統計，對當前市場情緒與未來股價走勢不具備預測性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

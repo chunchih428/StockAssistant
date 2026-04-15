@@ -142,7 +142,20 @@
       "LCID",
       "WGO",
       "FFAI"
-    ]
+    ],
+    "PLTR": [
+      "CRM",
+      "APP",
+      "INTU",
+      "ADBE",
+      "CDNS",
+      "SNPS",
+      "ADSK",
+      "MSTR",
+      "DDOG",
+      "ROP"
+    ],
+    "WPM": []
   },
   "competitors": {
     "FIX": [],
@@ -159,7 +172,6 @@
     "DDS": [],
     "OLLI": [],
     "ETSY": [],
-    "AMD": [],
     "INTC": [],
     "TXN": [],
     "MRVL": [],
@@ -209,7 +221,6 @@
     "MDB": [],
     "VRSN": [],
     "TWLO": [],
-    "AKAM": [],
     "DELL": [],
     "SNDK": [],
     "WDC": [],
@@ -239,45 +250,35 @@
     "WGO": [],
     "FFAI": [],
     "ACM": [],
-    "AVGO": []
+    "CRM": [],
+    "APP": [],
+    "INTU": [],
+    "ADBE": [],
+    "CDNS": [],
+    "SNPS": [],
+    "ADSK": [],
+    "MSTR": [],
+    "DDOG": [],
+    "ROP": []
   },
   "candidates": {
     "AAPL": [],
-    "FROG": [
-      "GEN",
-      "RBRK",
-      "PATH",
-      "OS",
-      "DLB",
-      "S",
-      "GTLB",
-      "QLYS",
-      "CVLT",
-      "NTSK",
-      "MSFT"
-    ],
-    "LRCX": [
-      "AMAT",
-      "KLAC",
-      "TER",
-      "Q",
-      "ENTG",
-      "MKSI",
-      "AMKR",
-      "ONTO",
-      "FORM",
-      "ENPH",
-      "ACMR"
-    ],
-    "HON": [],
-    "WPM": [],
-    "PAAS": [],
-    "SMTC": [],
     "TER": [],
     "HBM": [],
     "GLW": [],
-    "SCCO": [],
-    "MU": [],
-    "QCOM": []
+    "QCOM": [],
+    "NFLX": [],
+    "GE": [],
+    "AKAM": [],
+    "APH": [],
+    "REAL": [],
+    "AME": [],
+    "SGI": [],
+    "AMD": [],
+    "BKH": [],
+    "NESR": [],
+    "AXTI": [],
+    "AVGO": [],
+    "ASML": []
   }
 }
