@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15 03:11:29",
+  "generated_at": "2026-04-15 04:00:30",
   "allocation": {
     "total_value": 346962.46,
     "total_pnl": 35070.788960000005,
@@ -354,19 +354,6 @@
       "news_count": 20
     },
     {
-      "symbol": "AKAM",
-      "recommendation": "unknown",
-      "confidence": null,
-      "scores": {
-        "fundamental": 3,
-        "technical": 2,
-        "risk": 4
-      },
-      "current_price": 88.84,
-      "analysis": "",
-      "news_count": 13
-    },
-    {
       "symbol": "AMD",
       "recommendation": "unknown",
       "confidence": null,
@@ -417,32 +404,6 @@
       "current_price": 380.78,
       "analysis": "",
       "news_count": 20
-    },
-    {
-      "symbol": "ASML",
-      "recommendation": "unknown",
-      "confidence": null,
-      "scores": {
-        "fundamental": 4,
-        "technical": 4,
-        "risk": 5
-      },
-      "current_price": 1518.3,
-      "analysis": "",
-      "news_count": 20
-    },
-    {
-      "symbol": "AXTI",
-      "recommendation": "unknown",
-      "confidence": null,
-      "scores": {
-        "fundamental": 1,
-        "technical": 4,
-        "risk": 3
-      },
-      "current_price": 67.3,
-      "analysis": "",
-      "news_count": 9
     },
     {
       "symbol": "BKH",
@@ -610,6 +571,19 @@
         "risk": 5
       },
       "current_price": 135.46,
+      "analysis": "",
+      "news_count": 0
+    },
+    {
+      "symbol": "AKAM",
+      "recommendation": "unknown",
+      "confidence": null,
+      "scores": {
+        "fundamental": 3,
+        "technical": 2,
+        "risk": 4
+      },
+      "current_price": 88.84,
       "analysis": "",
       "news_count": 0
     },
