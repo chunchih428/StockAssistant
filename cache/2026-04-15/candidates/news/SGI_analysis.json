@@ -1,0 +1,66 @@
+{
+  "ticker": "SGI",
+  "company": "Somnigroup International Inc.",
+  "analysis_date": "2026-04-15",
+  "source_file": "cache/2026-04-15/candidates/news/SGI.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司宣布以 25 億美元全股票交易收購 Leggett & Platt，引發市場對併購綜效與估值的多空辯論，同時分析師對目標價進行調整。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Somnigroup International, the World's Leading Bedding Company, to Acquire Leggett & Platt, A Diversified Component Manufacturer and Key Somnigroup Supplier, in an All-Stock Transaction",
+      "publisher": "Yahoo",
+      "date": "2026-04-13 10:36",
+      "impact": "high",
+      "category": "企業併購",
+      "reason": "選擇此篇作為代表，因其詳細說明了收購 Leggett & Platt 的全股票交易架構，此舉有助於垂直整合供應鏈並鞏固其在寢具市場的領導地位。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "B of A Securities Maintains Buy on Somnigroup International, Lowers Price Target to $96",
+      "publisher": "Benzinga",
+      "date": "2026-04-14 08:05",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "儘管維持買入評級，但 B of A Securities 下調目標價至 96 美元，顯示分析師對併購後的短期獲利稀釋或整合風險存有疑慮。"
+    },
+    {
+      "rank": 2,
+      "title": "Leggett & Platt: The Somnigroup Merger Is A Decent Exit, But No Bargain",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-13 18:42",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "市場觀點認為該收購案對 SGI 而言並非「便宜」的交易，暗示收購溢價可能過高，對股東價值創造的預期持保留態度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Stephens & Co. Reiterates Equal-Weight on Somnigroup International, Maintains $89 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-04-14 09:40",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "分析師 Jeff Lick 重申中立評級與 89 美元目標價，顯示在併購消息公布後，市場觀望情緒濃厚，尚未看到顯著的估值重估。"
+    },
+    {
+      "rank": 2,
+      "title": "Clearbridge Mid Cap Strategy Added Somnigroup International (SGI) Amid Mixed Growth Drivers",
+      "publisher": "Yahoo",
+      "date": "2026-04-10 14:43",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "ClearBridge 將 SGI 納入投資組合，但同時提到公司面臨「混合增長驅動因素」，顯示機構投資者對其基本面看法分歧，屬於中性偏多配置。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

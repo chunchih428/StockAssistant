@@ -1,0 +1,102 @@
+{
+  "ticker": "ASML",
+  "company": "ASML Holding N.V.",
+  "analysis_date": "2026-04-15",
+  "source_file": "cache/2026-04-15/candidates/news/ASML.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場高度期待 ASML 在 AI 晶片需求帶動下繳出亮眼財報，儘管估值已高且面臨地緣政治風險，但其作為半導體設備龍頭的地位仍獲機構法人看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "AI Arms Race Triggers $143 Billion Explosion In Chip Gear Spending",
+      "publisher": "Benzinga",
+      "date": "2026-04-14",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "全球晶片設備支出激增至 1430 億美元，直接受惠於 AI 基礎設施擴張，為 ASML 的長期營收成長提供強勁支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "ASML Named Among European Leaders by UBS",
+      "publisher": "Yahoo",
+      "date": "2026-04-14",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "瑞銀 (UBS) 將 ASML 列為歐洲 10 大最佳 AI 表現股票之一，強化了機構投資人對其技術護城河的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Is ASML Holding (ASML) the Best High-Flying AI Stock to Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-04-13",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Susquehanna 上調 ASML 目標價，反映市場對其在 EUV 光刻機領域的壟斷地位及 AI 晶片複雜度提升帶來的獲利預期。"
+    },
+    {
+      "rank": 4,
+      "title": "Ken Fisher’s Top AI Stock Pick in 2026: ASML (ASML)",
+      "publisher": "Yahoo",
+      "date": "2026-04-10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名億萬富翁投資人 Ken Fisher 將 ASML 列為 2026 年首選 AI 股票之一，具備指標性意義。"
+    },
+    {
+      "rank": 5,
+      "title": "Japan Rapidus Subsidies Tie ASML Tools To AI Chip Ambitions",
+      "publisher": "Yahoo",
+      "date": "2026-04-12",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "日本政府對 Rapidus 的補貼政策將進一步推動對先進製程設備的需求，ASML 作為關鍵供應商將直接受惠。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "ASML CEO Flags Chip Trade Risks As Valuation And Momentum Stay Elevated",
+      "publisher": "Yahoo",
+      "date": "2026-04-14",
+      "impact": "medium",
+      "category": "高層觀點",
+      "reason": "執行長 Christophe Fouquet 警告全球半導體供應鏈的地緣政治風險，且市場對其估值過高存有疑慮。"
+    },
+    {
+      "rank": 2,
+      "title": "Is It Too Late To Consider ASML Holding (NasdaqGS:ASML) After A 123% One-Year Surge?",
+      "publisher": "Yahoo",
+      "date": "2026-04-12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價一年內飆升 123%，引發市場對於估值過熱及回調風險的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "ASML Drops Key Orders Metric As Shares Rise 41% Ahead Of Earnings",
+      "publisher": "Yahoo",
+      "date": "2026-04-14",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "公司取消季度訂單揭露指標，投資人轉而關注 4% 至 19% 的年度營收成長指引，市場反應呈現觀望。"
+    },
+    {
+      "rank": 2,
+      "title": "ASML reports transactions under its current share buyback program",
+      "publisher": "Yahoo",
+      "date": "2026-04-13",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "例行性的庫藏股執行公告，對股價影響有限，屬常規資本配置行為。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

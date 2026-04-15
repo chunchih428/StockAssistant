@@ -1,0 +1,111 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-04-12",
+  "source_file": "cache/2026-04-12/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 2,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "Amazon 憑藉強勁的 AI 資本支出策略、數據中心擴張以及市場技術面強勢，獲得分析師與投資人廣泛看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Amazon CEO Jassy defends $200 billion AI spend: \"We're not going to be conservative\"",
+      "publisher": "CNBC",
+      "date": "2026-04-09 09:13",
+      "impact": "high",
+      "category": "公司策略",
+      "reason": "執行長 Andy Jassy 強調不保守的 AI 投資策略，展現公司在雲端與 AI 領域的長期競爭野心，儘管短期資本支出高，但市場視為成長動能。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon plans to invest $25 billion in Mississippi data centers",
+      "publisher": "CNBC",
+      "date": "2026-04-09 12:05",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "宣布 250 億美元的重大基礎設施投資，顯示 Amazon 在雲端運算與 AI 基礎設施的持續擴張，有利於鞏固 AWS 的市場地位。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon Stock Just Saw Its Biggest Surge in Months. Here Are 3 Reasons AMZN Is a Great Buy Right Now",
+      "publisher": "Yahoo",
+      "date": "2026-04-10 21:05",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 Amazon 受惠於 AI 浪潮，且股價近期表現強勁，被視為具備長期投資價值的標的。"
+    },
+    {
+      "rank": 4,
+      "title": "Dow Jones Futures: U.S.-Iran Peace Talks Begin; Google, Amazon, Nvidia In Buy Areas",
+      "publisher": "Yahoo",
+      "date": "2026-04-11 13:18",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "技術面分析將 Amazon 列入買入區間，顯示市場對其股價走勢持樂觀態度。"
+    },
+    {
+      "rank": 5,
+      "title": "Amazon's letter to shareholders: Here's what you need to know",
+      "publisher": "CNBC",
+      "date": "2026-04-09 11:24",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "年度股東信揭露了公司未來的發展方向與管理層願景，增強了投資人信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups",
+      "publisher": "Yahoo",
+      "date": "2026-04-12 03:00",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "雖然顯示 Amazon 在印度市場的強勢，但過度激進的定價策略可能引發監管關注或利潤率壓縮風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon vs. Walmart: The Retail War Just Picked a Winner",
+      "publisher": "Yahoo",
+      "date": "2026-04-11 13:39",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "零售業競爭加劇，與 Walmart 的比較分析顯示兩者在規模與獲利能力上存在持續的拉鋸戰。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Amazon debuts Masters coverage, becoming the tournament's fourth-ever media partner",
+      "publisher": "CNBC",
+      "date": "2026-04-09 11:08",
+      "impact": "low",
+      "category": "業務合作",
+      "reason": "獲得 Masters 高爾夫賽事轉播權，屬於業務多元化嘗試，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon Looks to Space",
+      "publisher": "Yahoo",
+      "date": "2026-04-12 01:03",
+      "impact": "low",
+      "category": "併購消息",
+      "reason": "關於收購 Globalstar 的傳聞，目前尚未證實，僅屬市場揣測。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon, Meta, Levi Strauss And More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+      "publisher": "Benzinga",
+      "date": "2026-04-11 09:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅反映社群媒體討論熱度，不代表實質基本面變化。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

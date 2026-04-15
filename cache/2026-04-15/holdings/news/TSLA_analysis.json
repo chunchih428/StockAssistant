@@ -1,0 +1,120 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla",
+  "analysis_date": "2026-04-12",
+  "source_file": "cache/2026-04-12/holdings/news/TSLA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 3,
+    "bearish_count": 12,
+    "neutral_count": 5,
+    "overall_sentiment": "bearish",
+    "key_theme": "Tesla 面臨連續 8 週股價下跌，主要受交付量不如預期、自動駕駛技術疑慮及市場對低價車型發展的不確定性所拖累。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Tesla's supervised self-driving software gets Dutch okay, first in Europe",
+      "publisher": "Yahoo",
+      "date": "2026-04-10 21:13",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "獲得荷蘭監管機構批准使用 FSD Supervised 軟體，標誌著 Tesla 在歐洲市場自動駕駛技術落地的重要里程碑。"
+    },
+    {
+      "rank": 2,
+      "title": "Cathie Wood Doubles Down On Tesla Amid 60% Downside Warning: Ark Adds Another $11.4 Million Worth Of TSLA Stock",
+      "publisher": "Yahoo",
+      "date": "2026-04-10 20:31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管面臨市場看空警告，Cathie Wood 領導的 Ark Invest 仍加碼買入 1,140 萬美元股票，顯示長期投資信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Tesla Stock Investors Just Got Good News From Wall Street Analysts About Robotaxis",
+      "publisher": "Yahoo",
+      "date": "2026-04-11 08:32",
+      "impact": "low",
+      "category": "分析師觀點",
+      "reason": "美銀與摩根士丹利對 Tesla 自動駕駛計程車業務提供建設性展望，為市場對該領域的疑慮提供正面支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Gary Black Says Tesla's 8-Week Slide Driven By 'Disappointing' Deliveries, Robotaxi Doubts",
+      "publisher": "Yahoo",
+      "date": "2026-04-11 19:31",
+      "impact": "high",
+      "category": "財報與營運",
+      "reason": "分析師 Gary Black 指出交付量不如預期及對 Robotaxi 的質疑是導致股價連續 8 週下跌的主因，反映核心基本面壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla stock shaky after new model denial",
+      "publisher": "Yahoo",
+      "date": "2026-04-11 02:17",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Tesla 中國否認開發低價車型的傳聞，打破市場對平價車款帶動銷量成長的預期，引發股價震盪。"
+    },
+    {
+      "rank": 3,
+      "title": "Ross Gerber Demands $10K Refund If Tesla's New FSD Doesn't Work 'Unsupervised'",
+      "publisher": "Yahoo",
+      "date": "2026-04-10 21:30",
+      "impact": "medium",
+      "category": "產品品質",
+      "reason": "投資人 Ross Gerber 公開質疑 FSD 技術成熟度，並要求退款，加劇市場對 Tesla 自動駕駛技術承諾的信任危機。"
+    },
+    {
+      "rank": 4,
+      "title": "The 30% Dip in Tesla Rippled Across EV Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-04-12 00:21",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Tesla 自去年高點以來大幅回調 30%，不僅影響自身股價，更引發整體電動車板塊的估值修正壓力。"
+    },
+    {
+      "rank": 5,
+      "title": "Elon Musk Says Tesla Model S, Model X Inventory Nearly Over—YouTuber JerryRigEverything Calls It 'Going Out Of Business' Sale",
+      "publisher": "Yahoo",
+      "date": "2026-04-10 18:01",
+      "impact": "low",
+      "category": "產品銷售",
+      "reason": "庫存出清引發市場對舊款車型需求疲軟的擔憂，被外界解讀為銷售動能減弱的訊號。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "The Secret to Out-Innovating the Competition: Inside the Tesla Playbook",
+      "publisher": "Yahoo",
+      "date": "2026-04-12 01:21",
+      "impact": "low",
+      "category": "企業文化",
+      "reason": "前總裁 Jon McNeill 出書探討 Tesla 創新公式，屬於企業管理層面的討論，對短期股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Is It Too Late to Buy Tesla Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-04-11 13:35",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "探討過去十年報酬率與未來投資價值，屬於一般性的投資觀點分析，無具體利多或利空消息。"
+    },
+    {
+      "rank": 3,
+      "title": "Musk's xAI Sues Colorado Over New AI Law",
+      "publisher": "Yahoo",
+      "date": "2026-04-10 10:27",
+      "impact": "low",
+      "category": "法律訴訟",
+      "reason": "此訴訟涉及 Elon Musk 旗下的 xAI 公司，與 Tesla 本體業務關聯性較低，對股價影響間接。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
