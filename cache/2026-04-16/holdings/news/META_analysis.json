@@ -1,0 +1,93 @@
+{
+  "ticker": "META",
+  "company": "Meta",
+  "analysis_date": "2026-04-16",
+  "source_file": "cache/2026-04-16/holdings/news/META.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "Meta 與 Broadcom 達成長期 AI 晶片合作協議，強化 AI 基礎設施布局，雖面臨歐盟監管壓力，但市場分析師仍看好其財報表現。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Meta deepens chip push with Broadcom partnership",
+      "publisher": "CNBC",
+      "date": "2026-04-15 12:01",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "Meta 與 Broadcom 簽署多年期 AI 晶片合作協議，確保了下一代 AI 加速器的供應，對其 AI 基礎設施建設具有重大戰略意義。"
+    },
+    {
+      "rank": 2,
+      "title": "Meta Stock Is the Top Pick for Tech Earnings, Morgan Stanley Says",
+      "publisher": "Yahoo",
+      "date": "2026-04-15 14:44",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "摩根士丹利分析師 Brian Nowak 將 Meta 列為科技股財報季的首選，給予買入評級，顯示市場對其獲利能力的高度信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Corning Taps Meta And Solar To Power AI Infrastructure Growth",
+      "publisher": "Yahoo",
+      "date": "2026-04-16 01:07",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "透過與 Corning 的光纖合作，Meta 進一步強化了支撐 AI 運算所需的基礎設施，有助於提升長期營運效率。"
+    },
+    {
+      "rank": 4,
+      "title": "Is Meta Platforms (META) The Best AI Stock in Brad Gerstner’s 2026 Portfolio?",
+      "publisher": "Yahoo",
+      "date": "2026-04-15 13:35",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名投資人 Brad Gerstner 將 Meta 列為其 AI 投資組合的前 10 大持股之一，反映了機構投資者對其 AI 轉型策略的認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Meta Faces EU Interim Measures Threat Over WhatsApp AI Policies",
+      "publisher": "Yahoo",
+      "date": "2026-04-15 16:39",
+      "impact": "medium",
+      "category": "法規監管",
+      "reason": "歐盟委員會威脅對 Meta 採取臨時措施，要求其恢復 WhatsApp 對競爭對手 AI 聊天機器人的完整存取權，若遭強制執行可能影響其生態系統策略。"
+    },
+    {
+      "rank": 2,
+      "title": "China's AI glasses have something Meta doesn't",
+      "publisher": "CNBC",
+      "date": "2026-04-13 19:00",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "中國企業在智慧眼鏡市場的競爭力提升，對 Meta 的硬體產品線構成潛在的市場份額威脅。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Meta Platforms (META) Surpasses Market Returns: Some Facts Worth Knowing",
+      "publisher": "Yahoo",
+      "date": "2026-04-15 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為單日股價表現回顧，漲幅 1.39 % 屬於正常市場波動範圍，未包含重大基本面變動。"
+    },
+    {
+      "rank": 2,
+      "title": "Elon Musk Once Called Instagram A 'Thirst Trap,' Deleted His Account",
+      "publisher": "Yahoo",
+      "date": "2026-04-15 14:31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此為針對 Elon Musk 個人言論的報導，對 Meta 的實際業務營運影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

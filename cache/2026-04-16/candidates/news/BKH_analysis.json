@@ -1,0 +1,38 @@
+{
+  "ticker": "BKH",
+  "company": "Black Hills Corporation",
+  "analysis_date": "2026-04-15",
+  "source_file": "cache/2026-04-15/candidates/news/BKH.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "分析師調升目標價與 AI 基礎設施題材帶動市場信心，同時市場正關注即將公布的 2026 年第一季財報表現。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "BofA Lifts Black Hills (BKH) Price Target, Ladenburg Initiates with AI Infrastructure Angle",
+      "publisher": "Yahoo",
+      "date": "2026-04-10 03:41",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "美國銀行 (BofA) 調升目標價，且 Ladenburg 引入 AI 基礎設施題材，顯示市場對該公司在電力需求增長環境下的長期價值認可，並將其列入 15 檔最佳低價股息股，具備強勁的投資吸引力。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Black Hills Corp. Schedules 2026 First-Quarter Earnings Release and Conference Call",
+      "publisher": "Yahoo",
+      "date": "2026-04-09 20:15",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "此為例行性的財報發布預告，市場已預期該事件，目前尚未揭露具體財務數據，對股價影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

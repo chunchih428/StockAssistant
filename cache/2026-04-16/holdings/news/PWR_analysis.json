@@ -1,0 +1,47 @@
+{
+  "ticker": "PWR",
+  "company": "Quanta Services",
+  "analysis_date": "2026-04-16",
+  "source_file": "cache/2026-04-16/holdings/news/PWR.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司基本面強勁且獲得分析師長期看好，股價表現優於大盤。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bank of America Securities Maintains Buy Rating on Quanta Services (PWR) Stock",
+      "publisher": "Yahoo",
+      "date": "2026-04-14 10:00",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "美國銀行證券維持對 Quanta Services 的「買入」評級，並將其列為長期投資的潛力多倍成長股，顯示機構投資者對其業務模式與市場地位的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Quanta Services (PWR) Outperforms Broader Market: What You Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-04-13 22:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該股單日上漲 1.79 %，表現優於大盤，反映出市場資金對該公司在基礎設施服務領域的強勁需求與成長動能持正面態度。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Quanta Services Announces First Quarter 2026 Earnings Release & Webcast Schedule",
+      "publisher": "Yahoo",
+      "date": "2026-04-15 14:11",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "公司僅發布 2026 年第一季財報發布與網路直播的時間表，屬於例行性行政公告，對股價無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
