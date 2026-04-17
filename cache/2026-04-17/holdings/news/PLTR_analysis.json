@@ -1,0 +1,93 @@
+{
+  "ticker": "PLTR",
+  "company": "Palantir Technologies Inc.",
+  "analysis_date": "2026-04-15",
+  "source_file": "cache/2026-04-15/holdings/news/PLTR.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 11,
+    "bearish_count": 5,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管面臨地緣政治局勢緩和帶來的短期波動與分析師下調目標價，Palantir 憑藉強勁的 AI 業務動能、名人背書及軍事合約支撐，市場情緒仍偏向正面。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Palantir Rises as Trump Endorsement and Military AI Contracts Give the Bulls Ammunition",
+      "publisher": "Yahoo",
+      "date": "2026-04-13 13:49",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "川普的公開背書與關鍵軍事 AI 合約的獲得，為股價提供了強勁的買盤支撐，抵銷了市場對地緣政治風險降低的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Michael Burry Will Be 'Proved Emphatically Wrong' on Palantir, Says Wedbush",
+      "publisher": "Yahoo",
+      "date": "2026-04-14 14:25",
+      "impact": "medium",
+      "category": "市場觀點",
+      "reason": "Wedbush 分析師強烈反駁空頭觀點，並強調第四季財報的亮眼表現，強化了長期投資者的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Palantir (PLTR) Remains a Standout in Agentic AI at Scale",
+      "publisher": "Yahoo",
+      "date": "2026-04-11 17:06",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Palantir 在代理式 AI (Agentic AI) 領域的技術領先地位，被視為其未來營收持續成長的核心驅動力。"
+    },
+    {
+      "rank": 4,
+      "title": "Jim Cramer on Palantir: “I Think It’s Worked Its Way Back Over Time”",
+      "publisher": "Yahoo",
+      "date": "2026-04-14 18:14",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "知名財經評論員 Jim Cramer 的正面背書，有助於穩定散戶投資者的持股信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Palantir Sees Target Cut to $185 by Mizuho: Is the AI Darling Losing Its Luster?",
+      "publisher": "Yahoo",
+      "date": "2026-04-14 14:09",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Mizuho 分析師 Gregg Moskowitz 雖然維持「優於大盤」評級，但下調目標價至 185 美元，反映出市場對高估值與成長放緩的隱憂。"
+    },
+    {
+      "rank": 2,
+      "title": "While the Stock Market Was Rallying, Palantir Stock Sold Off. Should You Buy the Dip in PLTR?",
+      "publisher": "Yahoo",
+      "date": "2026-04-11 15:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "伊朗停火消息導致市場避險需求下降，使依賴地緣政治溢價的 Palantir 股價一度重挫超過 14 %。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Insights Into Palantir Technologies's Performance Versus Peers In Software Sector",
+      "publisher": "Benzinga",
+      "date": "2026-04-14 05:58",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為軟體產業的同業績效比較分析，未提供具體的買賣建議或重大營運變動。"
+    },
+    {
+      "rank": 2,
+      "title": "Palantir At $130: Buy, Sell or Hold",
+      "publisher": "Yahoo",
+      "date": "2026-04-13 20:18",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "分析師給予「持有」評級，認為股價回調後估值處於合理區間，缺乏進一步推升或打壓的催化劑。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

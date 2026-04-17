@@ -1,0 +1,28 @@
+{
+  "ticker": "REAL",
+  "company": "The RealReal, Inc.",
+  "analysis_date": "2026-04-15",
+  "source_file": "cache/2026-04-15/candidates/news/REAL.json",
+  "summary": {
+    "total_articles": 1,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "機構投資人 Allspring Global Investments 大幅減持股份，引發市場對公司估值與未來成長動能的擔憂。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Assessing The RealReal (REAL) Valuation After Allspring Cuts Its Stake By More Than Half",
+      "publisher": "Simply Wall St.",
+      "date": "2026-04-11T03:08:57Z",
+      "impact": "medium",
+      "category": "股權變動",
+      "reason": "機構投資人 Allspring Global Investments 將其持股比例削減超過 50 %，此舉通常被市場解讀為大型法人對公司長期基本面或估值信心不足，可能導致短期股價面臨賣壓。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

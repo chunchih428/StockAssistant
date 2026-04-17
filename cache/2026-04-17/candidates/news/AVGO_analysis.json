@@ -1,0 +1,111 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-04-15",
+  "source_file": "cache/2026-04-15/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Broadcom 與 Meta 達成重大多年期 AI 晶片合作協議，鞏固其在人工智慧基礎設施領域的領先地位。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Broadcom And Meta Announce A Multi-Year, Multi-Generation Strategic Partnership To Support Meta's Rapidly Scaling Artificial Intelligence Compute Infrastructure",
+      "publisher": "Benzinga",
+      "date": "2026-04-14 17:11",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "Broadcom 與 Meta 簽署多年期合作協議，將共同開發下一代 AI 加速器晶片，並支援 Meta 的 MTIA 晶片至 2029 年，初期承諾超過 1 GW，為公司帶來長期且穩定的營收成長動能。"
+    },
+    {
+      "rank": 2,
+      "title": "Goldman Sachs Reiterates Buy Rating on Broadcom (AVGO) Stock",
+      "publisher": "Yahoo",
+      "date": "2026-04-14 10:01",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "高盛重申對 Broadcom 的買入評級，顯示華爾街對其作為長期成長型股票的信心，特別是在 AI 基礎設施領域的競爭優勢。"
+    },
+    {
+      "rank": 3,
+      "title": "Zacks Investment Ideas feature highlights: Broadcom and Marvell",
+      "publisher": "Yahoo",
+      "date": "2026-04-14 09:03",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Zacks 指出 Broadcom 在 AI 晶片交易與網路業務成長的推動下，正引領半導體類股突破，市場預期持續上調。"
+    },
+    {
+      "rank": 4,
+      "title": "Broadcom Ties New Alphabet CFO To Long Term AI Chip Deals",
+      "publisher": "Yahoo",
+      "date": "2026-04-14 15:07",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "Broadcom 聘請前 Alphabet 高階財務主管 Amie Thuener 擔任 CFO，此舉有助於強化與 Alphabet 等大型科技巨頭的長期 AI 晶片合作關係。"
+    },
+    {
+      "rank": 5,
+      "title": "RtBrick Achieves Breakthrough in Disaggregated Routing Performance for the Network Edge",
+      "publisher": "Yahoo",
+      "date": "2026-04-14 08:00",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "RtBrick 擴大對 Broadcom Qumran2c+ 晶片組的支援，證明 Broadcom 在網路邊緣運算領域的技術持續獲得生態系採用。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "This Super Stock Could Be the Biggest Winner in the AI Inference Economy. It Isn't Nvidia, Broadcom, Intel, or AMD.",
+      "publisher": "Yahoo",
+      "date": "2026-04-14 14:06",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "文章指出 Arm Holdings 可能在 AI 推論領域超越 Broadcom 等傳統半導體大廠，對 Broadcom 的市場主導地位構成潛在威脅。"
+    },
+    {
+      "rank": 2,
+      "title": "Meet the Super Semiconductor Stock Crushing Nvidia, AMD, and Broadcom Right Now",
+      "publisher": "Yahoo",
+      "date": "2026-04-14 13:20",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "市場觀點認為其他半導體公司正透過特定技術優勢挑戰 Broadcom 的市占率，雖未具體指名，但反映出競爭加劇的壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "What's Going On With Broadcom Shares On Tuesday?",
+      "publisher": "Benzinga",
+      "date": "2026-04-14 12:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管有重大利多消息，Broadcom 股價在盤中出現微幅震盪，反映市場在利多出盡後的獲利了結賣壓與買盤之間的拉鋸。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom Inc. (AVGO) Surpasses Market Returns: Some Facts Worth Knowing",
+      "publisher": "Yahoo",
+      "date": "2026-04-13 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "回顧性報導 Broadcom 前一日的股價表現，屬於歷史數據整理，對當前股價影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "Are You Looking for a Top Momentum Pick? Why Broadcom Inc. (AVGO) is a Great Choice",
+      "publisher": "Yahoo",
+      "date": "2026-04-13 16:00",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "基於動能指標的技術分析建議，屬於市場常見的投資策略分析，未包含新的基本面資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

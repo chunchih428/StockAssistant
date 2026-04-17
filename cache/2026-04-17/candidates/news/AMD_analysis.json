@@ -1,0 +1,120 @@
+{
+  "ticker": "AMD",
+  "company": "AMD",
+  "analysis_date": "2026-04-15",
+  "source_file": "cache/2026-04-15/candidates/news/AMD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "AMD 在資料中心 CPU 與 AI 運算領域的市占率持續擴張，獲得多家投行看好其成長潛力，儘管面臨成本壓力與部分機構減持。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why Advanced Micro Devices Shares Are Gaining Today — AMD Gets a $311 Price Target. Venice CPU Could Drive 46% Revenue Growth",
+      "publisher": "Yahoo",
+      "date": "2026-04-14 16:51",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師給予 311 美元目標價，並指出 Venice CPU 架構有望推動 46% 的營收成長，為股價提供強勁支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "AMD EPYC Powers AI Agent Workloads As CPUs Gain Data Center Share",
+      "publisher": "Yahoo",
+      "date": "2026-04-14 15:04",
+      "impact": "high",
+      "category": "產品應用",
+      "reason": "AMD EPYC 處理器在 AI 代理工作負載中的應用增加，顯示其在資料中心市場的競爭力正持續提升。"
+    },
+    {
+      "rank": 3,
+      "title": "Bank of America Says Marvell and AMD Are 2 Top ‘AI Compute’ Stocks to Buy Now",
+      "publisher": "Yahoo",
+      "date": "2026-04-10 16:51",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "美國銀行將 AMD 列為 AI 運算領域的首選股，看好其在晶片成長浪潮中的市場定位。"
+    },
+    {
+      "rank": 4,
+      "title": "KeyBanc Taps INTC, AMD Stocks as Top Buys on CPU Demand",
+      "publisher": "Yahoo",
+      "date": "2026-04-13 19:16",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "KeyBanc 分析師看好 CPU 需求回升，將 AMD 列為首選買入標的。"
+    },
+    {
+      "rank": 5,
+      "title": "Super Micro Extends Edge AI Reach With New AMD EPYC 4005 Systems",
+      "publisher": "Yahoo",
+      "date": "2026-04-14 03:08",
+      "impact": "low",
+      "category": "合作夥伴",
+      "reason": "與 Super Micro 的合作擴展了邊緣 AI 產品線，有助於鞏固 AMD 在特定市場的市占率。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cathie Wood Dumps $10 Million of Mega Chip Stock — Cathie Wood Trims AMD Position as Market Momentum Shifts",
+      "publisher": "Yahoo",
+      "date": "2026-04-13 12:04",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Cathie Wood 旗下基金減持 1,000 萬美元 AMD 持股，反映出部分投資人對短期市場動能轉變的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "The Zacks Analyst Blog Highlights Eli Lilly, Mastercard, Advanced Micro Devices and Stratus Properties",
+      "publisher": "Yahoo",
+      "date": "2026-04-14 10:28",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "報告指出 AMD 需應對成本上升與 AI 競爭帶來的混合表現，顯示獲利能力面臨挑戰。"
+    },
+    {
+      "rank": 3,
+      "title": "AMD Updates AI App as Stock Slips — New features expand capabilities but fail to lift shares",
+      "publisher": "Yahoo",
+      "date": "2026-04-13 17:51",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "儘管軟體功能更新，但未能有效提振股價，顯示市場對單一產品更新的反應趨於冷淡。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "This Super Stock Could Be the Biggest Winner in the AI Inference Economy. It Isn't Nvidia, Broadcom, Intel, or AMD.",
+      "publisher": "Yahoo",
+      "date": "2026-04-14 14:06",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "文章討論 AI 推論市場的潛在贏家，認為其他公司可能比 AMD 更具優勢，屬於觀點型分析。"
+    },
+    {
+      "rank": 2,
+      "title": "Better Buy: AMD vs. Nvidia Stock",
+      "publisher": "Yahoo",
+      "date": "2026-04-13 04:00",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "對 AMD 與 Nvidia 進行比較分析，未提供具體買賣建議，僅為投資組合配置的參考討論。"
+    },
+    {
+      "rank": 3,
+      "title": "Nvidia Denies Rumors About Acquiring PC Maker",
+      "publisher": "Benzinga",
+      "date": "2026-04-13 23:35",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場傳聞 Nvidia 可能收購 PC 製造商，分析師提及 AMD 可能成為競爭對手，但目前僅屬推測性質。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

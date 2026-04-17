@@ -1,0 +1,93 @@
+{
+  "ticker": "NVDA",
+  "company": "NVIDIA",
+  "analysis_date": "2026-04-16",
+  "source_file": "cache/2026-04-16/holdings/news/NVDA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Nvidia 憑藉 Ising 量子 AI 模型發布與強勁的市場動能，帶動量子運算板塊集體上漲，並創下連續 11 個交易日的歷史性連漲紀錄。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Nvidia Scores Historic Win Streak As TSMC Report Looms",
+      "publisher": "Yahoo",
+      "date": "2026-04-15 21:00",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Nvidia 股價創下連續 11 個交易日上漲的歷史紀錄，顯示市場對其 AI 晶片需求與未來成長動能具備極高信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Nvidia Unveils Open-Source Quantum AI Models",
+      "publisher": "Yahoo",
+      "date": "2026-04-15 19:23",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "發布 Ising 量子 AI 模型，成功將技術影響力擴展至量子運算領域，並直接帶動 D-Wave、IonQ 等量子運算概念股大幅飆升。"
+    },
+    {
+      "rank": 3,
+      "title": "Best Growth Stocks to Buy for April 15th",
+      "publisher": "Yahoo",
+      "date": "2026-04-15 08:18",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "獲 Zacks Rank #1 (Strong Buy) 評級，強化了機構投資人對其成長潛力的認可。"
+    },
+    {
+      "rank": 4,
+      "title": "Chip giants AMD, Qualcomm and Arm back driverless car startup Wayve with fresh funds",
+      "publisher": "CNBC",
+      "date": "2026-04-15 09:00",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "Nvidia 成為自動駕駛新創 Wayve 的股東，顯示其在車用 AI 與邊緣運算領域的生態系布局持續深化。"
+    },
+    {
+      "rank": 5,
+      "title": "Microsoft Tightens AI Grip With Norway GPUs And Wyoming Data Center Land",
+      "publisher": "Yahoo",
+      "date": "2026-04-15 19:04",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Microsoft 擴大基礎設施布局並鎖定 3 萬顆 Nvidia GPU，反映雲端巨頭對 Nvidia 高階晶片的強勁需求。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Nvidia Faces New Scrutiny Over SchedMD Deal",
+      "publisher": "Yahoo",
+      "date": "2026-04-15 19:07",
+      "impact": "medium",
+      "category": "法規",
+      "reason": "國會議員針對 SchedMD 交易案提出監管疑慮，可能引發後續反壟斷調查或合規成本增加的風險。"
+    },
+    {
+      "rank": 2,
+      "title": "EXCLUSIVE: Nvidia's Biggest Risk Could Be A Mineral Nobody Has Heard Of",
+      "publisher": "Yahoo",
+      "date": "2026-04-16 01:31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析指出 AI 晶片製造對特定礦產的依賴可能成為潛在供應鏈瓶頸，雖非立即性風險，但提醒了長期資源配置的隱憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Dow Jones Futures: S&P 500, Nasdaq Hit New Highs As Tesla, Robinhood Lead",
+      "publisher": "Yahoo",
+      "date": "2026-04-15 21:39",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "整體市場處於高點，Nvidia 隨大盤走勢波動，未有針對公司本身的重大獨立消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

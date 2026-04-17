@@ -1,0 +1,93 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-04-16",
+  "source_file": "cache/2026-04-16/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Amazon 以 116 億美元收購 Globalstar 以強化衛星通訊布局，獲得市場分析師正面評價，並持續擴大 AWS 在雲端運算與金融基礎設施的市占率。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Amazon to buy Globalstar to bolster Leo satellite business in deal worth about $11.6 billion",
+      "publisher": "CNBC",
+      "date": "2026-04-14 08:19",
+      "impact": "high",
+      "category": "企業併購",
+      "reason": "Amazon 宣布以 116 億美元收購 Globalstar，此舉被視為強化衛星網路業務並與 SpaceX 競爭的重大戰略布局，具備長期成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Lumen Strikes Connectivity Deal With Amazon’s Cloud Unit. The Stock Jumps.",
+      "publisher": "Yahoo",
+      "date": "2026-04-15 20:37",
+      "impact": "medium",
+      "category": "商業合作",
+      "reason": "Lumen 與 AWS 達成雲端連接合作協議，顯示 AWS 在企業級雲端基礎設施領域的持續擴張與競爭優勢。"
+    },
+    {
+      "rank": 3,
+      "title": "DTCC Moves Core Market Systems To Cloud With Amazon By Decade End",
+      "publisher": "Yahoo",
+      "date": "2026-04-15 17:02",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "美國存託結算公司 (DTCC) 獲 SEC 核准將核心市場系統遷移至 AWS，證明 Amazon 在高安全性金融雲端服務的市場領導地位。"
+    },
+    {
+      "rank": 4,
+      "title": "AI Bull Brad Gerstner Is Buying Amazon.com (AMZN) – Here’s Why",
+      "publisher": "Yahoo",
+      "date": "2026-04-15 14:35",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "知名 AI 投資人 Brad Gerstner 將 Amazon 列為前 10 大買入標的，反映市場對其 AI 業務成長的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "'Just don't look': Amazon worker dies on warehouse floor in Oregon.",
+      "publisher": "Yahoo",
+      "date": "2026-04-15 17:00",
+      "impact": "low",
+      "category": "勞工議題",
+      "reason": "倉庫員工死亡事件引發對公司內部管理與勞工權益的負面輿論，可能對品牌形象造成短期壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Has the Era of the Mega-Layoff Arrived?",
+      "publisher": "Yahoo",
+      "date": "2026-04-16 02:00",
+      "impact": "low",
+      "category": "企業管理",
+      "reason": "文章討論科技業裁員潮，將 Amazon 列為採取「精簡人力」策略的企業之一，反映出營運成本控管的壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Stock Of The Day: Will Amazon Make A New All-Time High?",
+      "publisher": "Benzinga",
+      "date": "2026-04-15 13:31",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "分析師探討股價是否能突破歷史新高，屬於中性的技術面觀察，未涉及基本面重大變動。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon-backed X-energy files to raise up to $800M in IPO",
+      "publisher": "Yahoo",
+      "date": "2026-04-15 22:44",
+      "impact": "low",
+      "category": "投資動態",
+      "reason": "Amazon 投資的核能新創 X-energy 申請 IPO，對 Amazon 本身股價影響有限，僅顯示其投資組合的多元性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
