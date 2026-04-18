@@ -1,0 +1,65 @@
+{
+  "ticker": "AME",
+  "company": "AMETEK",
+  "analysis_date": "2026-04-18",
+  "source_file": "cache/2026-04-18/candidates/news/AME.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 4,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "AMETEK 受益於工業需求回升、創紀錄的訂單積壓以及強勁的併購策略，獲得市場與機構投資人的高度看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "AMETEK (AME) Is Up 7.6% After Record Backlog And New M&A Push – Has The Bull Case Changed?",
+      "publisher": "Yahoo",
+      "date": "2026-04-15 06:03",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "公司公布高達 35.8 億美元的創紀錄訂單積壓，並計畫投入 1 億美元進行併購，顯示強勁的成長動能與資本配置效率，直接推動股價上漲 7.6 %。"
+    },
+    {
+      "rank": 2,
+      "title": "GE Verona, Parker-Hannifin Poised to Benefit From Improving Industrial Demand, BofA Says",
+      "publisher": "Yahoo",
+      "date": "2026-04-13 15:38",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "美國銀行 (BofA) 指出 AME 受益於工業需求改善，顯示公司在宏觀經濟環境下具備良好的產業競爭力與成長前景。"
+    },
+    {
+      "rank": 3,
+      "title": "AMETEK Inc. (AME): Mario Gabelli Is Betting Big on This Stock",
+      "publisher": "Yahoo",
+      "date": "2026-04-12 21:20",
+      "impact": "medium",
+      "category": "投資動態",
+      "reason": "知名投資人 Mario Gabelli 將 AME 列入其前 10 大持股名單，顯示機構投資人對該公司長期價值的高度認可。"
+    },
+    {
+      "rank": 4,
+      "title": "Will Ametek (AME) Beat Estimates Again in Its Next Earnings Report?",
+      "publisher": "Zacks",
+      "date": "2026-04-08 16:10",
+      "impact": "low",
+      "category": "財報預測",
+      "reason": "市場對 AME 財報表現持樂觀態度，預期公司能延續過往優於預期的獲利表現。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "AMETEK Announces First Quarter 2026 Earnings Call and Webcasted Investor Conference Call Information",
+      "publisher": "Yahoo",
+      "date": "2026-04-16 12:30",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "僅為例行性的財報會議時間公告，屬於中性資訊，不包含具體財務數據。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

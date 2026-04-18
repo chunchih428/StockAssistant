@@ -1,0 +1,111 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-04-18",
+  "source_file": "cache/2026-04-18/candidates/news/NFLX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 3,
+    "bearish_count": 14,
+    "neutral_count": 3,
+    "overall_sentiment": "bearish",
+    "key_theme": "Netflix 財報雖優於預期，但因 Q2 財測疲軟及共同創辦人 Reed Hastings 宣布離職，導致股價重挫。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Netflix Supported by Pricing Increase, Ad Revenue, Stock Buybacks, UBS Says",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 19:12",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "UBS 指出 Netflix 透過價格調漲、廣告業務增長及股票回購，仍具備穩健的長期成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Guggenheim maintains 'buy' rating on Netflix despite Q2 guidance miss",
+      "publisher": "CNBC",
+      "date": "2026-04-17 11:06",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Guggenheim 分析師 Michael Morris 儘管承認 Q2 財測疲軟，但仍維持買入評級，顯示對公司基本面信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Needham's Laura Martin shares the bull case for Netflix ahead of earnings",
+      "publisher": "CNBC",
+      "date": "2026-04-15 17:03",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析師 Laura Martin 在財報前提出看多觀點，強調其市場競爭優勢。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Netflix (NFLX) Stock Is Falling Today",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 21:12",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "Netflix 因 Q2 財測不如預期，導致股價單日重挫 9.1 %，此篇報導涵蓋了財報後的市場反應，最具代表性。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix is shifting into new era as Reed Hastings plans board exit",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 14:30",
+      "impact": "high",
+      "category": "高層異動",
+      "reason": "共同創辦人 Reed Hastings 宣布離職，引發市場對公司未來領導層與策略方向的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix Investors Disappointed With Unchanged Margin Outlook, MoffettNathanson Says as Shares Plunge",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 15:56",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "儘管成本基礎有所變動，Netflix 維持利潤率展望不變，令投資人感到失望。"
+    },
+    {
+      "rank": 4,
+      "title": "Netflix faces 'fork in the road' as YouTube leads new media era",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 16:46",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "分析指出 Netflix 正面臨媒體產業轉型壓力，且面臨來自 YouTube 等平台的強大競爭。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Netflix (NFLX) Valuation Check After Strong Recent Share Price Momentum",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 07:04",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "在財報公布前，分析師對其近期股價漲幅與估值進行理性評估，未帶有強烈多空傾向。"
+    },
+    {
+      "rank": 2,
+      "title": "Final Trades: Netflix, BlackRock, Illumina and UPS",
+      "publisher": "CNBC",
+      "date": "2026-04-17 13:07",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為投資委員會提及的觀察名單，未提供具體買賣建議。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix reports earnings after the bell. Here's what to expect",
+      "publisher": "CNBC",
+      "date": "2026-04-16 12:00",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "財報公布前的預期性報導，屬於市場例行資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

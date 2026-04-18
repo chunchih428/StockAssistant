@@ -1,0 +1,93 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-04-16",
+  "source_file": "cache/2026-04-16/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 5,
+    "overall_sentiment": "neutral",
+    "key_theme": "市場資金持續流入 QQQ，但投資人正針對大型科技股集中度風險，評估轉向等權重型 ETF (QQQE) 的配置策略。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Daily ETF Flows: QQQ SMH Top The List",
+      "publisher": "etf.com",
+      "date": "2026-04-14",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "QQQ 成為每日資金流入量最高的 ETF 之一，顯示機構與散戶投資人對納斯達克 100 指數成分股仍具備強勁的配置需求，對股價具支撐作用。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Time To Consider QQQE As An Equal Weight Tilt Within QQQ Exposure",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-13",
+      "impact": "medium",
+      "category": "投資策略",
+      "reason": "分析師建議在未來 2 至 4 個季度轉向 QQQE (等權重型)，理由是總體經濟逆風可能限制 QQQ 的上漲空間，且 QQQE 能提供更好的風險調整後報酬。"
+    },
+    {
+      "rank": 2,
+      "title": "QQQE: Nasdaq-100 ETF With Low Company Risk And Value Tilt",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-13",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "強調 QQQ 的大型股集中度風險，指出 QQQE 透過等權重配置能有效降低單一公司風險，並提供比 QQQ 更具吸引力的價值投資機會。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "VOO vs. QQQ vs. SPY — Which ETF Is the Best Buy Right Now?",
+      "publisher": "TipRanks",
+      "date": "2026-04-15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對主流 ETF 進行比較分析，屬於常規的投資組合建議，未對 QQQ 本身釋出明確的買進或賣出訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "Chart Of The Day: Your Tech Sector Rorschach Test",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-15",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "提供 QQQ 九個月的技術圖表分析，屬於中性的市場觀察，未對未來走勢做出明確預測。"
+    },
+    {
+      "rank": 3,
+      "title": "CNBC Halftime Report Final Trades: Netflix, Apollo Global Management, Invesco QQQ Trust, Series 1, Zoom Communications",
+      "publisher": "Benzinga",
+      "date": "2026-04-15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為財經節目中的交易清單提及，未包含具體的分析論點或對股價的實質影響。"
+    },
+    {
+      "rank": 4,
+      "title": "KQQQ: Collect Tax-Efficient Dividends From Tech Titans",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-15",
+      "impact": "low",
+      "category": "產品介紹",
+      "reason": "介紹另一款衍生性 ETF (KQQQ)，旨在透過選擇權策略提供高配息，與 QQQ 本身的核心投資邏輯不同，不構成對 QQQ 的直接利多或利空。"
+    },
+    {
+      "rank": 5,
+      "title": "IQQQ: Tax-Efficient Income From The Nasdaq But Does Not Protect Against Declines",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-11",
+      "impact": "low",
+      "category": "產品介紹",
+      "reason": "評估 IQQQ 的配息策略，指出其雖具稅務效率但缺乏下檔保護，屬於對特定衍生商品的分析，對 QQQ 本身影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
