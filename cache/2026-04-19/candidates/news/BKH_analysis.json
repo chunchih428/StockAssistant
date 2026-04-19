@@ -1,0 +1,28 @@
+{
+  "ticker": "BKH",
+  "company": "Black Hills Corporation",
+  "analysis_date": "2026-04-18",
+  "source_file": "cache/2026-04-18/candidates/news/BKH.json",
+  "summary": {
+    "total_articles": 1,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "分析師看好 Black Hills 在 AI 基礎設施領域的潛在成長動能並上調目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "BofA Lifts Black Hills (BKH) Price Target, Ladenburg Initiates with AI Infrastructure Angle",
+      "publisher": "Insider Monkey",
+      "date": "2026-04-10T03:41:59Z",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "美國銀行 (BofA) 上調目標價，且 Ladenburg Thalmann 基於 AI 基礎設施需求帶動電力需求的邏輯給予正面初始評級，顯示市場對該公司在數據中心電力供應方面的成長潛力持樂觀態度。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

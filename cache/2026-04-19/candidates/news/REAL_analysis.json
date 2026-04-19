@@ -1,0 +1,56 @@
+{
+  "ticker": "REAL",
+  "company": "The RealReal, Inc.",
+  "analysis_date": "2026-04-18",
+  "source_file": "cache/2026-04-18/candidates/news/REAL.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司近期發布財報預告與品牌行銷活動，但面臨機構投資人減持股份的估值壓力。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Assessing The RealReal (REAL) Valuation After Allspring Cuts Its Stake By More Than Half",
+      "publisher": "Simply Wall St.",
+      "date": "2026-04-11",
+      "impact": "medium",
+      "category": "股權變動",
+      "reason": "機構投資人 Allspring 將持股減半，顯示大型投資機構對該公司未來估值或成長潛力持保留態度，對市場信心造成負面影響。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "The RealReal Announces Timing of Its First Quarter 2026 Earnings Conference Call",
+      "publisher": "Finnhub",
+      "date": "2026-04-16",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "僅為例行性的財報會議時間公告，屬於市場預期內的行政程序，未包含具體財務數據。"
+    },
+    {
+      "rank": 2,
+      "title": "Is The RealReal (REAL) a Worthy Investment?",
+      "publisher": "Insider Monkey",
+      "date": "2026-04-17",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章針對投資價值進行分析，未提供具體買賣建議或重大新消息，屬於市場觀點討論。"
+    },
+    {
+      "rank": 3,
+      "title": "The RealReal Launches Real Talk, a Series of Conversations Exploring Personal Style",
+      "publisher": "Finnhub",
+      "date": "2026-04-15",
+      "impact": "low",
+      "category": "品牌行銷",
+      "reason": "公司推出播客系列活動以提升品牌影響力，雖有助於用戶黏著度，但對短期營收與股價的直接影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

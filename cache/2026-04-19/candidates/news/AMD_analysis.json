@@ -1,0 +1,120 @@
+{
+  "ticker": "AMD",
+  "company": "AMD",
+  "analysis_date": "2026-04-18",
+  "source_file": "cache/2026-04-18/candidates/news/AMD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "AMD 受惠於 AI 基礎設施需求強勁與多項合作案，股價近期創下歷史新高並維持強勁漲勢。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "AMD Stock Closes at All-Time High in Longest Winning Streak Since 2005",
+      "publisher": "Yahoo",
+      "date": "2026-04-16 20:39",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "AMD 展現了自 2005 年以來最長的連漲紀錄並創下歷史新高，顯示市場對其 AI 策略的高度認可與強勁的買盤動能。"
+    },
+    {
+      "rank": 2,
+      "title": "AMD Deepens AI Push With France Deal And Wayve Auto Bet",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 11:07",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "AMD 與法國政府達成 AI 戰略合作，並投資自動駕駛新創 Wayve，顯示其 AI 應用版圖從資料中心擴展至國家級戰略與車用領域。"
+    },
+    {
+      "rank": 3,
+      "title": "SMCI vs. AMD: Which AI Infrastructure Stock Has an Edge Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 15:35",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析指出 AMD 在 AI 基礎設施領域的競爭力優於 Super Micro Computer，主要歸功於其 GPU 在資料中心市場的滲透率。"
+    },
+    {
+      "rank": 4,
+      "title": "I Sold My Warner Bros. Shares and Bought These 2 Growth Stocks Instead. The AI Supercycle Made It Obvious.",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 23:05",
+      "impact": "medium",
+      "category": "投資建議",
+      "reason": "市場資金持續從傳統媒體轉向 AI 成長股，AMD 被視為 AI 超級循環中的核心贏家，有利於長期股價支撐。"
+    },
+    {
+      "rank": 5,
+      "title": "Does AMD's UALink Bet Reveal a Deeper Shift in Its AI Data Center Strategy?",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 03:08",
+      "impact": "medium",
+      "category": "技術發展",
+      "reason": "AMD 參與 UALink 規格制定，顯示其致力於解決 AI 資料中心內部的互連瓶頸，有助於提升其產品在高效能運算市場的競爭力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Oppenheimer Calls Nvidia 'Top Pick' as Blackwell Chips Keep AMD, Intel Behind",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 17:10",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Oppenheimer 分析師認為 Nvidia 的 Blackwell 晶片技術領先，使 AMD 在 AI 晶片市場仍處於追趕地位，對股價溢價空間構成壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "AMD Slips Despite Ryzen Comeback Rumors",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 18:22",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管有 Ryzen 處理器復甦的傳聞，但市場對舊有產品線的期待未能抵銷獲利了結賣壓，導致股價小幅回檔。"
+    },
+    {
+      "rank": 3,
+      "title": "Think AMD, Broadcom, or Alphabet Is Nvidia's Biggest Competitor for AI Data Center Space? Think Again...",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 08:26",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "觀點指出 Nvidia 的最大競爭對手可能來自內部或雲端服務商自研晶片，這對 AMD 在資料中心市場的市佔率擴張構成潛在威脅。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "AMD, Oracle, Microsoft and the IGV lead a monster week for tech stocks",
+      "publisher": "CNBC",
+      "date": "2026-04-17 10:02",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此報導為科技股整體表現的概覽，AMD 被列為領漲股之一，屬於市場情緒的反映，而非針對公司本身的重大基本面變動。"
+    },
+    {
+      "rank": 2,
+      "title": "Taiwan Semiconductor Dominates AI Supply Chain, Even Shortages May Not Slow It Down: Analyst",
+      "publisher": "Benzinga",
+      "date": "2026-04-17 06:03",
+      "impact": "low",
+      "category": "供應鏈",
+      "reason": "報導聚焦於台積電的 2 奈米製程影響，AMD 僅被提及為受影響的客戶之一，對 AMD 股價影響間接且中性。"
+    },
+    {
+      "rank": 3,
+      "title": "Stocks making the biggest moves midday: Abbott Labs, AMD, Charles Schwab, On Semi & more",
+      "publisher": "CNBC",
+      "date": "2026-04-16 12:51",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為盤中交易熱門股的例行報導，未提供新的基本面資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
