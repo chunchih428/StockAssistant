@@ -1,0 +1,111 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla",
+  "analysis_date": "2026-04-20",
+  "source_file": "cache/2026-04-20/holdings/news/TSLA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場高度關注即將到來的 Q1 財報，同時受惠於機器人計程車服務擴張、新車型開發計畫以及 AI 領域的策略合作，抵銷了部分總體經濟與競爭壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Tesla Robotaxi Service Expands To Dallas And Houston",
+      "publisher": "Yahoo",
+      "date": "2026-04-18 21:20",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "Tesla 將機器人計程車服務擴展至達拉斯與休士頓，顯示其自動駕駛技術商業化進程加速，為未來營收成長提供新動能。"
+    },
+    {
+      "rank": 2,
+      "title": "Intel Terafab Alliance Puts Foundry Ambitions And AI Risks In Focus",
+      "publisher": "Yahoo",
+      "date": "2026-04-18 04:19",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "Tesla 加入 Intel 的 Terafab AI 半導體計畫，強化了公司在 AI 基礎設施與運算能力的布局，有助於長期技術領先。"
+    },
+    {
+      "rank": 3,
+      "title": "Tesla Set to Launch New Model Y Variant to Kickstart Sluggish Indian Sales",
+      "publisher": "Yahoo",
+      "date": "2026-04-18 12:41",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "針對印度市場推出新款 Model Y 變體，旨在解決銷售疲軟問題並開拓新興市場，具備成長潛力。"
+    },
+    {
+      "rank": 4,
+      "title": "Tesla to break eight-week losing streak. What's driving the stock?",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 19:48",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價終結八週連跌，顯示市場情緒回暖，投資人對即將到來的財報與技術突破抱持正面期待。"
+    },
+    {
+      "rank": 5,
+      "title": "Got $15,000? Why Tesla Stock Still Has the Makings of a Generational Wealth Builder",
+      "publisher": "Yahoo",
+      "date": "2026-04-18 12:10",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "長期投資觀點強調 Tesla 在未來 10 年的成長潛力，強化了市場對其作為長期資產配置的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Musk Toasts Tesla's US Lead—But BYD Is 3X Bigger Globally",
+      "publisher": "Yahoo",
+      "date": "2026-04-18 22:31",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "儘管 Tesla 在美國保持領先，但全球市場面臨 BYD 等競爭對手規模擴張的壓力，顯示全球市占率挑戰依然嚴峻。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla's Price Targets Are Coming Down, but Many Analysts Still See Plenty of Upside",
+      "publisher": "Yahoo",
+      "date": "2026-04-18 22:05",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "部分分析師下調目標價，反映出對近期獲利能力或市場需求的謹慎態度，但整體仍維持正面看法。"
+    },
+    {
+      "rank": 3,
+      "title": "Elon Musk's SpaceX was major buyer of Cybertrucks in Q4",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 20:20",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "SpaceX 成為 Cybertruck 的主要買家，引發市場對關聯交易與真實市場需求的質疑。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Tesla (TSLA) Stock Eyes $400 Ahead of Q1 Earnings — Why Analysts Are Deeply Divided",
+      "publisher": "Yahoo",
+      "date": "2026-04-18 09:21",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "市場對 4 月 22 日公布的 Q1 財報看法分歧，分析師在獲利預期與 AI 投資支出之間存在爭議，導致股價波動加劇。"
+    },
+    {
+      "rank": 2,
+      "title": "Dow Jones Futures, Oil Prices In Focus As Iran, Hormuz News Turns",
+      "publisher": "Yahoo",
+      "date": "2026-04-19 02:09",
+      "impact": "low",
+      "category": "總體經濟",
+      "reason": "地緣政治風險（荷姆茲海峽局勢）影響整體市場情緒，雖非 Tesla 直接相關，但可能透過油價波動間接影響電動車市場需求。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
