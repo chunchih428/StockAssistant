@@ -1,0 +1,46 @@
+{
+  "ticker": "APH",
+  "company": "Amphenol Corporation",
+  "analysis_date": "2026-04-21",
+  "source_file": "cache/2026-04-21/candidates/news/APH.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 基礎設施需求強勁與併購策略帶動，分析師普遍看好 Amphenol 的長期成長潛力與股息表現。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "JPMorgan Raises Amphenol (APH) Target Ahead of Q1, Sees AI Infrastructure Upside",
+      "publisher": "Yahoo",
+      "date": "2026-04-18 01:28",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "摩根大通基於 AI 基礎設施帶來的成長動能上調目標價，並將其列為成長型股息股首選，顯示市場對其核心業務前景高度樂觀。"
+    },
+    {
+      "rank": 2,
+      "title": "Amphenol vs. ALAB: Which Data Infrastructure Stock Should You Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-04-16 15:53",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 Amphenol 透過併購驅動的成長策略使其在數據基礎設施領域優於同業 Astera Labs，具備更穩健的競爭優勢。"
+    },
+    {
+      "rank": 3,
+      "title": "UBS Maintains Buy Rating on Amphenol (APH)",
+      "publisher": "Yahoo",
+      "date": "2026-04-19 05:03",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "瑞銀維持買入評級，並將其列為未來十年最佳投資標的之一，儘管有小幅目標價調整，但長期投資價值獲得肯定。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

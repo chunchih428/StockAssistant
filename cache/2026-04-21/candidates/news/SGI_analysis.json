@@ -1,0 +1,57 @@
+{
+  "ticker": "SGI",
+  "company": "Somnigroup International Inc.",
+  "analysis_date": "2026-04-21",
+  "source_file": "cache/2026-04-21/candidates/news/SGI.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 SGI 財報發布前夕保持審慎樂觀，儘管有分析師下調目標價，但機構投資人持股信心依然穩固。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Somnigroup International Inc. (SGI): Should You Buy the Dip?",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 21:04",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "億萬富翁投資人 David Abrams 將 SGI 列為其精選股票之一，顯示專業機構對該公司長期價值的高度認可，為股價提供支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "B of A Securities Maintains Buy on Somnigroup International, Lowers Price Target to $96",
+      "publisher": "Benzinga",
+      "date": "2026-04-14 08:05",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "儘管目標價下調，但美國銀行分析師 Rafe Jadrosich 維持「買入」評級，顯示其對公司基本面與成長潛力仍持正面看法。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Stephens & Co. Reiterates Equal-Weight on Somnigroup International, Maintains $89 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-04-14 09:40",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "分析師 Jeff Lick 維持「中立」評級與 89 美元目標價，反映市場對於該公司短期股價爆發力持保留態度，缺乏進一步推升動力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Somnigroup to Report First Quarter 2026 Financial Results",
+      "publisher": "Yahoo",
+      "date": "2026-04-15 10:55",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "公司宣布即將發布 2026 年第一季財報，屬於例行性公告，市場正處於觀望階段，等待實際數據出爐以決定後續方向。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
