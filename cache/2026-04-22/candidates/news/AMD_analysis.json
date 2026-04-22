@@ -1,0 +1,102 @@
+{
+  "ticker": "AMD",
+  "company": "AMD",
+  "analysis_date": "2026-04-21",
+  "source_file": "cache/2026-04-21/candidates/news/AMD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 13,
+    "bearish_count": 4,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "AMD 受益於 AI 數據中心需求強勁與分析師調升目標價，儘管面臨 Nvidia 在高階 AI 晶片市場的激烈競爭，整體市場情緒仍偏向正面。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Stifel Maintains Buy on Advanced Micro Devices, Raises Price Target to $320",
+      "publisher": "Benzinga",
+      "date": "2026-04-20 08:50",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Stifel 分析師 Ruben Roy 維持買入評級並將目標價調升至 320 美元，顯示對 AMD 在 AI 晶片市場競爭力的強烈信心。"
+    },
+    {
+      "rank": 2,
+      "title": "AI-Driven 'CPU Renaissance' To Boost AMD, Arm And Intel, Analyst Says",
+      "publisher": "Yahoo",
+      "date": "2026-04-20 16:29",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "AI 數據中心對 CPU 的需求激增，被視為推動 AMD 等晶片大廠長期成長的關鍵驅動力。"
+    },
+    {
+      "rank": 3,
+      "title": "Advanced Micro Devices Inc. (AMD) to Deepen Collaboration with France to Support AI Strategy",
+      "publisher": "Yahoo",
+      "date": "2026-04-18 08:52",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "AMD 與法國深化 AI 策略合作，有助於擴大其在歐洲市場的影響力與技術部署。"
+    },
+    {
+      "rank": 4,
+      "title": "Chip giants AMD, Qualcomm and Arm back driverless car startup Wayve with fresh funds",
+      "publisher": "CNBC",
+      "date": "2026-04-15 09:00",
+      "impact": "low",
+      "category": "策略投資",
+      "reason": "AMD 參與自動駕駛新創 Wayve 的融資，展現其在車用晶片與邊緣運算領域的佈局。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Nvidia Stock Slaughters Rivals AMD & Intel as the as Blackwell Ultra Racks ‘Lead the Market by Two Generations’",
+      "publisher": "Yahoo",
+      "date": "2026-04-18 13:20",
+      "impact": "high",
+      "category": "競爭分析",
+      "reason": "Nvidia 的 Blackwell Ultra 架構被認為領先 AMD 兩代，對 AMD 在高階 AI 加速器市場的市佔率構成重大威脅。"
+    },
+    {
+      "rank": 2,
+      "title": "Oppenheimer Calls Nvidia 'Top Pick' as Blackwell Chips Keep AMD, Intel Behind",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 17:10",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Oppenheimer 將 Nvidia 列為首選，並指出其技術優勢持續壓制 AMD 的成長空間。"
+    },
+    {
+      "rank": 3,
+      "title": "AMD Slips Despite Ryzen Comeback Rumors",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 18:22",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場對 Ryzen 處理器的復甦預期未能轉化為股價動力，顯示投資人對非 AI 業務的關注度較低。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Broadcom vs. AMD: Which AI Chipmaker Is the Better Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-04-18 16:50",
+      "impact": "low",
+      "category": "市場比較",
+      "reason": "文章對 Broadcom 與 AMD 進行比較，兩者皆為 AI 浪潮受益者，未給出明確的買賣建議，屬中性觀點。"
+    },
+    {
+      "rank": 2,
+      "title": "Advanced Micro Devices, Inc. (AMD) Is a Trending Stock: Facts to Know Before Betting on It",
+      "publisher": "Yahoo",
+      "date": "2026-04-20 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅提供公司基本面資訊與市場熱度分析，未包含具體利多或利空判斷。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

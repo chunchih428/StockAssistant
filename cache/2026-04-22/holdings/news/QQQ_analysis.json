@@ -1,0 +1,101 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-04-21",
+  "source_file": "cache/2026-04-21/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 0,
+    "bearish_count": 2,
+    "neutral_count": 7,
+    "overall_sentiment": "neutral",
+    "key_theme": "市場分析師近期多聚焦於 QQQ 與其他 ETF 的比較，並探討在總體經濟逆風下，等權重策略（QQQE）是否比傳統市值加權的 QQQ 更具防禦性與投資價值。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Time To Consider QQQE As An Equal Weight Tilt Within QQQ Exposure",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-13 13:53",
+      "impact": "medium",
+      "category": "市場策略",
+      "reason": "分析指出總體經濟逆風可能限制 QQQ 的上漲空間，建議投資人轉向 QQQE 以提升風險調整後報酬，對 QQQ 的相對吸引力構成負面觀點。"
+    },
+    {
+      "rank": 2,
+      "title": "QQQE: Nasdaq-100 ETF With Low Company Risk And Value Tilt",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-13 11:45",
+      "impact": "low",
+      "category": "市場策略",
+      "reason": "強調 QQQE 的等權重結構能降低大型科技股集中度風險，隱含對 QQQ 現行市值加權結構在波動市場中的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "QQQ vs. IWO: Big Tech Dominance or Small-Cap Potential?",
+      "publisher": "Motley Fool",
+      "date": "2026-04-17 15:45",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "針對 QQQ 與小型股 ETF 的比較分析，旨在協助投資人進行資產配置選擇，並非對 QQQ 本身做出買賣建議。"
+    },
+    {
+      "rank": 2,
+      "title": "VOO vs. QQQ: Broad Market Stability or Big Tech Gains?",
+      "publisher": "Motley Fool",
+      "date": "2026-04-17 15:13",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "探討 QQQ 的科技成長屬性與 VOO 的廣泛市場穩定性，屬於中性的投資組合比較報告。"
+    },
+    {
+      "rank": 3,
+      "title": "2 Legendary ETFs, Built for Very Different Investors: SPY vs. QQQ",
+      "publisher": "Motley Fool",
+      "date": "2026-04-17 14:59",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析 SPY 與 QQQ 的定位差異，提供投資人教育性質的資訊，不涉及對 QQQ 股價的預測。"
+    },
+    {
+      "rank": 4,
+      "title": "Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA",
+      "publisher": "Benzinga",
+      "date": "2026-04-16 10:29",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "僅提供交易策略與技術面觀察，未對 QQQ 的基本面或長期價值做出明確多空判斷。"
+    },
+    {
+      "rank": 5,
+      "title": "CNBC Halftime Report Final Trades: Netflix, Apollo Global Management, Invesco QQQ Trust, Series 1, Zoom Communications",
+      "publisher": "Benzinga",
+      "date": "2026-04-15 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為財經節目中的交易提及，屬於市場日常流動性與關注度範疇，無實質利多或利空消息。"
+    },
+    {
+      "rank": 6,
+      "title": "Chart Of The Day: Your Tech Sector Rorschach Test",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-15 06:30",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "透過技術圖表分析 QQQ 走勢，屬於中性的市場觀察，未給出明確的買賣訊號。"
+    },
+    {
+      "rank": 7,
+      "title": "KQQQ: Collect Tax-Efficient Dividends From Tech Titans",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-15 17:23",
+      "impact": "low",
+      "category": "產品介紹",
+      "reason": "介紹另一檔衍生性 ETF (KQQQ)，雖提及 QQQ 的科技股成分，但重點在於收益策略，對 QQQ 本身影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

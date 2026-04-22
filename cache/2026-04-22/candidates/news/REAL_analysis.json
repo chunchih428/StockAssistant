@@ -1,0 +1,46 @@
+{
+  "ticker": "REAL",
+  "company": "The RealReal, Inc.",
+  "analysis_date": "2026-04-21",
+  "source_file": "cache/2026-04-21/candidates/news/REAL.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 0,
+    "bearish_count": 0,
+    "neutral_count": 3,
+    "overall_sentiment": "neutral",
+    "key_theme": "公司近期處於財報發布前的平靜期，主要活動集中在品牌行銷與市場觀點討論，缺乏影響股價的重大基本面催化劑。"
+  },
+  "bullish": [],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "The RealReal Announces Timing of Its First Quarter 2026 Earnings Conference Call",
+      "publisher": "Finnhub",
+      "date": "2026-04-16 16:51",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "僅為例行性的財報會議時間公告，屬於市場預期內的行政程序，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Is The RealReal (REAL) a Worthy Investment?",
+      "publisher": "Insider Monkey",
+      "date": "2026-04-17 15:04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "屬於第三方投資分析文章，內容多為市場觀點彙整，未提供具體的新財務數據或重大營運變動，對股價影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "The RealReal Launches Real Talk, a Series of Conversations Exploring Personal Style",
+      "publisher": "Finnhub",
+      "date": "2026-04-15 10:00",
+      "impact": "low",
+      "category": "品牌行銷",
+      "reason": "公司推出 Podcast 節目旨在提升品牌黏著度與消費者互動，屬於長期品牌建設範疇，短期內難以轉化為顯著的財務績效。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

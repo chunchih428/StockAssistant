@@ -1,0 +1,102 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-04-21",
+  "source_file": "cache/2026-04-21/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Amazon 憑藉 AWS 在 AI 基礎設施的強勢布局、雲端合作夥伴擴張以及衛星通訊領域的戰略收購，展現出強勁的長期成長動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Amazon Vs. SpaceX Space Race Heats Up At Difficult Time For Musk's Upcoming IPO",
+      "publisher": "Yahoo",
+      "date": "2026-04-18 18:01",
+      "impact": "high",
+      "category": "併購與戰略",
+      "reason": "Amazon 以 115.7 億美元收購 Globalstar，此舉不僅強化了衛星通訊能力，更直接挑戰 SpaceX 的市場地位，被視為重大戰略勝利。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon Scores Major AI Win as Fox Picks AWS as Preferred Cloud Partner",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 15:35",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "Fox 選擇 AWS 作為首選雲端合作夥伴，進一步驗證了 AWS 在企業級 AI 解決方案的市場領導地位與客戶黏著度。"
+    },
+    {
+      "rank": 3,
+      "title": "Did Amazon Just Say Checkmate to Nvidia?",
+      "publisher": "Yahoo",
+      "date": "2026-04-18 23:41",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Amazon 自研 AI 晶片策略取得進展，有助於降低對 Nvidia 的依賴並優化 AWS 成本結構，長期利好毛利率。"
+    },
+    {
+      "rank": 4,
+      "title": "Amazon.com, Inc. (AMZN) Expands Partnership with NiSource",
+      "publisher": "Yahoo",
+      "date": "2026-04-18 08:49",
+      "impact": "medium",
+      "category": "基礎設施",
+      "reason": "與 NiSource 的合作強化了資料中心能源供應的穩定性，對於支撐 AWS 龐大的 AI 運算需求至關重要。"
+    },
+    {
+      "rank": 5,
+      "title": "Amazon (AMZN) Remains a Buy Ahead of Q1 Earnings. Here Are 3 Reasons Why",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 09:20",
+      "impact": "medium",
+      "category": "財報預期",
+      "reason": "市場對 4 月 29 日公布的 Q1 財報持樂觀態度，預期 AWS 成長加速與電商業務強勁將推動股價表現。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Amazon sellers boycott ads in policy change revolt: 'We're running out of f---ing margin'",
+      "publisher": "CNBC",
+      "date": "2026-04-15 15:00",
+      "impact": "medium",
+      "category": "營運風險",
+      "reason": "大量賣家因廣告政策變更發起抵制，可能短期影響廣告營收成長，並反映出賣家對平台抽成過高的不滿。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon, FTC settlement claim deadline is 100 days away. How to sign up",
+      "publisher": "Yahoo",
+      "date": "2026-04-18 10:02",
+      "impact": "low",
+      "category": "法規與訴訟",
+      "reason": "FTC 和解案持續進行，雖屬舊案，但仍提醒投資人監管壓力對公司營運模式的潛在限制。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Too Late To Consider Amazon.com (AMZN) After Its Recent Share Price Rally?",
+      "publisher": "Yahoo",
+      "date": "2026-04-18 21:07",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討股價是否過熱，屬於市場估值觀點的討論，並未提供新的基本面資訊。"
+    },
+    {
+      "rank": 2,
+      "title": "Final Trades: Qualcomm, Amazon and Netflix",
+      "publisher": "CNBC",
+      "date": "2026-04-16 13:25",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為投資委員會對下半年觀察名單的提及，缺乏具體分析深度。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "MSFT",
+  "company": "Microsoft",
+  "analysis_date": "2026-04-21",
+  "source_file": "cache/2026-04-21/holdings/news/MSFT.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 6,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對 Microsoft 在 AI 領域的執行力與 Azure 成長潛力持樂觀態度，但同時面臨分析師下調目標價、Copilot 採用率疑慮及雲端競爭加劇的壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Microsoft Just Opened Doors at the Most Powerful AI Data Center in the World",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 15:53",
+      "impact": "high",
+      "category": "基礎設施建設",
+      "reason": "提前完成全球最強 AI 資料中心，顯示 Microsoft 在 AI 基礎設施部署上的強大執行力，有助於鞏固其雲端競爭優勢。"
+    },
+    {
+      "rank": 2,
+      "title": "Microsoft Stellantis AI Deal Deepens Azure Role In Global Auto Operations",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 17:03",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "與 Stellantis 達成五年合作協議，深化 Azure 在全球汽車產業的應用，展現 AI 解決方案的商業落地能力。"
+    },
+    {
+      "rank": 3,
+      "title": "Microsoft sees best week in 10 years",
+      "publisher": "CNBC",
+      "date": "2026-04-17 17:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價創下十年來最佳單週表現，反映投資人重新看好軟體與 AI 領域的資金輪動效應。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Microsoft price target lowered to $540 from $610 at TD Cowen",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 14:29",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "TD Cowen 大幅下調目標價，反映市場對雲端成長放緩及競爭加劇的擔憂，對股價短期估值構成壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "\"Code Red\": Microsoft CEO Satya Nadella Is Reportedly Leading an Overhaul of Copilot",
+      "publisher": "Yahoo",
+      "date": "2026-04-18 21:50",
+      "impact": "medium",
+      "category": "產品發展",
+      "reason": "Copilot 採用率未達預期導致內部進行「紅色代碼」整頓，顯示 AI 產品變現過程面臨挑戰，引發投資人對營收貢獻的疑慮。"
+    },
+    {
+      "rank": 3,
+      "title": "Top Analyst Reports for Microsoft: slowing cloud guidance and capacity limits",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 21:16",
+      "impact": "medium",
+      "category": "財報預期",
+      "reason": "分析師指出雲端業務指引放緩及產能限制，為即將到來的財報發布增添不確定性。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Microsoft eyes AI execution, Azure growth, Copilot adoption in key Q3 earnings test",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 16:27",
+      "impact": "low",
+      "category": "財報預期",
+      "reason": "市場聚焦 4 月 29 日的第三季財報，目前處於觀望階段，等待 Azure 與 Copilot 的具體數據驗證。"
+    },
+    {
+      "rank": 2,
+      "title": "Evaluating Microsoft (MSFT) Valuation As Mixed Share Returns",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 08:06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對 Microsoft 目前估值與 AI 敘事之間的矛盾進行分析，市場觀點分歧，未有明確方向性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

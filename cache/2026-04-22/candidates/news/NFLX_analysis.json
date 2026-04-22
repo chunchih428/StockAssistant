@@ -1,0 +1,120 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-04-21",
+  "source_file": "cache/2026-04-21/candidates/news/NFLX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 8,
+    "neutral_count": 3,
+    "overall_sentiment": "mixed",
+    "key_theme": "Netflix 因 Q2 財測不如預期導致股價回調，但華爾街分析師與機構投資人普遍視此為長期布局的買點，同時面臨義大利法院裁定退款的監管挑戰。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "'Attractively Valued': Analyst Bets Big On Netflix's Multi-Year Growth Run",
+      "publisher": "Benzinga",
+      "date": "2026-04-20T09:33:00Z",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Guggenheim 維持買入評級，強調儘管短期財測失利，但 Netflix 具備強大的長期成長潛力與競爭優勢。"
+    },
+    {
+      "rank": 2,
+      "title": "Buy the Dip in Netflix Stock Now, Says JPMorgan",
+      "publisher": "Yahoo",
+      "date": "2026-04-20T20:29:00Z",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "摩根大通分析師認為近期因財測疲軟導致的股價下跌是買入良機，看好公司基本面。"
+    },
+    {
+      "rank": 3,
+      "title": "Cathie Wood Is Buying Netflix Again. Here’s Her Rocky History With the Stock.",
+      "publisher": "Yahoo",
+      "date": "2026-04-20T13:20:00Z",
+      "impact": "medium",
+      "category": "機構投資",
+      "reason": "ARK Invest 在股價波動期間增持 Netflix，顯示知名成長型投資人對其長期價值仍具信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Netflix's Global Expansion Still Wide Open: More Upside Ahead?",
+      "publisher": "Yahoo",
+      "date": "2026-04-20T13:05:00Z",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "分析指出 Netflix 在亞太地區及全球寬頻家庭滲透率仍低於 45 %，廣告業務將成為未來成長的關鍵引擎。"
+    },
+    {
+      "rank": 5,
+      "title": "Netflix's ad strategy adds to streaming giant's appeal, CIO says",
+      "publisher": "Reuters Videos",
+      "date": "2026-04-20T21:02:55Z",
+      "impact": "medium",
+      "category": "產品策略",
+      "reason": "投資長指出 Netflix 的廣告策略成功提升了平台吸引力，有助於多元化營收來源。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Netflix sinks on guidance miss: Here's what you need to know",
+      "publisher": "CNBC",
+      "date": "2026-04-17T11:30:00Z",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "Netflix 發布的 Q2 營收與獲利財測低於市場預期，引發投資人恐慌性拋售，為近期股價下跌的主因。"
+    },
+    {
+      "rank": 2,
+      "title": "Italian court rules every Netflix price hike from 2017 to 2024 unlawful and orders the company to refund subscribers up to 500 euros",
+      "publisher": "Yahoo",
+      "date": "2026-04-20T15:33:00Z",
+      "impact": "high",
+      "category": "法規",
+      "reason": "義大利法院裁定 Netflix 過去數年的漲價行為違法，要求退款，此舉可能影響公司定價權並造成財務損失。"
+    },
+    {
+      "rank": 3,
+      "title": "Trump Goes After Reed Hastings Amid Netflix Stock Rout— 'Forced' To Leave?",
+      "publisher": "Yahoo",
+      "date": "2026-04-20T13:30:00Z",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "政治人物的公開評論增加了公司在輿論上的不確定性，並與 Reed Hastings 的離職議題掛鉤，增添市場雜音。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Netflix, Inc. (NFLX) Is a Trending Stock: Facts to Know Before Betting on It",
+      "publisher": "Yahoo",
+      "date": "2026-04-20T13:00:00Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場熱度分析與基本事實整理，未提供明確的買賣建議或新的利多利空資訊。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix's Durable Competitive Advantage: What Investors Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-04-20T17:50:00Z",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "探討公司長期競爭優勢的教育性文章，對短期股價影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "Final Trades: Netflix, BlackRock, Illumina and UPS",
+      "publisher": "CNBC",
+      "date": "2026-04-17T13:07:00Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為財經節目中的投資組合觀察名單，未針對 Netflix 提出具體分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

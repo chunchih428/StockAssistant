@@ -1,0 +1,93 @@
+{
+  "ticker": "META",
+  "company": "Meta",
+  "analysis_date": "2026-04-20",
+  "source_file": "cache/2026-04-20/holdings/news/META.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 8,
+    "bearish_count": 7,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "Meta 積極深化 AI 基礎設施布局與晶片合作，但同時面臨大規模裁員以優化成本結構的營運調整壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Meta and Broadcom deepen AI chip partnership through 2029",
+      "publisher": "CNBC",
+      "date": "2026-04-15 17:25",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "Meta 與 Broadcom 延長並深化 AI 晶片合作至 2029 年，確保了公司在 AI 運算基礎設施上的長期競爭力與供應穩定性。"
+    },
+    {
+      "rank": 2,
+      "title": "Meta’s New AI Model Can Drive the Stock to Fresh Highs",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 12:58",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出名為 Muse Spark 的閉源 AI 模型，市場預期該技術創新能進一步提升廣告業務效率並推動股價成長。"
+    },
+    {
+      "rank": 3,
+      "title": "Truemed Partners with Meta to Enable HSA/ FSA Purchases of Rx AI Glasses",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 15:30",
+      "impact": "low",
+      "category": "市場擴張",
+      "reason": "透過與 Truemed 合作，使消費者能使用 HSA/FSA 帳戶購買 AI 眼鏡，有助於擴大硬體產品的銷售通路與普及率。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Exclusive-Meta targets May 20 for first wave of layoffs; additional cuts later in 2026",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 19:42",
+      "impact": "high",
+      "category": "高層異動",
+      "reason": "Meta 計劃於 5 月 20 日啟動裁員，規模達全球員工總數的 10%（約 8,000 人），反映公司為抵銷 AI 投資成本而進行的結構性緊縮。"
+    },
+    {
+      "rank": 2,
+      "title": "Watch Out for Q2: Evercore Analyst Warns Ad Budget Cuts Could Mute Tech Earnings",
+      "publisher": "Benzinga",
+      "date": "2026-04-17 10:35",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師警告廣告預算削減可能影響科技業財報表現，儘管 Meta 被視為優質標的，但總體經濟環境仍帶來營收不確定性。"
+    },
+    {
+      "rank": 3,
+      "title": "As Mark Zuckerberg Moves His Desk to the AI Lab to Double Down on Innovation, META Stock Lags the S&P 500",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 11:30",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "執行長 Zuckerberg 將辦公室移至 AI 實驗室以示決心，但市場對其過度投入 AI 的資本支出回報率仍存疑，導致股價表現落後大盤。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Meta's Earnings Report Is Coming Up. Is It Time to Buy the Growth Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-04-18 18:27",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "市場正處於財報發布前的觀望期，投資人正在權衡強勁的營收成長與高昂的 AI 資本支出之間的平衡。"
+    },
+    {
+      "rank": 2,
+      "title": "Trade Tracker: Bill Baruch buys more ServiceNow, Meta, Microsoft and Tesla",
+      "publisher": "CNBC",
+      "date": "2026-04-15 12:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "機構投資人 Bill Baruch 的持倉調整，屬於市場常規操作，對股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

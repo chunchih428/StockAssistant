@@ -1,0 +1,102 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-04-20",
+  "source_file": "cache/2026-04-20/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 1,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "Apple 在中國市場的 iPhone 出貨量強勁復甦，加上法規訴訟取得勝訴與分析師調升評級，推動市場對其長期成長的信心。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple (AAPL) Outruns the Pack in China, iPhone Shipments Race 20% Ahead in Q1",
+      "publisher": "Yahoo",
+      "date": "2026-04-18 09:16",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Apple 在中國市場的 iPhone 出貨量於第一季成長 20%，顯示其在競爭激烈的市場中成功擴大市占率，為股價提供強勁的基本面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple Upgraded To Outperform As BNP Sees Share Gains From Memory Surge",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 17:34",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "BNP Paribas 將 Apple 評級調升至「優於大盤」，並將目標價上調至 300 美元，理由是 Apple 具備成本優勢，能有效應對記憶體成本上漲帶來的供應鏈壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple Scores Key Win As Trade Commission Rejects Masimo's Bid To Reinstate Apple Watch Import Ban",
+      "publisher": "Benzinga",
+      "date": "2026-04-18 04:02",
+      "impact": "medium",
+      "category": "法規",
+      "reason": "美國國際貿易委員會駁回了 Masimo 關於恢復 Apple Watch 進口禁令的請求，消除了潛在的銷售中斷風險，對公司營運是一項重大法律勝利。"
+    },
+    {
+      "rank": 4,
+      "title": "Apple's Smart Glasses Could Launch in 2027. Here's Why Apple Could Succeed Where Others Have Failed.",
+      "publisher": "Yahoo",
+      "date": "2026-04-18 13:40",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "市場對 Apple 預計於 2027 年推出的智慧眼鏡持樂觀態度，認為其軟硬體整合能力將成為市場競爭的關鍵優勢。"
+    },
+    {
+      "rank": 5,
+      "title": "Trade Tracker: Amy Raskin buys more Apple",
+      "publisher": "CNBC",
+      "date": "2026-04-17 13:04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Chevy Chase Trust 的投資長 Amy Raskin 公開表示增持 Apple 股票，顯示機構投資人對該公司長期價值的高度認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Apple Stock: Why the Dow’s Best-Looking Chart Is Rotting from the Inside Out",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 17:18",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析指出若地緣政治風險（如荷姆茲海峽局勢）導致成本上升，Apple 的利潤率可能面臨壓力，對其作為避險資產的地位提出質疑。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Too Late To Consider Apple (AAPL) After Its Strong 1 Year Share Price Run?",
+      "publisher": "Yahoo",
+      "date": "2026-04-18 19:03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討在股價已大幅上漲後，目前 270 美元的價位是否仍具備投資價值，屬於市場估值觀點的討論，無明確多空方向。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple Stock Trade Risk Around Earnings Offers A 27% Reward",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 17:33",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "針對 4 月 30 日財報公布前的選擇權交易策略分析，屬於技術性交易建議，而非對公司基本面的評價。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple’s Wearables Shakeup And AI Security Push Shape Long Term Story",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 20:03",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "報導 Apple 在穿戴裝置部門的領導層調整及 AI 安全策略，屬於公司治理與長期戰略規劃的常規報導。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
