@@ -1,0 +1,84 @@
+{
+  "ticker": "QXO",
+  "company": "QXO, Inc.",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/QXO.json",
+  "summary": {
+    "total_articles": 17,
+    "bullish_count": 6,
+    "bearish_count": 4,
+    "neutral_count": 7,
+    "overall_sentiment": "mixed",
+    "key_theme": "QXO 宣布以 170 億美元收購 TopBuild，市場對其擴張策略與獲利潛力持正面看法，但同時擔憂收購帶來的財務槓桿與股權稀釋風險。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "QXO: The TopBuild Acquisition Puts The Thesis Into Overdrive",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-20",
+      "impact": "high",
+      "category": "併購交易",
+      "reason": "分析指出此 170 億美元收購案能顯著提升 QXO 的獲利能力與規模經濟，預期透過交叉銷售與利潤率提升創造長期價值。"
+    },
+    {
+      "rank": 2,
+      "title": "Keybanc Maintains Overweight on QXO, Raises Price Target to $32",
+      "publisher": "Benzinga",
+      "date": "2026-04-20",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Keybanc 分析師 Jeffrey Hammond 維持對 QXO 的「加碼」評級，並將目標價上調至 32 美元，顯示專業機構對其併購後的成長前景具信心。"
+    },
+    {
+      "rank": 3,
+      "title": "QXO’s TopBuild Deal Reshapes Scale Valuation And Growth Story",
+      "publisher": "Simply Wall St.",
+      "date": "2026-04-22",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導強調此收購案重塑了公司的規模與成長故事，有助於提升市場對其估值的認可度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Stock Market Today, April 20: QXO Dips After $17 Billion TopBuild Acquisition Sparks Dilution and Leverage Concerns",
+      "publisher": "Motley Fool",
+      "date": "2026-04-20",
+      "impact": "high",
+      "category": "財務風險",
+      "reason": "市場擔憂 170 億美元的巨額收購將導致嚴重的股權稀釋與財務槓桿壓力，導致股價在消息公布後出現下跌。"
+    },
+    {
+      "rank": 2,
+      "title": "QXO Stock Alert: Halper Sadeh LLC is Investigating Whether QXO, Inc. is Obtaining a Fair Price for its Shareholders",
+      "publisher": "Finnhub",
+      "date": "2026-04-19",
+      "impact": "medium",
+      "category": "法律訴訟",
+      "reason": "律師事務所針對收購案是否損害股東權益進行調查，此類法律審查通常會對短期股價造成不確定性壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "QXO Partners With NAHICA to Advance Opportunities for Latino Contractors Nationwide",
+      "publisher": "Finnhub",
+      "date": "2026-04-22",
+      "impact": "low",
+      "category": "企業合作",
+      "reason": "公司與全國西班牙裔承包商協會建立合作關係，屬於常規的企業社會責任與市場拓展活動，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "QXO Announces Investor Presentation Regarding Acquisition of TopBuild",
+      "publisher": "Finnhub",
+      "date": "2026-04-22",
+      "impact": "low",
+      "category": "投資人關係",
+      "reason": "公司發布收購案的投資人簡報，旨在向市場說明交易細節，屬於併購案後的例行資訊揭露。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

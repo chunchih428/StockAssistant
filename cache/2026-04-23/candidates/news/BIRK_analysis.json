@@ -1,0 +1,37 @@
+{
+  "ticker": "BIRK",
+  "company": "Birkenstock Holding plc",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/BIRK.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管分析師下調目標價，但維持買入評級，且內部人持續增持股份，顯示對公司長期基本面仍具信心。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Birkenstock Holding Insider Ups Holding By 20% During Year",
+      "publisher": "Simply Wall St.",
+      "date": "2026-04-13",
+      "impact": "medium",
+      "category": "內部人交易",
+      "reason": "公司內部人於過去一年內增持 20% 的持股，此舉通常被市場視為管理層或內部人士對公司未來營運前景與股價表現具備高度信心的正面訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "Stifel Maintains Buy on Birkenstock Holding, Lowers Price Target to $56",
+      "publisher": "Benzinga",
+      "date": "2026-04-22",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "Stifel 分析師 Peter McGoldrick 維持「買入」評級，雖將目標價下調至 56 美元，但核心投資建議仍為正面，顯示對品牌成長潛力維持認可。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "TER",
+  "company": "Teradyne, Inc.",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/TER.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 13,
+    "bearish_count": 2,
+    "neutral_count": 5,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "受惠於 AI 晶片測試需求強勁、併購 TestInsight 擴大技術版圖，以及與 Flex 的策略合作，帶動股價強勢表現並獲分析師調升目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "UBS Maintains Buy on Teradyne, Raises Price Target to $440",
+      "publisher": "Benzinga",
+      "date": "2026-04-21 15:00",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "UBS 分析師 Timothy Arcuri 維持買進評級，並將目標價大幅調升至 440 美元，反映市場對其 AI 測試業務成長潛力的強烈信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Teradyne Acquires TestInsight, Accelerating Time to Market for AI and Data Center Devices",
+      "publisher": "Yahoo",
+      "date": "2026-04-16 13:00",
+      "impact": "high",
+      "category": "企業併購",
+      "reason": "收購 TestInsight 將直接強化 Teradyne 在 AI 與資料中心晶片測試的開發能力，縮短產品上市時間，選此篇作為代表涵蓋了併購的策略意義。"
+    },
+    {
+      "rank": 3,
+      "title": "Flex and Teradyne Robotics Expand Partnership to Scale Intelligent Automation Across Global Manufacturing",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 13:05",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 Flex 擴大機器人自動化合作，有助於 Teradyne 在全球製造領域的市占率與技術標準化，選此篇作為代表涵蓋了合作的具體目標。"
+    },
+    {
+      "rank": 4,
+      "title": "Is AI-Fueled Testing Momentum And New JV Altering The Investment Case For Teradyne (TER)?",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 15:06",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "報導指出 2025 年第四季財報表現強勁，AI 驅動的需求持續支撐公司基本面，確認了成長動能的延續性。"
+    },
+    {
+      "rank": 5,
+      "title": "German Court Rules in Favor of Teradyne Robotics and Issues Preliminary Injunction Against Elite Robots Deutschland",
+      "publisher": "Yahoo",
+      "date": "2026-04-21 13:33",
+      "impact": "low",
+      "category": "法律訴訟",
+      "reason": "德國法院對版權侵權案做出有利於 Teradyne 的初步禁制令，保護了公司在機器人領域的智慧財產權。"
+    },
+    {
+      "rank": 6,
+      "title": "Teradyne (TER) Surged on Investors’ Favour",
+      "publisher": "Yahoo",
+      "date": "2026-04-21 13:35",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Carillon Tower Advisers 在投資人信中對 Teradyne 的正面評價，顯示機構投資人對其長期成長前景的認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Here's Why Teradyne (TER) Fell More Than Broader Market",
+      "publisher": "Yahoo",
+      "date": "2026-04-20 22:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 1.39 %，主要為漲多後的技術性回調，屬於短期市場波動，並非基本面惡化。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "JP Morgan Maintains Neutral on Teradyne, Raises Price Target to $400",
+      "publisher": "Benzinga",
+      "date": "2026-04-16 15:55",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "摩根大通維持中立評級，儘管調升目標價至 400 美元，顯示分析師對目前高估值下的風險與報酬持審慎平衡態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Is It Too Late To Consider Teradyne (TER) After Its 435% One Year Surge?",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 14:04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討股價一年內飆漲 435 % 後的估值合理性，提醒投資人注意過熱風險，屬於中性的投資觀點分析。"
+    },
+    {
+      "rank": 3,
+      "title": "Teradyne (TER) Valuation Check After Strong Multi‑Month Share Price Rally",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 23:07",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對近期股價強勢上漲後的估值檢視，提供投資人冷靜思考的視角，無明確多空傾向。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "JD",
+  "company": "JD.com, Inc.",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/JD.json",
+  "summary": {
+    "total_articles": 13,
+    "bullish_count": 5,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司獲分析師調升評級與目標價，但近期面臨監管罰款壓力及股價短期波動。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bernstein Maintains Outperform on JD.com, Raises Price Target to $36",
+      "publisher": "Benzinga",
+      "date": "2026-04-16 08:05",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Robin Zhu 將目標價從 34 美元上調至 36 美元，反映對公司長期獲利能力的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "JD.com (JD) Upgraded to Buy: Here's What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-04-20 16:00",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "公司獲得評級調升至買入，主要受惠於市場對其未來獲利前景的樂觀預期。"
+    },
+    {
+      "rank": 3,
+      "title": "Does JD.com (JD) Have the Potential to Rally 25.31% as Wall Street Analysts Expect?",
+      "publisher": "Yahoo",
+      "date": "2026-04-21 13:55",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "華爾街共識目標價暗示該股有 25.3 % 的上漲潛力，顯示市場對其估值修復的期待。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "China Imposes $528 Million Penalty On Alibaba, JD, Meituan, PDD, Douyin",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 13:57",
+      "impact": "high",
+      "category": "法規監管",
+      "reason": "中國監管機構對電商平台處以總計 36 億元人民幣罰款，針對無照商家與審核機制缺失，對公司營運構成短期利空。"
+    },
+    {
+      "rank": 2,
+      "title": "Here's Why JD.com, Inc. (JD) Fell More Than Broader Market",
+      "publisher": "Yahoo",
+      "date": "2026-04-21 21:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日下跌 2.71 %，表現弱於大盤，反映市場對近期監管與宏觀環境的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "JD.com Debt Issuance And 2025 Filing Refresh Investor Valuation View",
+      "publisher": "Yahoo",
+      "date": "2026-04-19 08:04",
+      "impact": "low",
+      "category": "財務報告",
+      "reason": "公司完成 100 億元人民幣離岸優先票據發行，屬於正常的資本運作與融資活動。"
+    },
+    {
+      "rank": 2,
+      "title": "China Quick Commerce Databook Report 2026",
+      "publisher": "Yahoo",
+      "date": "2026-04-21 08:08",
+      "impact": "low",
+      "category": "產業報告",
+      "reason": "報告指出即時零售市場規模將於 2029 年達到 1,267.4 億美元，JD.com 為主要參與者，屬產業長期趨勢分析。"
+    },
+    {
+      "rank": 3,
+      "title": "Should Value Investors Buy JD.com (JD) Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-04-20 13:40",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "基於 Zacks 排名系統的技術性分析，探討價值投資者是否應進場，未提供具體基本面變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

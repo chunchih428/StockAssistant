@@ -1,0 +1,56 @@
+{
+  "ticker": "AXTI",
+  "company": "AXT, Inc.",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/AXTI.json",
+  "summary": {
+    "total_articles": 16,
+    "bullish_count": 2,
+    "bearish_count": 14,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司宣布進行 5.5 億美元的普通股增資引發市場對股權稀釋的擔憂，加上 Q1 財報指引表現平淡，導致股價短期承壓。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "AXT Inc. (AXTI) Climbs 400% This Year on Chip Boom, Upbeat Outlook",
+      "publisher": "Insider Monkey",
+      "date": "2026-04-17",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "反映公司在晶片產業繁榮背景下的強勁成長趨勢，今年以來股價漲幅達 400 %，顯示市場對其長期前景持樂觀態度。"
+    },
+    {
+      "rank": 2,
+      "title": "AXT Inc. (AXTI) Earnings in Focus, Stock Hits All-Time High",
+      "publisher": "Insider Monkey",
+      "date": "2026-04-23",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "儘管近期有增資壓力，但股價觸及歷史新高顯示基本面仍受市場認可，財報表現持續受到關注。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "AXT Stock Slides As $550 Million Share Sale Raises Dilution Concerns",
+      "publisher": "Benzinga",
+      "date": "2026-04-21",
+      "impact": "high",
+      "category": "股權融資",
+      "reason": "公司以每股 64.25 美元價格發行 856 萬股，總額達 5.5 億美元，大規模的股權稀釋直接導致投資人拋售，為近期股價下跌的主因。"
+    },
+    {
+      "rank": 2,
+      "title": "AXT Anticipates Q1 Revenues Of $26M-$28M And Net Loss Per Share Of $0.03-$0.05",
+      "publisher": "Benzinga",
+      "date": "2026-04-20",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "公司公布 Q1 營收預期為 2,600 萬至 2,800 萬美元，且預計每股虧損 0.03 至 0.05 美元，疲軟的財測加劇了市場對獲利能力的擔憂。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

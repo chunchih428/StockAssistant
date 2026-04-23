@@ -1,0 +1,38 @@
+{
+  "ticker": "FUN",
+  "company": "Six Flags Entertainment Corporation",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/FUN.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司透過恢復園區總裁制度強化在地化管理，市場正密切評估合併後的估值與股價動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Six Flags Entertainment : Reintroduces Park Presidents at 10 Key Properties to Strengthen Local Leadership and Enhance Guest Experience",
+      "publisher": "Finnhub",
+      "date": "2026-04-22 05:18",
+      "impact": "medium",
+      "category": "營運策略",
+      "reason": "公司宣布在 10 個核心園區恢復設置園區總裁，此舉旨在強化在地化決策與提升遊客體驗，預期能改善營運效率並帶動長期獲利能力。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Assessing Six Flags Entertainment (FUN) Valuation After Rebrand And Recent Share Price Momentum",
+      "publisher": "Simply Wall St.",
+      "date": "2026-04-13",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該分析文章針對品牌重塑後的估值進行評估，並探討近期股價動能，屬於中性的市場觀察，並未提供明確的買進或賣出建議。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

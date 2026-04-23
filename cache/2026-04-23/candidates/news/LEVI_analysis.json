@@ -1,0 +1,37 @@
+{
+  "ticker": "LEVI",
+  "company": "Levi Strauss & Co.",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/LEVI.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 0,
+    "bearish_count": 2,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "Levi Strauss & Co. 面臨勞工權益與定價策略的法律訴訟與調查，引發市場對其 ESG 評級與品牌價值的擔憂。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Clean Clothes Campaign files legal action against Levi Strauss & Co",
+      "publisher": "Just Style",
+      "date": "2026-04-22T10:58:24Z",
+      "impact": "high",
+      "category": "法律訴訟",
+      "reason": "Clean Clothes Campaign 對 Levi Strauss 提起法律行動，直接威脅公司營運聲譽與潛在的法律賠償風險，可能導致品牌價值受損。"
+    },
+    {
+      "rank": 2,
+      "title": "Will Labor and Pricing Probes Reshape Levi Strauss' (LEVI) ESG and Brand-Value Narrative?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-04-22T01:10:16Z",
+      "impact": "medium",
+      "category": "監管調查",
+      "reason": "針對勞工與定價策略的調查可能迫使公司調整商業模式，進而影響其 ESG 評級與長期獲利能力，市場對此不確定性持負面看法。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

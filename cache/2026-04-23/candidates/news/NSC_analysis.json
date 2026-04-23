@@ -1,0 +1,37 @@
+{
+  "ticker": "NSC",
+  "company": "Norfolk Southern Corporation",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/NSC.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 0,
+    "bearish_count": 2,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場預期 Norfolk Southern 第一季財報表現疲軟，主要受貨運需求下滑及獲利預估下調影響。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Analysts Estimate Norfolk Southern (NSC) to Report a Decline in Earnings: What to Look Out for",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 14:00",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "分析師指出該公司缺乏獲利超預期的關鍵要素，預計第一季財報將呈現獲利衰退，此篇作為代表是因為其明確點出財報表現可能不如預期的結構性風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Norfolk Southern to Report Q1 Earnings: What's in the Cards?",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 16:10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導強調貨運需求疲軟與獲利預估下調的負面趨勢，儘管電子商務與定價策略提供部分支撐，但整體展望仍偏向保守。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

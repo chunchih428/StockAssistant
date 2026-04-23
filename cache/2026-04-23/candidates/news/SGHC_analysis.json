@@ -1,0 +1,46 @@
+{
+  "ticker": "SGHC",
+  "company": "Super Group (SGHC) Limited",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/SGHC.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司股價表現持續優於大盤，且獲得分析師維持買入評級與 16 美元目標價的正面背書。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "BTIG Reiterates Buy on Super Group (SGHC), Maintains $16 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-04-16 07:25",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "BTIG 分析師 Clark Lampen 重申對 SGHC 的「買入」評級，並維持 16 美元的目標價，顯示專業機構對公司基本面與未來成長潛力的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Super Group (SGHC) Limited (SGHC) Gains As Market Dips: What You Should Know",
+      "publisher": "Zacks",
+      "date": "2026-04-21T22:00:04Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "在整體市場回調的背景下，SGHC 展現出相對抗跌且逆勢上漲的強勢表現，反映出市場資金對該股的青睞與買盤支撐。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Super Group (SGHC) Limited (SGHC) Outpaced the Stock Market Today",
+      "publisher": "Zacks",
+      "date": "2026-04-15T22:00:04Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導分析了公司股價當日表現優於大盤的原因，進一步強化了市場對該公司近期股價動能的正面預期。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

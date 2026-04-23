@@ -1,0 +1,38 @@
+{
+  "ticker": "SYM",
+  "company": "Symbotic Inc.",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/SYM.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司股價近期面臨市場修正壓力，且市場對於其積壓訂單與現金流模型的長期估值存在多空分歧。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Symbotic Inc. (SYM) Suffers a Larger Drop Than the General Market: Key Insights",
+      "publisher": "Yahoo",
+      "date": "2026-04-21 22:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "SYM 股價單日下跌 3.33 %，表現弱於大盤，顯示短期賣壓較重，投資人信心有所動搖。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "A Look At Symbotic (SYM) Valuation As Backlog And Cash Flow Models Send Mixed Signals",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 08:05",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "該報導指出公司積壓訂單與現金流模型呈現多空訊號，缺乏單一重大事件驅動，市場對其估值合理性仍處於觀望階段。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

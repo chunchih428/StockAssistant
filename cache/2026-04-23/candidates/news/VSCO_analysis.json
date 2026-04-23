@@ -1,0 +1,48 @@
+{
+  "ticker": "VSCO",
+  "company": "Victoria's Secret & Co.",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/VSCO.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司正透過數位創新吸引年輕客群，但同時面臨 1.6 億美元關稅壓力與分析師保守評級的雙重挑戰。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "How VSCO Is Using Digital Innovation to Capture Young Shoppers?",
+      "publisher": "Zacks",
+      "date": "2026-04-15T14:17:00Z",
+      "impact": "medium",
+      "category": "市場策略",
+      "reason": "公司積極推動數位轉型與創新行銷，有助於提升品牌在年輕族群的市占率，為長期營收成長提供正面動能。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "How VSCO Plans to Mitigate $160 Million in New Tariff Pressures?",
+      "publisher": "Zacks",
+      "date": "2026-04-13T15:03:00Z",
+      "impact": "high",
+      "category": "營運風險",
+      "reason": "面臨高達 1.6 億美元的關稅成本壓力，將直接衝擊毛利率與獲利能力，市場高度關注公司如何透過供應鏈調整來抵銷此負面影響。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "BofA Maintains a Neutral Rating on Victoria’s Secret & Co. (VSCO)",
+      "publisher": "Insider Monkey",
+      "date": "2026-04-16T15:18:26Z",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "美國銀行 (BofA) 維持中立評級，顯示市場對於公司在轉型期間的獲利穩定性仍持觀望態度，缺乏明確的買進或賣出訊號。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

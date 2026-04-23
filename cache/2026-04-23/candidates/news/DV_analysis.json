@@ -1,0 +1,57 @@
+{
+  "ticker": "DV",
+  "company": "DoubleVerify Holdings, Inc.",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/DV.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司持續透過 AI 驗證技術與社交媒體產品擴張來推動成長，但市場對於其營收成長速度是否能支撐股價仍持保留態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "DoubleVerify Announces Expansion Of DV AI Verification To Include DV's AI SlopStopper For Social",
+      "publisher": "Benzinga",
+      "date": "2026-04-16 09:11",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出 AI SlopStopper 強化社交媒體驗證能力，有助於提升產品競爭力並擴大在廣告驗證市場的市占率。"
+    },
+    {
+      "rank": 2,
+      "title": "DoubleVerify (DV) to Preserve Content Quality Through AI Verification platform",
+      "publisher": "Insider Monkey",
+      "date": "2026-04-22 02:45",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "強調公司透過 AI 平台維護內容品質的技術優勢，進一步鞏固其作為媒體品質驗證領導者的市場地位。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "DoubleVerify: The Story Is Improving, But The Headline Growth Still Is Not",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-16 09:23",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "儘管社交媒體業務成長 60 % 且 YouTube 的 MAP 產品取得 800 萬美元 ACV 的進展，但整體營收成長速度仍低於市場預期，導致分析師維持「持有」評級。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Time To Reassess DoubleVerify (DV) After Recent Share Price Slump?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-04-22 17:04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對股價近期下跌進行回顧與評估，未提供明確的買入或賣出建議，僅作為投資人重新審視基本面的參考。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

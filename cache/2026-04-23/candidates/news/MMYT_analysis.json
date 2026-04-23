@@ -1,0 +1,57 @@
+{
+  "ticker": "MMYT",
+  "company": "MakeMyTrip Limited",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/MMYT.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司股價近期表現強勁且獲華爾街看好，但面臨短期市場回調壓力，同時市場正關注其印度業務潛在的上市計畫。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "MakeMyTrip (MMYT) Laps the Stock Market: Here's Why",
+      "publisher": "Zacks",
+      "date": "2026-04-16",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導指出 MMYT 近期股價表現優於大盤，反映出投資人對其業務成長動能的信心，選此篇作為代表是因為其涵蓋了近期股價強勢的驅動因素。"
+    },
+    {
+      "rank": 2,
+      "title": "Is It Worth Investing in MakeMyTrip (MMYT) Based on Wall Street's Bullish Views?",
+      "publisher": "Zacks",
+      "date": "2026-04-16",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "華爾街分析師對 MMYT 持續抱持正面看法，顯示機構投資人對其長期基本面與印度旅遊市場的成長潛力具備信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "MakeMyTrip (MMYT) Stock Sinks As Market Gains: What You Should Know",
+      "publisher": "Zacks",
+      "date": "2026-04-22",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管大盤上漲，MMYT 股價卻出現回調，顯示短期內可能存在獲利了結賣壓或技術性修正，影響程度較輕。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "MakeMyTrip Reportedly Weighs India Listing Via Depository Receipts",
+      "publisher": "Finnhub",
+      "date": "2026-04-20",
+      "impact": "medium",
+      "category": "公司策略",
+      "reason": "公司正在評估透過印度存託憑證 (IDR) 將印度業務上市的利弊，此舉雖具備長期資本運作意義，但目前僅處於評估階段，對股價影響尚不明確。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

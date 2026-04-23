@@ -1,0 +1,38 @@
+{
+  "ticker": "KSPI",
+  "company": "Joint Stock Company Kaspi.kz",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/KSPI.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 Tencent 投資加持與核心業務強勁成長，Kaspi.kz 展現出明確的上升動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Kaspi.Kz: Tencent Sees It, The Numbers Confirm It (Rating Upgrade) — Kaspi.kz (KSPI) gains momentum after Tencent stake; payments/marketplace growth strong and Turkey expansion looms.",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-22 09:07",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Tencent 的持股不僅提供戰略背書，更驗證了公司在支付與電商平台的成長潛力，加上市場對其擴張至土耳其的預期，推動了評級上調與股價動能。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Announcement of AGM Results — ALMATY, Kazakhstan , April 16, 2026 -- Joint Stock Company Kaspi.kz announces that the following resolutions were duly p",
+      "publisher": "Finnhub",
+      "date": "2026-04-16 07:02",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "此為年度股東大會 (AGM) 的常規決議公告，屬於公司治理的例行程序，未包含對股價有顯著影響的重大變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

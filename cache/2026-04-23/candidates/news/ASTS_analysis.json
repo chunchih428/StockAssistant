@@ -1,0 +1,66 @@
+{
+  "ticker": "ASTS",
+  "company": "AST SpaceMobile, Inc.",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/ASTS.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 4,
+    "bearish_count": 12,
+    "neutral_count": 4,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司經歷了 BlueBird 7 衛星發射失敗的短期利空衝擊，但隨後獲得 FCC 商業營運許可，市場情緒在技術挫折與監管利多之間拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "AST SpaceMobile Gains As FCC Approval Validates SpaceMobile Technology",
+      "publisher": "Benzinga",
+      "date": "2026-04-22",
+      "impact": "high",
+      "category": "監管批准",
+      "reason": "FCC 正式批准 ASTS 在低地球軌道部署與營運衛星星座，此舉為公司提供關鍵的商業營運合法性，驗證了其直接連接手機的衛星技術可行性。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "AST SpaceMobile shares are trading lower after the company said its BlueBird 7 satellite was placed into a lower-than-planned orbit",
+      "publisher": "Benzinga",
+      "date": "2026-04-20",
+      "impact": "high",
+      "category": "發射失敗",
+      "reason": "BlueBird 7 衛星因 Blue Origin 的 New Glenn 火箭發射異常導致軌道高度不足，需進行脫軌處理，直接影響公司衛星部署進度與資本支出效率。"
+    },
+    {
+      "rank": 2,
+      "title": "AST SpaceMobile loses $2B in market cap on setback",
+      "publisher": "TheStreet",
+      "date": "2026-04-21",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "衛星發射失敗導致市場信心受挫，單日市值蒸發 20 億美元，反映出投資人對公司執行風險與衛星發射可靠性的高度擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "AST SpaceMobile Got Delivered To The Wrong Address — AST SpaceMobile stock remains a \"Hold\" as it faces execution risk",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-21",
+      "impact": "medium",
+      "category": "分析師觀點",
+      "reason": "分析師指出發射失敗凸顯了公司在衛星部署上的執行風險，將評級維持在「持有」，警示投資人需關注後續衛星發射計畫的穩定性。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Stocks to Watch Recap: AST SpaceMobile, TopBuild, Marvell",
+      "publisher": "The Wall Street Journal",
+      "date": "2026-04-20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅作為財經媒體的每日觀察清單，未對公司基本面提供新的分析或評價，僅反映其為市場關注焦點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

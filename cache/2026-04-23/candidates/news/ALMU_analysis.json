@@ -1,0 +1,55 @@
+{
+  "ticker": "ALMU",
+  "company": "Aeluma, Inc.",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/ALMU.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 5,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "公司近期連續獲得 NASA 與美國政府的量子點雷射技術合約，顯著推動商業化進程並帶動股價大幅上漲。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Aeluma Receives NASA Award To Advance Integrated Quantum Dot Laser Platform For AI Data Communication And Sensing Applications",
+      "publisher": "Benzinga",
+      "date": "2026-04-21 07:22",
+      "impact": "high",
+      "category": "技術研發與合約",
+      "reason": "此新聞涵蓋了 NASA 獎項的最新進展，選為代表是因為其詳細說明了該技術在 AI 資料通訊與感測領域的應用潛力，具備高度商業價值。註：已合併 Finnhub 關於同一 NASA 合約的報導。"
+    },
+    {
+      "rank": 2,
+      "title": "Aeluma (ALMU) Is Up 49.8% After New US$4 Million Quantum Datacom Contracts Win – Has The Bull Case Changed?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-04-18 23:03",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "報導指出公司獲得 400 萬美元的量子數據通訊合約，直接導致股價單日飆升 49.8 %，顯示市場對其技術變現能力的強烈認可。"
+    },
+    {
+      "rank": 3,
+      "title": "Aeluma’s Market Is Laser-Focused on Fresh Highs—Here’s Why",
+      "publisher": "MarketBeat",
+      "date": "2026-04-20 16:50",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師指出市場情緒正處於高點，技術面與基本面利多共振，支撐股價持續挑戰新高。"
+    },
+    {
+      "rank": 4,
+      "title": "A Look At Aeluma (ALMU) Valuation After New US Government Quantum And Datacom Contracts",
+      "publisher": "Simply Wall St.",
+      "date": "2026-04-17 10:04",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "針對政府合約帶來的估值重塑進行分析，確認了合約對公司長期現金流與市場地位的正面影響。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

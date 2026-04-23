@@ -1,0 +1,65 @@
+{
+  "ticker": "RCI",
+  "company": "Rogers Communications Inc.",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/RCI.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 5,
+    "bearish_count": 0,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Rogers Communications 發布 2026 年第一季財報，營收與 EPS 雙雙優於市場預期，並展現成本控制與自由現金流增長的潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Rogers Communications Q1 Adj. EPS $0.74 Beats $0.69 Estimate, Sales $3.997B Beat $3.940B Estimate",
+      "publisher": "Benzinga",
+      "date": "2026-04-22 07:01",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第一季調整後 EPS 為 0.74 美元，優於市場預期的 0.69 美元；營收達 39.97 億美元，亦高於預期的 39.40 億美元，顯示核心業務表現強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "Rogers Communications Up in Pre-Market Trade as Q1 Adjusted Earnings and Revs Advance; Flags Lower Costs, But More Free Cash Flow This Year",
+      "publisher": "MT Newswires",
+      "date": "2026-04-22 11:40",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "除了財報優於預期外，公司管理層強調了成本削減措施以及對全年自由現金流增長的樂觀展望，這對投資人信心有顯著提振作用。"
+    },
+    {
+      "rank": 3,
+      "title": "Rogers Communications (RCI) Expands Satellite Roaming Coverage in the U.S.",
+      "publisher": "Insider Monkey",
+      "date": "2026-04-20 13:43",
+      "impact": "low",
+      "category": "市場擴張",
+      "reason": "公司擴大在美國的衛星漫遊覆蓋範圍，提升了服務品質與競爭力，有助於長期用戶留存與品牌價值提升。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Rogers Communications Inc. Q1 2026 Earnings Call Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-22 10:50",
+      "impact": "low",
+      "category": "法說會",
+      "reason": "此為財報電話會議逐字稿，提供詳細的財務數據與管理層評論，屬於資訊揭露性質，本身不構成新的利多或利空。"
+    },
+    {
+      "rank": 2,
+      "title": "Rogers Communications Inc. 2026 Q1 - Results - Earnings Call Presentation",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-22 08:30",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "公司發布的財報簡報資料，作為財報數據的視覺化補充，供投資人參考，屬於中性資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

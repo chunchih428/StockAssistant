@@ -1,0 +1,56 @@
+{
+  "ticker": "PNR",
+  "company": "Pentair plc",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/PNR.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 1,
+    "bearish_count": 3,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "儘管工業水資源回收市場長期成長前景看好，但短期內面臨分析師下調目標價與財報預期疲軟的壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "$67.2 Bn Industrial Water Reuse Systems Market - Global Forecast to 2036 Featuring Pentair",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 13:19",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "全球工業水資源回收市場預計將從 2026 年的 239 億美元成長至 2036 年的 672 億美元，Pentair 作為主要參與者，長期受益於水處理基礎設施的結構性需求成長。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "B of A Securities Maintains Underperform on Pentair, Lowers Price Target to $88",
+      "publisher": "Benzinga",
+      "date": "2026-04-20 07:30",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "美銀證券分析師 Andrew Obin 維持「劣於大盤」評級，並將目標價下調至 88 美元，反映出對公司短期營運表現的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Stifel and Citi Trim Pentair (PNR) Targets Ahead of Q1, See Limited Catalysts",
+      "publisher": "Insider Monkey",
+      "date": "2026-04-15 16:52",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Stifel 與 Citi 同步下調 Pentair 目標價，主要理由是認為該公司在第一季財報公布前缺乏顯著的股價催化劑，市場情緒轉趨保守。"
+    },
+    {
+      "rank": 3,
+      "title": "Pentair plc (PNR) Earnings Expected to Grow: Should You Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-04-21 14:00",
+      "impact": "low",
+      "category": "財報預測",
+      "reason": "分析指出 Pentair 目前缺乏財報超預期的關鍵要素，暗示短期內獲利表現可能難以給予市場驚喜，對股價形成壓制。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

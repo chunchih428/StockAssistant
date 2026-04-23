@@ -1,0 +1,111 @@
+{
+  "ticker": "RKLB",
+  "company": "Rocket Lab",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/RKLB.json",
+  "summary": {
+    "total_articles": 15,
+    "bullish_count": 11,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "強勁的訂單積壓與市場對太空產業的樂觀情緒，推動 Rocket Lab 股價持續上漲並獲得分析師調升目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Stifel Reiterates Buy on Rocket Lab, Raises Price Target to $105",
+      "publisher": "Benzinga",
+      "date": "2026-04-20",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Erik Rasmussen 將目標價從 90 美元調升至 105 美元，顯示市場對公司長期成長潛力的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Rocket Lab Stock Rides 'Launch Squeeze' Momentum As Backlog Hits $1.85 Billion",
+      "publisher": "Benzinga",
+      "date": "2026-04-22",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "高達 18.5 億美元的訂單積壓與發射產能緊縮，為公司帶來強大的定價權與營收成長動能。"
+    },
+    {
+      "rank": 3,
+      "title": "Roth Capital Maintains Buy on Rocket Lab, Raises Price Target to $100",
+      "publisher": "Benzinga",
+      "date": "2026-04-17",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師 Suji Desilva 調升目標價至 100 美元，進一步鞏固了市場對該股的買入共識。"
+    },
+    {
+      "rank": 4,
+      "title": "Jim Cramer Says “I’m Blessing Rocket Lab (RKLB) Because It’s Got a $1.85 Billion Backlog”",
+      "publisher": "Insider Monkey",
+      "date": "2026-04-19",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "知名財經評論員 Jim Cramer 的公開背書，顯著提升了散戶投資人對該公司的關注度與信心。"
+    },
+    {
+      "rank": 5,
+      "title": "Rocket Lab Enters Europe, Building A Full Defense Stack",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-16",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "透過收購 Mynaric 強化雷射通訊與垂直整合能力，成功拓展歐洲國防市場，提升長期競爭壁壘。"
+    },
+    {
+      "rank": 6,
+      "title": "Blue Origin Failure Highlights How Hard It Is to Get to Space—and the Value of Rocket Lab",
+      "publisher": "Barrons.com",
+      "date": "2026-04-21",
+      "impact": "low",
+      "category": "產業競爭",
+      "reason": "競爭對手 Blue Origin 的失敗凸顯了太空發射的技術門檻，間接凸顯了 Rocket Lab 穩定發射紀錄的價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Rocket Lab Corporation (RKLB) Suffers a Larger Drop Than the General Market: Key Insights",
+      "publisher": "Zacks",
+      "date": "2026-04-21",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管整體趨勢看漲，但該報導指出短期內股價波動大於大盤，提醒投資人注意獲利回吐的風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Rocket Lab Announces Date of First Quarter 2026 Financial Results",
+      "publisher": "Finnhub",
+      "date": "2026-04-16",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "僅為例行性的財報日期公告，市場正靜待 2026 年第一季財報數據以驗證營運績效。"
+    },
+    {
+      "rank": 2,
+      "title": "Rocket Lab : How Rocket Lab’s Solar Technology Helped Power NASA’s Artemis II Mission",
+      "publisher": "Finnhub",
+      "date": "2026-04-16",
+      "impact": "low",
+      "category": "產品應用",
+      "reason": "展示公司技術在 NASA 任務中的應用，屬於正面品牌形象宣傳，對股價短期影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "Dow Jones Futures: Nasdaq Snaps Win Streak On Rising U.S.-Iran Tensions; Nvidia, Rocket Lab, Tesla Key Movers",
+      "publisher": "Investor's Business Daily",
+      "date": "2026-04-21",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 Rocket Lab 列為市場波動個股，主要受地緣政治緊張影響，非公司基本面因素。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

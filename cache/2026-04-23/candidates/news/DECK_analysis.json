@@ -1,0 +1,48 @@
+{
+  "ticker": "DECK",
+  "company": "Deckers Outdoor Corporation",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/DECK.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "neutral",
+    "key_theme": "市場對 Deckers Outdoor 在近期股價上漲後的估值存疑，同時在零售服飾板塊中仍被視為具備穩定增長潛力的標的。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Buy 5 Retail Apparel and Shoe Stocks for a Stable Portfolio in 2026",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 11:49",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "DECK 被列入 2026 年具備穩定增長潛力的零售與鞋類股票名單，顯示市場對其品牌溢價能力與長期基本面持正面看法。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Here's Why Deckers (DECK) Fell More Than Broader Market",
+      "publisher": "Yahoo",
+      "date": "2026-04-20 21:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "DECK 當日股價下跌 1.28 %，表現弱於大盤，反映出短期獲利回吐壓力或市場交易情緒的波動。此處選用 Yahoo 版本作為代表，因其內容涵蓋了具體的股價變動數據。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Time To Revisit Deckers Outdoor (DECK) After Recent Share Price Gains?",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 12:04",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "文章針對近期股價上漲後的估值進行探討，並未給出明確買賣建議，僅提醒投資人需重新評估其是否被高估或市場存在盲點，屬於中性的觀望分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

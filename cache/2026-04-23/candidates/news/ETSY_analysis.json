@@ -1,0 +1,84 @@
+{
+  "ticker": "ETSY",
+  "company": "Etsy",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/ETSY.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 Etsy 即將公布的財報預期樂觀，且近期股價表現強勁，儘管分析師評級維持中性，但目標價已獲上調。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Instacart, Etsy, Match Group, and Expedia Shares Skyrocket, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-04-16",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Etsy 股價近期出現顯著上漲，反映出市場對其業務韌性與成長潛力的正面情緒，推動了股價的強勁動能。"
+    },
+    {
+      "rank": 2,
+      "title": "Etsy (ETSY) Reports Next Week: Wall Street Expects Earnings Growth",
+      "publisher": "Zacks",
+      "date": "2026-04-22",
+      "impact": "medium",
+      "category": "財報預期",
+      "reason": "華爾街分析師預期 Etsy 即將公布的財報將顯示獲利成長，這種預期心理為股價提供了支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "An Etsy-style retail chain abruptly closed all of its stores, leaving customers and vendors blindsided",
+      "publisher": "FastCompany",
+      "date": "2026-04-17",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "雖然該新聞報導的是競爭對手或類似模式的零售商倒閉，可能引發市場對電商零售環境的擔憂，但對 Etsy 本身業務直接影響有限。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Cantor Fitzgerald Maintains Neutral on Etsy, Raises Price Target to $59",
+      "publisher": "Benzinga",
+      "date": "2026-04-21",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Cantor Fitzgerald 分析師 Deepak Mathivanan 維持中性評級，但將目標價調升至 $59，顯示對公司估值持審慎樂觀態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Etsy (ETSY) Q2 2024 Earnings Call Transcript",
+      "publisher": "Motley Fool",
+      "date": "2026-04-22",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "財報電話會議記錄提供了公司營運細節，為投資人評估公司基本面提供資訊，屬於中性資訊揭露。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Etsy (ETSY) Outperforming Other Retail-Wholesale Stocks This Year?",
+      "publisher": "Zacks",
+      "date": "2026-04-17",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此為針對零售批發板塊的比較分析，旨在探討 Etsy 的相對表現，並未提供具體的買賣建議。"
+    },
+    {
+      "rank": 4,
+      "title": "Etsy : 2026 Proxy Statement",
+      "publisher": "Finnhub",
+      "date": "2026-04-17",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "關於年度股東大會的常規公告，屬於公司治理的例行程序，對股價無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
