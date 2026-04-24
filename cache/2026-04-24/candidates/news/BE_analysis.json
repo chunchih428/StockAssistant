@@ -1,0 +1,56 @@
+{
+  "ticker": "BE",
+  "company": "Bloom Energy Corporation",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/BE.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "受惠於 AI 資料中心電力需求激增，Bloom Energy 透過與 Oracle 的重大合約及政策支持，展現強勁的成長動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy: Oracle Reinforces AI Power Surge",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-16",
+      "impact": "high",
+      "category": "重大合約",
+      "reason": "公司與 Oracle 簽署擴大合約，提供高達 2.8 GW 的燃料電池系統，此為公司歷史上重大的營收成長催化劑，直接驗證了其在 AI 資料中心電力供應市場的領導地位。"
+    },
+    {
+      "rank": 2,
+      "title": "Bloom Energy Just Scored a Major Win With the Trump Admin. Is BE Stock a Buy?",
+      "publisher": "Barchart",
+      "date": "2026-04-22",
+      "impact": "medium",
+      "category": "政策支持",
+      "reason": "獲得川普政府的政策支持，顯示公司在能源轉型與基礎設施政策中具備戰略價值，有助於降低營運風險並提升市場信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Bloom Energy Corporation (BE): AI Power Holding Attracting Elite Investors",
+      "publisher": "Insider Monkey",
+      "date": "2026-04-20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "機構投資人與菁英投資者的持股增加，反映市場對其作為 AI 電力基礎設施供應商的長期價值認可，有助於支撐股價穩定性。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy (BE) Valuation In Focus After Powerful Share Price Momentum And Ongoing Losses",
+      "publisher": "Simply Wall St.",
+      "date": "2026-04-21",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "儘管股價動能強勁，但分析指出公司仍處於持續虧損狀態，提醒投資人需關注其估值與獲利能力之間的平衡，屬於中性偏審慎的財務觀點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,38 @@
+{
+  "ticker": "FTV",
+  "company": "Fortive Corporation",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/FTV.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對於 Fortive 的獲利成長動能與高估值溢價產生疑慮，正等待即將公布的 Q1 財報以驗證基本面表現。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Do Fortive’s (FTV) Aging Profit Engines Justify Its Premium Valuation And Capital Deployment Choices?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-04-14",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "該分析指出 Fortive 目前的估值溢價可能過高，且核心獲利引擎出現老化跡象，質疑公司資本配置策略的有效性，對股價評價構成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Earnings Preview: What to Expect From Fortive’s Report",
+      "publisher": "Yahoo",
+      "date": "2026-04-19",
+      "impact": "low",
+      "category": "財報預覽",
+      "reason": "市場正等待 Fortive 即將公布的 Q1 財報，分析師預測營收與獲利將呈現雙位數變動，目前處於觀望階段，未有明確方向性指引。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,102 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-04-24",
+  "source_file": "cache/2026-04-24/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 3,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "Broadcom 憑藉強勁的 AI 基礎設施需求、與 Meta 及 Google Cloud 的策略合作，以及分析師對其客製化晶片業務的高成長預期，持續推動股價創下歷史新高。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Mizuho Analysts Are Bullish on Custom Chips: Broadcom Could Have 87% Compound Annual Growth Rate Through 2028",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 18:47",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "Mizuho 分析師預測 Broadcom 在 AI 客製化晶片領域的年複合成長率高達 87%，顯示其核心業務具備極強的長期成長動能。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom (AVGO) and Meta Announce Multi-Year AI Infrastructure Partnership",
+      "publisher": "Yahoo",
+      "date": "2026-04-23 13:33",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "與 Meta 達成多年期 AI 基礎設施合作，鞏固了 Broadcom 在大型科技公司 AI 供應鏈中的關鍵地位。"
+    },
+    {
+      "rank": 3,
+      "title": "Broadcom Expands Collaboration with Google Cloud on Cloud Network Insights",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 13:00",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "擴大與 Google Cloud 的合作關係，進一步深化在雲端網路與 AI 基礎設施的技術整合。"
+    },
+    {
+      "rank": 4,
+      "title": "Broadcom Inc. (AVGO) Extends AI Reach with VMware Tanzu Platform for Enterprise AI",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 20:54",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "透過 VMware Tanzu 平台擴展企業級 AI 解決方案，顯示 Broadcom 成功將軟體業務與 AI 需求進行綜效整合。"
+    },
+    {
+      "rank": 5,
+      "title": "Only 2 Stocks Driving Explosive Earnings Growth in 2026 - NVDA & AVGO",
+      "publisher": "Yahoo",
+      "date": "2026-04-23 19:00",
+      "impact": "medium",
+      "category": "財報預測",
+      "reason": "被市場視為 2026 年推動獲利成長的兩大核心標的之一，獲利預估持續上調，增強投資人信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Broadcom Breakup: AVGO Stock Slumps as Google Considers Its Rival for a Deal",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 14:00",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "市場擔憂 Google 可能在部分業務轉向競爭對手，導致短期股價波動，但分析認為其整體獲利能力依然強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "Marvell pops on report it will help Google with custom AI chips. Broadcom shares sink",
+      "publisher": "CNBC",
+      "date": "2026-04-20 16:43",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "報導指出 Marvell 獲得 Google 客製化晶片訂單，對 Broadcom 形成競爭壓力，造成股價短期回調。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Final Trades: Capital One, Broadcom, Alibaba and Valero Energy",
+      "publisher": "CNBC",
+      "date": "2026-04-20 13:29",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為投資委員會提及的觀察名單，未提供具體買賣建議或重大基本面變動。"
+    },
+    {
+      "rank": 2,
+      "title": "Lawmakers Bet Big on These 3 Stocks—Should You?",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 17:35",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導國會議員的持股動向，雖顯示內部人信心，但對股價基本面影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

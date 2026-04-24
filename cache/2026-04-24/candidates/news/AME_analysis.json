@@ -1,0 +1,74 @@
+{
+  "ticker": "AME",
+  "company": "AMETEK",
+  "analysis_date": "2026-04-24",
+  "source_file": "cache/2026-04-24/candidates/news/AME.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 5,
+    "bearish_count": 0,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 Ametek 即將公布的財報持樂觀態度，並肯定其透過併購與有機成長帶來的穩定獲利表現。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ametek (AME) Reports Next Week: Wall Street Expects Earnings Growth",
+      "publisher": "Yahoo",
+      "date": "2026-04-23 14:00",
+      "impact": "high",
+      "category": "財報預期",
+      "reason": "華爾街分析師預期 Ametek 具備獲利超預期的關鍵條件，市場情緒正面，預期將推動股價上漲。"
+    },
+    {
+      "rank": 2,
+      "title": "AMETEK (AME) Is Up 7.6% After Record Backlog And New M&A Push",
+      "publisher": "Simply Wall St.",
+      "date": "2026-04-15 06:03",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "公司創下歷史新高的訂單積壓量 (Backlog) 以及積極的併購策略，顯示強勁的營運成長動能，股價已反映此利多。"
+    },
+    {
+      "rank": 3,
+      "title": "Ametek: A Very Well-Run Business Is Valued Accordingly",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-20 06:38",
+      "impact": "medium",
+      "category": "公司治理",
+      "reason": "分析指出 Ametek 透過嚴謹的併購與穩健的有機成長，展現出極佳的經營效率，長期投資價值獲得市場認可。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ametek (AME) Q4 2024 Earnings Transcript",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 21:33",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "此為財報會議紀錄，屬於已公開資訊的彙整，對股價短期波動影響有限，故歸類為中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Does Rockwell Automation’s (ROK) New Board Voice and Steady Dividend Reveal Its Capital Priorities?",
+      "publisher": "Yahoo",
+      "date": "2026-04-20 03:08",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "Ametek 執行長 David A. Zapico 加入 Rockwell Automation 董事會，顯示其個人專業受肯定，但對 Ametek 本身營運無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Here's What to Expect From AMETEK's Next Earnings Report",
+      "publisher": "Yahoo",
+      "date": "2026-04-21 17:12",
+      "impact": "low",
+      "category": "財報預期",
+      "reason": "此報導重複了市場對第一季財報的預期，未提供新資訊，僅作為市場情緒的觀察參考。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,38 @@
+{
+  "ticker": "CODI",
+  "company": "Compass Diversified",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/CODI.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司透過出售非核心資產 Sterno 優化資產負債表，並即將公布 2026 年第一季財報，市場關注其資本配置效率。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Compass Diversified (CODI) Sells Sterno to Clean Up Its Balance Sheet",
+      "publisher": "Insider Monkey",
+      "date": "2026-04-20",
+      "impact": "medium",
+      "category": "資產處分",
+      "reason": "透過出售 Sterno 業務，Compass Diversified 成功優化資產負債表，降低槓桿風險，有助於提升公司整體的財務靈活性與資本配置效率。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Compass Diversified Announces First Quarter 2026 Earnings and Conference Call Information",
+      "publisher": "Finnhub",
+      "date": "2026-04-21",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "此為例行性的財報發布預告，尚未揭露具體財務數據，市場目前處於觀望狀態，等待後續電話會議中關於各子公司營運表現的細節說明。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

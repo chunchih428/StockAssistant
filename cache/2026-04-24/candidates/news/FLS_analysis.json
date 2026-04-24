@@ -1,0 +1,57 @@
+{
+  "ticker": "FLS",
+  "company": "Flowserve Corporation",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/FLS.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "Flowserve 近期股價強勁上漲，市場對其財報表現持審慎樂觀態度，但估值過高風險與獲利預期不確定性仍存。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Flowserve (FLS) Moves 7.7% Higher: Will This Strength Last?",
+      "publisher": "Yahoo",
+      "date": "2026-04-20 12:32",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價單日大漲 7.7% 且伴隨高於平均的成交量，顯示市場買盤強勁，短期動能顯著。"
+    },
+    {
+      "rank": 2,
+      "title": "2 Reasons to Watch FLS and 1 to Stay Cautious",
+      "publisher": "Yahoo",
+      "date": "2026-04-21 18:37",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "過去六個月股價飆升 60%，反映出市場對其業務表現的高度認可，選此篇作為代表是因為其綜合了成長動能與風險提示。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Flowserve (FLS) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 14:00",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "分析指出 Flowserve 目前缺乏財報超預期的關鍵要素組合，暗示即將公布的財報可能面臨市場預期落空的風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "A Look At Flowserve (FLS) Valuation After Strong 1 Year Shareholder Returns",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 02:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章主要回顧過去一年的強勁表現並探討估值，未提供明確的買賣方向，屬於中性的市場觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

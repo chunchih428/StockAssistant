@@ -1,0 +1,66 @@
+{
+  "ticker": "MDB",
+  "company": "MongoDB",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/MDB.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 MongoDB 的長期成長潛力持樂觀態度，儘管面臨來自 Amazon DocumentDB 的競爭壓力與短期財測挑戰。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "MongoDB’s (MDB) Long-Term Growth Trajectory Overshadows Guidance Shortfall",
+      "publisher": "Insider Monkey",
+      "date": "2026-04-20",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "分析師指出 MongoDB 的長期成長路徑依然穩健，足以抵銷短期財測不如預期的負面影響，顯示市場對其核心業務競爭力仍具信心。"
+    },
+    {
+      "rank": 2,
+      "title": "MongoDB (MDB) Surpasses Market Returns: Some Facts Worth Knowing",
+      "publisher": "Zacks",
+      "date": "2026-04-16",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該股近期表現優於大盤，反映出投資人對其市場地位與過去績效的認可，為股價提供支撐力道。"
+    },
+    {
+      "rank": 3,
+      "title": "Rapid7, Upland Software, DocuSign, MongoDB, and Unity Stocks Trade Up, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-04-16",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "MongoDB 隨同軟體板塊一同上漲，顯示市場情緒回暖對該股產生正面外溢效應。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Amazon DocumentDB (with MongoDB compatibility) now supports in-place upgrade from version 5.0 to 8.0",
+      "publisher": "Finnhub",
+      "date": "2026-04-21",
+      "impact": "medium",
+      "category": "競爭分析",
+      "reason": "Amazon 持續優化 DocumentDB 的相容性與升級功能，直接對 MongoDB 的市佔率構成競爭壓力，可能影響其客戶留存率。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "MongoDB Expands Product Leadership to Accelerate Growth and Innovation",
+      "publisher": "Finnhub",
+      "date": "2026-04-22",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "公司擴大產品領導團隊旨在加速創新，雖屬正面營運調整，但短期內對股價影響有限，需觀察後續產品執行力。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
