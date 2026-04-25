@@ -1,0 +1,84 @@
+{
+  "ticker": "PLTR",
+  "company": "Palantir Technologies Inc.",
+  "analysis_date": "2026-04-24",
+  "source_file": "cache/2026-04-24/holdings/news/PLTR.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 5,
+    "neutral_count": 3,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管獲得 3 億美元的 USDA 重大合約並展現強勁的 AI 成長動能，但受整體市場風險偏好下降與估值修正壓力影響，股價出現顯著回調。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "USDA And Palantir Technologies Sign $300M Blanket Purchase Agreement",
+      "publisher": "Benzinga",
+      "date": "2026-04-22 07:00",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "Palantir 獲得美國農業部 (USDA) 價值 3 億美元的軟體採購合約，顯示其在政府部門的數位轉型與 IT 現代化領域持續擴大影響力。"
+    },
+    {
+      "rank": 2,
+      "title": "PLTR vs. SOFI: Which High-Growth Tech Stock is the Better Buy Now?",
+      "publisher": "Yahoo",
+      "date": "2026-04-23 18:19",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 Palantir 憑藉 AI 驅動的強勁成長與穩健財務表現，在成長型科技股中具備較高的投資吸引力。"
+    },
+    {
+      "rank": 3,
+      "title": "Palantir Rallies 4% as 70% Revenue Surge Overshadows Mizuho Price Target Cut",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 15:07",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "公司營收實現 70% 的驚人成長，顯示其核心業務擴張速度遠超市場預期，有效抵銷了部分分析師下調目標價的負面影響。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Palantir Drops 7% Despite $300M USDA Win: Is the Dip a Buying Opportunity?",
+      "publisher": "Yahoo",
+      "date": "2026-04-23 19:10",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "儘管有合約利多，但受整體市場風險趨避情緒影響，軟體類股普遍遭到拋售，導致股價單日下跌超過 7%。"
+    },
+    {
+      "rank": 2,
+      "title": "Here’s Why Mizuho Lowered Price Target on Palantir Technologies (PLTR)",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 11:36",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Mizuho 下調目標價反映了市場對其高估值的擔憂，儘管公司成長強勁，但估值修正壓力仍是股價上行的阻力。"
+    },
+    {
+      "rank": 3,
+      "title": "Palantir Stock Pops on USDA Deal. Should You Buy PLTR Stock Here?",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 19:03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導提及儘管合約利多，但內部人士拋售股票的行為引發投資人對股價短期過熱的疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Palantir Technologies Inc. (PLTR) One of the Top Software Stocks?",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 21:55",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討 Palantir 在 S&P 500 指數中的權重與地位，屬於中性的市場觀察分析，未對股價產生直接驅動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

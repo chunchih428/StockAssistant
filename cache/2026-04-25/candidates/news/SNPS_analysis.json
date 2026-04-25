@@ -1,0 +1,65 @@
+{
+  "ticker": "SNPS",
+  "company": "Synopsys, Inc.",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/SNPS.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Synopsys 透過與 TSMC 的 AI 晶片技術合作及獲得 NASA 航太模擬合約，成功擴展其 EDA 軟體在 AI 與航太領域的應用版圖。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Synopsys Partners with TSMC to Power Next-Generation AI Systems with Silicon Proven IP and Certified EDA Flows",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 19:00",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "選擇此篇作為代表，因其詳細說明了與 TSMC 在 AI 晶片 IP 與 EDA 流程上的深度整合，這直接強化了 Synopsys 在 AI 硬體供應鏈中的核心地位。Benzinga 的報導內容相同，故合併處理。"
+    },
+    {
+      "rank": 2,
+      "title": "A Look At Synopsys (SNPS) Valuation As NASA Spacesuit Deal Highlights Expanding Aerospace And AI Reach",
+      "publisher": "Yahoo",
+      "date": "2026-04-19 22:05",
+      "impact": "medium",
+      "category": "業務拓展",
+      "reason": "Synopsys 獲選協助 NASA 驗證 Artemis 太空衣的月球環境適應性，顯示其模擬工具已從半導體跨足至高階航太領域，具備顯著的技術護城河擴張效應。其餘兩篇關於 NASA 的報導內容重複，故以此篇作為代表。"
+    },
+    {
+      "rank": 3,
+      "title": "Here’s Why Synopsys Inc’s (SNPS) Partnership With Nvidia Is Important",
+      "publisher": "Insider Monkey",
+      "date": "2026-04-14 15:56",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 Nvidia 的合作是推動其 AI 軟體平台成長的關鍵驅動力，市場持續關注此合作對其長期營收的加乘效果。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Synopsys, Inc. (SNPS) Is a Trending Stock: Facts to Know Before Betting on It",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場熱度分析與基本面回顧，未提供新的實質利多或利空資訊。"
+    },
+    {
+      "rank": 2,
+      "title": "Synopsys (SNPS) Beats Stock Market Upswing: What Investors Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "單純的股價漲跌幅回顧，屬於技術性市場表現紀錄，對公司基本面影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,84 @@
+{
+  "ticker": "NET",
+  "company": "Cloudflare",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/holdings/news/NET.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 6,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "Cloudflare 受益於 AI 基礎設施需求增長與市場風險偏好回升，儘管面臨內部人士拋售壓力，但整體技術領先地位與合作夥伴擴張仍獲市場看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Piper Sandler Upgrades Cloudflare ( NET )",
+      "publisher": "Fintel",
+      "date": "2026-04-16 00:04",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Piper Sandler 的評級上調通常會帶動機構投資人關注，顯示市場對 Cloudflare 在雲端安全與基礎設施領域的長期成長潛力具備信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Cloudflare and GoDaddy Partner to Help Enable an Open Agentic Web",
+      "publisher": "Finnhub",
+      "date": "2026-04-20 10:21",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 GoDaddy 的合作有助於擴大 Cloudflare 在代理式 Web ( Agentic Web ) 市場的滲透率，強化其作為連接性雲端平台的市場地位。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Is Cloudflare ( NET ) Stock Soaring Today",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 02:42",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日上漲 6.9 % 反映了市場對其在 AI 時代作為關鍵基礎設施提供者的認可，並受惠於整體科技股的強勁表現。"
+    },
+    {
+      "rank": 4,
+      "title": "Forget The Chips? Cloud Stocks Are The New Hardware",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 13:35",
+      "impact": "low",
+      "category": "產業趨勢",
+      "reason": "分析指出雲端軟體與基礎設施公司正成為 AI 投資的新焦點，Cloudflare 被視為繼晶片製造商之後的關鍵受益者。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare Insiders Sell US$ 29m Of Stock, Possibly Signalling Caution",
+      "publisher": "Simply Wall St.",
+      "date": "2026-04-22 13:00",
+      "impact": "medium",
+      "category": "內部交易",
+      "reason": "內部人士拋售價值 2,900 萬美元的股票可能引發市場對公司短期估值過高或管理層對未來成長信心減弱的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Cloudflare ( NET ) Laps the Stock Market: Here's Why",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 21:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此類報導主要總結近期股價波動與市場表現，屬於回顧性分析，對未來股價走勢無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Market Sentiment Around Loss-Making Cloudflare, Inc. ( NYSE:NET )",
+      "publisher": "Yahoo",
+      "date": "2026-04-18 11:00",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "文章探討了公司仍處於虧損狀態的現狀，雖然提醒了財務風險，但同時也提及了業務上的重大成就，觀點較為平衡。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

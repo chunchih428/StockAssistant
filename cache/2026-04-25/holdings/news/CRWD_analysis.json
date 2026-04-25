@@ -1,0 +1,111 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "分析師上調評級與目標價，配合公司在雲端安全領域的技術擴張及亞太市場的通路策略，帶動市場正面情緒。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "KeyBanc Upgrades CrowdStrike to Overweight With a $525 Target",
+      "publisher": "Yahoo",
+      "date": "2026-04-21 14:37",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "KeyBanc 分析師 Eric Heath 將評級從 Sector Weight 上調至 Overweight，並給出 525 美元的目標價，認為 AI 網路安全領域存在重大成長契機，此舉直接推動股價上漲。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike Named Google Cloud Security Partner of the Year for the Second Consecutive Year",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 12:08",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "連續兩年獲選為 Google Cloud 年度安全合作夥伴，驗證了 CrowdStrike 在雲端安全市場的領先地位與技術整合能力。"
+    },
+    {
+      "rank": 3,
+      "title": "CrowdStrike Falcon Cloud Security Delivered a 264% Return on Investment Over Three Years",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 12:13",
+      "impact": "medium",
+      "category": "產品績效",
+      "reason": "發布委託研究報告顯示其 Falcon 雲端安全產品具備極高的投資回報率（264%）與短期的回收期，有利於銷售團隊爭取更多企業客戶。"
+    },
+    {
+      "rank": 4,
+      "title": "CrowdStrike Expands JAPAC MSSP Partnerships To Broaden Falcon SMB Reach",
+      "publisher": "Yahoo",
+      "date": "2026-04-21 22:06",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "透過擴大亞太地區的託管安全服務供應商（MSSP）合作夥伴計畫，有效強化了公司在中小企業（SMB）市場的滲透率與營收成長潛力。"
+    },
+    {
+      "rank": 5,
+      "title": "CrowdStrike Extends Its Real-Time Cloud Detection and Response to Google Cloud",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 12:04",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "進一步擴展即時雲端偵測與回應功能至 Google Cloud，強化了產品生態系的完整性。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Crowdstrike CEO George Kurtz 2025 total compensation $247.6 million",
+      "publisher": "Finnhub",
+      "date": "2026-04-21 17:49",
+      "impact": "low",
+      "category": "高層薪酬",
+      "reason": "執行長高達 2.476 億美元的薪酬可能引發部分投資人對於公司治理與薪酬合理性的質疑，屬於負面輿論風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Palantir vs. CrowdStrike: One of These AI Stocks Could Wreck Your Portfolio",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 12:11",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "媒體文章將其與 Palantir 進行比較，並警告 AI 股票的高估值風險，可能導致部分保守型投資人獲利了結。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "These Stocks Are Today’s Movers: Apple, Avis, Eli Lilly, GE Aerospace, UnitedHealth, CrowdStrike, Amazon, and More",
+      "publisher": "Barrons.com",
+      "date": "2026-04-21 20:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場盤點類新聞，提及 CrowdStrike 為當日波動個股，未提供新的基本面資訊。"
+    },
+    {
+      "rank": 2,
+      "title": "Crowdstrike approves performance-based equity award to president Michael Sentonas",
+      "publisher": "Finnhub",
+      "date": "2026-04-21 06:30",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "針對總裁 Michael Sentonas 的績效股權獎勵屬於常規公司治理範疇，對股價影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "CrowdStrike Recognizes 2026 JAPAC Partner Award Winners",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 01:04",
+      "impact": "low",
+      "category": "企業活動",
+      "reason": "屬於例行性的合作夥伴頒獎活動，對公司財務面無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,56 @@
+{
+  "ticker": "CARR",
+  "company": "Carrier Global Corporation",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/CARR.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司發布 2024 年第四季財報，展現強勁的有機成長與獲利轉換能力，同時在 ESG 領域持續取得里程碑。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Carrier (CARR) Q4 2024 Earnings Call Transcript — For overall Carrier, organic growth and strong productivity contributed to close to 100% core earnings conversion",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 19:34",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "財報顯示公司核心獲利轉換率接近 100 %，且有機成長與生產力表現優異，顯示營運效率極高，為股價提供強勁支撐。選用 Yahoo 版本作為代表，因其摘要明確點出核心財務指標。"
+    },
+    {
+      "rank": 2,
+      "title": "Carrier Named One of America's Climate Leaders for Third Consecutive Year",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 18:00",
+      "impact": "low",
+      "category": "企業形象",
+      "reason": "連續三年獲選為美國氣候領袖，強化了公司在智慧氣候解決方案領域的市場領導地位，有助於提升長期品牌價值與 ESG 評級。"
+    },
+    {
+      "rank": 3,
+      "title": "Carrier Celebrates Earth Day with Major Milestone: 1 Million Trees Planted Toward Goal of 5 Million by 2030",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 12:35",
+      "impact": "low",
+      "category": "企業形象",
+      "reason": "達成植樹 100 萬棵的里程碑，展現公司對 2030 年永續目標的執行力，雖對短期股價影響有限，但有助於吸引重視永續發展的機構投資人。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Evaluating Carrier Global (CARR) After Recent Share Price Move And Mixed Signals On Valuation",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 05:03",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師針對近期股價波動與估值訊號進行評估，指出市場對其估值存在分歧，屬於中性的市場觀察報告，提醒投資人注意股價修正風險。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "META",
+  "company": "Meta",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/holdings/news/META.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 4,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "Meta 積極擴張 AI 基礎設施與數據中心投資，市場對其即將公布的財報表現持樂觀態度，儘管面臨詐騙廣告訴訟與員工監控爭議。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Meta breaks ground on 28th US data center",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 17:01",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "Meta 在奧克拉荷馬州 Tulsa 啟動 10 億美元的 AI 數據中心項目，顯示公司在 AI 基礎設施上的資本支出力度強勁，有利於長期競爭力。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom agrees to support development of Meta’s next-generation AI chips",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 11:02",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "與 Broadcom 達成多年期 AI 晶片開發合作，強化了 Meta 在 AI 訓練與推理領域的硬體自主能力。"
+    },
+    {
+      "rank": 3,
+      "title": "Meta Platforms (META) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 14:00",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "市場預期 Meta 在即將到來的財報中表現強勁，具備獲利超預期的潛力，支撐股價動能。"
+    },
+    {
+      "rank": 4,
+      "title": "Meta, Noon Energy partner on 100GWh energy storage deal",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 08:42",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "透過與 Noon Energy 合作 100GWh 儲能協議，確保 AI 數據中心運作的能源穩定性，符合 ESG 發展目標。"
+    },
+    {
+      "rank": 5,
+      "title": "UPDATE: Meta Introduces Live Chats on Threads",
+      "publisher": "Benzinga",
+      "date": "2026-04-22 13:05",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "Threads 推出即時聊天功能，有助於提升用戶黏著度與平台互動性。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Meta made billions from scam Facebook and Instagram ads: lawsuit",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 12:37",
+      "impact": "medium",
+      "category": "法規與訴訟",
+      "reason": "消費者保護組織指控 Meta 從詐騙廣告中獲利，可能面臨監管壓力與法律賠償風險，影響品牌聲譽。"
+    },
+    {
+      "rank": 2,
+      "title": "'Meta To Install Tracking Software On U.S. Employee Computers To Capture Workflow Data For AI Training",
+      "publisher": "Benzinga",
+      "date": "2026-04-21 12:27",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "Meta 監控員工電腦行為以訓練 AI，引發隱私與企業文化爭議，可能影響員工士氣。"
+    },
+    {
+      "rank": 3,
+      "title": "Meta Faces New ESG Pressures As Board Shifts And Shares Screen Undervalued",
+      "publisher": "Yahoo",
+      "date": "2026-04-23 03:08",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "股東團體要求 Meta 針對人權盡職調查與線上安全發布報告，增加公司治理成本與外部壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Too Late To Consider Meta Platforms (META) After Its Strong Multi Year Run?",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 08:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析師探討股價漲幅過大後的估值合理性，屬於市場觀點分歧，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Trump recounts Tim Cook call to 'kiss my ass,' in stark look at White House dealmaking",
+      "publisher": "CNBC",
+      "date": "2026-04-21 17:04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導提及科技巨頭與川普的互動，雖涉及 Meta，但主要為政治花絮，對公司基本面影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

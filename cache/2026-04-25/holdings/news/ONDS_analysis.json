@@ -1,0 +1,93 @@
+{
+  "ticker": "ONDS",
+  "company": "Ondas",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/holdings/news/ONDS.json",
+  "summary": {
+    "total_articles": 13,
+    "bullish_count": 10,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "公司旗下子公司 4M Defense 獲得以色列國防部重大除雷合約，強勁的訂單動能顯著提升市場對其長期獲利能力的預期。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ondas' Subsidiary 4M Defense Bags $10M Order As Part Of $50M Demining Program Related To $1.7B Eastern Border Security Barrier Initiative",
+      "publisher": "Benzinga",
+      "date": "2026-04-20 08:35",
+      "impact": "high",
+      "category": "業務拓展",
+      "reason": "此為該公司近期最重大的利多消息，子公司 4M Defense 獲得 1,000 萬美元初始訂單，且為總額 5,000 萬美元計畫的一部分，該計畫隸屬於以色列國防部 17 億美元的邊境安全倡議，顯示公司技術已獲國家級國防單位認可。"
+    },
+    {
+      "rank": 2,
+      "title": "Ondas Expects Strong Order Flow, Reflecting Upside to H2 and Longer-Term Estimates, Oppenheimer Says",
+      "publisher": "MT Newswires",
+      "date": "2026-04-20 15:04",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "券商 Oppenheimer 指出公司訂單流強勁，將對下半年及長期財務預測產生正面貢獻，強化了市場對其成長軌跡的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Ondas Expands Defense Role With $68M Initial Order",
+      "publisher": "Benzinga",
+      "date": "2026-04-16 09:46",
+      "impact": "medium",
+      "category": "業務拓展",
+      "reason": "公司在國防領域的擴張取得實質進展，獲得 6,800 萬美元的初始訂單，進一步驗證了其在無人機與防禦系統市場的競爭力。"
+    },
+    {
+      "rank": 4,
+      "title": "Ondas Inc. (ONDS) Subsidiary Sentrycs Wins Multi-Million Contracts for 2026 World Cup Security",
+      "publisher": "Insider Monkey",
+      "date": "2026-04-13 09:16",
+      "impact": "medium",
+      "category": "業務拓展",
+      "reason": "子公司 Sentrycs 贏得 2026 年世界盃安全防護合約，顯示公司產品在大型國際活動安防市場的應用潛力。"
+    },
+    {
+      "rank": 5,
+      "title": "Ondas: Paradigm Shift In Warfare",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-16 09:06",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出全球軍事無人機需求上升，Ondas 的 Iron Drone Raider 系統正處於產業典範轉移的有利位置，具備長期成長潛力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ondas Expects Positive EBITDA by 2028: Timeline Too Stretched?",
+      "publisher": "Zacks",
+      "date": "2026-04-17 13:19",
+      "impact": "low",
+      "category": "財報預測",
+      "reason": "市場對於公司預計至 2028 年才能實現 EBITDA 轉正的時程表示擔憂，認為獲利實現的時間點過於遙遠，可能增加投資人的等待成本。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ondas vs. Kratos: Which Drone Stock Is the Better Pick for Now?",
+      "publisher": "Zacks",
+      "date": "2026-04-22 14:35",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此類文章為產業內同業比較，旨在協助投資人進行資產配置選擇，並未對 Ondas 本身釋出新的利多或利空消息。"
+    },
+    {
+      "rank": 2,
+      "title": "Is It Too Late To Reassess Ondas (ONDS) After Its 10x One Year Share Price Surge",
+      "publisher": "Simply Wall St.",
+      "date": "2026-04-18 00:16",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章探討股價在一年內飆升 10 倍後的估值合理性，屬於中性的投資風險提示，提醒投資人注意漲多後的波動風險。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

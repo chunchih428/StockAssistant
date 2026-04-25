@@ -1,0 +1,102 @@
+{
+  "ticker": "ASML",
+  "company": "ASML Holding N.V.",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/ASML.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 6,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "ASML 憑藉強勁的 AI 晶片需求與優異的財報表現獲得市場看好，但近期面臨台積電延遲採用高階 EUV 設備的利空，以及美國 MATCH 法案對中國出口限制的潛在風險，導致股價出現波動。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "ASML Rockets 38% With Rising Profit Views; Nears Buy Point",
+      "publisher": "Yahoo",
+      "date": "2026-04-21 18:06",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "第一季財報優於華爾街預期，且公司上調 2026 年獲利展望，顯示 AI 晶片需求帶動的超級週期持續強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "ASML's Earnings Prove the Artificial Intelligence (AI) Supercycle Isn't Slowing Down",
+      "publisher": "Yahoo",
+      "date": "2026-04-21 14:35",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "強調 AI 硬體投資需求穩健，支撐 ASML 作為半導體設備龍頭的長期成長邏輯。"
+    },
+    {
+      "rank": 3,
+      "title": "ASML Holding (ASML): Among the Best European Stocks to Buy According to Analysts",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 22:10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "被分析師列入歐洲十大最佳買入股票名單，反映市場對其競爭優勢的長期信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Are ASML capacity fears overdone? UBS weighs in",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 14:01",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "瑞銀分析師在與 ASML 高層交流後，對公司產能與未來展望表達信心，緩解市場對產能瓶頸的擔憂。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "ASML shares slide 3% as TSMC delay deals blow to high-NA EUV rollout",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 19:42",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "台積電延遲採用高階 EUV 設備，直接衝擊市場對 ASML 高階產品出貨速度的預期，導致股價下跌。"
+    },
+    {
+      "rank": 2,
+      "title": "MATCH Act Puts ASML China Revenue And Growth Story Under Scrutiny",
+      "publisher": "Yahoo",
+      "date": "2026-04-21 11:08",
+      "impact": "medium",
+      "category": "法規",
+      "reason": "美國 MATCH 法案擬限制 ASML 對中國出口與維修服務，增加了公司營收結構的政治風險與不確定性。"
+    },
+    {
+      "rank": 3,
+      "title": "TSMC shows smaller, faster chips without a pricey new tool from ASML",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 19:01",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "台積電展示不依賴 ASML 高價設備的新製程技術，引發市場對 ASML 設備必要性的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "ASML discloses 2026 AGM results",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 11:30",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "年度股東大會結果公布，屬於例行性公司治理公告，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "ASML reports transactions under its current share buyback program",
+      "publisher": "Yahoo",
+      "date": "2026-04-20 12:00",
+      "impact": "low",
+      "category": "財務操作",
+      "reason": "例行性的庫藏股執行進度揭露，對股價無直接顯著影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
