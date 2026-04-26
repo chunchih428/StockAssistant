@@ -1,0 +1,93 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 13,
+    "bearish_count": 2,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 Amazon 在 AI 、雲端運算與廣告業務的強勁成長預期，以及其在醫療與物流領域的持續擴張，蓋過了加州反壟斷訴訟的負面影響。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Barclays is Still Betting Big on Amazon Stock: AMZN Will 'Continue to Outperform'",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 18:03",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Barclays 看好 Amazon 在 AWS AI 成長與 200 億美元晶片業務的推動下，將持續超越競爭對手，展現強勁的長期獲利潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon Q1 Earnings Preview: Can AI, AWS and Ads Power AMZN Stock Higher?",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 19:14",
+      "impact": "high",
+      "category": "財報預測",
+      "reason": "市場普遍預期 Amazon 第一季財報將受惠於 AI 、雲端運算與廣告業務的動能，具備超越市場預期的潛力。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon offering GLP-1 access in new personalized care program",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 19:54",
+      "impact": "medium",
+      "category": "業務擴張",
+      "reason": "透過 One Medical 提供 GLP-1 減肥藥物存取權，顯示 Amazon 積極拓展醫療保健市場，增加用戶黏著度。"
+    },
+    {
+      "rank": 4,
+      "title": "Amazon Expands Rufus AI As 300 Million Users Show 60% Higher Purchase Rates",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 17:07",
+      "impact": "medium",
+      "category": "產品創新",
+      "reason": "AI 購物助手 Rufus 展現出顯著的轉換率提升，證明 Amazon 在電商領域整合 AI 技術的商業價值。"
+    },
+    {
+      "rank": 5,
+      "title": "Amazon adding heavy-duty EV trucks from Einride as it spreads bets on freight decarbonization",
+      "publisher": "CNBC",
+      "date": "2026-04-21 08:00",
+      "impact": "low",
+      "category": "物流優化",
+      "reason": "Amazon 持續擴大電動卡車車隊，有助於長期降低物流成本並達成減碳目標，提升營運效率。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "California Says Amazon Engaged In Illegal Price-Fixing Scheme",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 21:31",
+      "impact": "medium",
+      "category": "法規訴訟",
+      "reason": "加州檢察長指控 Amazon 透過威脅手段迫使競爭對手進行價格操縱，面臨潛在的法律風險與監管壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Final Trades: eBay, ServiceNow, Amazon and Zoom Communications",
+      "publisher": "CNBC",
+      "date": "2026-04-21 13:02",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為投資委員會對下半年觀察名單的提及，未提供具體的財務分析或市場催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Stocks making the biggest moves midday: UnitedHealth, Pitney Bowes, Apple, Amazon & more",
+      "publisher": "CNBC",
+      "date": "2026-04-21 12:32",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為盤中股價波動的例行性報導，未涉及公司基本面變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "ROL",
+  "company": "Rollins, Inc.",
+  "analysis_date": "2026-04-23",
+  "source_file": "cache/2026-04-23/candidates/news/ROL.json",
+  "summary": {
+    "total_articles": 14,
+    "bullish_count": 8,
+    "bearish_count": 1,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司發布 2026 年第一季財報，營收與獲利均優於華爾街預期，展現強勁的市場需求與營運韌性。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Rollins, Inc. Reports First Quarter 2026 Financial Results",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 20:05",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司正式公布 2026 年第一季財報，營收與獲利表現均超出市場預期，顯示其在害蟲防治服務領域的強勁競爭力。"
+    },
+    {
+      "rank": 2,
+      "title": "Rollins (NYSE:ROL) Posts Better-Than-Expected Sales In Q1 CY2026",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 20:50",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "確認第一季銷售額優於華爾街預期，反映出公司定價策略與數位工具應用成功帶動營收成長。"
+    },
+    {
+      "rank": 3,
+      "title": "Rollins beats first-quarter estimates on demand for pest control services",
+      "publisher": "Finnhub",
+      "date": "2026-04-22 17:44",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出公司受惠於市場對害蟲防治服務的強勁需求，成功擊敗分析師對第一季的營收與獲利預估。"
+    },
+    {
+      "rank": 4,
+      "title": "Rollins: Q1 Earnings Snapshot",
+      "publisher": "Finnhub",
+      "date": "2026-04-22 16:15",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "提供第一季獲利 1.078 億美元的具體數據，確認公司財務表現穩健。"
+    },
+    {
+      "rank": 5,
+      "title": "ROLLINS, INC. ANNOUNCES REGULAR QUARTERLY CASH DIVIDEND",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 12:30",
+      "impact": "low",
+      "category": "股利政策",
+      "reason": "公司宣布發放常規季度現金股利，展現對股東回饋的承諾與穩定的現金流。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "FTC Orders Rollins, Inc. To Void Employee Non-Competes, Signaling Broader Crackdown",
+      "publisher": "Finnhub",
+      "date": "2026-04-22 02:11",
+      "impact": "medium",
+      "category": "法規監管",
+      "reason": "美國聯邦貿易委員會 (FTC) 要求公司廢除員工競業禁止條款，可能增加人才流失風險並影響營運成本。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Rollins (ROL) Q3 2025 Earnings Transcript",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 15:45",
+      "impact": "low",
+      "category": "財報會議",
+      "reason": "此為舊季度財報會議紀錄，對當前股價影響有限，僅供參考過往營運趨勢。"
+    },
+    {
+      "rank": 2,
+      "title": "Rollins (ROL) To Report Earnings Tomorrow: Here Is What To Expect",
+      "publisher": "Yahoo",
+      "date": "2026-04-21 09:25",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "財報發布前的預期分析，屬於市場預測性質，隨財報公布後已失去即時參考價值。"
+    },
+    {
+      "rank": 3,
+      "title": "Rollins Gears Up to Report Q1 Earnings: What's in the Cards?",
+      "publisher": "Yahoo",
+      "date": "2026-04-21 15:47",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "財報發布前的市場分析，討論 Orkin 需求與定價策略，屬於事件發生前的預期討論。"
+    },
+    {
+      "rank": 4,
+      "title": "Gear Up for Rollins (ROL) Q1 Earnings: Wall Street Estimates for Key Metrics",
+      "publisher": "Yahoo",
+      "date": "2026-04-17 13:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "財報發布前的關鍵指標預測，屬於歷史資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,102 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-04-24",
+  "source_file": "cache/2026-04-24/candidates/news/NFLX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 7,
+    "bearish_count": 6,
+    "neutral_count": 7,
+    "overall_sentiment": "mixed",
+    "key_theme": "Netflix 雖因財報指引疲軟與高層異動導致股價重挫，但隨即宣布 250 億美元庫藏股計畫以提振市場信心，多空因素交織。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Netflix Approves $25B Share Buyback",
+      "publisher": "Yahoo",
+      "date": "2026-04-23 14:58",
+      "impact": "high",
+      "category": "資本運作",
+      "reason": "公司宣布額外增加 250 億美元的庫藏股計畫，顯示管理層對公司長期價值具備信心，並透過資本回饋策略支撐股價。"
+    },
+    {
+      "rank": 2,
+      "title": "Cathie Wood Keeps Buying Netflix Stock. Should You?",
+      "publisher": "Yahoo",
+      "date": "2026-04-23 15:14",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名投資人 Cathie Wood 在股價回調時持續加碼，為市場提供正面訊號，顯示機構投資人對其長期成長潛力仍持肯定態度。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix Is Investing In Itself - Expands Stock Buyback",
+      "publisher": "Benzinga",
+      "date": "2026-04-23 09:19",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "儘管指引疲軟，但第一季財報表現仍有亮點，配合庫藏股計畫，市場將其解讀為公司內部價值重估的機會。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Netflix (NFLX) Is Down 13.4% After Soft Q2 Guide And Reed Hastings’ Exit",
+      "publisher": "Yahoo",
+      "date": "2026-04-23 14:05",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "第二季財測疲軟加上 Reed Hastings 離職，引發市場對公司未來成長動能與領導層穩定性的擔憂，導致股價單日重挫 13.4 %。"
+    },
+    {
+      "rank": 2,
+      "title": "5 Insightful Analyst Questions From Netflix’s Q1 Earnings Call",
+      "publisher": "Yahoo",
+      "date": "2026-04-23 11:57",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "分析師在法說會上針對獲利未達預期提出質疑，反映出市場對於 Netflix 在串流競爭加劇下的獲利能力存有疑慮。"
+    },
+    {
+      "rank": 3,
+      "title": "Live On CNBC, Bill Baruch Announces Sold Netflix",
+      "publisher": "Benzinga",
+      "date": "2026-04-23 12:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場交易員公開表示賣出 Netflix 持股，反映出部分投資人因短期不確定性而選擇獲利了結或停損。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Has The Recent Pullback In Netflix (NFLX) Opened A Valuation Opportunity For Investors?",
+      "publisher": "Yahoo",
+      "date": "2026-04-23 08:04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討股價回調後的估值合理性，屬於中性分析文章，未給出明確買賣建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Nasdaq Composite Succumbs to Selling Pressure amid Netflix and Tesla Tug-of-War",
+      "publisher": "Yahoo",
+      "date": "2026-04-23 13:46",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 Netflix 股價波動歸因於大盤整體賣壓，屬於市場情緒的客觀描述。"
+    },
+    {
+      "rank": 3,
+      "title": "Calls of the Day: Netflix, UnitedHealth, Cloudflare and Fortinet",
+      "publisher": "CNBC",
+      "date": "2026-04-22 12:51",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為財經節目討論清單，未涉及具體利多或利空分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
