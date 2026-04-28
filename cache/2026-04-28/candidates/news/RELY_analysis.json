@@ -1,0 +1,83 @@
+{
+  "ticker": "RELY",
+  "company": "Remitly Global, Inc.",
+  "analysis_date": "2026-04-28",
+  "source_file": "cache/2026-04-28/candidates/news/RELY.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 4,
+    "bearish_count": 0,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司透過擴大 WhatsApp 服務與 AI 整合推動用戶增長，並獲得多家投行上調目標價，市場對其成長前景持樂觀態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cantor Fitzgerald Maintains Overweight on Remitly Global, Raises Price Target to $24",
+      "publisher": "Benzinga",
+      "date": "2026-04-21 08:25",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Ramsey El-Assal 維持「加碼」評級並調升目標價至 24 美元，顯示專業機構對其長期獲利能力與市場份額擴張的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Keybanc Maintains Overweight on Remitly Global, Raises Price Target to $23",
+      "publisher": "Benzinga",
+      "date": "2026-04-21 09:54",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Alex Markgraff 維持「加碼」評級並調升目標價至 23 美元，與 Cantor Fitzgerald 的觀點一致，強化了市場對該股的正面預期。"
+    },
+    {
+      "rank": 3,
+      "title": "Remitly Global Expands Its WhatsApp Send Offering To Add Additional Country Support, New Request Money Offering In Mexico Under Collaboration With Elektra",
+      "publisher": "Benzinga",
+      "date": "2026-04-23 09:19",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "透過與 Elektra 合作並擴大 WhatsApp 轉帳服務，有助於降低獲客成本並提升在墨西哥等關鍵市場的滲透率，選此篇作為代表因其涵蓋了具體的合作夥伴與市場策略細節。"
+    },
+    {
+      "rank": 4,
+      "title": "Is Remitly (RELY) Embedding Transfers in ChatGPT a Turning Point for AI-Driven Customer Acquisition?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-04-20 02:08",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "探討將轉帳功能整合至 ChatGPT 的潛在影響，顯示公司在 AI 驅動獲客策略上的創新，可能成為未來用戶成長的關鍵轉折點。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Remitly to Report First Quarter Financial Results on May 6, 2026",
+      "publisher": "Finnhub",
+      "date": "2026-04-22 16:01",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "僅為例行性的財報發布日期預告，對股價無直接影響，但市場將密切關注 5 月 6 日的實際營運數據。"
+    },
+    {
+      "rank": 2,
+      "title": "A Look At Remitly Global (RELY) Valuation After Recent Share Price Momentum",
+      "publisher": "Simply Wall St.",
+      "date": "2026-04-19 23:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對近期股價上漲後的估值進行中立分析，提醒投資人關注股價動能與基本面估值之間的平衡，未給出明確買賣建議。"
+    },
+    {
+      "rank": 3,
+      "title": "Remitly Global, Inc. Expands WhatsApp Send And Launches Request Money Offering",
+      "publisher": "Finnhub",
+      "date": "2026-04-23 14:06",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "此篇為與 Benzinga 報導相同主題的簡要新聞，因資訊重複且細節較少，故列為中性參考。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -155,7 +155,6 @@
       "DDOG",
       "ROP"
     ],
-    "WPM": [],
     "TER": [
       "LRCX",
       "AMAT",
@@ -168,6 +167,29 @@
       "FORM",
       "ENPH",
       "ACLS"
+    ],
+    "ANET": [
+      "CSCO",
+      "MSI",
+      "CIEN",
+      "LITE",
+      "UI",
+      "FFIV",
+      "AAOI",
+      "VIAV",
+      "VSAT",
+      "ONDS"
+    ],
+    "MU": [
+      "NVDA",
+      "AVGO",
+      "AMD",
+      "INTC",
+      "TXN",
+      "ADI",
+      "QCOM",
+      "MRVL",
+      "MPWR"
     ]
   },
   "competitors": {
@@ -272,26 +294,28 @@
     "ONTO": [],
     "FORM": [],
     "ENPH": [],
-    "ACLS": []
+    "ACLS": [],
+    "MSI": [],
+    "CIEN": [],
+    "LITE": [],
+    "UI": [],
+    "AMD": [],
+    "ADI": [],
+    "QCOM": [],
+    "MPWR": []
   },
   "candidates": {
     "HBM": [],
     "GLW": [],
     "NFLX": [],
     "AVGO": [],
-    "CARR": [],
-    "SM": [],
     "RELY": [],
-    "ANET": [],
-    "CODI": [],
-    "CRDO": [],
     "ROL": [],
     "AMSC": [],
     "BE": [],
     "ASML": [],
     "PANW": [],
     "SNPS": [],
-    "CVNA": [],
-    "SKYT": []
+    "CVNA": []
   }
 }
