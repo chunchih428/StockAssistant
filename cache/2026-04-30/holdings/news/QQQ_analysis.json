@@ -1,0 +1,56 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-04-28",
+  "source_file": "cache/2026-04-28/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 0,
+    "bearish_count": 3,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場對 Nasdaq 100 指數近期漲幅過大感到擔憂，且面臨來自替代性 ETF 與主動型基金的競爭壓力。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Don't Get Too Comfortable: The Pullback Could Be Epic",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-20 11:41",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "分析師指出 QQQ 與 S&P 500 近期漲幅過快，在宏觀經濟風險累積下，技術面存在大幅回調的潛在風險。"
+    },
+    {
+      "rank": 2,
+      "title": "QQQ Vs. STK: Why This Tech Income Fund Offers A More Balanced Path Forward",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-21 16:41",
+      "impact": "medium",
+      "category": "基金競爭",
+      "reason": "透過與 Columbia Seligman Premium Technology Growth Fund (STK) 比較，強調 STK 在科技股曝險上的平衡性與 4% 的殖利率優勢，對 QQQ 的資金吸引力構成競爭。"
+    },
+    {
+      "rank": 3,
+      "title": "Investors Will Soon Have Two New Alternatives to Invesco QQQ",
+      "publisher": "Motley Fool",
+      "date": "2026-04-24 11:35",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場即將出現兩款 QQQ 的替代性 ETF，這可能導致部分資金分流，對 QQQ 的市場份額構成長期潛在壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA",
+      "publisher": "Benzinga",
+      "date": "2026-04-24 10:08",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "該報導僅提供針對 QQQ 及多檔大型科技股的交易策略建議，屬於中性的技術面觀察，未對基本面做出明確多空判斷。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,48 @@
+{
+  "ticker": "LASR",
+  "company": "nLIGHT",
+  "analysis_date": "2026-04-28",
+  "source_file": "cache/2026-04-28/holdings/news/LASR.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對於 nLIGHT 的成長潛力存在分歧，分析師上調目標價與看空觀點並存。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Stifel Reiterates Buy on nLight, Raises Price Target to $75",
+      "publisher": "Benzinga",
+      "date": "2026-04-20 08:58",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Stifel 分析師 Ruben Roy 維持「買入」評級，並將目標價從 68 美元上調至 75 美元，顯示專業機構對該公司長期成長動能與技術競爭力持樂觀態度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "3 Reasons to Sell LASR and 1 Stock to Buy Instead",
+      "publisher": "StockStory",
+      "date": "2026-04-23T15:49:23Z",
+      "impact": "medium",
+      "category": "投資建議",
+      "reason": "該報導提出賣出 LASR 的三個理由，反映出部分市場參與者對其估值或基本面表現存有疑慮，建議投資人轉向其他標的。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is nLIGHT, Inc. (LASR) A Good Stock To Buy Now?",
+      "publisher": "Insider Monkey",
+      "date": "2026-04-26T22:07:44Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該文章屬於綜合性市場分析，旨在探討投資價值，並未提供明確的買入或賣出信號，對股價短期影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

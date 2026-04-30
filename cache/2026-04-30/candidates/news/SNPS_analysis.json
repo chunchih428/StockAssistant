@@ -1,0 +1,84 @@
+{
+  "ticker": "SNPS",
+  "company": "Synopsys, Inc.",
+  "analysis_date": "2026-04-27",
+  "source_file": "cache/2026-04-27/candidates/news/SNPS.json",
+  "summary": {
+    "total_articles": 13,
+    "bullish_count": 7,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司在 AI 與航太領域的技術合作持續擴張，但短期面臨財報獲利預期下滑與股價回檔的壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Synopsys Partners with TSMC to Power Next-Generation AI Systems with Silicon Proven IP and Certified EDA Flows",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 19:00",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "與台積電深化合作，強化 AI 晶片設計流程與 IP 認證，鞏固其在半導體生態系的護城河。"
+    },
+    {
+      "rank": 2,
+      "title": "Atomera Extends Collaboration With Synopsys to Accelerate GaN Modeling in High-Value RF and Power Devices",
+      "publisher": "Yahoo",
+      "date": "2026-04-23 20:05",
+      "impact": "medium",
+      "category": "技術研發",
+      "reason": "擴大與 Atomera 的合作，針對氮化鎵 (GaN) 進行建模優化，有助於提升在射頻與電源管理晶片市場的競爭力。"
+    },
+    {
+      "rank": 3,
+      "title": "A Look At Synopsys (SNPS) Valuation As NASA Spacesuit Deal Highlights Expanding Aerospace And AI Reach",
+      "publisher": "Simply Wall St.",
+      "date": "2026-04-19 22:05",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "透過 NASA 登月任務的模擬工具合約，驗證了公司軟體在航太與極端環境模擬領域的技術領先地位。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Synopsys’ Quarterly Earnings Preview: What You Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-04-24 12:36",
+      "impact": "high",
+      "category": "財報預期",
+      "reason": "市場預期即將公布的第二季財報將出現雙位數獲利下滑，引發投資人對短期獲利能力的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Synopsys (SNPS) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "publisher": "Yahoo",
+      "date": "2026-04-23 21:50",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日下跌 4.28%，表現弱於大盤，顯示短期賣壓沉重且技術面轉弱。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Synopsys, Inc. (SNPS) A Good Stock To Buy Now?",
+      "publisher": "Yahoo",
+      "date": "2026-04-24 18:24",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "僅為投資觀點彙整，未提供具體財務數據更新，屬於市場情緒觀察。"
+    },
+    {
+      "rank": 2,
+      "title": "Synopsys, Inc. (SNPS) Is a Trending Stock: Facts to Know Before Betting on It",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅指出該股近期受到市場關注，未涉及實質基本面變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

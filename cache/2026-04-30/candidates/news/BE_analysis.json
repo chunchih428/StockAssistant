@@ -1,0 +1,56 @@
+{
+  "ticker": "BE",
+  "company": "Bloom Energy Corporation",
+  "analysis_date": "2026-04-28",
+  "source_file": "cache/2026-04-28/candidates/news/BE.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "neutral",
+    "key_theme": "市場正評估 Bloom Energy 在經歷近期股價急漲後的估值合理性與短期回調壓力。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy (BE) Stock Declines While Market Improves: Some Information for Investors",
+      "publisher": "Zacks",
+      "date": "2026-04-24T22:00:02Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導指出 BE 在大盤上漲時出現逆勢下跌，顯示短期內面臨獲利了結賣壓，技術面表現相對疲軟。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Too Late To Consider Bloom Energy (BE) After Its Rapid Share Price Surge?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-04-25T06:05:42Z",
+      "impact": "medium",
+      "category": "投資分析",
+      "reason": "文章探討股價急漲後的估值風險，並未給出明確買賣建議，主要提醒投資人需評估基本面支撐力道。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Bloom Energy Corporation (BE) A Good Stock To Buy Now?",
+      "publisher": "Insider Monkey",
+      "date": "2026-04-24T18:22:18Z",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "透過機構持倉與市場情緒分析，提供投資人參考指標，內容中性，未對股價走勢做出強烈預測。"
+    },
+    {
+      "rank": 3,
+      "title": "Are Oils-Energy Stocks Lagging Bloom Energy (BE) This Year?",
+      "publisher": "Zacks",
+      "date": "2026-04-24T13:40:02Z",
+      "impact": "low",
+      "category": "產業比較",
+      "reason": "將 BE 與傳統能源股進行績效比較，旨在分析資金流向與產業輪動，屬於客觀的市場數據觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

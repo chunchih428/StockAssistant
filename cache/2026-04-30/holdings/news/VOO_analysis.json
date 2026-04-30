@@ -1,0 +1,120 @@
+{
+  "ticker": "VOO",
+  "company": "S&P 500",
+  "analysis_date": "2026-04-28",
+  "source_file": "cache/2026-04-28/holdings/news/VOO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 6,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場在經歷地緣政治緊張與油價波動後展現韌性，S&P 500 指數重回歷史高點，投資人情緒轉向樂觀。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "The 1-Minute Market Report, April 26, 2026 — S&P 500 hits new highs as Nasdaq and Nvidia lead a risk-on rally.",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-25 22:35",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "指數創下歷史新高，顯示市場動能強勁，且由科技龍頭股領軍，有利於追蹤大盤的 VOO。"
+    },
+    {
+      "rank": 2,
+      "title": "S&P 500 Is Overbought—But JPMorgan Says The Rally Isn't Done Yet",
+      "publisher": "Benzinga",
+      "date": "2026-04-24 10:18",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "摩根大通分析指出，儘管指標顯示超買，但市場多頭仍掌控局勢，漲勢尚未結束。"
+    },
+    {
+      "rank": 3,
+      "title": "Suze Orman Says Put 50% in VOO. Here’s Why She’s Right",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 19:51",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "知名理財專家背書，建議將資產配置 50% 於 VOO，有助於提升長期投資人的信心。"
+    },
+    {
+      "rank": 4,
+      "title": "$10 Billion Rush Into S&P 500 ETFs—What's Driving The SPY-Led Inflow Wave?",
+      "publisher": "Benzinga",
+      "date": "2026-04-22 15:49",
+      "impact": "medium",
+      "category": "資金流向",
+      "reason": "高達 100 億美元的資金湧入 S&P 500 相關 ETF，顯示機構與散戶在震盪中積極進行抄底。"
+    },
+    {
+      "rank": 5,
+      "title": "Oil Up, S&P 500 Up — S&P 500 vs oil decoupling signals resilience.",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-23 09:54",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "市場展現與油價脫鉤的韌性，且 2026 至 2027 年的每股盈餘 (EPS) 預估值支撐了長期看漲觀點。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Stock Market Today: S&P 500 Pulls Back From Records As Oil Jumps 6% On Hormuz Tensions",
+      "publisher": "Benzinga",
+      "date": "2026-04-20 13:05",
+      "impact": "medium",
+      "category": "地緣政治",
+      "reason": "伊朗局勢緊張導致油價飆升，對市場情緒造成短期壓力，導致指數從高點回落。"
+    },
+    {
+      "rank": 2,
+      "title": "S&P 500 Is Hitting The Upper Circuit: Here's What Happens Next",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-23 12:43",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "分析指出市場存在下行風險，包括地緣政治衝突、市場廣度狹窄以及聯準會政策的不確定性。"
+    },
+    {
+      "rank": 3,
+      "title": "Putting In A Stock Market Top — S&P 500 surged from oversold to overbought in weeks.",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-21 13:36",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "技術指標顯示市場在短時間內從超賣轉為超買，暗示短期可能面臨修正壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Buy, Hold, or Sell VOO at $650?",
+      "publisher": "Yahoo",
+      "date": "2026-04-24 16:14",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "針對 VOO 在 650 美元價位的操作建議，提供多空平衡的觀點，未給出明確買進或賣出信號。"
+    },
+    {
+      "rank": 2,
+      "title": "SCHD vs. VOO: Which One Will Make You Richer?",
+      "publisher": "Yahoo",
+      "date": "2026-04-21 12:25",
+      "impact": "low",
+      "category": "投資比較",
+      "reason": "比較 SCHD 與 VOO 的績效，屬於投資策略選擇的討論，對 VOO 本身股價影響中性。"
+    },
+    {
+      "rank": 3,
+      "title": "3 Key Differences Between These 3 S&P 500 ETFs",
+      "publisher": "Yahoo",
+      "date": "2026-04-20 00:11",
+      "impact": "low",
+      "category": "產品分析",
+      "reason": "僅針對 VOO、SPY 與 IVV 的費用與交易量進行比較，屬於教育性質的資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
