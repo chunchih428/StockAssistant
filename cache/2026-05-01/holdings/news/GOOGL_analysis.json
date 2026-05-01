@@ -1,0 +1,110 @@
+{
+  "ticker": "GOOGL",
+  "company": "Google",
+  "analysis_date": "2026-04-28",
+  "source_file": "cache/2026-04-28/holdings/news/GOOGL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 0,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "Alphabet 積極擴大 AI 領域投資與基礎設施布局，市場高度期待即將公布的財報表現。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Google plans $40 billion Anthropic investment as AI compute race intensifies",
+      "publisher": "CNBC",
+      "date": "2026-04-24 12:55",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "Google 宣布對 AI 新創公司 Anthropic 投入高達 400 億美元，顯示其在 AI 算力競賽中採取激進的擴張策略，有助於鞏固其雲端與 AI 生態系地位。"
+    },
+    {
+      "rank": 2,
+      "title": "Alphabet Shares Expected to Reach New Highs on AI Tailwinds, Oppenheimer Says",
+      "publisher": "Yahoo",
+      "date": "2026-04-24 15:13",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "Oppenheimer 分析師看好 Google 搜尋引擎結合 AI 技術後的潛力，預期股價將受惠於 AI 順風而創下新高。"
+    },
+    {
+      "rank": 3,
+      "title": "Google Cloud Next 2026 Event Bets Big on AI Infrastructure",
+      "publisher": "Yahoo",
+      "date": "2026-04-25 11:35",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Google Cloud Next 大會展示了第八代 TPU 與 Gemini Enterprise Agent 平台，顯示公司已從 AI 實驗階段轉向大規模商業化應用。"
+    },
+    {
+      "rank": 4,
+      "title": "Marvell Shares Rise on Reports of Talks with Alphabet Inc’s (GOOGL) Google to Create Two AI Chips",
+      "publisher": "Yahoo",
+      "date": "2026-04-25 05:57",
+      "impact": "medium",
+      "category": "供應鏈合作",
+      "reason": "報導指出 Google 與 Marvell 洽談開發兩款 AI 晶片，顯示 Google 致力於優化自有 AI 硬體架構以降低對外部供應商的依賴。"
+    },
+    {
+      "rank": 5,
+      "title": "Alphabet Inc. (GOOGL): Bill Ackman Likes This Technology Powerhouse",
+      "publisher": "Yahoo",
+      "date": "2026-04-24 16:48",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "知名投資人 Bill Ackman 將 Alphabet 列為長期投資組合的前四大持股，增強了機構投資者對該公司的信心。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Dow Jones Futures: Tech Stocks, Oil Prices Rise Amid Iran News; Apple, Amazon, Google Lead Earnings",
+      "publisher": "Yahoo",
+      "date": "2026-04-27 02:20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此類新聞主要彙整市場總體經濟因素（如伊朗局勢）與即將到來的財報季，對 Alphabet 本身無特定利多或利空影響，僅反映市場觀望情緒。"
+    },
+    {
+      "rank": 2,
+      "title": "Here's How Much Google Parent Alphabet's Stock Is Expected to Move After Earnings",
+      "publisher": "Yahoo",
+      "date": "2026-04-26 11:00",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "僅為財報發布前的波動預期分析，屬於中性市場預測，未提供具體方向性指引。"
+    },
+    {
+      "rank": 3,
+      "title": "Bank of America resets Google stock forecast ahead of earnings",
+      "publisher": "Yahoo",
+      "date": "2026-04-24 18:33",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "美國銀行在財報前調整預測模型，屬於常規的分析師報告更新，未改變對公司的長期核心觀點。"
+    },
+    {
+      "rank": 4,
+      "title": "Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA",
+      "publisher": "Benzinga",
+      "date": "2026-04-24 10:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "純粹的技術面交易策略建議，不涉及公司基本面變化。"
+    },
+    {
+      "rank": 5,
+      "title": "Countdown to Alphabet (GOOGL) Q1 Earnings: A Look at Estimates Beyond Revenue and EPS",
+      "publisher": "Yahoo",
+      "date": "2026-04-24 13:15",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "針對財報關鍵指標的預覽分析，屬於投資人教育性質，不構成對股價的直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
