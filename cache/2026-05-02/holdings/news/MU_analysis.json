@@ -1,0 +1,102 @@
+{
+  "ticker": "MU",
+  "company": "Micron Technology",
+  "analysis_date": "2026-05-01",
+  "source_file": "cache/2026-05-01/holdings/news/MU.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 16,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 需求強勁與記憶體市場復甦，華爾街分析師普遍看好 Micron 的長期成長潛力並大幅上調目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "DA Davidson initiates Micron at Buy, sets $1,000 Street-high target",
+      "publisher": "Yahoo",
+      "date": "2026-04-28 12:36",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "DA Davidson 給予買入評級並設定 1,000 美元的華爾街最高目標價，顯示對其記憶體需求前景的極度樂觀。"
+    },
+    {
+      "rank": 2,
+      "title": "TD Cowen Maintains Buy on Micron Technology, Raises Price Target to $660",
+      "publisher": "Benzinga",
+      "date": "2026-04-28 12:02",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "TD Cowen 分析師 Krish Sankar 維持買入評級並將目標價調升至 660 美元，強調記憶體產業的持久性。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Micron Stock Is Surging Wednesday? — Micron Technology Inc (NASDAQ: MU) stock surges following Seagate's Q3 earnings beat.",
+      "publisher": "Benzinga",
+      "date": "2026-04-29 10:43",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Seagate 的財報優於預期帶動了整個記憶體與儲存產業的樂觀情緒，進而推升 Micron 股價。"
+    },
+    {
+      "rank": 4,
+      "title": "There Is Optimism Around Micron Technology’s HBM Business, Here Is What You Should Know?",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 08:50",
+      "impact": "medium",
+      "category": "產品發展",
+      "reason": "Micron 的 HBM 業務成長潛力巨大，預估五年 EPS 年複合成長率達 130 %，是 AI 基礎設施的核心受益者。"
+    },
+    {
+      "rank": 5,
+      "title": "Capitalizing on the AI Buildout: High-Conviction Stock Picks",
+      "publisher": "Yahoo",
+      "date": "2026-04-29 17:10",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "將 Micron 與 NVDA、AVGO 並列為 AI 建設浪潮中的高信念股票，強化了市場對其 AI 題材的認同。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "What Is Going On With Micron Stock On Tuesday",
+      "publisher": "Benzinga",
+      "date": "2026-04-28 09:06",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場傳出 OpenAI 營收未達標，引發投資人對 AI 支出放緩的擔憂，導致 Micron 股價單日下跌 4 %。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Micron Announces Participation in Investor Event",
+      "publisher": "Yahoo",
+      "date": "2026-04-29 20:01",
+      "impact": "low",
+      "category": "公司公告",
+      "reason": "公司宣布參加投資人活動，屬於常規營運公告，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Is It Too Late To Consider Micron Technology (MU) After Its Rapid Share Price Surge",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 06:04",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "針對股價大漲後的估值討論，提醒投資人需審慎評估，屬於中性觀點的市場分析。"
+    },
+    {
+      "rank": 3,
+      "title": "Competitor Analysis: Evaluating Micron Technology And Competitors In Semiconductors & Semiconductor Equipment Industry",
+      "publisher": "Benzinga",
+      "date": "2026-04-30 05:59",
+      "impact": "low",
+      "category": "產業研究",
+      "reason": "對半導體產業的競爭格局進行評估，提供產業背景資訊，未對 Micron 股價產生直接驅動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

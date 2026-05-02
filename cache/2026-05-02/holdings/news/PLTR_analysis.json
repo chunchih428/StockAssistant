@@ -1,0 +1,93 @@
+{
+  "ticker": "PLTR",
+  "company": "Palantir Technologies Inc.",
+  "analysis_date": "2026-04-28",
+  "source_file": "cache/2026-04-28/holdings/news/PLTR.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 5,
+    "neutral_count": 3,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管獲得 3 億美元 USDA 重大合約與 AI 成長動能強勁，但受整體市場風險偏好下降與估值修正壓力影響，股價呈現震盪走勢。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Palantir Wins $300 Million USDA Deal To Modernize Farmer Services",
+      "publisher": "Benzinga",
+      "date": "2026-04-22 08:09",
+      "impact": "high",
+      "category": "重大合約",
+      "reason": "獲得美國農業部 3 億美元合約，展現公司在政府部門的持續擴張能力與技術整合價值，為股價提供實質基本面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "PLTR vs. SOFI: Which High-Growth Tech Stock is the Better Buy Now?",
+      "publisher": "Yahoo",
+      "date": "2026-04-23 18:19",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析指出 Palantir 在 AI 驅動的成長與財務穩健度上優於同業，強化了市場對其長期成長潛力的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Palantir Technologies (PLTR): The Trillion-Dollar Contender Nobody Is Talking About",
+      "publisher": "Yahoo",
+      "date": "2026-04-24 14:07",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "將 Palantir 列為潛在市值突破兆美元的 AI 領頭羊，提升了投資人對其長期估值的想像空間。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Palantir Drops 7% Despite $300M USDA Win: Is the Dip a Buying Opportunity?",
+      "publisher": "Yahoo",
+      "date": "2026-04-23 19:10",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價在利多消息下反而大跌 7 %，反映出市場在風險趨避情緒下對高估值科技股的獲利了結壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Here’s Why Mizuho Lowered Price Target on Palantir Technologies (PLTR)",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 11:36",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "瑞穗銀行下調目標價，儘管公司營收成長強勁，但估值過高與市場預期修正仍對股價構成壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "Minneapolis campaigners press Swiss National Bank to dump Palantir investment",
+      "publisher": "Yahoo",
+      "date": "2026-04-24 07:46",
+      "impact": "low",
+      "category": "ESG 與法規",
+      "reason": "外部團體施壓瑞士國家銀行拋售持股，雖短期影響有限，但可能引發市場對公司業務倫理的長期關注。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Here Are Thursday’s Top Wall Street Analyst Research Calls",
+      "publisher": "Yahoo",
+      "date": "2026-04-23 11:59",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為例行性分析師研究報告清單，未提供針對 Palantir 的具體新觀點。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Palantir Technologies Inc. (PLTR) One of the Top Software Stocks?",
+      "publisher": "Yahoo",
+      "date": "2026-04-22 21:55",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "探討公司在 S&P 500 指數中的權重地位，屬於中性市場資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

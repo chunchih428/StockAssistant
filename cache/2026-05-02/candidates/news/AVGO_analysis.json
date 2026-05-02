@@ -1,0 +1,111 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-05-02",
+  "source_file": "cache/2026-05-02/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "人工智慧 基礎設施需求強勁，特別是與 Meta 及 Google 等大型科技公司的深度合作，推動了 Broadcom 在客製化晶片與網路解決方案的爆發性成長。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Broadcom Just Reached a 3-Year AI Chip Deal with Meta. Does That Make AVGO Stock a Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 14:41",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "Broadcom 與 Meta 簽署為期 3 年的 AI 晶片合約，象徵其在客製化 AI 加速器市場的領導地位獲得大型雲端服務商認可，為長期營收提供強大支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom Accelerates Multi-Gig Broadband with Optimized 10G PON and Wi-Fi 8 Solutions for Mass Market",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 13:00",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出 Wi-Fi 8 與 10G PON 解決方案，顯示公司在消費級與企業級網路基礎設施領域持續保持技術領先，有助於鞏固市占率。"
+    },
+    {
+      "rank": 3,
+      "title": "The Street is Bullish on Broadcom Inc. (AVGO), Here’s What the Analysts Think About the Stock",
+      "publisher": "Yahoo",
+      "date": "2026-04-28 17:50",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "高達 94% 的分析師給予買入評級，反映華爾街對其 AI 轉型策略與強勁獲利能力的共識，增強市場信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Investors Should Buy Broadcom's Stock Before Everything Changes",
+      "publisher": "Yahoo",
+      "date": "2026-04-28 21:34",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "管理層預期明年客製化 AI 晶片營收將達 1,000 億美元，此驚人的成長預測為股價提供了強大的基本面支撐。"
+    },
+    {
+      "rank": 5,
+      "title": "As Broadcom Deepens Its Google Cloud Ties, Should You Buy AVGO Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-04-28 13:30",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "與 Google Cloud 的合作深化，加上 Anthropic 對 TPU 的承諾，進一步鞏固了 Broadcom 在 AI 運算生態系中的關鍵供應商地位。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Nvidia Stock Struggles to Recover From OpenAI Panic. How AMD, Broadcom Are Trading.",
+      "publisher": "Yahoo",
+      "date": "2026-04-29 09:35",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受 OpenAI 相關消息影響，市場對 AI 晶片需求產生短期恐慌，導致股價出現波動，但此為市場情緒面影響，非公司基本面惡化。"
+    },
+    {
+      "rank": 2,
+      "title": "This Super Semiconductor Stock Is Obliterating Nvidia, AMD, and Broadcom in 2026",
+      "publisher": "Yahoo",
+      "date": "2026-04-29 16:35",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "提及其他半導體公司表現優於 Broadcom，可能對部分追求短期爆發性成長的投資人造成資金分流的心理壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "How The Broadcom (AVGO) Investment Story Is Shifting With AI Hopes And Valuation Concerns",
+      "publisher": "Yahoo",
+      "date": "2026-04-29 17:06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析師僅微幅調整目標價（從 472.01 美元至 475.49 美元），顯示市場對其估值已趨於理性，成長預期已部分反映在股價中。"
+    },
+    {
+      "rank": 2,
+      "title": "Assessing Broadcom (AVGO) Valuation After Recent Share Price Volatility",
+      "publisher": "Yahoo",
+      "date": "2026-04-29 16:07",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對近期股價波動進行技術性評估，未提供新的基本面利多或利空，屬市場常態性觀察。"
+    },
+    {
+      "rank": 3,
+      "title": "Broadcom Just Hit $2 Trillion Market Cap. Is AVGO Stock a Buy Now?",
+      "publisher": "Yahoo",
+      "date": "2026-04-29 18:55",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討市值達到 2 兆美元後的投資價值，屬於中性的市場觀點，旨在提醒投資人注意高估值下的風險與機會。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

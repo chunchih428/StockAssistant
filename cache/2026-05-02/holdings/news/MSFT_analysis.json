@@ -1,0 +1,120 @@
+{
+  "ticker": "MSFT",
+  "company": "Microsoft",
+  "analysis_date": "2026-04-27",
+  "source_file": "cache/2026-04-27/holdings/news/MSFT.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 7,
+    "bearish_count": 8,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場正密切關注 Microsoft 即將公布的財報，同時公司內部進行大規模自願離職計畫以優化 AI 轉型，但面臨 OpenAI 訴訟與英國雲端授權法律挑戰的負面壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Microsoft Corp. (MSFT) Well-Positioned with Overseas AI Infrastructure and Cybersecurity Investments",
+      "publisher": "Yahoo",
+      "date": "2026-04-25 03:43",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師看好 Microsoft 在海外 AI 基礎設施與網路安全領域的長期投資布局，認為其具備強大的競爭優勢。"
+    },
+    {
+      "rank": 2,
+      "title": "Microsoft Corporation (MSFT) Partners With Stellantis",
+      "publisher": "Yahoo",
+      "date": "2026-04-26 22:31",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "與 Stellantis 的合作進一步擴展了 Microsoft 在汽車產業的雲端與 AI 應用版圖，有助於營收多元化。"
+    },
+    {
+      "rank": 3,
+      "title": "Microsoft Corporation (MSFT): A Must Have Safe Stock for Beginner Portfolios",
+      "publisher": "Yahoo",
+      "date": "2026-04-24 14:36",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "被評選為新手投資組合的首選安全標的，反映出市場對其財務穩健性的高度認可。"
+    },
+    {
+      "rank": 4,
+      "title": "Is Microsoft Corporation (MSFT) A Good Stock To Buy Now?",
+      "publisher": "Yahoo",
+      "date": "2026-04-24 18:26",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場出現看漲論點，認為在當前市場波動下，Microsoft 仍是值得買入的優質標的。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Elon Musk’s $134 Billion OpenAI Fight Heads to Trial",
+      "publisher": "Yahoo",
+      "date": "2026-04-26 14:23",
+      "impact": "high",
+      "category": "法規",
+      "reason": "Elon Musk 對 OpenAI 及 Microsoft 提起的訴訟進入審判階段，涉及金額高達 1,340 億美元，對公司治理與 AI 合作關係構成重大不確定性。"
+    },
+    {
+      "rank": 2,
+      "title": "Microsoft plans first-ever voluntary employee buyout for up to 7% of U.S. workforce",
+      "publisher": "CNBC",
+      "date": "2026-04-23 11:15",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "公司首次實施自願離職計畫，影響高達 7% 的美國員工，市場擔憂此舉反映出 AI 轉型帶來的勞動力成本壓力與組織重組風險。"
+    },
+    {
+      "rank": 3,
+      "title": "Microsoft (MSFT) Must Face a UK lawsuit Over Cloud Computing Licenses",
+      "publisher": "Yahoo",
+      "date": "2026-04-25 05:57",
+      "impact": "medium",
+      "category": "法規",
+      "reason": "英國法院裁定 Microsoft 必須面對關於雲端運算授權的訴訟，可能影響其在歐洲市場的雲端業務營運模式。"
+    },
+    {
+      "rank": 4,
+      "title": "Prediction: This Fallen AI Stock Could Be the Comeback Story of 2026",
+      "publisher": "Yahoo",
+      "date": "2026-04-25 14:20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "指出 Microsoft 在 2026 年股價表現疲軟，雖然預期有反彈潛力，但短期內仍處於逆風狀態。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Here's How Much Microsoft Stock Is Expected to Move After Earnings",
+      "publisher": "Yahoo",
+      "date": "2026-04-25 11:00",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "市場正等待下週的財報發布，投資人對股價波動幅度進行預測，目前處於觀望階段。"
+    },
+    {
+      "rank": 2,
+      "title": "Final Trade: NVO, MSFT, GOOG, SLG",
+      "publisher": "CNBC",
+      "date": "2026-04-24 18:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為每日交易總結，未提供具體影響股價的實質利多或利空資訊。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple vs. Microsoft: One Quietly Grew Its Dividend 900% in 10 Years",
+      "publisher": "Yahoo",
+      "date": "2026-04-24 17:55",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "對比 Apple 與 Microsoft 的股利成長表現，屬於長線投資分析，對短期股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,102 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-04-28",
+  "source_file": "cache/2026-04-28/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 2,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "Amazon 憑藉強大的 AI 基礎設施布局、與 Meta 的晶片合作案以及資料中心能源協議，持續獲得市場正面評價，儘管面臨反壟斷監管壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Amazon to provide Meta with hundreds of thousands of AWS AI chips in new deal",
+      "publisher": "CNBC",
+      "date": "2026-04-24 08:27",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "Amazon 與 Meta 達成重大協議，將供應數十萬顆 AWS AI 晶片，顯示其在 AI 硬體供應鏈的競爭力，直接推升股價表現。"
+    },
+    {
+      "rank": 2,
+      "title": "The Bull Case For NiSource (NI) Could Change Following New Data Center Power Deals With Alphabet, Amazon",
+      "publisher": "Yahoo",
+      "date": "2026-04-26 13:06",
+      "impact": "medium",
+      "category": "基礎設施",
+      "reason": "Amazon 與 NiSource 簽署長期能源協議，確保其資料中心運作的電力供應，為 AI 雲端業務擴張奠定基礎。"
+    },
+    {
+      "rank": 3,
+      "title": "Nvidia Needs to Watch Out for This Custom Chip Designer (Hint: It's Not Broadcom)",
+      "publisher": "Yahoo",
+      "date": "2026-04-26 03:50",
+      "impact": "medium",
+      "category": "產品研發",
+      "reason": "Amazon 自研晶片技術成熟，展現出在 AI 運算領域減少對第三方供應商依賴的潛力，長期有利於毛利率提升。"
+    },
+    {
+      "rank": 4,
+      "title": "Amazon's Partnership With Anthropic Keeps Deepening. Is This the Catalyst Amazon Stock Needs?",
+      "publisher": "Yahoo",
+      "date": "2026-04-25 19:37",
+      "impact": "medium",
+      "category": "策略投資",
+      "reason": "持續深化與 Anthropic 的合作，並投入 250 億美元資金，強化了 Amazon 在生成式 AI 領域的生態系布局。"
+    },
+    {
+      "rank": 5,
+      "title": "Amazon’s (AMZN) Project Kuiper Could Add To Valuation After SpaceX IPO",
+      "publisher": "Yahoo",
+      "date": "2026-04-26 16:53",
+      "impact": "low",
+      "category": "市場擴張",
+      "reason": "分析師看好 Kuiper 衛星計畫在 SpaceX IPO 後的估值潛力，為 Amazon 提供額外的長期成長動能。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "California Claims that Amazon’s (AMZN) Collusion Drove up Consumer Prices, Citing New Evidence",
+      "publisher": "Yahoo",
+      "date": "2026-04-25 05:57",
+      "impact": "medium",
+      "category": "法規監管",
+      "reason": "加州政府提出關於 Amazon 操縱價格的新證據，可能引發進一步的法律訴訟與監管罰款風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Prediction: Amazon Will Be the Worst \"Magnificent Seven\" Stock to Own for the Next 10 Years. Here's Why.",
+      "publisher": "Yahoo",
+      "date": "2026-04-27 02:06",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "市場評論認為 Amazon 生態系過於龐大可能導致管理效率下降，對其未來十年的股價表現持悲觀看法。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Dow Jones Futures: Tech Stocks, Oil Prices Rise Amid Iran News; Apple, Amazon, Google Lead Earnings",
+      "publisher": "Yahoo",
+      "date": "2026-04-27 02:20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "綜合報導指出 Amazon 即將公布財報，市場關注重點在於支出與營收表現，屬於財報前的觀望情緒。"
+    },
+    {
+      "rank": 2,
+      "title": "Options Action: Bullish bets on Amazon — 'Fast Money' trader Mike Khouw talks the options moves around Amazon.",
+      "publisher": "CNBC",
+      "date": "2026-04-24 18:09",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "選擇權市場出現看漲押注，反映交易員對短期股價波動的預期，但未涉及基本面變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

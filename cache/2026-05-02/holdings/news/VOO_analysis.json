@@ -1,0 +1,111 @@
+{
+  "ticker": "VOO",
+  "company": "S&P 500",
+  "analysis_date": "2026-05-01",
+  "source_file": "cache/2026-05-01/holdings/news/VOO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 8,
+    "bearish_count": 6,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場在 AI 成長動能與地緣政治引發的油價波動、聯準會政策不確定性之間拉鋸，整體資金流入強勁但宏觀風險猶存。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "$100 Billion ETF Tsunami: SPY, VOO, IVV And More Drive Historic Equity Rebound",
+      "publisher": "Benzinga",
+      "date": "2026-04-27",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "資金流入是 ETF 的生命線，單日 75 億美元的紀錄性流入顯示機構與散戶對 VOO 的強烈信心，支撐股價反彈。"
+    },
+    {
+      "rank": 2,
+      "title": "Why The S&P 500's 10% April Surge May Have Legs",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-30",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "四月份 10% 的漲幅由科技與半導體領軍，分析指出強勁的財報表現可能延續漲勢，對追蹤指數的 VOO 構成利多。"
+    },
+    {
+      "rank": 3,
+      "title": "S&P 500 Is Overbought—But JPMorgan Says The Rally Isn't Done Yet",
+      "publisher": "Benzinga",
+      "date": "2026-04-24",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "摩根大通觀點認為儘管技術面超買，但市場動能尚未耗盡，多頭仍掌控局面，有利於 VOO 持續上行。"
+    },
+    {
+      "rank": 4,
+      "title": "Markets Price In End Of Iran Conflict, S&P 500 May Climb Higher",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-27",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "地緣政治風險緩解（伊朗衝突結束）消除市場不確定性，配合 AI 資本支出與強勁財報，提供上漲空間。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Stock Market Today: S&P 500 Drops Amid Tech Sell-Off, Oil Climbs To $100",
+      "publisher": "Benzinga",
+      "date": "2026-04-28",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "油價飆升至 100 美元與科技股拋售同時發生，顯示通膨壓力與 AI 資本支出懷疑論對指數構成顯著壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Why The Probability For A Global Recession Is Increasing",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-28",
+      "impact": "medium",
+      "category": "宏觀經濟",
+      "reason": "油價衝擊、聯準會政策不確定性及 AI 估值過高，共同增加了全球經濟衰退的風險，對大盤構成潛在威脅。"
+    },
+    {
+      "rank": 3,
+      "title": "Investors Worry About Mounting Debt — 7 S&P 500 Companies Owe Most",
+      "publisher": "Yahoo",
+      "date": "2026-04-28",
+      "impact": "medium",
+      "category": "財務風險",
+      "reason": "企業債務負擔與政府債務警告，可能在利率維持高檔時侵蝕企業獲利，進而影響 S&P 500 成分股表現。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "VTI or VOO: Which Vanguard ETF Should You Buy During a Market Sell-Off?",
+      "publisher": "Yahoo",
+      "date": "2026-04-29",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "此類文章為投資人提供配置建議，比較 VOO 與 VTI 的差異，對股價本身無直接影響，屬於中性教育性質。"
+    },
+    {
+      "rank": 2,
+      "title": "4 Things Every Vanguard S&P 500 ETF Investor Needs to Know",
+      "publisher": "Yahoo",
+      "date": "2026-04-29",
+      "impact": "low",
+      "category": "投資教育",
+      "reason": "針對長期投資人的基礎知識普及，不涉及市場方向判斷，對短期股價影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "April FOMC U.S. Index Levels For Dow Jones, Nasdaq And S&P 500",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-29",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場處於觀望聯準會主席鮑爾發言的盤整期，屬於正常的市場等待階段，無明確多空訊號。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

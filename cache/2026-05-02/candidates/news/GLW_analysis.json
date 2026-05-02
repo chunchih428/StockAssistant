@@ -1,0 +1,102 @@
+{
+  "ticker": "GLW",
+  "company": "Corning Incorporated",
+  "analysis_date": "2026-05-02",
+  "source_file": "cache/2026-05-02/candidates/news/GLW.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 8,
+    "bearish_count": 5,
+    "neutral_count": 7,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管 Corning 第一季財報表現優於預期且受惠於 AI 數據中心需求，但因股價先前漲幅過大，市場對第二季財測與高估值產生獲利了結賣壓。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Corning Announces Strong First-Quarter 2026 Financial Results",
+      "publisher": "Yahoo",
+      "date": "2026-04-28 11:01",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第一季營收達 43.5 億美元，年增 18%，EPS 為 0.70 美元，雙雙優於市場預期，顯示光學與太陽能業務強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "Corning (GLW), Meta (META) Break Ground on $6B Optical Cable Facility Expansion",
+      "publisher": "Yahoo",
+      "date": "2026-04-29 16:23",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "與 Meta 合作的 60 億美元光纖設施擴張計畫，強化了公司在 AI 數據中心基礎設施的長期競爭優勢。"
+    },
+    {
+      "rank": 3,
+      "title": "Corning Seen More Likely to Achieve Higher Sales Growth Over Long Term, UBS Says",
+      "publisher": "Yahoo",
+      "date": "2026-04-29 17:31",
+      "impact": "medium",
+      "category": "分析師觀點",
+      "reason": "瑞銀 (UBS) 看好公司在 AI 驅動下的長期銷售成長潛力與利潤率擴張空間。"
+    },
+    {
+      "rank": 4,
+      "title": "Corning Incorporated (GLW) Receives Rating Updates From BofA and Morgan Stanley",
+      "publisher": "Yahoo",
+      "date": "2026-04-27 05:53",
+      "impact": "medium",
+      "category": "分析師觀點",
+      "reason": "獲得美銀與摩根士丹利等大型投行正面評級，並被列為避險基金看好的熱門標的。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Corning stock falls as its story gets more complicated",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 04:37",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價在經歷約 250% 的驚人漲幅後，市場對財報後的指引感到擔憂，導致獲利了結賣壓，股價下跌。"
+    },
+    {
+      "rank": 2,
+      "title": "Jim Cramer Says “Corning Flew Too Close and Had Its Icarus Moment”",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 19:17",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名評論員 Jim Cramer 警告股價漲勢過猛，暗示短期內可能面臨修正風險。"
+    },
+    {
+      "rank": 3,
+      "title": "Corning beats estimates but stock dips on Q2 guidance",
+      "publisher": "Yahoo",
+      "date": "2026-04-28 11:40",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "儘管第一季財報亮眼，但市場對第二季的財測指引反應冷淡，導致股價在財報公布後出現下跌。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Corning Announces Quarterly Dividend",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 14:21",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "董事會宣布發放季度股利，屬於例行性財務決策，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Corning Stock A Buy At 50 Times Earnings?",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 14:05",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討 50 倍本益比是否合理，反映市場對於高估值與成長性之間的辯論，無明確方向。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
