@@ -1,0 +1,83 @@
+{
+  "ticker": "FFIV",
+  "company": "F5",
+  "analysis_date": "2026-05-03",
+  "source_file": "cache/2026-05-03/candidates/news/FFIV.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 0,
+    "neutral_count": 5,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "F5 發布強勁的 2026 財年第二季財報，營收與 EPS 雙雙優於預期，並上調全年財測，獲得多家券商調升目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "F5 Reports Second Quarter Results with 11% Revenue Growth",
+      "publisher": "Yahoo",
+      "date": "2026-04-28 20:05",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司公布 2026 財年第二季財報，營收達 8.117 億美元，年增 11%，且 EPS 達 3 美元，顯著優於市場預期，為股價上漲的核心驅動力。"
+    },
+    {
+      "rank": 2,
+      "title": "RBC Capital Maintains Outperform on F5, Raises Price Target to $375",
+      "publisher": "Benzinga",
+      "date": "2026-04-29 13:08",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "RBC Capital 基於強勁的財報表現，將目標價大幅調升至 375 美元，顯示市場對其成長動能的高度信心。"
+    },
+    {
+      "rank": 3,
+      "title": "JP Morgan Maintains Overweight on F5, Raises Price Target to $365",
+      "publisher": "Benzinga",
+      "date": "2026-04-29 16:02",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "摩根大通維持「加碼」評級，並將目標價上調至 365 美元，認可公司在系統需求與自由現金流方面的卓越表現。"
+    },
+    {
+      "rank": 4,
+      "title": "F5 Adds Anand Eswaran to its Board of Directors",
+      "publisher": "Yahoo",
+      "date": "2026-04-28 20:10",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "任命具備 AI 專業背景的 Anand Eswaran 加入董事會，有助於強化公司在 AI 領域的策略布局，市場對此正面解讀。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "F5 to Host Analyst and Investor Meeting on May 28, 2026",
+      "publisher": "Yahoo",
+      "date": "2026-04-28 22:00",
+      "impact": "low",
+      "category": "公司活動",
+      "reason": "宣布舉辦投資人會議屬於常規營運公告，對股價影響中性，主要提供市場與管理層溝通的機會。"
+    },
+    {
+      "rank": 2,
+      "title": "Needham Reiterates Hold on F5 to Hold",
+      "publisher": "Benzinga",
+      "date": "2026-04-29 08:23",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "Needham 維持「持有」評級，未隨財報利多調整觀點，顯示部分分析師對後續成長空間持保留態度。"
+    },
+    {
+      "rank": 3,
+      "title": "WAY vs. FFIV: Which Stock Should Value Investors Buy Now?",
+      "publisher": "Yahoo",
+      "date": "2026-04-28 15:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此類比較型文章屬於市場分析觀點，對個股基本面無直接影響，僅提供投資人參考。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

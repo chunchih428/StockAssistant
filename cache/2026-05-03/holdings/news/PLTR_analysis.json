@@ -1,0 +1,102 @@
+{
+  "ticker": "PLTR",
+  "company": "Palantir Technologies Inc.",
+  "analysis_date": "2026-05-03",
+  "source_file": "cache/2026-05-03/holdings/news/PLTR.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 5,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對 Palantir 即將公布的 Q1 財報充滿高度期待，AI 平台需求強勁與政府/商業合約擴張為主要利多，但高昂的本益比與分析師對估值的擔憂造成股價波動。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Oppenheimer Initiates Coverage On Palantir Technologies with Outperform Rating, Announces Price Target of $200",
+      "publisher": "Benzinga",
+      "date": "2026-04-30 06:24",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Oppenheimer 分析師 Param Singh 給予「優於大盤」評級，並設定 200 美元目標價，看好其 AI 軟體平台的高轉換成本與護城河。"
+    },
+    {
+      "rank": 2,
+      "title": "What Palantir Technologies (PLTR)'s USDA AI Modernization Deal Means For Shareholders",
+      "publisher": "Yahoo",
+      "date": "2026-05-01 12:16",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "Palantir 獲得美國農業部 (USDA) 與 Cleveland-Cliffs 的多年期合約，顯示其 AI 解決方案在政府與工業領域的滲透率持續提升。"
+    },
+    {
+      "rank": 3,
+      "title": "Palantir Expected to Deliver Robust Q1, Led by Growing Demand for AIP, Wedbush Says",
+      "publisher": "Yahoo",
+      "date": "2026-04-29 15:31",
+      "impact": "medium",
+      "category": "財報預測",
+      "reason": "Wedbush 看好 Palantir 的 AIP (人工智慧平台) 需求，預期第一季財報將展現強勁的成長動能。"
+    },
+    {
+      "rank": 4,
+      "title": "Will Top-Line Improvement Benefit Palantir in Q1 Earnings? — PLTR eyes 73.7% revenue surge",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 18:11",
+      "impact": "medium",
+      "category": "財報預測",
+      "reason": "市場預期 Palantir 第一季營收將有 73.7% 的大幅成長，反映出政府與商業部門的強勁需求。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "HSBC Downgrades Palantir Technologies to Hold, Lowers Price Target to $151",
+      "publisher": "Benzinga",
+      "date": "2026-05-01 16:03",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "匯豐分析師 Stephen Bersey 將評級從「買入」下調至「持有」，並將目標價調降至 151 美元，反映對估值過高的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Palantir Stock Drops Today: RBC Flags Valuation Stretch",
+      "publisher": "Benzinga",
+      "date": "2026-04-29 13:29",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "RBC Capital Markets 對 Palantir 的估值提出警告，認為其股價已偏離基本面，導致股價承壓。"
+    },
+    {
+      "rank": 3,
+      "title": "Palantir's AI Moment: Why Analysts Predict An 11th Straight Quarter Of Growth",
+      "publisher": "Benzinga",
+      "date": "2026-04-29 10:56",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管預期營收成長，但分析師對其高達 224 倍的本益比 (P/E) 存在嚴重分歧，限制了股價上漲空間。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Palantir Technologies Faces Q1 Test With AI Momentum in Focus",
+      "publisher": "Yahoo",
+      "date": "2026-05-01 16:13",
+      "impact": "low",
+      "category": "財報預測",
+      "reason": "市場觀望情緒濃厚，投資人等待 5 月 4 日財報公布，以確認 AI 需求是否能支撐目前的股價動能。"
+    },
+    {
+      "rank": 2,
+      "title": "$100 Invested In Palantir Technologies 10 Years Ago Would Be Worth This Much Today",
+      "publisher": "Benzinga",
+      "date": "2026-04-30 18:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此類文章為歷史回顧，對短期股價走勢無實質影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

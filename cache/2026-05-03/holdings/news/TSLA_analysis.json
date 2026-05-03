@@ -1,0 +1,129 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla",
+  "analysis_date": "2026-05-01",
+  "source_file": "cache/2026-05-01/holdings/news/TSLA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 7,
+    "bearish_count": 6,
+    "neutral_count": 7,
+    "overall_sentiment": "mixed",
+    "key_theme": "Tesla 成功啟動 Semi 卡車量產與強勁的資本支出計畫，但同時面臨自動駕駛安全監管壓力及與 OpenAI 的法律訴訟干擾。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Tesla Begins Mass Producing Semi Trucks",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 13:32",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Tesla 正式於內華達州工廠啟動 Semi 卡車量產，標誌著公司在商用電動車市場取得重大進展，預計將成為未來營收增長的新動力。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla, Inc. (TSLA) Capex to Exceed $25B in 2026, Says Morgan Stanley",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 09:53",
+      "impact": "medium",
+      "category": "財務預測",
+      "reason": "摩根士丹利預測 Tesla 2026 年資本支出將超過 250 億美元，顯示公司對未來產能擴張與 AI 基礎設施投入的堅定信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Tesla Made $573 Million in Sales From SpaceX and xAI Last Year",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 23:53",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "揭露 Tesla 與 Elon Musk 旗下其他企業（SpaceX 與 xAI）的業務往來，顯示生態系內部的協同效應帶來了 5.73 億美元的營收貢獻。"
+    },
+    {
+      "rank": 4,
+      "title": "Tesla Stock Is Outrageously Cheap. Here's Why There Could Be Another 100% in Upside Potential.",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 21:25",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析師看好 Tesla 在特定領域的潛力，認為其市值仍有巨大的成長空間，提振市場信心。"
+    },
+    {
+      "rank": 5,
+      "title": "Tesla Shares Rise Over 3% After Key Trading Signal",
+      "publisher": "Benzinga",
+      "date": "2026-04-30 15:11",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "技術面出現關鍵交易訊號，推動股價單日上漲超過 3%，反映短期買盤力道增強。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "The Dawn Project Report to Congress: Tesla's Self-Driving Software Has Been Involved in 59 Deaths",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 16:59",
+      "impact": "high",
+      "category": "法規與監管",
+      "reason": "Dawn Project 向國會提交報告，指控 Tesla 自動駕駛軟體涉及 59 起死亡事故，恐引發嚴格的監管審查與法律風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Elon Musk and Sam Altman spar ahead of court as trial enters its second day",
+      "publisher": "CNBC",
+      "date": "2026-04-28 09:58",
+      "impact": "medium",
+      "category": "法律訴訟",
+      "reason": "Elon Musk 與 OpenAI 執行長 Sam Altman 的訴訟進入審判階段，法律糾紛可能分散管理層注意力並影響公司形象。"
+    },
+    {
+      "rank": 3,
+      "title": "Forget Tesla’s Robotaxi Promises — BYD Already Has What Investors Really Want",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 13:47",
+      "impact": "medium",
+      "category": "競爭分析",
+      "reason": "市場評論指出競爭對手比亞迪（BYD）在產品交付與執行力上優於 Tesla，對 Tesla 的 Robotaxi 願景提出質疑。"
+    },
+    {
+      "rank": 4,
+      "title": "Elon Musk reportedly labels most cryptocurrencies as 'scams'",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 22:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Musk 對加密貨幣的負面評論可能影響市場對其資產配置策略的觀感，儘管對本業影響有限。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Tesla a Buy, Sell, or Hold in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 06:05",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "針對 2026 年投資策略的綜合性分析，未提供明確的買賣建議，僅反映市場觀望情緒。"
+    },
+    {
+      "rank": 2,
+      "title": "Comparative Study: Tesla And Industry Competitors In Automobiles Industry",
+      "publisher": "Benzinga",
+      "date": "2026-04-30 05:58",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "產業比較研究報告，屬於常規的市場資訊整理，對股價無直接催化作用。"
+    },
+    {
+      "rank": 3,
+      "title": "Where Will Tesla Be in 10 Years?",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 04:50",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "針對長期願景的探討，缺乏具體的短期財務影響，屬於觀點類文章。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

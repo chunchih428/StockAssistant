@@ -1,0 +1,120 @@
+{
+  "ticker": "ONDS",
+  "company": "Ondas",
+  "analysis_date": "2026-05-03",
+  "source_file": "cache/2026-05-03/holdings/news/ONDS.json",
+  "summary": {
+    "total_articles": 14,
+    "bullish_count": 4,
+    "bearish_count": 7,
+    "neutral_count": 3,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司完成 Mistral 合併案雖帶動訂單積壓成長，但市場對後續股權稀釋、高估值以及持續虧損的財務壓力感到擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ondas Merger With Mistral Recasts Role In Defense Contracts And Valuation",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 06:07",
+      "impact": "high",
+      "category": "企業併購",
+      "reason": "完成 Mistral 合併案顯著提升了公司在國防合約領域的整合能力與製造規模，為長期成長奠定基礎。"
+    },
+    {
+      "rank": 2,
+      "title": "Ondas Sees Massive Backlog Jump: Growth Signal or Execution Risk?",
+      "publisher": "Yahoo",
+      "date": "2026-04-29 13:56",
+      "impact": "medium",
+      "category": "營運展望",
+      "reason": "訂單積壓金額大幅躍升至 4.57 億美元，顯示市場對其自動化平台需求強勁，具備明確的營收成長潛力。"
+    },
+    {
+      "rank": 3,
+      "title": "Ondas Builds Multi-Domain Defense Platform Amid Demand Surge",
+      "publisher": "Yahoo",
+      "date": "2026-04-27 14:50",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "透過併購 Mistral 與 World View，公司成功建立多領域國防平台，展現出強大的市場整合與擴張執行力。"
+    },
+    {
+      "rank": 4,
+      "title": "Ondas' Explosive Revenue Growth Meets Profitability Challenges",
+      "publisher": "Yahoo",
+      "date": "2026-04-27 13:31",
+      "impact": "low",
+      "category": "財報表現",
+      "reason": "2025 年營收年增 605 % 至 5,070 萬美元，顯示核心業務規模化進展迅速。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ondas Shares Are Falling Friday: What's Driving The Action?",
+      "publisher": "Benzinga",
+      "date": "2026-05-01 10:51",
+      "impact": "high",
+      "category": "股價波動",
+      "reason": "市場對 Mistral 合併案後的二次發行股票（Secondary-share）造成的供給過剩感到恐慌，導致股價承壓。"
+    },
+    {
+      "rank": 2,
+      "title": "Jim Cramer: This Tech Stock Is A 'Winner', Snap Does Not Have Growth",
+      "publisher": "Yahoo",
+      "date": "2026-05-01 01:31",
+      "impact": "high",
+      "category": "市場評論",
+      "reason": "知名評論員 Jim Cramer 公開批評公司虧損嚴重，並對其投資價值持保留態度，對散戶信心造成負面影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Ondas Shares Slide 9% Following 2.3 Million Share Resale Filing",
+      "publisher": "Benzinga",
+      "date": "2026-04-29 10:32",
+      "impact": "medium",
+      "category": "股權結構",
+      "reason": "公司提交 230 萬股轉售申報，引發市場對股權稀釋的擔憂，導致股價單日顯著下跌。"
+    },
+    {
+      "rank": 4,
+      "title": "ONDS Stock Valuation: Is the Premium Multiple Worth the Risk?",
+      "publisher": "Yahoo",
+      "date": "2026-04-27 14:26",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "以 10.54 倍預期營收進行交易，但在持續虧損與稀釋風險下，市場質疑其高估值的合理性。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ondas to Report First Quarter 2026 Financial Results on May 14, 2026",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 12:30",
+      "impact": "low",
+      "category": "財報預告",
+      "reason": "例行性財報發布日期公告，市場將聚焦於 5 月 14 日的獲利能力改善狀況。"
+    },
+    {
+      "rank": 2,
+      "title": "Ondas Holdings (ONDS) Completes Mistral Merger",
+      "publisher": "Yahoo",
+      "date": "2026-04-29 06:30",
+      "impact": "low",
+      "category": "企業併購",
+      "reason": "確認完成併購案，屬於已預期的營運進度，對股價影響已在先前反應。"
+    },
+    {
+      "rank": 3,
+      "title": "A Look At Ondas (ONDS) Valuation As Short Term Returns Contrast With Long Term Gains",
+      "publisher": "Simply Wall St.",
+      "date": "2026-05-02 21:11",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "針對短期波動與長期潛力的綜合分析，未提供新的重大催化劑，僅為市場觀點總結。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

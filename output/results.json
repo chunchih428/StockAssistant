@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02 04:23:09",
+  "generated_at": "2026-05-03 04:47:50",
   "allocation": {
     "total_value": 370741.07499999995,
     "total_pnl": 58771.113260000006,
@@ -39,7 +39,7 @@
       },
       "current_price": 307.81,
       "analysis": "",
-      "news_count": 18
+      "news_count": 20
     },
     {
       "symbol": "CRWD",
@@ -78,7 +78,7 @@
       },
       "current_price": 44.47,
       "analysis": "",
-      "news_count": 14
+      "news_count": 11
     },
     {
       "symbol": "MSFT",
@@ -328,19 +328,6 @@
       "news_count": 3
     },
     {
-      "symbol": "AVGO",
-      "recommendation": "unknown",
-      "confidence": null,
-      "scores": {
-        "fundamental": 5,
-        "technical": 5,
-        "risk": 4
-      },
-      "current_price": 421.28,
-      "analysis": "",
-      "news_count": 20
-    },
-    {
       "symbol": "ASML",
       "recommendation": "unknown",
       "confidence": null,
@@ -352,6 +339,19 @@
       "current_price": 1427.02,
       "analysis": "",
       "news_count": 18
+    },
+    {
+      "symbol": "AVGO",
+      "recommendation": "unknown",
+      "confidence": null,
+      "scores": {
+        "fundamental": 5,
+        "technical": 5,
+        "risk": 4
+      },
+      "current_price": 421.28,
+      "analysis": "",
+      "news_count": 20
     },
     {
       "symbol": "BE",
@@ -367,28 +367,67 @@
       "news_count": 6
     },
     {
-      "symbol": "CVNA",
-      "recommendation": "unknown",
-      "confidence": null,
-      "scores": {
-        "fundamental": 4,
-        "technical": 4,
-        "risk": 2
-      },
-      "current_price": 382.6,
-      "analysis": "",
-      "news_count": 20
-    },
-    {
-      "symbol": "GLW",
+      "symbol": "CEVA",
       "recommendation": "unknown",
       "confidence": null,
       "scores": {
         "fundamental": 3,
-        "technical": 4,
+        "technical": 5,
+        "risk": 2
+      },
+      "current_price": 32.28,
+      "analysis": "",
+      "news_count": 1
+    },
+    {
+      "symbol": "CRDO",
+      "recommendation": "unknown",
+      "confidence": null,
+      "scores": {
+        "fundamental": 5,
+        "technical": 5,
+        "risk": 3
+      },
+      "current_price": 184.38,
+      "analysis": "",
+      "news_count": 3
+    },
+    {
+      "symbol": "DE",
+      "recommendation": "unknown",
+      "confidence": null,
+      "scores": {
+        "fundamental": 1,
+        "technical": 2,
         "risk": 5
       },
-      "current_price": 158.26,
+      "current_price": 577.26,
+      "analysis": "",
+      "news_count": 10
+    },
+    {
+      "symbol": "FFIV",
+      "recommendation": "unknown",
+      "confidence": null,
+      "scores": {
+        "fundamental": 4,
+        "technical": 5,
+        "risk": 3
+      },
+      "current_price": 323.2,
+      "analysis": "",
+      "news_count": 20
+    },
+    {
+      "symbol": "GEV",
+      "recommendation": "unknown",
+      "confidence": null,
+      "scores": {
+        "fundamental": 4,
+        "technical": 5,
+        "risk": 5
+      },
+      "current_price": 1062.95,
       "analysis": "",
       "news_count": 20
     },
@@ -404,6 +443,32 @@
       "current_price": 22.8,
       "analysis": "",
       "news_count": 5
+    },
+    {
+      "symbol": "JNJ",
+      "recommendation": "unknown",
+      "confidence": null,
+      "scores": {
+        "fundamental": 4,
+        "technical": 2,
+        "risk": 5
+      },
+      "current_price": 227.19,
+      "analysis": "",
+      "news_count": 20
+    },
+    {
+      "symbol": "LITE",
+      "recommendation": "unknown",
+      "confidence": null,
+      "scores": {
+        "fundamental": 3,
+        "technical": 4,
+        "risk": 4
+      },
+      "current_price": 949.93,
+      "analysis": "",
+      "news_count": 11
     },
     {
       "symbol": "NFLX",
@@ -443,19 +508,6 @@
       "current_price": 22.79,
       "analysis": "",
       "news_count": 1
-    },
-    {
-      "symbol": "ROL",
-      "recommendation": "unknown",
-      "confidence": null,
-      "scores": {
-        "fundamental": 3,
-        "technical": 3,
-        "risk": 3
-      },
-      "current_price": 54.78,
-      "analysis": "",
-      "news_count": 13
     },
     {
       "symbol": "SNPS",
@@ -1082,19 +1134,6 @@
       "news_count": 0
     },
     {
-      "symbol": "FFIV",
-      "recommendation": "unknown",
-      "confidence": null,
-      "scores": {
-        "fundamental": 4,
-        "technical": 5,
-        "risk": 3
-      },
-      "current_price": 323.2,
-      "analysis": "",
-      "news_count": 0
-    },
-    {
       "symbol": "FIX",
       "recommendation": "unknown",
       "confidence": null,
@@ -1140,7 +1179,7 @@
       "scores": {
         "fundamental": 4,
         "technical": 4,
-        "risk": 1
+        "risk": 2
       },
       "current_price": 86.76,
       "analysis": "",
@@ -1325,19 +1364,6 @@
         "risk": 1
       },
       "current_price": 6.54,
-      "analysis": "",
-      "news_count": 0
-    },
-    {
-      "symbol": "LITE",
-      "recommendation": "unknown",
-      "confidence": null,
-      "scores": {
-        "fundamental": 3,
-        "technical": 4,
-        "risk": 4
-      },
-      "current_price": 949.93,
       "analysis": "",
       "news_count": 0
     },
@@ -1946,7 +1972,7 @@
       "scores": {
         "fundamental": 3,
         "technical": 5,
-        "risk": 4
+        "risk": 5
       },
       "current_price": 55.33,
       "analysis": "",
