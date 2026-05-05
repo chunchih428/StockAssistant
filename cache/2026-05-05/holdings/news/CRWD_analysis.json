@@ -1,0 +1,111 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-05-03",
+  "source_file": "cache/2026-05-03/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 1,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "CrowdStrike 憑藉 AI 網路安全技術的領先地位與 Mizuho 的評級上調，持續獲得市場高度關注與機構看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Mizuho Upgrades CrowdStrike With a $520 Price Target: Is AI Security the Next Mega-Trade?",
+      "publisher": "Yahoo",
+      "date": "2026-04-27 15:00",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Mizuho 將 CrowdStrike 評級上調至「優於大盤」，並給出 520 美元目標價，主要看好其在 AI 網路安全領域的強勁需求與成長動能。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike Puts Claude Opus 4.7 to Work Across the Falcon Platform and Project QuiltWorks",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 17:21",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "公司宣布將 Claude Opus 4.7 整合至 Falcon 平台並啟動 Project QuiltWorks，展現其在 AI 驅動安全防禦技術的持續創新與領先地位。"
+    },
+    {
+      "rank": 3,
+      "title": "Armadin Announces Partnership with CrowdStrike to Defend Against AI Hyperattacks",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 13:00",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 Armadin 建立策略合作夥伴關係，共同防禦 AI 驅動的進階攻擊，有助於擴大其在高端安全市場的影響力。"
+    },
+    {
+      "rank": 4,
+      "title": "CrowdStrike Named a Frost Radar™ Leader in Cloud Native Application Protection Platforms for the Fourth Consecutive Time",
+      "publisher": "Yahoo",
+      "date": "2026-04-27 11:54",
+      "impact": "medium",
+      "category": "市場地位",
+      "reason": "連續第四次被 Frost Radar™ 評選為雲端原生應用保護平台領導者，強化了其在雲端安全領域的技術護城河。"
+    },
+    {
+      "rank": 5,
+      "title": "Assessing Dicker Data’s Valuation After New CrowdStrike AI Cybersecurity Partnership In Asia Pacific",
+      "publisher": "Yahoo",
+      "date": "2026-05-02 01:16",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "透過與 Dicker Data 的合作擴展亞太地區 Managed Security Service Provider 計畫，顯示公司正積極拓展國際市場營收來源。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike Holdings (CRWD) Stock Sinks As Market Gains: Here's Why",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價在市場整體上漲時出現 1.43% 的小幅回調，屬於短期獲利了結或技術性修正，並非基本面惡化。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "CNBC Reporter Seema Mody Posts On X: WH meeting today on #Mythos included Policy heads from Microsoft, Red Hat, Amazon, Google, CrowdStrike, Palo Alto, Goldman Sachs and JP Morgan",
+      "publisher": "Benzinga",
+      "date": "2026-04-28 17:41",
+      "impact": "low",
+      "category": "法規與政策",
+      "reason": "參與白宮關於 AI 模型 Mythos 的政策討論，雖顯示公司在產業政策制定中的重要性，但目前尚未達成具體結論，影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Jim Cramer Shares CrowdStrike’s (CRWD) Dilemma",
+      "publisher": "Yahoo",
+      "date": "2026-05-02 06:09",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "Jim Cramer 討論 CrowdStrike 面臨的市場兩難，屬於市場分析觀點，未對公司營運產生實質影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Investors Heavily Search CrowdStrike (CRWD): Here is What You Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-04-27 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅反映投資人搜尋熱度增加，屬於市場關注度指標，不直接影響股價趨勢。"
+    },
+    {
+      "rank": 4,
+      "title": "If You Invested $100 In CrowdStrike Holdings Stock 5 Years Ago, You Would Have This Much Today",
+      "publisher": "Benzinga",
+      "date": "2026-04-30 10:15",
+      "impact": "low",
+      "category": "歷史回顧",
+      "reason": "回顧性投資績效分析，對當前股價走勢無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

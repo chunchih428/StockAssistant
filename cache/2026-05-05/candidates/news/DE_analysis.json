@@ -1,0 +1,84 @@
+{
+  "ticker": "DE",
+  "company": "Deere & Company",
+  "analysis_date": "2026-05-03",
+  "source_file": "cache/2026-05-03/candidates/news/DE.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司宣布任命 Brent Norwood 為新任 CFO，同時市場持續關注其科技轉型策略與獲利前景。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Assessing Deere’s (DE) Valuation As Tech Pivot And Higher Profit Guidance Take Shape",
+      "publisher": "Yahoo",
+      "date": "2026-04-28 05:04",
+      "impact": "high",
+      "category": "公司策略",
+      "reason": "Deere 積極推動 Smart Industrial 平台轉型，且獲利指引上調，顯示其在農業科技領域的競爭力與成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Deere & Company (DE) A Good Stock To Buy Now?",
+      "publisher": "Yahoo",
+      "date": "2026-04-26 20:19",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "市場分析師對 Deere 的長期投資價值持正面看法，認為其基本面強勁，值得投資人關注。"
+    },
+    {
+      "rank": 3,
+      "title": "Deere & Company Board Elects Brent Norwood as Chief Financial Officer",
+      "publisher": "Yahoo",
+      "date": "2026-05-01 10:00",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "公司宣布任命 Brent Norwood 為新任 CFO，此舉有助於穩定財務領導層，並延續公司既定的財務策略。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Deere (DE) Stock Slides as Market Rises: Facts to Know Before You Trade",
+      "publisher": "Yahoo",
+      "date": "2026-05-01 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價在市場整體上漲時出現 -1.73 % 的回調，顯示短期內可能面臨獲利了結壓力或技術性修正。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Caterpillar and Deere Hit Opposite Cycle Peaks: One Rides Momentum, One Hunts Value",
+      "publisher": "Yahoo",
+      "date": "2026-04-27 19:06",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "將 Deere 與 Caterpillar 進行週期性比較，分析兩者在不同市場環境下的表現差異，屬中性產業觀察。"
+    },
+    {
+      "rank": 2,
+      "title": "Deere & Company (DE) Is a Trending Stock: Facts to Know Before Betting on It",
+      "publisher": "Yahoo",
+      "date": "2026-04-28 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅反映該股票在 Zacks.com 上的熱度上升，並未提供具體的買賣建議或基本面變動資訊。"
+    },
+    {
+      "rank": 3,
+      "title": "Is It Too Late To Consider Deere (DE) After Its Strong Year To Date Rally?",
+      "publisher": "Yahoo",
+      "date": "2026-04-28 15:06",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "探討股價在年初強勁上漲後的估值合理性，屬於投資人常見的風險評估，無明確多空導向。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

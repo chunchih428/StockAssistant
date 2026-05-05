@@ -1,0 +1,83 @@
+{
+  "ticker": "PWR",
+  "company": "Quanta Services",
+  "analysis_date": "2026-05-05",
+  "source_file": "cache/2026-05-05/holdings/news/PWR.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 18,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "受惠於強勁的資料中心與公用事業需求，Quanta Services 第一季財報表現亮眼並上調全年展望，引發多家券商同步調升目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "PWR Q1 Earnings Top Estimates on Strong Execution, 2026 View Raised",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 16:47",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第一季營收與獲利均大幅超越市場預期，且因資料中心與公用事業需求強勁，管理層上調了 2026 年全年財務指引，為股價提供強大支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Citigroup Maintains Buy on Quanta Services, Raises Price Target to $837",
+      "publisher": "Benzinga",
+      "date": "2026-05-01 15:04",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "花旗銀行維持買進評級並將目標價調升至 837 美元，反映了市場對公司在基礎設施領域長期成長潛力的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Goldman Sachs Maintains Buy on Quanta Services, Raises Price Target to $826",
+      "publisher": "Benzinga",
+      "date": "2026-05-04 14:01",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "高盛分析師 Atidrip Modak 調升目標價至 826 美元，顯示華爾街對公司執行力與市場份額擴張的認可。"
+    },
+    {
+      "rank": 4,
+      "title": "These 3 Earnings Reports Show AI Stocks Still Rock. Firm's Data Center Orders Soar 500%.",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 17:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出 Quanta 的資料中心訂單激增 500%，突顯公司在 AI 基礎設施建設浪潮中的核心受惠地位。"
+    },
+    {
+      "rank": 5,
+      "title": "Jim Cramer on Quanta Services: “It’s Been Worth Owning”",
+      "publisher": "Yahoo",
+      "date": "2026-05-03 15:51",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "知名財經評論員 Jim Cramer 公開看好公司在 AI 基礎設施領域的表現，增強了散戶投資人的信心。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "'Fast Money' traders share their charts of the week",
+      "publisher": "CNBC",
+      "date": "2026-05-01 18:17",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為技術面分析與盤面觀察，未涉及公司基本面變動，對股價影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Quanta Services (PWR) Valuation Check After Strong Multi Year Share Price Performance",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 15:09",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章探討公司長期股價表現後的估值合理性，提醒投資人關注漲多後的風險，屬於中性的市場分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

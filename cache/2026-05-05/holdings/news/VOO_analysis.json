@@ -1,0 +1,201 @@
+{
+  "ticker": "VOO",
+  "company": "S&P 500",
+  "analysis_date": "2026-05-05",
+  "source_file": "cache/2026-05-05/holdings/news/VOO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 7,
+    "bearish_count": 6,
+    "neutral_count": 7,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場在強勁的企業獲利與資金流入支撐下創下新高，但地緣政治緊張局勢與高估值引發了投資人對短期回調的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "S&P 500 ETFs Draw Massive Inflows Last Week As IVV, VOO, SPY Lead",
+      "publisher": "Benzinga",
+      "date": "2026-05-04 00:45",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "資金持續大規模流入 VOO 等標普 500 指數型 ETF，顯示機構與散戶投資人對該指數的長期信心依然強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "Stock Market Today: Apple Earnings Power S&P 500, Nasdaq To Records",
+      "publisher": "Benzinga",
+      "date": "2026-05-01 13:11",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "Apple 等大型科技股財報表現亮眼，直接推動標普 500 指數創下歷史新高，對追蹤該指數的 VOO 構成直接利多。"
+    },
+    {
+      "rank": 3,
+      "title": "S&P 500 Rises To New Highs As Iran War Moves To Investors' Rear View Mirror",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-04 09:10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場情緒從地緣政治恐慌中恢復，指數重回高點，顯示市場韌性強大。"
+    },
+    {
+      "rank": 4,
+      "title": "S&P 500 vs. Gold: Warren Buffett Said Buy One and Forget the Other",
+      "publisher": "Yahoo",
+      "date": "2026-05-01 08:50",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "引用巴菲特長期看好標普 500 指數的觀點，有助於鞏固投資人對 VOO 的長期持有信心。"
+    },
+    {
+      "rank": 5,
+      "title": "Veeva Systems To Join S&P 500, Replacing Coterra Energy: ETF Buying Wave Looms",
+      "publisher": "Benzinga",
+      "date": "2026-04-30 22:59",
+      "impact": "low",
+      "category": "指數調整",
+      "reason": "成分股調整帶來的被動式買盤將推動 ETF 資金配置，對 VOO 淨值有微幅正面影響。"
+    },
+    {
+      "rank": 6,
+      "title": "4 S&P 500 Stocks Turn $10,000 To $109,607 In Four Months",
+      "publisher": "Yahoo",
+      "date": "2026-05-01 11:42",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "強調標普 500 成分股中存在強勁成長機會，提升投資人對指數整體報酬潛力的關注。"
+    },
+    {
+      "rank": 7,
+      "title": "S&P 500 ETFs Are Still King—But Flow Data Shows A Barbell Shift Under The Surface",
+      "publisher": "Benzinga",
+      "date": "2026-05-01 13:32",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "數據顯示資金持續流向標普 500 ETF，確認了其作為核心資產的市場地位。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Stock Market Today: Oil Jumps 5%, S&P 500 Drops As Iran Strikes UAE Port",
+      "publisher": "Benzinga",
+      "date": "2026-05-04 13:34",
+      "impact": "high",
+      "category": "地緣政治",
+      "reason": "伊朗攻擊阿聯酋石油設施導致油價飆升，引發市場對通膨與經濟成長的擔憂，導致標普 500 指數下跌。"
+    },
+    {
+      "rank": 2,
+      "title": "8 Numbers That Should Concern Prudent Investors",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-03 06:20",
+      "impact": "medium",
+      "category": "總體經濟",
+      "reason": "指出 4.5% 的 PCE 通膨數據與過高的 Shiller PE 本益比，暗示市場估值過高，存在回調風險。"
+    },
+    {
+      "rank": 3,
+      "title": "The 1-Minute Market Report, May 3, 2026",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-02 22:41",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "雖然指數漲幅驚人，但報告明確警告紀錄級別的估值已達警戒水位，建議投資人保持謹慎。"
+    },
+    {
+      "rank": 4,
+      "title": "Oil Surges 6%, S&P 500 Wobbles Before Fed And Tech Earnings",
+      "publisher": "Benzinga",
+      "date": "2026-04-29 12:34",
+      "impact": "low",
+      "category": "總體經濟",
+      "reason": "聯準會決策前夕的不確定性與油價波動，導致市場出現觀望與小幅震盪。"
+    },
+    {
+      "rank": 5,
+      "title": "Dow Jones, Nasdaq And S&P 500 Intraday Outlook - Stock Markets Stumble From Renewed Iran Tensions",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-04 14:15",
+      "impact": "low",
+      "category": "地緣政治",
+      "reason": "中東緊張局勢升溫對短期市場情緒造成壓抑，導致指數盤中走勢疲軟。"
+    },
+    {
+      "rank": 6,
+      "title": "8 Microcap Stocks Pick Up A Head Of Steam For Enormous Gains",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 11:07",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "資金轉向微型股尋求超額報酬，可能導致大型權值股（標普 500）面臨資金排擠效應。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is the Vanguard S&P 500 ETF Still Worth Buying When Markets Are Down?",
+      "publisher": "Yahoo",
+      "date": "2026-05-04 19:20",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "探討市場下跌時的投資心態，屬於教育性質的投資建議，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Here's the Smartest Way to Invest in the S&P 500 in May",
+      "publisher": "Yahoo",
+      "date": "2026-05-04 14:35",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "針對不同標普 500 ETF 的比較分析，提供投資人選擇建議，不影響指數本身表現。"
+    },
+    {
+      "rank": 3,
+      "title": "Which Is the Better Vanguard Large-Cap ETF, VOOG's Focus on the S&P 500 or VONG's Russell 1000?",
+      "publisher": "Yahoo",
+      "date": "2026-05-04 14:31",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "比較不同 Vanguard ETF 的產品特性，屬於投資組合配置建議。"
+    },
+    {
+      "rank": 4,
+      "title": "VTI or VOO: Which Vanguard ETF Should You Buy During a Market Sell-Off?",
+      "publisher": "Yahoo",
+      "date": "2026-04-29 21:05",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "分析 VTI 與 VOO 的差異，幫助投資人根據風險偏好進行選擇。"
+    },
+    {
+      "rank": 5,
+      "title": "4 Things Every Vanguard S&P 500 ETF Investor Needs to Know",
+      "publisher": "Yahoo",
+      "date": "2026-04-29 13:55",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "提供 VOO 投資人的基礎知識與注意事項，屬於長期投資教育。"
+    },
+    {
+      "rank": 6,
+      "title": "SCHD As A Hedge, Not A Core: The ETF Math Behind Income Vs. Returns",
+      "publisher": "Benzinga",
+      "date": "2026-04-28 08:39",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "比較 SCHD 與 VOO 的收益與報酬差異，屬於資產配置的技術性討論。"
+    },
+    {
+      "rank": 7,
+      "title": "Here's the Smartest Way to Invest in the S&P 500 in May",
+      "publisher": "Motley Fool",
+      "date": "2026-05-04 14:35",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "與 Yahoo 報導內容重複，選此篇作為代表，主要討論投資策略與時機。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
