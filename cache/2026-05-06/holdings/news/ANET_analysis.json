@@ -1,0 +1,102 @@
+{
+  "ticker": "ANET",
+  "company": "Arista Networks",
+  "analysis_date": "2026-05-05",
+  "source_file": "cache/2026-05-05/holdings/news/ANET.json",
+  "summary": {
+    "total_articles": 19,
+    "bullish_count": 13,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場高度期待 Arista Networks 在 AI 基礎設施領域的強勁動能，儘管面臨高估值與地緣政治風險，但分析師普遍看好其財報表現。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Arista Networks' Q1 Results to Benefit From New Customers, Margin Resilience, Morgan Stanley Says",
+      "publisher": "Yahoo",
+      "date": "2026-05-01 15:32",
+      "impact": "high",
+      "category": "財報預測",
+      "reason": "摩根士丹利指出 Arista 具備新客戶增長與利潤韌性，是推動財報超預期的關鍵因素。"
+    },
+    {
+      "rank": 2,
+      "title": "Jim Cramer Says He “Would Buy Arista Networks”",
+      "publisher": "Yahoo",
+      "date": "2026-05-04 18:21",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "知名財經評論員 Jim Cramer 公開背書，增強了散戶投資人對該股在財報前夕的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "How The Arista Networks (ANET) Narrative Is Shifting With AI Data Center Expectations",
+      "publisher": "Yahoo",
+      "date": "2026-05-03 00:18",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場對 AI 資料中心需求預期提升，帶動該股公允價值估值上調至 180.33 美元。"
+    },
+    {
+      "rank": 4,
+      "title": "Arista Networks (NYSE:ANET) Scores High Growth Momentum Setup with Strong Technical and Fundamental Ratings",
+      "publisher": "ChartMill",
+      "date": "2026-05-02 10:50",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "技術面與基本面評級強勁，顯示營收與獲利加速成長的動能持續。"
+    },
+    {
+      "rank": 5,
+      "title": "3 Internet Software Stocks to Buy From a Prospering Industry",
+      "publisher": "Yahoo",
+      "date": "2026-05-04 18:53",
+      "impact": "low",
+      "category": "產業趨勢",
+      "reason": "強調 Arista 受益於 AI 基礎設施的高需求，屬於產業龍頭配置首選。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Geopolitical Tensions And AI Contract Jitters Might Change The Case For Investing In Arista Networks (ANET)",
+      "publisher": "Yahoo",
+      "date": "2026-04-29 15:07",
+      "impact": "medium",
+      "category": "市場風險",
+      "reason": "地緣政治緊張與 AI 合約不確定性，可能對半導體與科技股造成回調壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Arista Networks Q1 2026 Earnings Preview: AI Momentum Meets A High Bar",
+      "publisher": "SeekingAlpha",
+      "date": "2026-04-28 09:20",
+      "impact": "low",
+      "category": "財報預測",
+      "reason": "提醒投資人雖然 AI 動能強勁，但市場對財報預期過高，估值已處於偏高水平。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Option Volatility And Earnings Report For May 4 - 8",
+      "publisher": "Yahoo",
+      "date": "2026-05-04 11:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅列出財報發布日程與選擇權波動率，屬於中性市場資訊。"
+    },
+    {
+      "rank": 2,
+      "title": "ANET Earnings Play: Using Puts to Get Paid While You Wait",
+      "publisher": "Yahoo",
+      "date": "2026-04-29 11:00",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "提供選擇權交易策略建議，不涉及公司基本面評價。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
