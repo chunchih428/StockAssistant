@@ -1,0 +1,46 @@
+{
+  "ticker": "CEVA",
+  "company": "CEVA",
+  "analysis_date": "2026-05-07",
+  "source_file": "cache/2026-05-07/candidates/news/CEVA.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "公司憑藉強勁的技術授權業務與產品應用擴展，獲得分析師大幅調升目標價，股價動能強勁。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "UBS Maintains Buy on CEVA, Raises Price Target to $42",
+      "publisher": "Benzinga",
+      "date": "2026-05-04 16:21",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "瑞銀分析師 Natalia Winkler 將目標價從 $27 大幅調升至 $42，顯示市場對 CEVA 的長期獲利能力與技術授權模式信心顯著增強。"
+    },
+    {
+      "rank": 2,
+      "title": "Ceva (CEVA) Soars 17.2%: Is Further Upside Left in the Stock?",
+      "publisher": "Zacks",
+      "date": "2026-04-27",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日飆升 17.2 %，反映市場對公司近期業務表現的高度認可，強勁的技術面動能通常伴隨基本面利多。"
+    },
+    {
+      "rank": 3,
+      "title": "Lenovo's New ThinkPad Headset Uses Ceva Spatial Audio to Make Entertainment Content More Immersive",
+      "publisher": "Finnhub",
+      "date": "2026-05-05 07:02",
+      "impact": "medium",
+      "category": "產品合作",
+      "reason": "CEVA 的 RealSpace® 空間音訊技術成功打入 Lenovo ThinkPad 供應鏈，證明其技術在消費性電子產品中的商業化應用能力，有助於提升授權營收。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

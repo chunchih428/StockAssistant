@@ -1,0 +1,102 @@
+{
+  "ticker": "LITE",
+  "company": "Lumentum",
+  "analysis_date": "2026-05-07",
+  "source_file": "cache/2026-05-07/candidates/news/LITE.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 8,
+    "bearish_count": 7,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "Lumentum 財報表現優於預期且財測強勁，但因股價先前漲幅過大，導致財報公布後出現獲利了結賣壓。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Rosenblatt Maintains Buy on Lumentum Holdings, Raises Price Target to $1300",
+      "publisher": "Benzinga",
+      "date": "2026-05-06 08:40",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Mike Genovese 維持買進評級，並將目標價大幅調升至 1300 美元，顯示對公司在 AI 基礎設施領域的長期成長潛力深具信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Lumentum Holdings Sees Q4 Adj EPS $2.85-$3.05 vs $2.68 Est; Sees Sales $960.000M-$1.010B vs $908.331M Est",
+      "publisher": "Benzinga",
+      "date": "2026-05-05 16:08",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司給出的第四季財測（EPS 與營收）均顯著高於市場預期，反映 AI 需求帶動的強勁成長動能。"
+    },
+    {
+      "rank": 3,
+      "title": "Lumentum Holdings Q3 Adj. EPS $2.37 Beats $2.27 Estimate, Sales $808.400M Beat $804.313M Estimate",
+      "publisher": "Benzinga",
+      "date": "2026-05-05 16:04",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "第三季財報營收與每股盈餘均優於華爾街分析師預期，證明公司在光通訊市場的競爭力。"
+    },
+    {
+      "rank": 4,
+      "title": "Stifel Maintains Buy on Lumentum Holdings, Raises Price Target to $1100",
+      "publisher": "Benzinga",
+      "date": "2026-05-05 11:15",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師 Ruben Roy 將目標價從 800 美元調升至 1100 美元，反映市場對其技術領先地位的認可。"
+    },
+    {
+      "rank": 5,
+      "title": "How The Lumentum Holdings (LITE) Narrative Is Shifting With Nvidia Deal And AI Demand",
+      "publisher": "Yahoo",
+      "date": "2026-05-06 17:17",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受惠於與 Nvidia 的合作關係及 AI 需求，公司估值模型被大幅上調約 17%，顯示基本面敘事轉強。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Lumentum Earnings Paused the Stock’s Rally. Why Wall Street Isn’t Worried.",
+      "publisher": "Yahoo",
+      "date": "2026-05-06 21:17",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管財報表現良好，但因先前股價漲幅過高，導致財報公布後出現獲利了結賣壓，股價短期回調。"
+    },
+    {
+      "rank": 2,
+      "title": "Lumentum Earnings Top Estimates, Revenue Light Amid AI Data Center Boom",
+      "publisher": "Yahoo",
+      "date": "2026-05-05 21:21",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "市場對營收成長有極高期待，部分報導指出營收表現雖優於預期但仍未達部分投資人對 AI 爆發性成長的極致想像。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Lumentum Q3 Earnings Call Highlights",
+      "publisher": "Yahoo",
+      "date": "2026-05-06 01:35",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "執行長 Michael Hurlston 對第三季表現給予正面評價，屬於例行性財報說明，未提供額外市場衝擊資訊。"
+    },
+    {
+      "rank": 2,
+      "title": "Dow Jones Futures: AMD, Astera, Lumentum, Arista Lead Earnings Movers After AI-Led Rally Hits Fresh Highs",
+      "publisher": "Yahoo",
+      "date": "2026-05-05 21:38",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場盤點 AI 相關個股的財報動態，屬於客觀事實陳述，無明顯多空傾向。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

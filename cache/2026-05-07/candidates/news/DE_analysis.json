@@ -1,0 +1,66 @@
+{
+  "ticker": "DE",
+  "company": "Deere & Company",
+  "analysis_date": "2026-05-07",
+  "source_file": "cache/2026-05-07/candidates/news/DE.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司宣布任命 Brent Norwood 為新任財務長，市場對其近期股價表現與未來財報展望持正面關注。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Deere & Company Board Elects Brent Norwood as Chief Financial Officer",
+      "publisher": "Finnhub",
+      "date": "2026-05-04 07:34",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "任命 44 歲的 Brent Norwood 為新任財務長，市場通常對管理層結構穩定與新氣象持正面解讀，此篇涵蓋最完整細節，故選為代表。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Now The Time To Look At Buying Deere & Company (NYSE:DE)?",
+      "publisher": "Yahoo",
+      "date": "2026-05-04 12:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析指出 Deere & Company 近期股價成長達 12 %，顯示市場對其基本面與成長動能仍具信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Deere (DE) Stock Slides as Market Rises: Facts to Know Before You Trade",
+      "publisher": "Yahoo",
+      "date": "2026-05-01 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 -1.73 %，反映短期獲利了結賣壓或市場對特定交易時段的修正。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Deere to Announce Second Quarter 2026 Financial Results",
+      "publisher": "Yahoo",
+      "date": "2026-05-06 14:30",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "僅為例行性的財報發布日期預告，對股價無直接影響，但提醒投資人關注 5 月 21 日的財報表現。"
+    },
+    {
+      "rank": 2,
+      "title": "Is It Too Late To Consider Deere (DE) After Its Strong Year To Date Rally?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-04-28 15:06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對年初至今強勁漲幅後的估值討論，屬於中性的投資觀點分析，並未給出明確買賣建議。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

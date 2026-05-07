@@ -1,0 +1,75 @@
+{
+  "ticker": "NTAP",
+  "company": "NetApp",
+  "analysis_date": "2026-05-05",
+  "source_file": "cache/2026-05-05/holdings/news/NTAP.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "NetApp 透過與 Google Cloud 的深度 AI 整合強化了其數據服務競爭力，成為市場關注焦點。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Assessing NetApp (NTAP) Valuation After New Google Cloud AI Data Services Unveiled",
+      "publisher": "Yahoo",
+      "date": "2026-05-02 06:16",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "NetApp 在 Google Cloud Next 2026 大會上推出 AI 導向的數據服務，顯示其在雲端 AI 基礎設施領域的技術領先地位，有助於提升長期估值。"
+    },
+    {
+      "rank": 2,
+      "title": "How Deeper Google Cloud AI Integration At NetApp (NTAP) Has Changed Its Investment Story",
+      "publisher": "Yahoo",
+      "date": "2026-05-01 22:19",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "透過與 Google Cloud 的深度整合，NetApp 的投資故事已從傳統儲存轉向高成長的 AI 數據管理，吸引更多機構投資者關注。"
+    },
+    {
+      "rank": 3,
+      "title": "NetApp (NTAP) Surpasses Market Returns: Some Facts Worth Knowing",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 21:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日上漲 1.95 %，表現優於大盤，反映市場對其近期營運表現的正面情緒。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "How The NetApp (NTAP) Story Is Shifting With Memory Costs And Cautious Street Targets",
+      "publisher": "Simply Wall St.",
+      "date": "2026-04-26 16:05",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "記憶體成本上升可能壓縮毛利率，且華爾街分析師對目標價持謹慎態度，顯示市場對其獲利成長空間存在疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "TDC or NTAP: Which Is the Better Value Stock Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 15:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此類文章為價值投資比較分析，並未提供具體的利多或利空消息，僅供投資人參考估值指標。"
+    },
+    {
+      "rank": 2,
+      "title": "NetApp, Inc. (NTAP) is Attracting Investor Attention: Here is What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅指出該公司近期受到 Zacks.com 用戶關注，屬於市場熱度觀察，不涉及基本面變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
