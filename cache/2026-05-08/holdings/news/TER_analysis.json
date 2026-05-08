@@ -1,0 +1,111 @@
+{
+  "ticker": "TER",
+  "company": "Teradyne, Inc.",
+  "analysis_date": "2026-05-05",
+  "source_file": "cache/2026-05-05/holdings/news/TER.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 3,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "Teradyne 受惠於 AI 基礎設施建設帶動的強勁測試需求，儘管財報預期波動引發短期震盪，但多家投行上調評級與目標價顯示市場對其長期成長動能深具信心。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "JP Morgan Upgrades Teradyne to Overweight, Maintains Price Target to $400",
+      "publisher": "Benzinga",
+      "date": "2026-04-30 17:23",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "摩根大通分析師 Samik Chatterjee 將評級由中立上調至加碼，反映對公司在 AI 測試領域市占率擴張的看好。"
+    },
+    {
+      "rank": 2,
+      "title": "Citigroup Maintains Buy on Teradyne, Raises Price Target to $400",
+      "publisher": "Benzinga",
+      "date": "2026-04-30 14:33",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "花旗分析師 Atif Malik 維持買進評級，並將目標價大幅調升至 400 美元，顯示對公司獲利能力的樂觀預期。"
+    },
+    {
+      "rank": 3,
+      "title": "Teradyne (TER) record revenue highlights AI-related demand strength",
+      "publisher": "Yahoo",
+      "date": "2026-04-29 14:42",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "第一季營收達 12.82 億美元，年增 87%，強勁的 AI 相關需求驗證了公司作為晶片測試龍頭的競爭優勢。"
+    },
+    {
+      "rank": 4,
+      "title": "Bull of the Day: Teradyne (TER) — 70% of revenue is now AI-related",
+      "publisher": "Yahoo",
+      "date": "2026-05-04 09:20",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Zacks 將其評為每日最佳多頭標的，指出 70% 的營收來自 AI 相關業務，EPS 成長率高達 241%，成長動能強勁。"
+    },
+    {
+      "rank": 5,
+      "title": "Teradyne (TER) Acquires TestInsight to Streamline AI, Data Center Hardware Testing",
+      "publisher": "Yahoo",
+      "date": "2026-04-29 16:23",
+      "impact": "medium",
+      "category": "併購活動",
+      "reason": "收購 TestInsight 有助於優化 AI 與資料中心硬體測試流程，進一步鞏固技術護城河。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Teradyne Results Reflect Expectations Issue as AI Networking Outlook Tempered, Morgan Stanley Says",
+      "publisher": "Yahoo",
+      "date": "2026-04-30 15:56",
+      "impact": "medium",
+      "category": "分析師觀點",
+      "reason": "摩根士丹利指出公司面臨「預期落差」問題，特別是 AI 網路業務展望趨於保守，導致股價短期承壓。"
+    },
+    {
+      "rank": 2,
+      "title": "Here's Why Teradyne Stock Slumped (And Why it Could Be a Great AI Stock to Buy)",
+      "publisher": "Yahoo",
+      "date": "2026-05-03 11:12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管財報表現亮眼，但因未能完全滿足市場過高的預期，導致股價出現短期回調。"
+    },
+    {
+      "rank": 3,
+      "title": "Evercore ISI Group Maintains Outperform on Teradyne, Lowers Price Target to $370",
+      "publisher": "Benzinga",
+      "date": "2026-04-30 12:05",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "Evercore ISI 雖維持優於大盤評級，但下調目標價至 370 美元，反映對短期估值修正的謹慎態度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Stocks making the biggest moves midday: GE HealthCare Technologies, Bloom Energy, Seagate, Teradyne, & more",
+      "publisher": "CNBC",
+      "date": "2026-04-29 13:01",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為盤中熱門股的例行性報導，未提供新的基本面分析或投資建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Teradyne (TER) Q1 2026 Earnings Transcript",
+      "publisher": "Yahoo",
+      "date": "2026-04-29 16:18",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "財報會議逐字稿，提供公司營運細節，屬於資訊揭露性質，無直接多空導向。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

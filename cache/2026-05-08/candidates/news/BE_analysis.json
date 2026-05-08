@@ -1,0 +1,75 @@
+{
+  "ticker": "BE",
+  "company": "Bloom Energy Corporation",
+  "analysis_date": "2026-05-05",
+  "source_file": "cache/2026-05-05/candidates/news/BE.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 7,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "受惠於 AI 資料中心電力需求激增，Bloom Energy 憑藉強勁的 Q1 財報與 Oracle 的重大合作案，獲得分析師與市場名人的高度看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy (BE) Is Up 25.7% After Securing Oracle AI Data Center Power Deal - Has The Bull Case Changed?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-05-01",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "成功與 Oracle 簽署 AI 資料中心電力供應合約，直接驗證了公司燃料電池技術在 AI 基礎設施領域的商業價值，推動股價顯著上漲。"
+    },
+    {
+      "rank": 2,
+      "title": "These Analysts Raise Their Forecasts On Bloom Energy Following Better-Than-Expected Q1 Results",
+      "publisher": "Benzinga",
+      "date": "2026-04-29",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "Q1 營收達 7.51 億美元並優於預期，顯示公司營運效率提升，促使多家分析師上調目標價，強化市場信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Bloom Energy (BE) Price Target Increased by 14.68% to 169.30",
+      "publisher": "Fintel",
+      "date": "2026-04-28",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "目標價調升 14.68 % 至 169.30 美元，反映機構投資人對公司未來成長潛力的正面評估。"
+    },
+    {
+      "rank": 4,
+      "title": "Here’s Why Bloom Energy (BE) is Among the Stocks that Billionaire Druckenmiller and Jim Cramer Like",
+      "publisher": "Insider Monkey",
+      "date": "2026-05-02",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "獲得知名投資人 Druckenmiller 與 Jim Cramer 的公開背書，有助於提升散戶與機構投資人的持股信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "5 High-Flying Energy Stocks to Take Profits On — BE, KGS, etc.",
+      "publisher": "Benzinga",
+      "date": "2026-05-04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析師指出 BE 股價出現超買訊號，建議投資人獲利了結，屬於技術性修正建議，而非基本面惡化。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy Corporation (BE) Q1 2026 Earnings Call Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-01",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "此為財報會議逐字稿，提供公司營運細節與管理層展望，為市場提供資訊透明度，本身不具備多空傾向。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

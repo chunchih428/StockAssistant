@@ -1,0 +1,75 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-05-05",
+  "source_file": "cache/2026-05-05/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場情緒在技術面強勢創新高與總體經濟壓力（通膨、油價）帶來的回調風險之間拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Breadth Rebound Restores the Positive Trend at Month-End",
+      "publisher": "ChartMill",
+      "date": "2026-05-01 09:51",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場廣度數據顯示 QQQ 已修復短期回調並創下新高，顯示科技股動能依然強勁，選此篇作為代表是因為其明確指出指數走勢已恢復正向趨勢。"
+    },
+    {
+      "rank": 2,
+      "title": "Breadth Stays Positive, but Monday Shows Some Fatigue",
+      "publisher": "ChartMill",
+      "date": "2026-04-28 09:35",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "指出 QQQ 仍維持在關鍵短期移動平均線之上，整體趨勢保持建設性，儘管出現疲態但多頭結構未破壞。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "U.S. Stocks: This Chart Indicator Signals A Sell Now",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-01 06:02",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "分析指出 QQQ 已觸及上升通道上限，加上通膨與油價壓力，技術指標發出賣出訊號，暗示短期回調風險增加。"
+    },
+    {
+      "rank": 2,
+      "title": "Breadth Slips Beneath the Surface as Indexes Hold Near Highs",
+      "publisher": "ChartMill",
+      "date": "2026-04-30 10:18",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "雖然指數維持高檔，但內部市場廣度出現明顯減弱，暗示漲勢可能缺乏廣泛支撐，存在隱憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "QYLG: Rotation Into QQQ During The Bull Market",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-04 17:17",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "討論資金輪動至 QQQ 的現象，並比較衍生性商品策略的風險與收益，屬於中性投資觀點分析。"
+    },
+    {
+      "rank": 2,
+      "title": "CGGR Vs. QQQ: My Money Is On Tech Beating Growth",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-04 10:23",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "將 QQQ 與其他成長型 ETF 進行比較，側重於管理風格差異，對 QQQ 本身股價無直接多空影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,92 @@
+{
+  "ticker": "NVDA",
+  "company": "NVIDIA",
+  "analysis_date": "2026-05-07",
+  "source_file": "cache/2026-05-07/holdings/news/NVDA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 0,
+    "neutral_count": 5,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "NVIDIA 透過與 Corning 等多家企業建立 AI 基礎設施合作夥伴關係，持續鞏固其在 AI 生態系統中的核心領導地位。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "NVIDIA and Corning Announce Long-Term Partnership To Strengthen U.S. Manufacturing for AI Infrastructure",
+      "publisher": "Yahoo",
+      "date": "2026-05-06 11:30",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "NVIDIA 與 Corning 達成多年期合作，旨在擴大美國光纖與光學連接產能，此舉將直接解決 AI 資料中心基礎設施的瓶頸，對 NVIDIA 的長期供應鏈穩定性具有重大正面意義。"
+    },
+    {
+      "rank": 2,
+      "title": "ServiceNow And NVIDIA Project Arc Puts AI Agents At Center Stage",
+      "publisher": "Yahoo",
+      "date": "2026-05-06 19:27",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "透過與 ServiceNow 合作推出 Project Arc，NVIDIA 進一步將其 AI 運算能力延伸至企業級自動化代理市場，擴大軟體與服務端的營收潛力。"
+    },
+    {
+      "rank": 3,
+      "title": "Nvidia Is a Buy, AMD Is a Hold and Palantir Is a Sell. Here Is the Math Behind Each Call",
+      "publisher": "Yahoo",
+      "date": "2026-05-06 17:16",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師基於財務模型給予 NVIDIA 買入評級，顯示市場對其在 AI 領域的獲利能力與估值仍具高度信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Amazon's CEO Just Gave Nvidia Investors Great News",
+      "publisher": "Yahoo",
+      "date": "2026-05-06 16:53",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Amazon 的成功與擴張直接帶動對 NVIDIA 高效能晶片的需求，顯示雲端巨頭的資本支出持續支撐 NVIDIA 營收成長。"
+    },
+    {
+      "rank": 5,
+      "title": "NVIDIA Corp (NVDA) Invests in Legora. What Is It Getting?",
+      "publisher": "Yahoo",
+      "date": "2026-05-06 19:01",
+      "impact": "low",
+      "category": "投資併購",
+      "reason": "NVIDIA 進行策略性投資，顯示公司積極透過資本配置佈局新興技術領域，強化技術護城河。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Alphabet Is $230 Billion Away From Overtaking Nvidia: Will GOOGL Dethrone NVDA By June?",
+      "publisher": "Yahoo",
+      "date": "2026-05-07 00:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此報導主要討論市值排名競爭，屬於市場情緒與資金流向的觀察，對 NVIDIA 本身業務基本面無直接負面影響。"
+    },
+    {
+      "rank": 2,
+      "title": "NVIDIA’s Head of Sustainability Josh Parker Shares Insights on Impact Podcast with John Shegerian",
+      "publisher": "Yahoo",
+      "date": "2026-05-06 19:44",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "屬於企業社會責任與品牌形象宣傳，對股價短期波動影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "Simulations Plus Collaborates With Nvidia During AI Drug Modeling Push",
+      "publisher": "Benzinga",
+      "date": "2026-05-06 11:50",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "儘管與 NVIDIA 合作，但報導同時提及合作方自身存在成長動能不足的問題，對 NVIDIA 而言屬於中性偏正面的技術應用展示。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
