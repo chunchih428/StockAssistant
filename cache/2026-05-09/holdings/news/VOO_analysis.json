@@ -1,0 +1,201 @@
+{
+  "ticker": "VOO",
+  "company": "S&P 500",
+  "analysis_date": "2026-05-09",
+  "source_file": "cache/2026-05-09/holdings/news/VOO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 8,
+    "bearish_count": 5,
+    "neutral_count": 7,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管面臨地緣政治風險與通膨隱憂，強勁的企業獲利與 AI 產業動能持續推動 S&P 500 指數創下新高，吸引大量資金流入 VOO 等指數型 ETF。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "S&P 500, Nasdaq 100 Smash Records As AMD Jumps 16% On AI Hype",
+      "publisher": "Benzinga",
+      "date": "2026-05-06",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "AMD 等科技巨頭因 AI 需求強勁而大漲，帶動 S&P 500 指數創下歷史新高，直接推升 VOO 的淨值表現。"
+    },
+    {
+      "rank": 2,
+      "title": "S&P 500 ETFs Draw Massive Inflows Last Week As IVV, VOO, SPY Lead",
+      "publisher": "Benzinga",
+      "date": "2026-05-04",
+      "impact": "medium",
+      "category": "資金流向",
+      "reason": "大量資金持續流入 VOO，顯示機構與散戶投資人對追蹤 S&P 500 的被動投資策略仍具高度信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Strong April Jobs Report Keeps The S&P 500 Near Record Highs",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-08",
+      "impact": "medium",
+      "category": "總體經濟",
+      "reason": "4 月非農就業報告新增 11.5 萬人，優於預期，顯示美國經濟韌性強勁，為股市提供基本面支撐。"
+    },
+    {
+      "rank": 4,
+      "title": "10 S&P 500 Stocks Surge From The Low — You Can Still Gain From Some",
+      "publisher": "Yahoo",
+      "date": "2026-05-07",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場情緒從恐慌轉向獲利追求，部分成分股從低點反彈，有利於整體指數的廣度與穩定性。"
+    },
+    {
+      "rank": 5,
+      "title": "Should You Invest $1,000 In VOO Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-05-08",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "分析指出儘管指數處於歷史高點，但長期投資價值依然存在，鼓勵投資人持續投入。"
+    },
+    {
+      "rank": 6,
+      "title": "If the 10-Year Treasury Crosses 4.6%, Here’s What Happens to VOO and IVV",
+      "publisher": "Yahoo",
+      "date": "2026-05-07",
+      "impact": "low",
+      "category": "資金流向",
+      "reason": "預估今年美國 ETF 將有 2.1 兆美元的資金流入，VOO 作為低成本龍頭將持續受惠。"
+    },
+    {
+      "rank": 7,
+      "title": "The S&P 500 Rally Looks Broad: It Isn't",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-07",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "指出資本支出集中在資料中心與半導體領域，雖然漲勢集中，但對 VOO 的權重股構成強勁支撐。"
+    },
+    {
+      "rank": 8,
+      "title": "Dow Jones, Nasdaq And S&P 500 Intraday Outlook",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-05",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場從地緣政治緊張中快速回穩，顯示投資人逢低買進意願強烈。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Stock Market Today: Oil Jumps 5%, S&P 500 Drops As Iran Strikes UAE Port",
+      "publisher": "Benzinga",
+      "date": "2026-05-04",
+      "impact": "high",
+      "category": "地緣政治",
+      "reason": "伊朗攻擊 UAE 石油設施導致油價飆升，引發通膨擔憂，造成股市短期劇烈波動。"
+    },
+    {
+      "rank": 2,
+      "title": "Markets Silently Preparing For A 2022-Style Inflationary Shock",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-08",
+      "impact": "medium",
+      "category": "總體經濟",
+      "reason": "霍爾木茲海峽封鎖風險導致油價上漲，市場擔憂通膨重燃，且目前 22 倍的預期本益比偏高。"
+    },
+    {
+      "rank": 3,
+      "title": "Stock Market Irrationality Has A Limit",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-07",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "警告 AI 帶動的漲勢可能形成泡沫，投資人需警惕市場過熱風險。"
+    },
+    {
+      "rank": 4,
+      "title": "A Stock Market Correction Could Be Coming",
+      "publisher": "Yahoo",
+      "date": "2026-05-07",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "歷史數據顯示市場過熱後可能出現修正，提醒投資人保持風險意識。"
+    },
+    {
+      "rank": 5,
+      "title": "Is the Vanguard S&P 500 ETF Still Worth Buying When Markets Are Down?",
+      "publisher": "Yahoo",
+      "date": "2026-05-04",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "探討市場下跌時的投資心態，反映出投資人對於潛在回調的焦慮感。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "VOO vs. QQQ: Which Index Fund Is the Better Buy Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-05-08",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "比較 VOO 與 QQQ 的配置差異，屬於投資組合建議，對 VOO 本身股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "The S&P 500 Equal Weight Vs. Market Cap Weight Debate",
+      "publisher": "Benzinga",
+      "date": "2026-05-08",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "探討等權重與市值加權的優劣，屬於學術性投資討論。"
+    },
+    {
+      "rank": 3,
+      "title": "Long-Term S&P 500 Holding or Greater Liquidity? VOO vs. SPY",
+      "publisher": "Yahoo",
+      "date": "2026-05-05",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "分析 VOO 與 SPY 的流動性差異，對長期持有者而言影響有限。"
+    },
+    {
+      "rank": 4,
+      "title": "Here's the Smartest Way to Invest in the S&P 500 in May",
+      "publisher": "Yahoo",
+      "date": "2026-05-04",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "針對不同 S&P 500 ETF 的選擇建議，屬於中性市場分析。"
+    },
+    {
+      "rank": 5,
+      "title": "Which Is the Better Vanguard Large-Cap ETF, VOOG or VONG?",
+      "publisher": "Yahoo",
+      "date": "2026-05-04",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "比較 Vanguard 旗下不同大型股 ETF，與 VOO 本身無直接關聯。"
+    },
+    {
+      "rank": 6,
+      "title": "Should You Invest $1,000 In VOO Right Now? (Motley Fool)",
+      "publisher": "Motley Fool",
+      "date": "2026-05-08",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "與 Yahoo 同名文章內容重複，選定此篇作為代表，提供投資人長期持有觀點。"
+    },
+    {
+      "rank": 7,
+      "title": "VOO vs. QQQ: Which Index Fund Is the Better Buy Right Now? (Motley Fool)",
+      "publisher": "Motley Fool",
+      "date": "2026-05-08",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "與 Yahoo 同名文章內容重複，選定此篇作為代表，討論科技股權重對績效的影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

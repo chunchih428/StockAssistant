@@ -1,0 +1,102 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-05-07",
+  "source_file": "cache/2026-05-07/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 2,
+    "neutral_count": 6,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Amazon 憑藉強勁的財報表現、AI 領域的巨額資本支出布局以及物流服務平台的擴張，獲得華爾街分析師的高度看好與買進評級。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "60 Out of 65 Wall Street Analysts Say Buy Amazon. Not One Says Sell.",
+      "publisher": "Yahoo",
+      "date": "2026-05-06 13:39",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "高達 60 位分析師給予買進評級且無人建議賣出，反映出市場對 Amazon 連續五季 EPS 超預期的強勁基本面充滿信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon CEO Andy Jassy Just Made a $200 Billion Bet on AI. Here’s How He’ll Win",
+      "publisher": "Yahoo",
+      "date": "2026-05-06 17:25",
+      "impact": "high",
+      "category": "策略布局",
+      "reason": "執行長 Andy Jassy 宣布 2026 年將投入 2,000 億美元資本支出於 AI 基礎設施，展現公司在 AI 競賽中的領先野心。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon.com (AMZN) Price Target Raised by $50 Following Strong Q1 Report",
+      "publisher": "Yahoo",
+      "date": "2026-05-06 18:53",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "受惠於第一季財報表現亮眼，分析師調升目標價 50 美元，顯示獲利能力持續優於預期。"
+    },
+    {
+      "rank": 4,
+      "title": "ServiceNow hits $1 billion in AWS Marketplace transactions as enterprises rapidly adopt AI at scale",
+      "publisher": "Yahoo",
+      "date": "2026-05-06 17:00",
+      "impact": "medium",
+      "category": "合作夥伴",
+      "reason": "ServiceNow 在 AWS Marketplace 的交易額突破 10 億美元，證明 AWS 在企業級 AI 應用部署中的核心地位。"
+    },
+    {
+      "rank": 5,
+      "title": "Amazon Opens Logistics Network To Clients What It Means For Investors",
+      "publisher": "Yahoo",
+      "date": "2026-05-07 01:17",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "推出 Amazon Supply Chain Services，將物流與配送網絡開放給外部客戶，開闢新的營收成長引擎。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ignore the Amazon Trucking Noise and Buy UPS Stock for Its High Yield Near 7%",
+      "publisher": "Yahoo",
+      "date": "2026-05-06 16:39",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "雖然 Amazon 的物流擴張對 UPS 造成壓力，但該報導建議投資人關注 UPS 的高殖利率，對 Amazon 本身股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "What's Wrong With Transportation Sector? Buy These ETFs Instead",
+      "publisher": "Yahoo",
+      "date": "2026-05-06 16:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "指出 Amazon 在物流領域的破壞性競爭導致運輸類股表現疲軟，反映其市場影響力強大但引發產業波動。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "How Investors Are Reacting To Expedia Group (EXPE) Hiring Snap Veteran Derek Andersen As CFO",
+      "publisher": "Yahoo",
+      "date": "2026-05-07 00:35",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "報導提及 Expedia 聘請前 Amazon 高管擔任 CFO，僅為人才流動資訊，對 Amazon 股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "History of Amazon: From garage startup to tech titan",
+      "publisher": "Yahoo",
+      "date": "2026-05-07 00:16",
+      "impact": "low",
+      "category": "公司歷史",
+      "reason": "回顧公司發展歷程的專題報導，不涉及當前財務或營運變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
