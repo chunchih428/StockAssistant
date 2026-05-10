@@ -19,6 +19,7 @@
     "tech_score_reduce":      45,
     "tech_score_add":         55,
     "risk_score_reduce":      30,
+    "risk_score_add":         60,
     "rsi_overbought":         80,
     "rsi_oversold":           28,
     "max_portfolio_beta":      1.6,
@@ -28,6 +29,11 @@
     "max_top1_pct":           35,
     "warn_top1_pct":          25,
     "add_max_alloc_pct":      25,
+    "add_block_drawdown_pct": -10,
+    "high_leverage_debt_to_equity": 3.0,
+    "high_leverage_requires_stress": true,
+    "high_leverage_current_ratio_max": 1.0,
+    "high_leverage_fcf_margin_min": 0,
     "systemic_correction_ratio": 0.70,
     "systemic_index_drawdown": -15,
     "min_cash_pct":            5,
@@ -113,6 +119,23 @@
       "_note": "軟性（v3）：介於硬性門檻與此值之間時，信號上限壓到「觀察等候」(max_tier=WATCH，絕不壓到尚未就緒)",
       "fund_score_min": 50,
       "tech_score_min": 45
+    },
+    "buy_guards": {
+      "_note": "買入 veto gate：即使 composite 達標，若碰到低風險分、低技術分、破位/下跌、過熱動能或明顯回撤，最高只允許觀察等候",
+      "risk_score_min": 50,
+      "tech_score_min": 60,
+      "max_3mo_gain_pct": 50,
+      "min_drawdown_pct": -10,
+      "blocked_trends": ["BREAKDOWN", "DOWNTREND"]
+    },
+    "recovery_floor": {
+      "_note": "修復中最低不低於尚未就緒：避免趨勢已修復、技術/風險已可觀察的標的仍停在不予以考慮；只抬到 ⏸️，不會升成 👀 或 ✅",
+      "enabled": true,
+      "fund_score_min": 30,
+      "tech_score_min": 55,
+      "risk_score_min": 45,
+      "trends": ["RECOVERY", "UPTREND", "OVERSOLD_UPTREND"],
+      "floor_label": "⏸️  尚未就緒"
     },
     "sector_cap_for_candidate": 40,
     "sector_hard_cap": 50,

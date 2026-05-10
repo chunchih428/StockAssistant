@@ -129,9 +129,15 @@ def _make_ctx(**kwargs):
             "tech_score_reduce": 45,
             "tech_score_add": 55,
             "risk_score_reduce": 30,
+            "risk_score_add": 60,
             "rsi_overbought": 80,
             "rsi_oversold": 28,
             "add_max_alloc_pct": 25,
+            "add_block_drawdown_pct": -10,
+            "high_leverage_debt_to_equity": 3.0,
+            "high_leverage_requires_stress": False,
+            "high_leverage_current_ratio_max": 1.0,
+            "high_leverage_fcf_margin_min": 0,
         },
     }
     defaults.update(kwargs)
@@ -248,6 +254,30 @@ class TestReduceRules(unittest.TestCase):
         ctx = _make_ctx(pnl_pct=-25.0)
         self.assertIsNone(rule_warn_loss(ctx))
 
+    def test_warn_loss_not_triggers_quality_uptrend(self):
+        ctx = _make_ctx(
+            pnl_pct=-10.0,
+            fund={"fund_score": 70},
+            tech={"tech_score": 65, "trend_status": "UPTREND"},
+        )
+        self.assertIsNone(rule_warn_loss(ctx))
+
+    def test_warn_loss_heavy_not_triggers_quality_uptrend(self):
+        ctx = _make_ctx(
+            pnl_pct=-20.0,
+            fund={"fund_score": 70},
+            tech={"tech_score": 65, "trend_status": "UPTREND"},
+        )
+        self.assertIsNone(rule_warn_loss_heavy(ctx))
+
+    def test_warn_loss_quality_exemption_requires_uptrend(self):
+        ctx = _make_ctx(
+            pnl_pct=-10.0,
+            fund={"fund_score": 70},
+            tech={"tech_score": 65, "trend_status": "RECOVERY"},
+        )
+        self.assertIsNotNone(rule_warn_loss(ctx))
+
     def test_downtrend_tech_triggers(self):
         ctx = _make_ctx(tech={"trend_status": "DOWNTREND", "tech_score": 40})
         result = rule_downtrend_tech(ctx)
@@ -334,6 +364,32 @@ class TestWatchRules(unittest.TestCase):
         ctx = _make_ctx(fund={"debtToEquity": 1.5})
         self.assertIsNone(rule_high_leverage(ctx))
 
+    def test_high_leverage_requires_stress_when_enabled(self):
+        thresholds = dict(_make_ctx().thresholds)
+        thresholds["high_leverage_requires_stress"] = True
+
+        no_stress = _make_ctx(
+            fund={
+                "debtToEquity": 10.0,
+                "currentRatio": 2.0,
+                "fcf_margin": 12.0,
+                "net_debt": -100.0,
+            },
+            thresholds=thresholds,
+        )
+        self.assertIsNone(rule_high_leverage(no_stress))
+
+        with_stress = _make_ctx(
+            fund={
+                "debtToEquity": 10.0,
+                "currentRatio": 0.8,
+                "fcf_margin": 12.0,
+                "net_debt": -100.0,
+            },
+            thresholds=thresholds,
+        )
+        self.assertIsNotNone(rule_high_leverage(with_stress))
+
     def test_rev_decline_triggers(self):
         ctx = _make_ctx(fund={"revenueGrowth": -0.10})
         result = rule_rev_decline(ctx)
@@ -350,7 +406,7 @@ class TestAddRules(unittest.TestCase):
     def test_add_signal_triggers(self):
         ctx = _make_ctx(
             fund={"fund_score": 75},
-            tech={"tech_score": 62, "trend_status": "UPTREND"},
+            tech={"tech_score": 62, "risk_score": 65, "trend_status": "UPTREND"},
             alloc_pct=10.0,
         )
         result = rule_add_signal(ctx)
@@ -360,7 +416,7 @@ class TestAddRules(unittest.TestCase):
     def test_add_signal_not_triggers_low_fund(self):
         ctx = _make_ctx(
             fund={"fund_score": 50},
-            tech={"tech_score": 62, "trend_status": "UPTREND"},
+            tech={"tech_score": 62, "risk_score": 65, "trend_status": "UPTREND"},
             alloc_pct=10.0,
         )
         self.assertIsNone(rule_add_signal(ctx))
@@ -368,7 +424,7 @@ class TestAddRules(unittest.TestCase):
     def test_add_signal_not_triggers_wrong_trend(self):
         ctx = _make_ctx(
             fund={"fund_score": 75},
-            tech={"tech_score": 62, "trend_status": "DOWNTREND"},
+            tech={"tech_score": 62, "risk_score": 65, "trend_status": "DOWNTREND"},
             alloc_pct=10.0,
         )
         self.assertIsNone(rule_add_signal(ctx))
@@ -377,7 +433,7 @@ class TestAddRules(unittest.TestCase):
         # v2: add_max_alloc_pct = 25，所以 26% 不觸發
         ctx = _make_ctx(
             fund={"fund_score": 75},
-            tech={"tech_score": 62, "trend_status": "UPTREND"},
+            tech={"tech_score": 62, "risk_score": 65, "trend_status": "UPTREND"},
             alloc_pct=26.0,
         )
         self.assertIsNone(rule_add_signal(ctx))
@@ -386,12 +442,51 @@ class TestAddRules(unittest.TestCase):
         # v2: tech_score_add = 55（舊為 58），55 分應觸發
         ctx = _make_ctx(
             fund={"fund_score": 75},
-            tech={"tech_score": 55, "trend_status": "UPTREND"},
+            tech={"tech_score": 55, "risk_score": 65, "trend_status": "UPTREND"},
             alloc_pct=10.0,
         )
         result = rule_add_signal(ctx)
         self.assertIsNotNone(result)
         self.assertEqual(result.level, LEVEL_ADD)
+
+    def test_add_signal_not_triggers_low_risk(self):
+        ctx = _make_ctx(
+            fund={"fund_score": 75},
+            tech={"tech_score": 62, "risk_score": 55, "trend_status": "UPTREND"},
+            alloc_pct=10.0,
+        )
+        self.assertIsNone(rule_add_signal(ctx))
+
+    def test_add_signal_not_triggers_recovery(self):
+        ctx = _make_ctx(
+            fund={"fund_score": 75},
+            tech={"tech_score": 62, "risk_score": 65, "trend_status": "RECOVERY"},
+            alloc_pct=10.0,
+        )
+        self.assertIsNone(rule_add_signal(ctx))
+
+    def test_add_signal_not_triggers_loss_conflict(self):
+        ctx = _make_ctx(
+            fund={"fund_score": 75},
+            tech={"tech_score": 62, "risk_score": 65, "trend_status": "UPTREND"},
+            pnl_pct=-9.0,
+            alloc_pct=10.0,
+        )
+        self.assertIsNone(rule_add_signal(ctx))
+
+    def test_add_signal_not_triggers_drawdown_conflict(self):
+        ctx = _make_ctx(
+            fund={"fund_score": 75},
+            tech={
+                "tech_score": 62,
+                "risk_score": 65,
+                "trend_status": "UPTREND",
+                "current_price": 85.0,
+                "high_52w": 100.0,
+            },
+            alloc_pct=10.0,
+        )
+        self.assertIsNone(rule_add_signal(ctx))
 
     def test_oversold_add_triggers(self):
         ctx = _make_ctx(
@@ -531,6 +626,62 @@ class TestScorer(unittest.TestCase):
         cs = score_candidate("WEAK", fund, tech, config=config)
         # Even with high composite score, weak fund should degrade signal
         self.assertIn("尚未就緒", cs.signal)
+
+    def test_recovery_floor_lifts_recovering_reject_to_not_ready(self):
+        fund = {"fund_score": 33}
+        tech = {"tech_score": 55, "risk_score": 50, "trend_status": "RECOVERY"}
+        config = {"scoring_weights": {"composite_for_candidates": {}}}
+        cs = score_candidate("QCOM", fund, tech, config=config)
+        self.assertIn("尚未就緒", cs.signal)
+        self.assertIn("趨勢修復中，最低調整為尚未就緒", cs.reasons)
+
+    def test_recovery_floor_keeps_high_risk_recovery_rejected(self):
+        fund = {"fund_score": 33}
+        tech = {"tech_score": 55, "risk_score": 40, "trend_status": "RECOVERY"}
+        config = {"scoring_weights": {"composite_for_candidates": {}}}
+        cs = score_candidate("RISKY", fund, tech, config=config)
+        self.assertIn("不予以考慮", cs.signal)
+
+    def test_buy_guard_blocks_low_risk_buy_signal(self):
+        fund = {"fund_score": 85}
+        tech = {"tech_score": 74, "risk_score": 40, "trend_status": "UPTREND"}
+        config = {"scoring_weights": {"composite_for_candidates": {}}}
+        cs = score_candidate("CRDO", fund, tech, config=config)
+        self.assertIn("觀察等候", cs.signal)
+        self.assertIn("風險分數低於 50", " | ".join(cs.reasons))
+
+    def test_buy_guard_blocks_overheated_momentum_buy_signal(self):
+        fund = {"fund_score": 76}
+        tech = {
+            "tech_score": 80,
+            "risk_score": 60,
+            "trend_status": "UPTREND",
+            "change_3mo_pct": 54.9,
+        }
+        config = {"scoring_weights": {"composite_for_candidates": {}}}
+        cs = score_candidate("LITE", fund, tech, config=config)
+        self.assertIn("觀察等候", cs.signal)
+        self.assertIn("近3月漲幅超過 50%", " | ".join(cs.reasons))
+
+    def test_buy_guard_blocks_deep_drawdown_buy_signal(self):
+        fund = {"fund_score": 86, "current_price": 70}
+        tech = {
+            "tech_score": 70,
+            "risk_score": 70,
+            "trend_status": "RECOVERY",
+            "high_52w": 100,
+        }
+        config = {"scoring_weights": {"composite_for_candidates": {}}}
+        cs = score_candidate("FROG", fund, tech, config=config)
+        self.assertIn("觀察等候", cs.signal)
+        self.assertIn("改為修復觀察", " | ".join(cs.reasons))
+
+    def test_buy_guard_runs_after_hysteresis(self):
+        fund = {"fund_score": 85}
+        tech = {"tech_score": 74, "risk_score": 40, "trend_status": "UPTREND"}
+        config = {"scoring_weights": {"composite_for_candidates": {}}}
+        cs = score_candidate("CRDO", fund, tech, config=config, prev_signal="✅ 可以買入")
+        self.assertIn("觀察等候", cs.signal)
 
     def test_strong_buy_requires_upward_trend(self):
         fund = {"fund_score": 95}

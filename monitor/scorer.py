@@ -123,7 +123,11 @@ def score_candidate(
     # 買入信號分級（v3）
     signals_cfg = get_candidate_signals(config)
     signal, color, signal_reasons = _buy_signal(
-        composite, fs, ts, trend, signals_cfg,
+        composite, fs, ts, rs, trend,
+        change_3mo=change_3mo,
+        drawdown=drawdown,
+        rsi=rsi,
+        signals_cfg=signals_cfg,
         sector_alloc_pct=sector_alloc_pct,
         prev_signal=prev_signal,
     )
@@ -164,7 +168,11 @@ def _buy_signal(
     composite,
     fs,
     ts,
+    rs,
     trend,
+    change_3mo: float | None = None,
+    drawdown: float | None = None,
+    rsi: float | None = None,
     signals_cfg: dict | None = None,
     sector_alloc_pct: float | None = None,
     prev_signal: str | None = None,
@@ -174,6 +182,8 @@ def _buy_signal(
     tiers = sorted(cfg.get("tiers", []), key=lambda t: t["min_score"], reverse=True)
     disq       = cfg.get("disqualify", {})
     disq_soft  = cfg.get("disqualify_soft", {})
+    buy_guards = cfg.get("buy_guards", {})
+    recovery_floor = cfg.get("recovery_floor", {})
     hysteresis = cfg.get("hysteresis_band", 3)
     extra_reasons: list[str] = []
 
@@ -185,6 +195,7 @@ def _buy_signal(
 
     watch_tier     = _find_tier("👀")
     not_ready_tier = _find_tier("⏸️")
+    reject_tier    = _find_tier("❌")
 
     # ── 1. composite 對應 tier（純分數比較） ────────────────────
     composite_tier = None
@@ -218,6 +229,30 @@ def _buy_signal(
         if disq_tier and composite_tier["min_score"] > disq_tier["min_score"]:
             return disq_tier["label"], disq_tier["color"], extra_reasons
 
+    # ── 3b. 修復中最低不低於 ⏸️：避免成熟標的在趨勢修復後仍停留於 ❌ ──
+    # 這只會把「不予以考慮」抬到「尚未就緒」，不會升成觀察或買入。
+    if (
+        recovery_floor.get("enabled", True)
+        and reject_tier
+        and not_ready_tier
+        and composite_tier["label"] == reject_tier["label"]
+    ):
+        recovery_trends = set(recovery_floor.get("trends", TREND_UPWARD))
+        recovery_fund_min = recovery_floor.get("fund_score_min", 30)
+        recovery_tech_min = recovery_floor.get("tech_score_min", 55)
+        recovery_risk_min = recovery_floor.get("risk_score_min", 45)
+        if (
+            trend in recovery_trends
+            and (fs or 0) >= recovery_fund_min
+            and (ts or 0) >= recovery_tech_min
+            and (tech_hard <= (ts or 0))
+            and (rs is None or rs >= recovery_risk_min)
+        ):
+            floor_label = recovery_floor.get("floor_label", not_ready_tier["label"])
+            floor_tier = next((t for t in tiers if t["label"] == floor_label), not_ready_tier)
+            composite_tier = floor_tier
+            extra_reasons.append("趨勢修復中，最低調整為尚未就緒")
+
     # ── 4. 軟性 Disqualify（v3）：只壓到 👀 觀察等候，絕不壓到尚未就緒 ──
     soft_fund = disq_soft.get("fund_score_min", 50)
     soft_tech = disq_soft.get("tech_score_min", 45)
@@ -246,6 +281,30 @@ def _buy_signal(
         if prev_tier and composite_tier["min_score"] < prev_tier["min_score"]:
             if composite >= prev_tier["min_score"] - hysteresis:
                 composite_tier = prev_tier
+
+    # ── 7. 買入 veto gate：滯後機制之後再套用，避免舊 ✅ 被硬拉回來 ──
+    if watch_tier and composite_tier["min_score"] > watch_tier["min_score"]:
+        buy_risk_min = buy_guards.get("risk_score_min", 50)
+        buy_tech_min = buy_guards.get("tech_score_min", 60)
+        max_3mo_gain = buy_guards.get("max_3mo_gain_pct", 50)
+        min_drawdown = buy_guards.get("min_drawdown_pct", -10)
+        blocked_trends = set(buy_guards.get("blocked_trends", ["BREAKDOWN", "DOWNTREND"]))
+
+        guard_reasons: list[str] = []
+        if rs is not None and rs < buy_risk_min:
+            guard_reasons.append(f"⚠️風險分數低於 {buy_risk_min}，禁止買入")
+        if ts is not None and ts < buy_tech_min:
+            guard_reasons.append(f"⚠️技術分低於 {buy_tech_min}，禁止買入")
+        if trend in blocked_trends:
+            guard_reasons.append("⚠️趨勢不佳，禁止買入")
+        if change_3mo is not None and change_3mo > max_3mo_gain:
+            guard_reasons.append(f"⚠️近3月漲幅超過 {max_3mo_gain:.0f}%，改為追價觀察")
+        if drawdown is not None and drawdown < min_drawdown:
+            guard_reasons.append(f"⚠️距52w高點回撤超過 {abs(min_drawdown):.0f}%，改為修復觀察")
+
+        if guard_reasons:
+            composite_tier = watch_tier
+            extra_reasons.extend(guard_reasons)
 
     return composite_tier["label"], composite_tier["color"], extra_reasons
 

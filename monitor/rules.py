@@ -223,6 +223,15 @@ def rule_warn_loss_heavy(ctx: RuleContext) -> Alert | None:
     """v3：改為持有成本損益計算，-15% ～ -25%（建議減倉 1/2）。"""
     stop  = ctx.thresholds.get("stop_loss_cost_pct", -25)
     heavy = ctx.thresholds.get("warn_loss_heavy_pct", -15)
+    trend = ctx.tech.get("trend_status", "")
+    fs = ctx.fund.get("fund_score") or 0
+    ts = ctx.tech.get("tech_score") or 0
+
+    # 若已經翻回 UPTREND 且基本面/技術都可接受，把成本虧損視為觀察事項，
+    # 避免在修復後仍機械式減倉。
+    if trend == "UPTREND" and fs >= 65 and ts >= 60:
+        return None
+
     if ctx.pnl_pct is not None and stop < ctx.pnl_pct <= heavy:
         return Alert(LEVEL_REDUCE, "warn_loss_heavy",
                      f"從成本虧損 {ctx.pnl_pct:.1f}%（{heavy}% ～ {stop}%），建議減倉 1/2",
@@ -234,6 +243,14 @@ def rule_warn_loss_light(ctx: RuleContext) -> Alert | None:
     """v3：改為持有成本損益計算，-8% ～ -15%（建議減倉 1/4）。"""
     heavy = ctx.thresholds.get("warn_loss_heavy_pct", -15)
     light = ctx.thresholds.get("warn_loss_light_pct", -8)
+    trend = ctx.tech.get("trend_status", "")
+    fs = ctx.fund.get("fund_score") or 0
+    ts = ctx.tech.get("tech_score") or 0
+
+    # 修復中的優質標的不因成本線單一因素觸發減倉，交由 drawdown/var 等風險觀察處理。
+    if trend == "UPTREND" and fs >= 65 and ts >= 60:
+        return None
+
     if ctx.pnl_pct is not None and heavy < ctx.pnl_pct <= light:
         return Alert(LEVEL_REDUCE, "warn_loss_light",
                      f"從成本虧損 {ctx.pnl_pct:.1f}%（{light}% ～ {heavy}%），建議減倉 1/4",
@@ -364,10 +381,27 @@ def rule_var_high(ctx: RuleContext) -> Alert | None:
 @register_rule
 def rule_high_leverage(ctx: RuleContext) -> Alert | None:
     debt_eq = ctx.fund.get("debtToEquity")
-    if debt_eq is not None and debt_eq > 3.0:
+    limit = ctx.thresholds.get("high_leverage_debt_to_equity", 3.0)
+    if debt_eq is None or debt_eq <= limit:
+        return None
+
+    if ctx.thresholds.get("high_leverage_requires_stress", False):
+        current_ratio = ctx.fund.get("currentRatio")
+        fcf_margin = ctx.fund.get("fcf_margin")
+        net_debt = ctx.fund.get("net_debt")
+        stress_current_ratio = ctx.thresholds.get("high_leverage_current_ratio_max", 1.0)
+        stress_fcf_margin = ctx.thresholds.get("high_leverage_fcf_margin_min", 0)
+
+        has_liquidity_stress = current_ratio is not None and current_ratio < stress_current_ratio
+        has_cashflow_stress = fcf_margin is not None and fcf_margin < stress_fcf_margin
+        has_net_debt = net_debt is not None and net_debt > 0
+        if not (has_liquidity_stress or has_cashflow_stress or has_net_debt):
+            return None
+
+    if debt_eq is not None and debt_eq > limit:
         return Alert(LEVEL_WATCH, "high_leverage",
-                     f"負債/權益比 = {debt_eq:.1f}（>3），財務槓桿偏高",
-                     {"debtToEquity": debt_eq})
+                     f"負債/權益比 = {debt_eq:.1f}（>{limit}），財務槓桿偏高",
+                     {"debtToEquity": debt_eq, "limit": limit})
 
 
 @register_rule
@@ -385,23 +419,31 @@ def rule_rev_decline(ctx: RuleContext) -> Alert | None:
 
 @register_rule
 def rule_add_signal(ctx: RuleContext) -> Alert | None:
-    """v2：技術門檻 58→55，持倉上限 22%→25%。"""
+    """加碼訊號：只在 UPTREND、風險分足夠且沒有虧損/回撤衝突時觸發。"""
     fs = ctx.fund.get("fund_score") or 0
     ts = ctx.tech.get("tech_score") or 0
+    rs = ctx.tech.get("risk_score")
     trend = ctx.tech.get("trend_status", "")
     fs_th = ctx.thresholds.get("fund_score_add", 70)
     ts_th = ctx.thresholds.get("tech_score_add", 55)
+    rs_th = ctx.thresholds.get("risk_score_add", 60)
     max_alloc = ctx.thresholds.get("add_max_alloc_pct", 25)
+    loss_block = ctx.thresholds.get("warn_loss_light_pct", -8)
+    dd = _drawdown_from_high(ctx)
+    dd_block = ctx.thresholds.get("add_block_drawdown_pct", -10)
 
     is_quality = fs >= fs_th
     is_tech_ok = ts >= ts_th
-    is_upward  = trend in ("UPTREND", "RECOVERY", "OVERSOLD_UPTREND")
+    is_risk_ok = rs is not None and rs >= rs_th
+    is_upward  = trend == "UPTREND"
     not_full   = (ctx.alloc_pct or 100) < max_alloc
+    loss_conflict = ctx.pnl_pct is not None and ctx.pnl_pct <= loss_block
+    drawdown_conflict = dd is not None and dd <= dd_block
 
-    if is_quality and is_tech_ok and is_upward and not_full:
+    if is_quality and is_tech_ok and is_risk_ok and is_upward and not_full and not loss_conflict and not drawdown_conflict:
         return Alert(LEVEL_ADD, "add_signal",
-                     f"基本面 {int(fs)} ＋ 技術面 {int(ts)} ＋ {trend} → 可分批加碼",
-                     {"fund_score": fs, "tech_score": ts, "trend": trend, "alloc_pct": ctx.alloc_pct})
+                     f"基本面 {int(fs)} ＋ 技術面 {int(ts)} ＋ 風險 {int(rs)} ＋ {trend} → 可分批加碼",
+                     {"fund_score": fs, "tech_score": ts, "risk_score": rs, "trend": trend, "alloc_pct": ctx.alloc_pct})
 
 
 @register_rule

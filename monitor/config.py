@@ -83,6 +83,21 @@ def _default_candidate_signals() -> dict:
             "fund_score_min": 50,
             "tech_score_min": 45,
         },
+        "buy_guards": {
+            "risk_score_min": 50,
+            "tech_score_min": 60,
+            "max_3mo_gain_pct": 50,
+            "min_drawdown_pct": -10,
+            "blocked_trends": ["BREAKDOWN", "DOWNTREND"],
+        },
+        "recovery_floor": {
+            "enabled": True,
+            "fund_score_min": 30,
+            "tech_score_min": 55,
+            "risk_score_min": 45,
+            "trends": ["RECOVERY", "UPTREND", "OVERSOLD_UPTREND"],
+            "floor_label": "⏸️  尚未就緒",
+        },
         "sector_cap_for_candidate": 40,
         "hysteresis_band": 3,
     }
