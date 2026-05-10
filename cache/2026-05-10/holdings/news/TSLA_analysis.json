@@ -1,0 +1,111 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla",
+  "analysis_date": "2026-05-09",
+  "source_file": "cache/2026-05-09/holdings/news/TSLA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 4,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "Tesla 股價強勢反彈並突破 400 美元關卡，受惠於中國銷量成長與大型商用車訂單，儘管面臨法律訴訟與召回風險，市場對其 AI 與機器人計程車前景仍持樂觀態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Tesla Lands Record $100M Deal for 370 Semi Trucks in California",
+      "publisher": "Yahoo",
+      "date": "2026-05-08 15:25",
+      "impact": "high",
+      "category": "商業訂單",
+      "reason": "獲得 1 億美元的 Semi 卡車訂單，顯示 Tesla 在商用電動車市場的競爭力與規模化能力，為營收成長提供實質支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla China Sales Jump 36% In April As Musk-Led Company Files New Roadster Trademark",
+      "publisher": "Benzinga",
+      "date": "2026-05-08 15:21",
+      "impact": "high",
+      "category": "市場銷售",
+      "reason": "中國市場銷量年增 36 %，顯示核心市場需求強勁，且新車型商標註冊暗示未來產品線擴張潛力。"
+    },
+    {
+      "rank": 3,
+      "title": "Don’t Look Now, But Tesla Stock Is Back",
+      "publisher": "Yahoo",
+      "date": "2026-05-08 14:55",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價成功收復 400 美元心理關卡，技術面轉強吸引投資人關注，有利於維持多頭趨勢。"
+    },
+    {
+      "rank": 4,
+      "title": "Cathie Wood Sees Strong Demand for SpaceX, Tesla Robotaxis",
+      "publisher": "Yahoo",
+      "date": "2026-05-08 13:27",
+      "impact": "medium",
+      "category": "市場觀點",
+      "reason": "知名投資人 Cathie Wood 看好 Robotaxi 需求，強化市場對 Tesla 轉型為 AI 與自動駕駛科技公司的估值邏輯。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "OpenAI trial: Mother of Musk's children says he offered Altman a Tesla board seat",
+      "publisher": "CNBC",
+      "date": "2026-05-07 11:18",
+      "impact": "medium",
+      "category": "法律訴訟",
+      "reason": "與 OpenAI 的法律訴訟持續延燒，涉及公司治理與執行長個人行為，可能對品牌形象與投資人信心造成負面干擾。"
+    },
+    {
+      "rank": 2,
+      "title": "218,000 Reasons to Sell Tesla Stock in May",
+      "publisher": "Yahoo",
+      "date": "2026-05-08 11:30",
+      "impact": "low",
+      "category": "產品召回",
+      "reason": "因後視鏡頭影像問題召回 21.8 萬輛汽車，雖屬常見品質控管問題，但短期內增加營運成本與維修壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "Elon Musk's Terafab chip factory in Texas could cost up to $119 billion",
+      "publisher": "CNBC",
+      "date": "2026-05-06 13:56",
+      "impact": "low",
+      "category": "資本支出",
+      "reason": "高達 1,190 億美元的晶片工廠建設計畫引發資本支出過高的擔憂，可能對現金流造成長期壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "What Toyota’s Earnings Say About Tesla Stock",
+      "publisher": "Barrons.com",
+      "date": "2026-05-08 20:10",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "透過比較 Toyota 財報與 Tesla 股價表現，分析師認為兩者商業模式差異巨大，Tesla 已非傳統車廠，市場評價邏輯不同。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla, Inc. (TSLA) is Attracting Investor Attention: Here is What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-05-08 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場熱度與投資人關注度報告，未提供具體基本面利多或利空資訊。"
+    },
+    {
+      "rank": 3,
+      "title": "Trade Strategy For SPY, AAPL, MSFT, NVDA, GOOGL, META, And TSLA",
+      "publisher": "Benzinga",
+      "date": "2026-05-07 10:17",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "提供技術面交易策略建議，屬於市場操作層面，對公司基本面無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

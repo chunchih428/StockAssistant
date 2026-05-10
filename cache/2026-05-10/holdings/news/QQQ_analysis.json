@@ -1,0 +1,138 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-05-09",
+  "source_file": "cache/2026-05-09/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 13,
+    "bullish_count": 5,
+    "bearish_count": 2,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場資金持續湧入 QQQ，技術面維持強勢格局，儘管面臨同類 ETF 的費用競爭與策略比較，整體投資情緒仍偏向樂觀。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Nasdaq 100 ETF QQQ Records Third-Largest 21-Day Inflows Ever As Investors Rush Back Into US Stocks",
+      "publisher": "Benzinga",
+      "date": "2026-05-06 06:32",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "QQQ 錄得史上第三大 21 日資金淨流入，顯示機構與散戶投資人對大型科技股的強烈信心，為股價提供強大支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "What Might The Fed Do After April's Red Hot Inflation Report",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-08 13:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管通膨數據火熱，但就業市場穩健支撐了經濟軟著陸預期，推動 QQQ 創下歷史新高，市場對聯準會政策反應正面。"
+    },
+    {
+      "rank": 3,
+      "title": "Strong Breakout, Still Broadening",
+      "publisher": "ChartMill",
+      "date": "2026-05-07 09:42",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "技術面確認突破，且漲勢擴散至更廣泛的市場，顯示 QQQ 的上漲動能不僅限於少數權值股，結構性轉強。"
+    },
+    {
+      "rank": 4,
+      "title": "Musk Says 'Retirement Is Irrelevant'—But ETF Investors Are Betting Big On Retirement Anyway",
+      "publisher": "Benzinga",
+      "date": "2026-05-05 12:46",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管有市場雜音，但投資人持續將 QQQ 作為退休規劃的核心配置，顯示其作為長期投資標的的地位穩固。"
+    },
+    {
+      "rank": 5,
+      "title": "Oaktree's Howard Marks Says Passive Investing In SPY, QQQ Rose Due To This Reason",
+      "publisher": "Benzinga",
+      "date": "2026-05-05 07:42",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "知名投資人 Howard Marks 指出指數化投資的優勢，進一步強化了市場對 QQQ 等被動型 ETF 的長期持有信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Invesco NASDAQ 100 ETF’s Lower Fee Quietly Outperforms Invesco QQQ Trust for Buy-and-Hold Investors",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-05-07 21:48",
+      "impact": "medium",
+      "category": "產品比較",
+      "reason": "指出同類低費率 ETF 在長期持有下具有成本優勢，可能導致部分追求極致成本效益的投資人轉移資金。"
+    },
+    {
+      "rank": 2,
+      "title": "JEPQ: I Can't Get Bullish On This Income ETF I Used To Love",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-07 09:00",
+      "impact": "low",
+      "category": "產品比較",
+      "reason": "分析師指出部分衍生性商品策略 ETF 表現不如 QQQ，間接凸顯 QQQ 在純粹追蹤指數成長上的優勢，但同時也反映了市場對複雜策略的質疑。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "VOO vs. QQQ: Which Index Fund Is the Better Buy Right Now?",
+      "publisher": "Motley Fool",
+      "date": "2026-05-08 10:00",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "僅為投資人提供資產配置建議，比較 QQQ 與 VOO 的屬性差異，未對 QQQ 本身產生直接利多或利空影響。"
+    },
+    {
+      "rank": 2,
+      "title": "QQQ vs. IWM: Is Large-Cap Growth or Small-Cap Diversification the Better Choice for Investors?",
+      "publisher": "Motley Fool",
+      "date": "2026-05-08 03:22",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "探討大型成長股與小型股的配置選擇，屬於中性的市場分析報告。"
+    },
+    {
+      "rank": 3,
+      "title": "ROCQ: The Case For A Rotational Strategy With QQQ",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-08 18:06",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "介紹基於 QQQ 的輪動策略，屬於產品應用層面的討論，對 QQQ 本身股價無直接影響。"
+    },
+    {
+      "rank": 4,
+      "title": "Market Breadth Holds Positive, but Monday Shows the First Real Cooling in Two Weeks",
+      "publisher": "ChartMill",
+      "date": "2026-05-05 11:46",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "觀察到市場短期動能出現冷卻跡象，但整體仍維持在移動平均線之上，屬於中性的技術修正觀察。"
+    },
+    {
+      "rank": 5,
+      "title": "QYLG: Rotation Into QQQ During The Bull Market",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-04 17:17",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "討論投資人如何利用 QQQ 進行資產配置，屬於投資組合策略分析。"
+    },
+    {
+      "rank": 6,
+      "title": "CGGR Vs. QQQ: My Money Is On Tech Beating Growth",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-04 10:23",
+      "impact": "low",
+      "category": "產品比較",
+      "reason": "比較不同成長型 ETF 的管理風格，屬於投資觀點分享，對 QQQ 股價影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

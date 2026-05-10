@@ -1,0 +1,93 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-05-09",
+  "source_file": "cache/2026-05-09/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 6,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "Broadcom 與 OpenAI 之間 180 億美元晶片合作案面臨融資挑戰，引發市場對 AI 資本支出可持續性的擔憂，但同時有消息指出 Apollo 與 Blackstone 正洽談提供 350 億美元融資以緩解壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apollo, Blackstone reportedly in talks for $35B Broadcom financing deal",
+      "publisher": "Yahoo",
+      "date": "2026-05-08 18:15",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Apollo Global Management 與 Blackstone 傳出正與 Broadcom 洽談高達 350 億美元的融資方案，此舉有望解決先前市場擔憂的 180 億美元晶片合作案資金缺口，對股價具備顯著支撐作用。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom (AVGO) Launches VCF 9.1 to Accelerate Production AI in Private Clouds",
+      "publisher": "Yahoo",
+      "date": "2026-05-08 11:15",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Broadcom 推出 VCF 9.1 軟體，旨在加速私有雲中的 AI 生產力，強化其在 AI 基礎設施領域的技術競爭力與產品組合。"
+    },
+    {
+      "rank": 3,
+      "title": "Zacks Investment Ideas feature highlights: Broadcom, Taiwan Semiconductor and NVIDIA",
+      "publisher": "Yahoo",
+      "date": "2026-05-08 07:13",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析師指出 Broadcom 結合了 AI 驅動的成長潛力與穩定的股息發放，對長期投資人具有吸引力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Broadcom's OpenAI Mega AI Deal Hits $18 Billion Wall",
+      "publisher": "Benzinga",
+      "date": "2026-05-08 07:09",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "報導指出 Broadcom 與 OpenAI 的 180 億美元客製化晶片合作案面臨融資困難，導致股價波動加劇，市場擔憂 AI 資本支出的可持續性。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom shares slump as OpenAI’s $18B custom chip deal hits financing snag",
+      "publisher": "Yahoo",
+      "date": "2026-05-07 18:53",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受融資消息影響，Broadcom 股價單日下跌 4 %，反映出投資人對於大型 AI 專案執行風險的敏感度。"
+    },
+    {
+      "rank": 3,
+      "title": "Not Nvidia. Not Broadcom. Intel Is Going to Be the Biggest Winner of the Artificial Intelligence (AI) Inference Era.",
+      "publisher": "Yahoo",
+      "date": "2026-05-07 07:58",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "市場觀點認為 Intel 在 AI 推論領域的競爭力可能超越 Broadcom，對其市場份額構成潛在威脅。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "OpenAI Collaborates With Microsoft, AMD, Intel, Nvidia, Broadcom To Roll Multipath Reliable Connection Working Protocol",
+      "publisher": "Benzinga",
+      "date": "2026-05-06 10:04",
+      "impact": "low",
+      "category": "技術合作",
+      "reason": "Broadcom 參與 OpenAI 的多路徑可靠連接協議，屬於產業標準合作，對短期財務影響有限，但有助於維持生態系地位。"
+    },
+    {
+      "rank": 2,
+      "title": "Is It Too Late To Consider Broadcom (AVGO) After Its 115% One Year Rally?",
+      "publisher": "Yahoo",
+      "date": "2026-05-06 00:23",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "探討股價在一年內上漲 115 % 後的估值合理性，屬於中性的投資評估，未提供明確買賣訊號。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

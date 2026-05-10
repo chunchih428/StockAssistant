@@ -1,0 +1,84 @@
+{
+  "ticker": "LITE",
+  "company": "Lumentum",
+  "analysis_date": "2026-05-10",
+  "source_file": "cache/2026-05-10/candidates/news/LITE.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 4,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管 Lumentum 受益於 AI 與雲端需求帶動營收強勁成長並獲納入 Nasdaq-100 指數，但因財報表現未達市場極高預期導致股價短期回調。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Lumentum Holdings Inc. to Join the Nasdaq-100 Index® Beginning May 18, 2026",
+      "publisher": "Yahoo",
+      "date": "2026-05-09 00:00",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "獲納入 Nasdaq-100 指數將吸引被動資金流入，顯著提升公司市場能見度與流動性。"
+    },
+    {
+      "rank": 2,
+      "title": "Rosenblatt Maintains Buy on Lumentum Holdings, Raises Price Target to $1300",
+      "publisher": "Benzinga",
+      "date": "2026-05-06 08:40",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Mike Genovese 維持買入評級並大幅上調目標價至 $1300，顯示對公司在 AI 光學領域的長期成長潛力極具信心。"
+    },
+    {
+      "rank": 3,
+      "title": "How The Lumentum Holdings (LITE) Narrative Is Shifting With Nvidia Deal And AI Demand",
+      "publisher": "Yahoo",
+      "date": "2026-05-06 17:17",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受惠於 Nvidia 合作關係與 AI 基礎設施需求，模型估值大幅上調 17%，反映市場對其核心業務成長的認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "LITE Q3 Earnings Beat Estimates, Revenues Rise Y/Y, Shares Drop",
+      "publisher": "Yahoo",
+      "date": "2026-05-07 17:26",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "儘管財報優於預期且營收成長 90%，但因市場對其成長預期過高，導致財報公布後股價出現獲利了結賣壓。"
+    },
+    {
+      "rank": 2,
+      "title": "Applied Optoelectronics Crashes 14%, Coherent Slides 10%, Lumentum Falls 7% as Optics Trade Cools",
+      "publisher": "Yahoo",
+      "date": "2026-05-07 19:17",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "AI 光學類股整體出現降溫跡象，板塊輪動與市場情緒轉趨保守導致 LITE 股價隨同業下跌。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Barclays Maintains Equal-Weight on Lumentum Holdings, Raises Price Target to $1000",
+      "publisher": "Benzinga",
+      "date": "2026-05-07 12:37",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "Barclays 維持中立評級，僅因應市場估值調整上調目標價，對股價短期影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Lumentum Announces Upcoming Investor Events",
+      "publisher": "Yahoo",
+      "date": "2026-05-08 12:00",
+      "impact": "low",
+      "category": "公司公告",
+      "reason": "例行性的投資人活動公告，屬於公司治理與溝通範疇，對股價無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
