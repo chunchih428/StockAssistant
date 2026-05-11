@@ -1,0 +1,111 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-05-10",
+  "source_file": "cache/2026-05-10/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 13,
+    "bearish_count": 3,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "亞馬遜在 AI 領域的強勁需求與雲端業務創新持續推動市場信心，儘管面臨現金流與競爭壓力，整體成長前景仍獲分析師看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Jim Cramer Says “Amazon is Winning, and It’s Winning Big”",
+      "publisher": "Yahoo",
+      "date": "2026-05-09 18:36",
+      "impact": "high",
+      "category": "市場評論",
+      "reason": "知名財經評論員 Jim Cramer 強調亞馬遜在 AI 支出與市場競爭中處於領先地位，對股價具有顯著的正面情緒引導作用。"
+    },
+    {
+      "rank": 2,
+      "title": "Globalstar Amazon Deal And FCC Ruling Put Valuation In Sharp Focus",
+      "publisher": "Yahoo",
+      "date": "2026-05-09 18:12",
+      "impact": "high",
+      "category": "併購與合作",
+      "reason": "亞馬遜達成收購 Globalstar 的協議，此舉將強化其衛星通訊與基礎設施佈局，具備實質的戰略擴張意義。"
+    },
+    {
+      "rank": 3,
+      "title": "7 Reasons to Buy Amazon Stock Right Now",
+      "publisher": "Yahoo",
+      "date": "2026-05-09 20:20",
+      "impact": "medium",
+      "category": "投資建議",
+      "reason": "文章詳列多項基本面利多，包含雲端運算與電商市佔率優勢，強化投資人長期持有的信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Amazon.com (AMZN) Business Platform Offers Same-Day Delivery of Fresh Groceries",
+      "publisher": "Yahoo",
+      "date": "2026-05-09 14:49",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "透過 AI 優化物流效率，提供生鮮雜貨當日配送服務，有助於提升用戶黏著度與營收成長。"
+    },
+    {
+      "rank": 5,
+      "title": "Prediction: Amazon Will Outperform the S&P 500",
+      "publisher": "Yahoo",
+      "date": "2026-05-09 07:25",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "基於 2026 年的成長動能預測，亞馬遜被視為能跑贏大盤的強勢成長股。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Amazon Starts To Run Low On Cash",
+      "publisher": "Yahoo",
+      "date": "2026-05-08 13:26",
+      "impact": "medium",
+      "category": "財務狀況",
+      "reason": "針對現金流水位下降的擔憂，可能引發市場對資本支出過高或營運效率的質疑。"
+    },
+    {
+      "rank": 2,
+      "title": "SpaceX IPO Warning: Amazon Poses Real Threat",
+      "publisher": "Yahoo",
+      "date": "2026-05-09 09:25",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "雖然亞馬遜對 SpaceX 構成威脅，但此類競爭加劇可能導致衛星通訊領域的利潤率壓縮。"
+    },
+    {
+      "rank": 3,
+      "title": "Goldman Sachs dispels major misconception on Google, Amazon earnings",
+      "publisher": "Yahoo",
+      "date": "2026-05-08 19:47",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "高盛指出財報中隱藏的潛在問題，提醒投資人需關注營收數字背後的品質與成本結構。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Amazon vs. Microsoft: Which Tech Giant Looks Better After Its Earnings Report?",
+      "publisher": "Yahoo",
+      "date": "2026-05-08 19:50",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "對比亞馬遜與微軟的財報表現，屬於中性的產業比較分析，未對股價產生直接驅動。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon Prime Day 2026 is in June",
+      "publisher": "CNBC",
+      "date": "2026-05-08 17:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "關於 Prime Day 的預告與消費建議，屬於例行性行銷活動資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,120 @@
+{
+  "ticker": "NET",
+  "company": "Cloudflare",
+  "analysis_date": "2026-05-09",
+  "source_file": "cache/2026-05-09/holdings/news/NET.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 5,
+    "bearish_count": 12,
+    "neutral_count": 3,
+    "overall_sentiment": "mixed",
+    "key_theme": "Cloudflare 雖然在第一季財報表現優異並上調全年財測，但因宣布裁員 20% 以轉型「代理式 AI」策略，引發市場對成長放緩與營運結構調整的擔憂，導致股價劇烈震盪。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare Raises FY2026 Adj EPS Guidance and Sales Guidance",
+      "publisher": "Benzinga",
+      "date": "2026-05-07",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司上調 2026 全年調整後每股盈餘至 1.19 - 1.20 美元，營收預測亦同步調升，顯示核心業務動能強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "Piper Sandler Reiterates Overweight on Cloudflare, Raises Price Target to $250",
+      "publisher": "Benzinga",
+      "date": "2026-05-08",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師 James Fish 維持加碼評級並調升目標價，反映對公司長期 AI 變現能力的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "BTIG Reiterates Buy on Cloudflare, Maintains $243 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-05-08",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "BTIG 分析師 Gray Powell 維持買進評級，顯示儘管短期有裁員雜音，但基本面仍受專業機構肯定。"
+    },
+    {
+      "rank": 4,
+      "title": "Cloudflare Q1 Adj. EPS $0.25 Beats $0.23 Estimate",
+      "publisher": "Benzinga",
+      "date": "2026-05-07",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "第一季每股盈餘 0.25 美元優於市場預期的 0.23 美元，營收亦優於預期，展現獲利能力。"
+    },
+    {
+      "rank": 5,
+      "title": "Cloudflare drops eye-opening AI demand numbers after strong quarter",
+      "publisher": "TheStreet",
+      "date": "2026-05-09",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "執行長揭露 AI 需求在過去三個月內成長 600%，強調 AI 為公司歷史上最大的成長順風。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare Cuts 20% Jobs Despite Strong Q1 As It Goes 'Agentic AI-First'",
+      "publisher": "Benzinga",
+      "date": "2026-05-08",
+      "impact": "high",
+      "category": "高層異動與裁員",
+      "reason": "公司宣布裁員 1,100 人（約 20% 員工），市場解讀為營運結構調整的陣痛，導致股價盤中重挫。"
+    },
+    {
+      "rank": 2,
+      "title": "Cloudflare's slowing growth disappoints investors betting on AI boost",
+      "publisher": "Finnhub",
+      "date": "2026-05-08",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "儘管財報優於預期，但第二季營收指引未達市場高標，引發投資人對成長放緩的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Cloudflare (NYSE:NET) Stock Tanks 17% on AI-Driven Restructuring",
+      "publisher": "ChartMill",
+      "date": "2026-05-07",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價因裁員消息與財測指引不符預期而大跌 17%，顯示市場對「代理式 AI」轉型策略持保留態度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "These Stocks Are Today’s Movers: Cloudflare and Others",
+      "publisher": "Barrons.com",
+      "date": "2026-05-08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場盤點類新聞，列出 Cloudflare 為當日波動較大的個股，無額外分析觀點。"
+    },
+    {
+      "rank": 2,
+      "title": "IREN, CoreWeave, Cloudflare, Rocket Lab And SoundHound AI: Why These 5 Stocks Are On Investors' Radars Today",
+      "publisher": "Benzinga",
+      "date": "2026-05-07",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "綜合性市場觀察，提及 Cloudflare 進入投資人雷達，但未提供具體買賣建議。"
+    },
+    {
+      "rank": 3,
+      "title": "Cloudflare, Inc. (NET) Q1 2026 Earnings Call Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-08",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "提供財報會議逐字稿，為資訊揭露性質，無主觀情緒判斷。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

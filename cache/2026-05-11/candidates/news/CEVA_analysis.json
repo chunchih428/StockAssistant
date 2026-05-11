@@ -1,0 +1,47 @@
+{
+  "ticker": "CEVA",
+  "company": "CEVA",
+  "analysis_date": "2026-05-10",
+  "source_file": "cache/2026-05-10/candidates/news/CEVA.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司在空間音訊技術的商業化進展順利，獲得分析師調升目標價的正面評價，儘管部分機構對估值持保留態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "UBS Maintains Buy on CEVA, Raises Price Target to $42",
+      "publisher": "Benzinga",
+      "date": "2026-05-04 16:21",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "瑞銀 (UBS) 分析師 Natalia Winkler 將目標價從 $27 大幅調升至 $42，顯示市場對 CEVA 的技術成長潛力與獲利能力轉趨樂觀。"
+    },
+    {
+      "rank": 2,
+      "title": "Lenovo's New ThinkPad Headset Uses Ceva Spatial Audio to Make Entertainment Content More Immersive",
+      "publisher": "Finnhub",
+      "date": "2026-05-05 07:02",
+      "impact": "medium",
+      "category": "產品應用",
+      "reason": "聯想 (Lenovo) 在新款 ThinkPad 耳機中採用 CEVA 的 RealSpace® 空間音訊技術，證明其核心技術在消費電子領域的市場滲透率持續擴大。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "JP Morgan Initiates Coverage On CEVA with Neutral Rating, Announces Price Target of $30",
+      "publisher": "Benzinga",
+      "date": "2026-05-08 08:32",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "摩根大通 (JP Morgan) 分析師 Samik Chatterjee 給予中性評級與 $30 目標價，反映出儘管技術面有亮點，但機構投資人對其當前估值與市場競爭環境仍持審慎態度。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
