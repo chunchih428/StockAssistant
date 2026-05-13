@@ -178,7 +178,20 @@
       "QCOM",
       "MRVL",
       "MPWR"
-    ]
+    ],
+    "BE": [
+      "GEV",
+      "FPS",
+      "SMR",
+      "BW",
+      "NNE",
+      "NRGV",
+      "PSIX",
+      "NPWR",
+      "OPTT",
+      "CGEH"
+    ],
+    "TSLL": []
   },
   "competitors": {
     "FIX": [],
@@ -209,7 +222,6 @@
     "PPL": [],
     "NOW": [],
     "ZS": [],
-    "GEN": [],
     "RBRK": [],
     "PATH": [],
     "DLB": [],
@@ -285,7 +297,16 @@
     "AMD": [],
     "ADI": [],
     "QCOM": [],
-    "MPWR": []
+    "MPWR": [],
+    "FPS": [],
+    "SMR": [],
+    "BW": [],
+    "NNE": [],
+    "NRGV": [],
+    "PSIX": [],
+    "NPWR": [],
+    "OPTT": [],
+    "CGEH": []
   },
   "candidates": {
     "HBM": [],
@@ -293,16 +314,19 @@
     "AVGO": [],
     "RELY": [],
     "AMSC": [],
-    "BE": [],
-    "ASML": [],
     "PANW": [],
     "SNPS": [],
     "CEVA": [],
     "FFIV": [],
     "DE": [],
-    "LITE": [],
     "GEV": [],
     "CRDO": [],
-    "JNJ": []
+    "JNJ": [],
+    "DD": [],
+    "PTRN": [],
+    "FLNC": [],
+    "GEN": [],
+    "ACMR": [],
+    "FSLR": []
   }
 }
