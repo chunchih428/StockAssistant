@@ -1,0 +1,102 @@
+{
+  "ticker": "NVDA",
+  "company": "NVIDIA",
+  "analysis_date": "2026-05-14",
+  "source_file": "cache/2026-05-14/holdings/news/NVDA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 NVIDIA 即將公布的財報抱持高度樂觀預期，且受惠於 AI 基礎設施強勁需求與華爾街分析師上調目標價，股價持續創高。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "BofA Hikes Nvidia Price Target to $320 -- Calls It Top Sector Pick",
+      "publisher": "Yahoo",
+      "date": "2026-05-14 03:06",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "美國銀行 (BofA) 將目標價大幅上調至 $320，並將其列為產業首選，顯示對 AI 成長動能的強烈信心。"
+    },
+    {
+      "rank": 2,
+      "title": "NVIDIA Corporation (NVDA): One of the Best AI Stocks Poised for Robust Growth on Strategic Partnerships",
+      "publisher": "Yahoo",
+      "date": "2026-05-13 17:02",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名投資人 David Tepper 將其列為 2026 年最佳 AI 股票之一，強調其戰略合作帶來的成長潛力。"
+    },
+    {
+      "rank": 3,
+      "title": "Nvidia CEO's foundation buys $108 million of AI computing from CoreWeave, donates it to researchers",
+      "publisher": "Yahoo",
+      "date": "2026-05-13 23:57",
+      "impact": "medium",
+      "category": "企業活動",
+      "reason": "執行長黃仁勳透過基金會投入 1.08 億美元採購自家 AI 運算資源，間接強化了生態系並展現對自家技術的信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Why NVIDIA (NVDA) Is Pushing Deeper Into AI Data Center Connectivity",
+      "publisher": "Yahoo",
+      "date": "2026-05-13 10:58",
+      "impact": "medium",
+      "category": "產品與技術",
+      "reason": "公司持續深化 AI 資料中心連接技術，鞏固其作為 AI 基礎設施核心供應商的地位。"
+    },
+    {
+      "rank": 5,
+      "title": "Strong Industry Outlook Drives Weitz Large Cap Equity Fund’s Investment in NVIDIA (NVDA)",
+      "publisher": "Yahoo",
+      "date": "2026-05-13 13:12",
+      "impact": "low",
+      "category": "機構投資",
+      "reason": "大型基金管理公司 Weitz 增持 NVDA，反映機構投資人對產業前景的長期看好。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Nvidia Reports Earnings This Month, and I'm Not Buying Shares. 1 AI Stock to Buy Now Instead.",
+      "publisher": "Yahoo",
+      "date": "2026-05-14 02:31",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "分析師指出公司估值過高且面臨競爭加劇，建議投資人轉向其他 AI 標的，對短期股價漲幅持保留態度。"
+    },
+    {
+      "rank": 2,
+      "title": "As Jensen Huang Joins Trump's China Summit, Bombshell Report Claims Nvidia's China Revenue Never Went To Zero",
+      "publisher": "Yahoo",
+      "date": "2026-05-13 19:22",
+      "impact": "medium",
+      "category": "地緣政治",
+      "reason": "關於中國營收未歸零的報導可能引發監管審查風險，儘管黃仁勳參與峰會試圖改善關係，但地緣政治不確定性仍存。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Nvidia Reports Its Fiscal 2027 Q1 Earnings on May 20. Here's What to Expect.",
+      "publisher": "Yahoo",
+      "date": "2026-05-13 19:36",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "市場高度關注 5 月 20 日的財報發布，目前處於觀望階段，預期波動將隨財報結果而定。"
+    },
+    {
+      "rank": 2,
+      "title": "Nvidia CEO hopes Trump and Xi will improve two-way ties, CCTV says",
+      "publisher": "Reuters",
+      "date": "2026-05-14 04:22",
+      "impact": "low",
+      "category": "地緣政治",
+      "reason": "執行長對美中關係改善的期待屬於外交辭令，對公司基本面無直接影響，但反映了公司對地緣政治風險的重視。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

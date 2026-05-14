@@ -1,0 +1,93 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy",
+  "analysis_date": "2026-05-14",
+  "source_file": "cache/2026-05-14/holdings/news/CEG.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司 2026 年第一季財報表現亮眼，營收與獲利均優於預期，但市場對其全年財測指引持保留態度，導致股價在強勁財報後出現獲利了結賣壓。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Constellation Energy Corp (CEG) Q1 2026 Earnings Call Highlights: Strong Financial Performance",
+      "publisher": "Yahoo",
+      "date": "2026-05-12 07:04",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第一季 EPS 成長 28 %，營收激增 64 %，展現強勁的財務韌性與 AI 數據中心帶來的電力需求成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Constellation Energy (CEG) Shares Rise After Q1 Earnings and Revenue Beat Forecasts",
+      "publisher": "Yahoo",
+      "date": "2026-05-11 14:01",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "財報公布後盤前股價一度上漲超過 5 %，反映市場對其核心核能業務與擴張項目的正面認可。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Constellation Energy a Buy After Their Latest Earnings Report?",
+      "publisher": "Yahoo",
+      "date": "2026-05-11 17:12",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析指出公司已轉型為 AI 基礎設施關鍵供應商，長期成長邏輯明確，具備投資價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Constellation Energy Beats Earnings Estimates. Its Outlook Pulls the Stock Lower.",
+      "publisher": "Barrons.com",
+      "date": "2026-05-11 18:56",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "儘管財報優於預期，但公司重申的 2026 年財測指引中點略低於分析師預期，導致市場出現獲利了結賣壓。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Constellation Energy Stock Slumped by More Than 6% Today — An analyst cut his price target on the power producer.",
+      "publisher": "Yahoo",
+      "date": "2026-05-13 23:20",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師下調目標價引發市場對估值過高的擔憂，造成股價單日下跌超過 6 %。"
+    },
+    {
+      "rank": 3,
+      "title": "Constellation Energy enters 5 GW of nuclear, gas, battery capacity in PJM queue",
+      "publisher": "Yahoo",
+      "date": "2026-05-12 08:43",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出部分數據中心客戶因電網運營商 PJM 的不確定性而暫緩決策，短期內可能影響專案進度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Mizuho Maintains Neutral on Constellation Energy, Raises Price Target to $310",
+      "publisher": "Benzinga",
+      "date": "2026-05-12 08:55",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "Mizuho 維持中性評級，雖調升目標價至 310 美元，但顯示對當前股價漲幅與未來成長空間的平衡看法。"
+    },
+    {
+      "rank": 2,
+      "title": "Jim Cramer on Constellation Energy: “The Earnings Have Been Fine, It’s the Zeitgeist That Matters There”",
+      "publisher": "Yahoo",
+      "date": "2026-05-13 14:28",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "Jim Cramer 指出財報表現正常，股價波動更多受市場情緒與趨勢驅動，未給出明確買賣建議。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
