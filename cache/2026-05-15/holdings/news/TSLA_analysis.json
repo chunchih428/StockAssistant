@@ -1,0 +1,93 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla",
+  "analysis_date": "2026-05-13",
+  "source_file": "cache/2026-05-13/holdings/news/TSLA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 6,
+    "bearish_count": 8,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對 Tesla 在 AI 與機器人領域的長期增長潛力持樂觀態度，但短期面臨 Robotaxi 技術瓶頸、地緣政治風險及股價過熱的修正壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Elon Musk Sees $15 Trillion Optimus Upside — Tesla Investors Could Get A Piece For 'Free'",
+      "publisher": "Benzinga",
+      "date": "2026-05-12 14:45",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "分析師指出 Optimus 機器人與 AI 業務具備 15 兆美元的潛在價值，認為當前股價尚未完全反映這些長期成長引擎，目標價上看 500 美元。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla invests $250 million to expand Germany battery plant",
+      "publisher": "Yahoo",
+      "date": "2026-05-12 13:57",
+      "impact": "medium",
+      "category": "產能擴張",
+      "reason": "Tesla 宣布投資 2.5 億美元擴建德國 Gruenheide 工廠，將電池年產能從 8 GWh 提升至 18 GWh，顯示公司持續強化歐洲市場的垂直整合能力。"
+    },
+    {
+      "rank": 3,
+      "title": "Tesla China Sales Jump as Roadster Buzz Returns",
+      "publisher": "Yahoo",
+      "date": "2026-05-12 13:40",
+      "impact": "medium",
+      "category": "銷售數據",
+      "reason": "上海超級工廠 4 月銷售數據強勁成長，配合新款 Roadster 的市場熱度，為公司核心電動車業務提供穩健的營收支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Tesla Sinks 5% as Musk Heads to China: Robotaxi Glitches, Battery Delays Test Investor Patience",
+      "publisher": "Yahoo",
+      "date": "2026-05-12 17:15",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價單日下跌 5%，主要受 Robotaxi 技術故障與電池生產延遲影響，投資人對 Musk 的執行力產生疑慮，且股價處於高檔面臨獲利了結壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla's plans for Robotaxi dominance hit major snag in Austin",
+      "publisher": "Yahoo",
+      "date": "2026-05-12 19:37",
+      "impact": "medium",
+      "category": "產品研發",
+      "reason": "Robotaxi 在奧斯汀的測試遭遇重大技術瓶頸，直接挑戰市場對 Tesla 實現自動駕駛商業化領導地位的預期。"
+    },
+    {
+      "rank": 3,
+      "title": "Beware: Trump’s Bull Market Might Skip Tesla This Year",
+      "publisher": "Yahoo",
+      "date": "2026-05-12 13:15",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "分析指出 Tesla 當前股價已過度反映未來預期，財務基本面尚未跟上估值，在整體市場輪動下可能面臨修正風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Trump invites Elon Musk, Tim Cook, Larry Fink and other CEOs to join China trip for Xi summit",
+      "publisher": "CNBC",
+      "date": "2026-05-11 11:54",
+      "impact": "low",
+      "category": "地緣政治",
+      "reason": "Elon Musk 受邀隨同川普訪問中國，此舉雖顯示其政商影響力，但市場對其在中國的談判結果持觀望態度，影響方向不明確。"
+    },
+    {
+      "rank": 2,
+      "title": "Former Tesla CFO Deepak Ahuja joins EV battery recycler Redwood Materials",
+      "publisher": "CNBC",
+      "date": "2026-05-11 12:00",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "前 Tesla 財務長 Deepak Ahuja 加入電池回收公司，屬於產業人才流動，對 Tesla 現行營運無直接負面或正面影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

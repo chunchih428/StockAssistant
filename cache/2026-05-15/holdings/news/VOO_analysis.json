@@ -1,0 +1,102 @@
+{
+  "ticker": "VOO",
+  "company": "S&P 500",
+  "analysis_date": "2026-05-13",
+  "source_file": "cache/2026-05-13/holdings/news/VOO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "人工智慧 驅動的企業獲利成長與市場樂觀情緒，持續推動 S&P 500 指數創下歷史新高。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Wall Street's Biggest Bull Ed Yardeni Just Got Even More Optimistic, Raising His S&P 500 Target And Warning A 'Meltup' Could Catch Investors Off Guard",
+      "publisher": "Benzinga",
+      "date": "2026-05-11 08:01",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "知名分析師 Ed Yardeni 將 S&P 500 目標價上調至 8,250 點，並預測 2029 年可達 10,000 點，強烈看好企業獲利成長帶來的市場動能。"
+    },
+    {
+      "rank": 2,
+      "title": "1 Vanguard Index Fund to Buy Before It Soars 103%, According to a Wall Street Analyst",
+      "publisher": "Yahoo",
+      "date": "2026-05-10 08:32",
+      "impact": "high",
+      "category": "投資建議",
+      "reason": "Fundstrat 分析師 Tom Lee 預測 S&P 500 將在 2030 年達到 15,000 點，對長期持有 VOO 的投資人提供極具吸引力的成長預期。"
+    },
+    {
+      "rank": 3,
+      "title": "AI-Powered Earnings Send S&P 500 To New Record Highs",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-11 11:40",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "確認 S&P 500 指數於 2026 年 5 月 8 日創下 7,398.93 點的歷史新高，反映出 AI 產業帶動的獲利基本面強勁。"
+    },
+    {
+      "rank": 4,
+      "title": "President Trump Is Fulfilling An Important Campaign Promise",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-11 11:12",
+      "impact": "medium",
+      "category": "政策影響",
+      "reason": "分析師重申對 S&P 500 的買入評級，目標價 7,778 點，認為宏觀經濟政策與企業獲利表現將持續支撐指數。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "A Stock Market Correction Could Be Coming. Here's What 100 Years of Data Says Happens Next.",
+      "publisher": "Yahoo",
+      "date": "2026-05-07 17:22",
+      "impact": "medium",
+      "category": "風險評估",
+      "reason": "指出市場估值過高（frothy），歷史數據顯示修正風險正在累積，提醒投資人需警惕短期回調。"
+    },
+    {
+      "rank": 2,
+      "title": "S&P 500 Tops 7,400 As Copper Hits Record Highs: Stock Market Today",
+      "publisher": "Benzinga",
+      "date": "2026-05-11 12:51",
+      "impact": "low",
+      "category": "地緣政治",
+      "reason": "川普拒絕伊朗和平回應導致原油價格飆升至 97 美元以上，地緣政治緊張局勢可能對市場造成短期波動壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "CGVV: An Interesting, New Value ETF Worth Watching",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-12 07:15",
+      "impact": "low",
+      "category": "競爭分析",
+      "reason": "提及 Capital Group 的價值型 ETF (CGVV) 今年表現優於 VOO，顯示在特定市場環境下，部分主動式或價值型基金可能分流資金。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "The Hidden Drag of SPY’s Outdated UIT Structure: Why VOO’s 6.45 Basis Point Fee Advantage Matters Over a Decade",
+      "publisher": "Yahoo",
+      "date": "2026-05-11 14:30",
+      "impact": "low",
+      "category": "基金比較",
+      "reason": "分析 VOO 與 SPY 的結構差異，強調 VOO 的低費率優勢，屬於長期投資的結構性分析，對短期股價影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "VOO vs. QQQ: Which Index Fund Is the Better Buy Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-05-08 10:00",
+      "impact": "low",
+      "category": "基金比較",
+      "reason": "比較 VOO 與 QQQ 的配置差異，主要討論科技股權重與 AI 成長潛力，屬於投資組合配置建議。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

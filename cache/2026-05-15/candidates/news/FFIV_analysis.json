@@ -1,0 +1,56 @@
+{
+  "ticker": "FFIV",
+  "company": "F5",
+  "analysis_date": "2026-05-13",
+  "source_file": "cache/2026-05-13/candidates/news/FFIV.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "F5 憑藉穩健的 Q2 財報表現與 AI 應用安全領域的策略合作，展現出強勁的成長潛力與市場競爭力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why F5's (NASDAQ: FFIV) Earnings Are Better Than They Seem",
+      "publisher": "Simply Wall St.",
+      "date": "2026-05-12",
+      "impact": "high",
+      "category": "財報分析",
+      "reason": "該報導深入剖析了 F5 上週發布的財報，指出其獲利品質優於市場表面預期，顯示公司在營運效率與獲利能力上具備韌性，選此篇作為代表是因為其對財報細節的解讀最具深度。"
+    },
+    {
+      "rank": 2,
+      "title": "F5 Collaborates With Red Hat to Drive Kubernetes and AI Application Security Forward",
+      "publisher": "Yahoo",
+      "date": "2026-05-11",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "F5 與 Red Hat 擴大合作，針對 Kubernetes 與 AI 應用安全提供解決方案，此舉有助於鞏固其在雲端原生安全市場的領導地位，並為未來營收成長注入動能。"
+    },
+    {
+      "rank": 3,
+      "title": "F5 (FFIV) Reports Q2 Earnings: What Key Metrics Have to Say",
+      "publisher": "Yahoo",
+      "date": "2026-05-06",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "針對 Q2 財報的關鍵指標進行量化分析，確認公司在營收與獲利表現上符合或優於市場預期，為股價提供穩固的支撐基礎。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "International Markets and F5 (FFIV): A Deep Dive for Investors",
+      "publisher": "Yahoo",
+      "date": "2026-05-06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該文章探討 F5 海外營收趨勢對華爾街預測的影響，屬於中性的產業研究報告，旨在提供投資人長期觀察視角，並無直接的利多或利空催化劑。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "LASR",
+  "company": "nLIGHT",
+  "analysis_date": "2026-05-13",
+  "source_file": "cache/2026-05-13/holdings/news/LASR.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 1,
+    "neutral_count": 4,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "公司 2026 年第一季財報表現亮眼，國防與航太業務營收翻倍成長，並推出 HADES 高功率雷射產品線，獲得分析師調升目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "nLIGHT, Inc. Announces First Quarter 2026 Results",
+      "publisher": "Finnhub",
+      "date": "2026-05-07",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "第一季營收達 8,020 萬美元，年增 55%，其中航太與國防產品營收成長 98%，EPS 0.22 美元大幅優於市場預期的 0.09 美元，展現強勁獲利能力。"
+    },
+    {
+      "rank": 2,
+      "title": "Needham Maintains Buy on nLight, Raises Price Target to $80",
+      "publisher": "Benzinga",
+      "date": "2026-05-08",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Needham 分析師 James Ricchiuti 基於公司強勁的財報表現與國防業務成長動能，將目標價由 70 美元調升至 80 美元，給予買進評級。"
+    },
+    {
+      "rank": 3,
+      "title": "NLIGHT, Inc. Launches HADES Line of Directed Energy Products",
+      "publisher": "Finnhub",
+      "date": "2026-05-07",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出 HADES 高功率雷射產品線，針對現代戰場需求進行優化，強化公司在導能武器市場的競爭優勢。"
+    },
+    {
+      "rank": 4,
+      "title": "Bull Of The Day: nLight (LASR)",
+      "publisher": "Zacks",
+      "date": "2026-05-11",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Zacks 將其評選為當日看多個股，肯定其在雷射技術領域的市場地位與成長潛力。"
+    },
+    {
+      "rank": 5,
+      "title": "LASR Q1 Deep Dive: Defense Demand and New Laser Platform Drive Outperformance",
+      "publisher": "StockStory",
+      "date": "2026-05-11",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "深入分析指出國防需求與新雷射平台是推動公司績效超越市場預期的核心驅動力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "nLIGHT (LASR) Is Down 5.2% After Q1 2026 Results and HADES Laser Launch",
+      "publisher": "Simply Wall St.",
+      "date": "2026-05-09",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管財報優異，但股價在發布後出現 5.2% 的回調，可能反映部分投資人獲利了結或對短期估值過高的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "NLIGHT, Inc. Announces Participation in Upcoming Investor Events",
+      "publisher": "Finnhub",
+      "date": "2026-05-11",
+      "impact": "low",
+      "category": "投資人關係",
+      "reason": "宣布參加 William Blair 與 Baird 的投資人會議，屬於常規的投資人關係活動，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "nLIGHT (LASR) Q1 2026 Earnings Transcript",
+      "publisher": "Motley Fool",
+      "date": "2026-05-07",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "提供財報會議逐字稿，為市場提供資訊透明度，本身不具備多空傾向。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

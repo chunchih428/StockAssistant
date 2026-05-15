@@ -1,0 +1,111 @@
+{
+  "ticker": "META",
+  "company": "Meta",
+  "analysis_date": "2026-05-13",
+  "source_file": "cache/2026-05-13/holdings/news/META.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 3,
+    "bearish_count": 14,
+    "neutral_count": 3,
+    "overall_sentiment": "bearish",
+    "key_theme": "Meta 面臨嚴峻的法律訴訟與監管壓力，特別是關於詐騙廣告獲利與歐洲出版商補償問題，儘管 AI 基礎設施投資持續擴張，但負面輿論與法律風險主導了近期市場情緒。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "DESRI and Meta Announce 850 MW of PPAs, with Partnership Totaling 2.5+ GW Across Nine States",
+      "publisher": "Yahoo",
+      "date": "2026-05-12 16:20",
+      "impact": "medium",
+      "category": "能源合作",
+      "reason": "Meta 簽署 850 MW 的再生能源購電協議，總計合作規模達 2.5 GW 以上，顯示公司在 AI 運算中心能源需求上的長期布局與執行力。"
+    },
+    {
+      "rank": 2,
+      "title": "Meta Platforms Taps Space Solar To Power Long Term AI Buildout",
+      "publisher": "Yahoo",
+      "date": "2026-05-11 16:23",
+      "impact": "low",
+      "category": "技術創新",
+      "reason": "與 Overview Energy 合作開發軌道太空太陽能，展現公司在 AI 基礎設施能源供應上的前瞻性技術探索。"
+    },
+    {
+      "rank": 3,
+      "title": "Meta Platforms (META) Seen Benefiting From AI Push, but Costs Stay in Focus",
+      "publisher": "Yahoo",
+      "date": "2026-05-11 23:56",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析師持續看好 Meta 在 AI 領域的長期機會，儘管市場對高昂的資本支出仍保持謹慎。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Meta Sued by California County Over ‘Scam’ Advertisements",
+      "publisher": "Yahoo",
+      "date": "2026-05-11 19:24",
+      "impact": "high",
+      "category": "法律訴訟",
+      "reason": "聖塔克拉拉郡指控 Meta 知情並從針對長者與家庭的詐騙廣告中獲利，此類法律訴訟可能導致鉅額罰款並損害公司商譽。選此篇作為代表，涵蓋了多篇關於詐騙廣告訴訟的報導。"
+    },
+    {
+      "rank": 2,
+      "title": "Meta loses court fight over compensation to Italian publishers",
+      "publisher": "Yahoo",
+      "date": "2026-05-12 07:59",
+      "impact": "medium",
+      "category": "法規監管",
+      "reason": "Meta 在歐洲敗訴，需遵守義大利監管機構要求，向出版商支付內容補償費用，恐增加營運成本並引發其他地區的連鎖效應。"
+    },
+    {
+      "rank": 3,
+      "title": "Meta Workers Protest Cursor Tracking Software",
+      "publisher": "Yahoo",
+      "date": "2026-05-13 02:20",
+      "impact": "low",
+      "category": "內部管理",
+      "reason": "員工抗議公司內部監控軟體，反映出企業文化與勞資關係的緊張，可能影響人才留任與內部效率。"
+    },
+    {
+      "rank": 4,
+      "title": "2026 Layoffs Tracker: Walmart, Meta and Morgan Stanley Among Firms Cutting Jobs",
+      "publisher": "The Wall Street Journal",
+      "date": "2026-05-12 22:09",
+      "impact": "low",
+      "category": "人力資源",
+      "reason": "持續的裁員消息顯示公司在 AI 轉型過程中仍需進行組織結構調整，雖有助於成本控制，但也反映出業務調整的陣痛。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Meta seeks to avoid EU fine with free WhatsApp access for rival AI chatbots",
+      "publisher": "Yahoo",
+      "date": "2026-05-12 18:43",
+      "impact": "low",
+      "category": "法規監管",
+      "reason": "Meta 試圖透過開放 WhatsApp 介面給競爭對手來規避歐盟罰款，此舉為防禦性策略，對股價影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Meta Platforms Rolling Out Additional Measures For Parents To Understand Their Teenagers Instagram Algorithms",
+      "publisher": "Benzinga",
+      "date": "2026-05-12 12:08",
+      "impact": "low",
+      "category": "產品更新",
+      "reason": "推出家長監控工具以提升透明度，屬於常規的合規與用戶安全更新，對財務面影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "Meta Stock Is Trending: A Key Level Just Came Into Play",
+      "publisher": "Benzinga",
+      "date": "2026-05-11 15:10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "技術面分析報導，僅描述股價波動與關鍵支撐位，不構成基本面利多或利空。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
