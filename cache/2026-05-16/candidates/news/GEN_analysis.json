@@ -1,0 +1,92 @@
+{
+  "ticker": "GEN",
+  "company": "Gen Digital",
+  "analysis_date": "2026-05-13",
+  "source_file": "cache/2026-05-13/candidates/news/GEN.json",
+  "summary": {
+    "total_articles": 18,
+    "bullish_count": 12,
+    "bearish_count": 0,
+    "neutral_count": 6,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "公司發布強勁的第四季財報，營收突破 50 億美元大關，且對 2027 財年給出優於市場預期的財測，帶動多家券商上調目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Gen Crosses $5B in FY26 Revenue with Growth Accelerating to Double-Digits",
+      "publisher": "Yahoo",
+      "date": "2026-05-07 20:05",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司 2026 財年營收突破 50 億美元，且成長率加速至雙位數，顯示核心業務強勁，為股價提供堅實基本面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Gen Digital Q4 Adj. EPS $0.67 Beats $0.65 Estimate, Sales $1.283B Beat $1.246B Estimate",
+      "publisher": "Benzinga",
+      "date": "2026-05-07 16:06",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "第四季每股盈餘與營收雙雙優於市場預期，展現公司優異的獲利能力與市場需求。"
+    },
+    {
+      "rank": 3,
+      "title": "Gen Digital Sees FY2027 Adj EPS $2.85-$2.95 vs $2.86 Est; Sees Sales $5.325B-$5.425B vs $5.225B Est",
+      "publisher": "Benzinga",
+      "date": "2026-05-07 16:09",
+      "impact": "high",
+      "category": "財測展望",
+      "reason": "公司對 2027 財年的營收與獲利展望均高於華爾街分析師預期，顯示管理層對未來成長動能充滿信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Evercore ISI Group Maintains Outperform on Gen Digital, Raises Price Target to $38",
+      "publisher": "Benzinga",
+      "date": "2026-05-08 09:48",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Evercore ISI 將目標價大幅上調至 38 美元，反映市場對其網路安全業務成長潛力的正面評價。"
+    },
+    {
+      "rank": 5,
+      "title": "Barclays Maintains Equal-Weight on Gen Digital, Raises Price Target to $27",
+      "publisher": "Benzinga",
+      "date": "2026-05-08 11:15",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "巴克萊銀行雖然維持中性評級，但上調目標價至 27 美元，顯示對公司近期財報表現的認可。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "RBC Capital Maintains Sector Perform on Gen Digital, Raises Price Target to $24",
+      "publisher": "Benzinga",
+      "date": "2026-05-08 12:48",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "RBC Capital 維持產業表現評級，僅小幅調整目標價，對股價影響相對中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Will Launch of AI-Native VPN for Agents Change Gen Digital's (GEN) AI Cyber Safety Narrative?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-05-04 04:28",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "探討 AI 產品對公司敘事的影響，屬於長期策略分析，對短期股價影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "Gen Digital Inc. Q4 2026 Earnings Call Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-07 21:51",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "財報會議逐字稿為資訊揭露，已反映在財報結果中，屬中性資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

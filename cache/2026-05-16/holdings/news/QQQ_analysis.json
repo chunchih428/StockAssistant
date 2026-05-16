@@ -1,0 +1,93 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-05-13",
+  "source_file": "cache/2026-05-13/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 4,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場技術面強勁且資金持續流入，儘管漲勢集中，但 QQQ 仍展現出突破性的動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Nasdaq 100 ETF QQQ Records Third-Largest 21-Day Inflows Ever As Investors Rush Back Into US Stocks",
+      "publisher": "Benzinga",
+      "date": "2026-05-06 06:32",
+      "impact": "high",
+      "category": "資金流向",
+      "reason": "QQQ 錄得史上第三大 21 日資金淨流入，顯示機構與散戶投資人對 Nasdaq-100 指數成分股的強烈信心與回流趨勢。"
+    },
+    {
+      "rank": 2,
+      "title": "Breadth Confirms the Breakout, but the Rally Remains",
+      "publisher": "ChartMill",
+      "date": "2026-05-12 09:46",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "技術指標顯示 QQQ 處於上升趨勢且位於短期均線之上，市場廣度確認了突破走勢，為後續漲勢提供支撐。"
+    },
+    {
+      "rank": 3,
+      "title": "What Might The Fed Do After April's Red Hot Inflation Report",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-08 13:45",
+      "impact": "medium",
+      "category": "總體經濟",
+      "reason": "儘管通膨數據火熱，但強勁的就業數據支撐了經濟軟著陸預期，推動 QQQ 創下歷史新高。"
+    },
+    {
+      "rank": 4,
+      "title": "Strong Breakout, Still Broadening",
+      "publisher": "ChartMill",
+      "date": "2026-05-07 09:42",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "確認了 QQQ 在價格與市場廣度上的同步上漲，進一步強化了市場對多頭趨勢的共識。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "JEPQ: I Can't Get Bullish On This Income ETF I Used To Love",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-07 09:00",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "分析指出 JEPQ 因使用 ELN 導致績效長期落後於 QQQ，間接凸顯持有 QQQ 本身在追求成長性上的優勢。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Don't Fight The Tape: The Rally Is Narrow For A Reason",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-12 06:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "指出當前市場漲勢過於集中，雖然 QQQ 表現強勁，但這種選擇性上漲可能隱含市場結構性的風險。"
+    },
+    {
+      "rank": 2,
+      "title": "XQQI: Juiced Up Version Of QQQI Introduces Higher Risk Reward Profile",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-12 12:07",
+      "impact": "low",
+      "category": "投資產品",
+      "reason": "介紹了基於 QQQ 的衍生品 ETF，重點在於風險與收益的權衡，對 QQQ 本身股價無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "ROCQ: The Case For A Rotational Strategy With QQQ",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-08 18:06",
+      "impact": "low",
+      "category": "投資產品",
+      "reason": "討論了結合 QQQ 的選擇權輪動策略，屬於投資組合管理範疇，不影響 QQQ 的基本面。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
