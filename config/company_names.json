@@ -14,7 +14,6 @@
     "NET": "Cloudflare",
     "NTAP": "NetApp",
     "NVDA": "NVIDIA",
-    "ONDS": "Ondas",
     "PWR": "Quanta Services",
     "QQQ": "QQQ",
     "TSLA": "Tesla",
@@ -22,10 +21,11 @@
     "PLTR": "Palantir Technologies Inc.",
     "TER": "Teradyne, Inc.",
     "MU": "Micron Technology",
-    "BE": "Bloom Energy Corporation",
-    "TSLL": "Direxion Daily TSLA Bull 2X Shares"
+    "BE": "Bloom Energy Corporation"
   },
   "competitors": {
+    "ONDS": "Ondas",
+    "TSLL": "Direxion Daily TSLA Bull 2X Shares",
     "ANET": "Arista Networks",
     "WPM": "Wheaton Precious Metals Corp.",
     "COIN": "Coinbase",
@@ -481,6 +481,10 @@
     "OPTT": "Ocean Power Technologies, Inc.",
     "PSIX": "Power Solutions International, ",
     "SMR": "NuScale Power Corporation",
-    "DD": "DuPont de Nemours, Inc."
+    "DD": "DuPont de Nemours, Inc.",
+    "INOD": "Innodata Inc.",
+    "KMI": "Kinder Morgan, Inc.",
+    "NEXA": "Nexa Resources S.A.",
+    "RMBS": "Rambus Inc."
   }
 }
