@@ -1,0 +1,75 @@
+{
+  "ticker": "CEVA",
+  "company": "CEVA",
+  "analysis_date": "2026-05-13",
+  "source_file": "cache/2026-05-13/candidates/news/CEVA.json",
+  "summary": {
+    "total_articles": 18,
+    "bullish_count": 10,
+    "bearish_count": 1,
+    "neutral_count": 7,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司第一季財報表現優於預期，且獲得重要客戶的藍牙技術授權合約，帶動市場對其邊緣 AI 與無線解決方案的信心。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "CEVA Inc. (NASDAQ:CEVA) Surges 14% After Q1 2026 Earnings Beat on Licensing and AI Design Wins",
+      "publisher": "ChartMill",
+      "date": "2026-05-11 12:24",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第一季財報營收與每股盈餘均優於市場預期，且授權業務成長強勁，顯示邊緣 AI 策略奏效，股價因此大漲 14 %。"
+    },
+    {
+      "rank": 2,
+      "title": "TD Cowen Maintains Buy on CEVA, Raises Price Target to $45",
+      "publisher": "Benzinga",
+      "date": "2026-05-12 11:10",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Joshua Buchalter 維持買入評級，並將目標價大幅調升至 45 美元，反映對公司長期成長潛力的看好。"
+    },
+    {
+      "rank": 3,
+      "title": "Ceva Announces Major Customer Win For Its Bluetooth High Data Throughput Solution",
+      "publisher": "Benzinga",
+      "date": "2026-05-11 07:05",
+      "impact": "medium",
+      "category": "業務拓展",
+      "reason": "獲得美國半導體大廠的藍牙高數據傳輸解決方案合約，驗證了公司內部研發的射頻技術具備高度商業價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ceva Stock Turns Lower Despite Q1 Double Beat",
+      "publisher": "Benzinga",
+      "date": "2026-05-11 10:57",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管財報表現亮眼，但股價在盤中出現獲利了結賣壓，顯示市場對短期漲幅的修正需求。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "JP Morgan Maintains Neutral on CEVA, Raises Price Target to $36",
+      "publisher": "Benzinga",
+      "date": "2026-05-12 10:41",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "摩根大通維持中性評級，雖調升目標價至 36 美元，但對公司後續獲利成長空間仍持審慎態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Ceva (CEVA) Q1 2026 Earnings Transcript",
+      "publisher": "Motley Fool",
+      "date": "2026-05-12 16:16",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "提供第一季財報電話會議的完整紀錄，作為投資人評估公司營運細節的基礎資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

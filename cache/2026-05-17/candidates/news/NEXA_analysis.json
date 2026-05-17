@@ -1,0 +1,66 @@
+{
+  "ticker": "NEXA",
+  "company": "Nexa Resources S.A.",
+  "analysis_date": "2026-05-16",
+  "source_file": "cache/2026-05-16/candidates/news/NEXA.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司近期發布 2026 年第一季財報並獲分析師看好其估值與現金流，但秘魯 Cajamarquilla 冶煉廠因工安事故暫停營運，造成短期營運不確定性。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Nexa Resources: The Silver Streaming Step-Down Quietly Rewrites The Cash Flow Profile",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-14",
+      "impact": "high",
+      "category": "投資評級",
+      "reason": "分析師給予 Buy 評級，指出白銀與鋅市場供需緊俏，加上串流合約條款改善，顯著優化了公司的現金流結構，且目前股價存在深度折價。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Nexa Resources (NEXA) Stock Undervalued Right Now?",
+      "publisher": "Zacks",
+      "date": "2026-05-15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Zacks 透過量化模型分析指出該股目前估值偏低，對於價值型投資人具有吸引力，強化了市場對其基本面支撐的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Nexa Resources Temporarily Suspends Operations At Cajamarquilla Smelter In Peru After Four People Sustained Injuries",
+      "publisher": "Benzinga",
+      "date": "2026-05-13",
+      "impact": "high",
+      "category": "營運風險",
+      "reason": "秘魯 Cajamarquilla 冶煉廠發生工安事故導致 4 人受傷並暫停營運，此事件直接影響短期產能與營收，並可能引發監管調查與額外成本。選擇此篇作為代表，因其完整涵蓋了事故原因與營運影響。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Nexa Resources S.A. 2026 Q1 - Results - Earnings Call Presentation",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-09",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "發布 2026 年第一季財報簡報，提供公司營運數據與財務績效，為市場提供基本面基準，但未包含市場對財報的具體解讀。"
+    },
+    {
+      "rank": 2,
+      "title": "Nexa Provides Update on Cajamarquilla Operation",
+      "publisher": "Finnhub",
+      "date": "2026-05-13",
+      "impact": "low",
+      "category": "營運公告",
+      "reason": "此為公司針對 Cajamarquilla 冶煉廠停工的官方公告，內容與 Benzinga 報導重複，僅作為事件確認的官方來源。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

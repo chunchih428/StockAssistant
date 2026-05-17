@@ -1,0 +1,102 @@
+{
+  "ticker": "NVDA",
+  "company": "NVIDIA",
+  "analysis_date": "2026-05-17",
+  "source_file": "cache/2026-05-17/holdings/news/NVDA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場高度期待 5 月 20 日財報表現，且受惠於 AI 晶片需求強勁、中國市場銷售解禁及市值持續創高，分析師普遍看好其成長動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cantor Fitzgerald’s CJ Muse on Nvidia: We will 'wholeheartedly be buying’ the stock",
+      "publisher": "CNBC",
+      "date": "2026-05-15 10:46",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "知名分析師 CJ Muse 強烈建議買入，顯示機構投資人對其基本面與 AI 領導地位的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Wells Fargo Raises NVIDIA (NVDA) Price Target – Here’s Why",
+      "publisher": "Yahoo",
+      "date": "2026-05-16 10:45",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "富國銀行上調目標價，反映市場對其在 AI 硬體領域持續獲利能力的正面預期。"
+    },
+    {
+      "rank": 3,
+      "title": "NVIDIA Earnings Preview: Wall Street Pros Boost Stock Targets Amid AI Boom",
+      "publisher": "Benzinga",
+      "date": "2026-05-16 14:16",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "華爾街多位分析師在財報前夕調升目標價，顯示市場對即將公布的財報抱持樂觀態度。"
+    },
+    {
+      "rank": 4,
+      "title": "Nvidia Overtakes Silver To Become World's Second-Largest Asset At $5.52 Trillion",
+      "publisher": "Yahoo",
+      "date": "2026-05-16 16:31",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市值突破 5.5 兆美元並成為全球第二大資產，強化了其作為 AI 革命核心的市場地位。"
+    },
+    {
+      "rank": 5,
+      "title": "NVIDIA's China Comeback: Analyst Forecasts 'Godfather of AI' Will Spark New Global Tech Surge",
+      "publisher": "Benzinga",
+      "date": "2026-05-15 14:28",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "美中緊張關係緩解預期，加上中國市場銷售潛力，被視為推動股價進一步上漲的催化劑。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Nvidia’s China H200 Approval Raises New Questions For Valuation And Risk",
+      "publisher": "Yahoo",
+      "date": "2026-05-16 10:11",
+      "impact": "medium",
+      "category": "法規",
+      "reason": "儘管獲准銷售 H200 晶片，但市場擔憂地緣政治風險與合規性可能對長期估值造成不確定性。"
+    },
+    {
+      "rank": 2,
+      "title": "Trump Clears Nvidia H200 Sales To Alibaba, Tencent And 8 Others, But Beijing Halts Deliveries",
+      "publisher": "Yahoo",
+      "date": "2026-05-16 19:30",
+      "impact": "low",
+      "category": "法規",
+      "reason": "北京當局阻礙交付，顯示即便美國放寬出口限制，NVIDIA 在中國市場仍面臨監管阻力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Nvidia Reports Earnings on May 20. Here's the One Number That Matters Most.",
+      "publisher": "Yahoo",
+      "date": "2026-05-16 17:12",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "提醒投資人關注營收以外的關鍵指標，屬於財報前的分析與觀望，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Stock Market Week Ahead: Nvidia, Alphabet, Atlanta Fed Lead A Charged Week",
+      "publisher": "Yahoo",
+      "date": "2026-05-16 12:28",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場週報，提及 NVIDIA 為本週焦點，屬於市場資訊整理。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
