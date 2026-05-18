@@ -1,0 +1,102 @@
+{
+  "ticker": "ETN",
+  "company": "Eaton",
+  "analysis_date": "2026-05-13",
+  "source_file": "cache/2026-05-13/holdings/news/ETN.json",
+  "summary": {
+    "total_articles": 19,
+    "bullish_count": 14,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "受惠於 AI 資料中心需求強勁，Eaton 財報表現亮眼並上調全年財測，獲得多家投行調升目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "RBC Capital Maintains Outperform on Eaton Corp, Raises Price Target to $484",
+      "publisher": "Benzinga",
+      "date": "2026-05-06 11:22",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "RBC 分析師 Deane Dray 將目標價調升至 484 美元，反映對公司在電氣化與資料中心市場強勁執行力的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Citigroup Maintains Buy on Eaton Corp, Raises Price Target to $471",
+      "publisher": "Benzinga",
+      "date": "2026-05-06 14:51",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "花旗分析師 Andrew Kaplowitz 上調目標價至 471 美元，肯定公司在核心業務的成長動能。"
+    },
+    {
+      "rank": 3,
+      "title": "Keybanc Maintains Overweight on Eaton Corp, Raises Price Target to $480",
+      "publisher": "Benzinga",
+      "date": "2026-05-06 09:07",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "KeyBanc 將目標價調升至 480 美元，強調 Eaton 是 AI 資料中心液冷技術領域的最佳投資標的之一。"
+    },
+    {
+      "rank": 4,
+      "title": "Eaton: The Report Is Bullish, The Market Is Right",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-06 16:34",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "公司第一季財報營收與每股盈餘 (EPS) 雙雙優於預期，且訂單積壓量 (Backlog) 創下紀錄，顯示需求強勁。"
+    },
+    {
+      "rank": 5,
+      "title": "Jim Cramer on Eaton: “Just Go Buy That One”",
+      "publisher": "Yahoo",
+      "date": "2026-05-08 15:07",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "知名財經評論員 Jim Cramer 公開推薦 Eaton，將其列為 AI 浪潮下的主要受惠股，增強市場信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Eaton (ETN) Is Down 7.8% After Raising 2026 Guidance Amid Margin Pressure and AI Bet",
+      "publisher": "Yahoo",
+      "date": "2026-05-08 05:13",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管上調財測，但市場對利潤率壓力感到擔憂，導致股價出現短期回調，反映投資人對高估值的獲利了結心態。"
+    },
+    {
+      "rank": 2,
+      "title": "Eaton: Time To Digest Some Gains",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-06 09:03",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "分析指出股價在近期大漲後可能面臨修正壓力，建議投資人適度消化獲利。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Barclays Maintains Equal-Weight on Eaton Corp, Raises Price Target to $392",
+      "publisher": "Benzinga",
+      "date": "2026-05-06 10:50",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "巴克萊雖調升目標價，但維持中立評級，顯示對當前股價估值持保留態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Wells Fargo Maintains Equal-Weight on Eaton Corp, Raises Price Target to $425",
+      "publisher": "Benzinga",
+      "date": "2026-05-06 10:07",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "富國銀行上調目標價，但維持中立評級，反映對未來成長空間與風險的平衡看法。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

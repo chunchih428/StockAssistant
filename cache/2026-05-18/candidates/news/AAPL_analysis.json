@@ -1,0 +1,111 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-05-16",
+  "source_file": "cache/2026-05-16/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 4,
+    "bearish_count": 6,
+    "neutral_count": 10,
+    "overall_sentiment": "mixed",
+    "key_theme": "Apple 與 OpenAI 的合作關係因用戶成長不如預期面臨法律糾紛風險，同時市場對其 iPhone 銷售動能與 AI 策略看法分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple iPhone Sales Appear Unstoppable",
+      "publisher": "Yahoo",
+      "date": "2026-05-15 13:13",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "研究機構 CounterPoint 指出 Apple 在中國及全球市場的 iPhone 銷售表現強勁，顯示其核心硬體業務具備韌性。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple Stock Rises After Surprise iPhone 17 Price Cuts in China",
+      "publisher": "Yahoo",
+      "date": "2026-05-15 17:05",
+      "impact": "medium",
+      "category": "產品策略",
+      "reason": "透過針對 iPhone 17 進行價格調整以應對購物節需求，市場預期此舉能有效刺激銷量並提升市占率。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Apple (AAPL) One of the Best US Stocks to Invest in According to Billionaires?",
+      "publisher": "Yahoo",
+      "date": "2026-05-15 08:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Apple 被列入億萬富翁投資組合的前 10 大美股名單，反映機構投資人對其長期價值的認可。"
+    },
+    {
+      "rank": 4,
+      "title": "Xi tells Musk, Tim Cook and other CEOs on Trump's trip: China will 'open wider'",
+      "publisher": "CNBC",
+      "date": "2026-05-14 08:22",
+      "impact": "low",
+      "category": "地緣政治",
+      "reason": "Tim Cook 參與高層會談，中國政府釋出開放市場訊號，有助於緩解市場對 Apple 在中國營運環境的擔憂。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "OpenAI prepares legal action against Apple over ChatGPT deal",
+      "publisher": "Yahoo",
+      "date": "2026-05-14 20:24",
+      "impact": "high",
+      "category": "法律訴訟",
+      "reason": "OpenAI 因合作未達預期用戶成長而考慮採取法律行動，此不確定性可能影響 Apple 的 AI 軟體整合策略與品牌聲譽。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple-OpenAI relationship frays, setting up possible legal fight",
+      "publisher": "CNBC",
+      "date": "2026-05-14 13:05",
+      "impact": "medium",
+      "category": "企業合作",
+      "reason": "此篇報導詳細說明了雙方關係惡化的細節，作為該主題的代表，強調了合作破裂對未來 AI 產品藍圖的潛在衝擊。"
+    },
+    {
+      "rank": 3,
+      "title": "Jim Cramer Isn’t Impressed By Well Known Analyst’s Comments On Apple (AAPL)",
+      "publisher": "Yahoo",
+      "date": "2026-05-14 19:39",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "知名評論員 Jim Cramer 對分析師關於 Apple 的觀點表示質疑，反映市場對 Apple AI 轉型路徑的信心不足。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Final Trades: Eli Lilly, Dominion Energy and Apple",
+      "publisher": "CNBC",
+      "date": "2026-05-14 13:06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為投資委員會的選股觀察名單，未提供具體基本面分析，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple Inc. (AAPL) Is a Trending Stock: Facts to Know Before Betting on It",
+      "publisher": "Yahoo",
+      "date": "2026-05-15 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為一般性市場熱度分析，未包含新的財務數據或重大事件。"
+    },
+    {
+      "rank": 3,
+      "title": "Holley Performance Brands Announces Appointment of Sarah Apple",
+      "publisher": "Yahoo",
+      "date": "2026-05-15 13:00",
+      "impact": "low",
+      "category": "其他",
+      "reason": "此新聞與 Apple Inc. (AAPL) 無關，僅因人名包含 Apple 而被誤標，對股價無影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

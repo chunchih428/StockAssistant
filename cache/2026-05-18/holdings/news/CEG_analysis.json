@@ -1,0 +1,84 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy",
+  "analysis_date": "2026-05-17",
+  "source_file": "cache/2026-05-17/holdings/news/CEG.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司第一季財報表現亮眼，營收與獲利雙雙優於預期，且受惠於 AI 數據中心帶動的電力需求成長，長期成長前景看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Constellation Energy (CEG) Posts a 64% Revenue Jump and Raises Its Full-Year Outlook",
+      "publisher": "Yahoo",
+      "date": "2026-05-15 15:45",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第一季營收大幅成長 64 %，並上調全年財測，顯示其核心業務強勁，為股價提供強大基本面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Constellation Energy’s $13 Billion Cash Flow Outlook Shows AI’s Power Trade Is Just Beginning",
+      "publisher": "Yahoo",
+      "date": "2026-05-14 14:15",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "分析指出公司擁有 130 億美元的現金流展望，明確受惠於 AI 產業對電力基礎設施的龐大需求，具備長期投資價值。"
+    },
+    {
+      "rank": 3,
+      "title": "Constellation and Pine Creek RNG Announce Equity Purchase Agreement in RNG Facilities",
+      "publisher": "Yahoo",
+      "date": "2026-05-14 13:00",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "透過與 Pine Creek RNG 簽署股權購買協議，進一步擴大再生天然氣 (RNG) 業務版圖，展現公司在能源轉型上的執行力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Constellation Energy Stock Slumped by More Than 6% Today",
+      "publisher": "Yahoo",
+      "date": "2026-05-13 23:20",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "儘管財報表現優異，但因分析師下調目標價引發市場獲利了結賣壓，導致股價單日下跌超過 6 %。"
+    },
+    {
+      "rank": 2,
+      "title": "Third Point Sells Position In Alibaba Group; ...; Constellation Energy; ...",
+      "publisher": "Benzinga",
+      "date": "2026-05-15 16:32",
+      "impact": "low",
+      "category": "機構持倉",
+      "reason": "知名對沖基金 Third Point 在 13 F 報告中揭露減持 Constellation Energy，可能對短期市場信心造成微幅負面影響。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Mizuho Maintains Neutral on Constellation Energy, Raises Price Target to $310",
+      "publisher": "Benzinga",
+      "date": "2026-05-12 08:55",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "瑞穗銀行維持中立評級，但調升目標價至 310 美元，反映市場對其成長潛力與估值風險的平衡看法。"
+    },
+    {
+      "rank": 2,
+      "title": "Jim Cramer on Constellation Energy: “The Earnings Have Been Fine, It’s the Zeitgeist That Matters There”",
+      "publisher": "Yahoo",
+      "date": "2026-05-13 14:28",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "Jim Cramer 指出公司財報表現穩健，但股價走勢更受市場情緒與 AI 題材熱度影響，屬於中性評論。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

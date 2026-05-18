@@ -1,0 +1,84 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-05-17",
+  "source_file": "cache/2026-05-17/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "受惠於 AI 驅動的網路威脅激增，CrowdStrike 憑藉強大的平台整合能力與分析師上調目標價，推動股價屢創新高。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "BTIG Hikes CrowdStrike Price Target to $621: Platform Consolidation Story Just Got Louder",
+      "publisher": "Yahoo",
+      "date": "2026-05-14 15:18",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "BTIG 分析師 Gray Powell 將目標價從 $499 大幅上調至 $621，並維持買入評級，強調其平台整合策略在市場中具備強大競爭優勢。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike Leads This Group Of Four Stocks To New Highs",
+      "publisher": "Yahoo",
+      "date": "2026-05-15 17:28",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價創下歷史新高，顯示市場對其 6 月 3 日即將公布的財報抱持高度樂觀預期，且在網路安全產業中處於領先地位。"
+    },
+    {
+      "rank": 3,
+      "title": "CrowdStrike Spotlight Grows As AI Attacks Intensify On Financial Institutions",
+      "publisher": "Yahoo",
+      "date": "2026-05-15 22:15",
+      "impact": "medium",
+      "category": "市場需求",
+      "reason": "報告指出全球金融機構面臨 AI 驅動的網路攻擊激增，這直接擴大了 CrowdStrike 的潛在市場需求與防禦解決方案的必要性。"
+    },
+    {
+      "rank": 4,
+      "title": "CrowdStrike Named Frost & Sullivan’s Company of the Year for Identity Threat Detection and Response",
+      "publisher": "Yahoo",
+      "date": "2026-05-11 11:57",
+      "impact": "medium",
+      "category": "企業榮譽",
+      "reason": "獲得 Frost & Sullivan 年度最佳公司獎項，肯定了其在身分威脅偵測與回應領域的技術領先地位，有助於提升品牌信任度。"
+    },
+    {
+      "rank": 5,
+      "title": "CrowdStrike Holdings (CRWD): Chris Rokos Opens New Position",
+      "publisher": "Yahoo",
+      "date": "2026-05-13 19:36",
+      "impact": "medium",
+      "category": "機構投資",
+      "reason": "知名投資人 Chris Rokos 新建倉 CrowdStrike，顯示大型機構資金對該公司長期成長潛力的認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike: Overbought Entering FQ1'27 - Structural Tailwinds Meet Premium Valuations",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-12 14:33",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "分析指出儘管成長動能強勁，但目前股價已處於超買狀態，且估值過高，面臨財報公布前的技術性回調風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "SentinelOne vs. CrowdStrike: What Their Quarterly Revenue Trends Tell Investors.",
+      "publisher": "Yahoo",
+      "date": "2026-05-13 14:18",
+      "impact": "low",
+      "category": "產業比較",
+      "reason": "對比兩家網路安全公司的營收趨勢，屬於產業常規分析，未對 CrowdStrike 本身產生直接的利多或利空影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

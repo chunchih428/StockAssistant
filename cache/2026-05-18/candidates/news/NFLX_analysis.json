@@ -1,0 +1,120 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-05-13",
+  "source_file": "cache/2026-05-13/candidates/news/NFLX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 4,
+    "bearish_count": 7,
+    "neutral_count": 9,
+    "overall_sentiment": "mixed",
+    "key_theme": "Netflix 過去十年投入 1,350 億美元內容製作的全球影響力與德州政府針對數據隱私提起的訴訟案形成多空拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Netflix reports $135 billion in content spending over past decade",
+      "publisher": "Yahoo",
+      "date": "2026-05-12 16:14",
+      "impact": "medium",
+      "category": "財務營運",
+      "reason": "Netflix 公布過去十年投入 1,350 億美元於內容製作，創造 3,250 億美元經濟影響力與 42.5 萬個工作機會，展現其強大的全球市場規模與內容護城河。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix's $135 Billion Content Bet Shows Global Reach",
+      "publisher": "Yahoo",
+      "date": "2026-05-12 12:16",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "分析指出 Netflix 的內容投資策略成功推動國際市場訂閱規模擴張，為公司下一階段成長奠定基礎。"
+    },
+    {
+      "rank": 3,
+      "title": "With Netflix new ad-free standard plan at $20, streaming's tipping point into old TV is getting closer",
+      "publisher": "CNBC",
+      "date": "2026-05-10 09:00",
+      "impact": "low",
+      "category": "商業模式",
+      "reason": "報導指出含廣告方案的經濟效益日益顯著，有助於 Netflix 在串流媒體市場中維持獲利能力。"
+    },
+    {
+      "rank": 4,
+      "title": "Stock-Split Follow-Up: How Nvidia, Alphabet, Amazon, Netflix, and Tesla Have Performed Since Their Historic Splits",
+      "publisher": "Yahoo",
+      "date": "2026-05-10 08:25",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "回顧歷史股價表現，提供長期投資者對公司成長潛力的正面參考。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Texas Attorney General Ken Paxton Sues Netflix For Spying On Texas Kids And Consumers",
+      "publisher": "Benzinga",
+      "date": "2026-05-11 12:15",
+      "impact": "high",
+      "category": "法律訴訟",
+      "reason": "德州檢察長 Ken Paxton 對 Netflix 提起訴訟，指控其非法收集兒童與消費者數據，此類監管風險可能導致罰款及品牌聲譽受損。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix Comeback Didn’t Happen — Once Netflix dropped out of the race for Warner Bros. Discovery",
+      "publisher": "Yahoo",
+      "date": "2026-05-12 13:42",
+      "impact": "medium",
+      "category": "併購策略",
+      "reason": "市場對 Netflix 放棄收購 Warner Bros. Discovery 的決策感到失望，認為其錯失了擴大市場份額的機會。"
+    },
+    {
+      "rank": 3,
+      "title": "'Netflix and Amazon Prime subscribers to pay TV licence fee' - The Times",
+      "publisher": "Benzinga",
+      "date": "2026-05-11 15:06",
+      "impact": "medium",
+      "category": "法規政策",
+      "reason": "若串流媒體訂閱戶需支付電視執照費，將增加消費者成本，可能影響訂閱成長率。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Netflix vs Disney: Only One Is a Winner of The Streaming War",
+      "publisher": "Yahoo",
+      "date": "2026-05-12 16:14",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "對比 Netflix 與 Disney 的串流策略，屬於產業分析性質，無直接股價驅動因素。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix, Inc. (NFLX) Is a Trending Stock: Facts to Know Before Betting on It",
+      "publisher": "Yahoo",
+      "date": "2026-05-12 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為投資者關注度分析，未提供具體買賣建議或新基本面資訊。"
+    },
+    {
+      "rank": 3,
+      "title": "Comcast vs Netflix: Which Is the Better Dip Buy Now?",
+      "publisher": "Yahoo",
+      "date": "2026-05-11 15:05",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "針對兩家公司的股價回調進行比較，屬於投資組合配置建議，非公司重大消息。"
+    },
+    {
+      "rank": 4,
+      "title": "Is Wall Street Bullish or Bearish on Netflix Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-05-11 12:57",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "總結華爾街分析師觀點，顯示市場看法分歧，無明確方向。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
