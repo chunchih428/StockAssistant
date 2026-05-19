@@ -1,0 +1,93 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-05-13",
+  "source_file": "cache/2026-05-13/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "AI 需求強勁推動分析師上調目標價，且公司積極透過巨額融資鞏固 AI 晶片市場領導地位。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Citi Raises Broadcom Price Target to $500: AI Demand Sets Up Another Big April Quarter",
+      "publisher": "Yahoo",
+      "date": "2026-05-12 15:18",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "花旗分析師 Atif Malik 將目標價上調至 500 美元，預期 Broadcom 在 AI 需求帶動下將繳出優於預期的財報。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom Turns To Private Credit For Record $35 Billion Financing",
+      "publisher": "Benzinga",
+      "date": "2026-05-11 09:47",
+      "impact": "high",
+      "category": "資本運作",
+      "reason": "公司與 Blackstone 和 Apollo 洽談 350 億美元的創紀錄融資，顯示其擴張 AI 晶片業務的決心與強大資本實力。"
+    },
+    {
+      "rank": 3,
+      "title": "Broadcom's Future $100 Billion Custom Chip Business Is Your Sign to Buy Now",
+      "publisher": "Yahoo",
+      "date": "2026-05-11 10:05",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "客製化晶片業務成長加速，市場預期該領域未來潛力高達 1,000 億美元，為長期成長核心。"
+    },
+    {
+      "rank": 4,
+      "title": "Broadcom (AVGO) Is The Biggest Holding in Elon Musk’s Grok AI Chatbot Latest Portfolio",
+      "publisher": "Yahoo",
+      "date": "2026-05-12 21:20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "被 Elon Musk 的 Grok AI 聊天機器人列為投資組合最大持股，提升了市場對其 AI 領域地位的認可度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Broadcom Inc. (AVGO) Dips More Than Broader Market: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-05-12 21:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日下跌 2.13%，表現弱於大盤，反映出短期獲利了結賣壓或市場對高估值的修正。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom Tax Free Cloud Options Test VMware Pricing Power And Stickiness",
+      "publisher": "Yahoo",
+      "date": "2026-05-12 15:12",
+      "impact": "low",
+      "category": "競爭分析",
+      "reason": "市場出現針對 VMware 的替代方案，可能對 Broadcom 收購後的定價策略與客戶黏著度構成挑戰。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "AI Stocks Nvidia, AMD, Broadcom Nab Price-Target Hikes",
+      "publisher": "Yahoo",
+      "date": "2026-05-12 15:16",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "多檔 AI 概念股同步獲得目標價調升，屬於整體產業趨勢的正面反映，非單一公司利多。"
+    },
+    {
+      "rank": 2,
+      "title": "Nvidia, AMD, Broadcom And Now Cerebras: AI Chip Trade Gets A New Name",
+      "publisher": "Benzinga",
+      "date": "2026-05-11 10:35",
+      "impact": "low",
+      "category": "競爭分析",
+      "reason": "Cerebras Systems 即將 IPO，市場競爭格局可能改變，但短期對 Broadcom 影響尚不明顯。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

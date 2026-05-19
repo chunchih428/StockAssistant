@@ -1,0 +1,110 @@
+{
+  "ticker": "NXT",
+  "company": "Nextpower",
+  "analysis_date": "2026-05-16",
+  "source_file": "cache/2026-05-16/candidates/news/NXT.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 16,
+    "bearish_count": 0,
+    "neutral_count": 4,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "公司發布優於預期的第 4 季財報並上調財測，帶動股價創下 52 週新高，並獲得多家投行調升目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Nextracker (NXT) Surpasses Q4 Earnings and Revenue Estimates",
+      "publisher": "Yahoo",
+      "date": "2026-05-12 21:40",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第 4 季財報表現亮眼，EPS 超出預期 18.2 %，營收超出預期 9.07 %，為股價強勁上漲的核心驅動力。"
+    },
+    {
+      "rank": 2,
+      "title": "BNP Paribas Maintains Outperform on Nextpower, Raises Price Target to $177",
+      "publisher": "Benzinga",
+      "date": "2026-05-13 13:59",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "法國巴黎銀行分析師 Moses Sutton 給予優於大盤評級，並將目標價大幅調升至 177 美元，顯示市場對其成長前景高度樂觀。"
+    },
+    {
+      "rank": 3,
+      "title": "JP Morgan Maintains Overweight on Nextpower, Raises Price Target to $155",
+      "publisher": "Benzinga",
+      "date": "2026-05-13 11:25",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "摩根大通分析師 Mark Strouse 維持加碼評級並調升目標價至 155 美元，反映對公司長期競爭力的信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Nextpower Buys Zigor Assets To Expand Into Storage And Data Centers",
+      "publisher": "Yahoo",
+      "date": "2026-05-13 19:19",
+      "impact": "medium",
+      "category": "併購與擴張",
+      "reason": "收購 Zigor 資產有助於公司將業務版圖擴展至儲能與資料中心領域，具備長期戰略價值。"
+    },
+    {
+      "rank": 5,
+      "title": "Citigroup Maintains Buy on Nextpower, Raises Price Target to $145",
+      "publisher": "Benzinga",
+      "date": "2026-05-13 14:52",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "花旗分析師 Vikram Bagri 維持買進評級，並將目標價調升至 145 美元，認可公司在太陽能追蹤技術的領先地位。"
+    },
+    {
+      "rank": 6,
+      "title": "Wells Fargo Maintains Overweight on Nextpower, Raises Price Target to $143",
+      "publisher": "Benzinga",
+      "date": "2026-05-14 10:19",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "富國銀行分析師 Praneeth Satish 維持加碼評級並調升目標價至 143 美元，與市場對財報後的樂觀情緒一致。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Mizuho Maintains Neutral on Nextpower, Raises Price Target to $130",
+      "publisher": "Benzinga",
+      "date": "2026-05-14 08:52",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "瑞穗分析師 Anthony Crowdell 雖調升目標價至 130 美元，但維持中立評級，顯示對當前股價漲幅後的估值持保留態度。"
+    },
+    {
+      "rank": 2,
+      "title": "TD Cowen Maintains Hold on Nextpower, Raises Price Target to $135",
+      "publisher": "Benzinga",
+      "date": "2026-05-13 13:33",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "TD Cowen 分析師 Jeff Osborne 維持持有評級，儘管調升目標價，但對短期股價過熱風險保持謹慎。"
+    },
+    {
+      "rank": 3,
+      "title": "Stock Market Today: Nasdaq Up As Nvidia, Micron Rise; Solar Play Breaks Out",
+      "publisher": "Yahoo",
+      "date": "2026-05-13 15:21",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導主要關注整體科技股走勢，僅提及 Nextpower 作為太陽能板塊表現之一，對個股影響有限。"
+    },
+    {
+      "rank": 4,
+      "title": "Nextpower (NXT) Q1 Earnings: What To Expect",
+      "publisher": "Yahoo",
+      "date": "2026-05-13 12:20",
+      "impact": "low",
+      "category": "財報預期",
+      "reason": "此為財報發布前的預測性文章，在財報公布後已失去即時參考價值。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,66 @@
+{
+  "ticker": "ACMR",
+  "company": "ACM Research, Inc.",
+  "analysis_date": "2026-05-13",
+  "source_file": "cache/2026-05-13/candidates/news/ACMR.json",
+  "summary": {
+    "total_articles": 17,
+    "bullish_count": 9,
+    "bearish_count": 2,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司 Q1 財報表現強勁且維持全年財測，但隨後宣布的 1.5 億美元股票增發計畫引發市場對股權稀釋的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "ACM Research (NASDAQ:ACMR) Q1 2026 Earnings Crush Estimates, Pre-Market Shares Up",
+      "publisher": "ChartMill",
+      "date": "2026-05-07 11:24",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司 Q1 營收達 2.313 億美元，Non-GAAP 每股盈餘為 0.34 美元，雙雙優於市場預期，主要受惠於 ECP 技術強勁需求與封裝市場成長。"
+    },
+    {
+      "rank": 2,
+      "title": "ACM Research Affirms FY2026 Sales Guidance of $1.080B-$1.175B",
+      "publisher": "Benzinga",
+      "date": "2026-05-07 06:03",
+      "impact": "medium",
+      "category": "財測更新",
+      "reason": "公司重申 2026 全年營收指引，顯示管理層對後續季度業務執行力與市場需求保持信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "ACM Research Commences $149.85M Offering Of 2.885M Common Shares At $52/Share",
+      "publisher": "Benzinga",
+      "date": "2026-05-12 08:54",
+      "impact": "high",
+      "category": "股權融資",
+      "reason": "公司宣布以每股 52 美元價格增發 288.5 萬股普通股，總計募資約 1.4985 億美元，直接導致現有股東權益被稀釋，對短期股價構成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "ACM Research: A Good Business At A Fair Price",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-08 10:46",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析師給予「持有」評級，儘管營收成長 34% 且利潤率回升，但提醒投資人需持續關注庫存水位與客戶過度集中的風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Is It Too Late To Consider ACM Research (ACMR) After Its 164% One Year Surge?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-05-10 08:11",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對過去一年股價大幅上漲後的估值進行探討，未給出明確買賣建議，僅提供投資人評估風險的視角。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

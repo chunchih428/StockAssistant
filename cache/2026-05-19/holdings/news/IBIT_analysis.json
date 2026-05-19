@@ -1,0 +1,84 @@
+{
+  "ticker": "IBIT",
+  "company": "Bitcoin",
+  "analysis_date": "2026-05-17",
+  "source_file": "cache/2026-05-17/holdings/news/IBIT.json",
+  "summary": {
+    "total_articles": 11,
+    "bullish_count": 2,
+    "bearish_count": 5,
+    "neutral_count": 4,
+    "overall_sentiment": "mixed",
+    "key_theme": "比特幣 ETF 近期面臨顯著的資金淨流出壓力，儘管比特幣價格維持在 8 萬美元關卡，但機構資金流向的不確定性與監管法案的潛在風險導致市場情緒分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bitcoin ETFs Just Had Their Biggest Buying Wave Of 2026",
+      "publisher": "Benzinga",
+      "date": "2026-05-11 08:46",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "4 月份比特幣現貨 ETF 錄得近 20 億美元的資金流入，其中 BlackRock 的 IBIT 領跑，顯示機構投資者對比特幣的長期配置需求依然強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "Alpine Fox 13F shows large Cipher, IREN and IBIT positions",
+      "publisher": "Blockspace",
+      "date": "2026-05-14 19:39",
+      "impact": "low",
+      "category": "機構持倉",
+      "reason": "機構投資者 Alpine Fox 在 13F 報告中揭露持有大量 IBIT 部位，反映出專業投資機構對該 ETF 作為比特幣曝險工具的持續認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bitcoin ETFs Shed $630M in Largest Daily Exit Since January",
+      "publisher": "decrypt",
+      "date": "2026-05-14 10:56",
+      "impact": "high",
+      "category": "資金流向",
+      "reason": "單日 6.3 億美元的資金流出為 1 月以來最大規模，顯示短期獲利了結壓力大，且市場對比特幣 ETF 的信心出現動搖，此篇涵蓋了多篇關於資金流出的報導。"
+    },
+    {
+      "rank": 2,
+      "title": "IBIT: 35% Crypto Crash Ahead On Clarity Act Setback",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-11 11:04",
+      "impact": "medium",
+      "category": "法規風險",
+      "reason": "分析指出 CLARITY Act 法案進展不如預期，若監管環境惡化，可能導致比特幣及 IBIT 面臨超過 35% 的回調風險。"
+    },
+    {
+      "rank": 3,
+      "title": "Bitcoin ETFs Record Largest Outflow in Over 3 Months as Solana Funds Keep Flashing Green",
+      "publisher": "BeInCrypto",
+      "date": "2026-05-14 06:16",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "資金從比特幣 ETF 轉向其他加密貨幣資產（如 Solana），顯示投資者在加密貨幣板塊內進行資產配置輪動，對 IBIT 構成短期賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Bitcoin Holds The Recovery Zone, But The Options Tape Is Still Too Thin To Call A New Regime",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-15 12:20",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "比特幣價格雖維持在 8 萬美元區間，但期權市場交易量不足，無法確認新的趨勢方向，對 IBIT 的股價影響呈現中性觀察。"
+    },
+    {
+      "rank": 2,
+      "title": "Better Crypto ETF or Direct Buy: IBIT vs. XRP",
+      "publisher": "Motley Fool",
+      "date": "2026-05-14 08:20",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "文章僅針對 IBIT 與 XRP 的投資屬性進行比較分析，未對 IBIT 本身提供買賣建議，屬於教育性質內容。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
