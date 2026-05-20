@@ -1,0 +1,92 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-05-20",
+  "source_file": "cache/2026-05-20/candidates/news/NFLX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 0,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "Netflix 透過擴展消費性產品、強勁的廣告市場前景以及華爾街分析師給予的買入評級，展現出穩健的成長動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "BofA Securities Reiterates Buy on Netflix, Maintains $125 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-05-18 13:17",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "美國銀行分析師 Jessica Reif Ehrlich 重申買入評級並維持 125 美元目標價，顯示對公司長期成長策略的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix Expands Consumer Products Footprint With Strategic Confectionery And Toy Partnerships",
+      "publisher": "Benzinga",
+      "date": "2026-05-19 13:56",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "Netflix 與 Ferrero Group 等品牌合作，將業務拓展至糖果與玩具領域，有助於提升品牌變現能力與 IP 價值。"
+    },
+    {
+      "rank": 3,
+      "title": "Omdia: Amazon, Netflix and Google to Capture Half of $81 Billion CTV Advertising Market by 2030",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 07:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "預測顯示 Netflix 將在 2030 年前於 810 億美元的聯網電視廣告市場中佔據重要份額，廣告業務成長潛力巨大。"
+    },
+    {
+      "rank": 4,
+      "title": "Netflix Stock Prediction: Can It Hit $350 by 2027?",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 14:58",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "公司從與 Warner Bros. 的交易中獲得 28 億美元的終止費，顯著增強了現金流與財務彈性。"
+    },
+    {
+      "rank": 5,
+      "title": "Citi Maintains Buy Rating on Netflix (NFLX) Stock",
+      "publisher": "Yahoo",
+      "date": "2026-05-17 16:39",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "花旗分析師 Jason Bazinet 維持買入評級，肯定 Netflix 作為基本面強勁的投資標的。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Buy, Sell or Hold Netflix at $90?",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 14:19",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討股價在 90 美元水平的技術面與估值，市場對於是否進場存在分歧，屬於中性觀察。"
+    },
+    {
+      "rank": 2,
+      "title": "A Look At Netflix (NFLX) Valuation As Long Term Gains Contrast With Recent Share Price Weakness",
+      "publisher": "Yahoo",
+      "date": "2026-05-17 16:13",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "分析長期增長與近期股價疲軟之間的矛盾，強調估值調整的過程。"
+    },
+    {
+      "rank": 3,
+      "title": "Disney’s Next Battle Won’t Be Against Netflix",
+      "publisher": "Yahoo",
+      "date": "2026-05-17 14:00",
+      "impact": "low",
+      "category": "競爭分析",
+      "reason": "指出 Disney 的策略重心轉移，減輕了市場對串流媒體直接競爭的擔憂，對 Netflix 影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

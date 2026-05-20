@@ -1,0 +1,56 @@
+{
+  "ticker": "FSLR",
+  "company": "First Solar",
+  "analysis_date": "2026-05-20",
+  "source_file": "cache/2026-05-20/candidates/news/FSLR.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司透過策略合作擴展印度市場，並在股東大會中展現穩健的政策支持與內在價值成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "GameChange Solar Announces Partnership with First Solar to Support Next Phase of Utility-Scale Solar Growth in India",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 04:30",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "與 GameChange Solar 建立策略合作夥伴關係，有助於 First Solar 在印度公用事業規模太陽能市場的市占率擴張，強化長期營收成長動能。"
+    },
+    {
+      "rank": 2,
+      "title": "Is It Time To Reconsider First Solar (FSLR) After Strong Policy Support And DCF Estimate",
+      "publisher": "Yahoo",
+      "date": "2026-05-18 01:24",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 First Solar 受益於強勁的政策支持，且透過現金流折現模型 (DCF) 評估顯示股價具備被低估的潛力，吸引投資人重新審視其內在價值。"
+    },
+    {
+      "rank": 3,
+      "title": "First Solar, Inc. (FSLR) Shareholder/Analyst Call Prepared Remarks Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-13 15:10",
+      "impact": "low",
+      "category": "財報與營運說明",
+      "reason": "執行長 Mark Widmar 在會議中說明公司營運策略，展現管理層對未來市場布局的信心，為市場提供正向的營運指引。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Transcript : First Solar, Inc. - Shareholder/Analyst Call",
+      "publisher": "Finnhub",
+      "date": "2026-05-13 12:50",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "此為年度股東大會的會議紀錄，內容多為例行性程序與公司治理事項，對股價影響中性。已選取 SeekingAlpha 的分析師會議紀錄作為更具深度的代表。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,75 @@
+{
+  "ticker": "NET",
+  "company": "Cloudflare",
+  "analysis_date": "2026-05-20",
+  "source_file": "cache/2026-05-20/holdings/news/NET.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司正積極轉型 AI 業務並進行組織重組，市場對其策略調整與營運效率提升持審慎樂觀態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why Cloudflare (NET) Stock Is Trading Up Today",
+      "publisher": "StockStory",
+      "date": "2026-05-18",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價上漲反映了市場對公司近期營運表現或策略調整的正面回饋，顯示投資人對其成長動能的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "The 5 Most Interesting Analyst Questions From Cloudflare’s Q1 Earnings Call",
+      "publisher": "StockStory",
+      "date": "2026-05-18",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "分析師在財報會議中提出的關鍵問題顯示市場對公司 AI 變現能力與長期獲利路徑的高度關注，正面互動有助於釐清投資前景。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare Reshapes Business With AI Pivot And 20% Workforce Cut",
+      "publisher": "Simply Wall St.",
+      "date": "2026-05-19",
+      "impact": "high",
+      "category": "組織重組",
+      "reason": "雖然 AI 轉型具長期潛力，但 20% 的裁員規模暗示短期營運壓力與結構性調整的陣痛，可能引發市場對人才流失或業務穩定性的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "If You Invested $1000 In Cloudflare Stock 5 Years Ago, You Would Have This Much Today",
+      "publisher": "Benzinga",
+      "date": "2026-05-18",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此類文章為歷史績效回顧，對當前股價走勢與未來基本面無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "The Zacks Analyst Blog Highlights Palantir Technologies, Salesforce, Atlassian, Cloudflare and HubSpot",
+      "publisher": "Zacks",
+      "date": "2026-05-19",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為產業概覽與分析師觀點彙整，未針對 Cloudflare 提供具體的利多或利空催化劑。"
+    },
+    {
+      "rank": 3,
+      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "publisher": "TechCrunch",
+      "date": "2026-05-18",
+      "impact": "low",
+      "category": "產業動態",
+      "reason": "此為產業供應鏈的技術工具變動，對 Cloudflare 的核心業務影響有限，屬於中性產業新聞。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

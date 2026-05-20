@@ -1,0 +1,120 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-05-20",
+  "source_file": "cache/2026-05-20/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 11,
+    "bullish_count": 3,
+    "bearish_count": 4,
+    "neutral_count": 4,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場廣度指標呈現分歧，儘管 QQQ 技術面維持強勢，但面臨來自其他主題型 ETF 的績效競爭與市場輪動壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "AI Leadership Extends the Rally, Breadth Improves Again",
+      "publisher": "ChartMill",
+      "date": "2026-05-15 11:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "AI 領軍推動市場上漲，QQQ 與 SPY 進入突破區間，顯示科技股動能依然強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "Market Breadth Update May 13, 2026",
+      "publisher": "ChartMill",
+      "date": "2026-05-14 12:46",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "主要指數收於新高，技術面確認多頭趨勢，市場廣度指標表現正面。"
+    },
+    {
+      "rank": 3,
+      "title": "Market Breadth Remains Positive, But Participation Cools",
+      "publisher": "ChartMill",
+      "date": "2026-05-13 11:25",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "QQQ 仍維持在關鍵短期與長期趨勢線之上，結構性多頭趨勢未變。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "The Forgotten AI Trade Is Back: Software ETFs Outpace QQQ",
+      "publisher": "Benzinga",
+      "date": "2026-05-19 12:39",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "軟體類 ETF (如 IGV、WCLD) 近期表現優於 QQQ，顯示資金出現輪動，投資人轉向特定軟體股。"
+    },
+    {
+      "rank": 2,
+      "title": "XNTK Has Crushed QQQ by Six Points in 2026",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-05-19 13:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "XNTK 指數因選股邏輯差異，今年績效領先 QQQ 達 6 個百分點，對 QQQ 的資金吸引力構成挑戰。"
+    },
+    {
+      "rank": 3,
+      "title": "The $43 Billion ETF Hiding in Plain Sight. Why DIA Might Outperform SPY and QQQ",
+      "publisher": "Barchart",
+      "date": "2026-05-19 18:14",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析指出道瓊工業指數 ETF (DIA) 在 2026 年剩餘時間內可能優於 QQQ，反映市場風格轉換風險。"
+    },
+    {
+      "rank": 4,
+      "title": "QQQI: The Income Feels Good, But The Bear Market Won't",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-16 08:30",
+      "impact": "low",
+      "category": "產品分析",
+      "reason": "針對 QQQI 的備兌買權策略分析，指出其在熊市中缺乏下檔保護，且獲利上限受限。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Breadth Stabilizes, But Participation Remains Uneven",
+      "publisher": "ChartMill",
+      "date": "2026-05-19 09:10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場既未延續強勁漲勢，也未出現崩盤，QQQ 處於盤整階段，方向不明。"
+    },
+    {
+      "rank": 2,
+      "title": "One-Day Breadth Shock Interrupts the Breakout",
+      "publisher": "ChartMill",
+      "date": "2026-05-18 09:38",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場內部結構轉弱，但 QQQ 技術面仍強，正負因素抵銷。"
+    },
+    {
+      "rank": 3,
+      "title": "What Nvidia Earnings Mean for VOO and QQQ",
+      "publisher": "etf.com",
+      "date": "2026-05-19 20:26",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "Nvidia 財報將成為市場關鍵催化劑，對 QQQ 的影響取決於財報結果，目前處於觀望狀態。"
+    },
+    {
+      "rank": 4,
+      "title": "QDTE: Weekly Pay With Massive Distribution Rate Providing Competitive Returns",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-14 21:01",
+      "impact": "low",
+      "category": "產品分析",
+      "reason": "比較 QDTE 與 QQQI 的收益策略，屬於衍生性商品分析，對 QQQ 本身股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
