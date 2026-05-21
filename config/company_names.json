@@ -1,14 +1,12 @@
 {
   "holdings": {
     "AMZN": "Amazon",
-    "AMZU": "Direxion Daily AMZN Bull 2X Shares",
     "CEG": "Constellation Energy",
     "CRWD": "CrowdStrike",
     "ETN": "Eaton",
     "GGLL": "GOOGL",
     "GOOGL": "Google",
     "IBIT": "Bitcoin",
-    "LASR": "nLIGHT",
     "META": "Meta",
     "MSFT": "Microsoft",
     "NET": "Cloudflare",
@@ -24,6 +22,8 @@
     "BE": "Bloom Energy Corporation"
   },
   "competitors": {
+    "AMZU": "Direxion Daily AMZN Bull 2X Shares",
+    "LASR": "nLIGHT",
     "ONDS": "Ondas",
     "TSLL": "Direxion Daily TSLA Bull 2X Shares",
     "ANET": "Arista Networks",

@@ -1,0 +1,129 @@
+{
+  "ticker": "PANW",
+  "company": "Palo Alto Networks",
+  "analysis_date": "2026-05-20",
+  "source_file": "cache/2026-05-20/candidates/news/PANW.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 1,
+    "neutral_count": 4,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "公司憑藉 AI 驅動的 Idira 身份安全平台與強勁的市場表現，獲得多家券商上調目標價，股價動能顯著。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Oppenheimer Lifts Price Target on Palo Alto Networks, Inc. (PANW) to $275, Maintains Outperform Rating",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 06:01",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Oppenheimer 分析師 Ittai Kidron 將目標價上調至 $275，反映市場對其 AI 策略與身份安全業務的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Truist Securities Maintains Buy on Palo Alto Networks, Raises Price Target to $275",
+      "publisher": "Benzinga",
+      "date": "2026-05-19 14:11",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Junaid Siddiqui 維持買入評級並上調目標價，進一步鞏固市場對該股的看漲共識。"
+    },
+    {
+      "rank": 3,
+      "title": "Jefferies Hikes Palo Alto Networks Price Target to $265: AI Is Compressing Attack Timelines",
+      "publisher": "Yahoo",
+      "date": "2026-05-14 15:24",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Jefferies 將目標價從 $215 大幅調升至 $265，強調 AI 技術在縮短網路攻擊時間線上的重要性。"
+    },
+    {
+      "rank": 4,
+      "title": "Palo Alto Networks Idira Puts Identity Security At Core Of AI Story",
+      "publisher": "Yahoo",
+      "date": "2026-05-15 05:10",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出 Idira 身份安全平台，將其定位為 AI 驅動企業的核心安全架構，具備長期成長潛力。"
+    },
+    {
+      "rank": 5,
+      "title": "Palo Alto Stock Staring at Its Longest Winning Streak in 3 Years",
+      "publisher": "Yahoo",
+      "date": "2026-05-18 16:17",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價展現強勁動能，創下三年來最長連漲紀錄，顯示市場買盤強勁。"
+    },
+    {
+      "rank": 6,
+      "title": "Insiders of Palo Alto Networks Getting Good Value On Their US$10.00m Investment",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 14:00",
+      "impact": "low",
+      "category": "內部人交易",
+      "reason": "內部人過去 12 個月內投入 1,000 萬美元買入股票，顯示管理層對公司前景具備信心。"
+    },
+    {
+      "rank": 7,
+      "title": "Trade Tracker: Kevin Simpson trims IBM, buys more Palo Alto Networks",
+      "publisher": "CNBC",
+      "date": "2026-05-15 12:35",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "知名投資人 Kevin Simpson 調整投資組合，減持 IBM 並增持 PANW，顯示機構資金流向。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "CRWD vs. PANW: Which Cybersecurity Stock Has an Edge Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-05-18 14:40",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "報導指出 CrowdStrike 在 Falcon Flex 採用率與 ARR 成長預測上具備優勢，對 PANW 構成競爭壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "ServiceNow and Other Software Stocks Are Leading the Sector Out of the Abyss",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 14:49",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 PANW 歸類為軟體板塊反彈的領頭羊之一，屬於板塊輪動的市場觀察，非公司特定利多。"
+    },
+    {
+      "rank": 2,
+      "title": "Jim Cramer Shares Why Palo Alto (PANW) Is Having The Last Laugh",
+      "publisher": "Yahoo",
+      "date": "2026-05-18 14:48",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "Jim Cramer 的評論屬於市場觀點分享，對股價無直接實質影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Most-Watched Stock Palo Alto Networks, Inc. (PANW) Worth Betting on Now?",
+      "publisher": "Yahoo",
+      "date": "2026-05-15 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為 Zacks.com 的熱門股觀察報告，未提供新的基本面資訊。"
+    },
+    {
+      "rank": 4,
+      "title": "Why The Palo Alto Networks (PANW) Investment Story Is Shifting With New AI And Integration Updates",
+      "publisher": "Yahoo",
+      "date": "2026-05-13 04:34",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "公平價值目標僅微幅調整，顯示市場對其估值已趨於穩定。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

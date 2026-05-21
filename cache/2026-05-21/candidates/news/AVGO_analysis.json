@@ -1,0 +1,93 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-05-20",
+  "source_file": "cache/2026-05-20/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 2,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "Broadcom 憑藉強勁的 AI 晶片需求與 VMware 雲端基礎設施的整合，獲得華爾街分析師調升目標價，並與倫敦證券交易所集團 (LSEG) 達成長期合作，市場前景持續看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "What's Going On With Broadcom Stock Tuesday? — Wall Street remains bullish on Broadcom (AVGO) ahead of earnings, with Wells Fargo, TD Cowen, and UBS lifting price targ",
+      "publisher": "Benzinga",
+      "date": "2026-05-19 06:54",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "多家頂級投行如 Wells Fargo、TD Cowen 與 UBS 同步上調目標價，顯示華爾街對其財報表現與 AI 成長動能具備高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom Deepens LSEG Ties While Targeting US$100b In Custom AI Chips",
+      "publisher": "Yahoo",
+      "date": "2026-05-20 03:15",
+      "impact": "high",
+      "category": "商業合作",
+      "reason": "Broadcom 與 LSEG 簽署五年期技術合作協議，並明確提出 1,000 億美元的客製化 AI 晶片營收目標，展現強大的市場擴張能力。"
+    },
+    {
+      "rank": 3,
+      "title": "How Broadcom (AVGO) Is Bringing VMware Into Production AI Infrastructure",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 20:24",
+      "impact": "medium",
+      "category": "產品策略",
+      "reason": "成功將 VMware 整合至 AI 生產基礎設施，強化了 Broadcom 在次世代資料中心領域的競爭護城河。"
+    },
+    {
+      "rank": 4,
+      "title": "TD Cowen Raises PT on Broadcom (AVGO), Keeps a Buy",
+      "publisher": "Yahoo",
+      "date": "2026-05-18 20:00",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "TD Cowen 基於億萬富翁投資人的長期看好觀點，進一步調升目標價，強化了市場對其長期投資價值的認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "AMD, Broadcom and Qualcomm Lead Chip Stock Sell-Off Ahead of Nvidia Earnings",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 17:50",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受 Nvidia 財報前夕市場避險情緒影響，半導體類股出現集體拋售，導致 Broadcom 短期股價承壓。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom Inc. (AVGO) Declines More Than Market: Some Information for Investors",
+      "publisher": "Yahoo",
+      "date": "2026-05-18 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "單日股價下跌 1.05%，表現弱於大盤，主要反映短期獲利了結賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Up 23%, Should You Buy Broadcom Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 23:50",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "文章探討近期 23% 的漲幅是否已反映完畢，持中立觀點，認為雖然估值已高，但 XPU 業務仍具吸引力。"
+    },
+    {
+      "rank": 2,
+      "title": "How The Broadcom (AVGO) Investment Story Is Shifting With AI Hopes And Fresh Concerns",
+      "publisher": "Yahoo",
+      "date": "2026-05-18 17:10",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "公平價值估計僅從 475.49 美元微調至 476.78 美元，顯示分析師認為目前股價已趨於合理區間。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

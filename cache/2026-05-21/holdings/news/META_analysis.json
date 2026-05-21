@@ -1,0 +1,111 @@
+{
+  "ticker": "META",
+  "company": "Meta",
+  "analysis_date": "2026-05-20",
+  "source_file": "cache/2026-05-20/holdings/news/META.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 3,
+    "bearish_count": 13,
+    "neutral_count": 4,
+    "overall_sentiment": "bearish",
+    "key_theme": "Meta 進行大規模裁員與組織重組以全力轉向 AI 發展，市場對其高昂的資本支出與裁員帶來的營運不確定性感到擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Meta Platforms Will Be a $3 Trillion Company By This Date",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 18:03",
+      "impact": "low",
+      "category": "市場展望",
+      "reason": "分析師看好 Meta 長期成長潛力，認為儘管近期股價回調，但仍具備邁向 3 兆美元市值的基本面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Meta Stock Is Off Its Highs, and Could be Cheap - What's the Best META Play?",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 13:00",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "指出 Meta 在第一季財報後股價回調，基於營收與營運現金流表現，目前估值可能被低估，提供逢低布局機會。"
+    },
+    {
+      "rank": 3,
+      "title": "GIPHY Extends Multi-Year Integration Partnership with Meta",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 14:00",
+      "impact": "low",
+      "category": "商業合作",
+      "reason": "Meta 與 GIPHY 續簽長期合作協議，有助於維持其社群平台內容生態的穩定性與用戶互動體驗。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Meta layoffs starting this week stress harsh AI reality inside Zuckerberg’s company",
+      "publisher": "CNBC",
+      "date": "2026-05-18 08:00",
+      "impact": "high",
+      "category": "組織重組",
+      "reason": "Meta 啟動 8,000 人的大規模裁員，反映出公司在 AI 轉型過程中的陣痛與營運策略的劇烈調整，引發市場對內部穩定性的疑慮。"
+    },
+    {
+      "rank": 2,
+      "title": "The Spill: Meta’s (META) $145 Billion Bet on Superintelligence",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 21:28",
+      "impact": "medium",
+      "category": "財務支出",
+      "reason": "Meta 投入高達 1,450 億美元於 AI 超級智慧開發，高昂的資本支出引發投資人對獲利能力與現金流壓力的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Samsung and Google detail AI smart glasses, putting pressure on Meta as Apple preps rival eyewear",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 17:45",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "三星與 Google 展示 AI 智慧眼鏡，加劇了穿戴式裝置市場的競爭壓力，對 Meta 的硬體布局構成潛在威脅。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Exclusive-Meta offers AI rival chatbots limited free WhatsApp access, sources say",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 19:17",
+      "impact": "low",
+      "category": "產品策略",
+      "reason": "Meta 開放 WhatsApp 部分權限給競爭對手 AI 聊天機器人，此舉旨在擴大生態系影響力，但對短期財務影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Analyzing OKLO Post Q1 Results and Fresh AI-Nuclear Milestones",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 12:46",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "提及 OKLO 與 Meta 在 AI 資料中心能源方面的潛在連結，屬於產業供應鏈的間接消息，對 Meta 股價影響中性。"
+    },
+    {
+      "rank": 3,
+      "title": "Meta Critical Minerals Commences Environmental Baseline Studies at Table Mountain Silica Project, BC",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 11:00",
+      "impact": "low",
+      "category": "其他",
+      "reason": "此新聞涉及名為 Meta Critical Minerals 的礦業公司，與 Meta Platforms (META) 無關，屬名稱混淆。"
+    },
+    {
+      "rank": 4,
+      "title": "Pinterest Is Down 6% Today. Here’s Why It’s Trailing Other Social Media Stocks Like Meta Platforms and Snap",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 18:46",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導主要分析 Pinterest 股價下跌原因，僅將 Meta 作為同業對照組，未對 Meta 本身產生實質影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

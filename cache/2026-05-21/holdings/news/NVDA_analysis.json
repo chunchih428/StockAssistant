@@ -1,0 +1,201 @@
+{
+  "ticker": "NVDA",
+  "company": "NVIDIA",
+  "analysis_date": "2026-05-20",
+  "source_file": "cache/2026-05-20/holdings/news/NVDA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 5,
+    "bearish_count": 6,
+    "neutral_count": 9,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場高度關注 NVIDIA 即將公布的財報，在總體經濟利率攀升的壓力下，多空雙方正針對其 AI 領導地位與競爭對手的挑戰進行激烈博弈。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Nvidia Poised for First-Quarter Sales Outperformance, BofA Says",
+      "publisher": "Yahoo",
+      "date": "2026-05-19",
+      "impact": "high",
+      "category": "財報預測",
+      "reason": "美國銀行 (BofA) 分析指出 NVIDIA 第一季營收有望超越市場預期，顯示其在 AI 晶片市場的強勁動能持續。"
+    },
+    {
+      "rank": 2,
+      "title": "NVIDIA (NVDA): The Best Low Leverage Stock to Buy",
+      "publisher": "Yahoo",
+      "date": "2026-05-19",
+      "impact": "medium",
+      "category": "投資評級",
+      "reason": "RBC Capital 維持對 NVIDIA 的正面評級，並將其列為最佳低槓桿股票之一，增強投資人信心。"
+    },
+    {
+      "rank": 3,
+      "title": "How Nvidia (NVDA) Is Building CPUs for the Agentic AI Data Center",
+      "publisher": "Yahoo",
+      "date": "2026-05-19",
+      "impact": "medium",
+      "category": "產品技術",
+      "reason": "公司持續擴展產品線至 CPU 領域，針對下一代資料中心進行布局，鞏固其 AI 基礎設施的領導地位。"
+    },
+    {
+      "rank": 4,
+      "title": "Most People Won't Lose Jobs To AI, Nvidia CEO Jensen Huang Says",
+      "publisher": "Yahoo",
+      "date": "2026-05-20",
+      "impact": "low",
+      "category": "企業願景",
+      "reason": "執行長黃仁勳對 AI 勞動力影響的正面論述，有助於緩解市場對 AI 發展的社會性擔憂。"
+    },
+    {
+      "rank": 5,
+      "title": "Ross Gerber Says AI Efficiency Gains Already 'Amazing'",
+      "publisher": "Yahoo",
+      "date": "2026-05-19",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "知名投資人肯定 AI 帶來的效率提升，間接支持 NVIDIA 作為 AI 算力核心的價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Google and Blackstone Join Forces to Topple Nvidia’s AI Cloud Dominance",
+      "publisher": "Yahoo",
+      "date": "2026-05-19",
+      "impact": "high",
+      "category": "競爭威脅",
+      "reason": "Google 與 Blackstone 合作投入 50 億美元開發 AI 基礎設施，直接挑戰 NVIDIA 在 AI 雲端運算的壟斷地位。"
+    },
+    {
+      "rank": 2,
+      "title": "Asian stocks fall for 4th day as higher yields bite, all eyes on Nvidia results",
+      "publisher": "Reuters",
+      "date": "2026-05-20",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "總體經濟環境惡化，美債殖利率攀升對科技股估值造成壓力，市場對 NVIDIA 財報的期待伴隨著高風險情緒。"
+    },
+    {
+      "rank": 3,
+      "title": "The Upside of Nvidia’s 3-Day Losing Streak",
+      "publisher": "Yahoo",
+      "date": "2026-05-19",
+      "impact": "medium",
+      "category": "股價表現",
+      "reason": "股價連續三日下跌，反映出投資人在財報公布前夕的獲利了結賣壓與避險心態。"
+    },
+    {
+      "rank": 4,
+      "title": "Stock Market Today, May 19: Soaring Treasury Yields Pressure Markets",
+      "publisher": "Yahoo",
+      "date": "2026-05-19",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "殖利率上升導致整體市場承壓，NVIDIA 作為高成長股，對利率敏感度較高。"
+    },
+    {
+      "rank": 5,
+      "title": "Nvidia gets unexpected China opening as chip fight intensifies",
+      "publisher": "Yahoo",
+      "date": "2026-05-19",
+      "impact": "low",
+      "category": "地緣政治",
+      "reason": "儘管有市場准入機會，但中國市場的晶片競爭加劇，長期獲利能力仍面臨地緣政治不確定性。"
+    },
+    {
+      "rank": 6,
+      "title": "Nvidia says “Physical AI is here”. Is Your Blue Collar Job in Danger?",
+      "publisher": "Yahoo",
+      "date": "2026-05-19",
+      "impact": "low",
+      "category": "企業願景",
+      "reason": "關於 AI 取代藍領工作的討論可能引發監管機構或公眾對 AI 倫理的關注。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Wall Street still as bullish on Nvidia as other chip stocks?",
+      "publisher": "Yahoo",
+      "date": "2026-05-19",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "探討華爾街對 NVIDIA 的熱度是否減退，屬於財報前夕的市場觀察，無實質利多或利空。"
+    },
+    {
+      "rank": 2,
+      "title": "What investors need to watch on May 20: Nvidia, Fed Minutes",
+      "publisher": "Yahoo",
+      "date": "2026-05-19",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "單純的財報前瞻報導，提醒投資人關注財報與聯準會會議紀要。"
+    },
+    {
+      "rank": 3,
+      "title": "Beyond Nvidia: Why investors might want to buy foreign stocks",
+      "publisher": "Yahoo",
+      "date": "2026-05-19",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "建議投資人分散投資至海外市場，雖提及 NVIDIA，但重點在於資產配置建議。"
+    },
+    {
+      "rank": 4,
+      "title": "What Nvidia Earnings Mean for VOO and QQQ",
+      "publisher": "Yahoo",
+      "date": "2026-05-19",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "分析 NVIDIA 財報對 ETF 的影響，屬於指數成分股的常規分析。"
+    },
+    {
+      "rank": 5,
+      "title": "Beyond NVIDIA: The Next Phase of the AI Investment Boom",
+      "publisher": "Yahoo",
+      "date": "2026-05-19",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "探討 AI 投資的下一階段，將焦點從單一公司擴展至整體產業鏈。"
+    },
+    {
+      "rank": 6,
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures waver in countdown to Nvidia earnings",
+      "publisher": "Yahoo",
+      "date": "2026-05-19",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場在財報公布前的觀望情緒，屬於正常的市場波動描述。"
+    },
+    {
+      "rank": 7,
+      "title": "Dow Jones Futures Fall With Nvidia Earnings Due; Micron, Sandisk, Astera Rise",
+      "publisher": "Yahoo",
+      "date": "2026-05-20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導市場對財報的觀望，並提及其他 AI 相關個股的表現，對 NVIDIA 本身無直接影響。"
+    },
+    {
+      "rank": 8,
+      "title": "Dow Jones Futures: Stocks Fall As Yields Jump; Micron, Sandisk, Astera Rise With Nvidia Earnings Due",
+      "publisher": "Yahoo",
+      "date": "2026-05-19",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "與前述報導內容重複，作為財報前夕的市場情緒總結。"
+    },
+    {
+      "rank": 9,
+      "title": "Google & Blackstone Partner to Build New Toll Road for AI",
+      "publisher": "Yahoo",
+      "date": "2026-05-19",
+      "impact": "low",
+      "category": "競爭威脅",
+      "reason": "與前述 Google 與 Blackstone 合作報導內容重複，選定該篇作為補充說明。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,120 @@
+{
+  "ticker": "MSFT",
+  "company": "Microsoft",
+  "analysis_date": "2026-05-20",
+  "source_file": "cache/2026-05-20/holdings/news/MSFT.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 4,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管面臨基金減持與 Copilot 部署挑戰，Microsoft 憑藉 AI 基礎設施擴張、法律障礙解除及強勁的生態系合作，展現出長期價值投資吸引力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why Microsoft (MSFT) Stock Is Trading Up Today",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 18:12",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價單日上漲 3.8 %，反映市場對其 AI 戰略與近期利多消息的積極反應。"
+    },
+    {
+      "rank": 2,
+      "title": "What's Going On With Microsoft Stock Tuesday? — MSFT stock trends as Elon Musk loses OpenAI lawsuit",
+      "publisher": "Benzinga",
+      "date": "2026-05-19 10:17",
+      "impact": "high",
+      "category": "法規與訴訟",
+      "reason": "Elon Musk 敗訴消除了 Microsoft 在 OpenAI 投資上的法律不確定性，降低了潛在的監管與訴訟風險。"
+    },
+    {
+      "rank": 3,
+      "title": "Prediction: Microsoft Just Became One of Big Tech’s Best Values",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 11:52",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 MSFT 年初至今股價回調超過 11 %，估值已來到具吸引力的買入區間。"
+    },
+    {
+      "rank": 4,
+      "title": "Microsoft's biggest India data center on track to go live in mid-2026",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 12:51",
+      "impact": "medium",
+      "category": "基礎設施擴張",
+      "reason": "印度大型資料中心進度順利，顯示 Microsoft 在新興市場雲端基礎設施的持續投入與成長潛力。"
+    },
+    {
+      "rank": 5,
+      "title": "Microsoft Says Unsealed Legal Case In U.S. District Court For Southern District Of New York Targeting A Cybercrime Service",
+      "publisher": "Benzinga",
+      "date": "2026-05-19 11:10",
+      "impact": "low",
+      "category": "資安與法規",
+      "reason": "成功打擊網路犯罪服務 Fox Tempest，展現 Microsoft 在資安領域的領導地位與技術防禦能力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bill Gates' Foundation Closes Microsoft Chapter, Offloads Last $3.2 Billion Stake",
+      "publisher": "Yahoo",
+      "date": "2026-05-20 01:31",
+      "impact": "high",
+      "category": "股權變動",
+      "reason": "Bill & Melinda Gates 基金會清空剩餘 32 億美元持股，雖屬長期規劃，但對市場信心造成短期心理壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "3G Capital Exits Microsoft Stock in Major Portfolio Shift",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 17:02",
+      "impact": "medium",
+      "category": "股權變動",
+      "reason": "知名機構 3G Capital 出清持股轉向半導體產業，顯示部分大型投資人對 AI 投資組合的配置調整。"
+    },
+    {
+      "rank": 3,
+      "title": "Microsoft 365 Copilot Deployments Risk Scaling Inconsistency Instead of Value",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 19:57",
+      "impact": "medium",
+      "category": "產品發展",
+      "reason": "研究指出企業在部署 Copilot 時面臨價值轉化困難，可能影響後續訂閱成長的預期。"
+    },
+    {
+      "rank": 4,
+      "title": "EVP Of Microsoft Sold $519K In Stock",
+      "publisher": "Benzinga",
+      "date": "2026-05-19 11:02",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "執行副總裁進行股票拋售，雖金額不大，但內部人賣股常被視為股價短期高點的訊號。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Digitate, Calabrio, and Leostream Updates for Microsoft Ecosystem",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 13:00",
+      "impact": "low",
+      "category": "生態系合作",
+      "reason": "多項合作夥伴取得認證或更新，顯示 Microsoft 生態系持續擴張，但對單一公司股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Does Microsoft's Stock Belong in Your Retirement Portfolio?",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 15:05",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "探討退休組合配置，屬於中性投資建議，無具體利多或利空消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
