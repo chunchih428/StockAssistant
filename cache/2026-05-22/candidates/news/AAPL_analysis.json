@@ -1,0 +1,111 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-05-20",
+  "source_file": "cache/2026-05-20/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 3,
+    "neutral_count": 8,
+    "overall_sentiment": "bullish",
+    "key_theme": "Apple 積極推動 Apple Intelligence 整合與服務擴張，市場對其 AI 變現能力與長期估值成長持樂觀態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple Unveils AI Push Beyond Siri With Smart Writing, Accessibility Features",
+      "publisher": "Benzinga",
+      "date": "2026-05-19 12:09",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Apple 透過 Apple Intelligence 強化輔助功能與系統應用，展現其在 AI 軟體生態的實質進展，有助於提升用戶黏著度。"
+    },
+    {
+      "rank": 2,
+      "title": "Prediction: Apple Will Be First to Hit a $6T Valuation. AI is a Massive Reason Why",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 12:51",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師看好 AI 帶動的長期成長潛力，預測 Apple 將成為首家市值突破 6 兆美元的企業。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple Sports Expands To More Than 90 New Countries And Regions",
+      "publisher": "Benzinga",
+      "date": "2026-05-19 12:05",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "Apple Sports 擴展至 90 多個國家，並整合 2026 年世界盃功能，顯示其服務業務 (Services) 持續強勁成長。"
+    },
+    {
+      "rank": 4,
+      "title": "Nvidia, Apple, Amazon Could Lead Next Magnificent Seven Breakout",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 14:58",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Oppenheimer 將 Apple 列為科技股突破的首選標的之一，反映機構投資人對其技術領先地位的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Apple Faces Renewed App Store Fight as Fortnite Returns",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 17:11",
+      "impact": "medium",
+      "category": "法規與訴訟",
+      "reason": "Epic Games 重新上架 Fortnite 並持續挑戰 App Store 收費機制，可能對 Apple 的高利潤服務收入構成長期監管壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple's New Hardware Boss Shakes Up Oversight Of Product Design",
+      "publisher": "Benzinga",
+      "date": "2026-05-19 11:45",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "硬體部門主管進行組織調整，雖屬內部優化，但短期內可能帶來產品開發流程的不確定性。"
+    },
+    {
+      "rank": 3,
+      "title": "Samsung and Google detail AI smart glasses, putting pressure on Meta as Apple preps rival eyewear",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 17:45",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "競爭對手 Samsung 與 Google 在 AI 智慧眼鏡領域的進展，加劇了穿戴式裝置市場的競爭壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Apple Trades Close to 52-Week High: Buy, Sell or Hold the Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 16:23",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價接近 52 週高點，市場對於 AI 潛力與高估值之間存在分歧，建議持平看待。"
+    },
+    {
+      "rank": 2,
+      "title": "Nvidia and Apple hold stock market's power like never before: Chart of the Day",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 15:52",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "指出標普 500 指數對 Apple 與 Nvidia 的高度集中，屬於市場結構分析，對股價無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Trump traded over $50 million in 'Magnificent 7' stocks last quarter",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 10:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "政治人物的投資組合調整，反映市場對大型科技股的關注，但非公司基本面消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

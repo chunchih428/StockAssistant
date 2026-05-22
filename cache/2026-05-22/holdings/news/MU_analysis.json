@@ -1,0 +1,102 @@
+{
+  "ticker": "MU",
+  "company": "Micron Technology",
+  "analysis_date": "2026-05-20",
+  "source_file": "cache/2026-05-20/holdings/news/MU.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "AI 需求帶動記憶體產業成長，多位分析師上調目標價，儘管面臨總體經濟與資本支出擔憂，市場對 Micron 的長期價值仍持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Citigroup Maintains Buy on Micron Technology, Raises Price Target to $840",
+      "publisher": "Benzinga",
+      "date": "2026-05-19 08:39",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "花旗分析師 Atif Malik 維持買入評級並大幅上調目標價至 840 美元，顯示對公司在 AI 記憶體市場的競爭力極具信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Melius Research Maintains Buy on Micron Technology, Raises Price Target to $1100",
+      "publisher": "Benzinga",
+      "date": "2026-05-19 08:20",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Melius Research 將目標價調升至 1100 美元，反映市場對 Micron 在 AI 基礎設施中關鍵地位的極高估值預期。"
+    },
+    {
+      "rank": 3,
+      "title": "Micron’s AI Profit Boom And US$150b Bet Reshape Memory Cycle Narrative",
+      "publisher": "Yahoo",
+      "date": "2026-05-18 22:10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出 Micron 受益於 AI 需求帶來的獲利爆發，且 1500 億美元的投資計畫正在重塑記憶體週期的敘事邏輯。"
+    },
+    {
+      "rank": 4,
+      "title": "Mizuho Maintains Outperform on Micron Technology, Raises Price Target to $800",
+      "publisher": "Benzinga",
+      "date": "2026-05-19 07:34",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "瑞穗分析師 Vijay Rakesh 上調目標價至 800 美元，進一步強化了華爾街對該股的看多共識。"
+    },
+    {
+      "rank": 5,
+      "title": "How Micron (MU) Is Targeting AI Data Centers With Higher-Capacity Server Memory",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 20:25",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Micron 針對 AI 資料中心推出高容量伺服器記憶體，直接切入高成長市場，具備長期營收成長動能。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Nasdaq 100 Drops Over 1%, Oil Tops $106 On Iran Impasse: Stock Market Today",
+      "publisher": "Benzinga",
+      "date": "2026-05-18 13:07",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場對 AI 資本支出（capex）產生疑慮，導致包括 Micron 在內的科技股出現拋售壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Bill Baruch Trims Micron Technology, Inc. (MU)",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 20:00",
+      "impact": "low",
+      "category": "投資組合調整",
+      "reason": "投資人 Bill Baruch 減持 Micron 部位，顯示部分獲利了結壓力，但未改變其作為 AI 投資標的的地位。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Micron Stock Rises as Samsung Strike Spikes Fears Over Memory-Chips Shortage",
+      "publisher": "Yahoo",
+      "date": "2026-05-18 11:44",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "三星罷工引發記憶體供應短缺擔憂，對 Micron 而言是潛在利多，但因屬於外部事件，影響程度尚不明確。"
+    },
+    {
+      "rank": 2,
+      "title": "Should You Buy Micron Technology Stock Now or Wait for a Dip?",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 15:05",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "文章探討買入時機，提供多空雙方觀點，未給予明確操作建議，屬中性分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

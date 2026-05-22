@@ -1,0 +1,57 @@
+{
+  "ticker": "GEN",
+  "company": "Gen Digital",
+  "analysis_date": "2026-05-20",
+  "source_file": "cache/2026-05-20/candidates/news/GEN.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司持續推動 AI 產品創新並展現強勁現金流，儘管面臨機構投資人持股調整，整體市場情緒仍偏向正面。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Gen Digital Stock Shows Unusual Call Options Volume - Are Investors Bullish?",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 17:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場出現異常的買權 (Call Options) 交易量，顯示投資人對該公司強勁的自由現金流表現持樂觀態度，預期股價有上漲空間。"
+    },
+    {
+      "rank": 2,
+      "title": "Gen Digital Bets On AI Browser Security To Support Norton Ecosystem",
+      "publisher": "Yahoo",
+      "date": "2026-05-13 08:15",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "透過 Norton Neo 瀏覽器整合 AI 原生安全功能，有助於強化 Norton 生態系統的競爭力，並提升用戶黏著度與長期營收潛力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Starboard Value Decreases Stake In Gen Digital To 7,806,922 Shares",
+      "publisher": "Benzinga",
+      "date": "2026-05-15 16:41",
+      "impact": "low",
+      "category": "股權變動",
+      "reason": "知名避險基金 Starboard Value 減持股份，雖可能引發市場對機構籌碼鬆動的擔憂，但屬於常規投資組合調整，影響程度相對有限。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Gen to Participate in Upcoming Investor Conferences",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 12:30",
+      "impact": "low",
+      "category": "公司活動",
+      "reason": "公司宣布參與投資人會議屬於例行性投資人關係活動，旨在增加市場溝通，對股價無直接顯著影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

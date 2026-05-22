@@ -1,0 +1,56 @@
+{
+  "ticker": "NEXA",
+  "company": "Nexa Resources S.A.",
+  "analysis_date": "2026-05-20",
+  "source_file": "cache/2026-05-20/candidates/news/NEXA.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司因秘魯 Cajamarquilla 冶煉廠事故導致營運暫停，與其基本面估值折價及銀礦串流合約改善帶來的長期成長潛力形成多空拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Nexa Resources: The Silver Streaming Step-Down Quietly Rewrites The Cash Flow Profile",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-14",
+      "impact": "high",
+      "category": "財務分析",
+      "reason": "分析師給予買入評級，指出銀礦與鋅礦市場供需緊俏，加上銀礦串流合約條款改善，將顯著優化公司現金流結構，且目前股價處於深度折價狀態。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Nexa Resources (NEXA) Stock Undervalued Right Now?",
+      "publisher": "Zacks",
+      "date": "2026-05-15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "透過量化指標分析，認為該股目前估值偏低，具備潛在的價值回升空間，吸引價值型投資人關注。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Nexa Provides Update on Cajamarquilla Operation",
+      "publisher": "Finnhub",
+      "date": "2026-05-13",
+      "impact": "high",
+      "category": "營運風險",
+      "reason": "公司宣布秘魯 Cajamarquilla 冶煉廠因發生人員受傷事故而暫停營運，直接影響短期產能與營收表現，選此篇作為代表，因其為官方營運更新公告。"
+    },
+    {
+      "rank": 2,
+      "title": "Cajamarquilla Shutdown and Q1 Results Could Be A Game Changer For Nexa Resources (NEXA)",
+      "publisher": "Simply Wall St.",
+      "date": "2026-05-17",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "將冶煉廠停工與第一季財報結果連結，市場擔憂停工事件對季度獲利造成負面衝擊，可能成為股價波動的關鍵轉折點。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

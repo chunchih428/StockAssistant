@@ -1,0 +1,93 @@
+{
+  "ticker": "NXT",
+  "company": "Nextpower",
+  "analysis_date": "2026-05-20",
+  "source_file": "cache/2026-05-20/candidates/news/NXT.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 1,
+    "neutral_count": 4,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "公司發布優於預期的財報並上調財測，同時透過收購 Zigor 資產擴展儲能與數據中心業務，獲得多家券商調升目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Nextpower Stock Rises Sharply. Why the Solar Company Is Raising Guidance.",
+      "publisher": "Yahoo",
+      "date": "2026-05-13 13:49",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司發布優於預期的第 4 季財報，並上調未來財測，直接推動股價強勁上漲。"
+    },
+    {
+      "rank": 2,
+      "title": "BNP Paribas Maintains Outperform on Nextpower, Raises Price Target to $177",
+      "publisher": "Benzinga",
+      "date": "2026-05-13 13:59",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "法國巴黎銀行將目標價大幅調升至 $177，顯示對公司成長潛力的強烈信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Nextpower Buys Zigor Assets To Expand Into Storage And Data Centers",
+      "publisher": "Yahoo",
+      "date": "2026-05-13 19:19",
+      "impact": "medium",
+      "category": "企業併購",
+      "reason": "收購 Zigor 資產有助於公司將業務版圖擴展至高成長的儲能與數據中心領域，具備長期戰略價值。"
+    },
+    {
+      "rank": 4,
+      "title": "Barclays Maintains Overweight on Nextpower, Raises Price Target to $142",
+      "publisher": "Benzinga",
+      "date": "2026-05-19 08:42",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "巴克萊銀行維持加碼評級並調升目標價，反映市場對公司近期表現的持續認可。"
+    },
+    {
+      "rank": 5,
+      "title": "Citigroup Maintains Buy on Nextpower, Raises Price Target to $145",
+      "publisher": "Benzinga",
+      "date": "2026-05-13 14:52",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "花旗銀行將目標價由 $114 調升至 $145，肯定其市場競爭力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Nextpower: It's Time For Value Investors To Head For The Exit (Rating Downgrade)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-17 10:25",
+      "impact": "medium",
+      "category": "市場觀點",
+      "reason": "分析師指出儘管 FY26 營收預期成長 20%，但第 4 季出現成長放緩跡象，且約 30 倍的預期本益比已偏高，建議投資人獲利了結。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Mizuho Maintains Neutral on Nextpower, Raises Price Target to $130",
+      "publisher": "Benzinga",
+      "date": "2026-05-14 08:52",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "瑞穗銀行雖調升目標價，但維持中立評級，顯示對當前股價估值持保留態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Nextracker Inc. (NXT) Is a Trending Stock: Facts to Know Before Betting on It",
+      "publisher": "Yahoo",
+      "date": "2026-05-18 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場熱門度分析，並未提供新的基本面利多或利空資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
