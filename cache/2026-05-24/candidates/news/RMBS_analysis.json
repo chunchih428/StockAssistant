@@ -1,0 +1,56 @@
+{
+  "ticker": "RMBS",
+  "company": "Rambus Inc.",
+  "analysis_date": "2026-05-24",
+  "source_file": "cache/2026-05-24/candidates/news/RMBS.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 0,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對 Rambus 的成長潛力與技術領先地位持樂觀態度，但技術面脆弱性與分析師對估值的歧見導致多空看法分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Rambus Inc. (NASDAQ:RMBS) – A GARP Gem with Strong Growth and a Solid Balance Sheet",
+      "publisher": "ChartMill",
+      "date": "2026-05-21 08:20",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "該報告給予 Rambus 高成長與健康評級，強調其 EPS 與營收動能強勁，且資產負債表穩健，符合 GARP (成長型價值投資) 策略。"
+    },
+    {
+      "rank": 2,
+      "title": "Should Rambus’ New PCIe 7.0 Switch IP Shift the Core Narrative for RMBS Investors?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-05-15 06:14",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Rambus 推出 PCIe 7.0 Switch IP，展現其在高速介面技術的領先地位，有助於提升長期競爭優勢與市場敘事。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "AMD and Rambus Show Signs of Technical Vulnerability. Where Prices Could Be Headed.",
+      "publisher": "Barrons.com",
+      "date": "2026-05-14 19:22",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "技術分析顯示股價出現脆弱跡象，暗示短期內可能面臨回調壓力，對交易型投資人構成負面訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "8 Out of 9 Analysts Say Buy Rambus. We Say Hold. Here Is the Case for Stepping Aside",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-05-14 15:57",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管多數分析師看好，但該媒體提出反向觀點，建議投資人暫時觀望，反映出市場對當前股價估值是否過高的疑慮。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

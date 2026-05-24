@@ -1,0 +1,75 @@
+{
+  "ticker": "BE",
+  "company": "Bloom Energy Corporation",
+  "analysis_date": "2026-05-24",
+  "source_file": "cache/2026-05-24/holdings/news/BE.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "Bloom Energy 在 AI 資料中心需求帶動下股價創下 52 週新高，但近期面臨獲利了結與漲多後的技術性修正壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "APLD, BE, GFS Stocks Hit 52-Week Highs: What's Driving The Surge?",
+      "publisher": "Stocktwits",
+      "date": "2026-05-22",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價創下 52 週新高顯示市場強勁的買盤動能，主要受惠於 AI 基礎設施需求擴張。"
+    },
+    {
+      "rank": 2,
+      "title": "Missed Nvidia? Why Tech Analyst Beth Kindig Calls Bloom Energy Tech's 'Biggest Outperformer' After 217% Rally In 2026",
+      "publisher": "Benzinga",
+      "date": "2026-05-18",
+      "impact": "high",
+      "category": "分析師觀點",
+      "reason": "知名分析師 Beth Kindig 將其譽為科技股中表現最佳的標的，強調其在 AI 能源解決方案的領先地位，推動市場信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Here is Why Bloom Energy (BE) Is Among the Best Aschenbrenner Stocks to Invest In",
+      "publisher": "Insider Monkey",
+      "date": "2026-05-23",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "被納入投資組合推薦清單，反映機構投資人對其長期成長潛力的認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy Shares Are Sliding Tuesday: What's Driving The Action?",
+      "publisher": "Benzinga",
+      "date": "2026-05-19",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "涵蓋了 5 月 18 日與 19 日的股價回調，主要原因是投資人對財報後過度漲幅進行獲利了結，屬於技術性修正。"
+    },
+    {
+      "rank": 2,
+      "title": "Bloom Energy: Pause Warranted",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-21",
+      "impact": "low",
+      "category": "分析師觀點",
+      "reason": "儘管承認公司贏得 AI 資料中心合約並上調營收指引至 36 億美元，但分析師認為股價短期漲幅過快，建議投資人暫時觀望。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy Stock Is Slumping Monday",
+      "publisher": "Benzinga",
+      "date": "2026-05-18",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此篇報導與 5 月 19 日的下跌報導內容高度重疊，主要描述市場對財報後股價波動的重新評估，故歸類為中性觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
