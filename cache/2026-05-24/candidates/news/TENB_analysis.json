@@ -1,0 +1,74 @@
+{
+  "ticker": "TENB",
+  "company": "Tenable Holdings, Inc.",
+  "analysis_date": "2026-05-24",
+  "source_file": "cache/2026-05-24/candidates/news/TENB.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 8,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司舉辦投資人日活動並宣布與 Anthropic 合作推動 AI 代理能力，獲得多家券商上調目標價，市場情緒轉趨正面。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Needham Maintains Buy on Tenable Holdings, Raises Price Target to $30",
+      "publisher": "Benzinga",
+      "date": "2026-05-22 06:36",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Needham 分析師 Mike Cikos 將目標價從 $26 上調至 $30，顯示對公司成長潛力與市場定位的信心，為唯一給予買入評級的機構。"
+    },
+    {
+      "rank": 2,
+      "title": "Tenable Holdings Announces New AI Initiatives With Anthropic To Accelerate Agentic Capabilities",
+      "publisher": "Benzinga",
+      "date": "2026-05-20 08:32",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "與 Anthropic 合作開發 AI 代理功能，有助於提升 Tenable One 平台的競爭力，展現公司在資安領域的技術創新能力。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "DA Davidson, Barclays, and Stifel Maintain Neutral/Hold Ratings with Raised Price Targets",
+      "publisher": "Benzinga",
+      "date": "2026-05-22",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "彙整 DA Davidson、Barclays 與 Stifel 的評級報告，儘管目標價均有上調，但分析師仍維持中立或持有觀點，反映市場對估值與成長速度的審慎態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Tenable Holdings, Inc. (TENB) Analyst/Investor Day Transcript and Slideshow",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-22",
+      "impact": "low",
+      "category": "公司活動",
+      "reason": "投資人日活動提供了公司長期策略與財務展望的細節，屬於例行性資訊揭露，對股價影響較為中性。"
+    },
+    {
+      "rank": 3,
+      "title": "Tenable Holdings (TENB) Surges 9.2% Ahead of Investor Meeting",
+      "publisher": "Insider Monkey",
+      "date": "2026-05-20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價在活動前夕的波動反映了市場對投資人日的預期心理，屬於事件驅動的短期市場反應。"
+    },
+    {
+      "rank": 4,
+      "title": "Shifting Story For Tenable Holdings (TENB) As Mixed Analyst Views Recast Growth And Valuation",
+      "publisher": "Simply Wall St.",
+      "date": "2026-05-19",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析師對成長與估值的看法分歧，顯示市場目前處於重新評估公司價值的階段，並無明確的單一方向。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

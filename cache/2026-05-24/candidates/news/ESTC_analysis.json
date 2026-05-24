@@ -1,0 +1,38 @@
+{
+  "ticker": "ESTC",
+  "company": "Elastic N.V.",
+  "analysis_date": "2026-05-24",
+  "source_file": "cache/2026-05-24/candidates/news/ESTC.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "Elastic 透過技術創新強化 AI 搜尋能力，同時市場正密切關注即將公布的 Q4 財報表現。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Elastic (ESTC) Launches Jina v5 Omni Family for Multimodal AI Search Across Media Types",
+      "publisher": "Insider Monkey",
+      "date": "2026-05-18T04:33:04Z",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Elastic 整合 Jina v5 Omni 系列，顯著提升了多模態 AI 搜尋能力，有助於擴大其在企業級 AI 搜尋市場的競爭優勢，對股價具正面支撐。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Seeking Clues to Elastic (ESTC) Q4 Earnings? A Peek Into Wall Street Projections for Key Metrics",
+      "publisher": "Zacks",
+      "date": "2026-05-22T13:15:02Z",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "該報導僅為財報公布前的市場預期分析，並未揭露實質財務數據，屬於市場觀望情緒，對股價影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
