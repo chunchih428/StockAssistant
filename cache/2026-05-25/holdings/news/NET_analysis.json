@@ -1,0 +1,74 @@
+{
+  "ticker": "NET",
+  "company": "Cloudflare",
+  "analysis_date": "2026-05-24",
+  "source_file": "cache/2026-05-24/holdings/news/NET.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "Cloudflare 憑藉與 Anthropic 的 AI 代理合作協議推動股價上漲，儘管財報表現優異但市場反應呈現多空分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare (NET) Is Up 6.4% After Anthropic AI Agent Deal Amid ESG Concerns - Has The Bull Case Changed?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-05-22",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Cloudflare 與 Anthropic 達成 AI 代理合作協議，直接帶動股價上漲 6.4 %，顯示市場對其在 AI 基礎設施領域的競爭力高度認可。"
+    },
+    {
+      "rank": 2,
+      "title": "Cloudflare (NET) Stock Trades Up, Here Is Why",
+      "publisher": "StockStory",
+      "date": "2026-05-21",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導確認了 Cloudflare 股價上漲的驅動因素，主要歸功於 AI 相關業務的擴展，強化了投資人對其成長動能的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Stocks making big moves yesterday: Cloudflare, Pinterest, AMD, Agilysys, and Intel",
+      "publisher": "StockStory",
+      "date": "2026-05-22",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 Cloudflare 列為市場顯著波動個股，反映出該公司在近期科技股中的強勢表現與市場關注度。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Cloudflare (NET) Q1 Results Beat Expectations, But Market Reaction Tells A Mixed Story",
+      "publisher": "Insider Monkey",
+      "date": "2026-05-20",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "儘管 Q1 財報優於預期，但市場反應呈現分歧，顯示投資人對於高估值下的成長持續性仍存有疑慮，故歸類為中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Cloudflare CEO Says He Turned Down Anthropic Board Role, Sent Leadership A Copy Of Aristotle's 'Politics' Instead",
+      "publisher": "Benzinga",
+      "date": "2026-05-21",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "執行長拒絕 Anthropic 董事會職位屬於個人治理決策，對公司基本面影響有限，僅具備市場話題性。"
+    },
+    {
+      "rank": 3,
+      "title": "If You Invested $1000 In Cloudflare Stock 5 Years Ago, You Would Have This Much Today",
+      "publisher": "Benzinga",
+      "date": "2026-05-18",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此類回顧型文章僅提供歷史績效分析，對當前股價走勢與未來基本面判斷無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

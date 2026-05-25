@@ -1,0 +1,38 @@
+{
+  "ticker": "GEN",
+  "company": "Gen Digital",
+  "analysis_date": "2026-05-24",
+  "source_file": "cache/2026-05-24/candidates/news/GEN.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 Gen Digital 的選擇權交易活動表現活躍，且公司基本面現金流強勁，投資人信心回升。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Gen Digital Stock Shows Unusual Call Options Volume - Are Investors Bullish?",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 17:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場出現異常的買權 (Call Options) 成交量，顯示機構或投資人對該股後市看漲。此外，報導提及公司強勁的自由現金流 (Free Cash Flow)，為股價提供穩健的基本面支撐。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Gen to Participate in Upcoming Investor Conferences",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 12:30",
+      "impact": "low",
+      "category": "投資人關係",
+      "reason": "公司宣布參與投資人會議屬於常規的投資人關係活動，旨在增加市場曝光度與溝通，對股價短期影響有限，屬於中性偏正面的例行公告。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

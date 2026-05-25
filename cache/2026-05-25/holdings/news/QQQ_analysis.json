@@ -1,0 +1,66 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-05-24",
+  "source_file": "cache/2026-05-24/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "QQQ 在市場廣度改善與技術面支撐下維持領先地位，儘管面臨軟體類股 ETF 的競爭壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Breadth Improves Again, But Leadership Still Looks Narrow — The major index ETFs extended the rebound, with QQQ and SPY still leading while IWM showed a constructive catch-up move.",
+      "publisher": "ChartMill",
+      "date": "2026-05-22 12:14",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場廣度改善且 QQQ 與 SPY 持續領漲，顯示大型科技股為主的指數仍具備強勁的市場領導地位與技術面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Zacks Investment Ideas feature highlights: NVIDIA, QQQ, Micron, SanDisk, Cipher Mining and USO",
+      "publisher": "Zacks",
+      "date": "2026-05-22T13:09:00Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Zacks 將 QQQ 列入投資亮點清單，反映出該 ETF 在機構投資者關注的科技與成長型資產組合中仍具備指標性地位。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "The Forgotten AI Trade Is Back: Software ETFs Outpace QQQ As ServiceNow, Salesforce Rebound — Software ETFs like IGV and WCLD are outperforming QQQ over the past month as fresh momentum builds around names like NOW",
+      "publisher": "Benzinga",
+      "date": "2026-05-19 12:39",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "軟體類股 ETF (如 IGV、WCLD) 近期表現優於 QQQ，顯示資金在 AI 題材下出現板塊輪動，對 QQQ 的相對績效構成短期壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Breadth Stabilizes, But Participation Remains Uneven — Monday’s session was not a clean continuation of the rally, but it was also not a breakdown. SPY and QQQ paused just bel",
+      "publisher": "ChartMill",
+      "date": "2026-05-19 09:10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場進入盤整階段，QQQ 走勢呈現暫停而非突破或崩盤，反映出市場參與度不均，短期方向不明確。"
+    },
+    {
+      "rank": 2,
+      "title": "One-Day Breadth Shock Interrupts the Breakout — Friday’s session sharply weakened the internal market picture. SPY and QQQ remain technically strong on the charts, but ",
+      "publisher": "ChartMill",
+      "date": "2026-05-18 09:38",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管市場內部結構轉弱，但 QQQ 在技術圖表上仍維持強勢，正負因素抵銷，屬於中性觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "ZS",
+  "company": "Zscaler",
+  "analysis_date": "2026-05-24",
+  "source_file": "cache/2026-05-24/candidates/news/ZS.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 1,
+    "neutral_count": 4,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "受惠於 AI 安全需求強勁、收購 Symmetry Systems 以強化零信任架構，以及分析師上調目標價與財報預期，帶動股價強勢反彈。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Wells Fargo Maintains Overweight on Zscaler, Raises Price Target to $210",
+      "publisher": "Benzinga",
+      "date": "2026-05-21 12:12",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Wells Fargo 分析師 Richard Poland 維持「加碼」評級，並將目標價上調至 210 美元，顯示市場對其成長前景信心增強。"
+    },
+    {
+      "rank": 2,
+      "title": "Zscaler to Acquire Symmetry Systems, Combining Zero Trust and Access Graph Technology to Map and Secure AI Agent Communication",
+      "publisher": "Yahoo",
+      "date": "2026-05-21 12:00",
+      "impact": "high",
+      "category": "企業併購",
+      "reason": "收購 Symmetry Systems 有助於強化 AI 代理通訊的安全性與數據治理，符合市場對 AI 安全解決方案的高度需求。"
+    },
+    {
+      "rank": 3,
+      "title": "B. Riley Upgrades Zscaler Stock to ‘Buy.’ So Much for Software Apocalypse Fears.",
+      "publisher": "Yahoo",
+      "date": "2026-05-20 19:25",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "B. Riley 將評級上調至「買進」，認為 AI 採用率提升將直接帶動對 Zscaler 產品的需求，緩解市場對軟體業的擔憂。"
+    },
+    {
+      "rank": 4,
+      "title": "Zscaler set to benefit from federal tailwinds boosting fourth quarter outlook: analysts",
+      "publisher": "Yahoo",
+      "date": "2026-05-21 18:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "聯邦政府相關業務的順風預期將推升第四季財測，為即將公布的財報提供正面支撐。"
+    },
+    {
+      "rank": 5,
+      "title": "Zscaler Setup Looks Positive Into Upcoming Earnings, UBS Says",
+      "publisher": "Yahoo",
+      "date": "2026-05-20 19:03",
+      "impact": "medium",
+      "category": "財報預期",
+      "reason": "瑞銀 (UBS) 指出 Zscaler 在財報公布前的技術面與預期設定良好，市場對其業績表現持樂觀態度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Zscaler (ZS) Stock Drops Despite Market Gains: Important Facts to Note",
+      "publisher": "Yahoo",
+      "date": "2026-05-21 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 2.15%，反映短期獲利回吐壓力，但未改變整體上升趨勢。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Zscaler to Present at Upcoming Investor Conferences",
+      "publisher": "Yahoo",
+      "date": "2026-05-21 20:05",
+      "impact": "low",
+      "category": "公司活動",
+      "reason": "公司宣布參加投資人會議，屬於例行性投資人關係活動，對股價影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "IGEL and Zscaler Release Healthcare Security Blueprints for Distributed Care Delivery",
+      "publisher": "Yahoo",
+      "date": "2026-05-20 17:04",
+      "impact": "low",
+      "category": "產品合作",
+      "reason": "與 IGEL 合作發布醫療安全藍圖，屬於正常的業務推廣，對短期營收貢獻不明顯。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

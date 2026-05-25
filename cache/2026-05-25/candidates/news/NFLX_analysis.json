@@ -1,0 +1,102 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-05-24",
+  "source_file": "cache/2026-05-24/candidates/news/NFLX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 2,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "Netflix 透過深化直播內容策略與廣告業務成長，持續強化市場競爭優勢與營收動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Netflix ad-supported tier tops 250M monthly viewers as sports push deepens",
+      "publisher": "Yahoo",
+      "date": "2026-05-20 19:04",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "廣告訂閱方案月活躍用戶突破 2.5 億，顯示 Netflix 在廣告變現能力上的顯著進展，獲 Bank of America 正面評價。"
+    },
+    {
+      "rank": 2,
+      "title": "iHeartMedia and Netflix Deepen Partnership with Daily Live Video Stream of The Breakfast Club",
+      "publisher": "Yahoo",
+      "date": "2026-05-21 11:30",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "與 iHeartMedia 合作直播熱門節目，象徵 Netflix 積極擴展直播內容生態，增加用戶黏著度。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Netflix, Inc. (NFLX) One of the Best Communication Stocks to Invest In?",
+      "publisher": "Yahoo",
+      "date": "2026-05-23 11:55",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "JPMorgan 重申對 Netflix 的「增持」評級，肯定其在通訊與串流媒體領域的領導地位。"
+    },
+    {
+      "rank": 4,
+      "title": "Walt Disney vs. Netflix: What Recent Revenue Trends Reveal",
+      "publisher": "Yahoo",
+      "date": "2026-05-21 13:55",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "分析顯示 Netflix 營收成長較 Disney 更為穩定，展現出更強的財務韌性。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Canada Raises Streaming Content Requirement to 15% for Netflix, Disney, Amazon",
+      "publisher": "Yahoo",
+      "date": "2026-05-22 15:09",
+      "impact": "medium",
+      "category": "法規",
+      "reason": "加拿大提高串流媒體內容在地化要求至 15%，將增加 Netflix 的營運成本與合規壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix Live Push And Merchandising Raise Fresh Questions For Valuation",
+      "publisher": "Yahoo",
+      "date": "2026-05-23 01:17",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場對於 Netflix 投入直播與周邊商品業務的長期獲利能力與估值合理性提出質疑。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "IMAX Potential Suitors Include Netflix, Apple, Wedbush Says",
+      "publisher": "Yahoo",
+      "date": "2026-05-22 20:02",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析師提及 Netflix 為 IMAX 的潛在收購方，但目前僅屬市場猜測，未有實質併購行動。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix Co-Founder Reed Hastings Says Entertainment Will Be 'Least Affected' As AI Fears Rise",
+      "publisher": "Benzinga",
+      "date": "2026-05-21 10:46",
+      "impact": "low",
+      "category": "產業觀點",
+      "reason": "創辦人 Reed Hastings 對 AI 影響娛樂產業的看法，屬於產業趨勢討論，對短期股價影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "Final Trades: ServiceNow, IBM, Alcoa and Netflix",
+      "publisher": "CNBC",
+      "date": "2026-05-21 13:11",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為財經節目提及的觀察名單，未包含具體投資建議或重大基本面變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
