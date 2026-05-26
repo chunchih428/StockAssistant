@@ -1,0 +1,92 @@
+{
+  "ticker": "FFIV",
+  "company": "F5",
+  "analysis_date": "2026-05-24",
+  "source_file": "cache/2026-05-24/candidates/news/FFIV.json",
+  "summary": {
+    "total_articles": 15,
+    "bullish_count": 8,
+    "bearish_count": 0,
+    "neutral_count": 7,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 工作負載驅動的硬體更新週期，多家券商上調目標價並看好未來成長動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Evercore ISI Group Upgrades F5 to Outperform, Raises Price Target to $475",
+      "publisher": "Benzinga",
+      "date": "2026-05-18",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Amit Daryanani 將評級由 In-Line 上調至 Outperform，並大幅調升目標價，顯示市場對其業務轉型與成長潛力信心增強。"
+    },
+    {
+      "rank": 2,
+      "title": "RBC Capital Maintains Outperform on F5, Raises Price Target to $425",
+      "publisher": "Benzinga",
+      "date": "2026-05-19",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Matthew Hedberg 強調 F5 正處於多季度的「硬體更新週期」初期，且 AI 工作負載需求將進一步放大營收動能。"
+    },
+    {
+      "rank": 3,
+      "title": "Why F5 Stock Zoomed Almost 5% Higher Today",
+      "publisher": "Motley Fool",
+      "date": "2026-05-18",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受惠於分析師升評與目標價調升，市場買盤湧入，單日股價上漲近 5 %，反映投資人對其基本面改善的正面反應。"
+    },
+    {
+      "rank": 4,
+      "title": "Morgan Stanley Maintains Equal-Weight on F5, Raises Price Target to $380",
+      "publisher": "Benzinga",
+      "date": "2026-05-20",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師 Meta Marshall 維持中性評級但調升目標價，顯示儘管估值考量，但對公司長期成長前景持正面看法。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Dear F5 Stock Fans, Mark Your Calendars for May 28",
+      "publisher": "Yahoo",
+      "date": "2026-05-21",
+      "impact": "low",
+      "category": "公司活動",
+      "reason": "提醒投資人關注即將到來的分析師日，市場預期將提供更多關於 AI 驅動成長的細節，目前屬於事件前夕的觀望期。"
+    },
+    {
+      "rank": 2,
+      "title": "AI has fundamentally changed the tempo of cybersecurity, says F5 CEO",
+      "publisher": "CNBC",
+      "date": "2026-05-21",
+      "impact": "low",
+      "category": "高層觀點",
+      "reason": "執行長 Francois Locoh-Donou 強調 AI 對網路安全節奏的改變，雖屬正面產業趨勢，但未直接對短期財務數據產生影響。"
+    },
+    {
+      "rank": 3,
+      "title": "DOCU or FFIV: Which Is the Better Value Stock Right Now?",
+      "publisher": "Zacks",
+      "date": "2026-05-19",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "針對 F5 與 DocuSign 的價值投資比較，屬於市場常見的選股分析，對股價無直接催化作用。"
+    },
+    {
+      "rank": 4,
+      "title": "F5 (FFIV) Valuation Check After New Red Hat AI Security Milestones",
+      "publisher": "Simply Wall St.",
+      "date": "2026-05-24",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對公司估值進行回顧，並結合 Red Hat 的 AI 安全里程碑，屬於中性的市場資訊整理。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,102 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-05-24",
+  "source_file": "cache/2026-05-24/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 8,
+    "bearish_count": 3,
+    "neutral_count": 9,
+    "overall_sentiment": "bullish",
+    "key_theme": "Apple 憑藉強勁的 iPhone 17 需求與服務營收增長，在 AI 時代展現出穩健的成長敘事，儘管面臨 Epic Games 的法律訴訟與反壟斷監管壓力，市場對其長期價值仍持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple Bucks Worst Smartphone Slump Since COVID",
+      "publisher": "Benzinga",
+      "date": "2026-05-21 06:16",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "在整體智慧型手機市場疲軟的背景下，iPhone 17 的強勁需求使 Apple 成為前五大品牌中唯一預期成長的企業，顯示其品牌護城河與產品競爭力。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple Inc. (AAPL)’s Durable Growth Narrative Keeps Getting Stronger",
+      "publisher": "Yahoo",
+      "date": "2026-05-23 14:51",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Tigress Financial 上調目標價，反映市場對 Apple 長期成長敘事的信心增強，且該股為 2026 年交易量最大的美股之一。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple Inc. (AAPL) Targets $15B Service Revenue via AI",
+      "publisher": "Yahoo",
+      "date": "2026-05-21 08:41",
+      "impact": "medium",
+      "category": "財報與營收",
+      "reason": "Apple 透過 AI 技術驅動服務營收目標達 150 億美元，顯示公司成功將 AI 轉化為具體的獲利成長引擎。"
+    },
+    {
+      "rank": 4,
+      "title": "Apple Execs Say We Are In The Early Innings Of Spatial Computing",
+      "publisher": "Benzinga",
+      "date": "2026-05-22 11:16",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "管理層對空間運算前景的樂觀表態，為公司未來技術布局提供了長期願景，有助於提升市場對創新能力的期待。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Apple Takes App Store Fight to Supreme Court in Epic Games Case",
+      "publisher": "Yahoo",
+      "date": "2026-05-22 13:29",
+      "impact": "medium",
+      "category": "法規與訴訟",
+      "reason": "Apple 向最高法院上訴以對抗 Epic Games 的裁決，此法律糾紛可能迫使 Apple 改變 App Store 的支付模式，進而影響其高利潤的服務營收結構。"
+    },
+    {
+      "rank": 2,
+      "title": "Google Appeals Landmark Monopoly Ruling That Targets Apple Default Deals",
+      "publisher": "Benzinga",
+      "date": "2026-05-23 01:32",
+      "impact": "low",
+      "category": "法規與訴訟",
+      "reason": "Google 針對反壟斷裁決的上訴涉及其與 Apple 的預設搜尋引擎協議，若該協議被判定違法，將對 Apple 的授權收入造成潛在負面影響。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Apple Stock at 52-Week High: Buy, Sell or Hold?",
+      "publisher": "Yahoo",
+      "date": "2026-05-22 14:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價處於歷史高點，分析師建議持股觀望，反映市場在強勁漲幅後對估值合理性的審慎態度。"
+    },
+    {
+      "rank": 2,
+      "title": "IMAX Potential Suitors Include Netflix, Apple, Wedbush Says",
+      "publisher": "Yahoo",
+      "date": "2026-05-22 20:02",
+      "impact": "low",
+      "category": "併購傳聞",
+      "reason": "分析師將 Apple 列為 IMAX 的潛在收購方，但目前僅屬市場猜測，對 Apple 本身基本面影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "Microsoft vs. Apple Stock: The Numbers Reveal a Clear Winner",
+      "publisher": "Yahoo",
+      "date": "2026-05-22 23:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對 Microsoft 與 Apple 的基本面與估值比較，屬於常規的市場分析報告，未提供新的重大催化劑。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

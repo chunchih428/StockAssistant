@@ -1,0 +1,110 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-05-24",
+  "source_file": "cache/2026-05-24/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 18,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "受惠於 AI 安全需求強勁與 Falcon 平台市占擴張，多家券商大幅上調目標價，推動股價創下歷史新高。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Morgan Stanley massively revamps CrowdStrike stock price target",
+      "publisher": "Yahoo",
+      "date": "2026-05-22 02:03",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "摩根士丹利大幅上調目標價，反映市場對 Falcon 平台需求與 Falcon Flex 成長動能的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Wells Fargo Maintains Overweight on CrowdStrike Holdings, Raises Price Target to $700",
+      "publisher": "Benzinga",
+      "date": "2026-05-21 12:15",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "富國銀行分析師 Michael Turrin 維持加碼評級並將目標價調升至 700 美元，顯示機構對其長期成長潛力看好。"
+    },
+    {
+      "rank": 3,
+      "title": "Stifel Just Crowned CrowdStrike With a $660 Price Target. The Bull Case Just Got Louder",
+      "publisher": "Yahoo",
+      "date": "2026-05-20 14:59",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Stifel 分析師 Adam Borg 將目標價從 480 美元大幅調升至 660 美元，強化了市場對其多頭趨勢的預期。"
+    },
+    {
+      "rank": 4,
+      "title": "CrowdStrike Integrates Anthropic Claude Compliance API Into Falcon Platform To Boost Enterprise AI Security And Governance",
+      "publisher": "Benzinga",
+      "date": "2026-05-21 13:03",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "透過整合 Anthropic 的 Claude Compliance API，CrowdStrike 強化了企業 AI 安全治理能力，擴大技術護城河。"
+    },
+    {
+      "rank": 5,
+      "title": "CrowdStrike Named the Overall Champion in the Omdia 2026 Cybersecurity Platform Ecosystems Leadership Matrix",
+      "publisher": "Yahoo",
+      "date": "2026-05-20 07:32",
+      "impact": "medium",
+      "category": "市場地位",
+      "reason": "被 Omdia 評選為網路安全平台生態系統的整體冠軍，驗證了其市場領導地位與技術優勢。"
+    },
+    {
+      "rank": 6,
+      "title": "CrowdStrike Deepens German Reach As Falcon Ties AI Usage Monitoring",
+      "publisher": "Yahoo",
+      "date": "2026-05-22 23:10",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "與 SVA System Vertrieb Alexander GmbH 合作，成功深化德國市場布局，有助於提升歐洲地區營收。"
+    },
+    {
+      "rank": 7,
+      "title": "CrowdStrike Stock Earns Its Place Back On Elite List",
+      "publisher": "Yahoo",
+      "date": "2026-05-22 16:38",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價創下歷史新高，象徵公司已完全走出兩年前軟體故障事件的陰影，市場信心全面回升。"
+    },
+    {
+      "rank": 8,
+      "title": "Dear CrowdStrike Stock Fans, Mark Your Calendars for June 3",
+      "publisher": "Yahoo",
+      "date": "2026-05-20 13:30",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "市場高度關注 6 月 3 日的財報表現，AI 安全成長動能預期將帶來強勁的財報數據。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Cisco or CrowdStrike the Better Short Bet Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-05-20 11:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章探討 Cisco 與 CrowdStrike 的比較，雖提及放空觀點，但主要在分析兩者不同的財報故事，對股價影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Is CrowdStrike’s New Jet Partner App (CRWD) Quietly Rewiring Its AI Platform Expansion Strategy?",
+      "publisher": "Yahoo",
+      "date": "2026-05-20 20:12",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "報導關於 Jet 行動應用程式的策略分析，屬於營運細節的觀察，對股價無直接顯著影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
