@@ -1,0 +1,57 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-05-24",
+  "source_file": "cache/2026-05-24/candidates/news/OUST.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 4,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司透過與 Fujifilm 合作開發原生彩色 LiDAR 技術，並轉型為垂直整合的物理 AI 平台，市場對其長期成長潛力持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ouster Collaborates With Fujifilm to Embed Industry-Leading Color Science Into Its REV8 Native Color Lidar",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 10:00",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "選擇此篇作為代表，因其詳細說明了 Ouster 將 Fujifilm 的色彩科學嵌入其 REV8 數位 LiDAR 傳感器，此技術突破有助於提升產品競爭力與市場差異化。"
+    },
+    {
+      "rank": 2,
+      "title": "Ouster: The 'Perception Stack' Critical To Physical AI",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-21 09:33",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析師將 Ouster 定位從單純的 LiDAR 供應商轉向垂直整合的「物理 AI」平台，此商業模式轉型被視為提升估值與長期獲利能力的關鍵。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Analyst Downgrades Ouster (OUST) to Neutral",
+      "publisher": "Insider Monkey",
+      "date": "2026-05-21 23:24",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師將評級下調至中性，反映出市場對於該公司在快速變動的自動駕駛與感測器市場中，其估值溢價與獲利實現速度的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ouster’s Rev8 Lidar And NVIDIA Tie Up Shape Valuation Debate",
+      "publisher": "Simply Wall St.",
+      "date": "2026-05-14 18:23",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導探討了 REV8 產品與 NVIDIA 合作對估值的影響，呈現多空雙方對於公司未來成長性與資本支出的辯論，未有明確單一方向。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
