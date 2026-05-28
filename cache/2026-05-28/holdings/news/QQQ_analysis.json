@@ -1,0 +1,38 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-05-28",
+  "source_file": "cache/2026-05-28/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "科技股 ETF 展現強勁市場領導地位，技術面與市場廣度持續改善。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Breadth Improves Again, But Leadership Still Looks Narrow — The major index ETFs extended the rebound, with QQQ and SPY still leading while IWM showed a constructive catch-up move.",
+      "publisher": "ChartMill",
+      "date": "2026-05-22",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報告指出 QQQ 作為主要指數 ETF 持續領漲，且市場廣度（Market Breadth）出現改善跡象，顯示科技股領頭羊地位穩固，有利於支撐 ETF 價格表現。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Should Invesco QQQ (QQQ) Be on Your Investing Radar?",
+      "publisher": "Zacks",
+      "date": "2026-05-26",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "該文章屬於 Zacks 的常規投資評級分析，旨在探討 QQQ 的投資價值與配置建議，並未提供具體的利多或利空催化劑，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

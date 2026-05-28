@@ -1,0 +1,65 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-05-28",
+  "source_file": "cache/2026-05-28/candidates/news/OUST.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 7,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Ouster 憑藉與 ARGUS 的反無人機合作案及分析師調升目標價，成功推動股價創下 52 週新高，市場對其從雷射雷達供應商轉型為「實體 AI」平台的前景持高度樂觀態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ouster Shares Rise As Defense Push, Analyst Targets Hike Boost Momentum",
+      "publisher": "Benzinga",
+      "date": "2026-05-27 14:44",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "此篇報導彙整了 Rosenblatt 將目標價大幅調升至 53 美元，以及與 ARGUS 的國防領域合作，是近期股價強勁上漲的主要催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Ouster Stock Hits 52-Week High - Here's Why",
+      "publisher": "Benzinga",
+      "date": "2026-05-26 10:16",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "報導詳細說明了 Ouster 股價單日飆升超過 16 % 的原因，主要歸功於與 ARGUS Interception 的策略合作，將其數位雷射雷達技術應用於反無人機系統。"
+    },
+    {
+      "rank": 3,
+      "title": "Ouster: The 'Perception Stack' Critical To Physical AI",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-21 09:33",
+      "impact": "medium",
+      "category": "產業分析",
+      "reason": "分析師看好 Ouster 從單純的硬體供應商轉型為「實體 AI」平台，認為其感知堆疊技術在未來 AI 應用中具備關鍵競爭優勢。"
+    },
+    {
+      "rank": 4,
+      "title": "Ouster & Fujifilm Partner to Develop Native Color Lidar",
+      "publisher": "IPO-Edge.com",
+      "date": "2026-05-19 21:57",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "與 Fujifilm 合作開發原生彩色雷射雷達，顯示公司在技術研發與國際大廠合作上的持續進展，有助於提升產品市場競爭力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Analyst Downgrades Ouster (OUST) to Neutral",
+      "publisher": "Insider Monkey",
+      "date": "2026-05-21 23:24",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "儘管有分析師下調評級，但相較於後續的利多消息，此負面影響已被市場強勁的買盤所抵銷。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

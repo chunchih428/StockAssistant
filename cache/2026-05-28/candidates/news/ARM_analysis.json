@@ -1,0 +1,111 @@
+{
+  "ticker": "ARM",
+  "company": "Arm Holdings plc",
+  "analysis_date": "2026-05-28",
+  "source_file": "cache/2026-05-28/candidates/news/ARM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "受惠於 Nvidia 財報帶動的 AI 基礎設施需求，以及 Arm 自身推出 AGI CPU 平台所引發的強勁成長預期，股價屢創新高。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Arm Surges as Nvidia's Vera Drives CPU Demand",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 16:33",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Jefferies 指出 Nvidia 的 Vera CPU 勢頭將顯著加速 Arm 的需求，直接推動股價創下新高。"
+    },
+    {
+      "rank": 2,
+      "title": "Arm Holdings (ARM) Soars 46% as Profits Seen Growing 5x",
+      "publisher": "Yahoo",
+      "date": "2026-05-25 12:50",
+      "impact": "high",
+      "category": "財報預測",
+      "reason": "市場預期 Arm 的獲利能力將成長 5 倍，強勁的基本面預期支撐了 46% 的驚人漲幅。"
+    },
+    {
+      "rank": 3,
+      "title": "ARM Targets the AI Data Center Opportunity With New AGI CPU Push",
+      "publisher": "Yahoo",
+      "date": "2026-05-25 14:53",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Arm 推出專為 AI 資料中心設計的 AGI CPU 平台，明確鎖定代理式 AI 工作負載的成長商機。"
+    },
+    {
+      "rank": 4,
+      "title": "Arm Holdings (ARM) Hits All-Time High on Bernstein Upbeat Rating",
+      "publisher": "Yahoo",
+      "date": "2026-05-21 02:38",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Bernstein 的正面評級進一步強化了市場對 Arm 成長潛力的信心，推動股價突破歷史新高。"
+    },
+    {
+      "rank": 5,
+      "title": "Arm Holdings (ARM), Red Hat Expand Collaboration for Agentic AI Stack",
+      "publisher": "Yahoo",
+      "date": "2026-05-22 20:08",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 Red Hat 擴大合作開發代理式 AI 技術堆疊，有助於鞏固 Arm 在 AI 軟硬體生態系統中的地位。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Arm Holdings plc (ARM) to Face US Antitrust Probe over Chip Tech",
+      "publisher": "Yahoo",
+      "date": "2026-05-25 18:06",
+      "impact": "medium",
+      "category": "法規監管",
+      "reason": "面臨美國反壟斷調查可能對其技術授權模式與市場擴張帶來不確定性，是目前主要的潛在風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Arm’s Cerebras Interest Highlights AI Ambitions And Lofty Valuation Concerns",
+      "publisher": "Yahoo",
+      "date": "2026-05-22 19:19",
+      "impact": "low",
+      "category": "併購動態",
+      "reason": "雖然展現併購野心，但市場同時擔憂其估值過高，可能在短期內引發獲利回吐賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Jim Cramer Likes ARM 'Very Much' As Stock Jumps 3% Premarket, But Calls Post-Nvidia Surge 'A Little Silly'",
+      "publisher": "Yahoo",
+      "date": "2026-05-22 15:01",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "Jim Cramer 對公司長期看好，但認為短期股價漲勢過於激進，屬於多空觀點平衡的評論。"
+    },
+    {
+      "rank": 2,
+      "title": "AGI CPU Demand Has Pushed ARM Stock to All-Time Highs. Wait for the Next Pullback Before You Buy.",
+      "publisher": "Yahoo",
+      "date": "2026-05-23 13:00",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "承認基本面強勁，但建議投資人等待回調，屬於技術面操作建議而非基本面利空。"
+    },
+    {
+      "rank": 3,
+      "title": "AMC Entertainment, Nvidia, Arm Holdings And More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+      "publisher": "Benzinga",
+      "date": "2026-05-23 08:32",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅反映散戶投資人對該股的關注度與討論熱度，未提供新的基本面資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,37 @@
+{
+  "ticker": "RMBS",
+  "company": "Rambus Inc.",
+  "analysis_date": "2026-05-28",
+  "source_file": "cache/2026-05-28/candidates/news/RMBS.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "Rambus 透過推出新一代 AI PC 記憶體晶片組強化技術領先地位，並憑藉強勁的成長動能與財務體質獲得市場正面評價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Rambus Enables Next-Generation AI PC Memory with Complete Client Chipset for CUDIMM and CSODIMM Modules",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 21:00",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Rambus 推出支援 Gen2 Client Clock Driver (CKD02) 的完整 DDR5 客戶端晶片組，直接受惠於 AI PC 市場對高效能記憶體的需求，具備顯著的營收成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Rambus Inc. (NASDAQ:RMBS) – A GARP Gem with Strong Growth and a Solid Balance Sheet",
+      "publisher": "ChartMill",
+      "date": "2026-05-21 08:20",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析報告指出 Rambus 在成長性 (8/10) 與財務健康度 (9/10) 評分極高，顯示其在 GARP (成長型價值投資) 策略下具備強勁的 EPS 與營收動能，有利於吸引長期投資人。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

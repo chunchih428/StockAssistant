@@ -1,0 +1,56 @@
+{
+  "ticker": "HON",
+  "company": "Honeywell",
+  "analysis_date": "2026-05-28",
+  "source_file": "cache/2026-05-28/candidates/news/HON.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "Honeywell 透過分拆業務與推動 Quantinuum IPO 釋放價值，並持續擴展智慧基礎設施市場。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Honeywell-Backed Quantinuum Seeks $1.05 Billion in US IPO",
+      "publisher": "Bloomberg",
+      "date": "2026-05-26",
+      "impact": "high",
+      "category": "資本運作",
+      "reason": "Honeywell 轉投資的量子運算公司 Quantinuum 啟動 10.5 億美元的 IPO 計畫，此舉有助於釋放 Honeywell 在高科技領域的隱含價值，市場對其資產變現能力持正面態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Honeywell International Nears June 29 Split With 'All Green Lights,' Reaffirms Outlook",
+      "publisher": "Yahoo",
+      "date": "2026-05-24",
+      "impact": "high",
+      "category": "企業重組",
+      "reason": "公司確認將於 6 月 29 日完成業務分拆，且重申財務展望，顯示管理層對轉型後的營運穩定性具備高度信心，消除市場不確定性。"
+    },
+    {
+      "rank": 3,
+      "title": "Honeywell NHL Arena Deal Highlights Smart Infrastructure And Valuation Opportunity",
+      "publisher": "Yahoo",
+      "date": "2026-05-22",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "與 NHL 達成全球合作夥伴關係，強化 Honeywell 在智慧基礎設施領域的品牌影響力，並為長期營收增長提供穩定支撐。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Solstice: Expectations Run Hot",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-26",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "Solstice 作為 Honeywell 分拆出的子公司，其 Q1 營收成長 10 % 表現穩健，但因已非母公司核心業務，對 Honeywell 本體股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

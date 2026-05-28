@@ -1,0 +1,83 @@
+{
+  "ticker": "TENB",
+  "company": "Tenable Holdings, Inc.",
+  "analysis_date": "2026-05-28",
+  "source_file": "cache/2026-05-28/candidates/news/TENB.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 6,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司舉辦投資人日活動後，多位分析師對其長期成長前景表示認可並紛紛上調目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Needham Maintains Buy on Tenable Holdings, Raises Price Target to $30",
+      "publisher": "Benzinga",
+      "date": "2026-05-22 06:36",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Needham 分析師 Mike Cikos 將目標價從 $26 上調至 $30，顯示對公司在投資人日後展現的業務執行力與市場策略持高度正面看法。"
+    },
+    {
+      "rank": 2,
+      "title": "Stephens & Co. Maintains Equal-Weight on Tenable Holdings, Raises Price Target to $29",
+      "publisher": "Benzinga",
+      "date": "2026-05-26 09:13",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師 Todd Weller 上調目標價至 $29，反映出市場對 Tenable 在資安領域競爭力的重新評估。"
+    },
+    {
+      "rank": 3,
+      "title": "Barclays Maintains Equal-Weight on Tenable Holdings, Raises Price Target to $28",
+      "publisher": "Benzinga",
+      "date": "2026-05-22 10:34",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師 Saket Kalia 上調目標價，顯示華爾街對公司未來營收成長潛力的信心增強。"
+    },
+    {
+      "rank": 4,
+      "title": "Stifel Maintains Hold on Tenable Holdings, Raises Price Target to $26",
+      "publisher": "Benzinga",
+      "date": "2026-05-22 08:42",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師 Adam Borg 將目標價從 $22 上調至 $26，儘管維持 Hold 評級，但上調動作顯示對公司基本面改善的認可。"
+    },
+    {
+      "rank": 5,
+      "title": "Analysts Raise Tenable Holdings, Inc. (TENB) Price Target Following Investor Day Presentation",
+      "publisher": "Insider Monkey",
+      "date": "2026-05-27 06:28",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "彙整了投資人日後的市場情緒，確認了多數分析師對公司長期願景的正面共識。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "DA Davidson Maintains Neutral on Tenable Holdings, Raises Price Target to $25",
+      "publisher": "Benzinga",
+      "date": "2026-05-22 14:23",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "分析師 Rudy Kessinger 雖上調目標價，但維持 Neutral 評級，顯示對估值或成長速度仍持審慎態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Tenable Holdings, Inc. (TENB) Analyst/Investor Day Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-22 19:50",
+      "impact": "low",
+      "category": "公司活動",
+      "reason": "提供投資人日詳細會議紀錄與簡報，屬於資訊揭露性質，為後續分析師調升目標價的基礎來源。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
