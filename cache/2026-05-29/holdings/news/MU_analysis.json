@@ -1,0 +1,83 @@
+{
+  "ticker": "MU",
+  "company": "Micron Technology",
+  "analysis_date": "2026-05-28",
+  "source_file": "cache/2026-05-28/holdings/news/MU.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 18,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "瑞銀 (UBS) 大幅調升目標價至 1,625 美元，加上 AI 記憶體需求強勁，推動 Micron 市值突破 1 兆美元大關。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Micron Jumps 12% After Price Target Raise From $535 to $1,625: Here’s What’s Driving Wall Street’s Most Bullish Target",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 13:32",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "瑞銀分析師 Timothy Arcuri 將目標價大幅調升至 1,625 美元，看好公司透過長期記憶體供應合約鎖定獲利與需求，成為推動股價單日大漲的核心催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Micron's valuation hits $1T, nearly tied with Eli Lilly & Berkshire",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 19:44",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Micron 市值正式突破 1 兆美元，標誌著公司在 AI 基礎設施領域的領導地位獲得市場高度認可，為公司歷史性里程碑。"
+    },
+    {
+      "rank": 3,
+      "title": "NOK, MU, BB Stocks Hit 52-Week Highs Today: What's Fueling The Rally?",
+      "publisher": "Yahoo",
+      "date": "2026-05-27 03:13",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場資金從昂貴的 AI 軟體股輪動至硬體供應商，Micron 作為 DRAM 核心供應商直接受惠於此波資金配置調整。"
+    },
+    {
+      "rank": 4,
+      "title": "Donald Trump Said 'Micron's Great'—3 Days Later MU Stock Crosses $1 Trillion In Market Cap",
+      "publisher": "Benzinga",
+      "date": "2026-05-26 15:56",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "政治人物的公開背書進一步強化了市場對 Micron 在美國半導體戰略中重要性的信心，與股價突破兆元市值形成強烈心理共鳴。"
+    },
+    {
+      "rank": 5,
+      "title": "Memory Supercycle: Why MU & SNDK Are Set for a Grand Finale",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 18:40",
+      "impact": "medium",
+      "category": "產業分析",
+      "reason": "記憶體產業供需嚴重失衡，進入超級週期，顯示 Micron 的基本面獲利能力具備長期持續性。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "S&P 500, Nasdaq Futures Barely Blink After Trump's Iran 'Surrender' Ultimatum Because 'AI Is All That Matters Right Now'",
+      "publisher": "Yahoo",
+      "date": "2026-05-27 02:19",
+      "impact": "low",
+      "category": "總體經濟",
+      "reason": "儘管中東地緣政治緊張，但市場焦點完全集中在 AI 相關個股，顯示 Micron 目前受產業趨勢驅動大於總體經濟風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Stocks making the biggest moves midday: Micron Technology, AutoZone, Qualcomm, Oklo & more",
+      "publisher": "CNBC",
+      "date": "2026-05-26 13:02",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為盤中交易動態的例行報導，無新增基本面資訊，僅反映股價波動事實。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
