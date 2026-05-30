@@ -1,0 +1,111 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-05-28",
+  "source_file": "cache/2026-05-28/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "市場對 Apple 在人工智慧領域的潛力信心大增，帶動股價屢創新高，並獲得多家投行上調目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Agentic AI can drive the next inflection in Apple’s valuation, BofA says",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 15:29",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "美銀 (BofA) 將 Apple 目標價從 330 美元上調至 380 美元，認為「代理型 AI」將成為推動公司估值重估的關鍵催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple Stock Hits New Record Highs as AI Doubts Begin to Fade",
+      "publisher": "Yahoo",
+      "date": "2026-05-27 00:45",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "市場對 Apple 在 AI 領域的疑慮消退，股價在強勁買盤推動下創下歷史新高，顯示投資人信心回升。"
+    },
+    {
+      "rank": 3,
+      "title": "Strong Content & Advertising Aids Apple's Services: More Upside Ahead?",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 16:44",
+      "impact": "medium",
+      "category": "財報表現",
+      "reason": "服務業務營收創下 309.8 億美元紀錄，顯示廣告與數位內容業務具備強勁的獲利成長動能。"
+    },
+    {
+      "rank": 4,
+      "title": "Apple Sees China Shipments Edge Higher",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 16:47",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "中國市場數據顯示 4 月份外國品牌手機出貨量成長 1.8%，緩解了市場對 Apple 在中國市占率下滑的擔憂。"
+    },
+    {
+      "rank": 5,
+      "title": "Intel's $43 Billion Government Windfall Gains Momentum With Apple Deal",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 18:17",
+      "impact": "low",
+      "category": "供應鏈合作",
+      "reason": "Apple 測試 Intel 代工業務，顯示公司正積極分散晶片供應鏈風險，有助於長期製造韌性。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Tim Cook is Out. Will the CEO Change Make or Break Apple’s $4.5 Trillion Empire?",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 17:33",
+      "impact": "high",
+      "category": "高層異動",
+      "reason": "執行長 Tim Cook 離職引發市場對公司未來領導方向與 4.5 兆美元帝國穩定性的高度不確定性。"
+    },
+    {
+      "rank": 2,
+      "title": "Huawei plans new smartphone chips this fall as rivalry with Nvidia and Apple heats up",
+      "publisher": "CNBC",
+      "date": "2026-05-25 01:57",
+      "impact": "medium",
+      "category": "競爭態勢",
+      "reason": "華為宣布新型晶片設計技術，加劇了高階智慧型手機市場的競爭壓力，可能對 Apple 的市占率構成長期威脅。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple, Google push for judicial oversight in Canada online safety bill",
+      "publisher": "Reuters",
+      "date": "2026-05-26 23:59",
+      "impact": "low",
+      "category": "法規監管",
+      "reason": "Apple 與 Google 共同推動加拿大線上安全法案的司法監督，反映出科技巨頭面臨日益嚴峻的全球監管壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Apple Inc. (AAPL) is Attracting Investor Attention: Here is What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場熱度與基本面資訊彙整，未提供具體利多或利空觀點。"
+    },
+    {
+      "rank": 2,
+      "title": "Tom Lee Says Mag-7 Bear Market Is Over, But Trouble Is Brewing For Rest Of Wall Street",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 22:31",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "針對整體科技股的宏觀分析，Apple 被列為七巨頭之一，但未針對公司本身提出具體影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

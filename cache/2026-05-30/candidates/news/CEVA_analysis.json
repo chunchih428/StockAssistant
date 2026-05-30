@@ -1,0 +1,38 @@
+{
+  "ticker": "CEVA",
+  "company": "CEVA",
+  "analysis_date": "2026-05-28",
+  "source_file": "cache/2026-05-28/candidates/news/CEVA.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對於 CEVA 的成長動能產生分歧，一方面關注其相對於同業的表現，另一方面擔憂未來營收成長的持續性。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "CEVA: Why Growth Could Be Harder To Come By Going Forward",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-20",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "該文章指出 CEVA 在未來面臨成長放緩的挑戰，主要基於市場競爭加劇與技術授權模式的潛在瓶頸，可能影響長期獲利能力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Ceva, Inc. (CEVA) Outperforming Other Computer and Technology Stocks This Year?",
+      "publisher": "Zacks",
+      "date": "2026-05-26",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此文僅為基於股價表現的量化篩選與比較，並未提供具體的營運基本面分析或未來展望，屬於中性的市場觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

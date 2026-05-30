@@ -1,0 +1,102 @@
+{
+  "ticker": "ZS",
+  "company": "Zscaler",
+  "analysis_date": "2026-05-28",
+  "source_file": "cache/2026-05-28/candidates/news/ZS.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 2,
+    "bearish_count": 14,
+    "neutral_count": 4,
+    "overall_sentiment": "bearish",
+    "key_theme": "儘管 Zscaler 第三季財報表現優於預期，但因第四季營收展望疲軟及自由現金流預測下調，導致股價重挫並引發華爾街分析師集體下調目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Zscaler Q3 Earnings Surpass Estimates, Revenues Increase Y/Y",
+      "publisher": "Yahoo",
+      "date": "2026-05-27T18:10:00Z",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "Zscaler 第三季財報在每股盈餘 (EPS) 與營收方面均超越市場預期，且企業級客戶需求強勁，推動年度經常性收入 (ARR) 與剩餘履約義務 (RPO) 成長。"
+    },
+    {
+      "rank": 2,
+      "title": "ZS Stock Plunges Premarket On Weak Sales Forecast: Retail Rushes To Buy The Dip, Calls Selloff Excessive",
+      "publisher": "Yahoo",
+      "date": "2026-05-27T09:01:00Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "部分散戶投資人認為市場對財報後的拋售反應過度，並視當前股價為買入機會，顯示市場仍存在一定的底部支撐信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Zscaler (ZS) Stock Is Trading Lower Today — Shares of cloud security platform Zscaler (NASDAQ:ZS) fell 31.5% in the morning session after the company reported its f",
+      "publisher": "Yahoo",
+      "date": "2026-05-27T20:57:00Z",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司發布的第四季營收展望未達市場預期，導致股價單日重挫超過 30 %，為該公司歷史上最大跌幅。"
+    },
+    {
+      "rank": 2,
+      "title": "ZS Stock On Track For Its Biggest Decline Ever – Evercore Expects Meaningful Shift In Zscaler's Narrative Going Forward",
+      "publisher": "Yahoo",
+      "date": "2026-05-27T16:34:00Z",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "超過 22 家華爾街投行下調目標價，Evercore 指出公司成長敘事發生重大轉變，投資人信心受損。"
+    },
+    {
+      "rank": 3,
+      "title": "Zscaler Shares Sink After Free Cash Flow Outlook Cut Overshadows Strong Q3 Results (ZS)",
+      "publisher": "Yahoo",
+      "date": "2026-05-27T09:51:00Z",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "除了營收展望疲軟，自由現金流 (FCF) 預測遭下調，進一步加劇了市場對公司資本效率與未來獲利能力的擔憂。"
+    },
+    {
+      "rank": 4,
+      "title": "Crybersecurity stocks fall amid Google AI security platform launch, Zscaler guide",
+      "publisher": "Yahoo",
+      "date": "2026-05-27T19:46:00Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "除了自身財報利空，Google 推出 AI 安全平台加劇了市場對網路安全領域競爭加劇的擔憂，對 Zscaler 股價造成額外壓力。"
+    },
+    {
+      "rank": 5,
+      "title": "Zscaler Shares Tumbled 32%. These 2 Rival Cybersecurity Stocks Look Like Bargains.",
+      "publisher": "Yahoo",
+      "date": "2026-05-27T22:38:00Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Zscaler 的疲軟財測引發了整個網路安全板塊的連鎖反應，導致 Palo Alto Networks 與 CrowdStrike 等同業股價同步下跌。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Stocks to Watch Wednesday Recap: Marvell Technology, PDD, Zscaler",
+      "publisher": "The Wall Street Journal",
+      "date": "2026-05-27T21:29:09Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為當日市場焦點股的總結報導，未提供新的基本面分析。"
+    },
+    {
+      "rank": 2,
+      "title": "Is It Time To Revisit Zscaler (ZS) After Sharp Price Swings And DCF Upside Signals",
+      "publisher": "Yahoo",
+      "date": "2026-05-27T21:10:00Z",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "文章探討現金流折現模型 (DCF) 下的估值機會，屬於中立的投資觀點分析，未對短期股價走勢做出明確判斷。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

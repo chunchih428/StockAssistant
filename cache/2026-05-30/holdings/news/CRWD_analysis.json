@@ -1,0 +1,102 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-05-28",
+  "source_file": "cache/2026-05-28/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 16,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "受惠於 AI 安全需求強勁與市場份額擴張，CrowdStrike 獲得多家投行上調目標價，股價屢創新高。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "BTIG Maintains Buy on CrowdStrike Holdings, Raises Price Target to $764",
+      "publisher": "Benzinga",
+      "date": "2026-05-26 06:32",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "BTIG 分析師 Gray Powell 維持買入評級並大幅上調目標價至 $764，反映市場對其長期成長動能的強烈信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Morgan Stanley massively revamps CrowdStrike stock price target",
+      "publisher": "Yahoo",
+      "date": "2026-05-22 02:03",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "摩根士丹利對 CrowdStrike 進行了大規模的目標價調整，顯示機構投資人對該公司基本面轉趨極度樂觀。"
+    },
+    {
+      "rank": 3,
+      "title": "CrowdStrike Integrates Anthropic Claude Compliance API Into Falcon Platform To Boost Enterprise AI Security And Governance",
+      "publisher": "Benzinga",
+      "date": "2026-05-21 13:03",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "透過整合 Anthropic 的 Claude Compliance API，CrowdStrike 強化了其 Falcon 平台的 AI 安全治理能力，進一步鞏固市場競爭優勢。"
+    },
+    {
+      "rank": 4,
+      "title": "Can Rising Re-Flex Deals Accelerate CrowdStrike's ARR Growth?",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 14:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Re-Flex 交易模式的普及正加速年度經常性收入 (ARR) 的成長，顯示客戶對 Falcon 平台模組的採用率持續提升。"
+    },
+    {
+      "rank": 5,
+      "title": "CrowdStrike Deepens German Reach As Falcon Ties AI Usage Monitoring",
+      "publisher": "Yahoo",
+      "date": "2026-05-22 23:10",
+      "impact": "low",
+      "category": "市場擴張",
+      "reason": "與 SVA System Vertrieb Alexander GmbH 的合作有助於深化在德國市場的佈局，擴大歐洲地區的市佔率。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike Is Back To Its Overvalued Status (Earnings Preview)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-26 08:37",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "分析師認為股價已回到過高估值水平，提醒投資人需留意財報公布後的獲利回吐風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike Named the Leader and Fast Mover in the 2026 GigaOm Radar Report for Identity Threat Detection and Response (ITDR)",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 12:17",
+      "impact": "low",
+      "category": "產業報告",
+      "reason": "獲得產業報告肯定為領導者，雖屬正面消息，但屬於預期內的市場地位確認，對股價影響較為溫和。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike Celebrates Partner Award Winners at 2026 Europe Partner Symposium",
+      "publisher": "Yahoo",
+      "date": "2026-05-20 15:00",
+      "impact": "low",
+      "category": "企業活動",
+      "reason": "例行性的合作夥伴表揚活動，對公司營運基本面影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "Jim Cramer Makes Big Claim About CrowdStrike (CRWD)",
+      "publisher": "Yahoo",
+      "date": "2026-05-25 17:17",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "媒體名嘴的評論通常僅能帶來短期市場情緒波動，缺乏實質的財務數據支撐。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "PANW",
+  "company": "Palo Alto Networks",
+  "analysis_date": "2026-05-28",
+  "source_file": "cache/2026-05-28/candidates/news/PANW.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 13,
+    "bearish_count": 4,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 安全需求強勁與防火牆更新週期，華爾街分析師普遍上調目標價，展現強勁的成長動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Wells Fargo Maintains Overweight on Palo Alto Networks, Raises Price Target to $285",
+      "publisher": "Benzinga",
+      "date": "2026-05-21 12:17",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Wells Fargo 分析師 Richard Poland 給予增持評級並大幅上調目標價，顯示對公司長期成長潛力的強烈信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Stifel Maintains Buy on Palo Alto Networks, Raises Price Target to $275",
+      "publisher": "Benzinga",
+      "date": "2026-05-20 07:32",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Stifel 分析師 Adam Borg 將目標價從 $185 大幅調升至 $275，反映市場對其基本面動能的高度認可。"
+    },
+    {
+      "rank": 3,
+      "title": "BTIG Maintains Buy on Palo Alto Networks, Raises Price Target to $268",
+      "publisher": "Benzinga",
+      "date": "2026-05-26 06:34",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "BTIG 分析師 Gray Powell 維持買入評級並上調目標價，進一步鞏固市場對該股的正面預期。"
+    },
+    {
+      "rank": 4,
+      "title": "Palo Alto Networks (PANW) Is Up 8.3% After Launching Idira Identity Platform",
+      "publisher": "Yahoo",
+      "date": "2026-05-21 11:13",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出 Idira 身分安全平台，強化了公司在身分治理與控制領域的競爭力，直接帶動股價上漲。"
+    },
+    {
+      "rank": 5,
+      "title": "Palo Alto Networks customers show confidence in AI security strategy at Ignite On Tour event, Jefferies says",
+      "publisher": "Yahoo",
+      "date": "2026-05-21 19:17",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Jefferies 指出客戶對其 AI 安全策略展現高度興趣，驗證了公司在 AI 轉型中的市場領導地位。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Palo Alto Networks Up 70%: Can the Rally Last Into June?",
+      "publisher": "Yahoo",
+      "date": "2026-05-20 11:55",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價短期漲幅過大，市場擔憂技術面出現超買訊號，可能面臨獲利回吐壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Palo Alto Networks (PANW) Stock Drops Despite Market Gains: Important Facts to Note",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "近期股價出現小幅回調，顯示在強勢上漲後，市場進入震盪整理階段。"
+    },
+    {
+      "rank": 3,
+      "title": "Is It Too Late To Consider Palo Alto Networks (PANW) After Its Recent 44% Surge",
+      "publisher": "Yahoo",
+      "date": "2026-05-22 14:07",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對股價是否已反映所有利多進行質疑，提醒投資人注意估值過高的風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Fortinet vs. Palo Alto Networks: What Do Their Revenue Trends Tell Investors?",
+      "publisher": "Yahoo",
+      "date": "2026-05-24 04:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "對比競爭對手 Fortinet 的營收與利潤率，屬於產業分析性質，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Trending Stock Palo Alto Networks, Inc. (PANW) a Buy Now?",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為投資人關注度分析，未提供具體買賣建議或新資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

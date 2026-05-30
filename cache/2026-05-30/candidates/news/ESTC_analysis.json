@@ -1,0 +1,56 @@
+{
+  "ticker": "ESTC",
+  "company": "Elastic N.V.",
+  "analysis_date": "2026-05-28",
+  "source_file": "cache/2026-05-28/candidates/news/ESTC.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場高度關注 Elastic 即將公布的第 4 季財報表現，且分析師維持買入評級，顯示對其 Search AI 平台成長潛力的信心。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Oppenheimer Reiterates Buy Rating on Elastic N.V. (ESTC)",
+      "publisher": "Yahoo",
+      "date": "2026-05-27 06:28",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Oppenheimer 重申對 Elastic 的買入評級，並將其列為做空者眼中前 10 大最佳網路安全股票之一，顯示機構投資人對其基本面與市場地位的認可。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Elastic (ESTC) To Report Earnings Tomorrow: Here Is What To Expect",
+      "publisher": "Yahoo",
+      "date": "2026-05-27 04:44",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "此為財報發布前的預期性報導，旨在整理市場對 Elastic 第 4 季財報的預測與關鍵指標，屬於事件驅動前的資訊揭露，本身不具備方向性影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Seeking Clues to Elastic (ESTC) Q4 Earnings? A Peek Into Wall Street Projections for Key Metrics",
+      "publisher": "Yahoo",
+      "date": "2026-05-22 13:15",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "該報導深入分析華爾街對 Elastic 截至 2026 年 4 月季度財報的預測，屬於中性的市場數據整理，幫助投資人評估潛在的財報波動風險。"
+    },
+    {
+      "rank": 3,
+      "title": "Elastic to Present at Upcoming Investor Conferences",
+      "publisher": "Yahoo",
+      "date": "2026-05-21 20:30",
+      "impact": "low",
+      "category": "公司活動",
+      "reason": "公司宣布管理層將出席投資人會議，屬於常規的投資人關係活動，旨在增加市場溝通，對股價短期影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,120 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-05-28",
+  "source_file": "cache/2026-05-28/candidates/news/NFLX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 5,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "Netflix 憑藉強大的內容護城河與廣告業務增長持續獲得華爾街分析師看好，儘管面臨 AI 內容爭議與國際監管壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "How The Netflix (NFLX) Investment Story Is Shifting Around Ads Content And Deal Discipline",
+      "publisher": "Yahoo",
+      "date": "2026-05-25 16:08",
+      "impact": "high",
+      "category": "財報與估值",
+      "reason": "分析師將目標價從 113.17 美元上調至 114.56 美元，反映市場對其廣告業務與內容策略的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Bank of America Reiterates Buy Rating on Netflix (NFLX) Stock",
+      "publisher": "Yahoo",
+      "date": "2026-05-24 13:30",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "美國銀行重申買入評級，強調其作為長期高回報投資標的的地位。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Netflix, Inc. (NFLX) One of the Best Communication Stocks to Invest In?",
+      "publisher": "Yahoo",
+      "date": "2026-05-23 11:55",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "摩根大通重申增持評級，認可其在通訊與串流媒體板塊的領先地位。"
+    },
+    {
+      "rank": 4,
+      "title": "NFLX Rides on Sports Content Engagement: New Revenue Growth Catalyst?",
+      "publisher": "Yahoo",
+      "date": "2026-05-25 15:06",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "直播體育內容（如 WBC）成功帶動訂閱增長，被視為新的營收增長引擎。"
+    },
+    {
+      "rank": 5,
+      "title": "Does Netflix Have the Widest Moat in Streaming?",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 08:55",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "過去 20 年股價表現強勁，證明其在串流媒體領域擁有極深的護城河。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Netflix is betting big on an AI animation studio — even as 51% of people say they don't want generative AI content",
+      "publisher": "Yahoo",
+      "date": "2026-05-25 12:30",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "儘管投入 AI 動畫工作室，但面臨公眾與社群媒體對生成式 AI 內容的強烈抵制，可能影響品牌形象。"
+    },
+    {
+      "rank": 2,
+      "title": "Canada Raises Streaming Content Requirement to 15% for Netflix, Disney, Amazon",
+      "publisher": "Yahoo",
+      "date": "2026-05-22 15:09",
+      "impact": "medium",
+      "category": "法規",
+      "reason": "加拿大提高串流媒體內容貢獻要求至 15%，增加了營運成本與合規壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix Live Push And Merchandising Raise Fresh Questions For Valuation",
+      "publisher": "Yahoo",
+      "date": "2026-05-23 01:17",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場對 Netflix 轉向每日直播節目與商品化的策略提出估值合理性的質疑。"
+    },
+    {
+      "rank": 4,
+      "title": "Netflix (NFLX) Stock Slides as Market Rises: Facts to Know Before You Trade",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價在市場上漲時出現 -1.04% 的回調，顯示短期賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "IMAX Potential Suitors Include Netflix, Apple, Wedbush Says",
+      "publisher": "Yahoo",
+      "date": "2026-05-22 20:02",
+      "impact": "low",
+      "category": "併購消息",
+      "reason": "分析師將 Netflix 列為 IMAX 的潛在收購方，但目前僅為市場猜測，未有實質行動。"
+    },
+    {
+      "rank": 2,
+      "title": "Final Trades: ServiceNow, IBM, Alcoa and Netflix",
+      "publisher": "CNBC",
+      "date": "2026-05-21 13:11",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "被列入 CNBC 投資委員會的觀察名單，屬於常規市場討論，無具體利多或利空消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

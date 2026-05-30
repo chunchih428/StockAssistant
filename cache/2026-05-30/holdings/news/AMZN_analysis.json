@@ -1,0 +1,111 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-05-28",
+  "source_file": "cache/2026-05-28/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 11,
+    "bearish_count": 3,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "Amazon 憑藉 AI 技術布局、雲端運算與強勁的市場動能，持續引領科技股成長並獲得分析師正面評價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Dow Hits Fresh Record High as Iran Easing Hopes Lift Stocks — Dow Surges to Record as Nvidia, Amazon Drive Market Momentum",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 16:47",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Amazon 作為推動市場動能的核心科技股，其股價表現直接影響大盤走勢，顯示其在市場中的領導地位。"
+    },
+    {
+      "rank": 2,
+      "title": "Dow Jones Leader Amazon, AI Stock Quanta, Monster Beverage In Or Near Buy Zones",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 17:25",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "技術面分析顯示 Amazon 處於買入區間，反映出市場對其近期股價走勢的正面預期。"
+    },
+    {
+      "rank": 3,
+      "title": "Alexa+ arrives in France as Amazon's next-generation AI assistant expands internationally",
+      "publisher": "Benzinga",
+      "date": "2026-05-26 07:58",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "新一代 AI 助理 Alexa+ 的國際化擴張，有助於鞏固 Amazon 在智慧裝置與 AI 服務領域的市占率。"
+    },
+    {
+      "rank": 4,
+      "title": "Amazon’s Quantum Bet Deepens While Shares Trade Below Valuation Estimates",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 12:06",
+      "impact": "medium",
+      "category": "技術研發",
+      "reason": "量子運算領域的持續投入與服務擴展，為公司長期成長提供技術護城河，且當前股價被認為低於估值。"
+    },
+    {
+      "rank": 5,
+      "title": "Walmart, Target and Amazon are part of Zacks Earnings Preview",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 06:53",
+      "impact": "medium",
+      "category": "財報預測",
+      "reason": "Amazon 帶動的獲利預期上調，提升了整個零售板塊的展望，顯示其強勁的獲利能力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Amazon fulfillment competitor Stord raises $250M at $3B valuation",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 12:00",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "競爭對手 Stord 獲得巨額融資並強化 AI 機器人技術，對 Amazon 的物流與履行服務構成潛在競爭壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Nvidia CEO has blunt message on AI layoffs in 2026",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 21:17",
+      "impact": "low",
+      "category": "人力資源",
+      "reason": "提及 Amazon 因 AI 效率提升而裁員 16,000 人，雖反映轉型效率，但亦引發市場對企業社會責任與人力結構調整的關注。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Assessing Amazon.com (AMZN) Valuation After Recent Share Price Pullback And Strong Multi-Period Gains",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 20:07",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對近期股價回調的客觀分析，未提供明確的買賣建議，僅作為市場波動的觀察。"
+    },
+    {
+      "rank": 2,
+      "title": "Best Growth Stock to Buy Right Now: Amazon vs. MercadoLibre",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 17:59",
+      "impact": "low",
+      "category": "市場比較",
+      "reason": "將 Amazon 與 MercadoLibre 進行比較，屬於投資組合配置的分析，對股價無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Jeff Bezos Says If Amazon Were Run Like NYC Schools, 'Your Packages Would Take Six Weeks to Arrive'",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 17:55",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "創辦人 Jeff Bezos 的言論主要用於強調企業效率，對公司基本面無實質影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

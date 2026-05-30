@@ -1,0 +1,201 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla",
+  "analysis_date": "2026-05-28",
+  "source_file": "cache/2026-05-28/holdings/news/TSLA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 6,
+    "bearish_count": 8,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對於 Tesla 的自動駕駛技術與歐洲銷售成長持正面期待，但同時擔憂 SpaceX IPO 的資金分流效應、競爭對手崛起以及核心汽車業務的利潤率壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Tesla Logs Strong Growth in European Monthly Sales",
+      "publisher": "The Wall Street Journal",
+      "date": "2026-05-27 04:56",
+      "impact": "high",
+      "category": "銷售數據",
+      "reason": "歐洲市場作為 Tesla 的重要銷售區域，月度銷售強勁成長直接提振了市場對其核心汽車業務營收的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Fully Self-Driving Technology Positions Tesla Stock for Another Wave of Value Creation",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 17:34",
+      "impact": "medium",
+      "category": "技術發展",
+      "reason": "自動駕駛技術被視為 Tesla 長期價值創造的核心驅動力，市場對其技術進展持樂觀態度。"
+    },
+    {
+      "rank": 3,
+      "title": "Investors Pile Into Tesla Call Options in Huge, Unusual Volume - a Bullish Signal?",
+      "publisher": "Yahoo",
+      "date": "2026-05-25 17:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "期權市場出現異常的大量買入看漲期權，顯示機構或大戶投資人對短期股價走勢持樂觀預期。"
+    },
+    {
+      "rank": 4,
+      "title": "Tesla Stock Is In A Three-Weeks-Tight, Continues Its Recovery From A Deep Slump",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 15:54",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "股價呈現技術性盤整後的復甦跡象，月內漲幅達 12%，顯示賣壓減輕，買盤逐步回流。"
+    },
+    {
+      "rank": 5,
+      "title": "Tesla Stock Trades Higher as Investors Remain Focused on SpaceX",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 10:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價連續兩週上漲，顯示市場情緒轉暖，投資人對 SpaceX 的關注亦間接帶動了對 Elon Musk 旗下資產的信心。"
+    },
+    {
+      "rank": 6,
+      "title": "Elon Musk Hits Back At Tesla Brand Damage Critics, Reaffirms Model Y's Sales Dominance",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 23:31",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "執行長親自回應品牌受損疑慮並強調 Model Y 的銷售地位，有助於穩定投資人對品牌影響力的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Tesla Investors Beware? SpaceX IPO Could Pull Cash, Attention And Musk Away From EV Giant",
+      "publisher": "Yahoo",
+      "date": "2026-05-24 18:01",
+      "impact": "high",
+      "category": "資本運作",
+      "reason": "SpaceX 的 IPO 可能導致投資人資金分流，且市場擔憂 Elon Musk 的注意力被分散，影響 Tesla 的營運決策。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Tesla Robotaxi Dreams Can't Rescue Today's Weak Fundamentals",
+      "publisher": "Yahoo",
+      "date": "2026-05-25 11:31",
+      "impact": "high",
+      "category": "財報分析",
+      "reason": "分析指出 Robotaxi 的願景無法掩蓋當前汽車業務面臨的利潤率壓縮與需求疲軟問題，基本面壓力沉重。"
+    },
+    {
+      "rank": 3,
+      "title": "Tesla Robotaxi Stumbles In Texas As Autonomy Hype Meets Rich Valuation",
+      "publisher": "Yahoo",
+      "date": "2026-05-19 19:17",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Robotaxi 在德州的推行遭遇挫折，顯示自動駕駛技術的商業化落地難度高，與其高估值產生落差。"
+    },
+    {
+      "rank": 4,
+      "title": "Move Over, Tesla. Another Robo-Taxi Stock Is Making Progress.",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 11:06",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "競爭對手 Pony AI 營收成長超預期，顯示自動駕駛領域競爭加劇，威脅 Tesla 的市場主導地位。"
+    },
+    {
+      "rank": 5,
+      "title": "Jony Ive Designed Ferrari Luce Debuts With A $640,000 Price Tag And Interiors That Drift Apart From Tesla's Screen-Heavy Approach",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 05:15",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "豪華車廠 Ferrari 推出電動車，雖然市場區隔不同，但其設計理念對 Tesla 的極簡螢幕風格構成品牌競爭壓力。"
+    },
+    {
+      "rank": 6,
+      "title": "Micron Just Became America's 10th-Most-Valuable Company. Wall Street Says It Could Pass Tesla and Meta Next.",
+      "publisher": "Yahoo",
+      "date": "2026-05-27 02:36",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "其他 AI 相關企業市值超越 Tesla，顯示資金在科技板塊中出現輪動，Tesla 的市場吸引力相對減弱。"
+    },
+    {
+      "rank": 7,
+      "title": "Bernie Sanders Waves Off Elon Musk's 'Universal High Income' Argument",
+      "publisher": "Benzinga",
+      "date": "2026-05-25 01:22",
+      "impact": "low",
+      "category": "政治風險",
+      "reason": "政治人物對 Elon Musk 的公開批評增加了公司面臨的監管與輿論風險，可能影響品牌形象。"
+    },
+    {
+      "rank": 8,
+      "title": "Meet the Company Taking on SpaceX and Tesla -- It Could Be Worth More Than Both Combined by 2027",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 06:50",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "市場分析師看好其他 AI 巨頭的成長潛力，認為其未來價值可能超越 Tesla，對長期投資價值構成挑戰。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Musk mulled combining Tesla and SpaceX - report",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 22:02",
+      "impact": "medium",
+      "category": "公司治理",
+      "reason": "關於合併 SpaceX 與 Tesla 的傳聞引發市場討論，但目前僅止於猜測，缺乏實質進展，故列為中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla vs Nvidia: Both Market Favorites, But One Is a Best Buy Now",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 13:14",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "將 Tesla 與 Nvidia 進行比較，屬於投資組合配置建議，未對 Tesla 本身基本面產生直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "He Loaned Elon Musk $1 Million When Tesla Was Nearly Bankrupt — Now He’s About to Make More Than $100 Billion",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 13:53",
+      "impact": "low",
+      "category": "人物報導",
+      "reason": "關於早期投資人的報導，屬於歷史回顧性質，對當前股價影響有限。"
+    },
+    {
+      "rank": 4,
+      "title": "Tesla Investor Shares How Retail Investors Can Participate In Blockbuster SpaceX IPO Via Robinhood, Sofi",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 19:31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "提供散戶參與 SpaceX IPO 的教學資訊，屬於市場服務性質，不直接影響 Tesla 股價。"
+    },
+    {
+      "rank": 5,
+      "title": "Evaluating Tesla Against Peers In Automobiles Industry",
+      "publisher": "Benzinga",
+      "date": "2026-05-26 05:58",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "常規的產業同業比較報告，提供投資人參考數據，無特定利多或利空導向。"
+    },
+    {
+      "rank": 6,
+      "title": "Speculation around SpaceX-Tesla merger builds up",
+      "publisher": "CNBC",
+      "date": "2026-05-26 12:04",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "與上述合併傳聞重複，選用此篇作為代表，因其涵蓋了市場對合併可能性的持續猜測。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
