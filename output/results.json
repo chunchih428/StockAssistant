@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-31 05:23:23",
+  "generated_at": "2026-05-31 08:34:04",
   "allocation": {
-    "total_value": 420246.67000000004,
-    "total_pnl": 95254.73334,
-    "cash": 23969.690000000002,
+    "total_value": 422739.69,
+    "total_pnl": 80858.46041,
+    "cash": 44335.03,
     "portfolio_risk": {
-      "hhi": 0.0824,
+      "hhi": 0.0862,
       "hhi_label": "適度集中",
       "top1_concentration": 12.4,
-      "top3_concentration": 34.2,
-      "top5_concentration": 50.1,
-      "effective_leverage": 0.943,
+      "top3_concentration": 34.0,
+      "top5_concentration": 49.9,
+      "effective_leverage": 0.895,
       "portfolio_beta": 1.62
     }
   },
@@ -159,19 +159,6 @@
       "news_count": 20
     },
     {
-      "symbol": "QCOM",
-      "recommendation": "unknown",
-      "confidence": null,
-      "scores": {
-        "fundamental": 3,
-        "technical": 5,
-        "risk": 4
-      },
-      "current_price": 251.02,
-      "analysis": "",
-      "news_count": 14
-    },
-    {
       "symbol": "BE",
       "recommendation": "unknown",
       "confidence": null,
@@ -198,19 +185,6 @@
       "news_count": 9
     },
     {
-      "symbol": "GGLL",
-      "recommendation": "unknown",
-      "confidence": null,
-      "scores": {
-        "fundamental": 4,
-        "technical": 3,
-        "risk": 4
-      },
-      "current_price": 132.0,
-      "analysis": "",
-      "news_count": 0
-    },
-    {
       "symbol": "META",
       "recommendation": "unknown",
       "confidence": null,
@@ -222,6 +196,19 @@
       "current_price": 632.51,
       "analysis": "",
       "news_count": 20
+    },
+    {
+      "symbol": "MSFU",
+      "recommendation": "unknown",
+      "confidence": null,
+      "scores": {
+        "fundamental": 3,
+        "technical": 4,
+        "risk": 1
+      },
+      "current_price": 33.09,
+      "analysis": "",
+      "news_count": 0
     },
     {
       "symbol": "MU",
@@ -766,19 +753,6 @@
         "risk": 4
       },
       "current_price": 18.45,
-      "analysis": "",
-      "news_count": 0
-    },
-    {
-      "symbol": "CBRS",
-      "recommendation": "unknown",
-      "confidence": null,
-      "scores": {
-        "fundamental": 3,
-        "technical": 3,
-        "risk": 3
-      },
-      "current_price": 236.99,
       "analysis": "",
       "news_count": 0
     },
@@ -1650,6 +1624,19 @@
         "risk": 3
       },
       "current_price": 156.0,
+      "analysis": "",
+      "news_count": 0
+    },
+    {
+      "symbol": "QCOM",
+      "recommendation": "unknown",
+      "confidence": null,
+      "scores": {
+        "fundamental": 3,
+        "technical": 5,
+        "risk": 4
+      },
+      "current_price": 251.02,
       "analysis": "",
       "news_count": 0
     },
