@@ -1,0 +1,57 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-05-31",
+  "source_file": "cache/2026-05-31/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場廣度改善與 AI 領漲動能持續，但投資人對 QQQ 前五大成分股的高度相關性風險及衍生性產品的隱形成本感到擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "AI-Led Rally Broadens as Small Caps Join the Breakout",
+      "publisher": "ChartMill",
+      "date": "2026-05-29 12:46",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場廣度顯著改善，QQQ 作為領漲引擎之一，顯示科技股的漲勢正從大型股擴散至更廣泛的市場，增強了多頭趨勢的健康度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "QQQ’s Hidden Risk: Why the Fund’s Top 5 Holdings Move Together",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-05-30 21:18",
+      "impact": "medium",
+      "category": "風險評估",
+      "reason": "指出 QQQ 前五大持股的高度相關性可能導致市場修正時出現集中性風險，這對依賴該 ETF 進行分散投資的長期持有者構成潛在威脅。"
+    },
+    {
+      "rank": 2,
+      "title": "QQQI’s 13.8% Monthly Yield Comes With a Hidden Cost Investors Miss",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-05-30 09:38",
+      "impact": "low",
+      "category": "產品分析",
+      "reason": "針對 QQQI 衍生產品的高殖利率背後隱藏的成本進行警示，提醒投資人高收益可能伴隨資本增值受限或額外費用，影響投資報酬率。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "South Korea Is Crushing The Nasdaq 100 By Widest Margin Since 2001",
+      "publisher": "Benzinga",
+      "date": "2026-05-27 16:36",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出韓國股市表現優於 Nasdaq 100，主要反映全球 AI 記憶體晶片供應鏈的強勁需求，雖對 QQQ 本身無直接負面影響，但顯示資金配置的相對吸引力變化。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

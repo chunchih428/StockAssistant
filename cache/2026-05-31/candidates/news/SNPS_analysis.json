@@ -1,0 +1,102 @@
+{
+  "ticker": "SNPS",
+  "company": "Synopsys, Inc.",
+  "analysis_date": "2026-05-31",
+  "source_file": "cache/2026-05-31/candidates/news/SNPS.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 11,
+    "bearish_count": 6,
+    "neutral_count": 3,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司財報表現優異並上調全年展望，但市場對其估值與晶片 IP 業務的潛在疲軟存有疑慮，導致股價出現「利多出盡」的震盪走勢。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why Synopsys (SNPS) Is Up 5.4% After Raising 2026 Outlook And Adding Elliott-Backed Director",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 12:03",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第二季財報優於預期，並上調 2026 全年營收展望，同時引入 Elliott 管理的董事成員，強化公司治理與市場信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Citigroup Maintains Buy on Synopsys, Raises Price Target to $610",
+      "publisher": "Benzinga",
+      "date": "2026-05-28 15:49",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "花旗銀行維持買入評級並調升目標價至 610 美元，反映對其 AI 驅動設計軟體長期成長潛力的看好。"
+    },
+    {
+      "rank": 3,
+      "title": "Synopsys Announces Expanded AI‑Powered EDA Collaborations With Samsung Foundry At SAFE Forum 2026",
+      "publisher": "Benzinga",
+      "date": "2026-05-28 13:07",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "與三星晶圓代工擴大合作，導入 AI 輔助設計流程，有助於鞏固其在先進製程（2nm）領域的技術領先地位。"
+    },
+    {
+      "rank": 4,
+      "title": "AI Computer Design Diversity A Boon For Synopsys, Says CFO",
+      "publisher": "Yahoo",
+      "date": "2026-05-29 17:54",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "財務長強調 AI 晶片客製化需求增加，將持續推動公司 EDA 軟體的需求成長。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Synopsys Was the Worst S&P 500 Stock Thursday Despite Earnings Beat With AI and Merger in Focus",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 21:12",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "儘管財報亮眼，但股價卻成為當日標普 500 指數中表現最差的股票，顯示市場對高估值與併購 Ansys 後的整合壓力感到擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Synopsys delivers beat-and-raise, shares fall weakness in chip IP business",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 14:55",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "財報雖優於預期，但晶片 IP 業務表現疲軟，引發投資人對核心業務成長動能的質疑。"
+    },
+    {
+      "rank": 3,
+      "title": "BNP Paribas Maintains Underperform on Synopsys, Raises Price Target to $450",
+      "publisher": "Benzinga",
+      "date": "2026-05-28 13:38",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "法國巴黎銀行維持「表現落後」評級，反映對其當前估值過高及未來成長空間的保守看法。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Too Late To Consider Synopsys (SNPS) After Recent Valuation Concerns?",
+      "publisher": "Yahoo",
+      "date": "2026-05-29 06:04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討在近期股價波動後，投資人是否應進場，屬於中性的投資策略分析。"
+    },
+    {
+      "rank": 2,
+      "title": "ARM vs. SNPS: Which AI Chip Design Stock Should Investors Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 13:11",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 Synopsys 與 Arm 進行比較，分析兩者在 AI 領域的優劣勢，未給出明確買賣建議。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

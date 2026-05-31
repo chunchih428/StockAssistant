@@ -1,0 +1,102 @@
+{
+  "ticker": "QCOM",
+  "company": "QUALCOMM Incorporated",
+  "analysis_date": "2026-05-31",
+  "source_file": "cache/2026-05-31/holdings/news/QCOM.json",
+  "summary": {
+    "total_articles": 14,
+    "bullish_count": 7,
+    "bearish_count": 3,
+    "neutral_count": 4,
+    "overall_sentiment": "mixed",
+    "key_theme": "高通近期因與 ByteDance 及 Stellantis 的 AI 晶片合作案帶動股價創高，但隨後出現獲利了結賣壓及 Apple 自研數據機晶片的長期競爭隱憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Qualcomm Is Teaming Up With ByteDance. What It Means for QCOM Stock",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 20:44",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "高通與 TikTok 母公司 ByteDance 達成供應 AI 資料中心晶片的重大協議，為其在 AI 基礎設施領域的擴張提供強大動能。"
+    },
+    {
+      "rank": 2,
+      "title": "Qualcomm (QCOM) Shares Skyrocket, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-05-24 00:20",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "與汽車大廠 Stellantis 擴大合作，將 Snapdragon Digital Chassis 技術導入 AI 驅動的聯網汽車，顯著提升市場對其車用晶片業務的成長預期。"
+    },
+    {
+      "rank": 3,
+      "title": "Qualcomm (QCOM) Up 35.5% Since Last Earnings Report: Can It Continue?",
+      "publisher": "Yahoo",
+      "date": "2026-05-29 15:30",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "自上次財報發布以來股價強勁上漲 35.5%，顯示市場對其基本面轉強及 AI 轉型策略的高度認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "What Is Going On With Qualcomm Stock On Wednesday?",
+      "publisher": "Benzinga",
+      "date": "2026-05-27 12:36",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管有重大合約利多，但股價仍因短線漲幅過大引發獲利了結賣壓，導致單日下跌 7%。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple’s In-House Modem Chips Threaten Qualcomm’s (QCOM) Major Customer Base.",
+      "publisher": "Yahoo",
+      "date": "2026-05-29 13:23",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "Apple 持續開發自研數據機晶片，對高通的核心營收來源構成長期結構性威脅。"
+    },
+    {
+      "rank": 3,
+      "title": "Qualcomm Cofounder's Granddaughter, Now In Congress, Sells Almost $2 Million In QCOM Near Record High",
+      "publisher": "Yahoo",
+      "date": "2026-05-25 10:46",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "內部相關人士在股價歷史高點附近進行大規模減持，可能對散戶投資人信心造成短期負面影響。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "QUALCOMM Incorporated (QCOM) Presents at Bernstein 42nd Annual Strategic Decisions Conference Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-27 21:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "公司於投資人會議中說明營運策略，未有重大突發性利多或利空消息。"
+    },
+    {
+      "rank": 2,
+      "title": "Be Sure To Check Out QUALCOMM Incorporated (NASDAQ:QCOM) Before It Goes Ex-Dividend",
+      "publisher": "Yahoo",
+      "date": "2026-05-30 12:19",
+      "impact": "low",
+      "category": "股利政策",
+      "reason": "例行性的除息資訊，對股價影響有限，主要反映公司穩定的現金流回饋。"
+    },
+    {
+      "rank": 3,
+      "title": "QUALCOMM INC (NASDAQ:QCOM): A Sustainable Dividend Payer with Strong Fundamentals",
+      "publisher": "ChartMill",
+      "date": "2026-05-28 11:50",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "分析報告指出公司基本面穩健且股利政策具可持續性，屬於市場常態性觀點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

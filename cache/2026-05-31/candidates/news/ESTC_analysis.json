@@ -1,0 +1,83 @@
+{
+  "ticker": "ESTC",
+  "company": "Elastic N.V.",
+  "analysis_date": "2026-05-31",
+  "source_file": "cache/2026-05-31/candidates/news/ESTC.json",
+  "summary": {
+    "total_articles": 13,
+    "bullish_count": 10,
+    "bearish_count": 0,
+    "neutral_count": 3,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "公司發布 2026 財年第 4 季財報，營收與獲利雙雙優於市場預期，且 AI 驅動的業務成長動能強勁，帶動股價顯著上漲。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "ESTC Q4 Earnings Surpass Expectations, Revenues Increase Y/Y",
+      "publisher": "Zacks",
+      "date": "2026-05-29",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "Elastic 發布的第 4 季財報顯示營收與獲利均超越市場預期，且呈現年增趨勢，為股價提供強勁的基本面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Elastic: RPO Acceleration And Rich FCF — Elastic (ESTC) looks like a deep value play even after a 30% rally",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-30",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "分析指出公司剩餘履約義務 (RPO) 加速成長且自由現金流 (FCF) 強勁，即便股價已上漲 30%，仍具備深度價值投資潛力。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Are Elastic (ESTC) Shares Soaring Today",
+      "publisher": "StockStory",
+      "date": "2026-05-29",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "報導解釋了財報發布後股價飆升的原因，主要歸功於 AI 驅動的業務承諾與優異的財報數據，市場反應極為正面。"
+    },
+    {
+      "rank": 4,
+      "title": "Oppenheimer Reiterates Buy Rating on Elastic N.V. (ESTC)",
+      "publisher": "Yahoo",
+      "date": "2026-05-27",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Oppenheimer 重申對 Elastic 的買入評級，並將其列為放空者眼中 10 大最佳網路安全股之一，顯示機構對其基本面信心充足。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Elastic (ESTC) To Report Earnings Tomorrow: Here Is What To Expect",
+      "publisher": "Yahoo",
+      "date": "2026-05-27",
+      "impact": "low",
+      "category": "財報前瞻",
+      "reason": "此為財報發布前的預期性報導，僅整理市場共識與關注焦點，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Elastic (ESTC) Q4 2026 Earnings Transcript",
+      "publisher": "Motley Fool",
+      "date": "2026-05-28",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "提供財報會議逐字稿，屬於資訊揭露性質，本身不具備情緒導向。"
+    },
+    {
+      "rank": 3,
+      "title": "Elastic N.V. 2026 Q4 - Results - Earnings Call Presentation",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-28",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "提供財報簡報檔案，屬於客觀數據呈現，無額外評論。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,102 @@
+{
+  "ticker": "ARM",
+  "company": "Arm Holdings plc",
+  "analysis_date": "2026-05-31",
+  "source_file": "cache/2026-05-31/candidates/news/ARM.json",
+  "summary": {
+    "total_articles": 17,
+    "bullish_count": 10,
+    "bearish_count": 4,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 NVIDIA Vera CPU 帶動的強勁 AI 資料中心需求，以及分析師大幅上調目標價，推動股價創下新高，但市場對其高估值與潛在反壟斷調查仍存有疑慮。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Mizuho Maintains Outperform on ARM Holdings, Raises Price Target to $360",
+      "publisher": "Benzinga",
+      "date": "2026-05-28 07:40",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Mizuho 分析師 Vijay Rakesh 維持買入評級並大幅上調目標價至 $360，顯示華爾街對其 AI 成長動能的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Arm Surges as Nvidia's Vera Drives CPU Demand",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 16:33",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Jefferies 指出 NVIDIA 的 Vera CPU 需求將顯著加速 Arm 的架構授權營收，是推動股價上漲的核心基本面因素。"
+    },
+    {
+      "rank": 3,
+      "title": "ARM Targets the AI Data Center Opportunity With New AGI CPU Push",
+      "publisher": "Yahoo",
+      "date": "2026-05-25 14:53",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "公司推出針對 AI 資料中心與代理型 AI 工作負載的 AGI CPU，展現其在 AI 基礎設施領域的技術領先地位。"
+    },
+    {
+      "rank": 4,
+      "title": "Arm Holdings (ARM) Soars 46% as Profits Seen Growing 5x",
+      "publisher": "Yahoo",
+      "date": "2026-05-25 12:50",
+      "impact": "medium",
+      "category": "財報預期",
+      "reason": "市場預期獲利將成長 5 倍，強勁的獲利成長前景支撐了近期股價的爆發性漲幅。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Arm Holdings plc (ARM) to Face US Antitrust Probe over Chip Tech",
+      "publisher": "Yahoo",
+      "date": "2026-05-25 18:06",
+      "impact": "high",
+      "category": "法規監管",
+      "reason": "面臨美國反壟斷調查可能對其技術授權模式與市場壟斷地位構成法律風險，是目前最大的潛在利空。"
+    },
+    {
+      "rank": 2,
+      "title": "ARM Stock Is Valued for Eternity, But Silicon Has an Expiration Date",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 20:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "評論指出目前股價已反映過度樂觀的永續成長預期，忽略了半導體產業技術迭代的週期性風險。"
+    },
+    {
+      "rank": 3,
+      "title": "Stock Price Prediction: Arm Holdings Has Limited Upside Despite 177% Rally",
+      "publisher": "Yahoo",
+      "date": "2026-05-29 13:32",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "模型顯示在經歷 177% 的漲幅後，股價進一步上漲空間有限，建議投資人需留意回調風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Jim Cramer Explains How He Ignored the Past Price to Score a Huge Win in Arm Holdings",
+      "publisher": "Yahoo",
+      "date": "2026-05-30 15:08",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "Jim Cramer 的評論屬於市場情緒分析，對公司基本面無直接影響，僅反映投資人對該股的關注度。"
+    },
+    {
+      "rank": 2,
+      "title": "ARM vs. SNPS: Which AI Chip Design Stock Should Investors Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 13:11",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此類文章為產業比較分析，客觀討論了 Arm 的優勢與風險，未提供新的重大消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

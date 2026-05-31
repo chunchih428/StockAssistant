@@ -1,0 +1,120 @@
+{
+  "ticker": "NVDA",
+  "company": "NVIDIA",
+  "analysis_date": "2026-05-31",
+  "source_file": "cache/2026-05-31/holdings/news/NVDA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "執行長黃仁勳對 AI 需求的高度信心以及即將到來的 Computex 展會，持續推動市場對 NVIDIA 的長期成長預期。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Jensen Huang Says Nvidia Will Pour $150 Billion A Year Into 'Booming' AI Hub Taiwan",
+      "publisher": "Yahoo",
+      "date": "2026-05-30 21:30",
+      "impact": "high",
+      "category": "資本支出",
+      "reason": "NVIDIA 宣布每年將在台灣投入 1,500 億美元，顯示公司對 AI 基礎設施的長期承諾與強勁的資本擴張能力。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Jensen Huang Is Confident AI Spending From Hyperscalers Is Going to Only Get Bigger in the Future",
+      "publisher": "Yahoo",
+      "date": "2026-05-30 16:20",
+      "impact": "high",
+      "category": "市場展望",
+      "reason": "執行長黃仁勳指出超大規模雲端服務商的 AI 支出將持續超乎預期，直接支撐了 NVIDIA 的營收成長邏輯。"
+    },
+    {
+      "rank": 3,
+      "title": "Prediction: Nvidia Stock Is Going to $400 Within 1 Year",
+      "publisher": "Yahoo",
+      "date": "2026-05-30 13:14",
+      "impact": "medium",
+      "category": "分析師觀點",
+      "reason": "基於強勁的獲利成長潛力，市場對股價目標價給予正面預測，反映了投資人對其基本面的信心。"
+    },
+    {
+      "rank": 4,
+      "title": "This is why NVIDIA Corporation (NVDA) is a Top Stock to Buy for The Long Term",
+      "publisher": "Yahoo",
+      "date": "2026-05-30 16:39",
+      "impact": "medium",
+      "category": "投資評級",
+      "reason": "Baird 重申對 NVIDIA 的「優於大盤」評級，強化了該股作為長期核心資產的市場共識。"
+    },
+    {
+      "rank": 5,
+      "title": "Jim Cramer Says Dell's Blowout Quarter Could Mark A Turning Point For AI Stocks Like Nvidia And Intel",
+      "publisher": "Benzinga",
+      "date": "2026-05-29 23:58",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Dell 的強勁財報被視為 AI 產業鏈的領先指標，間接驗證了 NVIDIA 產品的市場需求熱度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "These Artificial Intelligence (AI) Stocks Have Crushed Nvidia in 2026 With Gains of 67% and 121%",
+      "publisher": "Yahoo",
+      "date": "2026-05-30 19:33",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "報導指出其他 AI 供應鏈股票（如 Lumentum）漲幅超越 NVIDIA，可能導致部分資金配置轉移。"
+    },
+    {
+      "rank": 2,
+      "title": "Why NVDY Shareholders Miss Half of NVIDIA’s Explosive Moves in Strong Months",
+      "publisher": "Yahoo",
+      "date": "2026-05-30 17:40",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "分析指出透過衍生性商品 ETF 參與 NVIDIA 漲幅會限制獲利空間，提醒投資人注意策略風險。"
+    },
+    {
+      "rank": 3,
+      "title": "This Is the Artificial Intelligence (AI) Stock I'd Buy if the Market Crashed Tomorrow — And no, itʻs not Nvidia.",
+      "publisher": "Yahoo",
+      "date": "2026-05-30 17:05",
+      "impact": "low",
+      "category": "投資觀點",
+      "reason": "市場評論員建議在市場崩盤時尋找替代標的，顯示部分投資人對 NVIDIA 目前的高估值感到擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Nvidia, AMD, & other chip names in focus at Computex 2026",
+      "publisher": "Yahoo",
+      "date": "2026-05-29 20:22",
+      "impact": "medium",
+      "category": "產業展會",
+      "reason": "Computex 展會即將召開，市場預期將有新產品發布，目前處於消息發酵前的觀望階段。"
+    },
+    {
+      "rank": 2,
+      "title": "Nvidia Stock At Key Support Ahead of Big Windows PC Launch",
+      "publisher": "Benzinga",
+      "date": "2026-05-30 12:16",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "股價處於關鍵支撐位，市場正等待 Windows PC 產品發布帶來的明確方向性突破。"
+    },
+    {
+      "rank": 3,
+      "title": "Nvidia, Apple, Isaac Newton And How To Trade Power Trends",
+      "publisher": "Yahoo",
+      "date": "2026-05-30 15:58",
+      "impact": "low",
+      "category": "投資教育",
+      "reason": "文章旨在探討 AI 趨勢下的交易策略，並非針對 NVIDIA 基本面進行分析，對股價影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,102 @@
+{
+  "ticker": "PANW",
+  "company": "Palo Alto Networks",
+  "analysis_date": "2026-05-31",
+  "source_file": "cache/2026-05-31/candidates/news/PANW.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 7,
+    "neutral_count": 3,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管受到同業 Zscaler 財報疲軟引發的連鎖反應影響，Palo Alto Networks 憑藉強勁的 AI 網路安全平台動能與分析師上調目標價，展現出優於同業的韌性。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Wedbush Just Set a New Street-High Price Target of $325 on Palo Alto Networks",
+      "publisher": "Yahoo",
+      "date": "2026-05-30 15:15",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Wedbush 分析師看好其 AI 驅動的網路安全需求加速，將目標價調升至街頭最高的 325 美元，顯示市場對其平台成長動能的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Morgan Stanley Raises its Price Target on Palo Alto Networks (PANW)",
+      "publisher": "Yahoo",
+      "date": "2026-05-29 00:50",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "摩根士丹利將其列為未來 5 年強勢買入標的，反映出機構投資人對其長期競爭優勢的認可。"
+    },
+    {
+      "rank": 3,
+      "title": "Palo Alto Networks Turns AI Security Wins Into Real World Tests",
+      "publisher": "Yahoo",
+      "date": "2026-05-27 14:05",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "公司持續擴展 AI 原生防禦產品（如 Prisma AIRS 3.0），強化了其在 AI 網路安全領域的技術護城河。"
+    },
+    {
+      "rank": 4,
+      "title": "Benchmark Maintains Buy on Palo Alto Networks, Raises Price Target to $270",
+      "publisher": "Benzinga",
+      "date": "2026-05-27 10:21",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Benchmark 分析師上調目標價至 270 美元，進一步鞏固了市場對該公司財報表現的正面預期。"
+    },
+    {
+      "rank": 5,
+      "title": "Intrado Enhances Cybersecurity Operations with Palo Alto Networks Unit 42 Managed XSIAM",
+      "publisher": "Yahoo",
+      "date": "2026-05-27 13:00",
+      "impact": "low",
+      "category": "商業合作",
+      "reason": "透過與 Intrado 的合作，展示了其 Managed XSIAM 服務在大型企業客戶中的實際落地應用。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Zscaler Shares Tumbled 32%. These 2 Rival Cybersecurity Stocks Look Like Bargains.",
+      "publisher": "Yahoo",
+      "date": "2026-05-27 22:38",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "同業 Zscaler 發布疲軟財測導致股價暴跌，引發市場對整體網路安全產業成長放緩的擔憂，造成 PANW 短期股價連帶受挫。"
+    },
+    {
+      "rank": 2,
+      "title": "Palo Alto Networks to Report Q3 Earnings: Buy, Sell or Hold the Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 14:18",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "市場關注其 Q3 財報，但分析師指出收購成本上升與股權稀釋問題可能對短期獲利表現造成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Do cybersecurity stocks still have room to run as AI scales up?",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 14:49",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "探討 AI 擴展對網路安全股的影響，屬於中性的產業趨勢分析，未對 PANW 個股做出明確多空判斷。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Trending Stock Palo Alto Networks, Inc. (PANW) a Buy Now?",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為針對熱門股的常規性投資檢視，提供投資人參考資訊，無具體利多或利空消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "IBIT",
+  "company": "Bitcoin",
+  "analysis_date": "2026-05-31",
+  "source_file": "cache/2026-05-31/holdings/news/IBIT.json",
+  "summary": {
+    "total_articles": 18,
+    "bullish_count": 1,
+    "bearish_count": 14,
+    "neutral_count": 3,
+    "overall_sentiment": "bearish",
+    "key_theme": "比特幣現貨 ETF 面臨連續 9 日的資金淨流出，市場避險情緒升溫導致機構投資者撤資。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bitcoin ETFs Are Starting To Look More Like Gold Than Tech — And Wall Street May Love It",
+      "publisher": "Benzinga",
+      "date": "2026-05-29",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "儘管近期資金流出，但分析指出比特幣 ETF 正轉向類似黃金的避險資產屬性，長期有望吸引更多機構配置。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bitcoin ETFs Lose $2.8 Billion In 9 Days: What Is Going On With Institutions?",
+      "publisher": "Benzinga",
+      "date": "2026-05-29",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "代表性新聞，涵蓋了比特幣 ETF 連續 9 日淨流出共 28 億美元的重大負面數據，顯示機構投資者信心動搖。"
+    },
+    {
+      "rank": 2,
+      "title": "BlackRock's IBIT Bitcoin ETF Sees $527 Million Outflow: What Is Going On?",
+      "publisher": "Benzinga",
+      "date": "2026-05-28",
+      "impact": "high",
+      "category": "財報與資金流",
+      "reason": "IBIT 單日流出 5.28 億美元，受地緣政治緊張（荷姆茲海峽空襲）影響，避險資金撤離風險資產。"
+    },
+    {
+      "rank": 3,
+      "title": "JPMorgan: Bitcoin, Gold ETF Outflows Mean The Debasement Trade Is Cooling",
+      "publisher": "Benzinga",
+      "date": "2026-05-28",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "摩根大通分析師指出比特幣與黃金 ETF 同步流出，顯示市場對貨幣貶值的對沖需求正在冷卻。"
+    },
+    {
+      "rank": 4,
+      "title": "Bitcoin Whale Accumulation Plummets To 2022 Levels: Why The Bear Market May Get Worse First",
+      "publisher": "Benzinga",
+      "date": "2026-05-29",
+      "impact": "medium",
+      "category": "市場數據",
+      "reason": "CryptoQuant 數據顯示比特幣巨鯨累積速度降至 2022 年水平，暗示市場可能面臨進一步修正。"
+    },
+    {
+      "rank": 5,
+      "title": "Bitcoin Drops Below $76,000 And Enters Correction Phase",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-27",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "比特幣價格跌破 76,000 美元關鍵支撐位，技術面進入修正階段，直接影響 IBIT 淨值表現。"
+    },
+    {
+      "rank": 6,
+      "title": "Bitcoin ETFs Just Had The Worst Month Of The Year: Are Investors Rotating to Stocks?",
+      "publisher": "Benzinga",
+      "date": "2026-05-30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "指出比特幣 ETF 經歷今年最差月份，投資者資金正從加密貨幣轉向傳統股票市場。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Bitcoin ETF News: BlackRock’s $1.3Bn IBIT Dark Pool Sale – Why Didn’t BTC Crash?",
+      "publisher": "99bitcoins",
+      "date": "2026-05-29",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "探討 IBIT 暗池交易對市場的影響，雖然交易量巨大但未造成比特幣崩盤，顯示市場流動性仍具韌性。"
+    },
+    {
+      "rank": 2,
+      "title": "Crypto Meets Safe Havens: Direxion Launches 2X Bitcoin, Ether, Gold ETFs",
+      "publisher": "Benzinga",
+      "date": "2026-05-28",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "Direxion 發布新的槓桿型 ETF，屬於市場產品多樣化，對 IBIT 本身無直接利多或利空影響。"
+    },
+    {
+      "rank": 3,
+      "title": "GOP lawmakers' portfolios are migrating to Trump favorites like Intel and bitcoin",
+      "publisher": "Yahoo Finance",
+      "date": "2026-05-29",
+      "impact": "low",
+      "category": "政策與政治",
+      "reason": "報導國會議員的投資組合動向，提到比特幣作為選項之一，屬於長期政治風向觀察，短期影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

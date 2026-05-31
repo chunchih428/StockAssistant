@@ -1,0 +1,74 @@
+{
+  "ticker": "ZS",
+  "company": "Zscaler",
+  "analysis_date": "2026-05-31",
+  "source_file": "cache/2026-05-31/candidates/news/ZS.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 0,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "bearish",
+    "key_theme": "Zscaler 因 CEO 對未來展望發出警示，導致市場信心崩潰並引發 80 億美元市值蒸發，目前市場正評估股價暴跌後的買入價值。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Zscaler CEO’s 2-word warning leads to $8B market cap loss",
+      "publisher": "TheStreet",
+      "date": "2026-05-28T20:07:00Z",
+      "impact": "high",
+      "category": "高層言論",
+      "reason": "CEO 發出的警示言論直接導致市場恐慌，造成 80 億美元市值瞬間蒸發，為近期股價重挫的核心驅動因素。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Zscaler Stock a Buy After Its Share Price Plummets?",
+      "publisher": "Motley Fool",
+      "date": "2026-05-30T15:50:00Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "文章探討股價暴跌後的投資價值，雖帶有分析性質，但確認了股價大幅下挫的負面事實，反映市場對其未來成長性的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Stocks making big moves yesterday: HighPeak Energy, Zscaler, Halliburton, Viasat, and CrowdStrike",
+      "publisher": "StockStory",
+      "date": "2026-05-28T23:42:00Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "將 Zscaler 列為當日市場大幅波動的個股，確認了其在市場賣壓中的顯著負面表現。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "The Zscaler Sell-Off: Has the Market Overreacted?",
+      "publisher": "Motley Fool",
+      "date": "2026-05-28T18:50:00Z",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "該文旨在探討市場是否過度反應，提供多空辯證觀點，未給出明確買賣建議，故歸類為中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Stocks making big moves this week: Viasat, Agilent, Verra Mobility, Torrid, and Zscaler",
+      "publisher": "StockStory",
+      "date": "2026-05-29T21:12:38Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅作為本週市場波動個股的彙整報導，屬於客觀事實陳述，無明顯情緒偏向。"
+    },
+    {
+      "rank": 3,
+      "title": "Zscaler (ZS) Stock Is Up, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-05-29T04:38:00Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導股價盤中反彈的現象，屬於技術性回調的資訊更新，未改變整體趨勢判斷。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

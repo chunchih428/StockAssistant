@@ -1,0 +1,129 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla",
+  "analysis_date": "2026-05-31",
+  "source_file": "cache/2026-05-31/holdings/news/TSLA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 5,
+    "bearish_count": 8,
+    "neutral_count": 7,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對於 Tesla 的 Robotaxi 競爭力與 SpaceX 合併傳聞存在高度分歧，同時股價面臨技術性修正與 AI 領域競爭加劇的壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Dow Jones Futures: Market Hits Highs On Iran Hopes; Nvidia, Tesla Lead 5 Trillion-Dollar Stocks Near Buy Points",
+      "publisher": "Yahoo",
+      "date": "2026-05-29 20:41",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Tesla 被列為五大兆元市值巨頭之一，且技術面接近買入點，顯示市場資金對其長期成長潛力仍具信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Why 2026 Is a Year of Foundational Growth for Tesla",
+      "publisher": "Yahoo",
+      "date": "2026-05-31 03:20",
+      "impact": "medium",
+      "category": "公司展望",
+      "reason": "分析師指出 2026 年為 Tesla 的基礎成長年，儘管短期財報數據可能因投資成本導致估值偏高，但長期基本面看好。"
+    },
+    {
+      "rank": 3,
+      "title": "Tesla’s Next Act? Wall Street Begins Weighing a SpaceX Combination",
+      "publisher": "Yahoo",
+      "date": "2026-05-30 14:57",
+      "impact": "medium",
+      "category": "併購傳聞",
+      "reason": "市場開始討論 Tesla 與 SpaceX 合併的可能性，這類題材通常能激發投資人對於生態系整合的想像空間。"
+    },
+    {
+      "rank": 4,
+      "title": "Meet This Pick-and-Shovel AI Stock That Just Joined Meta, Tesla, and Broadcom as the Newest Member of the $1 Trillion Club",
+      "publisher": "Yahoo",
+      "date": "2026-05-30 13:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Tesla 繼續維持在 1 兆美元市值俱樂部，強化了其作為 AI 與科技龍頭的市場地位。"
+    },
+    {
+      "rank": 5,
+      "title": "Turns Out, Tesla’s Best Cybertruck Customer Is SpaceX",
+      "publisher": "Yahoo",
+      "date": "2026-05-30 05:00",
+      "impact": "low",
+      "category": "產品銷售",
+      "reason": "揭露 SpaceX 為 Cybertruck 的重要客戶，顯示集團內部資源整合與產品需求穩定。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Tesla Robotaxi fleet in Texas less than one-tenth size of Waymo's, filings reveal",
+      "publisher": "CNBC",
+      "date": "2026-05-28 19:36",
+      "impact": "high",
+      "category": "產品競爭",
+      "reason": "官方備案顯示 Tesla 在德州的 Robotaxi 車隊規模遠落後於 Waymo，嚴重打擊市場對於其自動駕駛商業化進度的預期。"
+    },
+    {
+      "rank": 2,
+      "title": "Why a merger with SpaceX could be bad for Tesla shareholders",
+      "publisher": "Yahoo",
+      "date": "2026-05-29 13:44",
+      "impact": "medium",
+      "category": "公司治理",
+      "reason": "分析指出與 SpaceX 合併可能稀釋 Tesla 股東權益，並帶來複雜的治理風險，與市場的樂觀預期形成對比。"
+    },
+    {
+      "rank": 3,
+      "title": "This AI Chip Giant Quietly Became Worth More Than Tesla, and Many Investors Still Overlook It",
+      "publisher": "Yahoo",
+      "date": "2026-05-31 03:41",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "競爭對手市值超越 Tesla，突顯在 AI 資本競賽中，Tesla 面臨資金被其他硬體巨頭分流的風險。"
+    },
+    {
+      "rank": 4,
+      "title": "Tesla (TSLA) Stock Declines While Market Improves: Some Information for Investors",
+      "publisher": "Yahoo",
+      "date": "2026-05-29 21:45",
+      "impact": "low",
+      "category": "股價表現",
+      "reason": "在整體市場上漲背景下 Tesla 股價下跌，顯示短期賣壓較重，投資人信心不足。"
+    },
+    {
+      "rank": 5,
+      "title": "Here’s Why Tesla (TSLA) Fell Sharply in Q1",
+      "publisher": "Yahoo",
+      "date": "2026-05-29 13:47",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "回顧第一季股價下跌原因，主要受永續投資機構的資產配置調整影響，反映機構資金流出壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Tesla's Future Still Looks Far Away",
+      "publisher": "Yahoo",
+      "date": "2026-05-29 13:22",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "華爾街對於 Tesla 的高估值是否合理仍存在分歧，市場處於觀望狀態。"
+    },
+    {
+      "rank": 2,
+      "title": "How Safe Is a Tesla Robo-Taxi?",
+      "publisher": "Yahoo",
+      "date": "2026-05-29 14:09",
+      "impact": "low",
+      "category": "產品技術",
+      "reason": "探討自動駕駛安全性，屬於長期技術驗證過程，對短期股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
