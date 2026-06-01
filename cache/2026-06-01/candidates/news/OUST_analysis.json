@@ -1,0 +1,84 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-05-31",
+  "source_file": "cache/2026-05-31/candidates/news/OUST.json",
+  "summary": {
+    "total_articles": 12,
+    "bullish_count": 7,
+    "bearish_count": 3,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司與 ARGUS Interception 達成無人機防禦系統合作，帶動股價創下 52 週新高並獲分析師調升目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "ARGUS Interception and Ouster Announce Strategic Agreement to Strengthen the Precision and Reliability of Counter-UAS Systems with Digital Lidar",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 10:00",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "Ouster 與 ARGUS Interception 達成戰略合作，將其數位光達技術應用於無人機攔截系統，此為股價近期強勁上漲的核心驅動力。"
+    },
+    {
+      "rank": 2,
+      "title": "Rosenblatt Maintains Buy on Ouster, Raises Price Target to $53",
+      "publisher": "Benzinga",
+      "date": "2026-05-27 08:43",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Rosenblatt 分析師 Kevin Cassidy 看好公司在國防與無人機領域的潛力，將目標價大幅調升至 53 美元，強化市場信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Ouster Stock Hits 52-Week High - Here's Why",
+      "publisher": "Benzinga",
+      "date": "2026-05-26 10:16",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受惠於新合作案消息，股價單日漲幅超過 16 %，並創下 52 週新高，顯示市場對其技術商業化進程的高度認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Mobileye Is A Better And Cheaper Physical AI Play Than Ouster",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-29 11:49",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "分析師認為 Mobileye 在自動駕駛與 AI 領域具備更優越的技術與自由現金流，並質疑 Ouster 當前的估值合理性。"
+    },
+    {
+      "rank": 2,
+      "title": "An Ouster Director Sold Over 9,000 Company Shares. Here's What That Means for Investors.",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 19:53",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "公司董事進行內部持股拋售，儘管數量有限，但在股價創高之際，可能引發投資人對獲利了結的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Analyst Downgrades Ouster (OUST) to Neutral",
+      "publisher": "Insider Monkey",
+      "date": "2026-05-21 23:24",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "在合作案公布前，曾有分析師將評級下調至中性，反映市場對其成長動能與估值曾存在分歧。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ouster Partnerships Link Counter Drone Lidar Progress With Valuation Questions",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 22:04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導綜合了合作利多與估值疑慮，呈現市場對 Ouster 在技術突破與財務表現之間的平衡觀點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

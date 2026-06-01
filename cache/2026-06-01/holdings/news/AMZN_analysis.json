@@ -1,0 +1,120 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-05-31",
+  "source_file": "cache/2026-05-31/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 6,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "Amazon 在雲端運算與 AI 領域的強勁成長與機構投資人青睞，正與內部 AI 數據爭議、裁員壓力及衛星發射失敗等負面消息進行多空拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Truist Securities Maintains Buy on Amazon.com, Raises Price Target to $320",
+      "publisher": "Benzinga",
+      "date": "2026-05-29",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Youssef Squali 對 Amazon 維持買入評級並調升目標價至 320 美元，顯示市場對其長期成長潛力具備高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "2 Genius Stocks That Billionaire Bill Ackman Just Loaded Up On",
+      "publisher": "Yahoo",
+      "date": "2026-05-30",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "知名對沖基金經理人 Bill Ackman 的 Pershing Square 大舉增持 Amazon 股票，具備極高的市場指標意義與信心背書。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon’s AWS hits fastest growth in 15 quarters as Bezos doubles down on AI infrastructure",
+      "publisher": "Yahoo",
+      "date": "2026-05-29",
+      "impact": "high",
+      "category": "財報與業務",
+      "reason": "AWS 雲端業務創下 15 季以來最快成長紀錄，證明 Amazon 在 AI 基礎設施的資本支出已轉化為實質營收動能。"
+    },
+    {
+      "rank": 4,
+      "title": "A $6 Billion Reason Snowflake Stock Is Up Today",
+      "publisher": "Yahoo",
+      "date": "2026-05-29",
+      "impact": "medium",
+      "category": "商業合作",
+      "reason": "Snowflake 與 Amazon 達成價值 60 億美元的合作夥伴關係，強化了 AWS 在數據處理生態系中的核心地位。"
+    },
+    {
+      "rank": 5,
+      "title": "Investor Goes 70% Into Amazon With Leveraged Options, Calls Amazon ‘Ultimate Beneficiary’ of AI",
+      "publisher": "Yahoo",
+      "date": "2026-05-29",
+      "impact": "medium",
+      "category": "市場情緒",
+      "reason": "知名投資人 Chris Camillo 大舉押注 Amazon，將其視為 AI 浪潮下的最終受益者，反映出市場對其 AI 變現能力的樂觀預期。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Jeff Bezos' Blue Origin rocket explodes as space tech stocks tank",
+      "publisher": "Yahoo",
+      "date": "2026-05-30",
+      "impact": "high",
+      "category": "公司營運",
+      "reason": "Blue Origin 火箭爆炸導致 Kuiper 衛星計畫受阻，直接影響 Amazon 未來的衛星網路佈局與資本支出效率。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon is Cutting Even More Jobs, Following the Mass Layoffs in January",
+      "publisher": "Yahoo",
+      "date": "2026-05-29",
+      "impact": "medium",
+      "category": "人力資源",
+      "reason": "持續的裁員行動引發市場對於核心雲端業務獲利能力與組織穩定性的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Update: Market Chatter: Amazon Shuts Internal AI Leaderboard After Employees Inflated Usage Scores",
+      "publisher": "Yahoo",
+      "date": "2026-05-29",
+      "impact": "medium",
+      "category": "公司治理",
+      "reason": "內部 AI 績效數據造假醜聞導致排行榜關閉，損害了公司治理透明度與 AI 發展的公信力。"
+    },
+    {
+      "rank": 4,
+      "title": "As Nvidia, Oracle And Amazon Pour Billions Into AI, Wall Street Is Quietly Hedging For Trouble",
+      "publisher": "Yahoo",
+      "date": "2026-05-29",
+      "impact": "low",
+      "category": "市場風險",
+      "reason": "華爾街針對 AI 相關借貸進行避險，顯示市場對科技巨頭過度資本支出可能帶來的信用風險感到不安。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Mark Zuckerberg Drops Hints Cloud Wars With Amazon And Microsoft Is 'Definitely On The Table' For Meta",
+      "publisher": "Yahoo",
+      "date": "2026-05-29",
+      "impact": "low",
+      "category": "競爭分析",
+      "reason": "Meta 考慮進入公有雲市場，雖構成潛在競爭，但目前僅為口頭暗示，對 Amazon 短期市佔率影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "The Monthly Income Trap in AMZY That Costs Long-Term Investors Thousands",
+      "publisher": "Yahoo",
+      "date": "2026-05-30",
+      "impact": "low",
+      "category": "投資工具",
+      "reason": "此報導針對 AMZY ETF 的衍生性商品策略進行警示，屬於投資工具分析，對 Amazon 本身股價無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

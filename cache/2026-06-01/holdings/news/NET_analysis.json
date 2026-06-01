@@ -1,0 +1,93 @@
+{
+  "ticker": "NET",
+  "company": "Cloudflare",
+  "analysis_date": "2026-05-31",
+  "source_file": "cache/2026-05-31/holdings/news/NET.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 3,
+    "bearish_count": 3,
+    "neutral_count": 2,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對於 Cloudflare 在 AI 基礎設施領域的成長潛力與高估值風險存在顯著分歧，同時管理層的裁員溝通策略引發了外部輿論的負面關注。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why Is Cloudflare (NET) Stock Rocketing Higher Today",
+      "publisher": "StockStory",
+      "date": "2026-05-29",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價出現顯著上漲，反映出市場對其業務執行力與 AI 驅動成長的強烈信心，是近期最直接的正面訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "Cloudflare: Incredible Growth On Trimmed Workforce",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-26",
+      "impact": "medium",
+      "category": "財報與營運",
+      "reason": "分析指出透過精簡人力提升營運效率，有助於改善利潤率，為未來的獲利成長奠定基礎。"
+    },
+    {
+      "rank": 3,
+      "title": "Cloudflare (NET) Valuation Check After Anthropic Claude Agent Partnership Expands AI Infrastructure Role",
+      "publisher": "Simply Wall St.",
+      "date": "2026-05-27",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 Anthropic 的合作進一步鞏固了其在 AI 基礎設施的地位，顯示公司在 AI 時代的技術護城河正在擴大。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare Is Priced For Perfection",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-26",
+      "impact": "high",
+      "category": "投資評級",
+      "reason": "分析師給予賣出評級，主要考量當前估值過高，缺乏足夠的安全邊際，若成長速度放緩可能面臨本益比修正風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Chamath Palihapitiya Rips Into Cloudflare CEO's Layoff Memo: 'I Think You Did A Horrible Job'",
+      "publisher": "Stocktwits",
+      "date": "2026-05-26",
+      "impact": "medium",
+      "category": "公司治理",
+      "reason": "知名投資人對 CEO 的裁員溝通方式表達強烈不滿，這類負面輿論可能影響公司品牌形象與員工士氣。"
+    },
+    {
+      "rank": 3,
+      "title": "Cloudflare CEO disagrees with Bezos on Al and US jobs",
+      "publisher": "TheStreet",
+      "date": "2026-05-26",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "CEO 與 Jeff Bezos 在 AI 與就業議題上的公開分歧，雖屬觀點差異，但增加了管理層在公眾視野下的爭議性。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Fastly vs. Cloudflare: Which Edge AI Infrastructure Stock Wins?",
+      "publisher": "Zacks",
+      "date": "2026-05-28",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此類比較性文章旨在分析產業競爭格局，並未提供新的利多或利空資訊，屬於中性的產業觀察。"
+    },
+    {
+      "rank": 2,
+      "title": "Here's How Much You Would Have Made Owning Cloudflare Stock In The Last 5 Years",
+      "publisher": "Benzinga",
+      "date": "2026-05-28",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "回顧性績效分析，僅提供歷史數據參考，對當前股價走勢不具備實質影響力。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

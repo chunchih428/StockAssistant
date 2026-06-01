@@ -1,0 +1,111 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-05-31",
+  "source_file": "cache/2026-05-31/candidates/news/NFLX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 11,
+    "bearish_count": 3,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "Netflix 透過收購 AI 新創公司 InterPositive 優化內容成本結構，並持續擴大廣告業務規模，市場普遍看好其長期估值修復潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ben Affleck says the AI company he just sold to Netflix for $600 million will lead to ‘more human work’",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 10:35",
+      "impact": "high",
+      "category": "企業併購",
+      "reason": "Netflix 以 6 億美元收購 Ben Affleck 的 AI 新創公司 InterPositive，預計透過專利技術節省高達 50% 的視覺特效成本與 70% 的背景演員支出，潛在節省金額達 35 億美元，顯著優化內容經濟效益。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix's Ad Business Expansion Continues: More Upside Ahead?",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 13:13",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "廣告業務成長動能強勁，2026 年廣告營收預計接近 30 億美元，新格式與直播活動的導入將成為未來營收成長的關鍵驅動力。"
+    },
+    {
+      "rank": 3,
+      "title": "Down 28%, Netflix Stock Is Suddenly a Bargain",
+      "publisher": "Yahoo",
+      "date": "2026-05-30 14:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價自高點回調 28%，目前估值已進入具吸引力的區間，分析師認為長期投資價值浮現。"
+    },
+    {
+      "rank": 4,
+      "title": "Netflix Could Be One of the Market’s Biggest Comebacks With 250% Upside",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 14:58",
+      "impact": "medium",
+      "category": "分析師觀點",
+      "reason": "基於專有模型分析，認為 Netflix 具備強勁的反彈潛力，目標價空間看好，顯示市場對其長期競爭力仍具信心。"
+    },
+    {
+      "rank": 5,
+      "title": "How The Netflix (NFLX) Investment Story Is Shifting Around Ads Content And Deal Discipline",
+      "publisher": "Yahoo",
+      "date": "2026-05-25 16:08",
+      "impact": "low",
+      "category": "財報與估值",
+      "reason": "分析師將合理股價目標從 113.17 美元微調至 114.56 美元，肯定公司在內容投資與併購上的紀律。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Netflix criticises German plan to make streamers invest more locally",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 14:18",
+      "impact": "medium",
+      "category": "法規監管",
+      "reason": "德國政府計畫要求串流平台強制投資當地內容，此舉將增加 Netflix 的營運成本並限制其內容採購的靈活性。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix vs. Apple: Which Streaming Giant Is the Better Buy Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-05-27 14:23",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "相較於 Apple 的服務成長與生態系韌性，Netflix 在競爭評比中略遜一籌，可能導致部分資金配置轉向。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix (NFLX) Stock Slides as Market Rises: Facts to Know Before You Trade",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價在市場上漲期間出現 1.04% 的跌幅，顯示短期內賣壓仍存，技術面表現相對疲軟。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Where Will Netflix Stock Be Next Year?",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 13:47",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "報導提及終止 Warner Bros. 併購案並支付 28 億美元費用，同時上調自由現金流指引，正負消息抵銷，對股價影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "New '60 Minutes' head Nick Bilton says Paramount's CBS News hired him to pivot the show",
+      "publisher": "CNBC",
+      "date": "2026-05-28 14:42",
+      "impact": "low",
+      "category": "產業動態",
+      "reason": "僅提及 Nick Bilton 曾為 Netflix 製作紀錄片，與公司核心業務無直接重大關聯。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
