@@ -1,0 +1,102 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-05-31",
+  "source_file": "cache/2026-05-31/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場高度期待 Apple 透過整合 Agentic AI 與 Siri 升級，進一步鞏固其生態系統優勢並帶動硬體換機潮。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple’s Agentic AI Plans Could Be Its Biggest Growth Story Yet",
+      "publisher": "Yahoo",
+      "date": "2026-05-29 14:45",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "市場分析認為 Apple 的生態系統優勢使其在 Agentic AI 領域具備強大競爭力，有望成為未來營收成長的核心驅動力。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple Intelligence Drives Up iPhone & Mac Sales: More Upside Ahead?",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 16:13",
+      "impact": "high",
+      "category": "財報預期",
+      "reason": "將 Apple Intelligence 整合至 iPhone 17 與 Mac 系列，預計將顯著提升硬體升級需求與服務營收。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple Inc. (AAPL): Renaissance Technologies Opens New Position",
+      "publisher": "Yahoo",
+      "date": "2026-05-30 15:51",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名量化基金 Renaissance Technologies 新建倉位，顯示機構投資人對 Apple 長期價值與動能的認可。"
+    },
+    {
+      "rank": 4,
+      "title": "Apple has the best hardware and has snared one of the best AI platforms with Gemini, says Jim Cramer",
+      "publisher": "CNBC",
+      "date": "2026-05-26 19:21",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "Jim Cramer 強調 Apple 硬體優勢結合 Gemini AI 平台，具備極強的市場競爭力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "I worked with Steve Jobs at Apple, where every OS update killed startups. AI founders are about to face the same thing",
+      "publisher": "Yahoo",
+      "date": "2026-05-30 12:30",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "前員工 Matt Rogers 指出 Apple 過去透過作業系統更新淘汰新創公司的模式，可能在 AI 時代重演，引發市場對反壟斷與競爭環境的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple’s In-House Modem Chips Threaten Qualcomm’s (QCOM) Major Customer Base.",
+      "publisher": "Yahoo",
+      "date": "2026-05-29 13:23",
+      "impact": "low",
+      "category": "供應鏈動態",
+      "reason": "雖然對 Apple 而言是垂直整合的利多，但此舉引發市場對於供應鏈依賴度與技術轉移風險的討論。"
+    },
+    {
+      "rank": 3,
+      "title": "How Is Apple's Stock Performance Compared to Other Technology Stocks?",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 13:57",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "數據顯示 Apple 過去一年表現落後於科技產業整體，反映出投資人對其成長動能的質疑。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Nvidia, Apple, Isaac Newton And How To Trade Power Trends",
+      "publisher": "Yahoo",
+      "date": "2026-05-30 15:58",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "僅為投資趨勢分析，將 Apple 列為 AI 時代的觀察標的，未提供具體買賣建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Nvidia the Next Apple?",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 14:23",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "文章主要探討 Nvidia 的成長潛力，僅將 Apple 作為市值與成長性的對標參考。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

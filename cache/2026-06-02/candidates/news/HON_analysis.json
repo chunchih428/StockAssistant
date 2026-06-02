@@ -1,0 +1,83 @@
+{
+  "ticker": "HON",
+  "company": "Honeywell",
+  "analysis_date": "2026-05-31",
+  "source_file": "cache/2026-05-31/candidates/news/HON.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 7,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司分拆計畫進展順利，加上量子運算子公司 Quantinuum 的 IPO 籌資計畫，成為推動股價上漲的主要催化劑。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Barclays Maintains Overweight on Honeywell Intl, Raises Price Target to $251",
+      "publisher": "Benzinga",
+      "date": "2026-05-27",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Barclays 分析師 Julian Mitchell 維持對 HON 的「加碼」評級，並將目標價調升至 251 美元，主要看好公司即將進行的分拆業務所帶來的價值釋放。"
+    },
+    {
+      "rank": 2,
+      "title": "Honeywell-Backed Quantinuum Seeks $1.05 Billion in US IPO",
+      "publisher": "Bloomberg",
+      "date": "2026-05-26",
+      "impact": "high",
+      "category": "資本運作",
+      "reason": "Honeywell 旗下的量子運算公司 Quantinuum 啟動 10.5 億美元的 IPO 計畫，這將有助於釋放 Honeywell 在高科技領域的投資價值，並為母公司帶來資本挹注。"
+    },
+    {
+      "rank": 3,
+      "title": "Honeywell International Nears June 29 Split With 'All Green Lights,' Reaffirms Outlook",
+      "publisher": "Yahoo",
+      "date": "2026-05-24",
+      "impact": "medium",
+      "category": "公司策略",
+      "reason": "公司確認將於 6 月 29 日完成業務分拆，且營運前景維持不變，顯示管理層執行力強，消除了市場對分拆過程的不確定性。"
+    },
+    {
+      "rank": 4,
+      "title": "Honeywell’s (HON) Quantum Isn’t A Science Project, Asserts Jim Cramer",
+      "publisher": "Yahoo",
+      "date": "2026-05-28",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "知名財經評論員 Jim Cramer 強調 Honeywell 在量子運算領域的投入已具備商業化價值，並非僅是實驗性質，增強了市場對其科技轉型能力的信心。"
+    },
+    {
+      "rank": 5,
+      "title": "Barclays Says Honeywell (HON) Has Clear Catalysts as Spinoffs Near",
+      "publisher": "Yahoo",
+      "date": "2026-05-30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報告指出 Honeywell 擁有明確的股價催化劑，特別是分拆業務的臨近，進一步鞏固了市場對其近期成長動能的正面預期。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Honeywell International Inc. (HON) Rises Higher Than Market: Key Facts",
+      "publisher": "Yahoo",
+      "date": "2026-05-29",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導僅描述股價單日上漲 2.09 % 的市場表現，屬於對過去交易日的回顧，未提供新的基本面資訊。"
+    },
+    {
+      "rank": 2,
+      "title": "Solstice: Expectations Run Hot",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-26",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "報導討論已分拆出的子公司 Solstice 的財報表現，雖然成長強勁，但對母公司 Honeywell 的直接財務影響已隨分拆而降低，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

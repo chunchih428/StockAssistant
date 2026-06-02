@@ -1,0 +1,120 @@
+{
+  "ticker": "FFIV",
+  "company": "F5",
+  "analysis_date": "2026-05-31",
+  "source_file": "cache/2026-05-31/candidates/news/FFIV.json",
+  "summary": {
+    "total_articles": 14,
+    "bullish_count": 8,
+    "bearish_count": 1,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 與雲端安全需求強勁，F5 股價表現優於大盤，且多數分析師持續上調目標價以反映其成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Piper Sandler Maintains Overweight on F5, Raises Price Target to $423",
+      "publisher": "Benzinga",
+      "date": "2026-05-29 11:51",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 James Fish 維持增持評級並大幅調升目標價，顯示市場對 F5 在雲端安全領域的獲利能力信心增強。"
+    },
+    {
+      "rank": 2,
+      "title": "RBC Capital Reiterates Outperform on F5, Maintains $425 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-05-29 12:22",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "RBC Capital 維持優於大盤評級與 425 美元高目標價，確認了該公司在網路安全市場的領先地位。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Is F5 (FFIV) Up 18.3% Since Last Earnings Report?",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 15:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "財報公布後股價強勁上漲 18.3 %，反映出市場對其營運績效與未來獲利預期的正面認可。"
+    },
+    {
+      "rank": 4,
+      "title": "Buy 4 Cybersecurity Bigwigs for a Strong and Secure Portfolio in 2026",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 12:21",
+      "impact": "medium",
+      "category": "產業趨勢",
+      "reason": "將 F5 列為 2026 年網路安全領域的關鍵投資標的，受惠於 AI 與雲端基礎設施的長期成長需求。"
+    },
+    {
+      "rank": 5,
+      "title": "F5 (FFIV) Valuation Check After New Red Hat AI Security Milestones",
+      "publisher": "Yahoo",
+      "date": "2026-05-24 04:20",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "與 Red Hat 的 AI 安全合作里程碑提升了市場對其技術整合能力的評價，進而支撐估值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "B of A Securities Maintains Underperform on F5, Raises Price Target to $300",
+      "publisher": "Benzinga",
+      "date": "2026-05-26 13:34",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "儘管調升目標價，但美銀證券仍維持表現落後評級，顯示對其長期估值與市場競爭壓力的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Barclays Maintains Equal-Weight on F5, Raises Price Target to $386",
+      "publisher": "Benzinga",
+      "date": "2026-05-29 16:25",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "巴克萊維持中立評級，僅隨市場趨勢微幅調整目標價，對股價影響較為溫和。"
+    },
+    {
+      "rank": 2,
+      "title": "F5, Inc. (FFIV) Shareholder/Analyst Call - Slideshow",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-30 19:26",
+      "impact": "low",
+      "category": "公司公告",
+      "reason": "發布投資人簡報屬於例行性資訊揭露，未包含重大突發利多或利空。"
+    },
+    {
+      "rank": 3,
+      "title": "F5 Stock: Is Wall Street Bullish or Bearish?",
+      "publisher": "Yahoo",
+      "date": "2026-05-25 11:57",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "綜合性市場觀點分析，總結了華爾街對該股的多空看法，未提供新的基本面催化劑。"
+    },
+    {
+      "rank": 4,
+      "title": "See How Institutional Money Flows Boost F5 Shares",
+      "publisher": "Yahoo",
+      "date": "2026-05-27 12:16",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "回顧歷史資金流向，屬於技術面與籌碼面的統計分析，對短期股價影響有限。"
+    },
+    {
+      "rank": 5,
+      "title": "Dear F5 Stock Fans, Mark Your Calendars for May 28",
+      "publisher": "Barchart",
+      "date": "2026-05-21 14:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為事件提醒，提醒投資人關注特定日期，不具備實質基本面影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

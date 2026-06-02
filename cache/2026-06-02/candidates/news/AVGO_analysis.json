@@ -1,0 +1,102 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-05-31",
+  "source_file": "cache/2026-05-31/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Broadcom 憑藉強勁的 AI 基礎設施布局與 360 億美元的融資合作，獲得機構投資人與知名基金經理人青睞，市場對即將到來的財報表現抱持高度樂觀期待。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Broadcom Deepens AI Infrastructure Role With US$36b Deal And FuriosaAI Pact",
+      "publisher": "Yahoo",
+      "date": "2026-05-30 14:02",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "Broadcom 參與高達 360 億美元的 AI 基礎設施融資，並與 FuriosaAI 達成合作，進一步鞏固其在 AI 運算領域的關鍵地位。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom Stock Attracts A Billionaire Buyer As AI Momentum Accelerates",
+      "publisher": "Benzinga",
+      "date": "2026-05-29 12:52",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "知名億萬富翁投資人 Daniel Loeb 大舉加碼 Broadcom，顯示專業機構對其 AI 成長動能的高度信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Broadcom's BCM68850 Boosts AVGO's Edge AI Push: More Upside Ahead?",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 16:06",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出 BCM68850 晶片，將邊緣 AI 功能整合至家庭閘道器，展現公司在 AI 終端應用市場的技術領先優勢。"
+    },
+    {
+      "rank": 4,
+      "title": "Broadcom (AVGO) is Among Claude AI’s Top Stock Picks for 2026",
+      "publisher": "Yahoo",
+      "date": "2026-05-29 20:07",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "被 AI 模型 Claude 選為 2026 年首選投資標的之一，反映出市場對其基本面與 AI 成長潛力的認可。"
+    },
+    {
+      "rank": 5,
+      "title": "Jim Cramer Explains “Why We’ve Stuck With Broadcom”",
+      "publisher": "Yahoo",
+      "date": "2026-05-29 10:50",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名財經評論員 Jim Cramer 公開背書，強調 Broadcom 在 AI 領域的長期投資價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Strong Q1 Says Marvell Is Becoming Broadcom's Most Credible Rival",
+      "publisher": "Yahoo",
+      "date": "2026-05-29 14:08",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "Marvell Technology 財報表現強勁，被視為 Broadcom 在 AI 晶片領域最強大的競爭對手，可能對市占率構成潛在威脅。"
+    },
+    {
+      "rank": 2,
+      "title": "What's Going On With Broadcom Stock Thursday?",
+      "publisher": "Benzinga",
+      "date": "2026-05-28 07:31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "盤前出現小幅賣壓，反映部分投資人在股價接近歷史高點時的獲利了結心態。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "What's Going On With Broadcom Stock Friday?",
+      "publisher": "Benzinga",
+      "date": "2026-05-29 06:40",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "市場聚焦 6 月 3 日的財報發布，預期營收達 220.8 億美元，目前股價處於觀望階段，等待財報驗證。"
+    },
+    {
+      "rank": 2,
+      "title": "TSM vs Broadcom: Both Nearing 52-Week High, Only One is a Buy",
+      "publisher": "Yahoo",
+      "date": "2026-05-29 13:27",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 Broadcom 與台積電進行比較，兩者皆處於高點，分析師對兩者的投資建議存在分歧，屬中性評估。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

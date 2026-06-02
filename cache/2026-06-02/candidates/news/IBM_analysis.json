@@ -1,0 +1,92 @@
+{
+  "ticker": "IBM",
+  "company": "International Business Machines Corporation",
+  "analysis_date": "2026-06-01",
+  "source_file": "cache/2026-06-01/candidates/news/IBM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 18,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "IBM 宣布投入 150 億美元於量子計算與網路安全領域，引發市場強烈看多情緒並推動股價創下新高。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "International Business Machines (IBM) Unveils $15B Investments, Surges 12.7%",
+      "publisher": "Yahoo",
+      "date": "2026-05-30 05:43",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "IBM 宣布總計 150 億美元的重大投資計畫（100 億美元量子計算、50 億美元網路安全），直接帶動股價單日飆升 12.7 %，為市場最核心的利多驅動因素。"
+    },
+    {
+      "rank": 2,
+      "title": "Wedbush Reiterates Outperform on IBM, Maintains $320 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-05-29 09:50",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "知名分析師 Dan Ives 重申對 IBM 的「優於大盤」評級，並維持 320 美元的目標價，顯示華爾街對其轉型策略的高度信心。"
+    },
+    {
+      "rank": 3,
+      "title": "IBM Is Chasing A '$1 Trillion Value Creation Engine' — And It's Spending $15 Billion To Get There",
+      "publisher": "Benzinga",
+      "date": "2026-05-29 09:51",
+      "impact": "medium",
+      "category": "企業戰略",
+      "reason": "報導詳細分析了 IBM 透過量子計算與網路安全布局，旨在打造價值 1 兆美元的成長引擎，強化了投資人對公司長期競爭力的預期。"
+    },
+    {
+      "rank": 4,
+      "title": "The Quantum Computing Boom Is Back. IBM Proves It Is the Smartest Stock to Buy",
+      "publisher": "Yahoo",
+      "date": "2026-05-30 17:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 IBM 在量子計算領域的規模經濟與技術領先地位，使其在與小型競爭對手的競爭中脫穎而出，被視為該領域的首選標的。"
+    },
+    {
+      "rank": 5,
+      "title": "Mythos was the critical trigger for IBM's open-source cybersecurity push, Krishna says",
+      "publisher": "CNBC",
+      "date": "2026-05-28 14:02",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "執行長 Arvind Krishna 宣布與 Goldman Sachs、JPMorgan 等大型金融機構合作推動開源網路安全，顯示 IBM 在企業級資安市場的影響力與客戶黏著度。"
+    },
+    {
+      "rank": 6,
+      "title": "I Think This Is the Most Misunderstood Tech Stock on the Market Right Now",
+      "publisher": "Yahoo",
+      "date": "2026-05-30 17:35",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "市場評論認為 IBM 目前被市場嚴重低估，強調其作為產業領導者的價值，有助於改善投資人對該股的長期看法。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Stock Market Today: Dow Clears 51,000; These Names Tumble On Deal News",
+      "publisher": "Yahoo",
+      "date": "2026-05-29 19:49",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導主要關注道瓊指數創高與美伊談判進展，IBM 僅作為市場領漲成分股被提及，對公司基本面無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Dell and 6 More Stocks That Explain the Market Today",
+      "publisher": "Yahoo",
+      "date": "2026-05-29 10:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導歸因於 Dell 的財報表現帶動了包含 IBM 在內的科技股走勢，屬於板塊連動效應，非 IBM 自身業務消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
