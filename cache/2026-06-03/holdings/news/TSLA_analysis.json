@@ -1,0 +1,93 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla",
+  "analysis_date": "2026-06-03",
+  "source_file": "cache/2026-06-03/holdings/news/TSLA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 6,
+    "bearish_count": 8,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "Tesla 面臨中國與歐洲市場銷量回升的利多，但同時受到 OpenAI 與 Nvidia 在人形機器人領域競爭加劇，以及 SpaceX IPO 可能分流投資人資金的利空夾擊。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Tesla’s China-Made EV Deliveries Rise Nearly 40% in May Despite Intensifying Competition",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 13:43",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "中國市場交付量成長 40 %，顯示在激烈競爭下 Tesla 產品需求依然強勁，直接挹注營收成長動能。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Tesla's Model Y Driving a Lasting Recovery in Europe?",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 15:52",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "法國與挪威等關鍵市場註冊量激增，證實 Tesla 在歐洲市場的銷售復甦趨勢，有助於改善區域獲利表現。"
+    },
+    {
+      "rank": 3,
+      "title": "Trump Criticized Canada's China EV Deal—Elon Musk's Tesla Could Be Among Its Biggest Winners",
+      "publisher": "Yahoo",
+      "date": "2026-06-03 01:31",
+      "impact": "medium",
+      "category": "法規與政策",
+      "reason": "儘管政治環境複雜，Tesla 憑藉其全球供應鏈優勢，有望從加中電動車協議中獲益，擴大市場份額。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Tesla Sheds $75 Billion In Market Cap After Sam Altman Targets Optimus",
+      "publisher": "Benzinga",
+      "date": "2026-06-02 10:18",
+      "impact": "high",
+      "category": "市場競爭",
+      "reason": "OpenAI 進入機器人領域直接威脅 Tesla 的 Optimus 業務，導致市場對其 AI 領先地位產生疑慮，造成市值大幅回調。"
+    },
+    {
+      "rank": 2,
+      "title": "Elon Musk's New Competition: How Nvidia Is Taking On Tesla In The Humanoid Robot Race",
+      "publisher": "Benzinga",
+      "date": "2026-06-02 14:18",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "Nvidia 推出開放式機器人平台，為 Tesla 的競爭對手提供硬體支援，加劇了人形機器人市場的競爭壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Did TSLA Stock Fall Overnight? Gary Black Says SpaceX Might Be The Culprit",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 05:15",
+      "impact": "medium",
+      "category": "資本市場",
+      "reason": "投資人擔憂 SpaceX 的 IPO 可能會分流 Tesla 的資金與管理層注意力，對股價造成短期賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "TSLA Stock Climbs Premarket: Elon Musk Revives Tesla's IPO-Era Bull Case To Defend SpaceX's $1.8 Trillion Valuation",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 08:20",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "Elon Musk 透過回顧 Tesla 歷史來為 SpaceX 估值辯護，屬於公關層面的發言，對 Tesla 基本面無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Nasdaq, S&P 500 Futures Edge Lower Despite AI Momentum As Iran Risks Linger",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 08:46",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受總體經濟與地緣政治風險影響，Tesla 股價波動主要隨大盤走勢，非公司特定消息驅動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

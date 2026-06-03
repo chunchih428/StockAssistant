@@ -1,0 +1,102 @@
+{
+  "ticker": "MSFT",
+  "company": "Microsoft",
+  "analysis_date": "2026-06-03",
+  "source_file": "cache/2026-06-03/holdings/news/MSFT.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Microsoft 於 Build 大會展示強勁的 AI 產品矩陣與生態系合作，推動股價重回關鍵技術支撐位。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Microsoft Build: MSFT Partners With NVDA On AI Hardware Push, Launches New Models And Quantum Chip",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 20:30",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Microsoft 在 Build 大會發布七款自研 AI 模型並與 Nvidia 深度合作，展現降低對 OpenAI 依賴的策略與技術領先地位。"
+    },
+    {
+      "rank": 2,
+      "title": "Microsoft Stock Just Hit a 3-Month High. Investors Can Thank a ‘New Era of PC.’",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 20:35",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "AI 驅動的 Windows PC 產品線被視為公司成長新引擎，推動股價創下三個月新高。"
+    },
+    {
+      "rank": 3,
+      "title": "Dan Ives Says ‘Market Is Mispricing’ MSFT Stock — Here’s Why",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 23:22",
+      "impact": "medium",
+      "category": "分析師觀點",
+      "reason": "Wedbush 分析師 Dan Ives 強調市場低估了 Microsoft 在 AI 領域的獲利潛力，維持看多評級。"
+    },
+    {
+      "rank": 4,
+      "title": "Mayo Clinic and Microsoft collaborate to develop a frontier AI model for healthcare",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 19:01",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 Mayo Clinic 的合作證明了 Microsoft AI 技術在醫療垂直領域的應用價值，有助於擴大 Azure 市占率。"
+    },
+    {
+      "rank": 5,
+      "title": "The Zacks Analyst Blog Highlights Microsoft, Dell, Thermo Fisher, Village Super Market and Comstock",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 08:08",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報告指出 Copilot 的採用率與 Azure 的成長動能依然強勁，是支撐股價的核心基本面因素。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Microsoft Stock Is Sinking Today — Could a new executive order from President Trump derail Microsoft's AI momentum?",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 19:52",
+      "impact": "medium",
+      "category": "法規與政策",
+      "reason": "市場擔憂川普政府可能發布行政命令限制 AI 發展，對 Microsoft 的 AI 成長路徑構成潛在政策風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Billionaire Bill Gates' Foundation Dumped Microsoft but Loaded Up on This Dividend Champion",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 22:50",
+      "impact": "low",
+      "category": "股權變動",
+      "reason": "比爾蓋茲基金會減持 Microsoft 股份，雖屬資產配置調整，但可能引發市場對大股東持股信心的短期負面聯想。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "S&P 500, Nasdaq, Dow Rise To Record Highs As Strong Tech Gains Outpower US-Iran War Uncertainty",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 22:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Microsoft 股價隨大盤上漲，主要受惠於整體科技股強勢，而非公司單一事件驅動。"
+    },
+    {
+      "rank": 2,
+      "title": "How The Microsoft (MSFT) Investment Narrative Is Evolving Without New Analyst Commentary",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 11:15",
+      "impact": "low",
+      "category": "分析師觀點",
+      "reason": "分析師目標價未變動，顯示市場對公司短期預期已趨於穩定，缺乏新的催化劑。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

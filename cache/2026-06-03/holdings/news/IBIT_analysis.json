@@ -1,0 +1,120 @@
+{
+  "ticker": "IBIT",
+  "company": "Bitcoin",
+  "analysis_date": "2026-06-03",
+  "source_file": "cache/2026-06-03/holdings/news/IBIT.json",
+  "summary": {
+    "total_articles": 18,
+    "bullish_count": 1,
+    "bearish_count": 15,
+    "neutral_count": 2,
+    "overall_sentiment": "strongly_bearish",
+    "key_theme": "比特幣現貨 ETF 面臨持續性的資金淨流出，投資人風險偏好轉向 AI 與傳統資產，導致市場情緒顯著惡化。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bitcoin ETFs Are Starting To Look More Like Gold Than Tech — And Wall Street May Love It",
+      "publisher": "Benzinga",
+      "date": "2026-05-29 10:34",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "指出比特幣 ETF 逐漸具備類似黃金的避險資產屬性，長期而言有助於吸引華爾街機構投資人的資產配置。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bitcoin Plunges Below $70,000, ETFs Saw $480M Outflows On Monday",
+      "publisher": "Benzinga",
+      "date": "2026-06-02 08:02",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "比特幣價格跌破 70,000 美元關鍵心理關卡，且單日出現 4.8 億美元的巨額資金流出，顯示賣壓沉重。"
+    },
+    {
+      "rank": 2,
+      "title": "BlackRock's IBIT Bitcoin ETF Sees $527 Million Outflow",
+      "publisher": "Benzinga",
+      "date": "2026-05-28 10:21",
+      "impact": "high",
+      "category": "資金流向",
+      "reason": "作為市場指標的 IBIT 出現單日 5.27 億美元的流出，反映出機構投資人對地緣政治風險（紅海局勢）的避險拋售。"
+    },
+    {
+      "rank": 3,
+      "title": "Bitcoin ETFs Lose $2.8 Billion In 9 Days",
+      "publisher": "Benzinga",
+      "date": "2026-05-29 08:40",
+      "impact": "high",
+      "category": "資金流向",
+      "reason": "連續 9 天的淨流出創下歷史紀錄，顯示資金撤離趨勢已形成結構性壓力。"
+    },
+    {
+      "rank": 4,
+      "title": "Bitcoin Can't Compete With the AI Trade",
+      "publisher": "etf.com",
+      "date": "2026-06-02 22:22",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出資金正從加密貨幣板塊輪動至 AI 相關科技股，導致比特幣 ETF 的資金吸引力下降。"
+    },
+    {
+      "rank": 5,
+      "title": "Bitcoin bull Michael Saylor just sold $2.5 million worth of BTC",
+      "publisher": "Yahoo Finance Video",
+      "date": "2026-06-01 17:00",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "知名比特幣多頭 Michael Saylor 的拋售行為對市場信心造成負面心理衝擊。"
+    },
+    {
+      "rank": 6,
+      "title": "Bitcoin Whale Accumulation Plummets To 2022 Levels",
+      "publisher": "Benzinga",
+      "date": "2026-05-29 11:59",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "大型持有者（Whales）累積速度降至 2022 年水平，暗示市場缺乏支撐力道，可能面臨更深度的修正。"
+    },
+    {
+      "rank": 7,
+      "title": "JPMorgan: Bitcoin, Gold ETF Outflows Mean The Debasement Trade Is Cooling",
+      "publisher": "Benzinga",
+      "date": "2026-05-28 15:01",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "摩根大通分析師認為比特幣與黃金同步流出，代表市場對貨幣貶值的避險交易需求正在降溫。"
+    },
+    {
+      "rank": 8,
+      "title": "Bitcoin Drops Below $76,000 And Enters Correction Phase",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-27 09:10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "技術面確認進入修正階段，結束了長達數月的穩定成長趨勢，引發技術性賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Bitcoin Spot ETFs Have Fundamentally Shifted: These 3 Now Hold Over 1.5 Million BTC Combined",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-06-01 15:11",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為現狀數據整理，說明 ETF 持倉規模的結構性變化，未對短期價格走勢提供明確方向。"
+    },
+    {
+      "rank": 2,
+      "title": "Crypto Meets Safe Havens: Direxion Launches 2X Bitcoin, Ether, Gold ETFs",
+      "publisher": "Benzinga",
+      "date": "2026-05-28 18:24",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "新產品發布屬於常規市場行為，雖增加投資工具，但對現有 IBIT 的資金流動影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

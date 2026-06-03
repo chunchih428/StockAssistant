@@ -1,0 +1,102 @@
+{
+  "ticker": "NOW",
+  "company": "ServiceNow",
+  "analysis_date": "2026-06-01",
+  "source_file": "cache/2026-06-01/candidates/news/NOW.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於企業 AI 需求爆發與同業財報利多帶動，ServiceNow 股價強勢反彈，市場對其估值與 AI 轉型潛力持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "ServiceNow Soars 14% on Enterprise AI Rotation as Dell’s Blowout Earnings Lift Software Sector",
+      "publisher": "Yahoo",
+      "date": "2026-05-29 16:14",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Dell 強勁的財報帶動整體軟體板塊上漲，ServiceNow 作為 AI 企業應用指標股，單日大漲 14 %，顯示市場資金對其 AI 轉型的高度認可。"
+    },
+    {
+      "rank": 2,
+      "title": "Buy, Hold, or Sell: Is This Cloud Automation Juggernaut a Steal Following Its Massive Valuation Reset?",
+      "publisher": "Yahoo",
+      "date": "2026-05-29 19:41",
+      "impact": "medium",
+      "category": "投資建議",
+      "reason": "分析師指出 ServiceNow 經歷估值修正後已具備投資價值，給予買進評級並設定 145 美元目標價，認為其雲端自動化龍頭地位穩固。"
+    },
+    {
+      "rank": 3,
+      "title": "Anthropic’s Claude Says ServiceNow (NOW) Among The Best AI Stocks to Buy",
+      "publisher": "Yahoo",
+      "date": "2026-05-30 13:04",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "AI 模型 Claude 將 ServiceNow 列為前 10 大 AI 投資標的之一（排名第 3），強化了公司在 AI 領域的市場地位與投資吸引力。"
+    },
+    {
+      "rank": 4,
+      "title": "Forget SaaS: Why AI Agents Could Make ServiceNow and Palantir Technologies the Next Trillion-Dollar Platforms",
+      "publisher": "Yahoo",
+      "date": "2026-05-30 08:05",
+      "impact": "medium",
+      "category": "產業趨勢",
+      "reason": "文章強調 AI Agent 技術將使 ServiceNow 轉型為兆美元市值平台，長期成長潛力被市場高度看好。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Jim Cramer on ServiceNow: “I Don’t Think That It’s Going to Have a Huge Year”",
+      "publisher": "Yahoo",
+      "date": "2026-05-30 15:08",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "知名評論員 Jim Cramer 對 ServiceNow 的年度表現持保留態度，認為其成長動能可能不如市場預期般強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "ServiceNow Chief Marketing Officer Posts On LinkedIn",
+      "publisher": "Benzinga",
+      "date": "2026-05-28 17:41",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "公司行銷長 Colin Fleming 離職轉投 OpenAI，雖屬人才流動，但短期內可能對公司行銷策略執行造成不確定性。"
+    },
+    {
+      "rank": 3,
+      "title": "Forget ServiceNow: 2 High-Growth Software Bargains to Buy on the Dip With Safer AI Exposure",
+      "publisher": "Yahoo",
+      "date": "2026-05-26 13:11",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "部分分析師建議投資人尋找其他具備更高成長潛力或估值更具吸引力的軟體股，將 ServiceNow 視為相對擁擠的標的。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Oracle vs. ServiceNow: Which Artificial Intelligence (AI) Tech Stock Is a Better Buy in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 00:07",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "針對 Oracle 與 ServiceNow 的財務健康度與估值進行比較，未給出明確買賣建議，僅提供投資人參考兩者差異。"
+    },
+    {
+      "rank": 2,
+      "title": "Can ServiceNow Sustain Its Growth Amid Rising AI Competition?",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 13:03",
+      "impact": "low",
+      "category": "產業趨勢",
+      "reason": "探討 ServiceNow 在 AI 競爭加劇下的成長持續性，強調公司正透過治理與安全性作為差異化競爭優勢。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-06-03",
+  "source_file": "cache/2026-06-03/candidates/news/NFLX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 5,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管近期股價面臨修正壓力，但市場普遍看好 Netflix 透過 AI 技術優化內容成本、擴大廣告業務及消費品授權帶來的長期成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Netflix Buys Affleck AI Startup InterPositive To Reshape Content Economics",
+      "publisher": "Yahoo",
+      "date": "2026-05-29 10:05",
+      "impact": "high",
+      "category": "併購與技術",
+      "reason": "收購 Ben Affleck 的 AI 新創公司 InterPositive，預期將顯著優化內容製作成本與經濟效益，為公司長期獲利能力提供強大支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix Turns Wonka And Young MacDonald Into New Franchise Revenue Stream",
+      "publisher": "Yahoo",
+      "date": "2026-05-31 16:04",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "透過熱門 IP 擴展消費品授權業務，開闢新的營收來源，有助於提升品牌價值與用戶黏著度。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix Could Be One of the Market’s Biggest Comebacks With 250% Upside",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 14:58",
+      "impact": "medium",
+      "category": "投資評級",
+      "reason": "分析模型顯示股價已大幅偏離 52 週高點，具備顯著的估值修復空間與長期投資價值。"
+    },
+    {
+      "rank": 4,
+      "title": "Is Netflix, Inc. (NFLX) Becoming a Bigger Advertising Growth Story in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 11:36",
+      "impact": "medium",
+      "category": "營收成長",
+      "reason": "廣告業務持續擴張，成為推動 2026 年營收成長的關鍵引擎，市場對其廣告變現能力持正面看法。"
+    },
+    {
+      "rank": 5,
+      "title": "Where Will Netflix Stock Be Next Year?",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 13:47",
+      "impact": "medium",
+      "category": "財務展望",
+      "reason": "公司調升全年自由現金流指引，顯示營運效率提升，儘管終止收購案需支付 28 億美元費用，但整體財務體質依然強健。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Netflix (NFLX) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 21:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日下跌 2.94%，顯示在市場整體上漲背景下，Netflix 面臨短期賣壓與投資人信心不足的問題。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix criticises German plan to make streamers invest more locally",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 14:18",
+      "impact": "low",
+      "category": "法規監管",
+      "reason": "德國擬要求串流平台增加在地投資，可能增加營運成本並引發與監管機構的摩擦。"
+    },
+    {
+      "rank": 3,
+      "title": "NFLX Stock Reverses Course Overnight: Retail Shrugs Off Outgoing Chairman’s Sale",
+      "publisher": "Yahoo",
+      "date": "2026-06-03 04:25",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "董事長 Reed Hastings 執行選擇權賣股，雖屬預期內操作，但仍可能引發市場對內部人持股意願的短期疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Netflix taps Disney's Caitlin Conant for new D.C.-based role",
+      "publisher": "Yahoo",
+      "date": "2026-06-01 21:57",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "聘請前 Disney 高管負責政策溝通，屬於正常的組織人才補強，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Here’s what’s worth streaming in June 2026 on Netflix, Hulu, HBO Max and more",
+      "publisher": "MarketWatch",
+      "date": "2026-06-01 22:40",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "例行性的每月內容發布清單，對公司基本面無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
