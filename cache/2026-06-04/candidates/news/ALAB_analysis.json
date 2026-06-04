@@ -1,0 +1,38 @@
+{
+  "ticker": "ALAB",
+  "company": "Astera Labs",
+  "analysis_date": "2026-06-03",
+  "source_file": "cache/2026-06-03/candidates/news/ALAB.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司創辦人獲得國際創業大獎肯定，且管理層持續透過產業會議強化市場溝通。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Astera Labs founders win the prestigious 2026 EY World Entrepreneur of the Year",
+      "publisher": "Fortune",
+      "date": "2026-05-29T10:32:23Z",
+      "impact": "low",
+      "category": "企業榮譽",
+      "reason": "創辦人獲得安永年度企業家大獎，有助於提升公司品牌形象與市場知名度，對長期投資人信心有正面加分效果。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Astera Labs, Inc. (ALAB) Presents at TD Cowen's 54th Annual Technology, Media & Telecom Conference",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-27 12:27",
+      "impact": "low",
+      "category": "投資人會議",
+      "reason": "管理層參與 TD Cowen 年度科技媒體電信會議，主要為例行性業務更新與市場溝通，未揭露重大股價敏感資訊，故視為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
