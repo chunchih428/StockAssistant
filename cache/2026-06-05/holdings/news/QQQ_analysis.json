@@ -1,0 +1,84 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-06-03",
+  "source_file": "cache/2026-06-03/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 4,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管 QQQ 處於歷史高點且面臨市場集中度風險的質疑，但整體市場廣度與技術面趨勢仍顯示出強勁的建設性動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Breadth Holds Positive, but Small Caps Start to Lag — The major index trend remains constructive, with SPY and QQQ still pushing into record territory and broad moving-averag",
+      "publisher": "ChartMill",
+      "date": "2026-06-02 13:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導指出 QQQ 持續創下歷史新高，且市場廣度維持建設性，顯示出強勁的技術面支撐，因此選為代表性文章。"
+    },
+    {
+      "rank": 2,
+      "title": "Software Joins the Rally as Breadth Firm — Friday’s session was not a broad upside surge, but it was a constructive continuation. SPY and QQQ extended their breako",
+      "publisher": "ChartMill",
+      "date": "2026-06-01 13:01",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "強調軟體類股加入漲勢，進一步確認了 QQQ 的突破走勢具有產業廣度支撐。"
+    },
+    {
+      "rank": 3,
+      "title": "AI-Led Rally Broadens as Small Caps Join the Breakout — Thursday’s market breadth was clearly stronger than Wednesday’s. SPY and QQQ remained the leadership engines, but the mo",
+      "publisher": "ChartMill",
+      "date": "2026-05-29 12:46",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "指出由 AI 驅動的漲勢正在擴大，QQQ 作為領頭羊引擎的角色持續穩固。"
+    },
+    {
+      "rank": 4,
+      "title": "Market Breadth Broadens as Small Caps Join the Breakout — Tuesday’s session strengthened the already positive breadth picture. The short-term data improved sharply, SPY and QQQ r",
+      "publisher": "ChartMill",
+      "date": "2026-05-27 10:25",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "短期市場數據顯著改善，進一步強化了 QQQ 的正面技術面趨勢。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why I Stopped Buying VOO And QQQ - And What I Am Buying Instead — VOO & QQQ pause: S&P 500 valuations and concentration risk look extreme. Click here to read more on my analysis of the f",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-02 09:30",
+      "impact": "medium",
+      "category": "投資策略",
+      "reason": "針對 QQQ 的高估值與市場集中度風險提出警示，建議投資人重新評估配置，代表了市場對高位震盪的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Should You Buy the Invesco QQQ ETF With the Nasdaq at a Record High? History Offers a Clear Answer.",
+      "publisher": "Motley Fool",
+      "date": "2026-06-02T21:33:00Z",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "文章透過歷史數據探討在歷史高點買入的風險與機會，未給出明確的買賣建議，屬於中性分析。"
+    },
+    {
+      "rank": 2,
+      "title": "South Korea Is Crushing The Nasdaq 100 By Widest Margin Since 2001 — The EWY-to-QQQ ratio is up 71.8% in 2026, the widest annual outperformance since the dot-com bust. AI memory chips are d",
+      "publisher": "Benzinga",
+      "date": "2026-05-27 16:36",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅作為市場相對表現的觀察數據，指出韓國股市相對於 QQQ 的強勢，並非直接針對 QQQ 的負面評價。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

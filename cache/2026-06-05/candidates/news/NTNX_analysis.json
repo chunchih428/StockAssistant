@@ -1,0 +1,93 @@
+{
+  "ticker": "NTNX",
+  "company": "Nutanix, Inc.",
+  "analysis_date": "2026-06-04",
+  "source_file": "cache/2026-06-04/candidates/news/NTNX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 2,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "Nutanix 憑藉強勁的財報表現與 NVIDIA 認證的 AI 基礎設施解決方案，成功推動股價上漲並獲得多家投行上調目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Nutanix Q3 Earnings Top Estimates on Strong Demand and Execution",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 17:37",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第 3 季財報營收與每股盈餘均優於預期，ARR 成長 15 %，且上調了 2026 財年指引，顯示營運執行力強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "Nutanix Unified Storage earns enterprise Nvidia-certified status, sending shares higher",
+      "publisher": "Yahoo",
+      "date": "2026-06-01 15:38",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Nutanix Unified Storage 獲得 NVIDIA 認證，強化了公司在 AI 基礎設施市場的競爭力，直接帶動市場對其 AI 相關業務的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "UBS Maintains Buy on Nutanix, Raises Price Target to $62",
+      "publisher": "Benzinga",
+      "date": "2026-05-28 16:40",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "瑞銀 (UBS) 維持買入評級並將目標價上調至 62 美元，反映出對公司長期成長潛力的看好。"
+    },
+    {
+      "rank": 4,
+      "title": "Datametrex Secures New Nutanix Infrastructure Contracts as Enterprise Data Centre Modernization Accelerates",
+      "publisher": "Yahoo",
+      "date": "2026-06-03 12:00",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "獲得新的基礎設施合約，顯示企業在數據中心現代化過程中對 Nutanix 解決方案的需求持續增加。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Nutanix Q4 Outlook Signals Supply Chain, Macro Pressures, Morgan Stanley Says",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 15:13",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "儘管第 3 季財報亮眼，但第 4 季展望因供應鏈與宏觀經濟壓力顯得保守，引發市場對短期成長動能的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Piper Sandler Reiterates Overweight on Nutanix, Lowers Price Target to $60",
+      "publisher": "Benzinga",
+      "date": "2026-05-28 13:11",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "儘管維持增持評級，但 Piper Sandler 下調了目標價，反映出對短期獲利空間的謹慎態度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Nutanix, Inc. (NTNX) Presents at Bank of America 2026 Global Technology Conference Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-02 19:11",
+      "impact": "low",
+      "category": "投資人會議",
+      "reason": "管理層在會議中重申公司策略，未發布重大新消息，屬於常規投資人溝通。"
+    },
+    {
+      "rank": 2,
+      "title": "Interpreting Nutanix (NTNX) International Revenue Trends",
+      "publisher": "Zacks",
+      "date": "2026-06-01 13:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對國際營收趨勢的分析報告，提供市場數據解讀，對股價無直接短期催化作用。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

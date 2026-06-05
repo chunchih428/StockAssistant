@@ -1,0 +1,92 @@
+{
+  "ticker": "FFIV",
+  "company": "F5",
+  "analysis_date": "2026-06-03",
+  "source_file": "cache/2026-06-03/candidates/news/FFIV.json",
+  "summary": {
+    "total_articles": 12,
+    "bullish_count": 9,
+    "bearish_count": 0,
+    "neutral_count": 3,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "受惠於 AI 與雲端安全需求強勁，F5 獲得多家投行上調目標價，且股價在財報後展現強勢動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Piper Sandler Maintains Overweight on F5, Raises Price Target to $423",
+      "publisher": "Benzinga",
+      "date": "2026-05-29 11:51",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 James Fish 將目標價從 $356 大幅調升至 $423，顯示市場對 F5 在雲端安全領域的成長前景高度看好。"
+    },
+    {
+      "rank": 2,
+      "title": "RBC Capital Reiterates Outperform on F5, Maintains $425 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-05-29 12:22",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Matthew Hedberg 重申「優於大盤」評級並維持 $425 高目標價，反映對公司長期競爭力的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Barclays Maintains Equal-Weight on F5, Raises Price Target to $386",
+      "publisher": "Benzinga",
+      "date": "2026-05-29 16:25",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Barclays 分析師 Tim Long 將目標價從 $292 上調至 $386，儘管維持中性評級，但大幅調升目標價顯示對公司基本面改善的認可。"
+    },
+    {
+      "rank": 4,
+      "title": "Why Is F5 (FFIV) Up 18.3% Since Last Earnings Report?",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 15:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "財報公布後股價上漲 18.3%，顯示市場對公司業績表現與未來獲利預期的正面反饋。"
+    },
+    {
+      "rank": 5,
+      "title": "Buy 4 Cybersecurity Bigwigs for a Strong and Secure Portfolio in 2026",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 12:21",
+      "impact": "low",
+      "category": "市場趨勢",
+      "reason": "將 F5 列為 AI 與雲端成長趨勢下的網路安全龍頭股之一，有助於提升市場關注度。"
+    },
+    {
+      "rank": 6,
+      "title": "See How Institutional Money Flows Boost F5 Shares",
+      "publisher": "Yahoo",
+      "date": "2026-05-27 12:16",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "機構資金持續流入，顯示大型投資人對 F5 的長期持有意願與信心。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "F5, Inc. (FFIV) Shareholder/Analyst Call - Slideshow",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-30 19:26",
+      "impact": "low",
+      "category": "公司資訊",
+      "reason": "發布投資人簡報資料，屬於例行性資訊揭露，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "F5 Stock: Is Wall Street Bullish or Bearish?",
+      "publisher": "Barchart",
+      "date": "2026-05-25 11:57",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "探討華爾街對該股的看法，屬於市場情緒整理，並未提供新的基本面資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,83 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-06-03",
+  "source_file": "cache/2026-06-03/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 18,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "受惠於 AI 基礎設施需求強勁與 Alphabet 等科技巨頭的資本支出擴張，Broadcom 股價在財報公布前夕創下歷史新高。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Broadcom Advances as Alphabet’s $80 Billion AI Capital Raise Highlights Infrastructure Demand",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 11:07",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Alphabet 宣布 800 億美元的 AI 資本支出計畫，直接利好 Broadcom 的客製化 AI 晶片業務，是推動股價創高的核心催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Gary Black Says Broadcom, Marvell Are 'Big Winners' As Focus Shifts To Custom AI Chips",
+      "publisher": "Yahoo",
+      "date": "2026-06-03 04:36",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "知名投資人 Gary Black 指出市場焦點正從 GPU 轉向客製化 AI 晶片，Broadcom 被視為該領域的主要贏家，強化了市場對其長期成長的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Broadcom Backing Lowers Debt Costs on $36 Billion Anthropic Deal",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 21:48",
+      "impact": "medium",
+      "category": "企業合作",
+      "reason": "Broadcom 為 Anthropic 的 360 億美元晶片融資案提供擔保，顯示其在 AI 生態系中的關鍵金融與技術地位，有助於鞏固客戶黏著度。"
+    },
+    {
+      "rank": 4,
+      "title": "Veteran Bank Makes Big Broadcom Call Before Earnings Report",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 19:14",
+      "impact": "medium",
+      "category": "財報預測",
+      "reason": "Oppenheimer 等投行分析師預期 Broadcom 將在財報中展現 AI 帶來的強勁營收成長，進一步推升市場對財報表現的樂觀預期。"
+    },
+    {
+      "rank": 5,
+      "title": "Why Did MRVL, AVGO, HPE Stocks Climb To 52-Week Highs Today?",
+      "publisher": "Yahoo",
+      "date": "2026-06-03 02:43",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Broadcom 與 Marvell 等同業同步創下 52 週新高，反映出整個 AI 硬體供應鏈的集體強勢，市場情緒極度正面。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "S&P 500, Nasdaq, Dow Futures Ease After Another Record Close As AI Momentum Cushions Iran's Expanding Strikes",
+      "publisher": "Yahoo",
+      "date": "2026-06-03 01:41",
+      "impact": "low",
+      "category": "總體經濟",
+      "reason": "儘管地緣政治風險存在，但 AI 相關個股的強勁動能抵銷了市場對伊朗局勢的擔憂，對 Broadcom 股價影響中性偏穩。"
+    },
+    {
+      "rank": 2,
+      "title": "NVIDIA vs. Broadcom: Which Is the Better Long-Term AI Chip Bet?",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 18:27",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "文章探討 Nvidia 與 Broadcom 的長期投資價值比較，屬於產業分析性質，並未對 Broadcom 短期股價產生直接買賣訊號。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,102 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-06-03",
+  "source_file": "cache/2026-06-03/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 8,
+    "bearish_count": 5,
+    "neutral_count": 7,
+    "overall_sentiment": "mixed",
+    "key_theme": "Amazon 宣布提前舉辦 Prime Day 促銷活動以提振消費，同時市場對其 AI 成長潛力與雲端業務持樂觀態度，但面臨歐洲監管壓力、隱私訴訟及大型投資人減持的負面影響。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Mark Your Calendars: Amazon Announces Prime Day Event from June 23–26",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 05:04",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Amazon 宣布將 Prime Day 提前至 6 月 23 日至 26 日，旨在透過促銷活動刺激消費，並結合 AI 技術提升購物體驗，預期將對第二季營收產生正面貢獻。"
+    },
+    {
+      "rank": 2,
+      "title": "Great News for Amazon Stock Investors! — AI is proving to be a formidable opportunity for the e-commerce leader.",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 12:50",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "人工智慧技術在電商與雲端業務的應用持續深化，被視為 Amazon 未來成長的關鍵驅動力，強化了投資人對其長期競爭力的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Wall Street Bulls Look Optimistic About Amazon (AMZN): Should You Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 13:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "華爾街分析師平均評級維持在「買入」，顯示市場對 Amazon 的基本面與成長前景仍持正面看法。"
+    },
+    {
+      "rank": 4,
+      "title": "Bank of America reiterates Amazon stock forecast at tipping point",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 00:37",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "美國銀行重申對 Amazon 的正面預測，指出該股今年以來表現強勁，處於成長的關鍵轉折點。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Billionaire Stanley Druckenmiller Dumped 94% of His Fund's Amazon Stake",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 09:26",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "知名億萬富翁投資人 Stanley Druckenmiller 大幅減持 94% 的 Amazon 持股，此舉可能引發市場對該公司未來成長動能的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon Faces Data Scrutiny While Shares Trade Below Analyst Valuation Targets",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 17:13",
+      "impact": "medium",
+      "category": "法規",
+      "reason": "歐洲市場對 Amazon 雲端業務實施更嚴格的數據監管，增加了營運成本與合規風險，且股價目前低於分析師目標價。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon's Ring sued over facial recognition feature, latest privacy concern for doorbell maker",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 11:01",
+      "impact": "low",
+      "category": "法規",
+      "reason": "旗下 Ring 產品因臉部辨識功能面臨隱私訴訟，雖然金額影響有限，但持續的隱私爭議可能損害品牌形象。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Amazon Stock's Great Standoff — Management is signaling a major acceleration, but the market is sitting on its hands.",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 15:22",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場對於管理層釋出的加速成長訊號反應冷淡，顯示投資人目前處於觀望狀態，等待更明確的財務數據驗證。"
+    },
+    {
+      "rank": 2,
+      "title": "If You Invested $100 In Amazon.com Stock 10 Years Ago, You Would Have This Much Today",
+      "publisher": "Benzinga",
+      "date": "2026-06-02 11:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此類文章為歷史回顧性質，對股價短期走勢無實質影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
