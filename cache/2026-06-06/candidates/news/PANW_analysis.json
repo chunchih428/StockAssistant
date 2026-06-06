@@ -1,0 +1,83 @@
+{
+  "ticker": "PANW",
+  "company": "Palo Alto Networks",
+  "analysis_date": "2026-06-03",
+  "source_file": "cache/2026-06-03/candidates/news/PANW.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 16,
+    "bearish_count": 0,
+    "neutral_count": 4,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "公司發布強勁的 2026 財年第三季財報，憑藉 AI 驅動的資安需求實現營收與獲利雙超預期，並上調全年財測，帶動股價顯著上漲。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Palo Alto Networks rallies 11% on earnings beat, robust AI security growth",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 20:55",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司公布 2026 財年第三季財報，營收與獲利均優於市場預期，且 Next Generation Security ARR 成長達 60%，顯示 AI 資安產品需求強勁，股價盤後大漲超過 11%。"
+    },
+    {
+      "rank": 2,
+      "title": "Palo Alto raises annual forecasts on strong AI cybersecurity demand, shares surge",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 20:52",
+      "impact": "high",
+      "category": "財測調整",
+      "reason": "公司上調 2026 全年營收與獲利預測，預計營收將達 114.2 億至 114.3 億美元，年增率達 24%，反映企業在雲端與 AI 資安支出持續增加。"
+    },
+    {
+      "rank": 3,
+      "title": "Jefferies Remains Bullish on Palo Alto Networks (PANW)",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 14:38",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Jefferies 維持對 PANW 的看漲評級並上調目標價，認為其為長期成長的最佳資安標的之一。"
+    },
+    {
+      "rank": 4,
+      "title": "NATO AI Security Role Puts Focus On Palo Alto Networks Earnings Story",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 16:10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "北約 (NATO) 選擇 Palo Alto Networks 作為非商業資安合作夥伴，強化了公司在政府與國防領域的技術領導地位。"
+    },
+    {
+      "rank": 5,
+      "title": "A Once-in-a-Generation Megatrend Makes This Cybersecurity Stock a High-Conviction Buy for the Next 20 Years",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 16:04",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "分析指出資安已成為長期結構性成長趨勢，PANW 作為產業龍頭具備長期複利成長潛力。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "S&P 500, Nasdaq, Dow Futures Ease After Another Record Close As AI Momentum Cushions Iran's Expanding Strikes",
+      "publisher": "Yahoo",
+      "date": "2026-06-03 01:41",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導提及地緣政治風險對大盤的影響，PANW 僅作為 AI 相關標的被提及，非針對公司基本面分析。"
+    },
+    {
+      "rank": 2,
+      "title": "How Is Palo Alto Networks’ Stock Performance Compared to Other Cybersecurity Stocks?",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 12:47",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "回顧過去一年股價表現，指出其表現落後於整體資安產業，屬於中性歷史數據回顧。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

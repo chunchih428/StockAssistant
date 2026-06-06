@@ -1,0 +1,84 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-06-03",
+  "source_file": "cache/2026-06-03/candidates/news/OUST.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 6,
+    "bearish_count": 3,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "Ouster 憑藉與 FieldAI 及 ARGUS Interception 的策略合作，成功打入機器人與國防反無人機市場，帶動股價創下 52 週新高。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ouster Announces Collaboration With FieldAI To Improve How General-Purpose Robots Perceive And Navigate Complex Environments Using Ouster's REV8 Native Color Lidar",
+      "publisher": "Benzinga",
+      "date": "2026-06-02 06:04",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "透過與 FieldAI 的合作，Ouster 的 REV8 彩色雷射雷達技術將整合至通用機器人平台，顯著擴大其在自動化與機器人領域的市場應用潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Ouster Shares Rise As Defense Push, Analyst Targets Hike Boost Momentum",
+      "publisher": "Benzinga",
+      "date": "2026-05-27 14:44",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Rosenblatt 分析師 Kevin Cassidy 將目標價上調至 53 美元，反映市場對其國防反無人機業務成長前景的強烈信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Ouster Stock Soars On New Drone Interceptor Partnership",
+      "publisher": "Investor's Business Daily",
+      "date": "2026-05-26 21:26",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 ARGUS Interception 合作供應非動能反無人機系統的雷射雷達，標誌著公司成功切入高成長的國防科技供應鏈。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Mobileye Is A Better And Cheaper Physical AI Play Than Ouster",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-29 11:49",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析師指出 Mobileye 在自動駕駛技術與自由現金流表現上優於 Ouster，並質疑 Ouster 目前的估值過高。"
+    },
+    {
+      "rank": 2,
+      "title": "An Ouster Director Sold Over 9,000 Company Shares. Here's What That Means for Investors.",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 19:53",
+      "impact": "low",
+      "category": "內部人交易",
+      "reason": "公司董事拋售 9,000 股股票，儘管數量有限，但在股價創高之際，仍可能引發投資人對短期獲利了結的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Ouster Partnerships Link Counter Drone Lidar Progress With Valuation Questions",
+      "publisher": "Yahoo",
+      "date": "2026-05-28 22:04",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "報導指出雖然合作案進展順利，但市場對於 Ouster 在股價翻倍後的估值合理性仍存有疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ouster Shares More Than Double YTD: Is it Still Worth Buying?",
+      "publisher": "Zacks",
+      "date": "2026-06-02 13:27",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "該文章回顧了 Ouster 年初至今股價翻倍的表現，並提供投資人評估建議，屬於中性的市場觀察報告。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

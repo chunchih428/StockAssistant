@@ -1,0 +1,93 @@
+{
+  "ticker": "IBM",
+  "company": "International Business Machines Corporation",
+  "analysis_date": "2026-06-04",
+  "source_file": "cache/2026-06-04/candidates/news/IBM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 2,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "IBM 近期因量子運算投資與 AI 策略獲得華爾街分析師調升目標價，但股價在經歷強勁漲勢後，受地緣政治緊張與獲利回吐賣壓影響出現顯著波動。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Citigroup Maintains Buy on IBM, Raises Price Target to $375",
+      "publisher": "Benzinga",
+      "date": "2026-06-03 14:09",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "花旗分析師 Fatima Boolani 將目標價從 285 美元大幅調升至 375 美元，認為市場對 IBM 的量子運算潛力存在誤解，具備長期成長價值。"
+    },
+    {
+      "rank": 2,
+      "title": "Wedbush Just Increased Its Price Target on IBM Stock",
+      "publisher": "Yahoo",
+      "date": "2026-06-03 18:03",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Wedbush 將目標價從 320 美元上調至 350 美元，主要看好 IBM 在 AI 基礎設施領域的獲利成長能力。"
+    },
+    {
+      "rank": 3,
+      "title": "IBM commits $10 billion to fault-tolerant quantum computers by 2029",
+      "publisher": "Yahoo",
+      "date": "2026-06-03 14:52",
+      "impact": "medium",
+      "category": "技術研發",
+      "reason": "IBM 承諾投入 100 億美元開發容錯量子電腦，展現其在下一代運算領域的技術領先地位與長期戰略佈局。"
+    },
+    {
+      "rank": 4,
+      "title": "IBM Launches Global AI Builders Challenge With IBM Bob",
+      "publisher": "Yahoo",
+      "date": "2026-06-03 13:30",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "透過向全球 20,000 所院校提供 AI 開發工具，IBM 有效擴大其生態系統影響力，並強化品牌在 AI 教育領域的地位。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why IBM (IBM) Shares Are Plunging Today",
+      "publisher": "Yahoo",
+      "date": "2026-06-04 02:23",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "IBM 股價單日下跌 6.4%，主要受近期漲幅過大後的獲利回吐賣壓，以及市場對地緣政治風險的擔憂所致。"
+    },
+    {
+      "rank": 2,
+      "title": "Stock Market Today: Dow Slumps Amid U.S.-Iran Strikes; IBM Dives",
+      "publisher": "Yahoo",
+      "date": "2026-06-03 15:27",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受美伊衝突升級影響，整體市場情緒轉趨保守，導致 IBM 等科技股面臨系統性賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Exclusive: IBM CEO backs Trump's narrowed AI executive order",
+      "publisher": "Yahoo",
+      "date": "2026-06-03 18:48",
+      "impact": "low",
+      "category": "政策法規",
+      "reason": "執行長 Arvind Krishna 表態支持川普政府的 AI 行政命令，屬於企業對政策的常規表態，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "The IBM executive tasked with retraining 30 million workers is changing how she thinks about the AI finish line",
+      "publisher": "Yahoo",
+      "date": "2026-06-03 13:30",
+      "impact": "low",
+      "category": "企業社會責任",
+      "reason": "報導關於 IBM 員工再培訓計畫的進度，屬於企業長期 ESG 策略，對短期股價無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
