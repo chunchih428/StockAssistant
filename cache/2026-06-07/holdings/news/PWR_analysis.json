@@ -1,0 +1,93 @@
+{
+  "ticker": "PWR",
+  "company": "Quanta Services",
+  "analysis_date": "2026-06-07",
+  "source_file": "cache/2026-06-07/holdings/news/PWR.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 5,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於電網現代化與資料中心基礎設施的強勁需求，公司營收成長前景看好，但高估值引發市場對獲利空間的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Oppenheimer Upgrades Quanta Services (PWR) to Outperform",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 16:47",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Oppenheimer 將評級上調至 Outperform，並將其列為未來十年最值得買入與持有的 10 檔美股之一，顯示機構對其長期成長潛力的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Quanta Services: The Grid Integration Needs Builders, Not Just More Power",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-06 07:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "強調公司擁有創紀錄的積壓訂單（Backlog），並透過電網現代化策略目標在 2028 年達到 435 億美元營收，展現強勁的業務執行力。"
+    },
+    {
+      "rank": 3,
+      "title": "Assessing MasTec (MTZ) Valuation As Quanta Services Results Spotlight Power And Data Center Infrastructure",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 12:07",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "第一季財報表現強勁且上調 2026 年財測，成功吸引市場對電力與資料中心基礎設施承包商的關注，確立了產業領先地位。"
+    },
+    {
+      "rank": 4,
+      "title": "2 Pick-and-Shovel Plays for Major Digital Infrastructure Buildout",
+      "publisher": "Yahoo",
+      "date": "2026-06-01 14:05",
+      "impact": "low",
+      "category": "產業趨勢",
+      "reason": "被視為數位基礎設施建設的關鍵參與者，在資料中心與超大規模運算需求激增的背景下，具備不可或缺的服務優勢。"
+    },
+    {
+      "rank": 5,
+      "title": "Why These Three Big Buybacks Are Sending Very Different Signals to Investors",
+      "publisher": "Yahoo",
+      "date": "2026-06-01 18:20",
+      "impact": "low",
+      "category": "資本配置",
+      "reason": "公司宣布股票回購計畫，顯示管理層對公司現金流與未來營運前景的信心，有助於支撐股價。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Quanta Services: A Great Business, But The Grid Story May Already Be Priced In",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-03 11:02",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "儘管擁有 485 億美元的積壓訂單，但分析師指出約 50 倍的本益比（P/E）過高，認為市場已充分反映利多，限制了進一步上漲空間。"
+    },
+    {
+      "rank": 2,
+      "title": "Quanta Services: A Competitive Edge Through Labor",
+      "publisher": "SeekingAlpha",
+      "date": "2026-05-31 07:40",
+      "impact": "low",
+      "category": "營運分析",
+      "reason": "肯定其勞動力護城河與培訓優勢，但同時警告目前股價估值過於昂貴，投資人需留意溢價風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "How The Quanta Services (PWR) Investment Story Is Evolving With Recent Developments",
+      "publisher": "Yahoo",
+      "date": "2026-06-03 03:11",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析師維持現有目標價不變，顯示近期無重大消息面變動，市場處於觀望與盤整階段。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

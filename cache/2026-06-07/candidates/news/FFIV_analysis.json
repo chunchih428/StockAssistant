@@ -1,0 +1,56 @@
+{
+  "ticker": "FFIV",
+  "company": "F5",
+  "analysis_date": "2026-06-07",
+  "source_file": "cache/2026-06-07/candidates/news/FFIV.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 4,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "F5 憑藉強勁的財報表現、分析師調升目標價以及與 Encryption Consulting 的技術整合，展現出穩健的成長動能與市場價值。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why Is F5 (FFIV) Up 18.3% Since Last Earnings Report?",
+      "publisher": "Zacks",
+      "date": "2026-05-28",
+      "impact": "high",
+      "category": "財報表現",
+      "reason": "股價在財報公布後強勁上漲 18.3 %，反映市場對公司獲利能力與營運績效的高度認可，為近期股價的主要支撐動力。"
+    },
+    {
+      "rank": 2,
+      "title": "Barclays Raises its Price Target on F5 (FFIV)",
+      "publisher": "Insider Monkey",
+      "date": "2026-05-31",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Barclays 調升目標價顯示機構投資人對 F5 未來成長潛力的信心，且該公司被列為標普 500 指數中 10 檔最佳無負債股票之一，財務體質優異。"
+    },
+    {
+      "rank": 3,
+      "title": "How Investors Are Reacting To F5 (FFIV) Automating TLS Certificate Management With Encryption Consulting Integration",
+      "publisher": "Yahoo",
+      "date": "2026-06-03",
+      "impact": "medium",
+      "category": "產品合作",
+      "reason": "透過與 Encryption Consulting LLC 的技術整合，F5 進一步強化了 TLS 憑證管理的自動化能力，有助於提升產品競爭力與客戶黏著度。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "DOCU vs. FFIV: Which Stock Should Value Investors Buy Now?",
+      "publisher": "Zacks",
+      "date": "2026-06-04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此類文章屬於價值投資比較分析，並未提供關於 F5 本身營運的重大新消息，僅作為投資組合配置的參考，對股價影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

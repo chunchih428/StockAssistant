@@ -1,0 +1,75 @@
+{
+  "ticker": "FSLR",
+  "company": "First Solar",
+  "analysis_date": "2026-06-07",
+  "source_file": "cache/2026-06-07/candidates/news/FSLR.json",
+  "summary": {
+    "total_articles": 12,
+    "bullish_count": 5,
+    "bearish_count": 3,
+    "neutral_count": 4,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司近期受惠於強勁銷售與機構買盤推動股價飆升，但隨後出現內部人拋售與分析師對獲利能力及地緣政治風險的擔憂，導致股價出現顯著回調。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Record Sales Lift First Solar Shares",
+      "publisher": "Yahoo",
+      "date": "2026-06-03 10:59",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "公司近期股價在一個月內上漲 47%，主要受惠於創紀錄的銷售表現與強勁的機構投資人買盤，顯示市場對其基本面高度認可。"
+    },
+    {
+      "rank": 2,
+      "title": "GLJ Research Upgrades First Solar (FSLR) to Buy",
+      "publisher": "Yahoo",
+      "date": "2026-05-31 08:24",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "GLJ Research 將 FSLR 評級上調至「買入」，並將其列為 S&P 500 指數中 10 檔最佳無債務股票之一，強化了投資人信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "First Solar (FSLR) Dips More Than Broader Market: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 21:45",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "FSLR 單日股價重挫 11.41%，跌幅顯著超過大盤，反映出在經歷前期大幅上漲後，市場出現獲利了結賣壓。"
+    },
+    {
+      "rank": 2,
+      "title": "First Solar: Tax Credits To Provide Short-Term Boost In Margins (Rating Downgrade)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-05 09:59",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "分析師指出雖然 Section 45x 稅收抵免能短期提升利潤率，但公司面臨嚴重的地理集中度風險與長期關稅政策不確定性，導致評級下調。"
+    },
+    {
+      "rank": 3,
+      "title": "Selling US$8.5m Of First Solar Stock Rewarded Insiders",
+      "publisher": "Simply Wall St.",
+      "date": "2026-06-03 11:00",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "公司內部人拋售價值 850 萬美元的股票，儘管這是常見的財務操作，但在股價高檔時發生，可能引發投資人對內部人看法的疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Here is What to Know Beyond Why First Solar, Inc. (FSLR) is a Trending Stock",
+      "publisher": "Yahoo",
+      "date": "2026-06-03 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導主要整理近期熱門股的背景資訊，並未提供新的重大財務催化劑，僅作為市場觀察者的參考資料。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
