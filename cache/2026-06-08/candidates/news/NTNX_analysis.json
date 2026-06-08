@@ -1,0 +1,83 @@
+{
+  "ticker": "NTNX",
+  "company": "Nutanix, Inc.",
+  "analysis_date": "2026-06-08",
+  "source_file": "cache/2026-06-08/candidates/news/NTNX.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 6,
+    "bearish_count": 0,
+    "neutral_count": 4,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Nutanix 憑藉強勁的財報表現、NVIDIA 認證帶來的 AI 基礎設施需求，以及軟體類股的整體漲勢，展現出強勁的市場動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Nutanix Unified Storage earns enterprise Nvidia-certified status, sending shares higher",
+      "publisher": "Yahoo",
+      "date": "2026-06-01 15:38",
+      "impact": "high",
+      "category": "產品認證",
+      "reason": "Nutanix Unified Storage 獲得 NVIDIA 企業級認證，直接強化了公司在 AI 基礎設施市場的競爭力，為企業部署 AI 工廠提供關鍵支援，對股價有顯著正面推動作用。"
+    },
+    {
+      "rank": 2,
+      "title": "The 5 Most Interesting Analyst Questions From Nutanix’s Q1 Earnings Call",
+      "publisher": "Yahoo",
+      "date": "2026-06-03 11:11",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "第一季財報表現優異，管理層強調客戶需求強勁，分析師關注點集中於成長動能，顯示市場對公司基本面信心充足。"
+    },
+    {
+      "rank": 3,
+      "title": "Nutanix, nCino, and DoubleVerify Shares Skyrocket, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 08:07",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "軟體類股整體漲勢帶動 Nutanix 股價上揚，反映出市場資金對該板塊的追捧與對 Nutanix 成長前景的認可。"
+    },
+    {
+      "rank": 4,
+      "title": "Datametrex Secures New Nutanix Infrastructure Contracts as Enterprise Data Centre Modernization Accelerates",
+      "publisher": "Yahoo",
+      "date": "2026-06-03 12:00",
+      "impact": "medium",
+      "category": "業務拓展",
+      "reason": "Datametrex 獲得新的 Nutanix 基礎設施合約，印證了企業在數據中心現代化過程中對 Nutanix 解決方案的持續需求。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Nutanix, Inc. (NTNX) Presents at Bank of America 2026 Global Technology Conference Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-02 19:11",
+      "impact": "low",
+      "category": "投資人會議",
+      "reason": "公司參與 Bank of America 全球科技會議，主要為例行性業務說明與策略溝通，未釋出重大意外消息。"
+    },
+    {
+      "rank": 2,
+      "title": "Interpreting Nutanix (NTNX) International Revenue Trends",
+      "publisher": "Zacks",
+      "date": "2026-06-01 13:15",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "針對國際營收趨勢的分析報告，旨在幫助投資人理解營收結構變化，屬於中性的市場觀察，無直接買賣訊號。"
+    },
+    {
+      "rank": 3,
+      "title": "A Look At Nutanix (NTNX) Valuation After Recent Share Price Swings",
+      "publisher": "Simply Wall St.",
+      "date": "2026-05-29 09:05",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "針對近期股價波動後的估值評估，提供投資人參考數據，屬於中性的市場分析觀點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

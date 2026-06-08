@@ -1,0 +1,93 @@
+{
+  "ticker": "HON",
+  "company": "Honeywell",
+  "analysis_date": "2026-06-07",
+  "source_file": "cache/2026-06-07/candidates/news/HON.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 2,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司正積極推動航太業務分拆與 Quantinuum 量子運算業務上市，資本配置策略獲得市場分析師正面評價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "RBC Capital Maintains Outperform on Honeywell Intl, Raises Price Target to $275",
+      "publisher": "Benzinga",
+      "date": "2026-06-05 09:54",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "RBC Capital 分析師 Deane Dray 維持「優於大盤」評級，並將目標價上調至 275 美元，顯示市場對其業務重組後的成長潛力具備高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Honeywell-Backed Quantinuum Shares Jump 13% After Upsized IPO",
+      "publisher": "Yahoo",
+      "date": "2026-06-04 17:52",
+      "impact": "high",
+      "category": "首次公開募股",
+      "reason": "Honeywell 持有多數股權的 Quantinuum 以 16.8 億美元規模成功上市，且股價表現強勁，直接提升了 Honeywell 資產組合的價值。"
+    },
+    {
+      "rank": 3,
+      "title": "As Honeywell Aerospace readies for its stand-alone debut, its CEO is forecasting big growth",
+      "publisher": "CNBC",
+      "date": "2026-06-03 15:48",
+      "impact": "medium",
+      "category": "企業策略",
+      "reason": "航太業務 CEO 預測 2030 年前年獲利至少 65 億美元，自由現金流至少 40 億美元，為分拆後的獨立公司設定了明確且具吸引力的成長目標。"
+    },
+    {
+      "rank": 4,
+      "title": "Goldman Sachs Remains Bullish on Honeywell (HON) Ahead of Aerospace Spin-Off",
+      "publisher": "Yahoo",
+      "date": "2026-06-04 15:07",
+      "impact": "medium",
+      "category": "分析師觀點",
+      "reason": "高盛將 Honeywell 列入 10 檔「無腦買入」的股息股名單，肯定其在分拆前的財務穩定性與投資價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Honeywell International Inc. (HON) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-06-04 22:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管大盤上漲，Honeywell 股價卻下跌 2.52 %，顯示短期內部分投資人對分拆後的股權稀釋或業務調整存在獲利了結壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Honeywell Expects Uneven Earnings Progression In Next Few Years",
+      "publisher": "Benzinga",
+      "date": "2026-06-04 13:38",
+      "impact": "low",
+      "category": "財報展望",
+      "reason": "管理層坦言 2026 至 2028 年間獲利成長將呈現「非線性」波動，反映出轉型期間的資本支出壓力，可能導致短期財報數據不穩定。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "HONEYWELL BOARD OF DIRECTORS SETS RECORD DATE AND ANNOUNCES EXPECTED TIMING FOR SPIN-OFF OF HONEYWELL AEROSPACE",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 20:20",
+      "impact": "medium",
+      "category": "企業公告",
+      "reason": "正式確認航太業務分拆的基準日為 6 月 15 日，並預計 6 月 29 日開始交易，屬於已預期的重大公司治理程序，對股價影響中性偏穩。"
+    },
+    {
+      "rank": 2,
+      "title": "Cramer’s Stop Trading: Honeywell",
+      "publisher": "CNBC",
+      "date": "2026-06-01 10:02",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "Jim Cramer 表示持續關注該股，未給出明確買賣建議，僅提醒投資人留意分拆進度。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

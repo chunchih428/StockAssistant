@@ -1,0 +1,102 @@
+{
+  "ticker": "PLTR",
+  "company": "Palantir Technologies Inc.",
+  "analysis_date": "2026-06-07",
+  "source_file": "cache/2026-06-07/holdings/news/PLTR.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Palantir 透過 AIPCon 10 大會展示強勁的 AI 商業生態擴張，並與 Google Cloud 達成重大策略合作，獲得分析師高度看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Palantir Announces Availability on Google Cloud Marketplace, Including Two-Way Integrations between BigQuery and Foundry and Deep Connectivity between Gemini and AIP",
+      "publisher": "Yahoo",
+      "date": "2026-06-04 10:59",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "與 Google Cloud 的深度整合將顯著擴大 Palantir 的企業客戶觸及範圍，並透過 Gemini AI 工具增強其 AIP 平台競爭力。"
+    },
+    {
+      "rank": 2,
+      "title": "Wedbush Reiterates Outperform on Palantir Technologies, Maintains $230 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-06-05 09:32",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Wedbush 分析師 Dan Ives 維持買入評級與高目標價，顯示華爾街對其在 AI 革命中的領先地位具備高度信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Palantir Signs AI Platform Agreements With Kirkland & Ellis, McCarthy Building, GNP Seguros",
+      "publisher": "Yahoo",
+      "date": "2026-06-04 12:18",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "成功簽署多項跨產業（法律、建築、保險）合約，證明其 AIP 平台在不同垂直領域的強大適應性與商業變現能力。"
+    },
+    {
+      "rank": 4,
+      "title": "Palantir Technologies Expanding AI Use Cases Strengthen Competitive Position, Wedbush Says",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 14:56",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Wedbush 指出 Palantir 正處於 AI 革命的「黃金路徑」，持續擴展的應用場景進一步鞏固了其市場護城河。"
+    },
+    {
+      "rank": 5,
+      "title": "Palantir Customers Reveal How AI Amplifies Their Tradecraft at AIPCon 10",
+      "publisher": "Yahoo",
+      "date": "2026-06-04 10:59",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "透過 AIPCon 10 大會展示客戶實際應用案例，有效增強市場對其技術落地能力的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Palantir faces fresh skepticism from Michael Burry — PLTR Tests Investor Patience Near Key Resistance Zone",
+      "publisher": "Yahoo",
+      "date": "2026-06-03 12:33",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "知名投資人 Michael Burry 的質疑帶來負面情緒，且股價面臨關鍵技術阻力位，可能引發短期獲利了結賣壓。"
+    },
+    {
+      "rank": 2,
+      "title": "Is It Time To Reconsider Palantir Technologies (PLTR) After Recent Volatility And Rich Earnings Multiple",
+      "publisher": "Yahoo",
+      "date": "2026-06-04 20:14",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "市場對其高昂的本益比（Earnings Multiple）提出估值過高的擔憂，提醒投資人注意股價波動風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "ServiceNow vs Palantir: Which Enterprise AI Stock Belongs in a Retirement Portfolio?",
+      "publisher": "Yahoo",
+      "date": "2026-06-03 15:10",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "僅為產業競爭對手的比較分析，未提供具體利多或利空消息，對股價影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Nasdaq, S&P 500 Futures Take A Breather Ahead Of ADP Jobs Data: Why PANW, AVGO, CRWD, PLTR, ASTC, GME, XOS Are In Focus",
+      "publisher": "Yahoo",
+      "date": "2026-06-03 08:46",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅提及 PLTR 為市場焦點個股，主要受總體經濟數據發布前的市場觀望情緒影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

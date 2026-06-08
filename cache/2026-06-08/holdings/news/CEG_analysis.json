@@ -1,0 +1,75 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy",
+  "analysis_date": "2026-06-07",
+  "source_file": "cache/2026-06-07/holdings/news/CEG.json",
+  "summary": {
+    "total_articles": 17,
+    "bullish_count": 6,
+    "bearish_count": 7,
+    "neutral_count": 4,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司近期因進行 1,100 萬股的二次公開發行導致股價承壓，但核能重啟計畫獲得監管機構 FERC 的豁免許可，長期成長潛力仍受市場看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Regulator Helps Constellation Energy Fast-Track Three Mile Island Revival",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 04:01",
+      "impact": "high",
+      "category": "監管許可",
+      "reason": "獲得聯邦能源管理委員會 (FERC) 的豁免許可，加速三哩島核電廠重啟進程，有助於滿足市場對電力需求的強勁成長，為公司核心成長動能。"
+    },
+    {
+      "rank": 2,
+      "title": "Analyst Reaffirms Buy Rating on Constellation Energy (CEG) Following Strong Q1",
+      "publisher": "Yahoo",
+      "date": "2026-05-31 00:51",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "基於強勁的第 1 季財報表現，分析師重申買入評級，顯示市場對其基本面與核能產業地位的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Constellation Energy Prices 11M Secondary Share Offering At $281/Share",
+      "publisher": "Benzinga",
+      "date": "2026-06-01 08:55",
+      "impact": "high",
+      "category": "股權融資",
+      "reason": "公司宣布以每股 281 美元價格進行 1,100 萬股的二次公開發行，導致股權稀釋疑慮，是近期股價回調的主要壓力來源。"
+    },
+    {
+      "rank": 2,
+      "title": "Constellation Energy: Heavy Reliance On One Market And Costly Acquisition Keep Me On Hold",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-02 07:10",
+      "impact": "medium",
+      "category": "市場觀點",
+      "reason": "分析師指出公司過度依賴單一市場且收購成本過高，認為 AI 成長題材已過度反映在股價中，給予持有評級。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "CEG Trades Below 50 and 200 Day SMA: Buy Opportunity or Wait for Now?",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 13:22",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "股價跌破 50 日與 200 日移動平均線，市場對於是否為買入時機存在分歧，技術面呈現中性偏弱。"
+    },
+    {
+      "rank": 2,
+      "title": "Vistra vs. Constellation Energy: The Big Revenue Face-Off",
+      "publisher": "Yahoo",
+      "date": "2026-06-01 21:36",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 Constellation Energy 與同業 Vistra 進行營收比較，屬於產業競爭分析，未對公司本身產生直接利多或利空影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,84 @@
+{
+  "ticker": "MU",
+  "company": "Micron Technology",
+  "analysis_date": "2026-06-07",
+  "source_file": "cache/2026-06-07/holdings/news/MU.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 5,
+    "neutral_count": 3,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管美光在 AI 記憶體需求推動下基本面強勁且獲分析師看好，但近期受 Broadcom 財測疲軟影響導致半導體類股出現獲利了結賣壓。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Micron’s HBM4 Certification With Nvidia Puts AI Memory Margins In Focus",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 15:14",
+      "impact": "high",
+      "category": "產品認證",
+      "reason": "美光獲得 NVIDIA 下一代 Vera Rubin AI 晶片之 HBM4 記憶體供應商認證，確立其在 AI 供應鏈的關鍵地位，有利於長期毛利率提升。"
+    },
+    {
+      "rank": 2,
+      "title": "Analyst See More Upside Despite Micron Technology’s (MU) 90% Gains in May",
+      "publisher": "Yahoo",
+      "date": "2026-06-06 17:17",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "儘管 5 月漲幅驚人，華爾街分析師仍持續調升目標價，顯示市場對其 AI 驅動的成長前景具備高度信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Micron Technology (MU) Is Up 16.3% After Unveiling AI-Optimized Memory Stack At COMPUTEX 2026",
+      "publisher": "Yahoo",
+      "date": "2026-06-04 14:15",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "於 COMPUTEX 2026 展示 AI 優化記憶體堆疊技術，直接回應市場對高效能運算記憶體的需求，帶動股價上漲。"
+    },
+    {
+      "rank": 4,
+      "title": "How Far Can Micron Technology (MU) Go? Susquehanna Sees Over 80% Upside",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 08:10",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "Susquehanna 給出極高目標價，預期有 80% 以上的上漲空間，反映機構投資人對美光在 AI 基礎設施中的核心價值認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "NVDA, INTC, AMD, MU: Major Chip Stocks Fall For Second Day After AVGO's Soft AI Guidance",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 09:10",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Broadcom (AVGO) 發布疲軟的 AI 財測，引發市場對 AI 晶片需求放緩的擔憂，導致美光股價隨類股出現連續兩日的拋售潮。"
+    },
+    {
+      "rank": 2,
+      "title": "Why did Micron stock fall 13% on Friday and should you buy the dip?",
+      "publisher": "Yahoo",
+      "date": "2026-06-06 11:36",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價單日重挫 13%，反映出在累積巨大漲幅後，市場情緒轉向獲利了結，且對總體半導體產業景氣循環的敏感度增加。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Got $10,000? TSM vs Micron: The Better Buy in 2026",
+      "publisher": "Yahoo",
+      "date": "2026-06-04 16:14",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "比較美光與台積電的投資價值，屬於中性分析文章，未提供具體買賣訊號，僅供投資人資產配置參考。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,84 @@
+{
+  "ticker": "IBM",
+  "company": "International Business Machines Corporation",
+  "analysis_date": "2026-06-08",
+  "source_file": "cache/2026-06-08/candidates/news/IBM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "IBM 透過與 Google Cloud 建立深度的 AI 策略合作夥伴關係，強化企業級 AI 諮詢與量子運算布局，抵銷了短期市場波動與潛在訴訟風險。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "IBM and Google Cloud Announce Strategic Partnership to Scale AI with Human Expertise and AI‑Powered Delivery",
+      "publisher": "Yahoo",
+      "date": "2026-06-04 10:00",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "IBM 與 Google Cloud 宣布成立新的 Google Cloud Practice，結合 IBM 的諮詢優勢與 AI 交付能力，有助於擴大企業級 AI 採用率，為長期營收成長注入動能。"
+    },
+    {
+      "rank": 2,
+      "title": "IBM Stock’s $10 Billion Quantum Catalyst Is Here",
+      "publisher": "Yahoo",
+      "date": "2026-06-04 17:12",
+      "impact": "high",
+      "category": "技術研發",
+      "reason": "IBM 在量子運算領域的 100 億美元投資被視為關鍵催化劑，強化了其在未來運算架構的領先地位，獲得市場分析師正面評價。"
+    },
+    {
+      "rank": 3,
+      "title": "Wedbush resets IBM stock price target on AI momentum",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 17:32",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Wedbush 基於 IBM 在 AI 領域的動能與市場定位，調整了目標價，顯示華爾街對其轉型策略的信心回升。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Former cyber executive turned whistleblower accuses IBM of covering up several data breaches",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 20:31",
+      "impact": "medium",
+      "category": "法律訴訟",
+      "reason": "前高管指控 IBM 隱瞞數據外洩事件，若訴訟進展不利，可能導致罰款、聲譽受損及客戶信任度下降。"
+    },
+    {
+      "rank": 2,
+      "title": "Why IBM (IBM) Shares Are Plunging Today",
+      "publisher": "Yahoo",
+      "date": "2026-06-04 02:23",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受總體經濟數據（如就業報告）影響，導致市場對科技股估值產生疑慮，引發短期股價回調。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Quantum Stocks Are Slumping. IBM Is Sure a Quantum Revolution Is Coming Anyway.",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 21:23",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管量子運算類股整體表現疲軟，但 IBM 管理層持續捍衛其技術願景，市場對其長期價值仍存在分歧。"
+    },
+    {
+      "rank": 2,
+      "title": "Would You Buy IBM Stock At A 35% Discount?",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 13:39",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "文章探討 IBM 的股息收益與估值吸引力，屬於投資策略分析，對股價無直接催化作用。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
