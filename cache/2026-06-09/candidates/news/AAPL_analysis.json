@@ -1,0 +1,93 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-06-07",
+  "source_file": "cache/2026-06-07/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 2,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場高度期待 Apple 透過 WWDC 2026 發布 AI 戰略與 Siri 重大升級，將其視為推動股價成長的關鍵催化劑。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why Dan Ives Sees Apple WWDC As A Major AI Catalyst for AAPL",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 23:54",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Wedbush 分析師 Dan Ives 強調 WWDC 是 Apple 進軍消費級 AI 的關鍵轉折點，預期 iOS 27 與生態系整合將帶來顯著成長。"
+    },
+    {
+      "rank": 2,
+      "title": "NVIDIA Apple Siri Alliance Puts AI Chips And Valuation In Focus",
+      "publisher": "Yahoo",
+      "date": "2026-06-06 23:11",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "報導指出 Apple 將採用 NVIDIA 的 Blackwell B200 晶片進行 Siri 升級，顯示其在 AI 基礎設施上的強大布局。"
+    },
+    {
+      "rank": 3,
+      "title": "Bernstein Sees AI-Driven Growth Opportunities for Apple Ahead of WWDC 2026",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 14:32",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Bernstein 指出 Apple 有潛力在不大幅增加資本支出的情況下，透過 AI 創新解鎖顯著的獲利成長空間。"
+    },
+    {
+      "rank": 4,
+      "title": "Here’s Why Apple (AAPL) is One of the Best Big Company Stocks to Buy Right Now",
+      "publisher": "Yahoo",
+      "date": "2026-06-06 17:24",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "摩根士丹利分析師 Erik Woodring 重申對 Apple 的看好，將其列為當前最佳大型科技股之一。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Apple AI Lawsuit Settlement Puts Spotlight On iPhone Marketing And Risk",
+      "publisher": "Yahoo",
+      "date": "2026-06-06 01:06",
+      "impact": "medium",
+      "category": "法規與訴訟",
+      "reason": "Apple 同意支付 2.5 億美元和解金以解決關於 iPhone 行銷的集體訴訟，顯示公司面臨潛在的法律與聲譽風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple (AAPL) Stock Moves -1.18%: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日小幅回調 1.18 %，反映市場在重大活動前夕的獲利了結賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Apple's WWDC: Tim Cook's AI legacy at stake in his final developer conference as CEO",
+      "publisher": "CNBC",
+      "date": "2026-06-05 12:55",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "此類報導聚焦於 Tim Cook 作為 CEO 的最後一場開發者大會，雖具話題性，但對短期股價影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "New Book Exposes How Third Parties Have Hijacked American Healthcare",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 12:44",
+      "impact": "low",
+      "category": "其他",
+      "reason": "此新聞提及的 AAPL 為「美國醫師領導協會」，與蘋果公司無關，屬於誤報。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

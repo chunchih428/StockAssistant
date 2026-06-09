@@ -1,0 +1,75 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-06-07",
+  "source_file": "cache/2026-06-07/candidates/news/OUST.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 4,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "Ouster 與 FieldAI 的策略合作推動了技術應用擴展與股價強勁上漲，市場對其高成長表現持正面看法，但同時關注估值過高與內部人賣股的潛在風險。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ouster Announces Collaboration With FieldAI To Improve How General-Purpose Robots Perceive And Navigate Complex Environments Using Ouster's REV8 Native Color Lidar",
+      "publisher": "Benzinga",
+      "date": "2026-06-02 06:04",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "此合作將 Ouster 的 REV8 原生彩色光達技術整合至 FieldAI 的機器人「大腦」中，顯著提升了機器人在複雜環境下的導航能力，為公司開拓了機器人市場的應用場景，是近期股價突破 52 週新高的核心驅動力。"
+    },
+    {
+      "rank": 2,
+      "title": "Roth/MKM Begins Coverage on Ouster (OUST) Following LiDAR Expansion",
+      "publisher": "Insider Monkey",
+      "date": "2026-06-03 08:20",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Roth/MKM 開始對 Ouster 進行研究覆蓋，顯示機構投資人對其在光達領域的擴張與市場地位日益重視，有助於提升市場流動性與關注度。"
+    },
+    {
+      "rank": 3,
+      "title": "Ouster Shares More Than Double YTD: Is it Still Worth Buying?",
+      "publisher": "Zacks",
+      "date": "2026-06-02 13:27",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出 Ouster 年初至今股價翻倍，反映了市場對公司營運表現的高度認可，儘管存在漲多回調風險，但強勁的動能顯示投資人信心充足。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Is It Too Late To Consider Ouster (OUST) After A 215% One Year Surge?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-06-04 03:17",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "在股價一年內飆升 215% 後，市場開始質疑其估值是否過高，提醒投資人需警惕短期過熱帶來的回調風險。"
+    },
+    {
+      "rank": 2,
+      "title": "An Ouster Director Sold Over 9,000 Company Shares. Here's What That Means for Investors.",
+      "publisher": "Motley Fool",
+      "date": "2026-05-28 19:53",
+      "impact": "low",
+      "category": "內部人交易",
+      "reason": "公司董事賣出 9,000 股股票，雖然數量相對有限，但內部人減持往往會引發市場對公司未來股價成長空間的疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ouster Partnerships Link Counter Drone Lidar Progress With Valuation Questions",
+      "publisher": "Simply Wall St.",
+      "date": "2026-05-28 22:04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導客觀分析了公司在反無人機光達領域的進展與估值之間的平衡，既肯定了技術進步，也提出了對財務估值的理性審視，屬於中性觀點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

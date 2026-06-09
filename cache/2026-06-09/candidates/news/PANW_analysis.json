@@ -1,0 +1,93 @@
+{
+  "ticker": "PANW",
+  "company": "Palo Alto Networks",
+  "analysis_date": "2026-06-07",
+  "source_file": "cache/2026-06-07/candidates/news/PANW.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Palo Alto Networks 憑藉 AI 驅動的資安需求在第 3 季財報中表現亮眼，營收大幅成長並獲得多家投行上調目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Palo Alto Networks Q3 Earnings and Revenues Surpass Estimates",
+      "publisher": "Yahoo",
+      "date": "2026-06-03 16:16",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第 3 季財報營收與獲利均優於華爾街預期，顯示 AI 驅動的資安需求強勁，為股價提供堅實基本面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "PANW Price Targets Raised By Citi, Goldman Sachs On AI-Driven Security Demand",
+      "publisher": "Yahoo",
+      "date": "2026-06-03 22:49",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "花旗與高盛等大型投行因看好公司在 AI 領域的成長潛力與企業支出增加，紛紛上調目標價，強化市場信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Palo Alto Networks’ Mythos AI Push Meets Rich Valuation And Hot Momentum",
+      "publisher": "Yahoo",
+      "date": "2026-06-07 00:18",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "公司整合 Anthropic 的 Mythos AI 模型以強化產品掃描能力，展現技術領先地位，儘管估值偏高但動能強勁。"
+    },
+    {
+      "rank": 4,
+      "title": "Palo Alto Networks Fiscal Q3 Results Signal Rising Demand for AI-driven Cybersecurity Platforms, Morgan Stanley Says",
+      "publisher": "Yahoo",
+      "date": "2026-06-03 15:04",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "摩根士丹利指出客戶對平台化資安解決方案的需求顯著增加，驗證了公司長期轉型策略的成功。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "PANW Q1 Deep Dive: AI-Driven Demand Fuels Growth, Margin Pressures Emerge",
+      "publisher": "Yahoo",
+      "date": "2026-06-03 11:59",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "儘管營收成長，但財報揭露了利潤率面臨壓力，反映出擴大 AI 投資帶來的成本負擔。"
+    },
+    {
+      "rank": 2,
+      "title": "Palo Alto Networks (PANW) Is Up 12.9% After AI-Fueled Revenue Jump But Profit Turns To Loss",
+      "publisher": "Yahoo",
+      "date": "2026-06-04 16:08",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "報導指出公司獲利轉為虧損，雖然市場主要關注營收成長，但獲利能力下滑仍是潛在隱憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Too Late To Reassess Palo Alto Networks (PANW) After Its Rapid Share Price Surge?",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 15:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章探討股價急漲後的估值合理性，屬於投資觀點分析，對股價短期波動影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Stocks making the biggest moves midday: Exxon Mobil, GameStop, Palo Alto Networks, Blackstone & more",
+      "publisher": "CNBC",
+      "date": "2026-06-03 13:13",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為盤中熱門股的例行性報導，未提供新的基本面資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

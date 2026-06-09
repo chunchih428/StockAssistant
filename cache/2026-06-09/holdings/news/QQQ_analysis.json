@@ -1,0 +1,84 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-06-07",
+  "source_file": "cache/2026-06-07/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場廣度維持正向且 QQQ 持續處於強勁上升趨勢，儘管部分分析師對估值與集中度風險提出警示。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Breadth Confirms the Rally, But Leadership Still Runs Through AI",
+      "publisher": "ChartMill",
+      "date": "2026-06-03",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "指出 QQQ 與 SPY 處於強勁上升趨勢並接近歷史高點，AI 產業仍是市場領頭羊，顯示資金動能強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "Breadth Holds Positive, but Small Caps Start to Lag",
+      "publisher": "ChartMill",
+      "date": "2026-06-02",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場廣度維持正向，QQQ 持續推升至紀錄高點，顯示大型科技股的動能依然穩健。"
+    },
+    {
+      "rank": 3,
+      "title": "Software Joins the Rally as Breadth Holds Firm",
+      "publisher": "ChartMill",
+      "date": "2026-06-01",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "軟體類股加入漲勢，確認了 QQQ 的突破走勢具有廣度支撐，有利於延續多頭行情。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why I Stopped Buying VOO And QQQ - And What I Am Buying Instead",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-02",
+      "impact": "medium",
+      "category": "投資策略",
+      "reason": "作者指出 S&P 500 與 QQQ 的估值過高，且市場集中度風險過大，建議投資人重新評估配置。"
+    },
+    {
+      "rank": 2,
+      "title": "Tape Pauses, But the Broader Breadth Trend Is Not Broken Yet",
+      "publisher": "ChartMill",
+      "date": "2026-06-04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "雖然整體趨勢未破，但觀察到 6 月 3 日市場廣度急劇減弱，參與度下降，短期內可能出現盤整。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Should You Really Invest in QQQ Right Now? Or Is IVV the Better Buy?",
+      "publisher": "Motley Fool",
+      "date": "2026-06-06",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "此文為比較型分析，旨在協助投資人根據數據選擇適合的 ETF，並未對 QQQ 本身給出明確的買進或賣出建議。"
+    },
+    {
+      "rank": 2,
+      "title": "QQQ vs VGT: Which Tech ETF Is Better?",
+      "publisher": "Motley Fool",
+      "date": "2026-06-06",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "針對 QQQ 與 VGT 進行產品結構比較，屬於教育性質的投資分析，對股價無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

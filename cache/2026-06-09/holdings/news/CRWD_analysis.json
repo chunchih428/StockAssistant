@@ -1,0 +1,93 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-06-07",
+  "source_file": "cache/2026-06-07/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 6,
+    "neutral_count": 4,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司發布強勁財報並受惠於 AI 安全需求成長，但股價在財報後出現獲利了結賣壓，引發市場對估值合理性的討論。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike (CRWD) Is Up 7.2% After Profit Beat, Guidance Hike And AI Hire",
+      "publisher": "Yahoo",
+      "date": "2026-06-04 22:12",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司 2027 財年第一季財報表現亮眼，營收與獲利均優於預期，並上調全年財測，顯示 AI 驅動的資安需求強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "Jefferies Raises its Price Target on CrowdStrike (CRWD)",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 16:42",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Jefferies 看好其長期成長潛力，將其列為未來十年最值得買入與持有的美股之一，反映市場對其競爭優勢的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "CrowdStrike CEO George Kurtz goes one-on-one with Jim Cramer",
+      "publisher": "CNBC",
+      "date": "2026-06-04 19:43",
+      "impact": "medium",
+      "category": "高層訪談",
+      "reason": "執行長 George Kurtz 強調 AI 時代下資安需求普及化，有助於鞏固公司在市場的領導地位。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why CrowdStrike (CRWD) Stock Is Falling Today",
+      "publisher": "Yahoo",
+      "date": "2026-06-06 02:32",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管財報強勁，但股價在財報後出現 4.2% 至 4.3% 的回調，顯示市場存在獲利了結壓力及對高估值的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Berenberg downgrades CrowdStrike to hold despite strong outlook",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 14:02",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Berenberg 將評級從「買入」下調至「持有」，儘管認可其前景，但可能考量到當前股價已反映過多利多。"
+    },
+    {
+      "rank": 3,
+      "title": "CrowdStrike Capitalizes on Accelerating AI Demand, But Durability Concerns Remain, BofA Says",
+      "publisher": "Yahoo",
+      "date": "2026-06-04 16:02",
+      "impact": "low",
+      "category": "分析師報告",
+      "reason": "美國銀行 (BofA) 指出雖然 AI 需求強勁，但對公司成長的長期持續性 (Durability) 仍存有疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Cramer’s Mad Dash: CrowdStrike",
+      "publisher": "CNBC",
+      "date": "2026-06-04 09:39",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "Jim Cramer 的每日短評，主要針對股價波動進行技術性觀察，未提供新的基本面資訊。"
+    },
+    {
+      "rank": 2,
+      "title": "Here Are Friday’s Top Wall Street Analyst Research Calls",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 11:58",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為當日華爾街分析師研究報告的彙整清單，提及 CrowdStrike 但無深入分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

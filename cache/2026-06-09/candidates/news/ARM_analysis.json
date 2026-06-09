@@ -1,0 +1,84 @@
+{
+  "ticker": "ARM",
+  "company": "Arm Holdings plc",
+  "analysis_date": "2026-06-07",
+  "source_file": "cache/2026-06-07/candidates/news/ARM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 5,
+    "neutral_count": 3,
+    "overall_sentiment": "mixed",
+    "key_theme": "AI 需求帶動營收成長與分析師調升目標價，但面臨地緣政治出口限制、監管調查及內部高管拋售股票的壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "ARM Stock Rockets Higher As Nvidia’s New AI Platform Fuels Fresh Bull Case",
+      "publisher": "Yahoo",
+      "date": "2026-06-01 12:38",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Nvidia 推出基於 Arm 架構的 RTX Spark AI 平台，直接驗證了 Arm 在 AI 運算領域的核心地位，是近期股價飆升的主要催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Mizuho Maintains Outperform on ARM Holdings, Raises Price Target to $500",
+      "publisher": "Benzinga",
+      "date": "2026-06-04 13:46",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Mizuho 分析師 Vijay Rakesh 維持買入評級並大幅調升目標價至 $500，反映市場對其在 AI 與記憶體市場長期成長的強烈信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Arm May Hit $15 Billion AI Chip Revenue Goal Early, CEO Says",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 06:43",
+      "impact": "medium",
+      "category": "財報預測",
+      "reason": "CEO Rene Haas 表示公司可能提前達成 150 億美元的 AI 晶片營收目標，顯示業務擴張速度優於預期。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "FTC Probe Puts Arm Licensing Model And AI Growth Story Under Review",
+      "publisher": "Yahoo",
+      "date": "2026-06-03 13:14",
+      "impact": "high",
+      "category": "法規監管",
+      "reason": "美國聯邦貿易委員會 (FTC) 對 Arm 的商業授權模式展開調查，可能對其核心授權業務與 AI 成長策略造成法律風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Arm’s AI Data Center Push Meets Export Hurdles And Lofty Valuation",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 18:13",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "CEO 坦言對中國的 AI CPU 出口限制面臨執行困難，加上市場對其高達 67 倍的預期本益比感到擔憂，引發股價回調。"
+    },
+    {
+      "rank": 3,
+      "title": "Arm Insiders Sold $25.6 Million in Stock. They Missed a Historic Rally.",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 16:47",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "內部高管在股價創歷史新高前拋售 2,560 萬美元股票，雖屬正常財務規劃，但可能影響散戶投資人信心。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Why Is Arm Stock Falling Friday? — ARM stock dips 8% on Friday, but remains in a powerful long-term uptrend.",
+      "publisher": "Benzinga",
+      "date": "2026-06-05 10:57",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 8% 屬於技術性修正，長期上升趨勢未變，市場正觀察其是否能守住 20 日均線支撐。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
