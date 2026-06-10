@@ -1,0 +1,75 @@
+{
+  "ticker": "CGNX",
+  "company": "Cognex",
+  "analysis_date": "2026-06-07",
+  "source_file": "cache/2026-06-07/candidates/news/CGNX.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 2,
+    "bearish_count": 3,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管近期獲得分析師調升評級且被納入基金績優股，但市場對於 CGNX 在經歷大幅漲幅後的估值合理性與成長持續性存有高度疑慮。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Street Calls of the Week — JPMorgan upgraded Cognex Corporation",
+      "publisher": "Yahoo",
+      "date": "2026-05-31 09:50",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "JPMorgan 對 Cognex 進行評級調升，顯示機構投資人對其業務前景持正面看法，為股價提供短期支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Alger SICAV - Alger Small Cap Focus Fund Q1 2026 Portfolio Update",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-04 12:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Cognex 被列為 Alger Small Cap Focus Fund 的主要貢獻標的，反映出該公司在機構投資組合中表現強勁，具備市場認可度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "3 Reasons CGNX is Risky and 1 Stock to Buy Instead",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 15:09",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "文章指出 CGNX 在過去 6 個月內股價飆升 68 %，市場過熱風險增加，建議投資人應審慎評估其成長動能與估值溢價。"
+    },
+    {
+      "rank": 2,
+      "title": "Cognex Rally Raises Questions On Growth, Profitability And Buyback Support",
+      "publisher": "Yahoo",
+      "date": "2026-06-03 20:10",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "針對 CGNX 年初至今 78.9 % 的漲幅提出質疑，強調市場對於其獲利能力與庫藏股支撐力道的擔憂，可能導致獲利了結賣壓。"
+    },
+    {
+      "rank": 3,
+      "title": "Cognex, Grid Dynamics, and Insight Enterprises Shares Are Falling",
+      "publisher": "Yahoo",
+      "date": "2026-06-06 05:20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受強勁的 5 月就業報告影響，市場擔憂聯準會政策走向，導致包含 CGNX 在內的多檔股票出現回調。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Cognex (CGNX) Down 1.9% Since Last Earnings Report: Can It Rebound?",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 15:30",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "回顧 30 天前的財報表現，並探討後續股價走勢，屬於中性的技術性回顧，未提供新的重大基本面資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "MSFT",
+  "company": "Microsoft",
+  "analysis_date": "2026-06-07",
+  "source_file": "cache/2026-06-07/holdings/news/MSFT.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 6,
+    "bearish_count": 8,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "Microsoft 在 AI 技術研發與市場地位上持續獲得機構看好，但面臨高層董事異動、技術面走弱以及員工對資本支出過高的質疑。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Wells Fargo Raises PT on Microsoft (MSFT) Stock",
+      "publisher": "Yahoo",
+      "date": "2026-06-06 17:24",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "富國銀行上調目標價，顯示機構投資人對 Microsoft 作為大型科技股的長期成長潛力仍具高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Microsoft Deepens In House AI And Healthcare Focus At Build 2026",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 22:11",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "於 Build 2026 大會推出七款自研 AI 模型，包括 MAI-Thinking-1，強化了公司在 AI 領域的技術護城河。"
+    },
+    {
+      "rank": 3,
+      "title": "Billionaire Investor Bill Ackman: Buying Microsoft, Meta, and Amazon Today Could Be Like Adding Buffett’s Berkshire Hathaway 25 Years Ago",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 16:16",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名投資人 Bill Ackman 將 Microsoft 比作早期的波克夏海瑟威，極大提升了市場對其長期價值投資的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Microsoft Stock Charts Look Vulnerable. Software Stocks Could Follow.",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 18:27",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "技術面顯示股價走勢脆弱，可能引發軟體類股的連鎖修正壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon, Microsoft employees demand urgent answers from big tech",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 16:33",
+      "impact": "medium",
+      "category": "公司治理",
+      "reason": "員工對公司高達 7250 億美元的資本支出提出質疑，反映內部對 AI 投資回報率的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Microsoft (MSFT) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 2.66%，表現弱於大盤，顯示短期賣壓沉重。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "LinkedIn co-founder Reid Hoffman is leaving Microsoft's board after almost a decade",
+      "publisher": "CNBC",
+      "date": "2026-06-05 11:40",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "Reid Hoffman 決定不尋求連任董事，主要為了專注於個人 AI 藥物研發新創公司 Manus，屬於正常的生涯規劃調整，對公司營運影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Market Chatter: Microsoft-Backed OpenAI Held Talks With US Officials on Potential Government Equity Stakes in AI Firms",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 09:56",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "關於 OpenAI 與政府討論股權的傳聞，目前僅處於初步階段，對 Microsoft 的直接財務影響尚不明確。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

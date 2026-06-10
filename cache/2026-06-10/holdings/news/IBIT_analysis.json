@@ -1,0 +1,102 @@
+{
+  "ticker": "IBIT",
+  "company": "Bitcoin",
+  "analysis_date": "2026-06-07",
+  "source_file": "cache/2026-06-07/holdings/news/IBIT.json",
+  "summary": {
+    "total_articles": 12,
+    "bullish_count": 2,
+    "bearish_count": 8,
+    "neutral_count": 2,
+    "overall_sentiment": "bearish",
+    "key_theme": "比特幣價格大幅回調導致 IBIT 出現顯著資金流出，市場情緒轉向避險與觀望。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bitcoin's Most Bullish Technical Signal Meets Crypto's Biggest Regulatory Catalyst",
+      "publisher": "Benzinga",
+      "date": "2026-06-05",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管近期價格下跌，但技術面顯示比特幣正測試關鍵支撐位，且華盛頓監管環境可能出現正面催化劑，為長期持有者提供潛在反彈契機。"
+    },
+    {
+      "rank": 2,
+      "title": "Bitcoin Potential Near-Term Bullish Reversal Emerging From The Sub-$70K Plunge",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析指出比特幣在跌破 7 萬美元心理關卡後，技術指標出現潛在反轉訊號，可能吸引逢低買盤進場。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Investors Flee Bitcoin ETFs as Crypto Continues to Crumble",
+      "publisher": "Barrons.com",
+      "date": "2026-06-05",
+      "impact": "high",
+      "category": "資金流向",
+      "reason": "比特幣價格持續崩跌引發投資人恐慌，導致 IBIT 等現貨 ETF 出現大規模資金撤離，直接影響基金規模與流動性。"
+    },
+    {
+      "rank": 2,
+      "title": "Bitcoin ETFs Sell $500M During BTC Implosion To $67,000",
+      "publisher": "Benzinga",
+      "date": "2026-06-03",
+      "impact": "high",
+      "category": "資金流向",
+      "reason": "統計顯示單日比特幣現貨 ETF 出現超過 5 億美元的淨流出，反映出機構與散戶在價格下行壓力下的拋售行為。"
+    },
+    {
+      "rank": 3,
+      "title": "Bitcoin Sinks to Four-Month Lows as Investors Eye Sparkly IPOs",
+      "publisher": "The Daily Upside",
+      "date": "2026-06-05",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "比特幣跌至四個月新低，且市場資金轉向其他熱門 IPO 標的，導致加密貨幣資產吸引力下降。"
+    },
+    {
+      "rank": 4,
+      "title": "Bitcoin Sell-Off Fears Rise as BlackRock and Winklevoss Twins Move 7,000 BTC",
+      "publisher": "BeInCrypto",
+      "date": "2026-06-03",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場對於大型機構如 BlackRock 的比特幣轉移行為感到擔憂，引發對潛在拋售壓力的恐慌情緒。"
+    },
+    {
+      "rank": 5,
+      "title": "The market's risk trade is leaving bitcoin behind",
+      "publisher": "Yahoo Finance",
+      "date": "2026-06-04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場風險偏好轉變，資金正從比特幣等高風險資產撤出，導致其表現落後於整體市場。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "IBIT or ETHA? Bitcoin and Ethereum Are Both Down. Here's What Investors Need to Know.",
+      "publisher": "Motley Fool",
+      "date": "2026-06-04",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "文章對比 IBIT 與 ETHA 的表現，主要提供投資人資產配置建議，並未對 IBIT 本身做出明確的看漲或看跌判斷。"
+    },
+    {
+      "rank": 2,
+      "title": "Bitcoin Drops 25% In 1 Month: How Does This Crash Compare To 2022?",
+      "publisher": "Benzinga",
+      "date": "2026-06-05",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "回顧歷史數據分析當前跌勢，旨在提供市場背景與比較，而非針對 IBIT 的短期操作建議。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

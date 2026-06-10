@@ -1,0 +1,75 @@
+{
+  "ticker": "ETN",
+  "company": "Eaton",
+  "analysis_date": "2026-06-07",
+  "source_file": "cache/2026-06-07/holdings/news/ETN.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 6,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 資料中心與電氣化需求強勁，Eaton 財報表現優異並持續獲得分析師上調預期，儘管高估值引發部分市場擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "How Eaton’s Upgraded AI Data Center Outlook At Eaton (ETN) Has Changed Its Investment Story",
+      "publisher": "Yahoo",
+      "date": "2026-06-04 05:12",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第一季財報優於預期，並上調全年 EPS 指引，顯示 AI 資料中心基礎設施需求成為核心成長引擎，具備長期投資價值。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Analysts Continue To Raise Expectations For Eaton (ETN)",
+      "publisher": "Yahoo",
+      "date": "2026-06-04 13:29",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師持續上調目標價與獲利預期，且該股放空比例僅 2.37 %，顯示市場對其基本面信心強勁。"
+    },
+    {
+      "rank": 3,
+      "title": "Watch These 5 Non-Tech Stocks Thriving in 2026 on AI Data Center Boom",
+      "publisher": "Yahoo",
+      "date": "2026-06-02 12:18",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Eaton 被列為 AI 資料中心熱潮下的關鍵非科技受惠股，電力基礎設施需求將持續推動其營收成長。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Eaton Rallies 32% YTD: Should Investors Bet on the Stock Now?",
+      "publisher": "Yahoo",
+      "date": "2026-06-04 18:11",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "年初至今股價已上漲 32 %，目前估值處於高檔，投資人需警惕過高溢價可能帶來的回調風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Why Is Eaton (ETN) Down 0% Since Last Earnings Report?",
+      "publisher": "Yahoo",
+      "date": "2026-06-04 15:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "財報公布後股價呈現盤整，市場正處於消化財報資訊並等待後續成長動能的觀察期。"
+    },
+    {
+      "rank": 2,
+      "title": "Edison International Wildfire Progress And Policy Stance Shape Valuation Debate",
+      "publisher": "Yahoo",
+      "date": "2026-06-06 08:06",
+      "impact": "low",
+      "category": "法規與政策",
+      "reason": "該新聞主要討論 Edison International 的野火賠償計畫，提及 Eaton 僅為相關背景，對 Eaton 本身股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

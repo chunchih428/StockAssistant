@@ -1,0 +1,75 @@
+{
+  "ticker": "VOO",
+  "company": "S&P 500",
+  "analysis_date": "2026-06-07",
+  "source_file": "cache/2026-06-07/holdings/news/VOO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "VOO 成為全球首檔資產規模突破 1 兆美元的 ETF，展現低成本被動投資的市場主導地位。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Vanguard’s VOO Hits $1 Trillion of Assets in ETF Industry First",
+      "publisher": "Yahoo",
+      "date": "2026-06-03 17:55",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "VOO 正式成為歷史上首檔資產管理規模 (AUM) 突破 1 兆美元的 ETF，象徵其在低成本被動投資領域的絕對領導地位，吸引大量資金流入。"
+    },
+    {
+      "rank": 2,
+      "title": "Could Buying VOO Today Set You Up for Life?",
+      "publisher": "Yahoo",
+      "date": "2026-06-04 17:22",
+      "impact": "medium",
+      "category": "投資建議",
+      "reason": "文章強調 VOO 作為長期投資工具的便利性與低成本優勢，對被動投資者具有高度吸引力，強化了市場對該產品的長期信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "The VOO ETF Just Hit $1 Trillion in AUM. That’s a Terrifying Warning on ‘Terminal’ Index Concentration and the Risk of a $100 Million Loss.",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 13:00",
+      "impact": "medium",
+      "category": "市場風險",
+      "reason": "分析師警告指數過度集中化可能帶來的系統性風險，指出當資金過度湧入單一 ETF 時，市場波動可能對投資人造成重大損失。"
+    },
+    {
+      "rank": 2,
+      "title": "S&P 500, Nasdaq 100 Drop From Records As Rate-Hike Bets Build, Oil Climbs",
+      "publisher": "Benzinga",
+      "date": "2026-06-03 13:25",
+      "impact": "low",
+      "category": "總體經濟",
+      "reason": "由於利率預期上升與經濟數據影響，整體市場出現回調，間接影響追蹤 S&P 500 指數的 VOO 短期價格表現。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is the Vanguard S&P 500 ETF Still Worth Buying Right Now?",
+      "publisher": "Motley Fool",
+      "date": "2026-06-05 20:05",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "文章探討在市場處於歷史高點時是否應進場，平衡了強勁的獲利成長與高估值風險，提供中立的投資觀點。"
+    },
+    {
+      "rank": 2,
+      "title": "Should You Buy the Vanguard S&P 500 ETF As the Market Hits New Highs?",
+      "publisher": "Yahoo",
+      "date": "2026-06-05 13:20",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "針對市場創新高後的進場時機進行討論，未給出明確買進或賣出建議，僅提醒投資人應評估自身風險承受度。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
