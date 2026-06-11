@@ -1,0 +1,102 @@
+{
+  "ticker": "META",
+  "company": "Meta",
+  "analysis_date": "2026-06-11",
+  "source_file": "cache/2026-06-11/holdings/news/META.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 6,
+    "neutral_count": 4,
+    "overall_sentiment": "mixed",
+    "key_theme": "Meta 積極擴張全球 AI 基礎設施與數據中心布局，但面臨法律訴訟與歐盟監管的雙重壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Meta agrees to Indian AI data center deal as hyperscaler bolsters its infrastructure",
+      "publisher": "CNBC",
+      "date": "2026-06-10 05:24",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "Meta 與 Reliance Industries 簽署協議，租賃印度最大的 AI 數據中心（168 MW），此舉顯著強化了 Meta 在新興市場的 AI 運算能力與基礎設施布局。"
+    },
+    {
+      "rank": 2,
+      "title": "A 5-week course and a guaranteed job: Meta commits $115 million to solve the skilled-trades shortage stalling its AI buildout",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 17:28",
+      "impact": "medium",
+      "category": "資本支出",
+      "reason": "Meta 投入 1.15 億美元解決技術人才短缺問題，以確保其 2028 年前 6,000 億美元的美國數據中心建設計畫順利推進，展現長期成長決心。"
+    },
+    {
+      "rank": 3,
+      "title": "Wall Street Is Missing the Bigger Picture: Why This Historically Cheap Advertising Juggernaut Is a No-Brainer Buy Right Now",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 13:57",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師認為 Meta 在全球廣告市場的壟斷地位被低估，且估值具吸引力，建議投資人長期持有。"
+    },
+    {
+      "rank": 4,
+      "title": "Meta expands US solar portfolio, inks PPA with Zelestra",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 12:38",
+      "impact": "low",
+      "category": "ESG 發展",
+      "reason": "透過與 Zelestra 簽署購電協議（PPA），Meta 持續擴大再生能源布局，有助於降低長期營運成本並符合 ESG 監管要求。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "California State Court Judge In Youth Social Media Addiction Case Denies Google And Meta Motions Seeking New Trial",
+      "publisher": "Benzinga",
+      "date": "2026-06-10 10:25",
+      "impact": "high",
+      "category": "法律訴訟",
+      "reason": "加州法院駁回 Meta 與 Google 針對青少年社群媒體成癮案的重審請求，維持了先前判決的法律責任與賠償壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "EU orders Meta to reopen WhatsApp to rival AI chatbots free",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 14:26",
+      "impact": "medium",
+      "category": "法規監管",
+      "reason": "歐盟委員會要求 Meta 開放 WhatsApp 供競爭對手 AI 聊天機器人免費使用，此舉可能削弱 Meta 在生態系統中的控制權與潛在變現能力。"
+    },
+    {
+      "rank": 3,
+      "title": "Drive Social Media Offers an Update to Clients Regarding the 2026 Meta Ads Attribution Window Changes",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 19:16",
+      "impact": "low",
+      "category": "產品更新",
+      "reason": "API 變更導致廣告歸因追蹤邏輯改變，可能造成廣告主投放成效評估的短期不確定性。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Assessing Meta Platforms (META) Valuation After Recent Share Price Pullback And Reality Labs Investment Risks",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 15:12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對股價回調與 Reality Labs 投資風險的綜合評估，屬於市場常規的投資觀點分析，無具體新消息。"
+    },
+    {
+      "rank": 2,
+      "title": "2 Bargain Artificial Intelligence (AI) Stocks to Buy Now Down Around 25% From Their All-Time Highs",
+      "publisher": "Yahoo",
+      "date": "2026-06-11 00:37",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 Meta 與 Microsoft 並列為 AI 領域的價值股，屬於市場情緒面的正面報導，但缺乏實質財務催化劑。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

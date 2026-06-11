@@ -1,0 +1,74 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-06-11",
+  "source_file": "cache/2026-06-11/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 0,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場廣度轉弱與 AI 泡沫疑慮導致 QQQ 面臨技術性賣壓與資金流出風險。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "QQQ: The $700 Billion AI Bet That Could Blow Up In Everyone's Face",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-08",
+      "impact": "high",
+      "category": "市場風險",
+      "reason": "文章指出 QQQ 在 740 美元面臨賣壓，並強調內部人士拋售、過度 AI 資本支出以及聯準會升息風險，可能導致投資組合價值大幅修正。"
+    },
+    {
+      "rank": 2,
+      "title": "Breadth Breaks Lower as Tech Rout Hits the Indexes",
+      "publisher": "ChartMill",
+      "date": "2026-06-08",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場廣度顯著惡化，QQQ 跌破短期移動平均線，顯示科技股整體動能減弱，賣壓正在擴散。"
+    },
+    {
+      "rank": 3,
+      "title": "Tape Pauses, But the Broader Breadth Trend Is Not Broken Yet",
+      "publisher": "ChartMill",
+      "date": "2026-06-04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "雖然提及市場廣度惡化，但認為長期趨勢尚未完全破壞，屬於對近期回調的技術性觀察。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "ARKQ vs. QQQ: Which Tech Stock ETF is the Better Buy?",
+      "publisher": "Motley Fool",
+      "date": "2026-06-11",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "純粹的 ETF 比較分析，旨在協助投資人根據風險偏好選擇標的，對 QQQ 本身股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "QQQ vs. QQQM: Same Index, So Which One Should You Actually Buy?",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-06-10",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "探討 QQQ 與其低成本版本 QQQM 的差異，屬於投資組合配置建議，不影響 QQQ 的基本面。"
+    },
+    {
+      "rank": 3,
+      "title": "QQQ vs. VGT: The Best Way to Own Big Tech?",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-06-10",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "比較 QQQ 與 VGT 的持股結構與費用率，屬於中性的投資工具比較，無關乎市場對 QQQ 的情緒變化。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,120 @@
+{
+  "ticker": "IBM",
+  "company": "International Business Machines Corporation",
+  "analysis_date": "2026-06-11",
+  "source_file": "cache/2026-06-11/candidates/news/IBM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 3,
+    "neutral_count": 8,
+    "overall_sentiment": "bullish",
+    "key_theme": "IBM 積極布局量子運算與 AI 諮詢服務，透過與 Google Cloud 等巨頭合作強化企業級 AI 解決方案，市場對其長期轉型策略持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "IBM Just Placed a $10 Billion Bet to Become the Nvidia of Quantum Computing",
+      "publisher": "Yahoo",
+      "date": "2026-06-09 16:46",
+      "impact": "high",
+      "category": "策略投資",
+      "reason": "IBM 投入 100 億美元於量子運算，展現其在下一代運算技術的領先野心，被視為長期成長的關鍵驅動力。"
+    },
+    {
+      "rank": 2,
+      "title": "IBM Links Google Cloud AI Push With Long Term Quantum Ambitions",
+      "publisher": "Yahoo",
+      "date": "2026-06-06 07:08",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "與 Google Cloud 建立諮詢合作夥伴關係，結合 IBM Consulting Advantage 與 Gemini Enterprise AI，有助於擴大企業級 AI 市場份額。"
+    },
+    {
+      "rank": 3,
+      "title": "Jim Cramer Says This Quantum Stock 'Makes No Money,' Prefers IBM",
+      "publisher": "Benzinga",
+      "date": "2026-06-09 08:23",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "知名財經評論員 Jim Cramer 公開表示看好 IBM 的穩健性，並將其與純量子運算初創公司進行對比，認為 IBM 具備更佳的獲利能力。"
+    },
+    {
+      "rank": 4,
+      "title": "Bell Integration and IBM Launch AI-Powered Intelligent Managed Services Platform at AI Summit",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 12:05",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "透過與 Bell Integration 合作推出 AI 託管服務平台，進一步強化 IBM 在企業 AI 落地應用的實戰能力。"
+    },
+    {
+      "rank": 5,
+      "title": "JA Worldwide and IBM Expand Global Collaboration",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 10:00",
+      "impact": "low",
+      "category": "企業社會責任",
+      "reason": "擴大全球教育合作計畫，有助於提升品牌形象並培養未來 AI 人才庫，對長期人才競爭力有正面幫助。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Celestica vs. IBM: Which AI Infrastructure Stock is the Better Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 13:47",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析指出 Celestica 在 AI 基礎設施需求與估值上優於 IBM，對 IBM 的短期股價成長潛力提出質疑。"
+    },
+    {
+      "rank": 2,
+      "title": "IBM (IBM) Stock Slides as Market Rises: Facts to Know Before You Trade",
+      "publisher": "Yahoo",
+      "date": "2026-06-08 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價在市場上漲時出現 1.41% 的回調，反映短期獲利了結賣壓。"
+    },
+    {
+      "rank": 3,
+      "title": "Jim Cramer on IBM: “I Like It Very Much, But It’s Up On a Spike”",
+      "publisher": "Yahoo",
+      "date": "2026-06-08 15:34",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "儘管看好公司長期發展，但 Cramer 提醒股價近期漲幅過快，暗示短期可能存在技術性修正風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "IBM CEO: AI Won't Necessarily Lead To Smaller Headcount",
+      "publisher": "Bloomberg",
+      "date": "2026-06-09 21:51",
+      "impact": "medium",
+      "category": "高層觀點",
+      "reason": "CEO Arvind Krishna 對 AI 帶來的裁員疑慮進行澄清，強調 AI 將轉化為生產力而非單純取代人力，屬中性經營策略說明。"
+    },
+    {
+      "rank": 2,
+      "title": "New IBM Study Finds CIOs and CTOs Face Growing AI Control Gap",
+      "publisher": "Yahoo",
+      "date": "2026-06-08 04:01",
+      "impact": "low",
+      "category": "市場研究",
+      "reason": "發布關於企業 AI 部署挑戰的調查報告，雖顯示市場痛點，但同時也凸顯 IBM 在提供 AI 治理方案上的市場機會。"
+    },
+    {
+      "rank": 3,
+      "title": "Gary Cohn: The LLM world is going to be a commoditized world",
+      "publisher": "CNBC",
+      "date": "2026-06-10 12:48",
+      "impact": "low",
+      "category": "高層觀點",
+      "reason": "副董事長 Gary Cohn 對 LLM 市場商品化的評論，屬於產業趨勢觀察，對 IBM 具體財務影響不明確。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
