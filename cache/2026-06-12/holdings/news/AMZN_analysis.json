@@ -1,0 +1,93 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-06-11",
+  "source_file": "cache/2026-06-11/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 8,
+    "bearish_count": 6,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "Amazon 積極擴張物流與 AI 基礎設施投資，但面臨地緣政治風險與高額舉債帶來的市場壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Corning shares jump 4% after company strikes deal to power Amazon AI data centers in U.S.",
+      "publisher": "CNBC",
+      "date": "2026-06-08 08:35",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "Amazon 與 Corning 達成重大合作，強化 AI 資料中心基礎設施，顯示其在 AI 領域的硬體布局持續深化。"
+    },
+    {
+      "rank": 2,
+      "title": "Humanoid robotics company raises up to $1.4 billion from Nvidia, Amazon and others",
+      "publisher": "CNBC",
+      "date": "2026-06-10 11:56",
+      "impact": "medium",
+      "category": "投資布局",
+      "reason": "Amazon 參與 Neura Robotics 的 14 億美元融資，展現其在實體 AI 與機器人領域的長期戰略野心。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon Supply Chain Services Launches Less-Than-Truckload Freight Offering for All Businesses",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 10:00",
+      "impact": "medium",
+      "category": "業務擴張",
+      "reason": "Amazon 將物流服務擴展至所有企業，有助於提升物流網絡的資產利用率並創造新的營收來源。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "S&P 500, Nasdaq, Dow Drop As US-Iran War Jitters, Inflation Risk Spur Tech Selloffs",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 22:31",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "地緣政治緊張（美伊衝突）引發科技股全面拋售，作為權值股的 Amazon 難以倖免。"
+    },
+    {
+      "rank": 2,
+      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 20:19",
+      "impact": "medium",
+      "category": "財務狀況",
+      "reason": "Amazon 為支撐 AI 投資而進行大規模舉債（175 億美元貸款），引發市場對其資本支出效率與負債水位的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon trucking expansion sparks freight stock sell-off",
+      "publisher": "CNBC",
+      "date": "2026-06-10 09:50",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "雖然擴張物流是利多，但此舉引發傳統物流業者的競爭擔憂，可能招致監管關注或市場反彈。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Amazon Names Kin by Tayari Jones the No. 1 Book of 2026 So Far",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 13:15",
+      "impact": "low",
+      "category": "公司動態",
+      "reason": "屬於例行性的年度選書公告，對股價基本面影響微乎其微。"
+    },
+    {
+      "rank": 2,
+      "title": "Analysts say Amazon won’t shake LTL market—yet",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 20:39",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析師對 Amazon 物流擴張的短期影響持保留態度，認為其難以立即撼動傳統物流市場。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

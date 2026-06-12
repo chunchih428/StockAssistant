@@ -1,0 +1,138 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-06-11",
+  "source_file": "cache/2026-06-11/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 4,
+    "bearish_count": 10,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "WWDC 2026 發布的 AI 策略與 Siri 更新引發市場分歧，短期股價因預期落差面臨修正壓力，但長期基本面仍獲部分分析師看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple Got It Right This Time",
+      "publisher": "Barrons.com",
+      "date": "2026-06-10",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "分析師認為市場過度解讀短期波動，Apple Intelligence 與 Siri 的升級已足夠支撐長期的換機週期與生態系價值。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple (AAPL) Declined Defies Strong Fundamentals",
+      "publisher": "Yahoo",
+      "date": "2026-06-10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "投資管理公司 The London Company 指出，近期股價下跌與公司強勁的基本面背離，認為市場反應過度。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple’s Next Chapter: AI Innovation and Leadership Change Signal Upside",
+      "publisher": "Yahoo",
+      "date": "2026-06-10",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "儘管近期股價回調，但 AI 創新與領導層更迭被視為長期上漲的潛在催化劑。"
+    },
+    {
+      "rank": 4,
+      "title": "If Apple Stock Stabilizes, This Iron Condor Sets Up A 35% Return In Five Weeks",
+      "publisher": "Yahoo",
+      "date": "2026-06-10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "技術面分析顯示 Apple 股票具備正向 Gamma 特徵，若股價趨穩，選擇權策略可望獲利。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Apple shares slide after big Siri AI reveal",
+      "publisher": "CNBC",
+      "date": "2026-06-09",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "WWDC 發布會後市場反應冷淡，投資人對 Siri 的 AI 更新是否足以帶動營收成長存疑，導致股價短期承壓。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple Bets Big on Siri AI. Investors Aren’t Buying It.",
+      "publisher": "Yahoo",
+      "date": "2026-06-10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "華爾街認為此次 AI 更新更像是生態系功能的補強，而非具備革命性的營收驅動力，導致賣壓湧現。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple Spent Billions Chasing A Self-Driving Car, Then Walked Away—Waymo Now Bought The Test Site For $220 Million",
+      "publisher": "Yahoo",
+      "date": "2026-06-10",
+      "impact": "medium",
+      "category": "公司策略",
+      "reason": "Apple 過去投入數十億美元的自動駕駛計畫最終以出售測試場地告終，凸顯資源配置的失敗與戰略轉向的陣痛。"
+    },
+    {
+      "rank": 4,
+      "title": "Apple's AI Push Deepens Alphabet Dependency",
+      "publisher": "Yahoo",
+      "date": "2026-06-10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Siri 的升級依賴 Google 的 AI 架構，引發市場對於 Apple 核心競爭力與隱私政策的擔憂。"
+    },
+    {
+      "rank": 5,
+      "title": "Apple Reveals Siri AI, But Gene Munster Asks The Key Question: 'Do They Have The AI Chops To Deliver?'",
+      "publisher": "Yahoo",
+      "date": "2026-06-10",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "知名分析師 Gene Munster 對 Apple 是否具備足夠的 AI 技術實力以兌現承諾提出質疑。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "WWDC splits the Mag 7 trade: Apple pressured near term, Alphabet boosted by AI demand",
+      "publisher": "CNBC",
+      "date": "2026-06-09",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場資金在科技巨頭間輪動，Apple 因 WWDC 後的短期失望情緒而受壓，但整體科技板塊仍受 AI 需求支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Jim Cramer Notes “Of the Big-Cap Stocks, Apple Had Been the Cleanest Story”",
+      "publisher": "Yahoo",
+      "date": "2026-06-10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Jim Cramer 評論 Apple 過去是大型股中最穩健的標的，但在當前市場環境下也難以倖免於波動。"
+    },
+    {
+      "rank": 3,
+      "title": "Stocks making the biggest moves midday",
+      "publisher": "CNBC",
+      "date": "2026-06-09",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅列出 Apple 為當日盤中波動較大的個股，未提供具體利多或利空分析。"
+    },
+    {
+      "rank": 4,
+      "title": "Countdown to Apple's WWDC",
+      "publisher": "CNBC",
+      "date": "2026-06-08",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "發布會前的預測討論，屬於事件前的市場情緒觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,102 @@
+{
+  "ticker": "ARM",
+  "company": "Arm Holdings plc",
+  "analysis_date": "2026-06-11",
+  "source_file": "cache/2026-06-11/candidates/news/ARM.json",
+  "summary": {
+    "total_articles": 14,
+    "bullish_count": 5,
+    "bearish_count": 6,
+    "neutral_count": 3,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管 AI 基礎設施需求強勁且分析師持續上調目標價，但近期面臨半導體板塊獲利了結賣壓、出口管制風險以及內部人拋售的壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Mizuho Maintains Outperform on ARM Holdings, Raises Price Target to $500",
+      "publisher": "Benzinga",
+      "date": "2026-06-04",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Mizuho 分析師 Vijay Rakesh 基於 Agentic AI 的成長潛力，將目標價大幅上調至 $500，顯示機構對其長期技術優勢的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Forget GPUs: AMD, NVDA, INTC, ARM Are Chasing AI's Next Big Prize — The $120B CPU Market",
+      "publisher": "Yahoo",
+      "date": "2026-06-05",
+      "impact": "medium",
+      "category": "市場趨勢",
+      "reason": "強調 CPU 在 AI 推論中的關鍵地位，Arm 作為架構供應商將在 1,200 億美元的 CPU 市場中持續受惠。"
+    },
+    {
+      "rank": 3,
+      "title": "Arm Holdings Surged on Nvidia's New Chip Announcement",
+      "publisher": "Yahoo",
+      "date": "2026-06-04",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "受惠於 Nvidia 新晶片發布帶動的生態系成長，市場看好 Arm 在 AI 運算領域的滲透率。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Arm’s AI Data Center Push Meets Export Hurdles And Lofty Valuation",
+      "publisher": "Yahoo",
+      "date": "2026-06-05",
+      "impact": "high",
+      "category": "監管風險",
+      "reason": "執行長提及對中國的出口管制限制了 AI CPU 的出貨，加上高估值引發市場對成長持續性的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Qualcomm Drops 6%, Arm Holdings Falls 5% as Mobile-Chip Stocks Slide in the Selloff",
+      "publisher": "Yahoo",
+      "date": "2026-06-10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受半導體板塊整體賣壓影響，Arm 與同業 Qualcomm 同步下跌，反映市場對高估值科技股的獲利了結心態。"
+    },
+    {
+      "rank": 3,
+      "title": "Arm Insiders Sold $25.6 Million in Stock",
+      "publisher": "Yahoo",
+      "date": "2026-06-05",
+      "impact": "medium",
+      "category": "公司治理",
+      "reason": "內部人拋售 2,560 萬美元股票，儘管是例行操作，但仍可能引發投資人對股價短期高點的疑慮。"
+    },
+    {
+      "rank": 4,
+      "title": "Jim Cramer on Arm Holdings: “I Wish I Had Kicked It Out Altogether”",
+      "publisher": "Yahoo",
+      "date": "2026-06-10",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "知名評論員 Jim Cramer 的負面言論增加了市場情緒的波動，反映出部分投資人對近期股價回調的焦慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Up 200% YTD, This Is Where Arm Holdings Will End The Year",
+      "publisher": "Yahoo",
+      "date": "2026-06-10",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "回顧今年以來 200% 的漲幅，並對年底走勢進行展望，屬於中性的趨勢回顧報導。"
+    },
+    {
+      "rank": 2,
+      "title": "Arm Holdings (NasdaqGS:ARM) Valuation Check After Sector Selloff",
+      "publisher": "Yahoo",
+      "date": "2026-06-09",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "針對板塊回調後的估值進行客觀檢視，未給出明確買賣建議，僅提供數據參考。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
