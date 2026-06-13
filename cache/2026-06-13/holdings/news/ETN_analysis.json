@@ -1,0 +1,84 @@
+{
+  "ticker": "ETN",
+  "company": "Eaton",
+  "analysis_date": "2026-06-11",
+  "source_file": "cache/2026-06-11/holdings/news/ETN.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管受惠於 AI 資料中心與電氣化需求帶動長期成長，但近期股價面臨高估值修正壓力與市場波動。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "How Eaton’s Upgraded AI Data Center Outlook At Eaton (ETN) Has Changed Its Investment Story",
+      "publisher": "Yahoo",
+      "date": "2026-06-04 05:12",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第一季財報優於預期，並上調全年每股盈餘 (EPS) 預測，顯示 AI 資料中心基礎設施需求強勁，為股價提供長期基本面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Analysts Continue To Raise Expectations For Eaton (ETN)",
+      "publisher": "Yahoo",
+      "date": "2026-06-04 13:29",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師持續調升預期，且該公司被列為電氣化領域最佳標的之一，低空頭比例顯示市場對其未來表現信心充足。"
+    },
+    {
+      "rank": 3,
+      "title": "Zacks Investment Ideas feature highlights: Caterpillar, Vertiv and Eaton",
+      "publisher": "Yahoo",
+      "date": "2026-06-08 14:56",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 Eaton 與 Caterpillar 等工業龍頭並列，強調其在電力需求成長趨勢下的產業地位，有助於維持市場關注度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Eaton (ETN) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 21:50",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價單日下跌 6.54 %，跌幅超過大盤，反映出在近期高漲後，市場出現獲利了結賣壓與技術性修正。"
+    },
+    {
+      "rank": 2,
+      "title": "Eaton Rallies 32% YTD: Should Investors Bet on the Stock Now?",
+      "publisher": "Yahoo",
+      "date": "2026-06-04 18:11",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "年初至今漲幅達 32 %，文章提醒投資人需警惕過高的估值溢價，可能導致短期股價回調風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Why Is Eaton (ETN) Down 0% Since Last Earnings Report?",
+      "publisher": "Yahoo",
+      "date": "2026-06-04 15:30",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "針對財報後一個月股價表現的例行性回顧，未提供新的重大催化劑，僅作為市場數據追蹤。"
+    },
+    {
+      "rank": 2,
+      "title": "Edison International Wildfire Progress And Policy Stance Shape Valuation Debate",
+      "publisher": "Yahoo",
+      "date": "2026-06-06 08:06",
+      "impact": "low",
+      "category": "法規",
+      "reason": "新聞主要討論 Edison International 的野火賠償進度，僅提及 Eaton Fire 受害者，對 Eaton (ETN) 本身業務影響極小。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,83 @@
+{
+  "ticker": "FFIV",
+  "company": "F5",
+  "analysis_date": "2026-06-11",
+  "source_file": "cache/2026-06-11/candidates/news/FFIV.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 4,
+    "bearish_count": 0,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "F5 憑藉 AI 驅動的資安解決方案與強勁的產品更新週期，獲得分析師調升目標價並看好其長期成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "RBC Capital Maintains Outperform on F5, Raises Price Target to $450",
+      "publisher": "Benzinga",
+      "date": "2026-06-09 10:51",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "RBC Capital 分析師 Matthew Hedberg 維持對 F5 的「優於大盤」評級，並將目標價調升至 450 美元，顯示市場對其業務前景信心增強。"
+    },
+    {
+      "rank": 2,
+      "title": "F5 Positioned for Extended 'Refresh Plus' Growth Cycle, RBC Says",
+      "publisher": "Yahoo",
+      "date": "2026-06-09 15:12",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師指出 F5 正處於「更新加成」 (Refresh Plus) 的成長週期，預期產品升級需求將推動公司營收持續增長。"
+    },
+    {
+      "rank": 3,
+      "title": "F5 Expands AI-powered WAAP Solutions to Arm Enterprises Against Frontier AI Threats",
+      "publisher": "Yahoo",
+      "date": "2026-06-09 13:00",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "F5 擴展其 AI 驅動的 WAAP 解決方案，旨在防禦前沿 AI 威脅，此舉有助於鞏固其在應用程式與 API 安全領域的領導地位。"
+    },
+    {
+      "rank": 4,
+      "title": "Assessing F5 (FFIV) Valuation As Shares Trade Near Estimated 3% Intrinsic Discount",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 14:04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場分析顯示 F5 目前股價相較於內在價值存在約 3% 的折價，暗示股價具備一定的安全邊際與上漲空間。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "DOCU vs. FFIV: Which Stock Should Value Investors Buy Now?",
+      "publisher": "Yahoo",
+      "date": "2026-06-04 15:40",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "此文為針對 DOCU 與 FFIV 的價值投資比較，並未提供具體的買入或賣出建議，僅供投資人參考比較。"
+    },
+    {
+      "rank": 2,
+      "title": "F5, Inc. (FFIV) Shareholder/Analyst Call Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-04 05:11",
+      "impact": "low",
+      "category": "財報會議",
+      "reason": "提供股東與分析師會議的逐字稿，屬於例行性資訊披露，未包含具體利多或利空消息。"
+    },
+    {
+      "rank": 3,
+      "title": "How Investors Are Reacting To F5 (FFIV) Automating TLS Certificate Management With Encryption Consulting Integration",
+      "publisher": "Simply Wall St.",
+      "date": "2026-06-03 21:19",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導關於 F5 自動化 TLS 憑證管理的市場反應，屬於技術性整合更新，對股價影響程度有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

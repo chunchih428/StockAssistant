@@ -1,0 +1,201 @@
+{
+  "ticker": "NVDA",
+  "company": "NVIDIA",
+  "analysis_date": "2026-06-11",
+  "source_file": "cache/2026-06-11/holdings/news/NVDA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 8,
+    "bearish_count": 6,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "NVIDIA 積極布局人形機器人與記憶體供應鏈，但受整體半導體板塊回調及市場對 AI 泡沫化的擔憂影響，股價呈現多空拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Humanoid robotics company raises up to $1.4 billion from Nvidia, Amazon and others",
+      "publisher": "CNBC",
+      "date": "2026-06-10 11:56",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "NVIDIA 透過投資 Neura Robotics 參與 14 億美元融資，顯示其在物理 AI 與人形機器人領域的戰略布局，有助於擴大 GPU 應用場景。"
+    },
+    {
+      "rank": 2,
+      "title": "Nvidia Corp (NVDA) Strengthens AI Platform with Micron HBM4",
+      "publisher": "Yahoo",
+      "date": "2026-06-11 00:58",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "與 Micron 合作導入 HBM4 記憶體，能有效提升 AI 資料中心平台的運算效能，鞏固其在硬體供應鏈的競爭優勢。"
+    },
+    {
+      "rank": 3,
+      "title": "Nvidia (NVDA) Valuation Check After Major South Korea AI Memory And Data Center Agreements",
+      "publisher": "Yahoo",
+      "date": "2026-06-11 00:20",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "與 SK hynix 簽署長期記憶體供應協議，確保了關鍵零組件的供應穩定性，對維持未來營收成長至關重要。"
+    },
+    {
+      "rank": 4,
+      "title": "Nvidia Stock Trades Cheaper Than the S&P 500, and Looks Even More Like a Value Play",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 20:32",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 NVIDIA 目前估值已低於 S&P 500 指數，具備價值投資吸引力，可能吸引長線資金進場。"
+    },
+    {
+      "rank": 5,
+      "title": "SpaceX Just Announced Fantastic News to Nvidia Stock Investors",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 20:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Google 支付 SpaceX 9.2 億美元以獲取 GPU 算力，間接證明市場對 NVIDIA 高階 GPU 的強勁需求。"
+    },
+    {
+      "rank": 6,
+      "title": "Nvidia is undervalued, says Wedbush's Matt Bryson",
+      "publisher": "CNBC",
+      "date": "2026-06-10 10:32",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Wedbush 分析師公開看好 NVIDIA 估值，為市場提供正面信心支撐。"
+    },
+    {
+      "rank": 7,
+      "title": "AmpliTech Group (AMPG) Is Up 42.6% After Unique AI-RAN Open RAN Breakthrough With NVIDIA",
+      "publisher": "Yahoo",
+      "date": "2026-06-11 02:12",
+      "impact": "low",
+      "category": "技術合作",
+      "reason": "與 AmpliTech 的技術突破顯示 NVIDIA 在 AI-RAN 領域的技術生態系持續擴張。"
+    },
+    {
+      "rank": 8,
+      "title": "Jensen Huang Thinks the Artificial Intelligence (AI) Memory Boom Is Impossible to Ignore",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 22:35",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "執行長黃仁勳強調記憶體短缺將持續數年，暗示 NVIDIA 產品需求將維持長期高檔。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Stock Market Today, June 10: Super Micro Computer, Nvidia, Micron Fall as Risk-Off Mood Intensifies",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 21:20",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "受總體經濟風險與 Super Micro 拋售影響，AI 硬體板塊集體回調，市場避險情緒升溫。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom and AMD Sink 4%, NVIDIA Slides 3% as the Chip Selloff Deepens",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 15:49",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "半導體板塊出現賣壓，NVIDIA 股價隨大盤下跌，反映短期獲利了結壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "Michael Burry's NVDA, PLTR Shorts Are Paying Off—And More Trouble May Be Coming For AI Stocks",
+      "publisher": "Benzinga",
+      "date": "2026-06-10 13:39",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名投資人 Michael Burry 的放空策略獲利，加劇市場對 AI 泡沫化的擔憂。"
+    },
+    {
+      "rank": 4,
+      "title": "China's control over indium phosphide exports threatens AI data centre rollout",
+      "publisher": "Yahoo",
+      "date": "2026-06-11 01:02",
+      "impact": "medium",
+      "category": "法規與供應鏈",
+      "reason": "關鍵原料磷化銦出口受限，可能影響資料中心擴建進度，對 NVIDIA 供應鏈構成潛在風險。"
+    },
+    {
+      "rank": 5,
+      "title": "Anti-Nvidia Data Center Startup Is Valued at $1.55 Billion in New Funding Round",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 09:00",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "競爭對手 TensorWave 獲得融資並採用 AMD 晶片，顯示市場出現針對 NVIDIA 的替代方案。"
+    },
+    {
+      "rank": 6,
+      "title": "Jim Cramer Describes Bitcoin, Gold As 'Bad Money' Getting Dumped For SpaceX — But 'Good Money' Apple And Nvidia Not Spared Either",
+      "publisher": "Yahoo",
+      "date": "2026-06-11 03:10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場情緒轉弱導致優質股如 NVIDIA 也遭到拋售，反映市場流動性壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Jim Cramer Says He Is Not Changing His “Own NVIDIA, Don’t Trade It” View",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 15:39",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "Jim Cramer 重申長期持有觀點，對股價短期波動無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "NVIDIA’s (NVDA) CEO and South Korea’s SK Group Expected to Announce Collaboration Plans",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 17:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此為預期中的合作消息，市場已部分反映，屬中性資訊。"
+    },
+    {
+      "rank": 3,
+      "title": "NVIDIA Gets the Headlines, But Micron Could Offer More Upside",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 12:45",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "比較性分析，強調 Micron 的潛力，對 NVIDIA 本身無負面影響。"
+    },
+    {
+      "rank": 4,
+      "title": "Amazon Is the Latest AI Giant to Sign a Blockbuster Deal With This Under-the-Radar Semiconductor Company",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 22:50",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "報導提及其他半導體公司與 Amazon 的合作，對 NVIDIA 市占率影響有限。"
+    },
+    {
+      "rank": 5,
+      "title": "Tether, Nvidia and Amazon Back Humanoid Robotics Firm NEURA in $1.4 Billion Funding Round",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 19:30",
+      "impact": "low",
+      "category": "市場擴張",
+      "reason": "與第一篇新聞重複，選定 CNBC 版本作為代表，此處歸類為中性重複資訊。"
+    },
+    {
+      "rank": 6,
+      "title": "Neura Robotics Raises $1.4 Billion As Humanoid AI Race Accelerates",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 19:39",
+      "impact": "low",
+      "category": "市場擴張",
+      "reason": "與第一篇新聞重複，歸類為中性重複資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

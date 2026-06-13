@@ -1,0 +1,102 @@
+{
+  "ticker": "PANW",
+  "company": "Palo Alto Networks",
+  "analysis_date": "2026-06-11",
+  "source_file": "cache/2026-06-11/candidates/news/PANW.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 4,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司憑藉 AI 驅動的資安平台實現強勁營收成長，儘管短期面臨獲利壓力與股價回調，但市場對其長期成長動能與市場領導地位仍持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Palo Alto Networks Hits $10B Revenue Run Rate Beats S&P 500 Across All Timeframes",
+      "publisher": "Yahoo",
+      "date": "2026-06-09 14:43",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司營收達到 100 億美元的運行率，顯示其從傳統防火牆供應商成功轉型為 AI 資安平台，長期成長動能強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "Wedbush Raises PT on Palo Alto Networks (PANW)",
+      "publisher": "Yahoo",
+      "date": "2026-06-06 17:15",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Wedbush 基於公司 5 月份的強勁表現與市場領導地位上調目標價，反映華爾街對其後市看好。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Prisma AIRS Becoming Palo Alto Networks' Fastest Growth Engine?",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 14:09",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Prisma AIRS 產品線展現快速採用率，成為推動公司 AI 資安業務成長的核心引擎。"
+    },
+    {
+      "rank": 4,
+      "title": "Palo Alto Networks Delivers Strong FCF Margins - Is PANW Worth $350?",
+      "publisher": "Yahoo",
+      "date": "2026-06-08 13:00",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "自由現金流 (FCF) 成長 57%，且 FCF 利潤率提升至 37.5%，顯示公司具備極佳的資本配置與獲利能力。"
+    },
+    {
+      "rank": 5,
+      "title": "Cisco And Palo Alto Could Be Major Winners From Anthropic's Mythos AI",
+      "publisher": "Yahoo",
+      "date": "2026-06-04 18:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Jim Cramer 指出公司與 Anthropic 的合作將使其在 AI 資安領域取得競爭優勢。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "PANW Stock Declines 9% Post Q3 Results: Should You Buy, Sell or Hold?",
+      "publisher": "Yahoo",
+      "date": "2026-06-08 14:21",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "儘管營收成長，但財報顯示成本上升導致利潤率受壓，引發市場對短期獲利能力的擔憂，導致股價回調。"
+    },
+    {
+      "rank": 2,
+      "title": "Palo Alto Networks (PANW) Is Up 12.9% After AI-Fueled Revenue Jump But Profit Turns To Loss",
+      "publisher": "Yahoo",
+      "date": "2026-06-04 16:08",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "財報顯示雖然營收大幅成長，但出現虧損，顯示公司在擴張 AI 業務的同時，營運成本控制面臨挑戰。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "A Look At Palo Alto Networks (PANW) Valuation After Recent Share Price Pullback",
+      "publisher": "Yahoo",
+      "date": "2026-06-09 05:11",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對股價回調後的估值進行分析，提供投資人中性的觀點，未給出明確買賣建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Here is What to Know Beyond Why Palo Alto Networks, Inc. (PANW) is a Trending Stock",
+      "publisher": "Yahoo",
+      "date": "2026-06-08 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅探討該股成為熱門搜尋標的的原因，屬於市場情緒觀察，對股價無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
