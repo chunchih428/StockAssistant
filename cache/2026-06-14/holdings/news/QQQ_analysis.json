@@ -1,0 +1,46 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-06-14",
+  "source_file": "cache/2026-06-14/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 0,
+    "bearish_count": 3,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "科技股與 AI 相關類股面臨市場廣度轉弱、高層內部拋售以及聯準會升息預期帶來的修正壓力。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "QQQ: The $700 Billion AI Bet That Could Blow Up In Everyone's Face",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-08 08:00",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "該文指出 QQQ 在 740 美元價位面臨沉重賣壓，並列舉了高層內部拋售、過度激進的 AI 資本支出以及聯準會升息風險，為目前最全面的利空分析。"
+    },
+    {
+      "rank": 2,
+      "title": "AI Selloff Hits Breadth as Indexes Pull Back From Breakout Highs",
+      "publisher": "ChartMill",
+      "date": "2026-06-11 11:55",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場廣度在 6 月 10 日顯著惡化，顯示 AI 領漲板塊動能減弱，導致 QQQ 從近期高點回落，反映出投資人信心動搖。"
+    },
+    {
+      "rank": 3,
+      "title": "Breadth Breaks Lower as Tech Rout Hits the Indexes",
+      "publisher": "ChartMill",
+      "date": "2026-06-08 10:16",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "技術面顯示 QQQ 已跌破短期移動平均線，市場參與度下降，確認了科技股修正的趨勢。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

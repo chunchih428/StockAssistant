@@ -1,0 +1,93 @@
+{
+  "ticker": "TER",
+  "company": "Teradyne, Inc.",
+  "analysis_date": "2026-06-14",
+  "source_file": "cache/2026-06-14/holdings/news/TER.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 11,
+    "bearish_count": 6,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "Teradyne 受惠於 AI 晶片測試需求強勁及與 Tokyo Electron 的策略合作，並獲納入 Nasdaq-100 指數，儘管面臨總體經濟與地緣政治波動的短期股價震盪。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Five AI and Space Names Join the Nasdaq-100 — Rocket Lab, Astera Labs, CoreWeave, Nebius, and Teradyne replace five index constituents in the quarterly rebalance",
+      "publisher": "Yahoo",
+      "date": "2026-06-12 12:46",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "獲納入 Nasdaq-100 指數將帶來被動資金流入，顯著提升市場能見度與流動性。"
+    },
+    {
+      "rank": 2,
+      "title": "Teradyne Introduces Integrated Test Solution for AI and Data Center Devices in Collaboration with Tokyo Electron",
+      "publisher": "Yahoo",
+      "date": "2026-06-08 13:00",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "與 Tokyo Electron 合作開發 AI 晶片測試解決方案，強化了公司在 AI 與資料中心測試領域的技術護城河。"
+    },
+    {
+      "rank": 3,
+      "title": "Teradyne Robotics Unveils Wide Range of Production-Ready Physical AI Applications at Automate 2026",
+      "publisher": "Yahoo",
+      "date": "2026-06-11 13:00",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "展示具備實際部署能力的物理 AI 機器人應用，顯示公司在自動化領域的成長潛力。"
+    },
+    {
+      "rank": 4,
+      "title": "Teradyne's AI Push Gains Traction: Is the Growth Thesis Strengthening?",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 17:17",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "AI 相關業務營收占比已達 70%，成長邏輯持續獲得市場驗證。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "onsemi, Teradyne, and Penguin Solutions Shares Are Falling, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-06-11 00:25",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受美國 CPI 年增率達 4.2% 的通膨數據影響，市場對高估值科技股進行修正。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Cathie Wood Making Room For SpaceX? ARK Funds Dump Over $200M Across 20 Stocks Ahead Of Mega IPO",
+      "publisher": "Yahoo",
+      "date": "2026-06-12 07:01",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "ARK 基金減持 Teradyne 等股票以籌措資金，短期內對股價造成賣壓。"
+    },
+    {
+      "rank": 3,
+      "title": "Skyworks Solutions, Western Digital, and Teradyne Shares Are Falling, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-06-09 21:58",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "地緣政治緊張（荷姆茲海峽事件）導致市場避險情緒升溫，拖累半導體類股表現。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "KLA Corporation, Amkor, and Teradyne Shares Skyrocket, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-06-13 00:21",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價波動主要受地緣政治消息（伊朗軍事衝突取消）驅動，屬於市場情緒面的短期反應。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

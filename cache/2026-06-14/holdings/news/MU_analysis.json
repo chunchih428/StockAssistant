@@ -1,0 +1,102 @@
+{
+  "ticker": "MU",
+  "company": "Micron Technology",
+  "analysis_date": "2026-06-14",
+  "source_file": "cache/2026-06-14/holdings/news/MU.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 驅動的 HBM 高頻寬記憶體需求強勁，分析師持續上調目標價，市場對其成長動能持高度樂觀態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "What's Going On With Micron Stock Friday? — Wolfe Research raises MU price target to $1,250",
+      "publisher": "Benzinga",
+      "date": "2026-06-12 06:18",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Wolfe Research 將目標價大幅調升至 1,250 美元，理由是預期記憶體供應短缺將持續至 2027 年，為股價提供強勁支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Micron Technology (MU) Stock Valuation After AI Megafab Partnership And Bullish Analyst Upgrades",
+      "publisher": "Yahoo",
+      "date": "2026-06-12 16:14",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "華爾街研究報告普遍看好，加上與 AI 巨型晶圓廠的合作夥伴關係，進一步鞏固了 Micron 在 AI 基礎設施中的核心地位。"
+    },
+    {
+      "rank": 3,
+      "title": "Micron vs. NVIDIA: One AI Stock Is a Clear Buy Right Now",
+      "publisher": "Yahoo",
+      "date": "2026-06-12 19:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 Micron 在 HBM 需求帶動下，利潤率與營收成長動能優於 NVIDIA，被視為當前 AI 領域的明確買入標的。"
+    },
+    {
+      "rank": 4,
+      "title": "Micron Technology, Inc. (MU) Is A Top AI Stock In Ken Griffin’s Portfolio",
+      "publisher": "Yahoo",
+      "date": "2026-06-11 17:30",
+      "impact": "medium",
+      "category": "機構持倉",
+      "reason": "億萬富翁 Ken Griffin 將 Micron 列為其投資組合中的頂級 AI 股票，顯示機構投資人對其長期價值的認可。"
+    },
+    {
+      "rank": 5,
+      "title": "Micron Shares Climb Over 3% After Key Trading Signal",
+      "publisher": "Benzinga",
+      "date": "2026-06-11 14:25",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "技術面出現關鍵買入訊號，股價隨後上漲超過 3%，顯示市場買盤動能強勁。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Micron Technology Stock Is Falling. Should You Buy the Dip?",
+      "publisher": "Yahoo",
+      "date": "2026-06-11 14:20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場擔憂高估值以及 SpaceX IPO 可能帶來的資金排擠效應，導致部分投資人對科技股採取謹慎態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Nasdaq, S&P 500, Dow Futures Rebound Ahead Of PPI Data Even As Iran Tensions Simmer",
+      "publisher": "Yahoo",
+      "date": "2026-06-11 08:56",
+      "impact": "low",
+      "category": "總體經濟",
+      "reason": "地緣政治緊張（伊朗局勢）與零售交易員情緒轉趨保守，對整體科技股板塊造成短期壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Insights Into Micron Technology's Performance Versus Peers In Semiconductors & Semiconductor Equipment Sector",
+      "publisher": "Benzinga",
+      "date": "2026-06-12 05:58",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "僅為同業績效比較分析，未提供具體買賣建議或重大營運變動資訊。"
+    },
+    {
+      "rank": 2,
+      "title": "Stocks making the biggest moves midday: Apple, Micron Technology, Coherent, DraftKings, J.M. Smucker & more",
+      "publisher": "CNBC",
+      "date": "2026-06-09 13:12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為盤中交易熱門股清單，未涉及公司基本面分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

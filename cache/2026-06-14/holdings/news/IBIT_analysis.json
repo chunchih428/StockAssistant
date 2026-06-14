@@ -1,0 +1,111 @@
+{
+  "ticker": "IBIT",
+  "company": "Bitcoin",
+  "analysis_date": "2026-06-14",
+  "source_file": "cache/2026-06-14/holdings/news/IBIT.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 2,
+    "bearish_count": 5,
+    "neutral_count": 3,
+    "overall_sentiment": "bearish",
+    "key_theme": "比特幣近期經歷顯著回調與去槓桿壓力，導致 IBIT 面臨資金流出與市場情緒轉弱，儘管 BlackRock 嘗試透過推出收益型 ETF 產品來吸引投資人。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "BlackRock To Launch Income-Paying Bitcoin ETF",
+      "publisher": "CryptoProwl",
+      "date": "2026-06-11",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "BlackRock 計劃推出收益型比特幣 ETF，旨在透過選擇權策略為投資人創造現金流，此舉有望在市場低迷時吸引尋求穩定收益的資金，故選此篇作為代表。"
+    },
+    {
+      "rank": 2,
+      "title": "Bitcoin Price Forms Risky Pattern as It Suffers $4.4 Billion Headwind",
+      "publisher": "Benzinga",
+      "date": "2026-06-13",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出比特幣在油價下跌與逢低買盤支撐下，價格回升至 64,250 美元以上，對 IBIT 股價具備短期技術性支撐意義。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "The AP Mechanisms That Crashed Bitcoin And Ethereum ETFs Are Now Set Up To Reverse",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-11",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "分析指出 ETF 的資金流出主要由去槓桿化驅動，而非投資人長期放棄，但短期內強勁的賣壓仍對 IBIT 股價構成沉重壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Bitcoin Faces An 'Irrational' Sell-Off—What The Data Warns About These 5 ETFs",
+      "publisher": "Benzinga",
+      "date": "2026-06-10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場出現非理性的拋售潮，數據顯示 IBIT 等比特幣 ETF 正面臨修正風險，投資人信心受到顯著打擊。"
+    },
+    {
+      "rank": 3,
+      "title": "After Bitcoin Crash, Can the hype for HYPE ETFs Continue?",
+      "publisher": "Zacks",
+      "date": "2026-06-10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "比特幣價格崩跌後，市場開始質疑比特幣 ETF 的熱度是否能延續，對 IBIT 的長期資金流入前景提出負面預期。"
+    },
+    {
+      "rank": 4,
+      "title": "Forget Bitcoin ETFs: This Crypto Stock Fund Is Up 11% YTD While Bitcoin Drops 29%",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-06-12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "比較數據顯示加密貨幣股票基金表現優於比特幣 ETF，這可能導致資金從 IBIT 等純比特幣 ETF 轉移至其他加密相關資產。"
+    },
+    {
+      "rank": 5,
+      "title": "How to Hedge IBIT and Earn Income With Options Through a Bitcoin Bear Market",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-06-12",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "文章探討如何在熊市中透過選擇權對沖 IBIT，反映出市場對比特幣持續下跌的擔憂，並鼓勵投資人採取防禦性策略。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "After Bitcoin’s Latest Drawdown These IBIT Option Trades Pay You to Wait for the Recovery",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-06-12",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "提供選擇權交易策略以應對回調，屬於中性的技術性操作建議，不直接改變 IBIT 的基本面價值。"
+    },
+    {
+      "rank": 2,
+      "title": "The IBIT Options Strategy That Pays You To Harvest Bitcoin Volatility",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-06-12",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "討論如何利用波動率進行選擇權獲利，屬於市場中性的交易技巧分享。"
+    },
+    {
+      "rank": 3,
+      "title": "Bitcoin ETF News: BlackRock Is Building a BTC ETF That Pays You",
+      "publisher": "99bitcoins",
+      "date": "2026-06-11",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "此篇為 BlackRock 收益型 ETF 的補充報導，內容與前述利多新聞重複，故歸類為中性資訊補充。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

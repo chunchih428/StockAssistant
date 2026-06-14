@@ -1,0 +1,93 @@
+{
+  "ticker": "GTLB",
+  "company": "GitLab Inc.",
+  "analysis_date": "2026-06-14",
+  "source_file": "cache/2026-06-14/candidates/news/GTLB.json",
+  "summary": {
+    "total_articles": 12,
+    "bullish_count": 7,
+    "bearish_count": 3,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "GitLab 透過深化與 Google Cloud 的 AI 合作及強化 DevSecOps 平台功能，展現強勁的營收成長潛力，儘管面臨裁員重組的短期波動，分析師仍普遍看好其長期上漲空間。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "GitLab And Google Cloud Deepen Partnership, Launching Fully Managed DevSecOps Platform With Latest Gemini 3.5 And Gemma 4 AI Models",
+      "publisher": "Benzinga",
+      "date": "2026-06-10",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "此篇新聞涵蓋了與 Google Cloud 的深度合作細節，包含導入 Gemini 3.5 與 Gemma 4 模型，相較於其他簡短報導，此篇能更完整呈現公司在 AI 領域的技術競爭力。"
+    },
+    {
+      "rank": 2,
+      "title": "Wall Street Predicts GitLab Stock Will Soar 110%. Here’s Why.",
+      "publisher": "Barchart",
+      "date": "2026-06-07",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "分析師對該股給予極高的潛在漲幅預期，反映市場對其營收成長與 AI 轉型策略的高度信心。"
+    },
+    {
+      "rank": 3,
+      "title": "BTIG Reiterates Buy on GitLab, Maintains $36 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-06-11",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "BTIG 分析師 Nick Altmann 重申買入評級與 36 美元目標價，為股價提供穩定的基本面支撐。"
+    },
+    {
+      "rank": 4,
+      "title": "How The GitLab (GTLB) Story Is Shifting With Q1 Beats AI And Restructuring",
+      "publisher": "Simply Wall St.",
+      "date": "2026-06-06",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "深入探討第一季財報優於預期後的轉型故事，強調 AI 整合與組織重組對長期獲利能力的正面影響。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "GitLab Shares Sink After Layoff News. Why Analysts Still See Massive Upside.",
+      "publisher": "Barchart",
+      "date": "2026-06-06",
+      "impact": "medium",
+      "category": "公司營運",
+      "reason": "報導裁員消息導致股價短期承壓，雖然分析師看好長期，但裁員通常被視為營運調整的陣痛期。"
+    },
+    {
+      "rank": 2,
+      "title": "CLEAR Secure, GitLab, and Procore Technologies Shares Are Falling, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-06-10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "反映市場情緒導致的股價下跌，屬於短期波動，並非公司基本面惡化。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "GitLab Inc. (GTLB) Presents at GitLab Transcend-London Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-12",
+      "impact": "low",
+      "category": "投資人會議",
+      "reason": "執行長 William Staples 的會議發言屬於例行性業務更新，未釋出重大超預期消息。"
+    },
+    {
+      "rank": 2,
+      "title": "5 Revealing Analyst Questions From GitLab’s Q1 Earnings Call",
+      "publisher": "StockStory",
+      "date": "2026-06-09",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "整理財報會議中的分析師提問，旨在釐清營運細節，對股價影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
