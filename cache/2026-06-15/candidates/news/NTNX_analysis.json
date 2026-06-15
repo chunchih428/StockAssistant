@@ -1,0 +1,56 @@
+{
+  "ticker": "NTNX",
+  "company": "Nutanix, Inc.",
+  "analysis_date": "2026-06-14",
+  "source_file": "cache/2026-06-14/candidates/news/NTNX.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 4,
+    "overall_sentiment": "neutral",
+    "key_theme": "近期 Nutanix 缺乏重大基本面催化劑，股價主要受市場波動與 AI 競爭環境影響，企業社會責任活動對財務影響有限。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Zscaler, Dynatrace, and Nutanix Shares Are Falling, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-06-09 23:42",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受 Anthropic 發布 Claude Fable 5 與 Claude Mythos 5 等新 AI 模型影響，市場對軟體與雲端基礎設施類股產生輪動壓力，導致 Nutanix 股價隨同業下跌。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "San José Mineta International Airport, Nutanix and Children’s Discovery Museum of San Jose to Create New Sensory-Friendly Room",
+      "publisher": "Yahoo",
+      "date": "2026-06-09 13:00",
+      "impact": "low",
+      "category": "企業社會責任",
+      "reason": "公司參與機場感官友善空間建設，屬於品牌形象與 ESG 範疇，對 Nutanix 的核心雲端軟體業務與財務表現無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Most-Watched Stock Nutanix (NTNX) Worth Betting on Now?",
+      "publisher": "Zacks",
+      "date": "2026-06-11 13:00",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "此為針對投資人關注度的常規分析，未提供新的財報數據或業務轉折點，僅作為市場情緒的觀察指標。"
+    },
+    {
+      "rank": 3,
+      "title": "Is It Time To Reassess Nutanix (NTNX) After Its Volatile Share Price Performance?",
+      "publisher": "Yahoo",
+      "date": "2026-06-11 15:09",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "文章針對 49.66 美元價位進行估值回顧，屬於技術性與基本面回顧，並未提出明確的買入或賣出評級變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

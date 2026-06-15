@@ -1,0 +1,74 @@
+{
+  "ticker": "FFIV",
+  "company": "F5",
+  "analysis_date": "2026-06-14",
+  "source_file": "cache/2026-06-14/candidates/news/FFIV.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 4,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "F5 憑藉 AI 驅動的安全解決方案與 「更新週期」 帶動的成長動能，獲得分析師調升目標價與正面評價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "RBC Capital Maintains Outperform on F5, Raises Price Target to $450",
+      "publisher": "Benzinga",
+      "date": "2026-06-09 10:51",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "RBC Capital 分析師 Matthew Hedberg 維持對 F5 的 「優於大盤」 評級，並將目標價調升至 450 美元，顯示市場對其長期成長潛力信心增強。"
+    },
+    {
+      "rank": 2,
+      "title": "F5 Expands AI-powered WAAP Solutions to Arm Enterprises Against Frontier AI Threats",
+      "publisher": "Yahoo",
+      "date": "2026-06-09 13:00",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "F5 擴展其 AI 驅動的 WAAP 解決方案，旨在防禦前沿 AI 威脅，此舉強化了公司在網路安全領域的競爭護城河。"
+    },
+    {
+      "rank": 3,
+      "title": "F5 Positioned for Extended 'Refresh Plus' Growth Cycle, RBC Says",
+      "publisher": "Yahoo",
+      "date": "2026-06-09 15:12",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "RBC 指出 F5 受益於 「更新週期」 (Refresh Plus) 動態，預期將帶動公司進入更長期的成長循環，基本面展望樂觀。"
+    },
+    {
+      "rank": 4,
+      "title": "Organisations will need AI-powered security: F5 CEO",
+      "publisher": "CNBC",
+      "date": "2026-06-11 11:09",
+      "impact": "low",
+      "category": "高層觀點",
+      "reason": "執行長 François Locoh-Donou 強調 AI 驅動安全的重要性，有助於提升市場對 F5 產品組合在 AI 時代戰略地位的認知。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Assessing F5 (FFIV) Valuation As Shares Trade Near Estimated 3% Intrinsic Discount",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 14:04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報告指出股價處於內在價值折價 3% 附近，屬於中性估值分析，未提供明確的買賣訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "DOCU vs. FFIV: Which Stock Should Value Investors Buy Now?",
+      "publisher": "Zacks",
+      "date": "2026-06-04 15:40",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "此類比較文章旨在提供價值投資者參考，屬於一般市場分析，對股價短期波動影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
