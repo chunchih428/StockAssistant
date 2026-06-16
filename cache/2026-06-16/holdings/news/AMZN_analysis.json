@@ -1,0 +1,120 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-06-14",
+  "source_file": "cache/2026-06-14/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 11,
+    "bearish_count": 5,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "亞馬遜持續透過大規模 AI 基礎設施投資與自研晶片鞏固 AWS 市場地位，儘管面臨資本支出壓力與監管挑戰，機構投資人與大型合約仍展現強勁信心。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Department Of Homeland Security Awards Amazon Web Services $2.56B Department-Wide Cumulus Cloud Services Contract",
+      "publisher": "Benzinga",
+      "date": "2026-06-12 14:59",
+      "impact": "high",
+      "category": "重大合約",
+      "reason": "獲得美國國土安全部 25.6 億美元的雲端服務合約，直接挹注 AWS 營收並強化其在政府雲端市場的領導地位。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon.com, Inc. (AMZN) Pursues Canadian Bond to Finance $200B AI Data Center Investment Spree",
+      "publisher": "Yahoo",
+      "date": "2026-06-13 19:25",
+      "impact": "medium",
+      "category": "資本運作",
+      "reason": "透過發行債券籌資以支持 2000 億美元的 AI 資料中心擴張，顯示公司對 AI 長期成長潛力的積極佈局。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon Just Made Its Graviton5 Processor Generally Available to Customers",
+      "publisher": "Yahoo",
+      "date": "2026-06-13 15:00",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出 Graviton5 自研處理器，有助於提升 AWS 運算效能並降低客戶成本，進一步鞏固雲端競爭優勢。"
+    },
+    {
+      "rank": 4,
+      "title": "Legendary Value Investor Seth Klarman’s Surprising AI Stock Pick",
+      "publisher": "Yahoo",
+      "date": "2026-06-13 13:42",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "知名價值投資人 Seth Klarman 與哈佛大學校務基金將亞馬遜列為 AI 首選股，增強市場對其長期投資價值的信心。"
+    },
+    {
+      "rank": 5,
+      "title": "InterDigital’s (IDCC) Amazon Licensing Deal: A Turning Point For Its IP Monetization Strategy?",
+      "publisher": "Yahoo",
+      "date": "2026-06-13 10:09",
+      "impact": "low",
+      "category": "商業合作",
+      "reason": "與 InterDigital 達成專利授權協議，顯示亞馬遜在服務與設備領域的技術合規與 IP 佈局持續深化。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Amazon CEO’s Talks With U.S. Officials Triggered Crackdown on Anthropic Models",
+      "publisher": "The Wall Street Journal",
+      "date": "2026-06-13 23:46",
+      "impact": "high",
+      "category": "法規監管",
+      "reason": "亞馬遜執行長與官員的溝通引發對 Anthropic AI 模型的監管審查，可能影響其 AI 合作策略與合規成本。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon Takes On $17.5 Billion In AI Debt: Are Traders Betting On A Capex Bubble?",
+      "publisher": "Benzinga",
+      "date": "2026-06-12 14:25",
+      "impact": "medium",
+      "category": "財務風險",
+      "reason": "高額的 AI 資本支出與新增 175 億美元債務引發市場對現金流壓力及 AI 泡沫化的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Walmart makes major move to lure customers from Amazon Prime Day",
+      "publisher": "Yahoo",
+      "date": "2026-06-13 17:07",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "沃爾瑪積極採取促銷手段搶佔 Prime Day 市場份額，對亞馬遜核心電商業務構成短期競爭壓力。"
+    },
+    {
+      "rank": 4,
+      "title": "1986 Law Meets 2026 AI: Court Weighs Liability In Perplexity's Amazon Access Dispute",
+      "publisher": "Benzinga",
+      "date": "2026-06-12 16:09",
+      "impact": "low",
+      "category": "法律訴訟",
+      "reason": "Perplexity AI 未經授權存取客戶帳戶的爭議，可能引發平台數據安全與責任歸屬的法律風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Amazon Stock Trading In A Range Sets Direction Toward A Quick Return",
+      "publisher": "Yahoo",
+      "date": "2026-06-12 15:51",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "股價處於 50 日與 200 日均線之間，顯示目前處於盤整階段，缺乏明確的突破方向。"
+    },
+    {
+      "rank": 2,
+      "title": "Costco vs. Walmart vs. Amazon: Which Stock Is the Smartest Buy in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-06-13 17:35",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "針對零售巨頭的比較分析，屬常規市場評論，未提供具體利多或利空催化劑。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

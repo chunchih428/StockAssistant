@@ -1,0 +1,111 @@
+{
+  "ticker": "NOW",
+  "company": "ServiceNow",
+  "analysis_date": "2026-06-14",
+  "source_file": "cache/2026-06-14/candidates/news/NOW.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 6,
+    "neutral_count": 4,
+    "overall_sentiment": "mixed",
+    "key_theme": "ServiceNow 積極擴展 AI 合作夥伴生態系與提升營收目標，但面臨股價回調壓力、安全事件疑慮及市場對高估值的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "ServiceNow IBM AI Alliance Targets Legacy Bottlenecks And Valuation Expectations",
+      "publisher": "Yahoo",
+      "date": "2026-06-13 09:11",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "ServiceNow 與 IBM 建立多年合作夥伴關係，旨在現代化企業遺留系統並擴大 AI 工作流程，此舉有助於鞏固其在企業 AI 領域的領導地位。"
+    },
+    {
+      "rank": 2,
+      "title": "Can Strong Demand in Now Assist Boost ServiceNow's AI Revenue Growth?",
+      "publisher": "Yahoo",
+      "date": "2026-06-12 13:16",
+      "impact": "high",
+      "category": "財報預測",
+      "reason": "公司將 2026 年 AI 營收目標上調至 15 億美元，顯示 Now Assist 產品採用率強勁，具備顯著的營收成長動能。"
+    },
+    {
+      "rank": 3,
+      "title": "Phenom Partners with ServiceNow to Introduce AI Hiring Agents",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 13:30",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "與 Phenom 合作推出 AI 招聘代理，進一步擴展了 ServiceNow 在人力資源自動化領域的 AI 應用場景。"
+    },
+    {
+      "rank": 4,
+      "title": "ServiceNow Demand Remains Resilient Despite Global Uncertainty: Analyst",
+      "publisher": "Benzinga",
+      "date": "2026-06-10 12:33",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師指出儘管全球經濟不確定性高，但 ServiceNow 的需求依然強勁，且具備定價能力，長期營收潛力看好。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "ServiceNow Security Incident Tests Core Workflow And AI Governance Story",
+      "publisher": "Yahoo",
+      "date": "2026-06-11 05:13",
+      "impact": "high",
+      "category": "資安事件",
+      "reason": "公司披露發生安全事件，涉及未經授權存取 API 端點，這對其核心工作流程與 AI 治理的安全性敘事構成挑戰。"
+    },
+    {
+      "rank": 2,
+      "title": "Jim Cramer on ServiceNow: “It’s Expensive, That’s the Problem”",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 15:38",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "知名財經評論員 Jim Cramer 指出該公司股價過高，在當前市場環境下估值面臨壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "What's Going On With ServiceNow Stock Thursday? — ServiceNow stock drops 3% Thursday, lagging behind a market rally as investors take profits.",
+      "publisher": "Benzinga",
+      "date": "2026-06-11 13:44",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價出現獲利了結賣壓，且表現落後於整體市場漲幅，顯示短期技術面偏弱。"
+    },
+    {
+      "rank": 4,
+      "title": "Shares of software and AI cloud-related companies are trading lower amid possible sympathy with Oracle",
+      "publisher": "Benzinga",
+      "date": "2026-06-11 13:25",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受 Oracle 財報與高額資本支出計畫影響，軟體與 AI 雲端板塊出現連帶下跌，反映市場對高資本支出的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Trade Tracker: Rob Sechan buys Texas Instruments, buys more ServiceNow and sells Salesforce",
+      "publisher": "CNBC",
+      "date": "2026-06-11 12:38",
+      "impact": "low",
+      "category": "投資動態",
+      "reason": "NewEdge Wealth 執行長 Rob Sechan 增持 ServiceNow，顯示機構投資人對其長期價值仍有信心，但屬個人投資組合調整。"
+    },
+    {
+      "rank": 2,
+      "title": "Investors Heavily Search ServiceNow, Inc. (NOW): Here is What You Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅反映投資人對該股的關注度提升，並未包含實質性的基本面利多或利空消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

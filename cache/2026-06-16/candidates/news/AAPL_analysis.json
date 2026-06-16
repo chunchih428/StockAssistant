@@ -1,0 +1,156 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-06-14",
+  "source_file": "cache/2026-06-14/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 5,
+    "bearish_count": 10,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "Apple 在 WWDC 2026 後面臨市場對 AI 策略的質疑與股價回調，同時需應對供應鏈環保爭議及硬體轉型壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple Is Mostly Sitting Out the AI Spending Arms Race. With AI Stocks Selling Off, That Suddenly Looks Smart.",
+      "publisher": "Yahoo",
+      "date": "2026-06-13 14:27",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場重新評估 Apple 在 AI 領域的克制策略，認為在 AI 類股普遍回調的背景下，Apple 的資本紀律反而成為防禦性優勢。"
+    },
+    {
+      "rank": 2,
+      "title": "Wall Street’s Top Billionaires Are Changing Their Mind About Apple (AAPL)",
+      "publisher": "Yahoo",
+      "date": "2026-06-13 15:42",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "頂級億萬富翁投資者將 Apple 列為前十大持股之一，顯示長期機構資金對其基本面仍具信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple Continues to Expand Services Business: What's the Path Ahead?",
+      "publisher": "Yahoo",
+      "date": "2026-06-12 15:15",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "服務部門營收創下歷史新高，證明 Apple 生態系統的黏著度與獲利能力持續增長，為股價提供支撐。"
+    },
+    {
+      "rank": 4,
+      "title": "Can Apple Stock Double to $600 in 5 Years?",
+      "publisher": "Yahoo",
+      "date": "2026-06-13 01:01",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析師探討長期成長潛力，儘管過去五年漲幅已達 134 %，但市場仍對其未來五年的資本增值空間保持關注。"
+    },
+    {
+      "rank": 5,
+      "title": "Jim Cramer on Apple: “It Still Has Products We All Love”",
+      "publisher": "Yahoo",
+      "date": "2026-06-12 14:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "知名評論員 Jim Cramer 重申對 Apple 產品力的肯定，有助於穩定散戶投資者信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Apple Inc (AAPL) Declines Following Important AI Advancements at WWDC 2026",
+      "publisher": "Yahoo",
+      "date": "2026-06-12 13:11",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "WWDC 2026 後市場反應冷淡，股價單週下跌約 8 %，反映投資人對 Apple AI 產品落地速度與競爭力的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Exclusive-Tata's iPhone parts factory contaminated farmland water, India pollution body alleges",
+      "publisher": "Yahoo",
+      "date": "2026-06-13 08:33",
+      "impact": "medium",
+      "category": "ESG 爭議",
+      "reason": "供應鏈環保違規可能引發監管風險與品牌聲譽受損，增加生產成本與供應鏈不確定性。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple Faces a No-Win Pricing Dilemma. Should Investors Be Worried?",
+      "publisher": "Yahoo",
+      "date": "2026-06-12 18:50",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "AI 運算需求帶動記憶體成本上升，壓縮 Apple 硬體毛利率，形成定價策略上的兩難。"
+    },
+    {
+      "rank": 4,
+      "title": "Apple’s Project Titan Exit Refocuses Investment Story On Devices And Services",
+      "publisher": "Yahoo",
+      "date": "2026-06-12 17:05",
+      "impact": "low",
+      "category": "公司策略",
+      "reason": "正式退出自動駕駛計畫並出售測試場地，標誌著過去巨額研發投入的終結，雖然聚焦核心業務，但也反映創新轉型受挫。"
+    },
+    {
+      "rank": 5,
+      "title": "The Tariff Threat To Apple Stock Vanished. Its Replacement Is A Bigger Worry.",
+      "publisher": "Yahoo",
+      "date": "2026-06-12 15:08",
+      "impact": "low",
+      "category": "總體經濟",
+      "reason": "關稅風險雖降低，但新的地緣政治與營運成本壓力仍未量化，對未來獲利預測構成隱憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "CNBC Sport: MLS Commissioner Don Garber on his ideal World Cup and why Apple's 'Season Pass' strategy didn't work",
+      "publisher": "CNBC",
+      "date": "2026-06-10 18:00",
+      "impact": "low",
+      "category": "產品策略",
+      "reason": "針對 Apple TV 體育賽事策略的檢討，對整體營收影響有限，屬於單一業務的營運調整。"
+    },
+    {
+      "rank": 2,
+      "title": "Should I Update iOS 27 \"Tenorshare Launches An iOS 27 Upgrade-Downgrade Companion Tool\"",
+      "publisher": "Yahoo",
+      "date": "2026-06-13 11:25",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "第三方工具的發布，反映用戶對 iOS 更新的關注，對股價無直接財務影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple's iPhone Could Hold A Clue To America's Declining Birth Rate",
+      "publisher": "Benzinga",
+      "date": "2026-06-13 09:01",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "學術研究連結 iPhone 使用與人口趨勢，屬於社會觀察，對公司營運無直接因果關係。"
+    },
+    {
+      "rank": 4,
+      "title": "Rocket Lab stock surges on Nasdaq-100 index inclusion",
+      "publisher": "Yahoo",
+      "date": "2026-06-12 13:23",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "提及 Apple 僅作為 Nasdaq-100 指數成分股的對照，無實質影響。"
+    },
+    {
+      "rank": 5,
+      "title": "As OpenAI leans into enterprise business, Apple and Google set sights on the masses",
+      "publisher": "CNBC",
+      "date": "2026-06-11 08:00",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "描述 AI 市場競爭格局，Apple 採取大眾化策略，屬於產業常態競爭分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
