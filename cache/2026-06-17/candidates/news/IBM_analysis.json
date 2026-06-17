@@ -1,0 +1,102 @@
+{
+  "ticker": "IBM",
+  "company": "International Business Machines Corporation",
+  "analysis_date": "2026-06-17",
+  "source_file": "cache/2026-06-17/candidates/news/IBM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 2,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "IBM 透過與 ServiceNow 及 Cirata 等企業建立策略聯盟，積極推動 AI 數據現代化與企業級應用，市場對其 AI 轉型帶來的長期成長潛力持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "IBM (IBM) Stock Could Be 22.4% Below Fair Value as AI Narrative Builds",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 14:12",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "分析指出 IBM 股價被低估約 22.4 %，隨著 AI 敘事持續發酵，市場對其估值修復空間抱持樂觀態度。"
+    },
+    {
+      "rank": 2,
+      "title": "ServiceNow and IBM Expand Collaboration to Unlock Enterprise Data for AI at Scale",
+      "publisher": "Yahoo",
+      "date": "2026-06-11 13:00",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "IBM 與 ServiceNow 擴大合作，旨在解決企業級 AI 擴展的數據瓶頸，此舉有助於鞏固 IBM 在企業現代化市場的領導地位。"
+    },
+    {
+      "rank": 3,
+      "title": "IBM Expands Strategic Partnership With Cirata Plc, Embedding Symphony Technology As Next-Generation IBM Big Replicate Data Orchestration Platform",
+      "publisher": "Benzinga",
+      "date": "2026-06-16 03:11",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "透過與 Cirata 合作，IBM 強化了其 Big Replicate 平台，能更有效地處理大規模 AI 數據編排，提升技術競爭力。"
+    },
+    {
+      "rank": 4,
+      "title": "Analyst Lifts IBM Price Target by $15. Here is Why",
+      "publisher": "Yahoo",
+      "date": "2026-06-14 05:38",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師上調目標價 15 美元，反映市場對 IBM 穩健的股息收益率及 AI 轉型策略的信心。"
+    },
+    {
+      "rank": 5,
+      "title": "Apptio Unveils Conversational Insights and New Suite of AI-Powered Capabilities",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 13:00",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "IBM 旗下 Apptio 推出 AI 驅動的技術支出分析功能，有助於提升客戶的業務決策效率，進一步擴大 AI 產品組合。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "IBM’s $17 million DOJ settlement makes the case for civility",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 11:00",
+      "impact": "medium",
+      "category": "法規與訴訟",
+      "reason": "IBM 因涉及 1,700 萬美元的司法部和解案，引發市場對公司治理與合規風險的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "IBM (IBM) Stock Sinks As Market Gains: Here's Why",
+      "publisher": "Yahoo",
+      "date": "2026-06-15 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價在市場整體上漲時出現 1.3 % 的回調，顯示短期內存在獲利了結賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Gary Cohn: The LLM world is going to be a commoditized world",
+      "publisher": "CNBC",
+      "date": "2026-06-10 12:48",
+      "impact": "low",
+      "category": "高層觀點",
+      "reason": "IBM 副董事長 Gary Cohn 對大型語言模型 (LLM) 市場商品化的評論，屬於產業趨勢分析，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Announced at Kaltura Connect on the Road 2026: IBM Among the Winners of this Year’s Kaltura Digital Engagement Awards",
+      "publisher": "Yahoo",
+      "date": "2026-06-15 12:00",
+      "impact": "low",
+      "category": "企業榮譽",
+      "reason": "獲得數位參與獎項，雖顯示技術應用受肯定，但對財務表現影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

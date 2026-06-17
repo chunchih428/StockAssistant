@@ -1,0 +1,38 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-06-17",
+  "source_file": "cache/2026-06-17/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對 AI 相關類股的短期回調與長期配置價值存在分歧看法"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "These 3 AI ETFs Have Been on a Rocket Ride Higher. Here’s Why I’d Skip Them All and Just Buy QQQ Instead.",
+      "publisher": "Barchart",
+      "date": "2026-06-16T19:41:57Z",
+      "impact": "medium",
+      "category": "市場觀點",
+      "reason": "分析師建議投資人應優先選擇 QQQ 作為 AI 投資組合的核心，而非波動性較高的 AI 主題型 ETF，顯示 QQQ 在大型科技股配置上的穩定性與吸引力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "AI Selloff Hits Breadth as Indexes Pull Back From Breakout Highs",
+      "publisher": "ChartMill",
+      "date": "2026-06-11 11:55",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出 2026 年 6 月 10 日市場廣度顯著轉弱，AI 領漲股出現回調，導致 QQQ 從近期高點回落，反映出市場對科技股估值過高的短期修正壓力。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

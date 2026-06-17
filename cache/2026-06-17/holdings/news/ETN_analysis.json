@@ -1,0 +1,84 @@
+{
+  "ticker": "ETN",
+  "company": "Eaton",
+  "analysis_date": "2026-06-17",
+  "source_file": "cache/2026-06-17/holdings/news/ETN.json",
+  "summary": {
+    "total_articles": 18,
+    "bullish_count": 8,
+    "bearish_count": 5,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "Eaton 宣布將 Mobility 部門與 Dana 合併以優化投資組合，市場對其轉型至高成長的電氣與航太領域持正面看法，但短期股價受交易細節與市場波動影響出現震盪。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Eaton Advances 2030 Growth Strategy with Announcement to Combine Mobility Group with Dana Incorporated",
+      "publisher": "Yahoo",
+      "date": "2026-06-11 10:30",
+      "impact": "high",
+      "category": "策略轉型",
+      "reason": "此為公司官方公告，明確指出透過剝離 Mobility 部門，Eaton 將資源集中於高成長的電氣與航太業務，符合長期 2030 成長策略。"
+    },
+    {
+      "rank": 2,
+      "title": "Eaton Mobility And Dana: Separating The Fast Growth From The Slow",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-12 07:29",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析師指出將低成長的 Mobility 業務剝離，有助於提升 Eaton 整體估值倍數，使其更專注於高成長領域。"
+    },
+    {
+      "rank": 3,
+      "title": "Eaton Powering Its Way Through The Data Center Revolution",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-11 09:29",
+      "impact": "medium",
+      "category": "產業趨勢",
+      "reason": "強調 Eaton 在資料中心電氣化領域的強大競爭力，顯示即便在併購消息外，公司核心業務仍具備強勁成長動能。"
+    },
+    {
+      "rank": 4,
+      "title": "Dana's Merger With Eaton Mobility Unit 'Transformative,' RBC Says",
+      "publisher": "Yahoo",
+      "date": "2026-06-12 15:44",
+      "impact": "medium",
+      "category": "分析師觀點",
+      "reason": "RBC 將此交易定義為「轉型性交易」，認可其對雙方業務結構的正面影響。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Eaton (ETN) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 21:50",
+      "impact": "high",
+      "category": "股價表現",
+      "reason": "報導指出 Eaton 股價在消息公布前後出現顯著下跌，反映市場對交易結構或短期稀釋效應的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "ETN's 7% Fall In 2 Days Pushed It Closer To 200-DMA",
+      "publisher": "Yahoo",
+      "date": "2026-06-11 11:35",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "短期內股價下跌 7 %，觸及技術面支撐位，顯示市場對該併購案的短期反應偏向負面。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Eaton To Separate Out And Combine Its Mobility Group With Dana In A Reverse Morris Trust Transaction",
+      "publisher": "Benzinga",
+      "date": "2026-06-11 06:34",
+      "impact": "low",
+      "category": "交易細節",
+      "reason": "詳細說明了 Reverse Morris Trust 交易結構，包含 11 億美元現金分配與股權比例，屬中性資訊披露。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

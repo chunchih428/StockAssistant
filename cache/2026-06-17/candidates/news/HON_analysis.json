@@ -1,0 +1,93 @@
+{
+  "ticker": "HON",
+  "company": "Honeywell",
+  "analysis_date": "2026-06-17",
+  "source_file": "cache/2026-06-17/candidates/news/HON.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 2,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司正式批准航太業務分拆計畫，並透過投資人日確立了以自動化與數據中心為核心的未來三年成長藍圖。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "HONEYWELL BOARD OF DIRECTORS APPROVES SPIN-OFF OF HONEYWELL AEROSPACE",
+      "publisher": "Yahoo",
+      "date": "2026-06-15 11:00",
+      "impact": "high",
+      "category": "公司重組",
+      "reason": "董事會正式批准航太業務分拆，預計於 2026 年 6 月 29 日完成，此舉將使 Honeywell 轉型為更專注的自動化與工業科技公司，市場視為提升資本配置效率的關鍵。"
+    },
+    {
+      "rank": 2,
+      "title": "HONEYWELL TECHNOLOGIES HOSTS 2026 INVESTOR DAY; PROVIDES NEW THREE-YEAR FINANCIAL FRAMEWORK",
+      "publisher": "Yahoo",
+      "date": "2026-06-11 10:00",
+      "impact": "high",
+      "category": "財報與展望",
+      "reason": "公司發布未來三年財務框架，設定 4% - 6% 的有機成長目標、60 個基點以上的利潤率擴張以及 10% 以上的年度盈餘成長，展現強勁的營運信心。"
+    },
+    {
+      "rank": 3,
+      "title": "RBC Capital Reiterates Outperform on Honeywell Intl, Maintains $275 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-06-12 10:31",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "RBC Capital 分析師 Deane Dray 重申「優於大盤」評級並維持 275 美元目標價，顯示華爾街對公司轉型策略的認可。"
+    },
+    {
+      "rank": 4,
+      "title": "Honeywell Targets Hotels With Cloud Platform",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 19:20",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "推出針對飯店業的雲端平台，整合安全、能源與管理功能，顯示公司在自動化領域的垂直市場擴張能力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Honeywell International Inc. (HON) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "publisher": "Yahoo",
+      "date": "2026-06-10 22:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日下跌 4.55 %，表現遜於大盤，反映出投資人在重大策略轉型前的波動性與市場情緒壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Oracle, POP Culture, Honeywell, Navan And Caterpillar: Why These 5 Stocks Are On Investors' Radars Today",
+      "publisher": "Benzinga",
+      "date": "2026-06-10 21:43",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "提及 Honeywell 隨大盤下跌，反映整體市場環境不佳對個股造成的連帶賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Jim Cramer Shows Enthusiasm Around Honeywell’s Aerospace Business Spin-Off",
+      "publisher": "Yahoo",
+      "date": "2026-06-15 08:04",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "Jim Cramer 對分拆表示樂觀，但同時提醒 SpaceX 等競爭對手帶來的潛在挑戰，觀點呈現多空平衡。"
+    },
+    {
+      "rank": 2,
+      "title": "Honeywell CEO: The power of AI is going to redefine automation",
+      "publisher": "CNBC",
+      "date": "2026-06-11 19:46",
+      "impact": "low",
+      "category": "公司策略",
+      "reason": "執行長 Vimal Kapur 強調 AI 對自動化的重要性，屬於長期願景宣示，對短期股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

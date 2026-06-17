@@ -1,0 +1,102 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-06-17",
+  "source_file": "cache/2026-06-17/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 4,
+    "bearish_count": 12,
+    "neutral_count": 4,
+    "overall_sentiment": "mixed",
+    "key_theme": "Amazon 面臨 FTC 潛在廣告訴訟的監管壓力，同時市場焦點轉向 SpaceX 市值超越 Amazon 的競爭態勢。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Wall Street Sees 34% Upside To Amazon.com, Inc. (AMZN)",
+      "publisher": "Yahoo",
+      "date": "2026-06-16T06:28:00Z",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "華爾街分析師看好 Amazon 的長期成長潛力，預估股價有 34% 的上漲空間，顯示市場對其核心業務仍具信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon (AMZN) Is Building A Missouri Data Center Campus In Its AI Push",
+      "publisher": "Yahoo",
+      "date": "2026-06-16T14:11:00Z",
+      "impact": "medium",
+      "category": "基礎設施投資",
+      "reason": "Amazon 宣布在密蘇里州進行數十億美元的數據中心投資，強化其在 AI 領域的基礎設施布局，有利於 AWS 長期競爭力。"
+    },
+    {
+      "rank": 3,
+      "title": "Dun & Bradstreet Brings the D&B Commercial Graph to Amazon Quick, Powering AI Workflows Across Sales, Marketing, and Finance",
+      "publisher": "Yahoo",
+      "date": "2026-06-16T20:55:00Z",
+      "impact": "low",
+      "category": "技術合作",
+      "reason": "AWS 與 Dun & Bradstreet 合作，將商業數據圖譜整合至 Amazon Quick，提升雲端 AI 工作流的應用價值。"
+    },
+    {
+      "rank": 4,
+      "title": "Amazon’s (AMZN) Alexa+ Available for Canadian Customers",
+      "publisher": "Yahoo",
+      "date": "2026-06-16T18:47:00Z",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "Alexa+ 服務擴展至加拿大市場，有助於提升 Amazon 智慧裝置的用戶黏著度與服務營收。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "AMZN Faces FTC Scrutiny Over Ad Pricing And Disclosures — Probe Could Spark Massive Penalties",
+      "publisher": "Yahoo",
+      "date": "2026-06-16T22:40:00Z",
+      "impact": "high",
+      "category": "法規監管",
+      "reason": "FTC 針對 Amazon 廣告定價與揭露方式進行調查並擬提起訴訟，可能面臨數十億美元的罰款，對獲利能力構成重大風險。"
+    },
+    {
+      "rank": 2,
+      "title": "SpaceX Now Has Higher Market Cap Than Amazon",
+      "publisher": "The Wall Street Journal",
+      "date": "2026-06-16T21:46:00Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "SpaceX 市值超越 Amazon，反映市場資金流向轉變，對 Amazon 作為全球頂尖科技巨頭的市場地位造成心理層面的負面影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Billionaire Ken Griffin Sold Amazon and Nvidia but Quietly Loaded Up on This Healthcare Giant",
+      "publisher": "Yahoo",
+      "date": "2026-06-16T20:50:00Z",
+      "impact": "low",
+      "category": "機構持倉",
+      "reason": "知名避險基金經理人 Ken Griffin 減持 Amazon，顯示大型機構投資人對其短期成長動能持保留態度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Amazon devices are up to 44% off ahead of Prime Day, but which personal assistant is right for you?",
+      "publisher": "Yahoo",
+      "date": "2026-06-16T23:03:00Z",
+      "impact": "low",
+      "category": "促銷活動",
+      "reason": "Prime Day 前的常規促銷活動，屬於季節性行銷策略，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Here Is the 1 Unstoppable $70 Billion Growth Machine I Keep Buying Hand Over Fist",
+      "publisher": "Yahoo",
+      "date": "2026-06-16T17:27:00Z",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "投資人觀點文章，重申對 Amazon 長期價值的看好，但未提供新的基本面催化劑。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

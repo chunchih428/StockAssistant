@@ -1,0 +1,102 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-06-17",
+  "source_file": "cache/2026-06-17/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 6,
+    "bearish_count": 7,
+    "neutral_count": 7,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對 Apple 未來 AI 產品線（摺疊 iPhone 與 AI AirPods）抱持樂觀期待，但短期面臨歐盟數位市場法規監管壓力及 WWDC 後的獲利回吐賣壓。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple Plans Camera AirPods Alongside Upgraded Foldable iPhone in 2027",
+      "publisher": "Bloomberg",
+      "date": "2026-06-16 16:01",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "報導指出 Apple 計劃於 2027 年推出具備攝影功能的 AI AirPods 與摺疊 iPhone，顯示公司在 AI 硬體整合上的長期戰略布局，為未來營收成長提供明確願景。"
+    },
+    {
+      "rank": 2,
+      "title": "Prediction: Apple Stock Will Go On a Bull Run in the Second Half of 2026",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 17:43",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師看好摺疊手機市場將成為 Apple 下一個成長引擎，預期下半年股價將受此預期推動而上漲。"
+    },
+    {
+      "rank": 3,
+      "title": "TD Cowen, Maxim Reiterate Bullish Outlook on Apple Inc. (AAPL) Following WWDC26",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 06:28",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "儘管 WWDC 後股價波動，但投行 TD Cowen 與 Maxim 仍重申看好 Apple 的長期 AI 發展潛力，維持正面評級。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Apple (AAPL) Faces Italy DMA Probe Over Cloud Interoperability",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 21:12",
+      "impact": "high",
+      "category": "法規監管",
+      "reason": "義大利競爭監管機構針對 Apple 的 iCloud 互通性啟動數位市場法（DMA）調查，若遭裁定違規可能面臨巨額罰款或被迫調整生態系統封閉性。"
+    },
+    {
+      "rank": 2,
+      "title": "Here’s Why Apple Inc (AAPL) Is Falling Despite AI Advancements at WWDC 2026",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 18:49",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場在 WWDC 後出現獲利回吐，顯示投資人對 AI 轉型帶來的短期營收貢獻仍持保留態度，導致股價承壓。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple (AAPL) Stock Could Be Pricing In Too Much Growth After A 50% Run",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 12:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場觀點認為過去一年 50% 的漲幅已過度反映成長預期，估值面臨修正風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Dow Hits Record High On Strong Banks And Industrial Stocks, Nasdaq And S&P 500 Slip On Tech Weakness",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 21:22",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "整體科技股表現疲軟，Apple 作為權值股受大盤資金輪動影響，非公司基本面因素。"
+    },
+    {
+      "rank": 2,
+      "title": "Tata says India pollution board drops scrutiny of Apple iPhone parts plant",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 16:19",
+      "impact": "low",
+      "category": "供應鏈",
+      "reason": "供應商 Tata Electronics 的環保審查解除，消除潛在供應鏈中斷風險，對股價影響正面但屬於營運常態。"
+    },
+    {
+      "rank": 3,
+      "title": "Peer To Peer Network (OTC:PTOP) Announces Release of MOBICARD(TM) 1.8 on Apple App Store",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 14:45",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "第三方應用程式上架 App Store，對 Apple 整體營收影響微乎其微。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
