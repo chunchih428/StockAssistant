@@ -1,0 +1,37 @@
+{
+  "ticker": "NTAP",
+  "company": "NetApp",
+  "analysis_date": "2026-06-17",
+  "source_file": "cache/2026-06-17/holdings/news/NTAP.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "NetApp 憑藉穩健的財報表現與優於大盤的股價走勢，持續獲得市場正面評價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "We Think NetApp's (NASDAQ:NTAP) Healthy Earnings Might Be Conservative",
+      "publisher": "Yahoo",
+      "date": "2026-06-12 10:12",
+      "impact": "high",
+      "category": "財報分析",
+      "reason": "市場認為 NetApp 近期的財報表現相當健康，且管理層的指引可能過於保守，暗示未來仍有獲利超預期的空間，這對股價具有正面支撐作用。"
+    },
+    {
+      "rank": 2,
+      "title": "Is NetApp Stock Outperforming the Dow?",
+      "publisher": "Yahoo",
+      "date": "2026-06-12 11:48",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "NetApp 在過去一年中的股價表現持續優於道瓊工業指數，顯示其在儲存解決方案領域的競爭力與市場資金的青睞。此處選用 Yahoo 版本作為代表，因其內容涵蓋了對華爾街分析師觀點的綜合評述。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

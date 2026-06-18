@@ -1,0 +1,38 @@
+{
+  "ticker": "PTRN",
+  "company": "Pattern Group - Series A",
+  "analysis_date": "2026-06-17",
+  "source_file": "cache/2026-06-17/candidates/news/PTRN.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司宣布二次發行股票導致股價短期承壓，但基本面分析顯示其電商優化業務具有強大的護城河與成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Pattern Group: Defensible MOAT — Pattern Group (PTRN) analysis: e-commerce optimization moat, 30% avg EBITDA growth to 2029, and 16x forward EV/EBITDA va",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-10 04:18",
+      "impact": "high",
+      "category": "投資分析",
+      "reason": "該報告強調 Pattern Group 具備強大的電商優化護城河，預測至 2029 年 EBITDA 平均成長率達 30 %，且 16 倍的預期 EV/EBITDA 估值具備吸引力，顯示長期基本面強勁。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Pattern Group Shares Fall After Launch of Secondary Stock Offering (PTRN)",
+      "publisher": "InvestorsHub",
+      "date": "2026-06-15T13:35:15Z",
+      "impact": "medium",
+      "category": "資本市場",
+      "reason": "公司啟動二次股票發行，通常會導致現有股權被稀釋，引發市場對短期股價的拋售壓力，是典型的資本市場負面反應。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,102 @@
+{
+  "ticker": "ARM",
+  "company": "Arm Holdings plc",
+  "analysis_date": "2026-06-17",
+  "source_file": "cache/2026-06-17/candidates/news/ARM.json",
+  "summary": {
+    "total_articles": 16,
+    "bullish_count": 9,
+    "bearish_count": 4,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "Arm 受益於 AI 伺服器與代理式 AI (Agentic AI) 的強勁需求，推動營收成長與華爾街分析師的目標價調升，儘管面臨 FTC 調查與短期獲利了結壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Arm Holdings Rallies As Agentic AI Spark Triggers Wave Of Wall Street Upgrades",
+      "publisher": "Benzinga",
+      "date": "2026-06-11",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "華爾街分析師因看好代理式 AI 帶來的成長潛力，紛紛調升目標價至 500 美元，顯示市場對其 AI 基礎設施地位的高度認可。"
+    },
+    {
+      "rank": 2,
+      "title": "Arm Holdings' Licensing Momentum Continues to Power Revenue Growth",
+      "publisher": "Yahoo",
+      "date": "2026-06-16",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "授權營收成長 29 %，帶動總營收成長 20 %，證明其商業模式在 AI 晶片設計領域具有強大的護城河。"
+    },
+    {
+      "rank": 3,
+      "title": "Arm Holdings (ARM) Gets BofA Backing, 37% PT Upgrade, Climbs 11%",
+      "publisher": "Yahoo",
+      "date": "2026-06-13",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "美銀 (BofA) 給予強力背書並大幅調升目標價 37 %，直接推動股價單日上漲 11 %。"
+    },
+    {
+      "rank": 4,
+      "title": "Arm (ARM), NVIDIA (NVDA) Executive Highlight Shift Toward Agentic AI Computing",
+      "publisher": "Yahoo",
+      "date": "2026-06-11",
+      "impact": "medium",
+      "category": "產業趨勢",
+      "reason": "高層公開強調 AI 運算架構的轉型，強化了 Arm 作為 AI 基礎設施關鍵供應商的市場定位。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "FTC Probe Puts Arm Licensing Model And AGI CPU Plans In Focus",
+      "publisher": "Yahoo",
+      "date": "2026-06-12",
+      "impact": "high",
+      "category": "法規監管",
+      "reason": "美國聯邦貿易委員會 (FTC) 對其授權模式展開調查，可能對其未來 AI CPU 擴張計畫造成法律與營運上的不確定性。"
+    },
+    {
+      "rank": 2,
+      "title": "Jim Cramer on Arm Holdings: “I Wish I Had Kicked It Out Altogether”",
+      "publisher": "Yahoo",
+      "date": "2026-06-10",
+      "impact": "medium",
+      "category": "市場情緒",
+      "reason": "知名財經評論員 Jim Cramer 對持股表達後悔，反映出市場在股價高檔時對其波動性的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Qualcomm Drops 6%, Arm Holdings Falls 5% as Mobile-Chip Stocks Slide in the Selloff",
+      "publisher": "Yahoo",
+      "date": "2026-06-10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受行動晶片板塊整體賣壓影響，股價出現短期回調，屬於市場情緒性拋售。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "B of A Securities Maintains Neutral on ARM Holdings, Raises Price Target to $335",
+      "publisher": "Benzinga",
+      "date": "2026-06-11",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "儘管調升目標價，但維持中性評級，顯示分析師認為股價已反映大部分利多，短期上漲空間有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Buy, Hold, or Sell: Arm Holdings Shed 25% to Clear the Air as the Warsh Fed Digs In",
+      "publisher": "Yahoo",
+      "date": "2026-06-12",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析師認為股價在 342 美元處於合理估值，建議投資人等待更佳的進場點 (310 美元以下)，屬於中性操作建議。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

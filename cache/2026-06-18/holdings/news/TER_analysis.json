@@ -1,0 +1,111 @@
+{
+  "ticker": "TER",
+  "company": "Teradyne, Inc.",
+  "analysis_date": "2026-06-17",
+  "source_file": "cache/2026-06-17/holdings/news/TER.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 5,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "Teradyne 受惠於 AI 晶片測試需求強勁與納入 Nasdaq-100 指數的利多，但高估值壓力與近期股價波動引發市場多空分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Five AI and Space Names Join the Nasdaq-100",
+      "publisher": "Yahoo",
+      "date": "2026-06-12 12:46",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Teradyne 將於 6 月 22 日正式納入 Nasdaq-100 指數，預期將帶來被動資金流入，提升股票流動性與市場能見度。"
+    },
+    {
+      "rank": 2,
+      "title": "Assessing Teradyne (TER) Valuation After Tokyo Electron Partnership In AI And Data Center Chip Testing",
+      "publisher": "Yahoo",
+      "date": "2026-06-11 19:23",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "與 Tokyo Electron 建立合作夥伴關係，共同開發 AI 與資料中心晶片測試解決方案，強化了公司在 AI 測試領域的技術護城河。"
+    },
+    {
+      "rank": 3,
+      "title": "Teradyne Robotics Unveils Wide Range of Production-Ready Physical AI Applications at Automate 2026",
+      "publisher": "Yahoo",
+      "date": "2026-06-11 13:00",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "展示可部署的物理 AI 解決方案，顯示公司在自動化與機器人領域的技術實力，有助於多元化營收來源。"
+    },
+    {
+      "rank": 4,
+      "title": "Teradyne Inc (NASDAQ:TER) Offers Affordable Growth With Strong Fundamentals",
+      "publisher": "ChartMill",
+      "date": "2026-06-16 08:00",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "在成長與估值篩選中獲得 8/10 分，顯示其基本面強勁且相對於成長潛力而言估值合理。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Teradyne: Runaway AI Train At Hefty Premiums - Reiterate Hold",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-16 04:57",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "分析師指出 AI 營收占比已達 70%，雖成長強勁但股價已反映過高溢價，維持持有評級，警示估值過熱風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Cathie Wood Making Room For SpaceX? ARK Funds Dump Over $200M Across 20 Stocks Ahead Of Mega IPO",
+      "publisher": "Yahoo",
+      "date": "2026-06-12 07:01",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "ARK 基金減持 Teradyne 等 20 檔股票，顯示機構投資人進行資產配置調整，可能對短期股價造成賣壓。"
+    },
+    {
+      "rank": 3,
+      "title": "Teradyne (TER) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 22:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 5.33%，表現弱於大盤，反映市場在近期漲勢後的獲利了結賣壓。"
+    },
+    {
+      "rank": 4,
+      "title": "onsemi, Teradyne, and Penguin Solutions Shares Are Falling, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-06-11 00:25",
+      "impact": "low",
+      "category": "總體經濟",
+      "reason": "受 CPI 年增率 4.2% 的通膨數據影響，市場對利率前景擔憂，導致科技股普遍回調。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Dow Jones Tech Titan Apple Rebounds From Support; AI Leader Teradyne Breaks Out",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 17:17",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "技術面分析顯示股價出現突破訊號，屬於市場交易層面的觀察，對基本面無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "KLA Corporation, Amkor, and Teradyne Shares Skyrocket, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-06-13 00:21",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價隨地緣政治消息（伊朗軍事衝突取消）反彈，屬於市場情緒驅動的短期波動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
