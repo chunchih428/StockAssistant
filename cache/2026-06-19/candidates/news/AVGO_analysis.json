@@ -1,0 +1,111 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-06-17",
+  "source_file": "cache/2026-06-17/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 5,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管近期股價自高點回調超過 20 %，市場分析師普遍看好 Broadcom 在 AI 基礎設施與客製化晶片領域的長期成長潛力，並認為其估值修正提供了買入機會。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "This Under-the-Radar AI Chip Leader Just Became a No-Brainer Buy This Week",
+      "publisher": "Yahoo",
+      "date": "2026-06-15 13:20",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "分析師強調 Broadcom 在 AI 晶片市場的市占率即將爆發，認為當前股價回調是極佳的買入點。"
+    },
+    {
+      "rank": 2,
+      "title": "$35B AI Infrastructure Platform Plan Affirms Broadcom Inc. (AVGO) As a Promising Growth Stock to Buy",
+      "publisher": "Yahoo",
+      "date": "2026-06-13 19:25",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Broadcom 投入 350 億美元發展 AI 基礎設施平台，顯示公司在 AI 領域的長期戰略佈局與成長動能。"
+    },
+    {
+      "rank": 3,
+      "title": "Prediction: Can Broadcom Shares Hit $550 in 2027?",
+      "publisher": "Yahoo",
+      "date": "2026-06-15 12:40",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "指出 Broadcom 正處於半導體歷史上最激進的 AI 擴張週期，看好未來股價表現。"
+    },
+    {
+      "rank": 4,
+      "title": "Broadcom (AVGO): AI XPV Platform Sharpens Its Role in Custom Compute and Networking Infrastructure",
+      "publisher": "Yahoo",
+      "date": "2026-06-14 19:28",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "AI XPV 平台強化了公司在客製化運算與網路基礎設施的核心競爭力。"
+    },
+    {
+      "rank": 5,
+      "title": "Broadcom (AVGO) Expands Spring Security With Largest Open-Source Update in 23-Year History",
+      "publisher": "Yahoo",
+      "date": "2026-06-13 17:59",
+      "impact": "low",
+      "category": "軟體服務",
+      "reason": "透過 Spring 與 Java 安全性更新，展現公司在軟體業務的持續創新與市場影響力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Stock Market Today, June 16: Nvidia, Broadcom, and Micron Technology Lead Drop in Nasdaq",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 21:44",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受整體科技股賣壓影響，Broadcom 與其他半導體巨頭同步領跌，反映市場對成長股的重新評估。"
+    },
+    {
+      "rank": 2,
+      "title": "SpaceX Market Cap Breaches $2.5T: Goes Past Tesla, TSMC And Broadcom",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 00:33",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "SpaceX 市值超越 Broadcom，雖非公司基本面惡化，但可能影響投資人對大型科技股的資金配置偏好。"
+    },
+    {
+      "rank": 3,
+      "title": "LITE vs. AVGO: Which AI Infrastructure Stock Is the Better Pick Now?",
+      "publisher": "Yahoo",
+      "date": "2026-06-15 14:36",
+      "impact": "low",
+      "category": "競爭分析",
+      "reason": "部分分析師認為 Lumentum 在 AI 光學網路成長與利潤率擴張上表現優於 Broadcom。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Down More Than 20% From Its High, Is Broadcom Stock a Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 14:50",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "探討財報後股價回調 20 % 的現象，分析師觀點分歧，既有對估值過高的擔憂，也有對長期價值的認可。"
+    },
+    {
+      "rank": 2,
+      "title": "Should Broadcom’s AI XPV Platform and Debt Tenders Reshape the Core Thesis for AVGO Investors?",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 02:16",
+      "impact": "low",
+      "category": "財務操作",
+      "reason": "公司發起 25 億美元的債務現金收購要約，屬於正常的資本結構調整，對股價影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

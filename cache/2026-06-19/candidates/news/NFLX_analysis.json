@@ -1,0 +1,93 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-06-17",
+  "source_file": "cache/2026-06-17/candidates/news/NFLX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 3,
+    "bearish_count": 12,
+    "neutral_count": 5,
+    "overall_sentiment": "bearish",
+    "key_theme": "Netflix 因併購 Roku 失敗及市場對其併購策略的擔憂導致股價承壓，儘管基本面仍受訂閱成長敘事支撐。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Netflix (NFLX) Stock Could Be 13.7% Undervalued on Its Subscriber Growth Narrative",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 18:13",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析師指出基於訂閱用戶成長的敘事，Netflix 股價存在 13.7% 的低估空間，強調其長期成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "The Real Engine Behind Netflix Stock Is Not Subscribers — With the stock beaten down, the market seems to be missing the quiet, compounding power of the company's steadily climbi",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 18:09",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "強調市場過度關注訂閱數，忽略了 Netflix 獲利能力的穩定複利效應，認為目前股價遭到錯殺。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix Expands Its iHeart Podcast Bet — iHeartMedia deal adds new celebrity-led shows",
+      "publisher": "Yahoo",
+      "date": "2026-06-15 18:41",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "透過擴大與 iHeartMedia 的合作，增加影音播客內容，有助於提升平台用戶黏著度與內容多樣性。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Netflix Flexes 'M&A Muscle' As Bidding Contests Spook Wall Street — Netflix (NFLX) stock slides 3.47% premarket to $78.83 as Fox outbids the streaming giant in a massive $22 billion takeov",
+      "publisher": "Benzinga",
+      "date": "2026-06-16 12:36",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Netflix 在收購 Roku 的競標中敗給 Fox，且市場對其高額併購策略感到擔憂，導致股價單日下跌 3.47%。"
+    },
+    {
+      "rank": 2,
+      "title": "LION Stock Drops Over 4% After-Hours — Netflix Reportedly Dismisses Lionsgate Takeover Rumors",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 23:25",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Netflix 否認收購 Lionsgate 的傳聞，導致市場對其併購預期落空，引發相關股價波動與市場不確定性。"
+    },
+    {
+      "rank": 3,
+      "title": "Stock Market Today, June 16: Netflix Falls After Missing Out on Another Media Acquisition",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 21:25",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "總結 Netflix 近期連續錯失併購機會，投資人開始質疑其資本配置策略與未來擴張路徑的有效性。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Netflix to Announce Second Quarter 2026 Financial Results",
+      "publisher": "Yahoo",
+      "date": "2026-06-15 16:00",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "例行性公告第二季財報發布日期，市場正等待具體財務數據以評估營運表現。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix vs Disney: What's the Better Stock to Buy Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 15:20",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "針對 Netflix 與 Disney 的投資價值進行比較，屬於市場觀點分析，對股價無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
