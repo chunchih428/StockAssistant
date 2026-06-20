@@ -1,0 +1,56 @@
+{
+  "ticker": "BE",
+  "company": "Bloom Energy Corporation",
+  "analysis_date": "2026-06-17",
+  "source_file": "cache/2026-06-17/holdings/news/BE.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 數據中心電力需求與強勁的 Q1 財報表現，市場對 Bloom Energy 的估值與政策前景持樂觀態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy Stock Is Surging Tuesday: What's Driving The Move?",
+      "publisher": "Benzinga",
+      "date": "2026-06-16 10:01",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價顯著上漲，反映市場重新評估其在能源政策與 AI 基礎設施中的估值優勢，為近期最強勁的催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Forget Micron: These Two Russell 2000 Stocks Are Quietly Delivering Triple-Digit Gains",
+      "publisher": "Benzinga",
+      "date": "2026-06-11 07:36",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師重申「優於大盤」評級，強調其作為 AI 電網概念股的強勁漲幅，展現長期成長潛力。"
+    },
+    {
+      "rank": 3,
+      "title": "Bloom Energy (BE) Ascends While Market Falls: Some Facts to Note",
+      "publisher": "Zacks",
+      "date": "2026-06-16 22:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "在整體市場下跌背景下展現抗跌性與相對強勢，顯示投資人對該公司基本面信心充足。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy: AI Euphoria Meets Reality, Downgrading To Hold",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-11 08:48",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "儘管承認 Q1 財報亮眼與 26 億美元的 Nebius 合約，但分析師認為 AI 題材已過熱，將評級下調至「持有」，提醒估值回歸現實的風險。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

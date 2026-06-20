@@ -1,0 +1,102 @@
+{
+  "ticker": "META",
+  "company": "Meta",
+  "analysis_date": "2026-06-17",
+  "source_file": "cache/2026-06-17/holdings/news/META.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 4,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Threads 用戶數突破 5 億大關與 AI 產品持續迭代，抵銷了市場對 AI 高額資本支出及內部組織調整的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Meta (META) Reaches 500 Million Threads Users As New Community Features Roll Out",
+      "publisher": "Yahoo",
+      "date": "2026-06-17 02:10",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Threads 達到 5 億月活躍用戶里程碑，顯示其在 Meta 生態系中的影響力顯著提升，有助於長期廣告變現潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "BofA Reiterates Buy Rating on Meta Platforms (META) Cites AI Strategy a Key Growth Catalyst",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 18:49",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "美國銀行重申買入評級，強調 Meta 的 AI 策略是未來營收成長的核心驅動力，增強投資人信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Meta introduces AI search and creative tools, Bank of America flags emerging monetization opportunity",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 16:56",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出 AI 搜尋與創意工具，為廣告業務開闢新的變現管道，符合市場對其 AI 轉型的高期待。"
+    },
+    {
+      "rank": 4,
+      "title": "Why I Can’t Stop Buying This Cash-Rich Stock After a Massive $145 Billion AI Shift",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 14:55",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師看好 Meta 強大的現金流能力，認為儘管 AI 資本支出龐大，但其長期價值仍被低估。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Meta CTO Flags Employee Morale Concerns After Recent Layoffs: Report",
+      "publisher": "Yahoo",
+      "date": "2026-06-17 00:01",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "裁員與組織重組導致員工士氣低落，可能影響長期研發效率與企業文化穩定性。"
+    },
+    {
+      "rank": 2,
+      "title": "Oppenheimer Picks Alphabet, Dumps Meta in Highest-Conviction Stock Picks",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 18:52",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Oppenheimer 將 Meta 從高信心買入名單中剔除並轉向 Alphabet，顯示部分機構對 Meta 的競爭優勢產生疑慮。"
+    },
+    {
+      "rank": 3,
+      "title": "One year in, big challenges ahead for Meta AI Chief Alexandr Wang",
+      "publisher": "CNBC",
+      "date": "2026-06-13 07:00",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "儘管投入 143 億美元，但首款 AI 模型 Muse Spark 面臨挑戰，市場質疑高額投入的回收效率。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Meta Platforms (META) Advances While Market Declines: Some Information for Investors",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為股價波動的技術性回顧，未包含新的基本面消息。"
+    },
+    {
+      "rank": 2,
+      "title": "SNAP Stock Rebounds Overnight: CEO Defends Premium Specs Against META's Cheaper Glasses",
+      "publisher": "Yahoo",
+      "date": "2026-06-17 02:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "競爭對手 Snap 的言論，對 Meta 股價影響有限，屬產業競爭常態。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
