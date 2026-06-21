@@ -1,0 +1,37 @@
+{
+  "ticker": "FFIV",
+  "company": "F5",
+  "analysis_date": "2026-06-21",
+  "source_file": "cache/2026-06-21/candidates/news/FFIV.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司在 AI 安全領域的技術合作取得進展，且獲得華爾街投行上調目標價，顯示市場對其財務體質與成長前景持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "RBC Capital Raises its Price Target on F5 (FFIV)",
+      "publisher": "Yahoo",
+      "date": "2026-06-17 17:36",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "RBC Capital 上調 F5 目標價，並將其列為美國 10 大無債務最佳投資標的之一，顯示分析師高度認可其強健的資產負債表與財務穩定性。"
+    },
+    {
+      "rank": 2,
+      "title": "F5 and Equinix Deliver Secure, Governed AI Across Hybrid and Multicloud Distributed Environments",
+      "publisher": "Yahoo",
+      "date": "2026-06-17 13:00",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "F5 與 Equinix 宣布合作，旨在提供混合雲與多雲環境下的 AI 安全解決方案，此舉有助於擴大公司在 AI 基礎設施市場的市占率與技術影響力。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,56 @@
+{
+  "ticker": "NTAP",
+  "company": "NetApp",
+  "analysis_date": "2026-06-21",
+  "source_file": "cache/2026-06-21/holdings/news/NTAP.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "NetApp 受益於全快閃記憶體 (All-Flash) 儲存需求的強勁成長與 AI 基礎設施現代化帶來的客戶擴張。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "How Is NetApp Capitalizing on Rising All-Flash Adoption?",
+      "publisher": "Yahoo / Zacks",
+      "date": "2026-06-19",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "該報導指出 NetApp 在全快閃記憶體市場的市占率提升，且 AI 驅動的客戶需求正在加速，顯示公司核心業務成長動能強勁。選用此篇作為代表，因其深入分析了技術轉型對營收的具體貢獻。"
+    },
+    {
+      "rank": 2,
+      "title": "We Think NetApp's (NASDAQ:NTAP) Healthy Earnings Might Be Conservative",
+      "publisher": "Simply Wall St.",
+      "date": "2026-06-12",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "分析師認為 NetApp 的財報表現穩健，且目前的獲利指引可能過於保守，暗示未來有上修獲利預期的空間，對股價具正面支撐。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Investors Heavily Search NetApp, Inc. (NTAP): Here is What You Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-06-18",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此類文章多為自動化市場熱度分析，僅反映投資人關注度提升，並未提供具體的財務基本面變動資訊。"
+    },
+    {
+      "rank": 2,
+      "title": "Is NetApp Stock Outperforming the Dow?",
+      "publisher": "Barchart",
+      "date": "2026-06-12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅針對股價相對大盤的技術性比較，屬於市場表現回顧，對未來股價走勢無直接預測價值。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-06-21",
+  "source_file": "cache/2026-06-21/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 6,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "Apple 宣布與 Intel 合作在美生產晶片以應對供應鏈挑戰，同時面臨記憶體成本上漲導致的產品漲價壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple's Intel Chip Deal Could Secure US Manufacturing Capacity Ahead of AI Cycle, Wedbush Says",
+      "publisher": "Yahoo",
+      "date": "2026-06-18 14:37",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "Wedbush 分析師指出，與 Intel 合作在美生產晶片能確保供應鏈韌性，並為未來的 AI 週期做好產能準備，具備長期戰略價值。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Apple Enjoys Peerless iPhone Pricing Power",
+      "publisher": "The Wall Street Journal",
+      "date": "2026-06-20 09:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析強調 Apple 擁有強大的品牌護城河與定價權，即便面臨成本上升，仍能透過漲價維持利潤率。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple Is Betting That Its Next Big Product Could Be AirPods with Cameras",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 13:00",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "透過開發具備攝影功能的 AirPods，Apple 展現了在穿戴式裝置領域持續創新的能力，有助於推動下一波成長。"
+    },
+    {
+      "rank": 4,
+      "title": "3 Reasons to Buy Apple Stock",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 07:05",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "綜合分析顯示 Apple 在技術與市場地位上的韌性，長期投資價值依然被看好。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Memory crisis hits such extremes that 'even Apple can't be safe'",
+      "publisher": "CNBC",
+      "date": "2026-06-19 08:00",
+      "impact": "high",
+      "category": "成本壓力",
+      "reason": "記憶體成本飆升已達到不可持續的程度，迫使 Apple 採取罕見的漲價措施，可能影響消費需求與毛利率。"
+    },
+    {
+      "rank": 2,
+      "title": "Millions of Apple users losing access to Microsoft Office",
+      "publisher": "Yahoo",
+      "date": "2026-06-20 22:34",
+      "impact": "low",
+      "category": "軟體服務",
+      "reason": "部分用戶失去 Microsoft Office 存取權，可能影響用戶體驗與生態系統的便利性。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "SpaceX Is the 5th Most Valuable Public Company in the World",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 14:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "討論 SpaceX 市值排名，對 Apple 本身業務無直接影響，僅作為市場競爭格局的背景資訊。"
+    },
+    {
+      "rank": 2,
+      "title": "Making Six Figures but Betting Everything on U.S. Stocks?",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 21:30",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "文章主要討論投資組合配置建議，提及 Apple 僅作為熱門科技股的代表，不涉及公司基本面變化。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

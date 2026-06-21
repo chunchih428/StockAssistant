@@ -1,0 +1,111 @@
+{
+  "ticker": "MU",
+  "company": "Micron Technology",
+  "analysis_date": "2026-06-21",
+  "source_file": "cache/2026-06-21/holdings/news/MU.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 1,
+    "neutral_count": 4,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "受惠於 AI 需求強勁與記憶體價格上漲，分析師大幅調升目標價，市場對即將公布的財報抱持高度樂觀預期。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Micron Technology (MU) Stock Sees Fair Value Lift As AI Memory Demand Drives Analyst Optimism",
+      "publisher": "Yahoo",
+      "date": "2026-06-18 19:07",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師將公平價值預估從 584.62 美元大幅調升至 866.60 美元，反映市場對 AI 記憶體需求的強勁信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Micron Poised to Top Third-Quarter Estimates as Memory Prices Jump, Wedbush Says",
+      "publisher": "Yahoo",
+      "date": "2026-06-18 14:47",
+      "impact": "high",
+      "category": "財報預測",
+      "reason": "Wedbush 指出記憶體價格跳漲，預期 Micron 第三季財報表現將優於華爾街預期。"
+    },
+    {
+      "rank": 3,
+      "title": "Micron (MU) Selects Bechtel for Phase One of New York Semiconductor Complex",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 10:22",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "選定 Bechtel 進行紐約半導體園區第一期工程，顯示公司長期產能擴張計畫穩步推進。"
+    },
+    {
+      "rank": 4,
+      "title": "Micron Technology (MU) Is Up 17.0% After Nvidia HBM4 Win And AI Board Hire",
+      "publisher": "Yahoo",
+      "date": "2026-06-18 18:16",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "獲得 Nvidia HBM4 訂單並聘請 AI 領域資深專家 Alexis Black Björlin 加入董事會，強化 AI 競爭力。"
+    },
+    {
+      "rank": 5,
+      "title": "MU, WDC, SNDK, STX Stocks Rally Overnight After Apple Flags Memory Cost Surge",
+      "publisher": "Yahoo",
+      "date": "2026-06-18 07:50",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Apple 指出記憶體成本上升，間接證實了記憶體市場供不應求與定價權強勢的現況。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "SK Hynix Has a Major Warning for Micron Technology Stock Investors",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 12:43",
+      "impact": "low",
+      "category": "競爭對手動態",
+      "reason": "SK Hynix 計畫在未來五年大幅增加產能，可能導致未來記憶體市場供給過剩，對 Micron 長期定價能力構成潛在威脅。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Micron Earnings Seen as Key Test for AI-Driven Market Rally (MU)",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 12:40",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "市場將即將公布的財報視為 AI 類股漲勢的關鍵測試，屬於事件前的觀望情緒。"
+    },
+    {
+      "rank": 2,
+      "title": "Stock Market Week Ahead: Rebalancing And Technical Support",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 12:25",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "提及 Micron 財報為市場關注焦點，屬於總體市場分析的一部分，對個股無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Curious about Micron (MU) Q3 Performance? Explore Wall Street Estimates for Key Metrics",
+      "publisher": "Yahoo",
+      "date": "2026-06-18 13:15",
+      "impact": "low",
+      "category": "財報預測",
+      "reason": "僅為財報前夕的數據整理與預測彙整，未提供新的市場觀點。"
+    },
+    {
+      "rank": 4,
+      "title": "Zacks Earnings Trends Highlights: Nvidia and Micron",
+      "publisher": "Yahoo",
+      "date": "2026-06-18 06:06",
+      "impact": "low",
+      "category": "財報預測",
+      "reason": "將 Micron 與 Nvidia 並列為科技業獲利成長驅動力，屬於產業趨勢分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

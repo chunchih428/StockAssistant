@@ -1,0 +1,165 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-06-21",
+  "source_file": "cache/2026-06-21/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 4,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Amazon 憑藉強勁的 AI 基礎設施投資、雲端運算成長潛力以及 Prime Day 的市場預期，持續鞏固其科技巨頭地位，儘管面臨數據中心擴張的環保與勞工審查壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Amazon’s CEO: AI Growth Is Dwarfing Everything We’ve Seen Before.",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 17:18",
+      "impact": "high",
+      "category": "公司策略",
+      "reason": "執行長 Andy Jassy 強調 AI 採用速度前所未見，顯示公司在 AI 領域的成長動能極強，對長期營收具正面指引。"
+    },
+    {
+      "rank": 2,
+      "title": "Famous Wall Street Tech Analyst Names Meta and Amazon the Best Magnificent 7 Stock Buys Today",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 16:52",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "Evercore ISI 分析師 Mark Mahaney 將 Amazon 列為「七巨頭」中的首選買入標的，增強市場信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon (AMZN) Commits €10 Billion for European fulfillment network",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 12:19",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "投入 100 億歐元擴建歐洲物流網絡，顯示公司對歐洲市場成長的長期承諾與資本支出信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Bank of America spots Prime Day signal for Amazon investors",
+      "publisher": "Yahoo",
+      "date": "2026-06-20 00:03",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "美銀指出 Prime Day 的潛在訊號，預期該活動將成為短期股價的催化劑。"
+    },
+    {
+      "rank": 5,
+      "title": "Forget AMD: Amazon Declares War on Nvidia by Selling Its Own AI Chips",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 15:32",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "透過自研 AI 晶片降低對 Nvidia 的依賴，有助於長期改善 AWS 的毛利率結構。"
+    },
+    {
+      "rank": 6,
+      "title": "Amazon's Latest Warehouse Experiment Could Eliminate Millions Of Labor Hours: Report",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 16:31",
+      "impact": "low",
+      "category": "營運優化",
+      "reason": "導入 FFLB 系統以優化物流效率，預期可顯著降低營運成本。"
+    },
+    {
+      "rank": 7,
+      "title": "Skyborn, Amazon sign 600MW PPA for Gennaker offshore wind farm",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 13:28",
+      "impact": "low",
+      "category": "ESG 發展",
+      "reason": "簽署大型綠能採購協議，符合公司永續發展目標並降低長期能源成本風險。"
+    },
+    {
+      "rank": 8,
+      "title": "Amazon AI exec predicts first 'commercially useful' quantum computers in 5-7 years",
+      "publisher": "CNBC",
+      "date": "2026-06-17 11:40",
+      "impact": "low",
+      "category": "技術研發",
+      "reason": "展現公司在量子運算領域的技術前瞻性，雖短期無營收貢獻，但提升品牌科技價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "SpaceX Surpassed Amazon in Market Cap This Week.",
+      "publisher": "Yahoo",
+      "date": "2026-06-20 18:13",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "SpaceX 市值超越 Amazon，反映市場資金流向轉移，對 Amazon 的成長溢價構成心理壓力。此處彙整了多篇關於 SpaceX 市值超越 Amazon 的報導。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon investigating engineers who criticized AI data center expansion",
+      "publisher": "CNBC",
+      "date": "2026-06-18 15:45",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "內部員工對數據中心擴張的批評引發調查，可能導致勞資關係緊張及公眾對環境影響的負面觀感。"
+    },
+    {
+      "rank": 3,
+      "title": "Google, SpaceX, Microsoft, and Amazon Are About to Spend ‘Twice the Entire U.S. Defense Budget’ on AI",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 17:19",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "巨額的 AI 資本支出引發市場對投資回報率 (ROI) 的擔憂，可能壓縮短期自由現金流。"
+    },
+    {
+      "rank": 4,
+      "title": "Amazon Hits Water Milestone in India",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 17:47",
+      "impact": "low",
+      "category": "ESG 發展",
+      "reason": "雖為正面消息，但文中提及數據中心面臨的環境審查壓力，反映出基礎設施擴張的監管風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Amazon (AMZN) Stock Gets Fair Value Bump As Analysts Weigh AWS And AI Spending",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 17:10",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析師僅對目標價進行微幅調整，顯示市場對目前估值看法趨於平衡。"
+    },
+    {
+      "rank": 2,
+      "title": "Making Six Figures but Betting Everything on U.S. Stocks? AVUV Fixes That Problem",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 21:30",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "文章僅將 Amazon 列為投資組合的一部分，並非針對公司基本面分析。此處彙整了兩篇關於投資組合配置的建議文章。"
+    },
+    {
+      "rank": 3,
+      "title": "SpaceX stock joins AI bond frenzy",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 19:13",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "提及 Amazon 參與 AI 債券市場，屬於正常的資本運作範疇，對股價影響中性。"
+    },
+    {
+      "rank": 4,
+      "title": "Hershey embraces protein trend with new Reese’s snack bars",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 14:16",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅提到產品在 Amazon 上架，對 Amazon 營收影響微乎其微。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

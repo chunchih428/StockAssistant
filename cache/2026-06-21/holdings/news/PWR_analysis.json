@@ -1,0 +1,66 @@
+{
+  "ticker": "PWR",
+  "company": "Quanta Services",
+  "analysis_date": "2026-06-21",
+  "source_file": "cache/2026-06-21/holdings/news/PWR.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 4,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司憑藉 AI 基礎設施與電網現代化需求，創下歷史新高的訂單積壓量並上調全年財測，儘管股價已大幅上漲引發估值擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Quanta Services (PWR) Reports Record Backlog And Lifts Full Year Outlook",
+      "publisher": "Yahoo",
+      "date": "2026-06-20 05:06",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司公布創紀錄的訂單積壓量，並明確上調全年財測，顯示 AI 基礎設施與電網擴張帶來的強勁營收動能，為股價提供實質支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Quanta Sees Demand Beyond 2030: Is the Market Undervaluing Its Growth?",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 13:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "強調電網擴張、資料中心與電氣化需求將延續至 2030 年後，長期成長能見度高，有助於市場重新評估其長期價值。"
+    },
+    {
+      "rank": 3,
+      "title": "Quanta Services (PWR) Stock Valuation After Investor Day AI Growth Outlook And US$1b Buyback",
+      "publisher": "Yahoo",
+      "date": "2026-06-14 03:10",
+      "impact": "medium",
+      "category": "資本配置",
+      "reason": "投資人日釋出 AI 成長展望，並宣布 10 億美元的股票回購計畫，顯示管理層對公司現金流與未來前景的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Quanta Services Is A Great Stock, But It's Already Been Rewarded",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-17 08:50",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管基本面強勁，但分析師指出股價已反映大部分利多，目前估值偏高，短期內進一步上漲空間可能受限。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "If You Invested $1000 In Quanta Services Stock 20 Years Ago, You Would Have This Much Today",
+      "publisher": "Benzinga",
+      "date": "2026-06-16 18:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此類文章為歷史績效回顧，對公司當前的營運決策或未來股價走勢無直接影響，僅供投資人參考長期報酬。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
