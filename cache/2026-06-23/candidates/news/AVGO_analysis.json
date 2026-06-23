@@ -1,0 +1,102 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-06-21",
+  "source_file": "cache/2026-06-21/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 16,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Broadcom 受惠於與 Google 等科技巨頭在 AI 客製化晶片領域的強勁合作關係，加上財務結構優化（債務回購），獲得華爾街分析師一致看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "JPMorgan Says Investors Should Be ‘Aggressive Buyers’ Of Broadcom At Current Levels",
+      "publisher": "Yahoo",
+      "date": "2026-06-17 22:29",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "摩根大通確認 Broadcom 與 Google 的 2nm TPU 合作計畫進展順利，消除了市場對供應鏈的疑慮，建議投資人積極買進。"
+    },
+    {
+      "rank": 2,
+      "title": "AVGO Gains 3% Overnight: Chipmaker Ups Debt Buyback By $500M After Strong Interest",
+      "publisher": "Yahoo",
+      "date": "2026-06-18 04:49",
+      "impact": "high",
+      "category": "財務管理",
+      "reason": "公司將債務回購規模擴大至 30 億美元，顯示現金流強勁且管理層致力於優化資產負債表，直接推升股價表現。"
+    },
+    {
+      "rank": 3,
+      "title": "Broadcom Builds Custom Chips for Google, Meta, Anthropic, and OpenAI",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 21:50",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "Broadcom 成功打入多家 AI 巨頭供應鏈，證明其在客製化晶片領域的護城河極深，且本益比相對具吸引力。"
+    },
+    {
+      "rank": 4,
+      "title": "Broadcom Holds the Best AI Hand This Side of Nvidia, Thanks to CEO Hock Tan",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 05:00",
+      "impact": "medium",
+      "category": "公司治理",
+      "reason": "執行長 Hock Tan 的領導能力備受肯定，其併購與整合策略長期為股東創造了極高回報。"
+    },
+    {
+      "rank": 5,
+      "title": "VMware: Broadcom's Second Biggest Business Set to Accelerate",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 12:45",
+      "impact": "medium",
+      "category": "業務發展",
+      "reason": "除了 AI 晶片，VMware 軟體業務的成長潛力被視為公司未來的第二成長曲線。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Architect Labs raises $24 million to take on Broadcom, Marvell custom chip business",
+      "publisher": "Yahoo",
+      "date": "2026-06-18 13:02",
+      "impact": "low",
+      "category": "競爭威脅",
+      "reason": "新創公司 Architect Labs 獲得融資試圖挑戰 Broadcom 的客製化晶片市場，雖目前規模尚小，但顯示該領域競爭正在加劇。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Industry Comparison: Evaluating Broadcom Against Competitors In Semiconductors",
+      "publisher": "Benzinga",
+      "date": "2026-06-19 05:58",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "常規的產業比較分析，提供投資人客觀的估值與競爭力參考，無特定利多或利空訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "Cramer’s Mad Dash: Broadcom",
+      "publisher": "CNBC",
+      "date": "2026-06-17 09:32",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "媒體評論員的日常觀點分享，對股價影響力有限。"
+    },
+    {
+      "rank": 3,
+      "title": "Top Research Reports for Alphabet, Broadcom & Johnson & Johnson",
+      "publisher": "Yahoo",
+      "date": "2026-06-18 21:09",
+      "impact": "low",
+      "category": "研究報告",
+      "reason": "僅為研究報告的彙整清單，未提供具體的新觀點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-06-21",
+  "source_file": "cache/2026-06-21/candidates/news/NFLX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "Netflix 透過與 Spectrum 合作擴大通路、簽署 Ryan Coogler 獨家內容合約以及低估值吸引力，抵銷了市場對競爭與訴訟的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Netflix (NFLX) Secures Ryan Coogler TV Deal For Exclusive New Series",
+      "publisher": "Yahoo",
+      "date": "2026-06-18 23:20",
+      "impact": "high",
+      "category": "內容策略",
+      "reason": "與知名導演 Ryan Coogler 簽署多年獨家電視合約，有助於強化平台原創內容競爭力，鞏固訂戶黏著度。"
+    },
+    {
+      "rank": 2,
+      "title": "Charter Communications (CHTR) Adds Netflix To Spectrum App Store For Easier Streaming",
+      "publisher": "Yahoo",
+      "date": "2026-06-20 03:15",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "透過 Spectrum App Store 整合，降低用戶訂閱門檻，有助於擴大用戶觸及範圍並提升訂閱便利性。"
+    },
+    {
+      "rank": 3,
+      "title": "NFLX Stock Trades At Its Cheapest Valuation In 4 Years: Shay Boloor Calls It Massive 'Opportunity'",
+      "publisher": "Benzinga",
+      "date": "2026-06-18 03:25",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師指出 Netflix 處於 4 年來估值低點，強調其定價能力與廣告業務成長潛力，具備長期投資價值。"
+    },
+    {
+      "rank": 4,
+      "title": "Netflix Moves On Radford Studio At $400 Million",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 17:50",
+      "impact": "low",
+      "category": "資本支出",
+      "reason": "以 4 億美元收購 Radford Studio Center，顯示公司在製作基礎設施上的策略性佈局，且價格低於 2021 年高點。"
+    },
+    {
+      "rank": 5,
+      "title": "Netflix Signals Interest in More Broadcaster Partnerships Following TF1 Agreement",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 12:51",
+      "impact": "low",
+      "category": "市場擴張",
+      "reason": "延續與 TF1 的合作模式，顯示 Netflix 積極尋求與傳統廣播商結盟，以擴大在地化內容與市場滲透。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Netflix faces fresh trouble from new lawsuit",
+      "publisher": "Yahoo",
+      "date": "2026-06-20 11:03",
+      "impact": "medium",
+      "category": "法律訴訟",
+      "reason": "面臨新訴訟案件，可能增加法律成本與營運不確定性，對品牌形象造成潛在負面影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon vs. Netflix: Which Streaming Giant Has an Edge Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 12:07",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "市場分析指出 Amazon 憑藉 Prime Video 與 AWS 的多元化引擎，在廣告業務競爭中相較於 Netflix 具備結構性優勢。"
+    },
+    {
+      "rank": 3,
+      "title": "Is NFLX Stock Worth Buying at a Premium P/S or Should Investors Wait?",
+      "publisher": "Yahoo",
+      "date": "2026-06-18 15:48",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管成長強勁，但高市銷率 (P/S) 估值與疲軟的財測指引，仍讓部分投資人對短期股價表現持保留態度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "S&P 500, Nasdaq And Dow End Holiday-Shortened Week Higher As Investors Cheer US-Iran Peace Deal",
+      "publisher": "Yahoo",
+      "date": "2026-06-18 22:07",
+      "impact": "low",
+      "category": "總體經濟",
+      "reason": "美伊和平協議簽署帶動大盤走高，Netflix 作為成分股受整體市場情緒帶動，非公司基本面因素。"
+    },
+    {
+      "rank": 2,
+      "title": "The Netflix-Lionsgate Rumor Exposed a Bigger Shift in Media M&A",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 11:00",
+      "impact": "low",
+      "category": "產業趨勢",
+      "reason": "探討媒體產業併購趨勢，Netflix 被提及為產業整合中的關鍵參與者，但未有具體併購行動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

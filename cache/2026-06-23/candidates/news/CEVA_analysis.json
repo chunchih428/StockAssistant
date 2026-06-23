@@ -1,0 +1,46 @@
+{
+  "ticker": "CEVA",
+  "company": "CEVA",
+  "analysis_date": "2026-06-20",
+  "source_file": "cache/2026-06-20/candidates/news/CEVA.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "市場看好 CEVA 在實體 AI (Physical AI) 領域的技術布局，並獲得分析師給予買進評級與目標價，帶動股價強勁上漲。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ceva (CEVA) Surges 10.7%: Is This an Indication of Further Gains?",
+      "publisher": "Zacks",
+      "date": "2026-06-19",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價單日大漲 10.7 %，顯示市場對公司近期基本面與技術前景的強烈認同，動能強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "Needham Initiates Coverage On CEVA with Buy Rating, Announces Price Target of $55",
+      "publisher": "Benzinga",
+      "date": "2026-06-15",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Needham 分析師 Charles Shi 給予買進評級並設定 55 美元目標價，為股價提供明確的估值支撐與市場信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Ceva To 'Get A New Life' With Physical AI Inflection, Says Bullish Analyst",
+      "publisher": "Benzinga",
+      "date": "2026-06-15",
+      "impact": "medium",
+      "category": "產業趨勢",
+      "reason": "分析師指出 CEVA 在無線連接、感測與 DSP/NPU 的技術組合使其成為實體 AI 領域的潛在贏家，具備長期成長潛力。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}
