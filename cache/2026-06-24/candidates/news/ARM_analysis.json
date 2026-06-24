@@ -1,0 +1,102 @@
+{
+  "ticker": "ARM",
+  "company": "Arm Holdings plc",
+  "analysis_date": "2026-06-21",
+  "source_file": "cache/2026-06-21/candidates/news/ARM.json",
+  "summary": {
+    "total_articles": 13,
+    "bullish_count": 10,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於代理式 AI (Agentic AI) 需求爆發與伺服器 CPU 市場擴張，Arm 的技術授權動能強勁，推動股價創下 52 週新高。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why Bernstein Just Raised Its Price Target on Arm Stock by Nearly 70%",
+      "publisher": "Yahoo",
+      "date": "2026-06-20 13:45",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Bernstein 將目標價大幅調升近 70%，主要歸功於代理式 AI (Agentic AI) 帶來的結構性成長動能，顯示市場對其長期獲利能力信心大增。"
+    },
+    {
+      "rank": 2,
+      "title": "Arm Holdings' Licensing Momentum Continues to Power Revenue Growth",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 15:20",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "財報顯示授權營收成長 29%，總營收成長 20%，證明 Arm 在 AI 基礎設施領域的技術授權模式具有極高的護城河與變現能力。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Did RXT, NBIS, ARM Stocks Surge To 52-Week Highs?",
+      "publisher": "Yahoo",
+      "date": "2026-06-18 03:46",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價創下 52 週新高，反映了華爾街對其在 AI 晶片生態系中不可或缺地位的強烈認同。"
+    },
+    {
+      "rank": 4,
+      "title": "Arm (ARM) Launches Neural Dawn To Show How It Wants In On Mobile AI Gaming",
+      "publisher": "Yahoo",
+      "date": "2026-06-17 23:22",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出 Neural Dawn 展示其神經網路繪圖技術，顯示 Arm 正積極將 AI 應用場景從伺服器擴展至行動裝置遊戲領域，開拓新成長曲線。"
+    },
+    {
+      "rank": 5,
+      "title": "Arm Holdings plc (ARM) Rallied Over Multiple Tailwinds",
+      "publisher": "Yahoo",
+      "date": "2026-06-17 12:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "投資機構 Sustainable Growth Advisers 指出 Arm 受惠於多重順風，包括 AI 伺服器需求與架構升級，強化了長期成長論點。"
+    },
+    {
+      "rank": 6,
+      "title": "Arm Holdings: The AI CPU Compounder Is Becoming Indispensable",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-15 09:30",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析指出 Arm 作為 AI CPU 領域的複利成長股，其架構已成為產業不可或缺的基礎，具備長期投資價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "New Street Research Downgrades ARM Holdings to Neutral",
+      "publisher": "Benzinga",
+      "date": "2026-06-18 12:26",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師 Pierre Ferragu 將評級從買入下調至中性，可能基於對短期估值過高或成長放緩的擔憂，為市場樂觀情緒帶來警示。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Advanced Micro Devices vs. Arm Holdings: Which AI CPU Stock Is the Better Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-06-18 13:35",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "針對 AMD 與 Arm 在 AI CPU 市場的競爭進行比較，屬於產業分析性質，未對股價產生直接驅動影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Focus on 5 AI Behemoths Carving a Niche in the Server CPU Chip Market",
+      "publisher": "Yahoo",
+      "date": "2026-06-16 12:52",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "綜述包含 Arm 在內的五大 AI 晶片巨頭動態，屬於產業概況報導，對單一公司影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
