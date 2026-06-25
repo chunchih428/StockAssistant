@@ -1,0 +1,75 @@
+{
+  "ticker": "PANW",
+  "company": "Palo Alto Networks",
+  "analysis_date": "2026-06-25",
+  "source_file": "cache/2026-06-25/candidates/news/PANW.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司在 AI 平台整合與策略合作上展現成長潛力，但同時面臨併購帶來的利潤率壓力與來自 Fortinet 的競爭挑戰。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "IBM, Red Hat and Palo Alto Networks Expand Project Lightwell to Help Organizations Respond to Software Vulnerabilities",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 13:00",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "透過與 IBM 和 Red Hat 的深度合作，擴展 Project Lightwell 專案，有助於提升 Palo Alto Networks 在企業資安市場的影響力與技術整合深度。"
+    },
+    {
+      "rank": 2,
+      "title": "Will Faster Acquisition Integration and AI-Driven Platforms Change Palo Alto Networks' (PANW) Narrative?",
+      "publisher": "Yahoo",
+      "date": "2026-06-23 17:15",
+      "impact": "medium",
+      "category": "產品與營運",
+      "reason": "報導指出公司在整合 CyberArk 等併購案上進展順利，且 AI 驅動平台已展現獲利能力，為長期成長敘事提供正面支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Palo Alto Networks (PANW) Faces Margin Pressure As Fortinet Gains Ground In SASE",
+      "publisher": "Yahoo",
+      "date": "2026-06-23 16:15",
+      "impact": "medium",
+      "category": "財務表現",
+      "reason": "近期大型併購案導致整合成本上升，對利潤率造成顯著壓力，且在 SASE 市場面臨 Fortinet 的激烈競爭。"
+    },
+    {
+      "rank": 2,
+      "title": "PANW vs. FTNT: Which Cybersecurity Stock Has an Edge Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-06-23 14:04",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "分析指出 Fortinet 在 SASE 採用率與執行穩定度上具備優勢，且估值相對較低，對 PANW 的市場份額構成威脅。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Palo Alto Networks (PANW) Increases Despite Market Slip: Here's What You Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-06-23 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為單日股價波動紀錄，漲幅 1.65 % 屬於正常市場交易範圍，未有重大基本面消息驅動。"
+    },
+    {
+      "rank": 2,
+      "title": "Investors Heavily Search Palo Alto Networks, Inc. (PANW): Here is What You Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "反映投資人關注度提升，但屬於一般性市場資訊彙整，並未提供新的利多或利空訊號。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

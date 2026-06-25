@@ -1,0 +1,120 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-06-25",
+  "source_file": "cache/2026-06-25/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 CrowdStrike 即將進行的 4 拆 1 股票分割持樂觀態度，且公司在 AI 安全領域的持續創新與強勁的財報表現鞏固了其市場領導地位。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike Is Splitting Its Stock 4-for-1 on July 2. What Investors Should Know Before the Date Arrives.",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 20:05",
+      "impact": "high",
+      "category": "公司治理",
+      "reason": "公司宣布將於 7 月 2 日執行 4 拆 1 股票分割，此舉通常能提高股票流動性並吸引更多散戶投資者，被視為公司對未來成長充滿信心的訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike (CRWD) Stock Gets Fair Value Bump After Strong Q1 And AI Security Momentum",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 22:17",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "第一季財報表現強勁，加上 AI 安全產品的動能，促使分析師上調其公平價值預估至每股 712.37 美元，顯示市場對其基本面看好。"
+    },
+    {
+      "rank": 3,
+      "title": "CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide SIEM",
+      "publisher": "Yahoo",
+      "date": "2026-06-23 12:04",
+      "impact": "medium",
+      "category": "市場地位",
+      "reason": "被 IDC MarketScape 評為全球 SIEM 領域的領導者，進一步驗證了其技術實力與市場競爭力。"
+    },
+    {
+      "rank": 4,
+      "title": "Jim Cramer on CrowdStrike (CRWD): “I Think the Second Half of the Year is Going to Be Really Good”",
+      "publisher": "Yahoo",
+      "date": "2026-06-21 17:50",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "知名財經評論員 Jim Cramer 公開看好 CrowdStrike 下半年的表現，為市場注入信心。"
+    },
+    {
+      "rank": 5,
+      "title": "The Bull Case For CrowdStrike (CRWD) Could Change Following New AWS-Powered AI Security Push",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 15:13",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "公司與 AWS 合作推出 AI 安全增強功能，擴展了 Falcon AI 的檢測能力，強化了其在雲端安全領域的護城河。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike vs. Zscaler: Which Cybersecurity Stock Has an Edge?",
+      "publisher": "Yahoo",
+      "date": "2026-06-22 12:02",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "分析指出 Zscaler 在平台採用率與估值方面相較於 CrowdStrike 具有優勢，對 CRWD 的相對投資吸引力構成壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Here’s Burke Wealth Management’s Concerns on CrowdStrike (CRWD) Amid AI Disruption Challenges",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 12:43",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "投資管理公司 Burke Wealth Management 對 AI 顛覆帶來的挑戰表示擔憂，提醒投資者注意潛在的市場波動風險。"
+    },
+    {
+      "rank": 3,
+      "title": "CrowdStrike Stock: Is CRWD Underperforming the Technology Sector?",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 07:03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出過去一年 CrowdStrike 的股價表現落後於整體科技板塊，引發投資者對其成長動能是否減弱的疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike CEO: AI agents need to be secured, controlled, and governed",
+      "publisher": "CNBC",
+      "date": "2026-06-22 17:01",
+      "impact": "low",
+      "category": "高層觀點",
+      "reason": "CEO George Kurtz 討論 AI 安全的重要性，屬於產業趨勢分析，對股價無直接短期影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Forget CrowdStrike. For 0.59% This Fund Owns It Plus 30 Cybersecurity Rivals",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 20:28",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "介紹網路安全 ETF 的投資組合，僅提及 CrowdStrike 為其中持股，對個股影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "Investors Heavily Search CrowdStrike (CRWD): Here is What You Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅反映市場搜尋熱度，屬於中性資訊整理。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

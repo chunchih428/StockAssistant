@@ -1,0 +1,120 @@
+{
+  "ticker": "ARM",
+  "company": "Arm Holdings plc",
+  "analysis_date": "2026-06-25",
+  "source_file": "cache/2026-06-25/candidates/news/ARM.json",
+  "summary": {
+    "total_articles": 18,
+    "bullish_count": 8,
+    "bearish_count": 5,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管市場面臨科技股獲利了結與估值修正壓力，華爾街分析師仍因 AI 成長潛力持續調升 Arm 目標價，多空因素交織。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "TD Cowen Maintains Buy on ARM Holdings, Raises Price Target to $475",
+      "publisher": "Benzinga",
+      "date": "2026-06-24 10:34",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Krish Sankar 將目標價大幅上調至 $475，顯示對 Arm 在 AI 領域長期成長動能的強烈信心。"
+    },
+    {
+      "rank": 2,
+      "title": "UBS Maintains Buy on ARM Holdings, Raises Price Target to $470",
+      "publisher": "Benzinga",
+      "date": "2026-06-24 08:58",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "UBS 分析師 Timothy Arcuri 維持買入評級並調升目標價，反映市場對 Arm 架構在資料中心市佔率提升的預期。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Bernstein Just Raised Its Price Target on Arm Stock by Nearly 70%",
+      "publisher": "Yahoo",
+      "date": "2026-06-20 13:45",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Bernstein 將目標價調升近 70%，主要歸功於「代理人 AI」(Agentic AI) 帶來的技術需求紅利。"
+    },
+    {
+      "rank": 4,
+      "title": "Masayoshi Son Says Arm Holdings Could Be Worth $4 Trillion",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 15:56",
+      "impact": "medium",
+      "category": "公司願景",
+      "reason": "軟銀執行長孫正義對 Arm 的長期估值給予極高展望，雖具投機性，但強化了市場對其作為 AI 核心基礎設施的認知。"
+    },
+    {
+      "rank": 5,
+      "title": "Stanley Druckenmiller Backs These 3 Chip and Tech Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-06-23 12:45",
+      "impact": "medium",
+      "category": "機構持倉",
+      "reason": "知名投資人 Stanley Druckenmiller 的家族辦公室揭露持有 Arm 股份，為該股提供機構投資者的背書。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Arm Holdings (ARM) Is Down 7.6% After AI Valuation Jitters And Insider-Selling Concerns",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 10:14",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "市場對高成長科技股進行獲利了結，加上對估值過高與內部人賣股的擔憂，導致股價出現顯著回調。"
+    },
+    {
+      "rank": 2,
+      "title": "Arm Stock Is Up 235% in 2026: Is Today’s 10% Drawdown a Take-Profits Signal?",
+      "publisher": "Yahoo",
+      "date": "2026-06-23 18:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "今年以來漲幅過大，引發市場對於短期回調是否為賣出訊號的討論，加劇了賣壓。"
+    },
+    {
+      "rank": 3,
+      "title": "ARM vs. APP: Which AI-Exposed Tech Stock to Consider Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-06-23 17:51",
+      "impact": "low",
+      "category": "競爭分析",
+      "reason": "AppLovin 被認為在獲利成長與 AI 廣告動能上具備優勢，對 Arm 構成潛在的資金排擠效應。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "B of A Securities Maintains Neutral on ARM Holdings, Raises Price Target to $460",
+      "publisher": "Benzinga",
+      "date": "2026-06-23 08:39",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "儘管調升目標價，但維持中立評級，顯示分析師對當前股價與基本面溢價的平衡看法。"
+    },
+    {
+      "rank": 2,
+      "title": "New Street Research Downgrades ARM Holdings to Neutral",
+      "publisher": "Benzinga",
+      "date": "2026-06-18 12:26",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師將評級下調至中立，反映對短期股價漲幅過快後的風險控管考量。"
+    },
+    {
+      "rank": 3,
+      "title": "Arm Holdings vs Advanced Micro Devices: One Winner of The AI Data Center Showdown",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 21:07",
+      "impact": "low",
+      "category": "競爭分析",
+      "reason": "對比 Arm 與 AMD 在 AI 資料中心的競爭地位，屬於產業分析性質，無直接利多或利空影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "PLTR",
+  "company": "Palantir Technologies Inc.",
+  "analysis_date": "2026-06-25",
+  "source_file": "cache/2026-06-25/holdings/news/PLTR.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 6,
+    "bearish_count": 8,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司基本面成長強勁且持續獲得企業合作夥伴青睞，但股價受軟體類股資金輪動至半導體產業的壓力影響，面臨顯著的技術性修正。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Palantir partners with Zeta Global on AI-powered marketing infrastructure",
+      "publisher": "Yahoo",
+      "date": "2026-06-23 19:50",
+      "impact": "high",
+      "category": "商業合作",
+      "reason": "Palantir 與 Zeta Global 達成合作，將協助其重建 Data Cloud 並構建 AI 行銷基礎設施，此舉獲得 Wedbush 分析師認可，視為企業端驗證其技術實力的重要里程碑。"
+    },
+    {
+      "rank": 2,
+      "title": "Palantir Secures Foundational Role in NGC2 Data Layer",
+      "publisher": "Yahoo",
+      "date": "2026-06-22 20:05",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Palantir 成功取得 NGC2 資料層的基礎性角色，進一步鞏固其在 AI 與資料平台領域的市場領導地位。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Palantir Technologies Stock Finally a Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 08:43",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "儘管股價近期回調，但分析指出其成長率與長期展望依然穩健，具備投資價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Palantir Stock on Pace for Worst Month in 5 Years",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 18:06",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價表現疲軟，正邁向五年來最差的單月跌幅，反映出市場對軟體類股的負面情緒與資金撤離壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "PLTR, CRM Stocks Can't Stop Sliding While Chip Stocks Shine",
+      "publisher": "Yahoo",
+      "date": "2026-06-23 02:18",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "機構投資人將資金從軟體股轉向半導體類股，導致 Palantir 等軟體公司股價持續承壓。"
+    },
+    {
+      "rank": 3,
+      "title": "Jim Cramer Is Disappointed In No Mojo For Palantir",
+      "publisher": "Yahoo",
+      "date": "2026-06-23 06:54",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "知名財經評論員 Jim Cramer 對 Palantir 近期的股價動能表示失望，認為其缺乏推升股價的短期催化劑。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 08:48",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此類新聞主要討論大盤與半導體類股走勢，Palantir 僅被列為觀察名單，並無針對公司本身的重大消息。"
+    },
+    {
+      "rank": 2,
+      "title": "Stocks making big moves yesterday: Shutterstock, Viavi Solutions, Micron, Palantir Technologies, and IonQ",
+      "publisher": "Yahoo",
+      "date": "2026-06-23 19:12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為每日市場波動的例行性回顧，未提供新的基本面資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

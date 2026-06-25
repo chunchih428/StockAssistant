@@ -1,0 +1,83 @@
+{
+  "ticker": "IBM",
+  "company": "International Business Machines Corporation",
+  "analysis_date": "2026-06-25",
+  "source_file": "cache/2026-06-25/candidates/news/IBM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 18,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "IBM 受惠於 JPMorgan 的分析師評級上調以及與 OpenAI 在網路安全領域的策略合作，股價表現強勁並成功抵禦科技股的整體回調。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "JPMorgan Upgrades IBM on Stronger Software Growth Expectations",
+      "publisher": "Yahoo",
+      "date": "2026-06-25 03:31",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "JPMorgan 分析師 Brian Essex 將 IBM 評級上調，主要基於對其軟體業務在 2026 年下半年加速成長的信心，這是推動股價上漲的核心催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "IBM and OpenAI Just Partnered on Cybersecurity",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 20:17",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "IBM 加入 OpenAI 的 Daybreak Cyber Partner Program，此舉強化了 IBM 在 AI 驅動網路安全領域的競爭力，市場反應正面，股價盤後上漲 4.8%。"
+    },
+    {
+      "rank": 3,
+      "title": "IBM, Red Hat and Palo Alto Networks Expand Project Lightwell",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 13:00",
+      "impact": "medium",
+      "category": "產品與技術",
+      "reason": "IBM 與 Red Hat 及 Palo Alto Networks 擴大合作，旨在協助企業應對軟體漏洞，進一步鞏固其在企業級資安市場的地位。"
+    },
+    {
+      "rank": 4,
+      "title": "Trump Wants to Aggressively Fast Track Quantum Computing Projects",
+      "publisher": "Yahoo",
+      "date": "2026-06-23 18:51",
+      "impact": "medium",
+      "category": "政策影響",
+      "reason": "美國政府計畫加速量子計算項目，並明確點名 IBM 與 Google 為關鍵合作夥伴，顯示 IBM 在國家級戰略技術中的核心地位。"
+    },
+    {
+      "rank": 5,
+      "title": "Can Strategic Partnerships Help NOW Scale Enterprise AI Adoption?",
+      "publisher": "Yahoo",
+      "date": "2026-06-23 14:01",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "ServiceNow 透過與 IBM 合作擴展 AI 治理能力，顯示 IBM 的 AI 解決方案在企業級市場的生態系統影響力持續擴大。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Former NEC Director Gary Cohn: The market would be floundering without the AI energy trade",
+      "publisher": "CNBC",
+      "date": "2026-06-23 08:55",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "IBM 副董事長 Gary Cohn 評論市場趨勢，雖提及 AI 能源交易的重要性，但未直接針對 IBM 個股基本面提供具體影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Investors Heavily Search International Business Machines Corporation (IBM): Here is What You Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅反映市場對 IBM 的搜尋熱度增加，屬於投資人關注度統計，對股價無直接基本面影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

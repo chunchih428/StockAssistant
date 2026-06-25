@@ -1,0 +1,84 @@
+{
+  "ticker": "HON",
+  "company": "Honeywell",
+  "analysis_date": "2026-06-25",
+  "source_file": "cache/2026-06-25/candidates/news/HON.json",
+  "summary": {
+    "total_articles": 19,
+    "bullish_count": 10,
+    "bearish_count": 3,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "Honeywell 正在進行航太業務分拆並將其納入 S&P 500 指數，市場對此重組帶來的價值釋放持正面態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Dow Jones Component's Spinoff Joins S&P 500. Shares Jump.",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 20:23",
+      "impact": "high",
+      "category": "公司重組",
+      "reason": "Honeywell 航太業務分拆後將正式納入 S&P 500 指數，此舉通常會吸引指數型基金的被動買盤，對股價有顯著支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Honeywell (HON) Stock Could Be 28.5% Undervalued on Its Automation and Energy Narrative",
+      "publisher": "Yahoo",
+      "date": "2026-06-19 01:12",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析師指出公司在自動化與能源領域的敘事被低估，潛在漲幅空間達 28.5%，為長期投資者提供買入訊號。"
+    },
+    {
+      "rank": 3,
+      "title": "HONEYWELL AND MIT FIND DIGITAL TECHNOLOGIES CAN HELP INCREASE ENERGY SUPPLY, REDUCE ENERGY PRODUCTION COST BY TENS OF BILLIONS ANNUALLY",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 12:01",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "與 MIT 的合作展示了 Honeywell 在數位技術與能源轉型領域的領導地位，有助於提升公司長期成長潛力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Honeywell's Breakup: Analysing Honeywell Aerospace's Index Dynamics",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-23 22:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出分拆可能引發指數調整後的強制賣壓，短期內可能導致股價波動加劇。"
+    },
+    {
+      "rank": 2,
+      "title": "What Honeywell’s and DuPont’s Coming Reverse Stock Splits Mean for Investors",
+      "publisher": "Yahoo",
+      "date": "2026-06-22 17:40",
+      "impact": "low",
+      "category": "公司重組",
+      "reason": "提及反向股票分割可能帶來的資本結構調整風險，投資人需關注分拆後的股權稀釋與價值重估。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Honeywell International Inc. (HON) Advances While Market Declines",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 22:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為單日股價表現回顧，顯示 Honeywell 在大盤下跌時展現相對抗跌性，屬於市場常態波動。"
+    },
+    {
+      "rank": 2,
+      "title": "Reflecting On General Industrial Machinery Stocks’ Q1 Earnings: Honeywell (NASDAQ:HON)",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 12:24",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "針對第一季財報的歷史回顧與同業比較，未提供新的市場催化劑。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

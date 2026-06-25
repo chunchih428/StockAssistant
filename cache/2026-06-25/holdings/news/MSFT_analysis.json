@@ -1,0 +1,102 @@
+{
+  "ticker": "MSFT",
+  "company": "Microsoft",
+  "analysis_date": "2026-06-25",
+  "source_file": "cache/2026-06-25/holdings/news/MSFT.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 7,
+    "bearish_count": 1,
+    "neutral_count": 12,
+    "overall_sentiment": "bullish",
+    "key_theme": "Microsoft 積極擴展 AI 基礎設施與能源布局，透過與 Chevron 等能源巨頭合作解決資料中心電力需求，並持續深化全球 AI 生態系合作。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Chevron's Project Kilby Could Expand Beyond Initial Capacity for Microsoft, UBS Says",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 18:28",
+      "impact": "high",
+      "category": "基礎設施建設",
+      "reason": "Microsoft 與 Chevron 合作的 Project Kilby 專案展現了公司為解決 AI 資料中心電力瓶頸所做的長期布局，且具備擴充潛力，有利於維持雲端運算競爭優勢。"
+    },
+    {
+      "rank": 2,
+      "title": "FPT Expands Strategic Collaboration with Microsoft to Advance AI Frontier Innovation Across Asia",
+      "publisher": "Yahoo",
+      "date": "2026-06-25 02:00",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "透過與 FPT Corporation 的戰略合作，Microsoft 進一步擴大在亞洲市場的 AI 影響力，有助於加速 AI 解決方案的在地化落地。"
+    },
+    {
+      "rank": 3,
+      "title": "Microsoft CEO Satya Nadella Says Microsoft To Deploy Qualcomm's High Bandwidth Compute Chip At Azure Data Centers",
+      "publisher": "Benzinga",
+      "date": "2026-06-24 14:46",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "採用 Qualcomm 的高效能運算晶片，顯示 Microsoft 致力於多元化供應鏈並優化 Azure 資料中心的運算效能，以支撐龐大的 AI 工作負載。"
+    },
+    {
+      "rank": 4,
+      "title": "Dan Ives Believes MSFT Is The Most Oversold Large-Cap Stock",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 11:09",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師 Dan Ives 指出 Microsoft 目前被市場過度拋售，認為其 AI 潛力未被充分反映，具備長期投資價值。"
+    },
+    {
+      "rank": 5,
+      "title": "Chamath Says Alphabet, Meta and Microsoft Aren’t Bleeding Cash — They’re Building Moats",
+      "publisher": "Benzinga",
+      "date": "2026-06-24 14:07",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "Chamath Palihapitiya 強調 Microsoft 的資本支出是在建立護城河，而非單純的現金流消耗，為市場對 AI 投資回報的疑慮提供正面觀點。"
+    },
+    {
+      "rank": 6,
+      "title": "Microsoft Corporation (MSFT) Is One Of Billionaire David Tepper’s Oldest AI Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 19:03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "知名投資人 David Tepper 長期持有 Microsoft，顯示機構投資人對其 AI 轉型策略的信心。"
+    },
+    {
+      "rank": 7,
+      "title": "Inside the world's largest gas turbine plant — Hyperscalers including Meta and Microsoft are increasingly relying on GE Vernova",
+      "publisher": "CNBC",
+      "date": "2026-06-24 09:31",
+      "impact": "low",
+      "category": "基礎設施建設",
+      "reason": "Microsoft 透過與 GE Vernova 合作，確保資料中心電力供應的穩定性，這是支撐 AI 業務成長的關鍵基礎。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Retail Investors Sold NVIDIA, Microsoft, and Oracle to Fund SpaceX Buys",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 18:31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "散戶投資人賣出 Microsoft 以轉投其他標的，顯示短期資金流向的波動，對股價造成輕微賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "15 AI Stocks Analysts Are Watching: Microsoft, Nvidia, and More",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 13:48",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此類新聞為綜合性產業觀察，將 Microsoft 列為 AI 觀察清單之一，並未提供新的利多或利空訊息，僅為市場現況整理。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
