@@ -1,0 +1,102 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla",
+  "analysis_date": "2026-06-25",
+  "source_file": "cache/2026-06-25/holdings/news/TSLA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 5,
+    "bearish_count": 6,
+    "neutral_count": 9,
+    "overall_sentiment": "mixed",
+    "key_theme": "Tesla 在能源儲存與 AI 資料中心合作方面取得進展，但面臨自動駕駛安全調查與股價波動的雙重壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Sunrun Shares Rise on Deal With Tesla, Renew Home to Supply Power for Data Centers",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 19:56",
+      "impact": "high",
+      "category": "商業合作",
+      "reason": "Tesla 與 Sunrun 及 Renew Home 合作，旨在為 AI 資料中心提供 16 GW 的靈活電力，顯示其在虛擬電廠與能源基礎設施領域的成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Global Battery Storage Boom Is A Boon for Tesla",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 22:00",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "Tesla 與 NatPower 簽署多年協議，將在歐洲部署超過 25 GWh 的電池儲存系統，進一步鞏固其在能源儲存市場的領導地位。"
+    },
+    {
+      "rank": 3,
+      "title": "Cathie Wood Is Rebuilding The Magnificent 7 Trade: ARK ETFs Buy Amazon, Alphabet, Tesla During AI Pullback",
+      "publisher": "Benzinga",
+      "date": "2026-06-24 13:01",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "知名投資人 Cathie Wood 在市場回調期間增持 Tesla 股票，顯示機構投資者對其長期 AI 發展前景仍具信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Tesla faces federal probe after Model 3 slams into Texas home, killing 76-year-old",
+      "publisher": "CNBC",
+      "date": "2026-06-22 17:20",
+      "impact": "high",
+      "category": "法規調查",
+      "reason": "涉及死亡車禍的聯邦安全調查對 Tesla 的自動輔助駕駛系統（Autopilot）構成重大聲譽與法律風險，可能影響未來監管審核。"
+    },
+    {
+      "rank": 2,
+      "title": "Elon Musk loses trillionaire status after tech sell-off erases billions from fortune",
+      "publisher": "Yahoo",
+      "date": "2026-06-25 01:16",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受科技股整體拋售影響，Tesla 與 SpaceX 股價下跌，導致 Elon Musk 資產縮水，反映市場對高估值科技股的修正情緒。"
+    },
+    {
+      "rank": 3,
+      "title": "TSLA Stock Holds Flat — Tesla Hit With Wrongful Death Lawsuit, NTSB Probe Over Fatal Texas Crash",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 17:02",
+      "impact": "medium",
+      "category": "法律訴訟",
+      "reason": "除聯邦調查外，受害者家屬提起的過失致死訴訟增加了公司的法律成本與潛在賠償風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Tesla (TSLA) Seen Trading More Like a SpaceX Proxy as Merger Talk Grows",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 13:47",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "市場出現將 Tesla 視為 SpaceX 代理股的討論，反映投資人對兩家公司關聯性的重新評估，但目前僅屬市場傳言。"
+    },
+    {
+      "rank": 2,
+      "title": "Elon Musk Gives A Nod As Nvidia Argues AI Data Centers Aren't The Water Drain Many Believe",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 18:30",
+      "impact": "low",
+      "category": "產業觀點",
+      "reason": "Elon Musk 對 AI 資料中心環境影響的評論，屬於產業趨勢討論，對股價無直接財務影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Stocks making big moves yesterday: GoDaddy, Micron, AMN Healthcare Services, Tesla, and Broadcom",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 18:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場每日行情回顧，提及 Tesla 股價波動，未提供新的基本面資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-06-25",
+  "source_file": "cache/2026-06-25/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "Prime Day 2026 的強勁銷售表現與 AI 業務的持續擴張，有效抵銷了宏觀經濟與勞工法規帶來的市場雜音。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Amazon Rises on Day Two of Prime Day — Industry forecasts point to $26.3 billion in sales",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 19:33",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Prime Day 預計創造 263 億美元的線上銷售額，顯示消費者需求強勁，直接提振投資人對 Amazon 營收成長的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon Strengthens Bedrock Ecosystem: What's Next for Enterprise AI?",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 14:57",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "AWS 擴展 Bedrock AI 功能，有助於加速企業採用雲端 AI 服務，鞏固 Amazon 在雲端運算市場的競爭優勢。"
+    },
+    {
+      "rank": 3,
+      "title": "Cathie Wood Is Rebuilding The Magnificent 7 Trade: ARK ETFs Buy Amazon, Alphabet, Tesla During AI Pullback",
+      "publisher": "Benzinga",
+      "date": "2026-06-24 13:01",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名投資人 Cathie Wood 透過 ARK ETF 加碼買進 Amazon，顯示機構投資人對其長期 AI 發展潛力的認可。"
+    },
+    {
+      "rank": 4,
+      "title": "Nokia Teams With Amazon to Build Self-Driving Telecom Systems",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 17:28",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 Nokia 的合作將 AWS 應用擴展至電信領域，進一步多元化 Amazon 的企業級營收來源。"
+    },
+    {
+      "rank": 5,
+      "title": "Amazon's Zoox unveils redesigned robotaxi ahead of upcoming expansion",
+      "publisher": "CNBC",
+      "date": "2026-06-24 11:00",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "Zoox 推出新款自動駕駛計程車並準備擴張市場，展現 Amazon 在自動駕駛領域的技術進展與長期布局。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Update: Amazon Ordered to Bargain With Teamsters at California Facility",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 08:30",
+      "impact": "medium",
+      "category": "法規與勞工",
+      "reason": "法院裁定 Amazon 必須與加州設施的工會進行談判，可能增加未來營運成本並面臨勞資關係的潛在風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon Faces $90,000 Seller-Funds Scrutiny",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 17:39",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "賣家對平台帳戶凍結與內部存取權限提出質疑，雖金額不大，但可能引發對市場平台監管機制的負面輿論。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon’s record Prime Day masks a darker truth: Americans are spending more and getting less",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 14:56",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析指出 Prime Day 銷售額成長可能掩蓋了消費者購買力下降與債務增加的宏觀經濟隱憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Amazon Prime Day Puts ETFs in Focus",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 17:44",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅討論 Prime Day 對相關消費類 ETF 的影響，對 Amazon 本身股價無直接驅動作用。"
+    },
+    {
+      "rank": 2,
+      "title": "How Corning’s (GLW) Amazon Agreement Turns AI Data-Center Fiber Demand Into Domestic Capacity Expansion",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 18:53",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "報導重點在於 Corning 的產能擴張，Amazon 僅作為合作夥伴提及，影響力有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

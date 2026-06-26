@@ -1,0 +1,47 @@
+{
+  "ticker": "NTNX",
+  "company": "Nutanix, Inc.",
+  "analysis_date": "2026-06-25",
+  "source_file": "cache/2026-06-25/candidates/news/NTNX.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "Nutanix 受益於 VMware 客戶遷移潮與 AI 推論需求，儘管財報表現亮眼，但市場仍關注其作為高放空比例股票的波動性。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Nutanix: The Beaten-Down Private-Cloud Winner — Nutanix (NTNX) outlook: VMware migrations, storage partnerships, and AI inference tailwinds.",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-23 20:55",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "該分析指出 Nutanix 正處於有利的市場地位，特別是受惠於 VMware 客戶遷移至 Nutanix 平台，加上儲存合作夥伴關係與 AI 推論帶來的成長動能，被視為私有雲領域的贏家。"
+    },
+    {
+      "rank": 2,
+      "title": "Nutanix (NTNX) Reports Earnings Beat. Here’s Why It Is Still Among The Most Shorted Cloud Stocks?",
+      "publisher": "Insider Monkey",
+      "date": "2026-06-16T12:05:07Z",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "報導確認 Nutanix 財報表現優於預期，雖然提及該股仍是雲端領域被放空比例最高的股票之一，但財報利多是推動股價的核心基本面因素。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Nutanix (NTNX): Buy, Sell, or Hold Post Q1 Earnings?",
+      "publisher": "StockStory",
+      "date": "2026-06-17T11:48:51Z",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "該文章屬於財報後的投資評級分析，旨在探討投資人應買進、賣出或持有，內容中立，主要提供投資決策參考而非單一方向的市場預測。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

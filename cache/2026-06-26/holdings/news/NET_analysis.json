@@ -1,0 +1,84 @@
+{
+  "ticker": "NET",
+  "company": "Cloudflare",
+  "analysis_date": "2026-06-25",
+  "source_file": "cache/2026-06-25/holdings/news/NET.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 2,
+    "bearish_count": 3,
+    "neutral_count": 2,
+    "overall_sentiment": "mixed",
+    "key_theme": "Cloudflare 透過 AI 內容防護與流量管理技術展現產品創新，但近期面臨大規模網路中斷事故與市場對其高估值的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare (NET) Launches Browser Push To Sort Human And AI Traffic",
+      "publisher": "Simply Wall St.",
+      "date": "2026-06-24",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Cloudflare 推出區分人類與 AI 流量的新功能，進一步鞏固其在網路安全與 AI 基礎設施領域的技術領先地位，有助於提升長期競爭力。"
+    },
+    {
+      "rank": 2,
+      "title": "How Beehiiv and Cloudflare Are Giving Creators Control Over AI Scraping",
+      "publisher": "WSJ",
+      "date": "2026-06-23",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "與 Beehiiv 合作提供創作者 AI 爬蟲控制權，展現公司在數位內容保護領域的市場影響力，此舉能吸引更多內容平台採用其服務。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "'Half the internet goes down as Cloudflare blames outage on 'fiber cut''",
+      "publisher": "Benzinga",
+      "date": "2026-06-22",
+      "impact": "high",
+      "category": "營運風險",
+      "reason": "發生大規模網路中斷事故，嚴重影響公司作為網路基礎設施供應商的可靠性聲譽，短期內可能導致客戶信心下降與服務賠償壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Here's Why Cloudflare (NET) Fell More Than Broader Market",
+      "publisher": "Zacks",
+      "date": "2026-06-22",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價表現弱於大盤，反映出市場對於近期營運事故的負面反應，以及投資人對其高波動性的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "AI's brutal toll on the job market is on the way: Cloudflare CEO",
+      "publisher": "Yahoo Finance",
+      "date": "2026-06-24",
+      "impact": "low",
+      "category": "高層觀點",
+      "reason": "執行長對 AI 帶來的就業市場衝擊發表悲觀言論，雖屬宏觀分析，但可能引發市場對 AI 監管風險或社會責任成本的聯想。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Cloudflare Overvalued?",
+      "publisher": "Motley Fool",
+      "date": "2026-06-23",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "針對公司估值進行辯論，屬於市場常見的財務觀點分析，未提供具體利多或利空催化劑，對股價影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "How Investors May Respond To Cloudflare (NET) Giving Creators One-Click Control Over AI Content Scraping",
+      "publisher": "Simply Wall St.",
+      "date": "2026-06-24",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此篇為針對 AI 內容防護功能的市場反應預測，內容與產品發布新聞重疊，主要作為投資人情緒的觀察分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

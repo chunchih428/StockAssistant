@@ -1,0 +1,93 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-06-25",
+  "source_file": "cache/2026-06-25/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 3,
+    "neutral_count": 2,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Broadcom 與 OpenAI 合作開發名為 Jalapeño 的客製化 AI 推論晶片，顯著提升了市場對其在 AI 基礎設施領域長期成長潛力的信心。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Broadcom, OpenAI Unveil ‘Jalapeño’ AI Inference Chip",
+      "publisher": "Benzinga",
+      "date": "2026-06-24 15:39",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Broadcom 與 OpenAI 共同開發 Jalapeño AI 推論晶片，此合作案驗證了 Broadcom 在客製化 ASIC 領域的技術領先地位，並為公司開拓了關鍵的 AI 營收成長引擎。"
+    },
+    {
+      "rank": 2,
+      "title": "OpenAI Unveils Broadcom AI Chip Showing 50% Cost Savings",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 17:43",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "該晶片展現出 50% 的成本節省效益，極具競爭力的效能表現將吸引更多大型雲端服務供應商與 AI 企業採用 Broadcom 的客製化晶片解決方案。"
+    },
+    {
+      "rank": 3,
+      "title": "Broadcom Raises Tender Offer for Its Senior Notes to $3 Billion",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 18:11",
+      "impact": "medium",
+      "category": "財務管理",
+      "reason": "公司宣布將優先票據的收購要約提高至 30 億美元，顯示公司現金流強勁且積極進行債務管理，有助於優化資產負債表。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "S&P 500, Nasdaq Close Lower On Tech Weakness But Recover After-Hours On Strong Micron Earnings",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 22:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受整體科技股賣壓影響，Broadcom 股價短期內隨大盤波動，但此為系統性風險，非公司基本面惡化。"
+    },
+    {
+      "rank": 2,
+      "title": "Which AI Accelerator Stock Has Dominated in 2026: Broadcom or Marvell?",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 19:16",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "報導比較了 Broadcom 與 Marvell 的市場表現，指出部分投資人關注競爭對手的成長動能，可能對 Broadcom 造成短期資金分流的壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "The Real Price of Broadcom Stock Is Hidden Two Years Out",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 21:31",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "分析師指出以當前財報數字來看股價偏高，提醒投資人需關注未來兩年的獲利成長能否支撐目前的高估值。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Apollo President Jim Zelter on leading $35 billion financing on Broadcom",
+      "publisher": "CNBC",
+      "date": "2026-06-22 11:00",
+      "impact": "low",
+      "category": "財務融資",
+      "reason": "討論關於 Broadcom 相關的融資細節，屬於例行性財務操作說明，對股價無直接顯著影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Stocks making big moves yesterday: GoDaddy, Micron, AMN Healthcare Services, Tesla, and Broadcom",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 18:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為盤後市場動態回顧，列出 Broadcom 為當日波動較大的個股之一，未提供新的基本面資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
