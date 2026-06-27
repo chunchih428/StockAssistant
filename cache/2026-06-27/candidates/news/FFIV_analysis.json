@@ -1,0 +1,56 @@
+{
+  "ticker": "FFIV",
+  "company": "F5",
+  "analysis_date": "2026-06-25",
+  "source_file": "cache/2026-06-25/candidates/news/FFIV.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司透過收購 SurePath AI 並推出 AI 安全平台強化產品組合，同時獲得分析師調升目標價，展現積極的成長策略。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "F5 Launches AI Security Platform to Put Security Leaders in Control of Enterprise AI Risk",
+      "publisher": "Yahoo",
+      "date": "2026-06-22",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "F5 推出全新的 AI 安全平台，並透過收購 SurePath AI 強化技術實力，直接切入企業 AI 風險管理市場，有助於提升長期競爭力與營收成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "RBC Capital Raises its Price Target on F5 (FFIV)",
+      "publisher": "Insider Monkey",
+      "date": "2026-06-17",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "RBC Capital 調升目標價顯示華爾街對 F5 的未來獲利能力與市場定位持正面看法，為股價提供支撐。"
+    },
+    {
+      "rank": 3,
+      "title": "F5 Adds Gavin Munroe to its Board of Directors",
+      "publisher": "Yahoo",
+      "date": "2026-06-23",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "任命 Gavin Munroe 加入董事會，有助於強化公司治理與策略指導，對投資人信心有正面助益。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "F5 Stock: Is FFIV Underperforming the Technology Sector?",
+      "publisher": "Yahoo",
+      "date": "2026-06-23",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出 FFIV 在過去一年表現落後於整體科技產業，反映出市場對其成長動能的擔憂，儘管分析師看法仍正面，但股價相對疲軟是事實。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

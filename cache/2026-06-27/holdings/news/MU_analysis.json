@@ -1,0 +1,75 @@
+{
+  "ticker": "MU",
+  "company": "Micron Technology",
+  "analysis_date": "2026-06-25",
+  "source_file": "cache/2026-06-25/holdings/news/MU.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Micron 發布了極為強勁的第 3 季財報，營收年增率高達 346 %，且獲利遠超市場預期，成功重振了市場對 AI 記憶體需求的信心。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "MU Stock Surges 11% After-Hours — Micron’s Q3 Revenue Jumps 346% On Incessant Memory Demand",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 21:01",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "Micron 第 3 季營收激增 346 %，每股盈餘達 25.11 美元，大幅超越市場預期的 20.28 美元，顯示 AI 記憶體需求極度強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "Needham triples Micron target ahead of crucial earnings report",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 16:33",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Needham 將目標價從 500 美元大幅調升至 1,550 美元，反映出對公司長期記憶體需求能見度的極高信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Stocks Rally as Micron Revives AI Trade",
+      "publisher": "Yahoo",
+      "date": "2026-06-25 02:47",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Micron 的亮眼財報不僅帶動自身股價，更成為全球科技股與 AI 相關交易的領頭羊，重燃市場投資情緒。"
+    },
+    {
+      "rank": 4,
+      "title": "Micron Technology, Inc. (MU) Is One Of Billionaire David Tepper’s Top AI Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 19:03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "知名投資人 David Tepper 將 Micron 列為核心 AI 持股，強化了機構投資人對該公司的長期價值認同。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Micron Earnings Reaction To Test AI Trade; SK Hynix US Listing Is Bad News For MU",
+      "publisher": "Benzinga",
+      "date": "2026-06-24 12:38",
+      "impact": "medium",
+      "category": "競爭分析",
+      "reason": "SK Hynix 若在美國上市，將增加記憶體市場的競爭壓力，可能對 Micron 的市占率與定價能力構成潛在威脅。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Micron Reports After the Close, Home Sales After the Open",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 14:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此類報導屬於財報發布前的例行性市場前瞻，僅提供時間點資訊，未對基本面產生實質影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

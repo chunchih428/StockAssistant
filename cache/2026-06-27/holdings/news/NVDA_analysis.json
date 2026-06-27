@@ -1,0 +1,120 @@
+{
+  "ticker": "NVDA",
+  "company": "NVIDIA",
+  "analysis_date": "2026-06-25",
+  "source_file": "cache/2026-06-25/holdings/news/NVDA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 7,
+    "bearish_count": 5,
+    "neutral_count": 8,
+    "overall_sentiment": "mixed",
+    "key_theme": "NVIDIA 在 AI 基礎設施領域的領導地位持續受到市場看好，但面臨來自 Qualcomm 與 Broadcom 等競爭對手的挑戰，以及市場對其估值與出口限制的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "NVIDIA (NVDA) Remains a Must-Own for Bernstein Despite Tech Sell-Off",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 13:48",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Bernstein 維持對 NVIDIA 的看好態度，認為即便在科技股拋售潮中，該公司仍是 AI 投資組合中不可或缺的核心標的。"
+    },
+    {
+      "rank": 2,
+      "title": "CoreWeave inks deal with Conapto for two sites in Sweden",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 20:35",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "CoreWeave 擴大其 AI 運算能力，並明確採用 NVIDIA 的最新平台，顯示 NVIDIA 在雲端運算基礎設施的需求依然強勁。"
+    },
+    {
+      "rank": 3,
+      "title": "Nvidia-Backed Robotics Company Goes Public Via SPAC. Shares Briefly Jump Nearly 30%.",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 17:08",
+      "impact": "medium",
+      "category": "投資動態",
+      "reason": "NVIDIA 投資的機器人新創公司 Agility Robotics 上市，驗證了 NVIDIA 在 AI 機器人領域的生態系布局與投資眼光。"
+    },
+    {
+      "rank": 4,
+      "title": "This Stock Is My Biggest Bet For The Second Half of 2026",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 15:31",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "投資人持續看好 NVIDIA 每季財報表現，認為其基本面支撐強勁，適合長期持有。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Qualcomm debuts line of AI data center chips and systems, increasing competition with Nvidia",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 19:30",
+      "impact": "high",
+      "category": "競爭分析",
+      "reason": "Qualcomm 推出 AI 資料中心晶片，直接挑戰 NVIDIA 在該領域的壟斷地位，可能對未來市占率造成壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Veteran Analyst Issues Stark Warning on Nvidia Stock",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 19:17",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "華爾街分析師針對 NVIDIA 的成長風險發出警告，提醒投資人注意潛在的估值過高與市場競爭風險。"
+    },
+    {
+      "rank": 3,
+      "title": "Prices of Nvidia’s Restricted AI Chips Surge on China’s Black Market Amid Export Crackdown",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 10:55",
+      "impact": "medium",
+      "category": "法規影響",
+      "reason": "出口管制導致 NVIDIA 晶片在中國黑市價格飆升，反映出地緣政治限制對其全球銷售策略的持續干擾。"
+    },
+    {
+      "rank": 4,
+      "title": "Trending: OpenAI, Broadcom target Nvidia's AI chip dominance",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 19:47",
+      "impact": "medium",
+      "category": "競爭分析",
+      "reason": "OpenAI 與 Broadcom 聯手開發 AI 晶片，意圖削弱 NVIDIA 的市場主導地位，增加產業競爭變數。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Nvidia Tests Key Price Level. Why the Stock Is Still Not Going Up.",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 20:53",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "股價在 200 美元附近震盪，顯示目前處於盤整區間，缺乏明確的向上或向下突破動力。"
+    },
+    {
+      "rank": 2,
+      "title": "Prediction: This Will Be Nvidia's Stock Price by the End of 2027",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 19:51",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "文章討論長期股價預測，但提到 NVIDIA 今年表現僅成長 8%，落後於大盤，屬於中性觀察。"
+    },
+    {
+      "rank": 3,
+      "title": "AI Chip Stocks Stage Rebound: Nvidia, AMD Lead Recovery Ahead of Micron Earnings Shock",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 19:34",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導主要聚焦於 Micron 財報前的市場情緒，NVIDIA 僅作為半導體類股的一員隨大盤波動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
