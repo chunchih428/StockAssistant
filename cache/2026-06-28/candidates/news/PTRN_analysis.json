@@ -1,0 +1,28 @@
+{
+  "ticker": "PTRN",
+  "company": "Pattern Group - Series A",
+  "analysis_date": "2026-06-28",
+  "source_file": "cache/2026-06-28/candidates/news/PTRN.json",
+  "summary": {
+    "total_articles": 1,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司獲納入 Russell 3000 與 Russell 2000 指數，預期將吸引被動資金流入並提升市場能見度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Pattern Announces Preliminary Inclusion in Russell 3000® and Russell 2000® Indexes",
+      "publisher": "Yahoo",
+      "date": "2026-06-23 20:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "獲納入 Russell 指數通常會引發追蹤該指數的被動型基金進行強制性買入，有助於增加股票流動性並提升機構投資人的關注度。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

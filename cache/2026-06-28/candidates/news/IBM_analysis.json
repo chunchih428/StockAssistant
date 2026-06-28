@@ -1,0 +1,111 @@
+{
+  "ticker": "IBM",
+  "company": "International Business Machines Corporation",
+  "analysis_date": "2026-06-28",
+  "source_file": "cache/2026-06-28/candidates/news/IBM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "IBM 憑藉突破性的 1 奈米以下晶片技術與量子運算布局，成功重塑市場對其 AI 硬體競爭力的長期預期。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "IBM Unveils Sub 1 Nanometer Chip And Launches Anderon Quantum Foundry",
+      "publisher": "Yahoo",
+      "date": "2026-06-27 11:13",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "IBM 宣布開發出 1 奈米以下晶片並啟動量子代工廠，此技術突破被視為半導體產業的重大里程碑，顯著提升市場對其硬體研發能力的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Morgan Stanley Raises PT on International Business Machines (IBM) Stock",
+      "publisher": "Yahoo",
+      "date": "2026-06-27 22:18",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "摩根士丹利上調 IBM 目標價，反映出華爾街對其雲端運算業務與 AI 策略轉型的正面評價。"
+    },
+    {
+      "rank": 3,
+      "title": "ServiceNow (NOW) and IBM Announce Expanded Collaboration",
+      "publisher": "Yahoo",
+      "date": "2026-06-27 19:07",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "IBM 與 ServiceNow 擴大合作，有助於強化雙方在 AI 企業級應用市場的市占率與生態系深度。"
+    },
+    {
+      "rank": 4,
+      "title": "Why Uncle Sam’s Multi-Billion Dollar Quantum Influx Makes One of These Tech Giants an Unconditional Buy",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 13:58",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "美國政府對量子運算的巨額資金投入，使 IBM 作為該領域的領先者，具備獲得長期政府合約與研發補助的優勢。"
+    },
+    {
+      "rank": 5,
+      "title": "IBM, Red Hat, and Deloitte Announce Lightwell Collaboration to Help Strengthen Open Source Software Supply Chain Trust",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 13:00",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "透過與 Deloitte 及 Red Hat 的合作，IBM 進一步鞏固其在開源軟體供應鏈安全領域的領導地位，有助於提升企業客戶信任度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "3 Reasons to Avoid IBM and 1 Stock to Buy Instead",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 16:40",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析指出 IBM 過去六個月股價表現疲軟，下跌 15.3%，顯示部分投資人對其成長動能與轉型成效仍持懷疑態度。"
+    },
+    {
+      "rank": 2,
+      "title": "BlackBerry, IBM, and Nokia Are All Trying to Come Back. History Says Only One Survives",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 12:10",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "文章將 IBM 與其他轉型中的老牌科技公司進行比較，暗示其長期競爭力仍面臨歷史包袱與市場淘汰的風險。"
+    },
+    {
+      "rank": 3,
+      "title": "Senior execs worry about AI system lock-in",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 15:28",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "調查顯示企業高層對 AI 供應商鎖定效應感到擔憂，這可能在長期銷售過程中增加客戶的決策阻力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Stocks making the biggest moves premarket: Micron, Qualcomm, IBM, Wendy's & more",
+      "publisher": "CNBC",
+      "date": "2026-06-25 07:38",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為盤前股價波動的例行性報導，未提供具體基本面分析，對長期股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Former NEC Director Gary Cohn: The market would be floundering without the AI energy trade",
+      "publisher": "CNBC",
+      "date": "2026-06-23 08:55",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "IBM 副董事長 Gary Cohn 評論市場趨勢，雖提及 AI 能源交易，但未針對 IBM 個股發表具體利多或利空觀點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

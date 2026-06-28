@@ -1,0 +1,47 @@
+{
+  "ticker": "CEVA",
+  "company": "CEVA",
+  "analysis_date": "2026-06-28",
+  "source_file": "cache/2026-06-28/candidates/news/CEVA.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司近期因授權業務成長與市場需求回升獲得評級調升，股價表現強勁，但分析師對其估值空間與權利金收入表現持審慎態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "All You Need to Know About Ceva (CEVA) Rating Upgrade to Buy",
+      "publisher": "Zacks",
+      "date": "2026-06-23",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Zacks 將 CEVA 的評級調升至「買進」，顯示市場對其業務前景的信心增強，通常能帶動機構投資人的關注與買盤。"
+    },
+    {
+      "rank": 2,
+      "title": "Ceva (CEVA) Surges 10.7%: Is This an Indication of Further Gains?",
+      "publisher": "Zacks",
+      "date": "2026-06-19",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日大漲 10.7 % 反映了市場對公司近期營運表現的正面情緒，顯示短期動能強勁。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "CEVA, Inc.: Better Demand Story, But Valuation Offers Little Margin Of Safety — CEVA is rated a Hold",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-24",
+      "impact": "medium",
+      "category": "投資研究",
+      "reason": "分析師給予「持有」評級，指出雖然授權業務成長強勁，但權利金收入表現落後，且約 9 倍的預期營收估值限制了進一步的上漲空間，多空因素相互抵銷。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

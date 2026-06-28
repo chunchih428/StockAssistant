@@ -1,0 +1,111 @@
+{
+  "ticker": "IBIT",
+  "company": "Bitcoin",
+  "analysis_date": "2026-06-28",
+  "source_file": "cache/2026-06-28/holdings/news/IBIT.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 3,
+    "bearish_count": 5,
+    "neutral_count": 2,
+    "overall_sentiment": "bearish",
+    "key_theme": "比特幣價格持續下探導致市場情緒轉趨悲觀，投資人面臨顯著帳面虧損，儘管 IBIT 在費用結構上仍具備相對於期貨 ETF 與 MicroStrategy 的競爭優勢。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Stop Paying a 10% Premium for Bitcoin: Why IBIT Beats MSTR",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-06-24",
+      "impact": "medium",
+      "category": "市場競爭分析",
+      "reason": "強調 IBIT 作為現貨 ETF 在持有成本上優於 MicroStrategy (MSTR) 的溢價結構，對長期投資人具備成本效益優勢。"
+    },
+    {
+      "rank": 2,
+      "title": "IBIT: Bitcoin Is Likely In The Final Few Months Of The Bear Market (Rating Upgrade)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-21",
+      "impact": "medium",
+      "category": "投資評級",
+      "reason": "分析師給予評級上調，認為市場已接近熊市尾聲，為長期持有者提供進場契機。"
+    },
+    {
+      "rank": 3,
+      "title": "BITO’s 0.95% Fee Is Only Half the Problem. Here’s Why Bitcoin Futures Cost You 2.9% Annually",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-06-23",
+      "impact": "low",
+      "category": "產品比較",
+      "reason": "透過比較期貨 ETF (BITO) 的高昂持有成本，間接凸顯 IBIT 現貨 ETF 的費用優勢。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Crypto Market Today, June 25: Crypto Selloff Deepens as Bitcoin Hits Multi-Year Low",
+      "publisher": "Motley Fool",
+      "date": "2026-06-25",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "比特幣價格跌至多年新低，直接導致追蹤比特幣價格的 IBIT 淨值面臨巨大下行壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "After Bitcoin's Collapse, The Average IBIT Investor Has Swung From A 30% Gain To A 40% Loss, Analyst Says",
+      "publisher": "Stocktwits",
+      "date": "2026-06-27",
+      "impact": "high",
+      "category": "投資人情緒",
+      "reason": "報導指出投資人帳面損益由盈轉虧，顯示市場信心潰散，可能引發進一步的恐慌性拋售。"
+    },
+    {
+      "rank": 3,
+      "title": "Shares of crypto-linked stocks are trading lower amid a continued selloff as Bitcoin prices drop.",
+      "publisher": "Benzinga",
+      "date": "2026-06-24",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "反映加密貨幣相關資產的連動性下跌，IBIT 作為直接曝險工具，受整體市場賣壓影響顯著。"
+    },
+    {
+      "rank": 4,
+      "title": "Wall Street Bets Against Bitcoin As Price Nears Two-Year Low",
+      "publisher": "CryptoProwl",
+      "date": "2026-06-25",
+      "impact": "medium",
+      "category": "市場情緒",
+      "reason": "華爾街機構看空情緒升溫，加劇了比特幣及其相關 ETF 的下行趨勢。"
+    },
+    {
+      "rank": 5,
+      "title": "MSTR Nears Make-Or-Break Price as Saylor Hints at Buying More Bitcoin",
+      "publisher": "Benzinga",
+      "date": "2026-06-21",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "雖然討論重點為 MSTR，但其股價波動與比特幣價格高度相關，反映出加密貨幣板塊整體疲軟。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Three Inflation Protection Strategies Better Than Gold — Gold, GDX, TIPS (LTPZ), Bitcoin (IBIT), and energy (XLE) outlook",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-25",
+      "impact": "low",
+      "category": "資產配置",
+      "reason": "將 IBIT 納入抗通膨資產組合進行比較，未對短期價格走勢做出明確多空判斷。"
+    },
+    {
+      "rank": 2,
+      "title": "The Bitcoin Mining ETF That Returned 52% in One Week, And Most Income Investors Have Never Heard of It",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-06-26",
+      "impact": "low",
+      "category": "產品介紹",
+      "reason": "報導聚焦於其他礦業 ETF，與 IBIT 本身關聯度較低，僅作為市場背景參考。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

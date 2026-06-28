@@ -1,0 +1,57 @@
+{
+  "ticker": "BE",
+  "company": "Bloom Energy Corporation",
+  "analysis_date": "2026-06-28",
+  "source_file": "cache/2026-06-28/holdings/news/BE.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "Bloom Energy 因羅素指數成分股調整導致股價大幅回調，但基本面仍受惠於 Q1 財報優異與 FY26 財測上調的支撐。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy: Why The 22% Plunge Was Mechanical, Not Fundamental. Reiterate Buy",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-27 12:15",
+      "impact": "high",
+      "category": "投資建議",
+      "reason": "該文指出近期 28% 的跌幅主要源於羅素指數成分股調整的技術性賣壓，而非基本面惡化。分析師重申買入評級，並強調公司 Q1 EPS 超出預期，且上調了 FY26 財測與自由現金流 (FCF) 展望，具備長期投資價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Bloom Energy (BE) Is Down 6.0% After AI Power Hype Cools Amid New Competition",
+      "publisher": "Simply Wall St.",
+      "date": "2026-06-26T21:08:29Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場對於 AI 數據中心電力需求的熱度降溫，加上燃料電池領域面臨新競爭對手的挑戰，導致投資人獲利了結，造成股價單日下跌 6.0%。"
+    },
+    {
+      "rank": 2,
+      "title": "Bloom Energy (BE) Dips More Than Broader Market: What You Should Know",
+      "publisher": "Zacks",
+      "date": "2026-06-26T22:00:02Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出 BE 股價表現弱於大盤，反映出短期內市場情緒轉趨保守，投資人對其近期波動性增加感到擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy (BE) Stock After Steep Pullback And Strong Multi Year Rally",
+      "publisher": "Simply Wall St.",
+      "date": "2026-06-26T22:08:44Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該文客觀分析了公司在經歷多年強勁漲勢後的技術性回調，未給出明確的買賣建議，僅作為市場走勢的技術性回顧。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

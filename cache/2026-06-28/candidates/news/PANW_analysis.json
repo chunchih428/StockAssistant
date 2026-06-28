@@ -1,0 +1,111 @@
+{
+  "ticker": "PANW",
+  "company": "Palo Alto Networks",
+  "analysis_date": "2026-06-28",
+  "source_file": "cache/2026-06-28/candidates/news/PANW.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 6,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "Palo Alto Networks 憑藉 AI 驅動的 XSIAM 平台與強勁的企業 IT 支出需求維持成長動能，儘管面臨併購整合帶來的利潤率壓力與 Fortinet 的競爭挑戰。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Jefferies says these 4 software stocks screen well in IT exec survey",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 14:52",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "根據 IT 高管調查，Palo Alto Networks 被列為最強勁的軟體供應商之一，顯示其在企業預算中具有高度優先級。"
+    },
+    {
+      "rank": 2,
+      "title": "Can Palo Alto Networks' XSIAM Sustain Its Strong Growth Momentum?",
+      "publisher": "Yahoo",
+      "date": "2026-06-25 13:26",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "AI 驅動的 XSIAM 平台有效應對自動化安全需求，成為推動公司營收成長的核心引擎。"
+    },
+    {
+      "rank": 3,
+      "title": "IBM, Red Hat and Palo Alto Networks Expand Project Lightwell to Help Organizations Respond to Software Vulnerabilities",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 13:00",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 IBM 和 Red Hat 的合作擴展了 Project Lightwell，強化了公司在漏洞響應領域的市場地位。"
+    },
+    {
+      "rank": 4,
+      "title": "Will Faster Acquisition Integration and AI-Driven Platforms Change Palo Alto Networks' (PANW) Narrative?",
+      "publisher": "Yahoo",
+      "date": "2026-06-23 17:15",
+      "impact": "medium",
+      "category": "企業營運",
+      "reason": "公司指出近期併購案（如 CyberArk）的整合進度超前，有助於提升長期獲利能力。"
+    },
+    {
+      "rank": 5,
+      "title": "Palo Alto Networks (PANW) Increases Despite Market Slip: Here's What You Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-06-23 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "在市場整體疲軟的情況下，股價仍逆勢上漲 1.65 %，顯示市場買盤支撐力道強勁。"
+    },
+    {
+      "rank": 6,
+      "title": "The Old-School Signal That Lit Up Palo Alto Networks Stock",
+      "publisher": "Yahoo",
+      "date": "2026-06-27 01:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析指出公司股價上漲背後存在傳統技術指標支撐，增強了投資人信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Palo Alto Networks (PANW) Faces Margin Pressure As Fortinet Gains Ground In SASE",
+      "publisher": "Yahoo",
+      "date": "2026-06-23 16:15",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "大型併購案導致整合成本上升，對利潤率造成短期壓力，且在 SASE 領域面臨 Fortinet 的激烈競爭。"
+    },
+    {
+      "rank": 2,
+      "title": "PANW vs. FTNT: Which Cybersecurity Stock Has an Edge Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-06-23 14:04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "比較分析顯示 Fortinet 在 SASE 採用率與估值方面目前優於 Palo Alto Networks，可能導致部分資金轉移。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Palo Alto Networks (PANW) Stock After 70% YTD Rally Is The Price Still Reasonable",
+      "publisher": "Yahoo",
+      "date": "2026-06-27 00:16",
+      "impact": "low",
+      "category": "投資評級",
+      "reason": "針對年初至今 70 % 的漲幅進行估值合理性探討，市場對其是否過熱存在分歧，未給出明確買賣建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Top Analyst Reports for Caterpillar, Palo Alto & Toyota",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 20:16",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為分析師報告的彙整，未提供針對 Palo Alto Networks 的具體利多或利空觀點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

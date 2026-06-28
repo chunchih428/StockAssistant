@@ -1,0 +1,84 @@
+{
+  "ticker": "NTAP",
+  "company": "NetApp",
+  "analysis_date": "2026-06-28",
+  "source_file": "cache/2026-06-28/holdings/news/NTAP.json",
+  "summary": {
+    "total_articles": 11,
+    "bullish_count": 5,
+    "bearish_count": 1,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "NetApp 透過推出 StorageGRID 12.1 與深化 CGI 合作，強化 AI 與混合雲基礎設施布局，市場對其成長動能持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "NetApp (NTAP) Launches StorageGRID 12.1 And Expands CGI Hybrid Cloud Partnership",
+      "publisher": "Yahoo",
+      "date": "2026-06-23 17:14",
+      "impact": "high",
+      "category": "產品發布與策略合作",
+      "reason": "NetApp 推出 StorageGRID 12.1 以支援 AI 工作負載，並擴大與 CGI 的全球聯盟，此舉直接提升了公司在混合雲與 AI 數據基礎設施的競爭力。"
+    },
+    {
+      "rank": 2,
+      "title": "CGI And NetApp Announce That NTAP's Keystone Will Power CGI's Block Storage Solutions",
+      "publisher": "Benzinga",
+      "date": "2026-06-22 06:33",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "Keystone 服務被納入 CGI 的共享服務平台，顯示 NetApp 的訂閱制儲存解決方案獲得大型企業客戶採用，有助於穩定營收成長。"
+    },
+    {
+      "rank": 3,
+      "title": "How Is NetApp Capitalizing on Rising All-Flash Adoption?",
+      "publisher": "Zacks",
+      "date": "2026-06-19 14:22",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 NetApp 在全快閃記憶體（All-Flash）市場的市佔率擴張，正受惠於企業對高效能儲存需求的成長。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Western Digital vs. NetApp: Which Data Center Stock is the Smarter Bet?",
+      "publisher": "Yahoo",
+      "date": "2026-06-25 13:30",
+      "impact": "low",
+      "category": "市場比較",
+      "reason": "該報導將 NetApp 與 Western Digital 進行比較，並暗示 Western Digital 在 AI 驅動的 HDD 路線圖上可能具備更高的上漲潛力，對 NTAP 構成相對競爭壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "NetApp (NTAP) Stock After 48% Year-To-Date Rally Is There Still Upside?",
+      "publisher": "Yahoo",
+      "date": "2026-06-23 22:13",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "針對 NTAP 今年以來 48% 的漲幅進行估值檢視，市場對於股價是否已過熱存在分歧，屬於中性觀點。"
+    },
+    {
+      "rank": 2,
+      "title": "TDC or NTAP: Which Is the Better Value Stock Right Now?",
+      "publisher": "Zacks",
+      "date": "2026-06-22 15:40",
+      "impact": "low",
+      "category": "市場比較",
+      "reason": "僅為價值型投資的比較分析，並未提供對 NTAP 基本面有重大影響的新觀點。"
+    },
+    {
+      "rank": 3,
+      "title": "Investors Heavily Search NetApp, Inc. (NTAP): Here is What You Need to Know",
+      "publisher": "Zacks",
+      "date": "2026-06-18 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅反映市場關注度提升，並未涉及公司營運或財務面的實質變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

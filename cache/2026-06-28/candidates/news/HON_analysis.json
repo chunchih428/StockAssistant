@@ -1,0 +1,111 @@
+{
+  "ticker": "HON",
+  "company": "Honeywell",
+  "analysis_date": "2026-06-28",
+  "source_file": "cache/2026-06-28/candidates/news/HON.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 8,
+    "bearish_count": 2,
+    "neutral_count": 10,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司正進行重大的航太業務分拆與組織重組，市場對其長期價值釋放與投資組合優化持正面態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Mizuho Reiterates Outperform Rating on Honeywell International (HON) Following Investor Day Financial Targets",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 11:11",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "瑞穗證券重申「優於大盤」評級，顯示機構投資人對公司投資者日提出的財務目標與長期成長策略具備信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Honeywell Aerospace set to join S&P 500 and S&P 100 on June 29",
+      "publisher": "Yahoo",
+      "date": "2026-06-23 22:24",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "分拆後的 Honeywell Aerospace 將納入 S&P 500 與 S&P 100 指數，預期將帶來被動資金流入並提升市場能見度。"
+    },
+    {
+      "rank": 3,
+      "title": "Can Honeywell’s Ecofining Partnership in Brazil Reframe the Low‑Carbon Narrative for Honeywell (HON)?",
+      "publisher": "Yahoo",
+      "date": "2026-06-28 01:08",
+      "impact": "medium",
+      "category": "業務合作",
+      "reason": "透過巴西的 Ecofining 技術合作，強化了公司在低碳轉型領域的技術領導地位，有助於提升 ESG 評價。"
+    },
+    {
+      "rank": 4,
+      "title": "HONEYWELL AND MIT FIND DIGITAL TECHNOLOGIES CAN HELP INCREASE ENERGY SUPPLY",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 12:01",
+      "impact": "low",
+      "category": "技術研發",
+      "reason": "與 MIT 的合作研究展示了數位技術在能源效率上的潛力，雖非直接營收貢獻，但提升了品牌科技形象。"
+    },
+    {
+      "rank": 5,
+      "title": "Honeywell International Inc. (HON) Advances While Market Declines",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 22:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價在市場下跌時逆勢上漲 2.27 %，顯示投資人對公司近期重組計畫的買盤支撐力道強勁。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "What Honeywell’s and DuPont’s Coming Reverse Stock Splits Mean for Investors",
+      "publisher": "Yahoo",
+      "date": "2026-06-22 17:40",
+      "impact": "medium",
+      "category": "公司治理",
+      "reason": "反向股票分割通常被市場視為股價疲軟或為了維持上市門檻的防禦性手段，可能引發短期股東疑慮。"
+    },
+    {
+      "rank": 2,
+      "title": "Buy Honeywell Stock Before The Split?",
+      "publisher": "Yahoo",
+      "date": "2026-06-24 12:59",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章提醒投資人需權衡龐大的積壓訂單與分拆後的不確定性，反映出市場對重組期間營運波動的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Alphabet Set to Join and Honeywell International to Remain in Dow Jones Industrial Average",
+      "publisher": "Yahoo",
+      "date": "2026-06-23 22:02",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "確認 Honeywell 將保留在道瓊工業指數成分股中，消除了市場對於指數調整可能導致拋售的疑慮，屬於中性消息。"
+    },
+    {
+      "rank": 2,
+      "title": "White House order shifts focus back to defense stocks",
+      "publisher": "Yahoo",
+      "date": "2026-06-25 16:47",
+      "impact": "low",
+      "category": "政策影響",
+      "reason": "CEO 與總統會面屬於常規政策溝通，雖涉及國防產業，但未有具體合約或政策利多釋出。"
+    },
+    {
+      "rank": 3,
+      "title": "PowerBank Begins Commercial Operation Of SB 13-2",
+      "publisher": "Benzinga",
+      "date": "2026-06-25 07:17",
+      "impact": "low",
+      "category": "業務合作",
+      "reason": "此為 PowerBank 負責開發的太陽能項目，Honeywell 僅為合作方，對整體營收影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

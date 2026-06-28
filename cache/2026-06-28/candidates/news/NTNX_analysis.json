@@ -1,0 +1,38 @@
+{
+  "ticker": "NTNX",
+  "company": "Nutanix, Inc.",
+  "analysis_date": "2026-06-28",
+  "source_file": "cache/2026-06-28/candidates/news/NTNX.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場正評估 Nutanix 在 VMware 遷移與 AI 領域的長期成長潛力，但股價短期面臨財報後的回調壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Nutanix: The Beaten-Down Private-Cloud Winner",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-23 20:55",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師看好 Nutanix 作為私有雲領域的贏家，特別是受惠於 VMware 客戶遷移潮、儲存合作夥伴關係以及 AI 推論帶來的成長動能，具備長期投資價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Is Nutanix (NTNX) Down 3.8% Since Last Earnings Report?",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 15:30",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "股價自 30 天前的財報發布後累計下跌 3.8 %，反映出市場對財報後的獲利了結賣壓，以及投資人對後續財測與估值的重新審視。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}
