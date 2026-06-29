@@ -1,0 +1,84 @@
+{
+  "ticker": "ETN",
+  "company": "Eaton",
+  "analysis_date": "2026-06-28",
+  "source_file": "cache/2026-06-28/holdings/news/ETN.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 4,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "Eaton 受惠於 AI 資料中心基礎設施需求與電力管理市場的長期成長，儘管近期股價出現技術性回調。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "5 Stocks Solving the AI Power Crisis",
+      "publisher": "Yahoo",
+      "date": "2026-06-22 15:20",
+      "impact": "high",
+      "category": "市場趨勢",
+      "reason": "Eaton 被列為解決 AI 資料中心電力危機的關鍵企業，顯示其在電力基礎設施領域的戰略地位，具備長期成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Data Center Delays Create Opportunity in These 3 Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 14:00",
+      "impact": "medium",
+      "category": "投資建議",
+      "reason": "分析指出資料中心專案的延遲反而為 Eaton 等基礎設施供應商創造了買入機會，強調其在 AI 供應鏈中的剛性需求。"
+    },
+    {
+      "rank": 3,
+      "title": "$100 Invested In Eaton Corp 5 Years Ago Would Be Worth This Much Today",
+      "publisher": "Benzinga",
+      "date": "2026-06-22 18:45",
+      "impact": "low",
+      "category": "績效分析",
+      "reason": "回顧過去 5 年 Eaton 的年化報酬率優於大盤 12.55 %，展現公司強勁的長期營運韌性與價值創造能力。"
+    },
+    {
+      "rank": 4,
+      "title": "Eaton Corporation to Merge Mobility Business with Dana",
+      "publisher": "Yahoo",
+      "date": "2026-06-22 21:32",
+      "impact": "medium",
+      "category": "企業併購",
+      "reason": "透過將移動業務與 Dana 合併，Eaton 展現了優化業務組合、專注於高成長電力管理核心領域的策略意圖。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Eaton (ETN) Dips More Than Broader Market: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 21:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日下跌 4.09 %，表現弱於大盤，反映出短期獲利了結壓力或市場對近期漲幅的修正。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Eaton vs. Vertiv: Which Industrials Stock Is a Better Buy in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 13:52",
+      "impact": "low",
+      "category": "產業比較",
+      "reason": "文章對比 Eaton 與 Vertiv 的成長驅動力與風險，未給出明確買賣建議，僅提供投資人評估兩者差異的參考資訊。"
+    },
+    {
+      "rank": 2,
+      "title": "Eaton Corporation to Merge Mobility Business with Dana",
+      "publisher": "Insider Monkey",
+      "date": "2026-06-22 21:32",
+      "impact": "low",
+      "category": "企業併購",
+      "reason": "此為重複報導，內容與 Yahoo 報導一致，僅作為資訊更新，未產生額外市場影響力。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

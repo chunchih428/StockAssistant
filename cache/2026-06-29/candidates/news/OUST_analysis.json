@@ -1,0 +1,47 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-06-28",
+  "source_file": "cache/2026-06-28/candidates/news/OUST.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 0,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司展現強勁的執行力與股價上漲動能，但面臨高層賣股套現與市場對長期估值提前反應的壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ouster (OUST) Soars 14.4%: Is Further Upside Left in the Stock?",
+      "publisher": "Zacks",
+      "date": "2026-06-19T11:10:00Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日大漲 14.4 %，顯示市場對公司近期營運表現或技術突破給予高度正面回饋，短期動能強勁。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "What Does the Sale of Ouster Shares Worth $2.1 Million by the CFO Mean for Investors?",
+      "publisher": "Motley Fool",
+      "date": "2026-06-26T18:25:01Z",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "財務長 (CFO) 出售價值 210 萬美元的股票，通常會引起投資人對公司內部人對股價未來走勢信心的疑慮，可能造成短期賣壓。"
+    },
+    {
+      "rank": 2,
+      "title": "Ouster Has Strong Execution, But The Stock Is Already Looking To 2028",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-23 12:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管肯定公司的執行力，但分析指出股價已提前反映 2028 年的預期，暗示當前估值可能過高，未來上漲空間受限。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

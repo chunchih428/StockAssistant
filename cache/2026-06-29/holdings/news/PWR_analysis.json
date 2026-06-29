@@ -1,0 +1,38 @@
+{
+  "ticker": "PWR",
+  "company": "Quanta Services",
+  "analysis_date": "2026-06-28",
+  "source_file": "cache/2026-06-28/holdings/news/PWR.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "Quanta Services 受惠於 AI 基礎設施建設需求，儘管面臨資料中心專案延遲的短期挑戰，但其廣泛的基礎設施平台仍具備長期成長優勢。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Data Center Delays Create Opportunity in These 3 Stocks — Data center projects may be delayed, but Eaton, Quanta Services, and Vertiv are positioned to benefit from the AI infras",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 14:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管資料中心專案面臨延遲，但市場仍看好 Quanta Services 在 AI 基礎設施領域的長期定位，認為其具備承接龐大建設需求的競爭優勢。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Dycom vs. Quanta: Which Infrastructure Growth Stock Is the Better Buy? — Is DY's fiber and data center momentum enough to outpace PWR, or does the broader infrastructure platform make it the be",
+      "publisher": "Yahoo",
+      "date": "2026-06-23 13:43",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "此文章為同業比較分析，探討 Dycom 與 Quanta Services 在光纖及資料中心領域的競爭力，並未提供具體利多或利空消息，僅為投資策略評估。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
