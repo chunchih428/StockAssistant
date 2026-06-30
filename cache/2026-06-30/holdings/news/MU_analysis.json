@@ -1,0 +1,93 @@
+{
+  "ticker": "MU",
+  "company": "Micron Technology",
+  "analysis_date": "2026-06-28",
+  "source_file": "cache/2026-06-28/holdings/news/MU.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 5,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "Micron 受惠於 AI 記憶體需求強勁，財報表現亮眼並簽署高額客戶合約，儘管面臨獲利了結賣壓與市場對長期供需的擔憂，整體成長動能仍獲華爾街看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Micron (MU) Lands $100 Billion In Customer Deals After Blowout Q3",
+      "publisher": "Yahoo",
+      "date": "2026-06-27 05:06",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司公布破紀錄的第 3 季財報，並簽署價值 1,000 億美元的客戶合約，展現 AI 相關需求帶來的強勁獲利能力。"
+    },
+    {
+      "rank": 2,
+      "title": "Bank of America resets Micron stock price target after earnings",
+      "publisher": "Yahoo",
+      "date": "2026-06-27 14:37",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "美銀 (Bank of America) 在財報後調整目標價，反映市場對其強勁基本面的認可，股價單日大漲 15.81 %。"
+    },
+    {
+      "rank": 3,
+      "title": "Wedbush and Rosenblatt Boost Price Targets on Micron Technology (MU) Amid Rising AI Memory Demand",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 10:50",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "多家投行調升目標價，肯定其在「Vera Rubin」晶片週期中的領先地位。"
+    },
+    {
+      "rank": 4,
+      "title": "Micron (MU) Surpasses Market Valuation of Meta and Briefly Tesla",
+      "publisher": "Yahoo",
+      "date": "2026-06-27 18:36",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市值一度超越 Meta 與 Tesla，顯示市場對其作為 AI 核心硬體供應商的高度評價。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "MU Stock Slips Premarket: Analyst Warns Revenue Could Halve By 2030",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 08:02",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "Morningstar 警告 AI 供應合約並非「鐵板一塊」，且記憶體晶片仍具備大宗商品特性，長期營收存在波動風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Micron Stock Takes A Breather After Explosive AI-Fueled Rally",
+      "publisher": "Benzinga",
+      "date": "2026-06-26 06:12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "在經歷 15 % 的大漲後，投資人進行獲利了結，導致股價出現短期回調。"
+    },
+    {
+      "rank": 3,
+      "title": "Micron CEO Expects Memory Supply To Improve Gradually In 2028, But There's No 'Line Of Sight' When It Will Catch Up To Rising AI Demand",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 09:46",
+      "impact": "medium",
+      "category": "公司營運",
+      "reason": "執行長 Sanjay Mehrotra 指出記憶體供應難以追上 AI 需求，顯示產能擴張與市場供需平衡仍面臨挑戰。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "US Equity Indexes Mixed, Mag-7 Lags Amid Micron Technology's Blockbuster Quarterly Results This Week",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 20:33",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "整體美股指數表現分歧，Micron 的財報雖亮眼，但被科技股整體的賣壓所抵銷。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

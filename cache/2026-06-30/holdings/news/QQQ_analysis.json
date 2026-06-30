@@ -1,0 +1,75 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-06-28",
+  "source_file": "cache/2026-06-28/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 1,
+    "bearish_count": 3,
+    "neutral_count": 2,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對 AI 產業泡沫化風險的擔憂與科技巨頭權重過高帶來的波動性壓力，與 QQQ 持續吸引資金流入的強勁需求形成多空拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why QQQ Is Pulling Further Ahead Of Bitcoin ETFs In 2026",
+      "publisher": "Benzinga",
+      "date": "2026-06-24 11:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管加密貨幣 ETP 資產規模縮減，QQQ 憑藉 AI 驅動的成長前景持續吸引投資人資金，顯示其作為科技成長型資產的市場吸引力依然穩固。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "How The Mag 7 Became The Drag 7, And Might Drop The S&P 500 By 30%",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-27 09:32",
+      "impact": "high",
+      "category": "市場風險",
+      "reason": "Mag 7 科技巨頭佔 QQQ 權重高達 38%，若這些龍頭股出現修正，將對 QQQ 造成不成比例的劇烈衝擊，技術分析顯示存在顯著下行風險。"
+    },
+    {
+      "rank": 2,
+      "title": "QQQ: The AI Business Model Is Likely Collapsing",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-22 11:56",
+      "impact": "high",
+      "category": "產業分析",
+      "reason": "分析指出 AI 商業模式面臨 GPU 供給過剩、代幣價格下跌及資本支出 (Capex) 回報不匹配的風險，若泡沫破裂將直接重創 QQQ 的核心持股。"
+    },
+    {
+      "rank": 3,
+      "title": "Chip Selloff Pressures Breadth, Longer-Term Participation Still Holds",
+      "publisher": "ChartMill",
+      "date": "2026-06-24 06:17",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "半導體類股拋售潮導致市場廣度 (Market Breadth) 惡化，作為科技股指標的 QQQ 領跌，反映出短期內成長股面臨的賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "GPIQ: Tax-Efficient Income That Outperforms Peers",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-22 05:00",
+      "impact": "low",
+      "category": "基金比較",
+      "reason": "該文主要比較 Goldman Sachs 的 GPIQ 與 QQQI 等衍生性產品的稅務效率與收益策略，對 QQQ 本身股價無直接影響，僅為同類產品競爭分析。"
+    },
+    {
+      "rank": 2,
+      "title": "GPIQ: The Ultimate 9%+ Covered Call Choice For Long-Term Compounding",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-21 09:15",
+      "impact": "low",
+      "category": "基金比較",
+      "reason": "探討 covered call 策略在科技股上漲時的表現，屬於投資組合策略建議，不影響 QQQ 本身的資產配置與基本面。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

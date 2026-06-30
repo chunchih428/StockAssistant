@@ -1,0 +1,84 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-06-28",
+  "source_file": "cache/2026-06-28/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 5,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "Broadcom 與 OpenAI 合作開發 Jalapeño AI 晶片，強化其在客製化 AI 矽晶圓市場的領導地位，儘管面臨市場獲利了結與競爭壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Broadcom and OpenAI Just Unveiled the New Jalapeño AI Chip",
+      "publisher": "Yahoo",
+      "date": "2026-06-27 14:00",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Broadcom 與 OpenAI 合作推出 Jalapeño AI 晶片，標誌著公司在客製化 AI 加速器領域取得重大進展，預計將為 2026 年後帶來顯著營收貢獻。"
+    },
+    {
+      "rank": 2,
+      "title": "UBS Maintains Buy Rating on Broadcom (AVGO) Stock",
+      "publisher": "Yahoo",
+      "date": "2026-06-25 08:18",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "瑞銀 (UBS) 維持對 Broadcom 的買入評級，肯定其作為長期 AI 投資標的的潛力，強化了市場對其基本面的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "The Market Is Panicking, But You Should Keep Buying Shares of This Artificial Intelligence (AI) Powerhouse",
+      "publisher": "Yahoo",
+      "date": "2026-06-27 23:05",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出儘管市場出現波動，但 Broadcom 的 AI 實力使其成為長期投資的優質標的，建議投資人逢低布局。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "What Is Going On With Broadcom Stock On Friday?",
+      "publisher": "Benzinga",
+      "date": "2026-06-26 10:16",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價在盤前交易中下跌近 4%，主要歸因於投資人在近期強勁漲勢後進行獲利了結，反映短期賣壓。"
+    },
+    {
+      "rank": 2,
+      "title": "Wedbush Issues Stark Warning on Broadcom as Google AI Chip Threat Emerges",
+      "publisher": "Yahoo",
+      "date": "2026-06-25 13:24",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "Wedbush 針對 Google 自研 AI 晶片對 Broadcom 可能造成的競爭威脅發出警告，引發市場對其市占率的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Broadcom, OpenAI deal hit as infrastructure costs take center stage",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 04:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場開始關注 AI 基礎設施的高昂成本，這可能對 Broadcom 等晶片供應商的長期利潤率構成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Battle of the Artificial Intelligence (AI) Computing Companies: Is AMD, Broadcom, Nvidia, or Marvell the Best Stock to Buy Now?",
+      "publisher": "Yahoo",
+      "date": "2026-06-25 20:37",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章對比了多家 AI 晶片公司，並未給出明確的買賣建議，僅分析了各公司的競爭優勢與劣勢。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

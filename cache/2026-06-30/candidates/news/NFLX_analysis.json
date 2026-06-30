@@ -1,0 +1,111 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-06-28",
+  "source_file": "cache/2026-06-28/candidates/news/NFLX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 7,
+    "neutral_count": 4,
+    "overall_sentiment": "mixed",
+    "key_theme": "Netflix 股價近期因市場拋售觸及多年低點，但公司透過 AI 廣告策略與直播體育內容推動反彈，市場對其長期價值與折價空間看法分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Netflix (NFLX) Teams Up With Omnicom Media To Bring AI Ads Onto The Platform",
+      "publisher": "Yahoo",
+      "date": "2026-06-25 21:08",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "與 Omnicom Media 建立 AI 廣告聯盟，顯示公司在廣告變現能力上的技術升級，有助於提升長期營收成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Netflix (NFLX) Stock Is Trading Up Today",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 21:20",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日反彈 5.3%，反映市場對公司近期推出的新策略與業務轉型給予正面回應。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix Bets Bigger on AI Strategy: Can It Strengthen User Retention?",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 14:06",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "透過 AI 驅動的個人化推薦與創作工具，旨在降低用戶流失率並提升參與度，是改善財務基本面的關鍵舉措。"
+    },
+    {
+      "rank": 4,
+      "title": "Meet the Growth Stock That's Cheaper Than 6 Magnificent Seven Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-06-25 08:25",
+      "impact": "medium",
+      "category": "投資建議",
+      "reason": "分析師認為股價大幅回調後已具備投資價值，相較於其他科技巨頭，Netflix 的估值折價提供了進場機會。"
+    },
+    {
+      "rank": 5,
+      "title": "Netflix Monthly Subscriber Churn Still Best At 2%",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 15:37",
+      "impact": "medium",
+      "category": "營運數據",
+      "reason": "維持 2% 的低流失率證明了 Netflix 在串流媒體市場的強大護城河與用戶黏著度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Netflix Stock Plunges 45% From Peak, Hit Worst Technical Level in Four Years",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 17:20",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價從高點回落 45%，觸及四年來技術面最低點，顯示市場賣壓沉重且投資人信心脆弱。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Did MSTR, PLTR, NFLX Stocks Plummet To 52-Week Lows?",
+      "publisher": "Yahoo",
+      "date": "2026-06-25 03:58",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受整體市場獲利了結與資金轉向晶片股影響，Netflix 股價跌至 52 週新低，反映資金流出壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix (NFLX) Stock Sees Modest Fair Value Cut As Analysts Weigh Ad Growth Risks",
+      "publisher": "Yahoo",
+      "date": "2026-06-25 20:08",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "分析師微幅下調目標價（從 114.56 美元至 114.15 美元），反映對廣告業務成長風險的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "What to Expect From Netflix's Next Quarterly Earnings Report",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 13:05",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "市場預期下季財報僅有個位數成長，屬於市場預期內的平淡表現，未提供顯著多空訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "Ranking the FAANG Stocks From Most to Least Attractive",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 11:26",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對 FAANG 股票的現金流吸引力排名，屬於常規市場分析，對短期股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

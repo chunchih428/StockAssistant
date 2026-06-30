@@ -1,0 +1,111 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-06-28",
+  "source_file": "cache/2026-06-28/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 3,
+    "bearish_count": 12,
+    "neutral_count": 5,
+    "overall_sentiment": "bearish",
+    "key_theme": "記憶體成本飆升迫使 Apple 大幅調漲硬體價格，引發市場對需求疲軟與供應鏈地緣政治風險的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple Hiked Prices Of Its Products Due To Soaring Memory Costs — And Dan Ives Says AAPL Can Get Away With It",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 12:41",
+      "impact": "medium",
+      "category": "分析師觀點",
+      "reason": "Wedbush 分析師 Dan Ives 維持「優於大盤」評級與 400 美元目標價，認為 Apple 品牌忠誠度足以支撐漲價策略，不會嚴重損害銷量。"
+    },
+    {
+      "rank": 2,
+      "title": "Investors should own Apple's stock despite price hikes, says Albion Financial's Jason Ware",
+      "publisher": "CNBC",
+      "date": "2026-06-26 14:57",
+      "impact": "low",
+      "category": "分析師觀點",
+      "reason": "Albion Financial 首席投資長 Jason Ware 強調儘管面臨成本壓力，Apple 的基本面與長期價值仍值得投資人持有。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple (AAPL) Plans Mac Chip Roadmap Shift Toward AI-Focused M7",
+      "publisher": "Yahoo",
+      "date": "2026-06-27 19:32",
+      "impact": "low",
+      "category": "產品研發",
+      "reason": "Apple 規劃 M7 晶片以強化 AI 運算能力，顯示公司在 AI 硬體領域的長期技術布局持續推進。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Apple Just Suffered Its Worst Crash In Over A Year",
+      "publisher": "Benzinga",
+      "date": "2026-06-26 05:42",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價單日重挫 6 %，反映市場對記憶體成本飆升導致產品漲價可能抑制消費者需求的極度擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple Seeks US Approval to Buy Chips From Blacklisted CXMT: FT",
+      "publisher": "Yahoo",
+      "date": "2026-06-27 07:45",
+      "impact": "high",
+      "category": "法規與供應鏈",
+      "reason": "Apple 尋求向被美國列入黑名單的中國長鑫儲存 (CXMT) 採購晶片，此舉可能引發華盛頓的政治審查與地緣政治風險。"
+    },
+    {
+      "rank": 3,
+      "title": "KGI Securities Downgrades Apple (AAPL) to Hold – Here’s Why",
+      "publisher": "Yahoo",
+      "date": "2026-06-27 19:08",
+      "impact": "medium",
+      "category": "分析師觀點",
+      "reason": "凱基證券將 Apple 評級下調至「持有」，反映對短期獲利能力與漲價後市場反應的保守態度。"
+    },
+    {
+      "rank": 4,
+      "title": "Apple hardware exec exits for OpenAI",
+      "publisher": "CNBC",
+      "date": "2026-06-26 17:56",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "硬體部門資深主管離職加入 OpenAI，顯示 Apple 在 AI 人才競爭中面臨流失壓力。"
+    },
+    {
+      "rank": 5,
+      "title": "Apple Just Did Something It Wouldn’t Even Do During COVID, and Wall Street Is Freaking Out",
+      "publisher": "Yahoo",
+      "date": "2026-06-27 16:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Apple 罕見地大幅調漲 Mac 與 iPad 價格，打破了過去二十年來的定價慣例，引發華爾街對其定價權與市場競爭力的質疑。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "S&P 500, Nasdaq End Week Lower As Investors Rotate Out Of Tech, AI Plays",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 22:34",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "整體科技股板塊輪動導致 Apple 股價隨大盤走低，並非單一公司基本面因素。"
+    },
+    {
+      "rank": 2,
+      "title": "D.A. Davidson's Gil Luria breaks down three things happening with Apple",
+      "publisher": "CNBC",
+      "date": "2026-06-25 11:52",
+      "impact": "low",
+      "category": "分析師觀點",
+      "reason": "分析師針對 Apple 近期動態進行綜合性評估，未給出明確的買進或賣出建議。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
