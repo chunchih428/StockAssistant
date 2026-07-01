@@ -1,0 +1,93 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-07-01",
+  "source_file": "cache/2026-07-01/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 4,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管 Broadcom 擁有強勁的 AI 晶片業務與 OpenAI 的 Jalapeño 合作案，但近期股價因創辦人拋售持股及市場對成長放緩的擔憂而面臨修正壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "What Broadcom (AVGO)'s Jalapeño AI Accelerator Partnership With OpenAI Means For Shareholders",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 03:14",
+      "impact": "high",
+      "category": "產品合作",
+      "reason": "與 OpenAI 合作開發 Jalapeño 推論加速器，確立了 Broadcom 在 AI 基礎設施領域的長期競爭優勢。"
+    },
+    {
+      "rank": 2,
+      "title": "JPMorgan Pushes Back on Broadcom (AVGO) Delay Fears and Says the TPU v9 Program Is Firmly on Schedule",
+      "publisher": "Yahoo",
+      "date": "2026-06-29 11:58",
+      "impact": "medium",
+      "category": "分析師觀點",
+      "reason": "摩根大通澄清 TPU v9 專案進度正常，消除了市場對於專案延遲的疑慮，維持正面評級。"
+    },
+    {
+      "rank": 3,
+      "title": "The Billionaire Who Sold Nvidia Too Early Just Bought 196,000 Shares of Broadcom",
+      "publisher": "Yahoo",
+      "date": "2026-06-28 16:44",
+      "impact": "medium",
+      "category": "機構投資",
+      "reason": "傳奇投資人 Stanley Druckenmiller 在第一季建立 Broadcom 部位，顯示頂尖操盤手對其長期價值的認可。"
+    },
+    {
+      "rank": 4,
+      "title": "Broadcom (AVGO) Raises Tender-Offer Cap to $3 Billion, Accepts $2.9 Billion in Notes",
+      "publisher": "Yahoo",
+      "date": "2026-06-29 10:24",
+      "impact": "low",
+      "category": "財務操作",
+      "reason": "公司提高收購要約上限至 30 億美元，展現了強勁的現金流與資本配置能力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "AVGO Stock Heads For Worst Month In 7 Years: Co-Founder’s Quarterly Stake Sales Top $720M",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 05:28",
+      "impact": "high",
+      "category": "內部人交易",
+      "reason": "創辦人單季拋售超過 7.2 億美元持股，引發市場對內部人信心不足的擔憂，導致股價創下七年來最差單月表現。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom Just Cratered 16% in a Month. Is It Time to Sell, or Buy More?",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 18:36",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單月重挫 16%，技術面轉弱，投資人對於是否應在回檔時進場產生分歧。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Better Custom ASIC Stock: Marvell vs. Broadcom",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 17:35",
+      "impact": "low",
+      "category": "產業競爭",
+      "reason": "將 Broadcom 與 Marvell 進行比較，兩者皆在 AI 客製化晶片領域具備成長潛力，未對單一公司給出明確勝負。"
+    },
+    {
+      "rank": 2,
+      "title": "Nvidia, Micron, and Broadcom hold the stock market's fate in the palm of their hands",
+      "publisher": "Yahoo",
+      "date": "2026-06-29 13:07",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅強調 Broadcom 在半導體產業的權重地位，屬於市場概況分析，無具體利多或利空消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

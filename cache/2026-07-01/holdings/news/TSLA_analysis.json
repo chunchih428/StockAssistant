@@ -1,0 +1,183 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla",
+  "analysis_date": "2026-07-01",
+  "source_file": "cache/2026-07-01/holdings/news/TSLA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 6,
+    "bearish_count": 6,
+    "neutral_count": 8,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場高度關注即將公布的 Q2 交車數據，多空雙方對於需求復甦力道與 AI 轉型策略存在顯著分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "TSLA Stock Rises Ahead of Q2 Deliveries Report: Buy, Hold, or Sell?",
+      "publisher": "Yahoo",
+      "date": "2026-06-30T13:03:00Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "海外市場需求強勁與能源業務成長，為即將公布的 Q2 交車數據提供正面支撐預期。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla Ropes In Intel Veteran To Lead Elon Musk’s Ambitious Terafab Project",
+      "publisher": "Yahoo",
+      "date": "2026-07-01T00:23:00Z",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "延攬 Intel 資深人才 Gary Jiang 領導 Terafab 項目，顯示公司在製造自動化與 AI 基礎設施上的積極布局。"
+    },
+    {
+      "rank": 3,
+      "title": "TSLA Stock Trims Losses Overnight: Tesla Cybercab Starts Austin Tests",
+      "publisher": "Yahoo",
+      "date": "2026-06-30T06:17:00Z",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Cybercab 在奧斯汀啟動測試，且具備先進安全功能，強化了市場對其自動駕駛技術商業化的信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Tesla (TSLA) Exceeds Market Returns: Some Facts to Consider",
+      "publisher": "Yahoo",
+      "date": "2026-06-30T21:45:00Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日上漲 2.13 %，反映出市場在重要數據公布前的樂觀情緒。"
+    },
+    {
+      "rank": 5,
+      "title": "Tesla's Stock Just Bounced Back in a Big Way",
+      "publisher": "Yahoo",
+      "date": "2026-06-30T18:36:00Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價在波動劇烈的季度末出現反彈，顯示買盤在關鍵支撐位介入。"
+    },
+    {
+      "rank": 6,
+      "title": "Tesla (TSLA) Delivery Outlook Improves as Morgan Stanley Keeps Equal Weight Rating",
+      "publisher": "Yahoo",
+      "date": "2026-06-30T10:25:00Z",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "摩根士丹利維持中性評級，但對交車展望持正面看法，有助於穩定市場信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Michael Burry bets against Tesla, Nvidia in new AI bubble short positions",
+      "publisher": "Yahoo",
+      "date": "2026-06-30T21:12:00Z",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "知名投資人 Michael Burry 針對 Tesla 開立空頭部位，並稱其為 AI 泡沫，對市場情緒造成顯著負面影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla (TSLA) Stock May Be Overvalued After Merger Speculation Grows",
+      "publisher": "Yahoo",
+      "date": "2026-07-01T03:11:00Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場擔憂股價在合併傳聞推動下已過度高估，存在回調風險。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Tesla Stock A Bet On Cars Or A Cash-Burning Bet on AI?",
+      "publisher": "Yahoo",
+      "date": "2026-06-30T15:43:00Z",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "質疑公司將數十億美元投入 AI 與機器人領域的資本支出效率，對核心汽車業務的獲利能力產生疑慮。"
+    },
+    {
+      "rank": 4,
+      "title": "Tesla Q2 delivery preview: Europe, international sales the driver as US sales in decline",
+      "publisher": "Yahoo",
+      "date": "2026-06-30T15:29:00Z",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "指出美國本土銷售下滑，過度依賴國際市場成長，可能影響 Q2 財報表現。"
+    },
+    {
+      "rank": 5,
+      "title": "Tech Weekly: Tesla's FSD tech up for debate",
+      "publisher": "Yahoo",
+      "date": "2026-06-30T15:03:00Z",
+      "impact": "low",
+      "category": "法規",
+      "reason": "FSD 技術在歐洲面臨監管與技術辯論，增加市場對其全球擴張的隱憂。"
+    },
+    {
+      "rank": 6,
+      "title": "More Bark, More Beta: Corgi Debuts 31 Single-Stock ETFs",
+      "publisher": "Benzinga",
+      "date": "2026-06-30T18:17:00Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "推出單一個股槓桿 ETF 可能加劇股價波動，增加市場投機性風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "SpaceX and Tesla Shares Are Trading Like Twins",
+      "publisher": "Barrons.com",
+      "date": "2026-06-30T20:35:00Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析兩者股價連動性，屬於市場觀察性質，對基本面無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Nasdaq, S&P 500, Dow Futures Hold Steady Ahead Of JOLTS Report",
+      "publisher": "Yahoo",
+      "date": "2026-06-30T08:46:00Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "整體大盤走勢分析，Tesla 僅為其中提及的個股之一。"
+    },
+    {
+      "rank": 3,
+      "title": "Rivian Automotive vs. Tesla: Which Automotive Stock Is a Better Buy in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-06-30T23:11:00Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "產業比較分析，提供投資人不同觀點，無明確利多或利空指向。"
+    },
+    {
+      "rank": 4,
+      "title": "Should You 'Buy' or 'Sell' Tesla Stock Before July 2",
+      "publisher": "Yahoo",
+      "date": "2026-06-30T19:47:00Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對即將公布的數據進行買賣建議討論，屬於市場預期心理。"
+    },
+    {
+      "rank": 5,
+      "title": "Dear Tesla Stock Fans, Mark Your Calendars for July 2",
+      "publisher": "Yahoo",
+      "date": "2026-06-30T19:43:00Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "提醒投資人關注交車數據公布日期，無實質消息。"
+    },
+    {
+      "rank": 6,
+      "title": "Elon Musk Shares Wish For Mankind On 55th Birthday",
+      "publisher": "Yahoo",
+      "date": "2026-06-30T16:30:00Z",
+      "impact": "low",
+      "category": "公司新聞",
+      "reason": "關於 CEO 個人生日的軟性新聞，對股價影響微乎其微。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

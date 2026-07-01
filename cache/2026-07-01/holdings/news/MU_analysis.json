@@ -1,0 +1,111 @@
+{
+  "ticker": "MU",
+  "company": "Micron Technology",
+  "analysis_date": "2026-07-01",
+  "source_file": "cache/2026-07-01/holdings/news/MU.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 6,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "Micron 憑藉強勁的 AI 記憶體需求與亮眼財報實現上半年股價飆漲，但面臨潛在競爭對手上市壓力、價格操縱訴訟及獲利了結賣壓的挑戰。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Micron Technology (MU) Gets Major Price Target Raise as Strategic Contracts Strengthen Outlook",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 10:26",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "華爾街分析師因戰略合約與 AI 需求上調目標價，顯示市場對其長期獲利能力信心增強。"
+    },
+    {
+      "rank": 2,
+      "title": "Surging Earnings Estimates Signal Upside for Micron (MU) Stock",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 16:20",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "財報預估持續上修，反映 AI 記憶體需求強勁，為股價提供基本面支撐。"
+    },
+    {
+      "rank": 3,
+      "title": "MU Stock Caps Best First Half Ever With 4x Surge, Cracks S&P 500’s Top 10: Retail Bulls Want More",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 03:40",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "上半年股價成長 4 倍並進入 S&P 500 前十大權重股，顯示強大的市場動能與投資人熱度。"
+    },
+    {
+      "rank": 4,
+      "title": "3 AI Infrastructure Stocks Up 500%+ With More Upside in 2H 2026",
+      "publisher": "Yahoo",
+      "date": "2026-06-29 19:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "被列為 AI 基礎設施領頭羊，預期下半年仍有成長空間。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Micron Stock Price Prediction: After a 4x First Half, the Forecast Flashes Sell",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 16:37",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "上半年漲幅過大，技術面與估值面出現獲利了結的賣出訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "Dear Micron Stock Fans, Mark Your Calendars for July 10 — SK Hynix’s U.S. market debut on July 10 could test Micron’s AI memory dominance",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 18:22",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "SK Hynix 即將在美上市，可能分食 Micron 在 AI 記憶體市場的市佔率與投資人關注度。"
+    },
+    {
+      "rank": 3,
+      "title": "Micron and Other Memory Makers Are Being Sued Over Price Fixing Claims",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 20:51",
+      "impact": "medium",
+      "category": "法規與訴訟",
+      "reason": "面臨 DRAM 價格操縱集體訴訟，雖目前視為頭條風險，但法律不確定性可能影響股價。"
+    },
+    {
+      "rank": 4,
+      "title": "Could SanDisk Be The Biggest AI Memory Winner? Bernstein Points To Hidden Advantage Over Micron",
+      "publisher": "Benzinga",
+      "date": "2026-06-30 08:18",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "分析師指出 SanDisk 在合約保護上優於 Micron，可能導致部分資金轉移。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Micron Technology Announces $250M Investment Through Trump Accounts",
+      "publisher": "Benzinga",
+      "date": "2026-06-30 09:23",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "宣布 2.5 億美元投資計畫，屬於常規財務配置，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Micron (MU) Stock Looks Below Fair Value But Broader Checks Stay Mixed",
+      "publisher": "Yahoo",
+      "date": "2026-07-01 02:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "估值雖低於公允價值，但市場調查結果多空分歧，方向不明。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
