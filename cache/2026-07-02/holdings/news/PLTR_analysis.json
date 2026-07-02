@@ -1,0 +1,120 @@
+{
+  "ticker": "PLTR",
+  "company": "Palantir Technologies Inc.",
+  "analysis_date": "2026-07-01",
+  "source_file": "cache/2026-07-01/holdings/news/PLTR.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "Palantir 透過與 NVIDIA 的戰略合作及擴展 Surf Air 商業夥伴關係，強化了其在主權 AI 與企業級軟體市場的領導地位，有效緩解了市場對其競爭力的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Palantir Launches Engine for Deploying NVIDIA Nemotron Open Models in Sovereign Environments",
+      "publisher": "Yahoo",
+      "date": "2026-06-29 10:59",
+      "impact": "high",
+      "category": "戰略合作",
+      "reason": "Palantir 與 NVIDIA 達成戰略合作，將 NVIDIA 的 AI 模型整合至 Palantir 的主權 AI 平台，顯著提升了其在政府與基礎設施領域的技術護城河。"
+    },
+    {
+      "rank": 2,
+      "title": "Palantir and Surf Air Mobility Expand Partnership to Accelerate Commercialization",
+      "publisher": "Yahoo",
+      "date": "2026-06-29 10:59",
+      "impact": "medium",
+      "category": "商業擴張",
+      "reason": "擴大與 Surf Air 的合作，顯示 Palantir 在商業領域的軟體應用（如 OperatorOS）正持續落地，有助於多元化營收來源。"
+    },
+    {
+      "rank": 3,
+      "title": "Anthropic Eating Palantir's Lunch? Dan Ives Says Bears Are 'Way Wrong' On Alex Karp's PLTR",
+      "publisher": "Benzinga",
+      "date": "2026-06-30 03:48",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "Wedbush 分析師 Dan Ives 強力反駁市場關於 Anthropic 威脅 Palantir 的論點，認為這類負面敘事缺乏根據，有助於穩定投資人信心。"
+    },
+    {
+      "rank": 4,
+      "title": "The US Army Just Made Palantir (PLTR) Foundry the Data Backbone of Its Biggest Tech Overhaul",
+      "publisher": "Yahoo",
+      "date": "2026-06-29 10:18",
+      "impact": "medium",
+      "category": "政府合約",
+      "reason": "美國陸軍將 Foundry 平台選為技術升級的數據骨幹，鞏固了 Palantir 作為國防領域核心軟體供應商的地位。"
+    },
+    {
+      "rank": 5,
+      "title": "Japan Weighs Palantir AI Defense System For Military Command Network",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 17:13",
+      "impact": "medium",
+      "category": "國際市場",
+      "reason": "日本政府評估採用 Palantir 的 Maven Smart System，若成功簽約將進一步擴大其在國際軍事市場的市佔率。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "What's Wrong With Palantir Technologies Stock? — The top tech stock has been crashing this year",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 14:13",
+      "impact": "medium",
+      "category": "股價表現",
+      "reason": "報導指出該股今年以來跌幅超過 40%，反映出市場對其高估值與成長放緩的擔憂，對短期股價情緒構成壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "PLTR Stock Watch: What to Know as Palantir Teams Up With Nvidia — Does that warrant buying PLTR shares at about 97x forward earnings?",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 15:11",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "儘管有合作利多，但分析師質疑 97 倍的預期本益比是否過高，提醒投資人注意估值過熱的風險。"
+    },
+    {
+      "rank": 3,
+      "title": "5-star analyst gives beaten-down Palantir a surprise verdict",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 02:47",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "指出 Palantir 已從 AI 寵兒轉變為 AI 落後者，反映出市場對其競爭地位變化的負面觀感。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "S&P 500, Nasdaq End Higher As Chipmakers Rally, While Dow Posts Best First Half In Five Years",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 22:57",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此新聞主要討論大盤走勢，僅提及 Palantir 為市場焦點之一，對個股基本面無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Palantir Price Prediction: The Stock Will Hit $150 on This Date",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 14:37",
+      "impact": "low",
+      "category": "市場預測",
+      "reason": "屬於市場投機性預測，缺乏具體財務模型支撐，對投資決策參考價值有限。"
+    },
+    {
+      "rank": 3,
+      "title": "PLTR Stock: What Does Its Valuation Imply?",
+      "publisher": "Yahoo",
+      "date": "2026-06-29 19:39",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "探討公司估值與 AI 平台供應限制，屬於中性分析，未給出明確買賣建議。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

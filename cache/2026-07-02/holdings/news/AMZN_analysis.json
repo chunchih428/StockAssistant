@@ -1,0 +1,129 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-07-01",
+  "source_file": "cache/2026-07-01/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 6,
+    "bearish_count": 4,
+    "neutral_count": 10,
+    "overall_sentiment": "bullish",
+    "key_theme": "Amazon 透過投入 10 億美元成立 AI 工程部門強化 AWS 競爭力，並受惠於零售數據強勁與分析師看好長期營收成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Amazon (AMZN) Launches $1 Billion AI Engineering Unit Inside Customer Organizations",
+      "publisher": "Yahoo",
+      "date": "2026-07-01 00:16",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "AWS 投入 10 億美元成立 Forward Deployed Engineering 部門，透過派遣工程師駐點客戶端加速 AI 部署，展現其在雲端 AI 領域的強大執行力與客戶黏著度。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon Stock On Watch As Prime Day Pull-Forward Meets 20% AWS Price Pop",
+      "publisher": "Benzinga",
+      "date": "2026-06-30 11:54",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "美國銀行 (BofA) 維持買入評級與 310 美元目標價，看好強勁的零售數據與 AWS 價格調漲將顯著提升獲利能力。"
+    },
+    {
+      "rank": 3,
+      "title": "Jeff Bezos’ Amazon May Hit Historic Milestone No Company Has Reached, Says Analyst",
+      "publisher": "Yahoo",
+      "date": "2026-07-01 00:31",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師預測 Amazon 有望在 2028 年成為首家年營收突破 1 兆美元的公司，長期成長前景備受市場看好。"
+    },
+    {
+      "rank": 4,
+      "title": "From the Gas Pump to the Grill: Prime Introduces Summer Savings Just in Time for the Fourth of July",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 10:00",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "透過 Prime 會員夏季促銷活動，預計能進一步提升零售部門的用戶參與度與銷售額。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Amazon Stock in Focus -- Agrees to Pay $2.25 Million in FTC Settlement",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 16:21",
+      "impact": "medium",
+      "category": "法規",
+      "reason": "Amazon 與 FTC 達成 225 萬美元和解，加上澳洲面臨 Prime Video 相關訴訟，顯示公司在監管與法律合規方面持續面臨壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "NLRB Judge Rules Against Amazon in San Francisco Union Fight",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 13:00",
+      "impact": "low",
+      "category": "勞資關係",
+      "reason": "勞資關係委員會 (NLRB) 法官裁定不利於 Amazon，儘管未來可能因政治變動而翻盤，但短期內對公司勞工政策形象造成負面影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Magnificent Seven stocks lose $2.3 trillion as AI fears mount",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 12:13",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場對 AI 資本支出過高產生疑慮，導致科技巨頭股價波動，反映出投資人對 AI 投資回報率的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "S&P 500, Nasdaq End Higher As Chipmakers Rally, While Dow Posts Best First Half In Five Years",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 22:57",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "整體市場表現強勁，Amazon 作為成分股隨大盤走勢波動，無特定公司層面利多。"
+    },
+    {
+      "rank": 2,
+      "title": "\"Magnificent Seven\" Showdown: Amazon or Alphabet for Long-Term Investors?",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 22:20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為投資組合配置的比較分析，未對 Amazon 基本面產生直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Americans Bet Twice As Much On Sports Last Year As Amazon Earned",
+      "publisher": "Yahoo",
+      "date": "2026-07-01 02:31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為數據對比分析，旨在說明博弈產業規模，對 Amazon 營運無實質影響。"
+    },
+    {
+      "rank": 4,
+      "title": "Republic Business Credit Provides $2 Million E-Commerce ABL Facility to Emerging Retailer",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 14:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅涉及第三方賣家的融資活動，對 Amazon 自身財務影響微乎其微。"
+    },
+    {
+      "rank": 5,
+      "title": "Levanta Research Finds 74% of Creators Send Affiliate Traffic to Multiple Shopping Destinations",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 12:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "產業研究報告，探討創作者流量分配趨勢，對 Amazon 營收影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

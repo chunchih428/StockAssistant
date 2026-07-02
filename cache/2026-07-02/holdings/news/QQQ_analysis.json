@@ -1,0 +1,93 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-07-01",
+  "source_file": "cache/2026-07-01/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 1,
+    "bearish_count": 5,
+    "neutral_count": 2,
+    "overall_sentiment": "bearish",
+    "key_theme": "科技股近期面臨高波動與技術性回調壓力，市場對於集中度過高的「七巨頭」風險擔憂加劇。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why QQQ Is Pulling Further Ahead Of Bitcoin ETFs In 2026",
+      "publisher": "Benzinga",
+      "date": "2026-06-24 11:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "相較於加密貨幣 ETF 資產規模萎縮，AI 驅動的 QQQ 持續吸引投資人資金流入，顯示其作為科技成長型資產的長期吸引力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Nasdaq 100 Flashes Warning Signs After 5-Day Slide: Is The Tech Rally Running Out Of Steam?",
+      "publisher": "Benzinga",
+      "date": "2026-06-29 03:49",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "納斯達克 100 指數出現 5 日連跌，技術面顯示波動率達到 23 年來高點，且關鍵支撐位面臨測試，暗示短期漲勢可能動能耗盡。"
+    },
+    {
+      "rank": 2,
+      "title": "How The Mag 7 Became The Drag 7, And Might Drop The S&P 500 By 30% (Technical Analysis)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-27 09:32",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "「七巨頭」占據 QQQ 約 38% 的權重，若該類股出現修正，將對 QQQ 造成顯著的下行壓力，技術分析顯示市場脆弱性增加。"
+    },
+    {
+      "rank": 3,
+      "title": "Chip Selloff Pressures Breadth, Longer-Term Participation Still Holds",
+      "publisher": "ChartMill",
+      "date": "2026-06-24 06:17",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "半導體類股拋售潮導致市場廣度惡化，並拖累 QQQ 表現，顯示科技板塊內部輪動與獲利了結壓力。"
+    },
+    {
+      "rank": 4,
+      "title": "5 Ways To Protect Capital When SPY/QQQ Tumble, Plus A Simple 2-ETF Mix",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-29 08:27",
+      "impact": "medium",
+      "category": "投資策略",
+      "reason": "文章建議投資人應對 QQQ 下跌風險，並提及 Shiller CAPE 指數過高，反映市場對估值過高的擔憂。"
+    },
+    {
+      "rank": 5,
+      "title": "Look Closer At SPY, QQQ: Investors Are Rigging A Safety Net Under The Stock Market",
+      "publisher": "Benzinga",
+      "date": "2026-06-30 14:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "指出市場表面穩定但內部結構存在隱憂，投資人正透過 ETF 衍生品建立防護網，暗示市場情緒轉趨謹慎。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "QQQE Vs. QQQ: After A 16% Move, Here Is The Smarter Way To Hold The NDX",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-28 09:06",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "比較等權重 ETF (QQQE) 與 QQQ 的表現，強調 QQQE 在降低大型股集中度方面的優勢，屬於資產配置建議而非對 QQQ 本身的看空。"
+    },
+    {
+      "rank": 2,
+      "title": "Invesco QQQ Is Magnificent, but This 1 ETF Might Be Even Better Right Now",
+      "publisher": "Motley Fool",
+      "date": "2026-06-30 12:06",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "承認 QQQ 的卓越表現，但建議投資人考慮其他替代方案以分散風險，屬中性的配置建議。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
