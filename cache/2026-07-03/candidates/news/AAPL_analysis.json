@@ -1,0 +1,111 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-07-01",
+  "source_file": "cache/2026-07-01/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 3,
+    "bearish_count": 11,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "Apple 正面臨記憶體供應短缺帶來的成本壓力，試圖透過採購受制裁的中國晶片來緩解，引發地緣政治風險與監管疑慮。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple Just Acquired the Team Behind the Play App. What That Means for AAPL Stock.",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 18:43",
+      "impact": "low",
+      "category": "企業併購",
+      "reason": "透過收購 Play App 團隊強化創新能力，顯示公司持續投資軟體生態系以維持競爭優勢。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple Inc. (AAPL) Is A Top Warren Buffett Stock Pick",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 17:29",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "巴菲特長期持股的背書為投資人提供信心，被視為具備長期成長潛力的核心資產。"
+    },
+    {
+      "rank": 3,
+      "title": "American Express Adds Apple Pay Rewards Redemption for US Cardholders",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 20:18",
+      "impact": "low",
+      "category": "產品服務",
+      "reason": "與美國運通的合作擴大 Apple Pay 的使用場景，有助於提升支付服務的用戶黏著度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Apple (AAPL) Seeks Blacklisted China Chip Approval As Supplier Breach Raises Risk",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 06:07",
+      "impact": "high",
+      "category": "法規與地緣政治",
+      "reason": "Apple 尋求向被美國列入黑名單的中國供應商 CXMT 採購記憶體，此舉面臨嚴重的政治與監管風險，可能引發美國政府制裁。"
+    },
+    {
+      "rank": 2,
+      "title": "AAPL Stock Dips Premarket: Report Says Apple Is 'Concerned' Over Tata Data Leak Exposing Confidential iPhone Files",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 09:32",
+      "impact": "medium",
+      "category": "資安風險",
+      "reason": "供應鏈合作夥伴 Tata 發生資料外洩，涉及 iPhone 機密文件，對公司產品保密性與供應鏈管理能力構成負面影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple Is Raising Prices Due to Higher Memory Costs. Is the Stock in Trouble?",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 17:20",
+      "impact": "medium",
+      "category": "財報與營運",
+      "reason": "因記憶體成本飆升而調漲產品價格，可能削弱消費者需求並影響長期獲利能力。"
+    },
+    {
+      "rank": 4,
+      "title": "US Supreme Court to hear Apple appeal of contempt in Epic Games lawsuit",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 16:10",
+      "impact": "medium",
+      "category": "法律訴訟",
+      "reason": "最高法院受理 Epic Games 訴訟案的上訴，增加了 Apple App Store 商業模式面臨監管變動的不確定性。"
+    },
+    {
+      "rank": 5,
+      "title": "3 Reasons Apple Stock Is No Longer a Buy",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 14:20",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析師指出成長動能減弱，建議投資人對加碼持股保持謹慎態度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Apple is trying to address AI-related cybersecurity risks. What's going on?",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 20:21",
+      "impact": "low",
+      "category": "產品更新",
+      "reason": "發布軟體更新以解決 AI 資安疑慮，屬於正常的維護與風險管理範疇。"
+    },
+    {
+      "rank": 2,
+      "title": "Zacks Investment Ideas feature highlights: Apple and Alphabet",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 13:18",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為投資建議的技術面與季節性分析，未包含重大基本面變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-07-01",
+  "source_file": "cache/2026-07-01/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 18,
+    "bullish_count": 13,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "CrowdStrike 受惠於 AI 安全平台需求強勁與即將進行的股票分割，市場動能顯著。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike (CRWD) Launches Unified AI Security Platform And Expands AWS Coalition",
+      "publisher": "Yahoo",
+      "date": "2026-06-29",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "推出統一的 AI 安全控制平面，強化與 AWS 的合作，直接提升了公司在 AI 安全領域的競爭護城河。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike Stock Split Set For Wednesday Amid 2026 Momentum",
+      "publisher": "Yahoo",
+      "date": "2026-06-30",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "公司即將進行 4 拆 1 的股票分割，通常能增加流動性並吸引散戶投資人，市場對此抱持高度期待。"
+    },
+    {
+      "rank": 3,
+      "title": "CrowdStrike (CRWD) Stock Gets Fair Value Bump After Strong Q1 And AI Security Momentum",
+      "publisher": "Yahoo",
+      "date": "2026-06-24",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "第一季財報表現強勁，分析師上調其合理價值至 712.37 美元，反映了市場對其成長潛力的認可。"
+    },
+    {
+      "rank": 4,
+      "title": "Can Identity Security Become a Major Growth Driver for CrowdStrike?",
+      "publisher": "Yahoo",
+      "date": "2026-06-30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "身分安全業務因 AI 代理與應用程式的需求激增而獲得強勁動能，成為公司新的成長引擎。"
+    },
+    {
+      "rank": 5,
+      "title": "Brokers Suggest Investing in CrowdStrike (CRWD): Read This Before Placing a Bet",
+      "publisher": "Yahoo",
+      "date": "2026-06-29",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "券商平均建議評級維持在「買入」，顯示華爾街對該股長期展望仍具信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Here’s Burke Wealth Management’s Concerns on CrowdStrike (CRWD) Amid AI Disruption Challenges",
+      "publisher": "Yahoo",
+      "date": "2026-06-24",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Burke Wealth Management 在其第一季報告中對 AI 帶來的顛覆性挑戰表示擔憂，提醒投資人注意潛在的市場競爭風險。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike Stock: Is CRWD Underperforming the Technology Sector?",
+      "publisher": "Yahoo",
+      "date": "2026-06-24",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "指出過去一年該股表現落後於整體科技類股，反映出投資人對其估值與成長速度的質疑。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Forget CrowdStrike. For 0.59% This Fund Owns It Plus 30 Cybersecurity Rivals",
+      "publisher": "Yahoo",
+      "date": "2026-06-24",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "介紹透過 ETF 投資網路安全產業的替代方案，對 CrowdStrike 本身股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Palo Alto Networks Surges 9%, CrowdStrike Rises 7%, Okta Gains 5%: Can the Cybersecurity Rally Justify Its Valuations?",
+      "publisher": "Yahoo",
+      "date": "2026-06-29",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導整體網路安全板塊的集體上漲，CrowdStrike 的漲幅屬於板塊輪動的一部分，而非公司單一事件。"
+    },
+    {
+      "rank": 3,
+      "title": "Here Are Monday’s Best Wall Street Analyst Research Calls",
+      "publisher": "Yahoo",
+      "date": "2026-06-29",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅列出分析師研究報告清單，未提供具體的評級變動細節。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

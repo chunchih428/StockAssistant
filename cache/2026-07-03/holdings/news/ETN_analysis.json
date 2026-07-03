@@ -1,0 +1,66 @@
+{
+  "ticker": "ETN",
+  "company": "Eaton",
+  "analysis_date": "2026-07-01",
+  "source_file": "cache/2026-07-01/holdings/news/ETN.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "Eaton 憑藉其在 AI 基礎設施與電力管理領域的長期競爭優勢，儘管面臨短期股價波動與數據中心項目延遲的雜音，市場仍看好其結構性成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Data Center Delays Create Opportunity in These 3 Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 14:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管數據中心項目面臨延遲，但分析指出 Eaton 在 AI 基礎設施領域的長期需求依然強勁，將短期回調視為投資機會。"
+    },
+    {
+      "rank": 2,
+      "title": "Eaton Corporation to Merge Mobility Business with Dana",
+      "publisher": "Insider Monkey",
+      "date": "2026-06-22",
+      "impact": "medium",
+      "category": "企業併購",
+      "reason": "透過將移動業務與 Dana 合併，Eaton 展現了優化投資組合、專注於核心電力管理業務的策略意圖，有利於提升長期獲利能力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Eaton (ETN) Dips More Than Broader Market: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 21:45",
+      "impact": "low",
+      "category": "股價表現",
+      "reason": "股價單日下跌 4.09 %，表現弱於大盤，反映出短期市場情緒的修正與獲利了結壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Eaton vs. Vertiv: Which Industrials Stock Is a Better Buy in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 13:52",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "文章對 Eaton 與 Vertiv 進行比較，旨在分析不同成長驅動力與風險，屬於中性的投資建議分析，無明確多空導向。"
+    },
+    {
+      "rank": 2,
+      "title": "Here's How Much $100 Invested In Eaton Corp 20 Years Ago Would Be Worth Today",
+      "publisher": "Benzinga",
+      "date": "2026-06-29 18:00",
+      "impact": "low",
+      "category": "歷史回顧",
+      "reason": "回顧過去 20 年的績效表現，強調其長期優於大盤的歷史數據，屬於回顧性報導，對當前股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
