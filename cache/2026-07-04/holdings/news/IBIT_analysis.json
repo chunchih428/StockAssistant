@@ -1,0 +1,93 @@
+{
+  "ticker": "IBIT",
+  "company": "Bitcoin",
+  "analysis_date": "2026-07-01",
+  "source_file": "cache/2026-07-01/holdings/news/IBIT.json",
+  "summary": {
+    "total_articles": 12,
+    "bullish_count": 2,
+    "bearish_count": 8,
+    "neutral_count": 2,
+    "overall_sentiment": "bearish",
+    "key_theme": "比特幣價格崩跌導致 IBIT 出現創紀錄的資金外流與投資人虧損，市場情緒轉向悲觀。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "iShares Bitcoin Trust ETF Tops Fidelity in Assets Under Management",
+      "publisher": "Motley Fool",
+      "date": "2026-06-29T12:11:01Z",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "IBIT 在管理資產規模 (AUM) 上超越 Fidelity，顯示其在現貨比特幣 ETF 市場中仍具備強大的品牌競爭力與市占優勢。"
+    },
+    {
+      "rank": 2,
+      "title": "You Want Bitcoin, Not the Exchange Horror Stories. These 3 ETFs Get You $25K in Crypto, No Sketchy Apps",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-06-29T22:56:19Z",
+      "impact": "low",
+      "category": "產品優勢",
+      "reason": "強調透過受監管的 ETF 投資比特幣相較於直接使用加密貨幣交易所更為安全，有助於吸引保守型投資人。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bitcoin ETFs Face Record $4.1 Billion June Outflow",
+      "publisher": "GuruFocus.com",
+      "date": "2026-06-29T19:14:00Z",
+      "impact": "high",
+      "category": "資金流向",
+      "reason": "彙整了 Bloomberg 與 The Daily Upside 的報導，指出 6 月份比特幣 ETF 出現 41 億美元的創紀錄資金外流，反映出機構與散戶對加密貨幣市場的信心崩潰。"
+    },
+    {
+      "rank": 2,
+      "title": "BlackRock IBIT investors are now nursing a 40% loss",
+      "publisher": "TheStreet",
+      "date": "2026-06-28T09:33:25Z",
+      "impact": "high",
+      "category": "投資人情緒",
+      "reason": "報導指出 IBIT 投資人面臨 40% 的帳面虧損，此類負面績效新聞極易引發恐慌性拋售，進一步加劇資金外流。"
+    },
+    {
+      "rank": 3,
+      "title": "BlackRock Bitcoin News: IBIT Suffers $1.3Bn Outflow as Iran Shakes Safe Money",
+      "publisher": "99bitcoins",
+      "date": "2026-06-29T15:36:20Z",
+      "impact": "medium",
+      "category": "地緣政治",
+      "reason": "地緣政治風險（伊朗局勢）導致避險資金撤出，單日 13 億美元的流出顯示市場對風險資產的厭惡程度極高。"
+    },
+    {
+      "rank": 4,
+      "title": "Shares of crypto-linked stocks are trading lower amid a continued selloff as Bitcoin prices drop.",
+      "publisher": "Benzinga",
+      "date": "2026-06-24T13:09:00Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "比特幣價格下跌導致加密貨幣相關股票全面走弱，IBIT 作為追蹤比特幣的工具，其價格連動性直接受到比特幣現貨疲軟的負面衝擊。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Three Inflation Protection Strategies Better Than Gold",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-25T23:16:00Z",
+      "impact": "low",
+      "category": "資產配置",
+      "reason": "將 IBIT 列為抗通膨策略的選項之一，雖然提及比特幣的避險潛力，但同時也指出其風險，屬於中性的資產配置分析。"
+    },
+    {
+      "rank": 2,
+      "title": "The Bitcoin Mining ETF That Returned 52% in One Week",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-06-26T16:47:40Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導聚焦於比特幣礦業 ETF 的短期績效，與 IBIT 本身無直接關聯，僅作為加密貨幣生態系中的另一種投資選擇。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "BE",
+  "company": "Bloom Energy Corporation",
+  "analysis_date": "2026-07-01",
+  "source_file": "cache/2026-07-01/holdings/news/BE.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 4,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "受惠於 AI 資料中心電力需求激增，Bloom Energy 獲得 250 億美元的重大資金挹注，且財報表現強勁，基本面展望極佳。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy (BE) Lands $25 Billion Brookfield Backing For AI Power Buildout",
+      "publisher": "Simply Wall St.",
+      "date": "2026-07-01 01:07",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "獲得 Brookfield 高達 250 億美元的資金支持，將大幅加速其在 AI 資料中心電力基礎設施的擴張，是公司發展史上的重大里程碑。"
+    },
+    {
+      "rank": 2,
+      "title": "Bloom Energy: The AI Power Play You Don't Want To Leave Early",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-28 22:25",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "強調 AI 資料中心電力需求帶動合約量激增，積壓訂單 (backlog) 成長 140 %，且公司已上調財務指引，顯示營運成長動能強勁。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Is BE Stock Surging Over 7% In Overnight Trading?",
+      "publisher": "Stocktwits",
+      "date": "2026-07-01 02:51",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "反映市場對公司近期利多消息的正面情緒，盤後交易股價大漲 7 %，顯示投資人對其 AI 能源解決方案的信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Bloom Energy: Why The 22% Plunge Was Mechanical, Not Fundamental",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-27 12:15",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "釐清先前的股價下跌主因是 Russell 指數調整的技術性賣壓，而非基本面惡化；同時重申 Q1 EPS 超出預期及上調 FY26 財測的利多。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

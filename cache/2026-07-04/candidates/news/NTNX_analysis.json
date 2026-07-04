@@ -1,0 +1,48 @@
+{
+  "ticker": "NTNX",
+  "company": "Nutanix, Inc.",
+  "analysis_date": "2026-07-01",
+  "source_file": "cache/2026-07-01/candidates/news/NTNX.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "neutral",
+    "key_theme": "公司近期缺乏重大營運催化劑，股價主要受宏觀地緣政治情緒與財報後獲利回吐壓力影響。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Elastic, Toast, and Nutanix Stocks Trade Up, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 01:22",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受美伊地緣政治緊張局勢緩解的宏觀利多影響，帶動整體市場情緒回升，Nutanix 股價隨大盤反彈，屬於外部因素驅動。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Is Nutanix (NTNX) Down 3.8% Since Last Earnings Report?",
+      "publisher": "Yahoo",
+      "date": "2026-06-26 15:30",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "財報公布 30 天後股價下跌 3.8 %，顯示市場在財報利多出盡後出現獲利回吐壓力，投資人正重新評估後續成長動能。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Nutanix and the North Carolina School of Science and Mathematics Partner to Expand Computer Science Access",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 13:00",
+      "impact": "low",
+      "category": "企業社會責任",
+      "reason": "公司投入 25 萬美元設立教授職位與教育培訓，屬於企業社會責任範疇，對公司核心業務營收與獲利能力影響有限，不構成股價驅動因素。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
