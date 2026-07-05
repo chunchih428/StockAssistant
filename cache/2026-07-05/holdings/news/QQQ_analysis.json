@@ -1,0 +1,111 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-07-05",
+  "source_file": "cache/2026-07-05/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 1,
+    "bearish_count": 5,
+    "neutral_count": 4,
+    "overall_sentiment": "bearish",
+    "key_theme": "儘管 AI 題材支撐市場廣度，但 QQQ 面臨來自低成本科技 ETF 的競爭壓力，且技術面出現波動加劇與支撐測試的警訊。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "AI Rally Holds, Breadth Stays Positive",
+      "publisher": "ChartMill",
+      "date": "2026-07-01 13:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場廣度改善且 AI 相關類股表現穩健，為 QQQ 等主要指數 ETF 提供支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Vanguard’s $143 Billion Tech ETF Outpaced QQQ While Charging Half the Fee",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-07-04 13:07:07",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "該報導詳細比較了 VGT 與 QQQ 的費用率與績效，指出 QQQ 在成本競爭力上處於劣勢，可能導致長期資金流向更低成本的替代品。"
+    },
+    {
+      "rank": 2,
+      "title": "Nasdaq 100 Flashes Warning Signs After 5-Day Slide: Is The Tech Rally Running Out Of Steam?",
+      "publisher": "Benzinga",
+      "date": "2026-06-29 03:49",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "科技股波動率創下 23 年新高，且 QQQ 正在測試關鍵支撐位，顯示短期上漲動能減弱。"
+    },
+    {
+      "rank": 3,
+      "title": "5 Ways To Protect Capital When SPY/QQQ Tumble, Plus A Simple 2-ETF Mix",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-29 08:27",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "文章建議投資人針對 QQQ 可能的下跌風險進行避險，反映市場對科技股估值過高的擔憂。"
+    },
+    {
+      "rank": 4,
+      "title": "QQQE Vs. QQQ: After A 16% Move, Here Is The Smarter Way To Hold The NDX",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-28 09:06",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "分析指出 QQQE 因降低了超大型科技股的集中度，在近期表現優於 QQQ，引導投資人重新配置。"
+    },
+    {
+      "rank": 5,
+      "title": "Week’s Best: QQQ Has Competition Now",
+      "publisher": "Barrons.com",
+      "date": "2026-07-03 21:22:00",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "強調 QQQ 在 ETF 市場的主導地位正受到其他競爭對手的挑戰，削弱其作為唯一科技投資首選的地位。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "This Tech ETF Is Quietly Outperforming QQQ in 2026 -- Is There Still Time to Buy?",
+      "publisher": "Motley Fool",
+      "date": "2026-07-03 17:35:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅單純比較績效，提供投資人選擇參考，無明顯利多或利空導向。"
+    },
+    {
+      "rank": 2,
+      "title": "Look Closer At SPY, QQQ: Investors Are Rigging A Safety Net Under The Stock Market",
+      "publisher": "Benzinga",
+      "date": "2026-06-30 14:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討投資人如何利用 ETF 進行避險操作，屬於市場結構分析，對 QQQ 本身無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Why GPIQ Lags QQQ in Rallies, Yet Retirees Keep Buying the Monthly Dividend",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-07-04 18:26:37",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "解釋不同投資目標（成長 vs. 配息）導致的資金流向差異，對 QQQ 股價影響中性。"
+    },
+    {
+      "rank": 4,
+      "title": "QQQ vs. VOO: Should the Nasdaq-100 or the S&P 500 Be Your Core Holding?",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-07-04 14:12:54",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "針對資產配置的比較分析，屬於投資建議範疇，不影響 QQQ 的基本面。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

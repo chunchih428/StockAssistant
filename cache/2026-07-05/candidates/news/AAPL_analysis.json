@@ -1,0 +1,102 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-07-05",
+  "source_file": "cache/2026-07-05/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 1,
+    "neutral_count": 7,
+    "overall_sentiment": "bullish",
+    "key_theme": "Apple 積極布局 2027 年產品線，包括摺疊機與 AI iPhone 記憶體供應鏈優化，市場對其成長動能持樂觀態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple (AAPL) Plans 10 Million Foldables And An iPhone Ultra Push",
+      "publisher": "Yahoo",
+      "date": "2026-07-04 19:10",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Apple 規劃在 2026 下半年至 2027 上半年擴大產品陣容，包含摺疊機與高階 iPhone Ultra，顯示公司在硬體創新上的強勁企圖心。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple shares pop 5% as Wall Street weighs iPhone roadmap, China memory talks",
+      "publisher": "CNBC",
+      "date": "2026-07-02 15:47",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "市場投資人忽略短期產量削減消息，轉而聚焦 Apple 的長期產品藍圖與記憶體供應鏈多元化策略，推動股價上漲 5 %。"
+    },
+    {
+      "rank": 3,
+      "title": "Evercore ISI Maintains Outperform Rating on Apple (AAPL) Stock",
+      "publisher": "Yahoo",
+      "date": "2026-07-04 14:10",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Evercore ISI 維持對 Apple 的「優於大盤」評級，肯定其作為 AI 與科技領域核心標的的投資價值。"
+    },
+    {
+      "rank": 4,
+      "title": "Apple Is About 4% Away From Overtaking Nvidia as the World's Most Valuable Company",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 21:43",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Apple 市值逼近 Nvidia，市場預期透過財報表現有望重奪全球市值龍頭寶座，提振投資人信心。"
+    },
+    {
+      "rank": 5,
+      "title": "Dow Jones Futures: Techs' Rise Signal AI Trend Isn't Over; Apple, Robinhood Flash Buy Signals",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 18:34",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "技術面顯示 Apple 出現買進訊號，且科技股整體 AI 趨勢依然強勁，有利於 Apple 的股價表現。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Tennessee deputy spent seized drug money on Apple gear for his family — now he owes $339K in pension clawbacks",
+      "publisher": "Yahoo",
+      "date": "2026-07-04 14:30",
+      "impact": "low",
+      "category": "其他",
+      "reason": "此為單一公務員挪用公款購買 Apple 產品的負面新聞，對公司基本面無實質影響，僅屬負面輿論。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Tim Cook races to fix Apple’s memory problem before CEO handoff",
+      "publisher": "CNBC",
+      "date": "2026-07-03 01:05",
+      "impact": "medium",
+      "category": "公司治理",
+      "reason": "報導提及 Tim Cook 在交棒前的記憶體供應鏈挑戰，雖屬營運壓力，但同時也反映公司積極解決問題的態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Investors Heavily Search Apple Inc. (AAPL): Here is What You Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅反映投資人搜尋熱度增加，並未提供新的利多或利空資訊。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Nvidia Must Be More Like Apple to Remain World’s Most Valuable Company",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 12:25",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析兩家公司市值競爭，屬於產業觀察性質，對 Apple 本身股價無直接驅動效果。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

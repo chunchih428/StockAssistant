@@ -1,0 +1,102 @@
+{
+  "ticker": "MU",
+  "company": "Micron Technology",
+  "analysis_date": "2026-07-05",
+  "source_file": "cache/2026-07-05/holdings/news/MU.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 13,
+    "bearish_count": 3,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "AI 記憶體需求強勁與長期合約驅動成長，儘管面臨訴訟風險與空頭質疑，市場對其轉型為結構性成長股持樂觀態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Prediction: Micron Technology Stock Will Hit at Least $2,000 in 1 Year",
+      "publisher": "Yahoo",
+      "date": "2026-07-04 19:01",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "Micron 進入兆美元市值俱樂部，分析師看好其在 AI 記憶體領域的領導地位，預期未來一年股價具備顯著上漲空間。"
+    },
+    {
+      "rank": 2,
+      "title": "General Motors (GM) Secures Micron Deal For Future Software Defined Vehicles",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 08:13",
+      "impact": "high",
+      "category": "商業合作",
+      "reason": "與通用汽車 (GM) 簽署長期供應協議，證明 Micron 在車用記憶體與儲存解決方案的市場競爭力，有助於營收多元化。"
+    },
+    {
+      "rank": 3,
+      "title": "Jim Cramer Believes “Micron’s Become a Secular Growth Story, Not a Cyclical Story”",
+      "publisher": "Yahoo",
+      "date": "2026-07-04 14:24",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "知名評論員 Jim Cramer 指出 Micron 已擺脫傳統循環股特性，轉型為結構性成長股，大幅提升市場對其長期估值的信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Micron (MU) Stock Gets Fair Value Boost On AI Contract And Margin Optimism",
+      "publisher": "Yahoo",
+      "date": "2026-07-02 20:11",
+      "impact": "medium",
+      "category": "財報預測",
+      "reason": "分析師將合理價值預估從 866.60 美元大幅上調至 1,457.68 美元，反映 AI 合約帶來的利潤率擴張預期。"
+    },
+    {
+      "rank": 5,
+      "title": "Micron Trades at a Discount Despite 243% YTD Rally: Buy More MU Shares?",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 12:58",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "儘管年初至今漲幅驚人，但相較於產業平均，該股仍處於折價狀態，AI 記憶體與 HBM 需求持續支撐買入評級。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Micron (MU) Stock Is Falling Today",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 00:36",
+      "impact": "high",
+      "category": "法律訴訟",
+      "reason": "因面臨集體訴訟導致股價單日下跌 6.9%，法律風險可能對短期股價造成波動。"
+    },
+    {
+      "rank": 2,
+      "title": "Michael Burry Is Shorting Micron as a 'Destroyer Of Capital'",
+      "publisher": "Benzinga",
+      "date": "2026-07-03 06:28",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "知名投資人 Michael Burry 將 Micron 稱為「資本破壞者」並進行放空，對市場情緒構成負面影響。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "The Toughest Questions MU Faced On Its Latest Call",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 12:08",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "分析師針對新商業模式提出質疑，雖然公司試圖終結循環週期，但市場仍需觀察後續執行成效。"
+    },
+    {
+      "rank": 2,
+      "title": "NVIDIA vs Micron: One Controls the AI Platform, Other Controls the Bottleneck",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 18:00",
+      "impact": "low",
+      "category": "產業比較",
+      "reason": "將 Micron 與 NVIDIA 進行比較，強調兩者在 AI 供應鏈中的不同角色，屬於中性的產業地位分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

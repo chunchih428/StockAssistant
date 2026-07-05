@@ -1,0 +1,65 @@
+{
+  "ticker": "BE",
+  "company": "Bloom Energy Corporation",
+  "analysis_date": "2026-07-05",
+  "source_file": "cache/2026-07-05/holdings/news/BE.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 0,
+    "overall_sentiment": "mixed",
+    "key_theme": "Bloom Energy 受惠於 AI 資料中心電力需求激增，簽署重大基礎設施合約並大幅提升積壓訂單，但股價短期波動劇烈。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy Just Entered a $25 Billion Pact for AI Infrastructure. What This Means for BE Stock.",
+      "publisher": "Barchart",
+      "date": "2026-07-03",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "簽署高達 250 億美元的 AI 基礎設施合約，顯示公司在資料中心能源供應領域的市場地位顯著提升，為長期營收提供強大支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Bloom Energy: The AI Power Play You Don't Want To Leave Early",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-28",
+      "impact": "high",
+      "category": "財報與展望",
+      "reason": "積壓訂單成長 140 % 且上調財測，明確的成長路徑使分析師給予強烈買進評級，反映 AI 能源需求帶來的實質獲利動能。"
+    },
+    {
+      "rank": 3,
+      "title": "Bull of the Day: Bloom Energy (BE)",
+      "publisher": "Zacks",
+      "date": "2026-07-03",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "獲選為每日看多標的，顯示市場情緒轉向正面，認可其在能源轉型與 AI 基礎設施中的關鍵角色。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy (BE) Stock Moves -6.43%: What You Should Know",
+      "publisher": "Zacks",
+      "date": "2026-07-02",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日下跌 6.43 %，反映出市場在經歷近期漲勢後出現獲利了結賣壓，以及投資人對高估值修正的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Market-Moving News for July 1st — BE: 12% | Bloom Energy shares are trading higher",
+      "publisher": "Benzinga",
+      "date": "2026-07-01",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "雖然標題提及股價上漲，但該報導同時涵蓋其他市場波動，且隨後出現的獲利回吐顯示該漲幅未能持續，短期波動性風險增加。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}
