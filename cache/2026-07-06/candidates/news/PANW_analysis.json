@@ -1,0 +1,102 @@
+{
+  "ticker": "PANW",
+  "company": "Palo Alto Networks",
+  "analysis_date": "2026-07-05",
+  "source_file": "cache/2026-07-05/candidates/news/PANW.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 16,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "受惠於 AI 驅動的資安需求強勁，公司獲多家券商上調目標價，且與 IBM 等大廠合作進一步鞏固市場領導地位。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Wells Fargo Maintains Overweight on Palo Alto Networks, Raises Price Target to $420",
+      "publisher": "Benzinga",
+      "date": "2026-07-01 06:58",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "知名券商 Wells Fargo 將目標價大幅上調至 $420，顯示市場對其 AI 資安產品的獲利能力與成長前景高度看好。"
+    },
+    {
+      "rank": 2,
+      "title": "BTIG Maintains Buy on Palo Alto Networks, Raises Price Target to $380",
+      "publisher": "Benzinga",
+      "date": "2026-07-01 11:53",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "BTIG 同步上調目標價至 $380，強化了市場對於該公司在 AI 網路安全領域的領先地位與強勁現金流的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Palo Alto Networks (PANW) Teams With IBM And Red Hat On AI Cyber Threats",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 15:09",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "與 IBM 及 Red Hat 建立策略合作，共同應對 AI 驅動的網路威脅，顯著提升了公司在企業級資安市場的競爭護城河。"
+    },
+    {
+      "rank": 4,
+      "title": "Palo Alto Networks (PANW) Joins Israel’s TA 35 And TA 125 Indices",
+      "publisher": "Yahoo",
+      "date": "2026-07-04 19:09",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "納入以色列 TA 35 與 TA 125 指數，將增加機構投資人的被動資金配置，對股價具備支撐作用。"
+    },
+    {
+      "rank": 5,
+      "title": "Dear Palo Alto Networks Shareholders - Next Stop $400 Per Share",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 13:00",
+      "impact": "medium",
+      "category": "市場觀點",
+      "reason": "基於強勁的自由現金流（FCF）與利潤率表現，市場分析師普遍看好股價挑戰 $400 大關。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Palo Alto Networks Continues Perfect Execution Amid AI Risks. Here’s What to Know Before Buying PANW Stock at a Questionable Valuation.",
+      "publisher": "Yahoo",
+      "date": "2026-06-29 17:57",
+      "impact": "low",
+      "category": "估值風險",
+      "reason": "儘管公司執行力完美，但文章提醒投資人需注意目前的高估值與潛在的 AI 整合成本風險，屬於對過熱行情的謹慎提醒。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Palo Alto Networks (PANW) Is a Trending Stock: Facts to Know Before Betting on It",
+      "publisher": "Yahoo",
+      "date": "2026-07-02 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為針對熱門股的基礎事實整理，未提供明確的買賣建議或新的基本面催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Here’s How Much You Would Have Made Owning Palo Alto Networks Stock In The Last 10 Years",
+      "publisher": "Benzinga",
+      "date": "2026-07-03 10:15",
+      "impact": "low",
+      "category": "歷史回顧",
+      "reason": "回顧過去 10 年的績效表現，屬於歷史數據分析，對未來股價走勢無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Palo Alto Networks CEO Nikesh Aurora Discusses the Promise of AI at All-In",
+      "publisher": "Yahoo",
+      "date": "2026-07-01 16:04",
+      "impact": "low",
+      "category": "公司活動",
+      "reason": "CEO 參與會議討論 AI 願景，屬於例行性的產業觀點分享，未發布重大財務或業務變更消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

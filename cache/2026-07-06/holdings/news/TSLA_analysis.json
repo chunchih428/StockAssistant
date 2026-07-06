@@ -1,0 +1,111 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla",
+  "analysis_date": "2026-07-05",
+  "source_file": "cache/2026-07-05/holdings/news/TSLA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 8,
+    "bearish_count": 6,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管第 2 季交車量強勁且 Robotaxi 服務擴張，但市場對財報後的獲利能力與股價過度反應感到擔憂，導致股價出現顯著回調。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Tesla reports 480,126 vehicle deliveries for second quarter, topping expectation",
+      "publisher": "CNBC",
+      "date": "2026-07-02 09:16",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "第 2 季交車量達 480,126 輛，優於市場預期，顯示需求回溫，為公司基本面提供強大支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla (TSLA) Expands Robotaxi Service To Miami With Cybercabs On Public Roads",
+      "publisher": "Yahoo",
+      "date": "2026-07-04 08:09",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "Robotaxi 服務擴展至邁阿密，證明其自動駕駛技術商業化進程持續推進，有助於提升長期估值。"
+    },
+    {
+      "rank": 3,
+      "title": "Here’s Why Tesla Inc. (TSLA) is a Top Robotics Stock to Buy Amid Robotaxi and Optimus Developments",
+      "publisher": "Yahoo",
+      "date": "2026-07-04 13:47",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場持續看好 Tesla 在機器人與 AI 領域的長期潛力，特別是 Optimus 與 Robotaxi 的發展前景。"
+    },
+    {
+      "rank": 4,
+      "title": "Tesla sales soar 25% in sign its troubles may be easing",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 13:13",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "全球銷售成長 25 %，顯示公司已走出銷售低谷，營運轉折點已現。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Tesla stock sinks 7% despite strong deliveries report",
+      "publisher": "CNBC",
+      "date": "2026-07-02 09:07",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "儘管交車數據亮眼，股價卻重挫 7 %，反映市場對獲利能力與未來成長持續性的高度疑慮。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla Caps Staff AI Spending",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 16:21",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "限制 AI 支出可能暗示公司在成本控制上面臨壓力，或對 AI 投資回報率採取更謹慎的態度。"
+    },
+    {
+      "rank": 3,
+      "title": "Rivian Just Raised Its 2026 Outlook While Tesla Stock Stumbled",
+      "publisher": "Yahoo",
+      "date": "2026-07-04 23:10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "競爭對手 Rivian 上調財測與 Tesla 股價疲軟形成對比，可能導致部分資金轉向其他電動車標的。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Elon Musk Responds to 'Crash Is Coming' Narrative",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 15:31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Elon Musk 對宏觀經濟的正面表態，旨在安撫市場情緒，但未改變短期股價波動的現實。"
+    },
+    {
+      "rank": 2,
+      "title": "Bill Ackman Drives a Tesla: Here's Why He Won't Buy the Stock",
+      "publisher": "Yahoo",
+      "date": "2026-07-04 16:57",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "知名投資人 Bill Ackman 對產品與股票投資的區分，反映市場對 Tesla 估值與投資價值仍存在分歧。"
+    },
+    {
+      "rank": 3,
+      "title": "Tesla Takes a Page From Ford, GM and Toyota's Playbook With the Model Y L",
+      "publisher": "Benzinga",
+      "date": "2026-07-03 13:31",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "推出新車型策略調整，顯示公司正回歸傳統車廠的產品規劃模式，影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,66 @@
+{
+  "ticker": "CGNX",
+  "company": "Cognex",
+  "analysis_date": "2026-07-05",
+  "source_file": "cache/2026-07-05/candidates/news/CGNX.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 4,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 Cognex 在工業自動化與 AI 視覺技術領域的長期成長潛力持正面看法，儘管股價短期漲幅過大引發估值擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cognex, IBD Stock Of The Day, Called Play On Industrial Automation Trend",
+      "publisher": "Yahoo",
+      "date": "2026-07-02 16:38",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "被 Investor's Business Daily 選為「今日焦點股」，強調其在工業自動化與機器視覺領域的領導地位，市場對其 AI 轉型敘事給予高度認可。"
+    },
+    {
+      "rank": 2,
+      "title": "Robinhood, Dell Lead 5 Stocks Near Buy Points With AI Tailwinds",
+      "publisher": "Yahoo",
+      "date": "2026-07-04 12:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "將 Cognex 列為具備 AI 順風的潛力買入標的，顯示技術面與基本面均受到市場關注，有利於吸引資金流入。"
+    },
+    {
+      "rank": 3,
+      "title": "What Makes Cognex Corp. (CGNX) a Standout Robotics and Automation Stock",
+      "publisher": "Insider Monkey",
+      "date": "2026-06-25 06:02",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "深入探討公司在機器人與自動化領域的競爭優勢，強化了投資人對其長期基本面的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cognex (CGNX) Stock May Be Richly Priced As It Rallies 110%",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 09:13",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "指出股價在一年內飆升 110 % 後，目前 US$ 67.80 的價格已處於溢價狀態，提醒投資人需注意短期回調風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Truist Securities Maintains Hold on Cognex, Raises Price Target to $71",
+      "publisher": "Benzinga",
+      "date": "2026-07-02 07:44",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "分析師 Jamie Cook 將目標價從 US$ 61 上調至 US$ 71，但維持「持有」評級，顯示對目前股價與未來成長空間持平衡看法。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

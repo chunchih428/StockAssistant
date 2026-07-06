@@ -1,0 +1,102 @@
+{
+  "ticker": "IBM",
+  "company": "International Business Machines Corporation",
+  "analysis_date": "2026-07-05",
+  "source_file": "cache/2026-07-05/candidates/news/IBM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "IBM 憑藉 0.7 nm 晶片技術突破與 AI 網路安全合作，強化了其在企業級 AI 領域的市場地位與成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "International Business Machines (IBM) Is Up 10.2% After Unveiling 0.7 nm Nanostack Chip Breakthrough",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 15:09",
+      "impact": "high",
+      "category": "技術創新",
+      "reason": "IBM 發表全球首款 0.7 nm 「奈米堆疊」晶片技術，具備 1,000 億個電晶體，效能提升 50%，為半導體領域重大突破，直接帶動股價上漲。"
+    },
+    {
+      "rank": 2,
+      "title": "Palo Alto Networks (PANW) Teams With IBM And Red Hat On AI Cyber Threats",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 15:09",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "IBM 與 Palo Alto Networks 及 Red Hat 建立 AI 網路安全合作，擴大其在企業安全市場的影響力，並獲得市場正面回饋。"
+    },
+    {
+      "rank": 3,
+      "title": "Ignore the Big Tech Valuation Premium—This Under-the-Radar AI Leader Is a Cash-Rich Sanctuary for Retirees",
+      "publisher": "Yahoo",
+      "date": "2026-06-29 14:13",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析師指出 IBM 作為企業 AI 編排的現金流強勁企業，具備防禦性價值，適合長期投資，提升市場信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Will IBM (IBM) Beat Estimates Again in Its Next Earnings Report?",
+      "publisher": "Yahoo",
+      "date": "2026-07-01 16:10",
+      "impact": "low",
+      "category": "財報預測",
+      "reason": "基於 IBM 過往優異的財報表現紀錄，市場預期其在下一季財報中仍有機會超越分析師預期。"
+    },
+    {
+      "rank": 5,
+      "title": "IBM Picks Stagwell as Lead Creative Partner",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 16:05",
+      "impact": "low",
+      "category": "企業營運",
+      "reason": "IBM 選擇 Stagwell 作為全球創意合作夥伴，旨在重塑全球品牌形象，顯示公司積極投入市場行銷以支持業務成長。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Companies rehire workers laid off for AI as automation falls short",
+      "publisher": "Yahoo",
+      "date": "2026-07-01 15:55",
+      "impact": "medium",
+      "category": "產業動態",
+      "reason": "報導指出 IBM 等公司因 AI 自動化成效不如預期，被迫重新聘僱先前裁撤的員工，引發市場對 AI 投資回報率的質疑。"
+    },
+    {
+      "rank": 2,
+      "title": "IBM Stock Lags Industry in the Past 3 Months: An Opportunity to Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-07-02 14:41",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "提及 IBM 近三個月股價表現落後於產業，且面臨 Anthropic 在 COBOL 現代化領域的競爭威脅。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Final Trades: Vertex Pharma, Verizon, IBM and Corning",
+      "publisher": "CNBC",
+      "date": "2026-06-29 13:13",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "CNBC 節目討論 IBM 作為觀察標的，未給出明確買賣建議，僅為市場日常交易觀察。"
+    },
+    {
+      "rank": 2,
+      "title": "ServiceNow’s New IBM Partnership: A Real Catalyst, or Just Software-Selloff Noise?",
+      "publisher": "Yahoo",
+      "date": "2026-06-29 17:36",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "針對 ServiceNow 與 IBM 的合作進行多空辯證，分析其是否能成為實質催化劑，市場觀點分歧。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

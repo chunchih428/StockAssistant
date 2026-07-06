@@ -1,0 +1,93 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy",
+  "analysis_date": "2026-07-05",
+  "source_file": "cache/2026-07-05/holdings/news/CEG.json",
+  "summary": {
+    "total_articles": 16,
+    "bullish_count": 6,
+    "bearish_count": 5,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管與 Walmart 簽署長期核能合約展現強勁基本面，但近期因 Citi 下調目標價引發市場對擴張風險的擔憂，導致股價波動加劇。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Constellation Energy (CEG) and Walmart Announce Long-Term Nuclear Power Purchase Agreement",
+      "publisher": "Yahoo",
+      "date": "2026-06-28 16:46",
+      "impact": "high",
+      "category": "商業合約",
+      "reason": "與 Walmart 簽署長期核能購電協議 (PPA)，確保了長期穩定的現金流，並強化了公司在無碳能源供應市場的領導地位。"
+    },
+    {
+      "rank": 2,
+      "title": "Constellation Energy: Even The Short-Term Looks Fine Now",
+      "publisher": "SeekingAlpha",
+      "date": "2026-06-30 17:34",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析指出核能執照續期與 5 年期成長潛力，認為在經歷年初至今 25% 的回調後，該股估值已具備吸引力。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Constellation Energy Corporation (CEG) Among the Best AI Power Grid Stocks to Buy According to Analysts?",
+      "publisher": "Yahoo",
+      "date": "2026-07-02 08:49",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "被分析師列為 AI 電力基礎設施領域的頂尖標的，反映市場對其核能資產在 AI 數據中心電力需求增長下的長期價值認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Citigroup Maintains Neutral on Constellation Energy, Lowers Price Target to $297",
+      "publisher": "Benzinga",
+      "date": "2026-07-01 11:50",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "花旗分析師 Ryan Levine 將目標價從 $348 下調至 $297，引發市場對公司成長預期與估值的重新評估，導致股價承壓。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Did KR, CEG, SSTK Stocks Tumble To 52-Week Lows Today?",
+      "publisher": "Yahoo",
+      "date": "2026-07-02 03:20",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "投資人對公司激進的擴張策略感到擔憂，特別是潛在的監管與財務風險，導致股價一度跌至 52 週新低。"
+    },
+    {
+      "rank": 3,
+      "title": "CEG or DUK: Which Stock Deserves to Be in Your Portfolio Now?",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 14:55",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "比較報告指出 Duke Energy (DUK) 在盈餘預估、股息殖利率與資本計畫方面優於 CEG，對 CEG 的相對吸引力構成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Constellation Energy Corporation (CEG) Stock Moves 1.16%: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-07-02 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為單日股價波動的例行性報導，未包含新的基本面消息。"
+    },
+    {
+      "rank": 2,
+      "title": "Constellation Energy: The First Walmart Of Many, Or The Hyperscalers' Last",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-01 04:01",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "探討公司溢價估值與合約現金流的平衡，對未來成長空間持保留態度，屬於中性觀點分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
