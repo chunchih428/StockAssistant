@@ -1,0 +1,120 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-07-05",
+  "source_file": "cache/2026-07-05/candidates/news/NFLX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 6,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對於 Netflix 股價跌至低點後的價值投資機會存在高度共識，且廣告業務合作與強勁的現金流表現成為支撐股價反彈的核心動力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Netflix (NFLX) Is Up 9.5% After AI Ad Tie-Up With Omnicom Media Group",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 10:18",
+      "impact": "high",
+      "category": "市場合作",
+      "reason": "與 Omnicom Media Group 達成 AI 廣告合作，顯著提升市場對其廣告變現能力的信心，直接推動股價上漲。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix Stock Is Near 2021 Levels, and Bulls See 4 Reasons to Care",
+      "publisher": "Yahoo",
+      "date": "2026-07-02 12:45",
+      "impact": "medium",
+      "category": "投資分析",
+      "reason": "分析指出 Netflix 在營收創新高且擁有 250 億美元現金流背景下，當前 23 倍本益比具備長期投資吸引力。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix Vs. Walt Disney: Netflix Prints Cold Hard Cash While Disney Bleeds",
+      "publisher": "Yahoo",
+      "date": "2026-07-04 13:39",
+      "impact": "medium",
+      "category": "競爭分析",
+      "reason": "透過與 Disney 的商業模式對比，突顯 Netflix 在自由現金流創造能力上的優勢，強化其作為串流媒體龍頭的財務穩健性。"
+    },
+    {
+      "rank": 4,
+      "title": "Netflix gains over 3% as report refutes NBCUniversal acquisition speculation",
+      "publisher": "Yahoo",
+      "date": "2026-07-01 20:13",
+      "impact": "medium",
+      "category": "市場傳聞",
+      "reason": "澄清收購傳聞消除了市場對公司治理或併購溢價的疑慮，使股價回歸基本面表現。"
+    },
+    {
+      "rank": 5,
+      "title": "Jim Cramer Believes the Market Is Wrong About Netflix",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 08:18",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "知名評論員 Jim Cramer 公開看好 Netflix，認為市場對其定價過於悲觀，有助於提振散戶信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Hollywood director jailed for betting Netflix money on crypto",
+      "publisher": "Yahoo",
+      "date": "2026-07-01 19:34",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "雖然涉及金額 1,100 萬美元對 Netflix 財務影響有限，但暴露了製作成本控管與合約監督的潛在漏洞。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix Slides 17% as Valuation Worries Grow",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 21:21",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "反映市場對 Netflix 估值過高的擔憂，導致股價一度觸及 52 週低點，顯示賣壓沉重。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix (NFLX) Stock Slides as Market Rises: Facts to Know Before You Trade",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "在整體市場上漲時逆勢下跌，顯示短期內技術面走勢疲軟，投資人信心不足。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Netflix Gears Up to Report Q2 Earnings: Buy, Sell or Hold the Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 14:57",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "前瞻性分析，指出廣告成長與現金流改善被高昂的內容成本抵銷，市場處於觀望財報結果的階段。"
+    },
+    {
+      "rank": 2,
+      "title": "SIRI or NFLX: Which Is the Better Value Stock Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 15:40",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "單純的價值比較分析，未提供新的基本面催化劑，對股價影響中性。"
+    },
+    {
+      "rank": 3,
+      "title": "Final Trades: Alphabet, Netflix, Target and Nike",
+      "publisher": "CNBC",
+      "date": "2026-07-02 13:23",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "僅列入觀察清單，未給出具體買賣建議，屬於市場例行性盤點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

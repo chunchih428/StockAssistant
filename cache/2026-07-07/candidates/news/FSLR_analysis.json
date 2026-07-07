@@ -1,0 +1,75 @@
+{
+  "ticker": "FSLR",
+  "company": "First Solar",
+  "analysis_date": "2026-07-05",
+  "source_file": "cache/2026-07-05/candidates/news/FSLR.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司憑藉強勁的訂單積壓與技術優勢持續擴張，但近期股價受市場波動與地緣政治潛在影響而出現回調。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Can First Solar's Manufacturing Expansion Drive Long-Term Growth?",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 13:58",
+      "impact": "high",
+      "category": "產能擴張",
+      "reason": "公司擁有高達 47.9 GW 的訂單積壓至 2030 年，結合其獨特的 CdTe 薄膜技術，為長期成長奠定穩固基礎。"
+    },
+    {
+      "rank": 2,
+      "title": "How Is First Solar Strengthening Its Module Recycling Leadership?",
+      "publisher": "Yahoo",
+      "date": "2026-07-01 14:25",
+      "impact": "medium",
+      "category": "ESG 與永續發展",
+      "reason": "透過強化模組回收策略，First Solar 提升了產品生命週期管理能力，有助於鞏固其在太陽能產業的長期競爭優勢。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "First Solar (FSLR) Stock Moves -3.49%: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-07-02 21:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日下跌 3.49 %，反映出短期內市場賣壓與投資人對該股波動性的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "First Solar (FSLR) Dips More Than Broader Market: What You Should Know",
+      "publisher": "Zacks",
+      "date": "2026-06-26 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該股表現弱於大盤，顯示在市場情緒不佳時，First Solar 容易面臨較大的修正壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "First Solar Inc (FSLR) Stock Gets Added Attention on Potential China Ban",
+      "publisher": "Yahoo",
+      "date": "2026-07-04 13:45",
+      "impact": "medium",
+      "category": "地緣政治",
+      "reason": "雖然潛在的中國禁令可能對公司有利，但同時也伴隨著地緣政治不確定性，且 Peconic Partners 增持股份顯示機構投資人看法分歧。"
+    },
+    {
+      "rank": 2,
+      "title": "First Solar, Inc. (FSLR) Is a Trending Stock: Facts to Know Before Betting on It",
+      "publisher": "Yahoo",
+      "date": "2026-07-01 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅反映該股在 Zacks.com 上的搜尋熱度上升，屬於市場關注度指標，並未直接影響公司基本面。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

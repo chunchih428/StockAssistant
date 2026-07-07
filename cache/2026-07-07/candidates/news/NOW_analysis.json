@@ -1,0 +1,93 @@
+{
+  "ticker": "NOW",
+  "company": "ServiceNow",
+  "analysis_date": "2026-07-05",
+  "source_file": "cache/2026-07-05/candidates/news/NOW.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 6,
+    "neutral_count": 4,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對 ServiceNow 的 AI 轉型潛力與 Guggenheim 的升評持樂觀態度，但仍擔憂其高估值、利潤率壓力及大型合約延遲的風險。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "ServiceNow (NOW) Rating Upgraded by Guggenheim to Buy from Neutral",
+      "publisher": "Yahoo",
+      "date": "2026-07-02 17:07",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Guggenheim 分析師 John DiFucci 將評級從中性上調至買入，認為市場對 AI 顛覆風險的擔憂過度，並預期該公司具備 45% 以上的潛在上漲空間。"
+    },
+    {
+      "rank": 2,
+      "title": "NOW Benefits From Enterprise AI Adoption: Buy, Sell, or Hold the Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-07-01 16:34",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "強調 ServiceNow 透過 AI 安全服務與策略合作夥伴關係，成功捕捉企業端 AI 需求，展現長期成長動能。"
+    },
+    {
+      "rank": 3,
+      "title": "Will ServiceNow (NOW) Beat Estimates Again in Its Next Earnings Report?",
+      "publisher": "Yahoo",
+      "date": "2026-07-01 16:10",
+      "impact": "medium",
+      "category": "財報預期",
+      "reason": "基於該公司過去優異的財報驚喜紀錄，市場預期其在即將到來的財報中可能再次超越分析師預期。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "ServiceNow Stock Plunges 50% — Why NOW Stock Is a Buy Here",
+      "publisher": "Yahoo",
+      "date": "2026-07-02 17:22",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "報導指出公司面臨 AI 顛覆性擔憂、大型合約簽署延遲以及併購帶來的利潤率壓力，導致股價大幅波動。"
+    },
+    {
+      "rank": 2,
+      "title": "ServiceNow Trades at Premium Valuation: How to Play the Stock",
+      "publisher": "Yahoo",
+      "date": "2026-07-02 13:51",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "儘管 AI 控制塔需求強勁，但分析指出其目前估值過高，且整合併購成本持續壓抑獲利能力。"
+    },
+    {
+      "rank": 3,
+      "title": "Here’s Why Brown Advisory Large-Cap Growth Strategy Exited ServiceNow (NOW)",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 12:09",
+      "impact": "medium",
+      "category": "機構動向",
+      "reason": "大型投資管理公司 Brown Advisory 在第一季清倉 ServiceNow，顯示機構投資人對其成長前景或估值存有疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "ServiceNow to Announce Second Quarter 2026 Financial Results on July 22",
+      "publisher": "Yahoo",
+      "date": "2026-07-01 15:00",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "公司正式宣布財報發布日期，屬於例行性公告，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Fred Luddy, StarLifter CEO: A Fortt Knox Conversation",
+      "publisher": "CNBC",
+      "date": "2026-06-30 16:09",
+      "impact": "low",
+      "category": "高層動態",
+      "reason": "創辦人 Fred Luddy 談論其新創公司 StarLifter，與 ServiceNow 本身業務關聯性較低。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

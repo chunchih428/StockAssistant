@@ -1,0 +1,120 @@
+{
+  "ticker": "NVDA",
+  "company": "NVIDIA",
+  "analysis_date": "2026-07-05",
+  "source_file": "cache/2026-07-05/holdings/news/NVDA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 3,
+    "neutral_count": 8,
+    "overall_sentiment": "bullish",
+    "key_theme": "NVIDIA 透過持續的 AI 生態系擴張與合作維持市場領導地位，儘管面臨短期股價波動與競爭對手追趕的雜音，長期成長動能依然被市場看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Nvidia (NVDA) Backs Verkada And Brings In A Microsoft Veteran To Lead Sales",
+      "publisher": "Yahoo",
+      "date": "2026-07-04 21:09",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "透過與 Verkada 合作加速實體 AI 應用，並延攬微軟資深人才強化銷售團隊，顯示 NVIDIA 正積極擴大其在企業級 AI 解決方案的市佔率。"
+    },
+    {
+      "rank": 2,
+      "title": "Palantir doubles down on national security with Nvidia AI alliance",
+      "publisher": "Yahoo",
+      "date": "2026-07-04 15:07",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "與 Palantir 結盟深耕國家安全領域，鞏固了 NVIDIA 在高門檻、高黏著度政府專案中的核心供應商地位。"
+    },
+    {
+      "rank": 3,
+      "title": "Nvidia Is Making it Easier for AI Startups to Get Compute Power With a New Cloud and Revenue-Sharing Program",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 22:31",
+      "impact": "medium",
+      "category": "產品服務",
+      "reason": "推出針對 AI 新創的雲端與營收共享計畫，有助於建立開發者生態系，確保未來長期軟硬體需求。"
+    },
+    {
+      "rank": 4,
+      "title": "3 Stocks to Buy on the AI Infrastructure Sell-Off",
+      "publisher": "Yahoo",
+      "date": "2026-07-04 15:05",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師將近期股價回調視為買入機會，強調 AI 基礎設施需求依然強勁，有利於 NVIDIA 長期估值修復。"
+    },
+    {
+      "rank": 5,
+      "title": "Every Time This Stock Dips, I Buy More",
+      "publisher": "Yahoo",
+      "date": "2026-07-04 14:12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "反映投資人對 NVIDIA 基本面的堅定信心，即便股價短期回調仍持續加碼，有助於穩定市場情緒。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Apple Is About 4% Away From Overtaking Nvidia as the World's Most Valuable Company",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 21:43",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "市值龍頭地位面臨 Apple 挑戰，可能導致部分追求動能的資金在短期內進行資產配置調整。"
+    },
+    {
+      "rank": 2,
+      "title": "AI Can't Thrive Without This Stock (Hint: It's Not Nvidia)",
+      "publisher": "Yahoo",
+      "date": "2026-07-04 17:57",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "市場開始尋找 AI 供應鏈中的替代標的，削弱了 NVIDIA 作為唯一 AI 投資首選的敘事強度。"
+    },
+    {
+      "rank": 3,
+      "title": "Forget Nvidia: This Infrastructure Upstart Is The Real Backdoor AI Winner",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 18:38",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "市場資金分散至其他 AI 基礎設施相關公司，對 NVIDIA 的資金排擠效應雖小但值得關注。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Nvidia Stock Is Now Cheaper Than Coca-Cola. Here's the Math.",
+      "publisher": "Yahoo",
+      "date": "2026-07-05 01:40",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "透過本益比與可口可樂比較，僅為市場估值分析，不構成直接買賣建議，屬中性觀點。"
+    },
+    {
+      "rank": 2,
+      "title": "Nvidia CEO's iconic leather jacket heads to auction",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 12:33",
+      "impact": "low",
+      "category": "公司新聞",
+      "reason": "執行長個人物品拍賣，屬於公關性質新聞，對公司營運基本面無實質影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Nvidia vs. Strategy: Which Stock Has a Better Chance of Surging 10x by 2036?",
+      "publisher": "Yahoo",
+      "date": "2026-07-04 16:27",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "長期投資潛力比較，屬於觀點類文章，對短期股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,75 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-07-05",
+  "source_file": "cache/2026-07-05/candidates/news/OUST.json",
+  "summary": {
+    "total_articles": 16,
+    "bullish_count": 6,
+    "bearish_count": 7,
+    "neutral_count": 3,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司近期因 Rev8 產品發布與 BABA 合規性取得重大進展，股價一度創下新高，但隨後因宣布 2 億美元的股票增資計畫引發短期賣壓。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ouster (OUST) Wins BABA Clearance For Rev8 Lidar In U.S. Infrastructure Projects",
+      "publisher": "Simply Wall St.",
+      "date": "2026-07-01",
+      "impact": "high",
+      "category": "產品認證",
+      "reason": "獲得 BABA 合規認證對於進入美國聯邦基礎設施項目至關重要，顯著擴大了 Rev8 Lidar 的市場潛力與長期營收成長空間。"
+    },
+    {
+      "rank": 2,
+      "title": "Ouster: Funded For Physical AI Scaling",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-04",
+      "impact": "medium",
+      "category": "財務規劃",
+      "reason": "透過 2 億美元的增資，公司現金部位提升至約 3.75 億美元，為其 Physical AI 業務的規模化擴張提供了充足的資本支持。"
+    },
+    {
+      "rank": 3,
+      "title": "Ouster Stock Is Surging Monday: What's Driving The Action?",
+      "publisher": "Benzinga",
+      "date": "2026-06-29",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受惠於與 AIM Intel 擴大雷射雷達供應合約的利多消息，股價單日上漲超過 15 %，顯示市場對其業務拓展的高度認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ouster Prices ~$200M Offering Of 3,621,876 Shares At $55.22 Per Share",
+      "publisher": "Benzinga",
+      "date": "2026-07-02",
+      "impact": "high",
+      "category": "股權融資",
+      "reason": "公司以每股 55.22 美元價格進行 2 億美元的公開增資，導致現有股權稀釋，引發市場短期賣壓與股價下跌。"
+    },
+    {
+      "rank": 2,
+      "title": "Ouster, Inc. (OUST) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "publisher": "Zacks",
+      "date": "2026-07-01",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出 Ouster 股價跌幅大於大盤，反映出在經歷前期漲勢後，投資人對於高估值與增資消息的敏感度增加。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Which Robotics Supply Chain Stock Has Dominated in 2026: Ouster, Aeva, or Vishay Precision Group?",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-07-03",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "該文章僅對 2026 年機器人供應鏈股票進行績效比較，未對 Ouster 的基本面產生直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
