@@ -1,0 +1,102 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-07-05",
+  "source_file": "cache/2026-07-05/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司近期完成 4 拆 1 股票分割，並持續受惠於 AI 安全需求增長與強勁的市場技術動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike Begins Split-Adjusted Trading Following 4-for-1 Stock Split",
+      "publisher": "Benzinga",
+      "date": "2026-07-02 14:54",
+      "impact": "high",
+      "category": "公司治理",
+      "reason": "完成 4 拆 1 股票分割，降低了投資門檻，通常被市場視為對未來股價表現有信心的正面訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "Palo Alto, CrowdStrike both have best quarter ever as AI threats bolster cyber demand",
+      "publisher": "CNBC",
+      "date": "2026-06-30 16:11",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "AI 威脅增加推動了對身分安全與網路安全的需求，CrowdStrike 業績表現處於歷史高點。"
+    },
+    {
+      "rank": 3,
+      "title": "CrowdStrike (CRWD) Launches Unified AI Security Platform And Expands AWS Coalition",
+      "publisher": "Yahoo",
+      "date": "2026-06-29 17:14",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出統一的 AI 安全控制平面並擴大與 AWS 的合作，強化了其在雲端安全領域的競爭護城河。"
+    },
+    {
+      "rank": 4,
+      "title": "CrowdStrike Named Frost & Sullivan’s 2026 Global Enabling Technology Leader in Zero Trust Browser Security",
+      "publisher": "Yahoo",
+      "date": "2026-07-01 16:29",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "獲得 Frost & Sullivan 認證為零信任瀏覽器安全領域的全球技術領導者，提升了品牌市場影響力。"
+    },
+    {
+      "rank": 5,
+      "title": "Chinese AI Is Closing in on U.S. Rivals. That’s Good News for CrowdStrike and These 3 Stocks.",
+      "publisher": "Yahoo",
+      "date": "2026-06-30 16:16",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析指出中國 AI 的發展反而會增加企業對 CrowdStrike 等網路安全防禦工具的需求。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike (CRWD) Stock May Be Fully Priced After Its 439% Run",
+      "publisher": "Yahoo",
+      "date": "2026-07-02 22:11",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價在過去幾年已大幅上漲 439%，市場擔憂估值已過高，短期內可能面臨回調壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Arete Downgrades CrowdStrike Holdings (CRWD) Rating to Neutral From Buy",
+      "publisher": "Yahoo",
+      "date": "2026-07-02 17:08",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "Arete 將評級從買入下調至中性，反映出部分機構對其短期成長動能的保守看法。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike (CRWD) Is a Trending Stock: Facts to Know Before Betting on It",
+      "publisher": "Yahoo",
+      "date": "2026-07-01 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場熱門股的資訊彙整，未提供具體的買賣建議或重大基本面變動。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple, Rivian, Tesla, CrowdStrike And SanDisk: Why These 5 Stocks Are On Investors' Radars Today",
+      "publisher": "Benzinga",
+      "date": "2026-07-02 21:43",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅列出當日受投資人關注的熱門股票，屬於市場情緒觀察，無實質利多或利空影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

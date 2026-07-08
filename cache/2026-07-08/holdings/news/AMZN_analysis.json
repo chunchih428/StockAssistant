@@ -1,0 +1,120 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-07-05",
+  "source_file": "cache/2026-07-05/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 4,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "Amazon 憑藉強勁的 Prime Day 表現、AI 領域的持續投入以及衛星通訊業務的進展，維持了市場對其成長動能的正面預期。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bank of America doubles down on Amazon stock after Prime Day",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 02:03",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "美國銀行在 Prime Day 後重申對 Amazon 的看好，顯示機構投資人對其核心零售業務的獲利能力與成長性具備高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon's Starlink Rival Leo Surpasses 390 Satellites After Atlas V Launch, Eyes Initial Service This Year",
+      "publisher": "Benzinga",
+      "date": "2026-07-03 06:44",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Amazon 成功發射衛星並預計於今年啟動 Leo 服務，標誌著其在衛星寬頻市場正式挑戰 SpaceX 的 Starlink，具備長期營收潛力。"
+    },
+    {
+      "rank": 3,
+      "title": "If I Could Only Buy 1 Growth Stock in July, It Would Be Amazon By a Mile",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 10:05",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場分析指出 Prime Day 數據強勁，證明 Amazon 在零售領域的統治地位依然穩固，是成長型投資組合的首選。"
+    },
+    {
+      "rank": 4,
+      "title": "Bill Ackman reveals why he still likes Alphabet, Amazon, and Meta stocks",
+      "publisher": "Yahoo",
+      "date": "2026-07-04 21:07",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名投資人 Bill Ackman 公開表示持續看好 Amazon，為該股提供了強大的市場信心背書。"
+    },
+    {
+      "rank": 5,
+      "title": "Anthropic just landed its biggest win of 2026 so far",
+      "publisher": "Yahoo",
+      "date": "2026-07-04 03:33",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "Amazon 投資的 AI 新創 Anthropic 取得重大進展，間接強化了 Amazon 在 AI 基礎設施與技術生態系中的戰略優勢。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Amazon, Walmart and Other Large Employers Could Face New Costs As New Jersey Targets Companies With Medicaid Workers",
+      "publisher": "Yahoo",
+      "date": "2026-07-04 10:46",
+      "impact": "medium",
+      "category": "法規與政策",
+      "reason": "新澤西州針對依賴 Medicaid 的員工企業徵收費用，若其他州跟進，將顯著增加 Amazon 的營運成本與人力支出壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Did Amazon’s FTC Identity-Theft Settlement Quietly Reframe Its Data Governance Risk in the AI Era (AMZN)?",
+      "publisher": "Yahoo",
+      "date": "2026-07-02 21:14",
+      "impact": "low",
+      "category": "法律訴訟",
+      "reason": "雖然 225 萬美元的罰款金額不大，但該事件凸顯了 Amazon 在 AI 時代面臨的數據治理與合規風險，可能引發後續監管審查。"
+    },
+    {
+      "rank": 3,
+      "title": "Jim Cramer on Amazon: “We Need to See a Bountiful Return, or the Declines Will Continue”",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 08:18",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Jim Cramer 對 Amazon 的獲利回報提出質疑，提醒投資人若公司無法展現更強勁的財務回報，股價可能面臨修正壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Investors Heavily Search Amazon.com, Inc. (AMZN): Here is What You Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場熱度與基本面資訊彙整，未提供明確的買賣建議或利多利空催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "The Tech Download: Amazon’s devices chief Panos Panay on tech giant's AI gadget push",
+      "publisher": "CNBC",
+      "date": "2026-07-03 07:00",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "關於 AI 裝置的訪談，屬於例行性產品願景說明，對股價短期影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "Walmart and Amazon remain at the top of US retail in 2026 rankings",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 07:49",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "確認了既有的市場地位，屬於產業現況描述，對股價無直接推升或打壓作用。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

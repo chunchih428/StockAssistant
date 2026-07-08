@@ -1,0 +1,57 @@
+{
+  "ticker": "NTAP",
+  "company": "NetApp",
+  "analysis_date": "2026-07-05",
+  "source_file": "cache/2026-07-05/holdings/news/NTAP.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場看好 NetApp 作為 AI 基礎設施的成長潛力，儘管短期股價隨大盤波動出現小幅回調。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "NetApp: Enterprise AI Demand Is Creating A Materially New Growth Trajectory",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-02 08:20",
+      "impact": "high",
+      "category": "市場趨勢",
+      "reason": "分析指出 NetApp 不僅僅是硬體供應商，其在 AI 基礎設施領域的布局正創造新的成長軌跡，被視為除晶片股外具吸引力的 AI 投資標的。"
+    },
+    {
+      "rank": 2,
+      "title": "NetApp: Share Gains Will Determine The Next Leg Higher",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-02 07:44",
+      "impact": "medium",
+      "category": "財務狀況",
+      "reason": "強調公司擁有約 36 億美元的現金與短期投資，強勁的資產負債表為未來市占率擴張與股價上漲提供了堅實基礎。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "NetApp (NTAP) Stock Moves -1.41%: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-07-02 22:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導當日股價下跌 1.41 %，屬於短期技術性回調，並未涉及公司基本面惡化。選用 Yahoo 作為代表，因其涵蓋了市場交易數據。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Western Digital vs. NetApp: Which Data Center Stock is the Smarter Bet?",
+      "publisher": "Zacks",
+      "date": "2026-06-25 13:30",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "此類文章為同業比較分析，旨在協助投資人評估兩家公司在資料中心領域的競爭優勢，並未對 NetApp 本身給出明確的買賣建議。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

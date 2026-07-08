@@ -1,0 +1,66 @@
+{
+  "ticker": "GTLB",
+  "company": "GitLab Inc.",
+  "analysis_date": "2026-07-05",
+  "source_file": "cache/2026-07-05/candidates/news/GTLB.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "GitLab 股價近期受惠於市場對軟體股的樂觀情緒與分析師評級調整，展現出穩健的成長動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Appian and GitLab Shares Skyrocket, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-07-02",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "報導指出 Guggenheim 分析師 John DiFucci 對 GitLab 進行評級升級，直接推動股價在下午盤中強勁上漲，為近期最顯著的利多催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Is Gitlab (GTLB) Up 1.9% Since Last Earnings Report?",
+      "publisher": "Zacks",
+      "date": "2026-07-02",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "分析顯示 GitLab 在財報發布後股價維持 1.9 % 的漲幅，反映出市場對其營運表現與獲利能力的認可，具備持續性的正面影響。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "GitLab (GTLB) Released An AI Accountability Report As Governance Gaps Widen",
+      "publisher": "Simply Wall St.",
+      "date": "2026-06-25",
+      "impact": "medium",
+      "category": "公司治理",
+      "reason": "儘管發布了 AI 問責報告，但市場關注點在於公司治理缺口擴大，可能引發投資人對長期風險控管能力的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "GitLab vs. MongoDB: Which Technology Stock Is a Better Buy in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-07-01",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "透過比較 GitLab 與 MongoDB 的營收成長與風險結構，提供投資人客觀的產業對比，未對股價產生直接買賣訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "GitLab vs. Snowflake: Which Technology Stock Is a Better Buy in 2026?",
+      "publisher": "Motley Fool",
+      "date": "2026-06-26",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "此類比較型文章旨在協助投資人進行資產配置，屬於中性的產業分析，對 GTLB 本身股價無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
