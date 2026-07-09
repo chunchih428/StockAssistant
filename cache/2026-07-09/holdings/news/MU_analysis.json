@@ -1,0 +1,102 @@
+{
+  "ticker": "MU",
+  "company": "Micron Technology",
+  "analysis_date": "2026-07-09",
+  "source_file": "cache/2026-07-09/holdings/news/MU.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 4,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管近期因市場獲利了結與地緣政治緊張導致股價波動，華爾街分析師與機構仍普遍看好 Micron 在 AI 記憶體領域的長期成長潛力，並將回調視為買入機會。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Micron, Broadcom Just Got 25% Cheaper — And Chip Stocks Are 'Far From Bubble Territory', UBS Says",
+      "publisher": "Benzinga",
+      "date": "2026-07-08 11:33",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "UBS 分析師指出近期股價回調屬於健康修正，並非泡沫，強調基本面強勁，是投資人進場的絕佳時機。"
+    },
+    {
+      "rank": 2,
+      "title": "$9.3B Japan Factory Expansion Assert Micron Technology Inc. (MU) as a Top AI Stock on Wall Street Radar",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 15:35",
+      "impact": "high",
+      "category": "資本支出",
+      "reason": "Micron 投入 93 億美元擴建日本工廠，顯示公司對 AI 記憶體需求的長期信心，強化其市場競爭地位。"
+    },
+    {
+      "rank": 3,
+      "title": "Veteran analyst drops massive Micron valuation prediction",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 17:33",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Melius 分析師對 Micron 的估值給予高度評價，顯示華爾街對該公司未來獲利成長的信心增強。"
+    },
+    {
+      "rank": 4,
+      "title": "Ross Gerber Calls Michael Burry's Micron Short 'A Joke,' Says AI Demand Has MU in 'Epic Position To Profit'",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 11:31",
+      "impact": "medium",
+      "category": "市場觀點",
+      "reason": "知名投資人 Ross Gerber 公開反駁 Michael Burry 的放空觀點，強調 AI 需求將為 Micron 帶來豐厚利潤。"
+    },
+    {
+      "rank": 5,
+      "title": "4 Semiconductor Stocks to Benefit as Cars Become AI-Powered",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 14:03",
+      "impact": "low",
+      "category": "產業趨勢",
+      "reason": "AI 驅動的汽車產業發展將帶動記憶體需求，Micron 被視為該趨勢的主要受惠者之一。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "MU, Memory Stocks Drop Premarket In Samsung-Triggered Selloff",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 10:02",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受三星相關消息影響，記憶體類股出現集體拋售，導致 Micron 盤前股價下跌，反映市場對供應鏈競爭的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Is Micron Technology Stock Falling Wednesday?",
+      "publisher": "Benzinga",
+      "date": "2026-07-08 06:22",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價下跌主要歸因於市場獲利了結，儘管長期 AI 趨勢未變，但短期賣壓對股價造成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Nasdaq, Dow Futures Crack After Trump Says Iran Ceasefire ‘Over’ – Why MU, SNDK, DJT, USO Are In Focus",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 10:04",
+      "impact": "medium",
+      "category": "總體經濟",
+      "reason": "地緣政治緊張局勢升溫導致大盤波動，Micron 作為科技權值股受到整體市場情緒影響，而非公司基本面因素。"
+    },
+    {
+      "rank": 2,
+      "title": "Micron Stock: A Different Cycle, For Better Or For Worse",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 11:44",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "文章探討 Micron 過去一年股價飆升後的週期性風險，持中立觀點，提醒投資人注意估值過高的可能性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

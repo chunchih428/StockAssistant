@@ -1,0 +1,102 @@
+{
+  "ticker": "FSLR",
+  "company": "First Solar",
+  "analysis_date": "2026-07-09",
+  "source_file": "cache/2026-07-09/candidates/news/FSLR.json",
+  "summary": {
+    "total_articles": 18,
+    "bullish_count": 8,
+    "bearish_count": 3,
+    "neutral_count": 7,
+    "overall_sentiment": "bullish",
+    "key_theme": "華爾街分析師因關稅政策利多與估值折價而給予正面評級，儘管面臨訴訟與短期股價波動，市場對其長期成長潛力仍持樂觀態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Deutsche Bank Upgrades First Solar to Buy, Raises Price Target to $272",
+      "publisher": "Benzinga",
+      "date": "2026-07-07 05:20",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "德意志銀行分析師 Corinne Blanchard 將評級由「持有」上調至「買入」，並將目標價調升至 272 美元，認為該股目前處於顯著折價狀態，且受惠於 Section 232 關稅政策的正面預期。"
+    },
+    {
+      "rank": 2,
+      "title": "First Solar Climbs 5% on Bullish Wells Fargo Note",
+      "publisher": "Yahoo",
+      "date": "2026-07-06 17:42",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "富國銀行發布看多報告，強調 First Solar 作為美國本土最大太陽能製造商的優勢，直接推動股價單日上漲 5.6 %。"
+    },
+    {
+      "rank": 3,
+      "title": "How Dual Index Additions and Tariff Scrutiny At First Solar (FSLR) Has Changed Its Investment Story",
+      "publisher": "Yahoo",
+      "date": "2026-07-07 20:22",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "First Solar 被納入 Russell Midcap Growth 等多項指數，將吸引更多被動資金流入，提升長期流動性與機構持股信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "First Solar (FSLR) Faces New Securities Fraud Lawsuits As August Investor Deadlines Near",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 17:11",
+      "impact": "high",
+      "category": "法律訴訟",
+      "reason": "面臨多項證券詐欺集體訴訟，指控公司發布誤導性聲明，法律風險可能對股價造成短期壓制並影響投資人信心。"
+    },
+    {
+      "rank": 2,
+      "title": "First Solar's Quarterly Earnings Preview: What You Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 15:54",
+      "impact": "medium",
+      "category": "財報預測",
+      "reason": "市場預期第二季財報將出現雙位數的獲利下滑，投資人對即將公布的業績表現持謹慎態度。"
+    },
+    {
+      "rank": 3,
+      "title": "Here's Why First Solar (FSLR) Fell More Than Broader Market",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 21:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 1.5 %，反映出在財報公布前夕的獲利了結賣壓與市場情緒波動。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "What The Market Refuses To Pay For FSLR",
+      "publisher": "Trefis",
+      "date": "2026-07-08 21:05",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "探討公司成長性與市場估值之間的落差，認為市場對其成長潛力定價過於保守，屬於中性觀點的深度分析。"
+    },
+    {
+      "rank": 2,
+      "title": "FSLR or SHLS: Which Is the Better Value Stock Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-07-06 15:40",
+      "impact": "low",
+      "category": "投資比較",
+      "reason": "將 FSLR 與同業 SHLS 進行價值投資比較，未給出明確買賣建議，僅提供投資人參考指標。"
+    },
+    {
+      "rank": 3,
+      "title": "Here’s How Much You Would Have Made Owning First Solar Stock In The Last 10 Years",
+      "publisher": "Benzinga",
+      "date": "2026-07-08 11:02",
+      "impact": "low",
+      "category": "歷史回顧",
+      "reason": "回顧過去 10 年的績效表現，顯示其年化報酬率優於大盤，屬於歷史數據分析，對當前股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
