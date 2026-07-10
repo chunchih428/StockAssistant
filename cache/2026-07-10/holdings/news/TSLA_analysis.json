@@ -1,0 +1,165 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla",
+  "analysis_date": "2026-07-09",
+  "source_file": "cache/2026-07-09/holdings/news/TSLA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 4,
+    "bearish_count": 10,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管能源儲存業務表現強勁且交付量創新高，但面臨來自 Rivian 與 Waymo 的激烈競爭、自動駕駛安全性疑慮以及市場對 SpaceX 合併傳聞的質疑，導致股價承壓。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Tesla (TSLA) Lands $9 Billion In Megapack Orders And Expands Home Energy Push",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 10:11",
+      "impact": "high",
+      "category": "業務拓展",
+      "reason": "獲得 90 億美元的 Megapack 訂單，顯示能源儲存業務已成為公司重要的營收成長引擎，能有效抵銷汽車銷售波動。"
+    },
+    {
+      "rank": 2,
+      "title": "China EV Exports Surge 150% as Tesla Posts Best 2026 Monthly Deliveries",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 16:07",
+      "impact": "medium",
+      "category": "財報數據",
+      "reason": "上海工廠交付量表現優異，在中國整體車市疲軟的背景下，展現了 Tesla 的市場競爭力與品牌韌性。"
+    },
+    {
+      "rank": 3,
+      "title": "TSLA Stock Slips: Tesla's AI Chief Confirms Voice Commands For FSD Under Works",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 19:20",
+      "impact": "low",
+      "category": "產品研發",
+      "reason": "AI 部門主管確認開發 FSD 語音指令功能，顯示公司持續優化自動駕駛軟體體驗，有助於提升產品競爭力。"
+    },
+    {
+      "rank": 4,
+      "title": "Tesla—and Two More Stocks Wall Street Thinks Could Benefit From Their Links to Elon Musk’s SpaceX",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 15:29",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "華爾街分析師認為 Tesla 與 SpaceX 的潛在關聯性可能帶來長期綜效，為股價提供了一定的想像空間。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Waymo Widens Lead Over Tesla, Expands Robotaxis To Four New Cities",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 16:52",
+      "impact": "high",
+      "category": "市場競爭",
+      "reason": "Waymo 在自動駕駛計程車領域的擴張速度與技術領先優勢，直接威脅 Tesla 的 Robotaxi 願景與市場份額。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla’s Model Y just got a sharper Rivian threat",
+      "publisher": "Yahoo",
+      "date": "2026-07-09 01:17",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "Rivian 推出新款 SUV 直接對標 Model Y，這款車型作為 Tesla 的銷售支柱，面臨更嚴峻的市場份額流失風險。"
+    },
+    {
+      "rank": 3,
+      "title": "Elon Musk loses $50 billion in a single day; SpaceX moves bitcoin",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 17:40",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Elon Musk 個人資產大幅縮水及市場拋售情緒，導致 Tesla 股價單日下跌近 4%，反映出投資人對其個人風險的敏感度。"
+    },
+    {
+      "rank": 4,
+      "title": "'Big Short' Michael Burry Bets Against Nvidia and Tesla Again",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 18:33",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名投資人 Michael Burry 再次建立空頭部位，對市場情緒產生負面心理影響，引發投資人對估值的擔憂。"
+    },
+    {
+      "rank": 5,
+      "title": "Tesla driver faces manslaughter charge after fatal crash",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 15:39",
+      "impact": "medium",
+      "category": "法律訴訟",
+      "reason": "涉及自動駕駛系統的致命車禍導致駕駛面臨刑事指控，恐引發監管機構對 Tesla 自動駕駛技術的進一步審查。"
+    },
+    {
+      "rank": 6,
+      "title": "Elon Musk’s AI jobs prediction gets harsh reality check",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 21:47",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "市場對 Elon Musk 關於 AI 就業的激進預測提出質疑，削弱了投資人對其 AI 願景的信心。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Why a Tesla-SpaceX Merger Is No Sure Thing",
+      "publisher": "Barrons.com",
+      "date": "2026-07-08 20:26",
+      "impact": "low",
+      "category": "市場傳聞",
+      "reason": "分析師指出合併案短期內發生的機率極低，此報導釐清了市場對合併的過度投機，屬於中性資訊。"
+    },
+    {
+      "rank": 2,
+      "title": "Dow Ends Lower To Record Worst Day In Nearly A Month As US-Iran Jitters Push Oil Prices",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 22:00",
+      "impact": "low",
+      "category": "總體經濟",
+      "reason": "地緣政治緊張導致大盤下跌，Tesla 股價波動主要受整體市場情緒影響，而非公司基本面變化。"
+    },
+    {
+      "rank": 3,
+      "title": "Price Prediction: Tesla Will Trade at This Price in 3 Years",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 18:00",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "關於未來三年股價的預測屬於投機性觀點，對短期股價影響有限。"
+    },
+    {
+      "rank": 4,
+      "title": "Is Tesla Stock a Buy as Deliveries Come in Ahead of Expectations and Its Robotaxis Launch in Miami?",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 17:53",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "文章綜合了利多與利空因素，未給出明確的買賣建議，僅作為市場觀點的整理。"
+    },
+    {
+      "rank": 5,
+      "title": "Top Research Reports for Tesla, Bank of America & Merck",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 20:29",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "僅為研究報告的彙整，未提供具體的新資訊或市場催化劑。"
+    },
+    {
+      "rank": 6,
+      "title": "Final Trade: BAX, TSLA, DRAM, GDX",
+      "publisher": "CNBC",
+      "date": "2026-07-06 18:03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為節目中的交易討論，缺乏實質性的基本面分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

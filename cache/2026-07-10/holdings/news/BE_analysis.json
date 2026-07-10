@@ -1,0 +1,66 @@
+{
+  "ticker": "BE",
+  "company": "Bloom Energy Corporation",
+  "analysis_date": "2026-07-09",
+  "source_file": "cache/2026-07-09/holdings/news/BE.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 1,
+    "bearish_count": 3,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "Bloom Energy 面臨做空機構針對供應鏈風險的指控，加上獲利了結賣壓，導致股價近期顯著回調。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy (BE) Could Be 20% Undervalued As Brookfield Expands Its Financing Framework",
+      "publisher": "Simply Wall St.",
+      "date": "2026-07-07",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "Brookfield 擴大融資框架為 Bloom Energy 提供更穩健的資本支持，分析認為該股目前被低估約 20 %，具備長期投資價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "BE Stock Drops 6% After Short Seller Flags Supply Chain Snag On Chinese Overreliance; Bloom Energy Says “Will Correct Record”",
+      "publisher": "Stocktwits",
+      "date": "2026-07-08",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "做空機構指控公司過度依賴中國供應鏈，引發市場對地緣政治與供應穩定性的擔憂，儘管公司表示將澄清，但短期賣壓沉重。"
+    },
+    {
+      "rank": 2,
+      "title": "Bloom Energy (BE) Falls 8.6% on Profit-Taking",
+      "publisher": "Insider Monkey",
+      "date": "2026-07-08",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價在近期漲勢後出現顯著的獲利了結賣壓，反映投資人對短期高點的防禦性操作。"
+    },
+    {
+      "rank": 3,
+      "title": "Here's Why Bloom Energy (BE) Fell More Than Broader Market",
+      "publisher": "Zacks",
+      "date": "2026-07-08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導分析了 BE 表現弱於大盤的原因，主要歸因於特定個股的負面情緒與供應鏈疑慮，加劇了股價跌幅。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "What's Going on With Bloom Energy Stock Tuesday? — Bloom Energy (BE) slips 3% premarket, but long-term technicals stay bullish.",
+      "publisher": "Benzinga",
+      "date": "2026-07-07",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "雖然盤前出現 3 % 的小幅下跌，但技術面分析指出長期支撐位依然穩固，整體觀點中立，平衡了短期波動與長期趨勢。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

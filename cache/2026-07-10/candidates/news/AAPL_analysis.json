@@ -1,0 +1,111 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-07-09",
+  "source_file": "cache/2026-07-09/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "Apple 與 Broadcom 達成 300 億美元的長期晶片供應與製造協議，強化美國本土供應鏈並推動 AI 發展，成為近期股價的主要利多驅動因素。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple Commits Over $30 Billion to Broadcom Supply Deal as Colorado Plant Expands",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 10:58",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "Apple 與 Broadcom 簽署價值超過 300 億美元的長期晶片供應與共同開發協議，並擴大科羅拉多州製造設施，顯示公司在 AI 晶片與美國本土供應鏈布局的重大進展。"
+    },
+    {
+      "rank": 2,
+      "title": "Can AAPL Stock Return To Record High? JPMorgan Says Price Hikes Won’t Hurt Demand",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 05:31",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "摩根大通分析指出，Apple 產品銷售量對價格變動的敏感度有限，即便調漲價格也不會顯著影響需求，為股價重回歷史高點提供基本面支撐。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple scores record 89 Emmy Award nominations",
+      "publisher": "Yahoo",
+      "date": "2026-07-09 00:21",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "Apple TV+ 獲得創紀錄的 89 項艾美獎提名，顯示其內容製作實力，有助於提升 Apple 生態系統的用戶黏著度。"
+    },
+    {
+      "rank": 4,
+      "title": "Trump Announced His AI Action Plan... The Same Day He Bought Millions in Nvidia, Apple and Microsoft",
+      "publisher": "Yahoo",
+      "date": "2026-07-09 00:01",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "川普宣布 AI 行動計畫並買入 Apple 等科技股，市場解讀為對 AI 產業政策支持的正面訊號。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Apple Loses EU Appeal Over App Store and iOS Gatekeeper Status",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 10:40",
+      "impact": "medium",
+      "category": "法規監管",
+      "reason": "Apple 在歐盟關於 App Store 與 iOS 守門人地位的訴訟中敗訴，恐將面臨更嚴格的監管限制，影響其服務業務的獲利模式。"
+    },
+    {
+      "rank": 2,
+      "title": "Dow Ends Lower To Record Worst Day In Nearly A Month As US-Iran Jitters Push Oil Prices",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 22:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受美伊地緣政治緊張局勢影響，美股大盤走低，Apple 作為權值股難免受到整體市場情緒拖累。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple Supplier Luxshare Has Lackluster Start in Hong Kong’s Biggest Listing This Year",
+      "publisher": "Yahoo",
+      "date": "2026-07-09 03:56",
+      "impact": "low",
+      "category": "供應鏈",
+      "reason": "Apple 重要供應商立訊精密在港股上市表現平淡，反映市場對消費電子供應鏈成長動能的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Trade Tracker: Joe Terranova buys Nvidia and more Apple",
+      "publisher": "CNBC",
+      "date": "2026-07-08 12:48",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "投資人 Joe Terranova 的持倉調整屬於個人投資決策，對公司基本面無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "This former Apple executive is betting on Shenzhen, not Silicon Valley, to create the 'next Apple'",
+      "publisher": "CNBC",
+      "date": "2026-07-08 02:57",
+      "impact": "low",
+      "category": "產業趨勢",
+      "reason": "前高管對產業趨勢的觀點，對 Apple 現有業務營運無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Final Trades: Meta, Alphabet, Apollo Global and Apple",
+      "publisher": "CNBC",
+      "date": "2026-07-06 13:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析師對個股的觀察清單，屬於市場例行性評論。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

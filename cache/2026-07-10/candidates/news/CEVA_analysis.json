@@ -1,0 +1,56 @@
+{
+  "ticker": "CEVA",
+  "company": "CEVA",
+  "analysis_date": "2026-07-09",
+  "source_file": "cache/2026-07-09/candidates/news/CEVA.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "公司成功簽署一項針對 AI 客製化晶片計畫的重大授權協議，並獲得 Needham 給予買進評級，顯示其在 AI 領域的技術擴張能力獲得市場高度認可。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ceva Announces AI Licensing Deal With A U.S. Software And AI Platform Company For A Custom AI Silicon Program Focused On Computing Devices",
+      "publisher": "Benzinga",
+      "date": "2026-07-06 07:14",
+      "impact": "high",
+      "category": "業務拓展",
+      "reason": "此協議標誌著 CEVA 的客戶群從傳統半導體與設備製造商擴展至大型軟體與 AI 平台公司，對於其 AI 矽智財 (IP) 的市場滲透率具有重大戰略意義。"
+    },
+    {
+      "rank": 2,
+      "title": "Needham Initiates CEVA (CEVA) With A Buy Rating",
+      "publisher": "Insider Monkey",
+      "date": "2026-07-01",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Needham 給予買進評級，反映了華爾街對該公司在 AI 領域成長潛力的正面預期，有助於提升機構投資人的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Is CEVA Stock Gaining Monday? — CEVA stock jumps premarket after locking in an AI licensing deal with a major U.S. software and AI platform company.",
+      "publisher": "Benzinga",
+      "date": "2026-07-06 09:32",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導確認了市場對 AI 授權協議的正面反應，導致股價在盤前交易中顯著上漲，強化了投資人對該公司短期成長動能的預期。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Terawulf, Ceva, Western Digital And Other Big Stocks Moving Higher On Monday",
+      "publisher": "Benzinga",
+      "date": "2026-07-06 10:07",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此新聞為市場盤點類報導，僅將 CEVA 列為當日上漲個股之一，並未提供額外基本面分析，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
