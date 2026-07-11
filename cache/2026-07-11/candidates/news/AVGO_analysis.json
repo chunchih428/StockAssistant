@@ -1,0 +1,84 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-07-09",
+  "source_file": "cache/2026-07-09/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 1,
+    "neutral_count": 4,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Broadcom 與 Apple 簽署價值超過 300 億美元的長期 AI 晶片供應合約，成為推動股價強勁反彈的核心催化劑。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Broadcom (AVGO) Lands Apple Deal Worth Over $30 Billion Through 2031",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 16:15",
+      "impact": "high",
+      "category": "商業合作",
+      "reason": "Broadcom 與 Apple 簽署價值超過 300 億美元的長期晶片供應與共同開發協議，涵蓋至 2031 年，為公司帶來長期營收穩定性與成長動能。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple Shares New Details Of Chip Supply Deal With AVGO – iPhone Maker Commits $1.5B To Expand Broadcom’s Manufacturing",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 11:34",
+      "impact": "high",
+      "category": "資本支出",
+      "reason": "Apple 承諾投入 15 億美元擴建 Broadcom 的製造設施，專注於生產先進射頻元件與 FBAR 濾波器，強化雙方供應鏈深度綁定。"
+    },
+    {
+      "rank": 3,
+      "title": "Micron, Broadcom Just Got 25% Cheaper — And Chip Stocks Are 'Far From Bubble Territory', UBS Says",
+      "publisher": "Benzinga",
+      "date": "2026-07-08 11:33",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "瑞銀 (UBS) 指出半導體產業基本面強勁，認為近期股價回調提供了良好的買入機會，並非泡沫化跡象。"
+    },
+    {
+      "rank": 4,
+      "title": "3 Beaten Down AI Semiconductor Giants of 1H 2026 That Could Soar in 2H",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 12:42",
+      "impact": "medium",
+      "category": "市場展望",
+      "reason": "分析指出 Broadcom 等 AI 半導體巨頭在 2026 年上半年因市場焦點轉移而下跌，但憑藉強大的產品路線圖與多元化業務，下半年具備反彈潛力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Broadcom Stock Fell 15% in June",
+      "publisher": "Yahoo",
+      "date": "2026-07-09 00:50",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "回顧 6 月份股價下跌 15% 的原因，主要係因第二季財報表現未能滿足市場極高的預期，顯示估值壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Stocks making the biggest moves midday: Broadcom, Chevron, Alibaba, Carnival & more",
+      "publisher": "CNBC",
+      "date": "2026-07-08 13:19",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為盤中交易動態報導，列出 Broadcom 為當日波動較大的個股，未提供額外基本面分析。"
+    },
+    {
+      "rank": 2,
+      "title": "NVDA, AVGO, MU, INTC Stocks Gain: Top Wall Street Traders See No Signs Of Panic In Chips Or AI",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 18:46",
+      "impact": "low",
+      "category": "市場情緒",
+      "reason": "報導指出華爾街交易員對晶片股修正持冷靜態度，認為屬於有序回調，對股價影響中性偏正面。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

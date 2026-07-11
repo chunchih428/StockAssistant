@@ -1,0 +1,111 @@
+{
+  "ticker": "TER",
+  "company": "Teradyne, Inc.",
+  "analysis_date": "2026-07-09",
+  "source_file": "cache/2026-07-09/holdings/news/TER.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 13,
+    "bearish_count": 3,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 驅動的半導體測試需求與工業自動化成長，分析師普遍上調目標價，儘管高估值引發部分獲利了結的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Goldman Sachs Maintains Buy on Teradyne, Raises Price Target to $465",
+      "publisher": "Benzinga",
+      "date": "2026-07-06 11:02",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "高盛分析師 James Schneider 維持買入評級，並將目標價大幅上調至 465 美元，反映對公司在 AI 測試領域長期成長的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Teradyne (TER) is Poised to Beat Earnings Estimates Again",
+      "publisher": "Yahoo",
+      "date": "2026-07-06 16:10",
+      "impact": "medium",
+      "category": "財報預測",
+      "reason": "公司具備強勁的財報超預期歷史，且目前市場對其半導體測試業務的獲利成長預期持續攀升。"
+    },
+    {
+      "rank": 3,
+      "title": "BofA Boosts Teradyne (TER) Price Target on Industry Growth",
+      "publisher": "Yahoo",
+      "date": "2026-07-04 13:48",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "美銀分析師 Vivek Arya 基於機器人與自動化產業的強勁成長動能，上調了 Teradyne 的目標價。"
+    },
+    {
+      "rank": 4,
+      "title": "Teradyne (TER) Stock Sees Fair Value Lift As Analysts Raise AI Driven Forecasts",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 17:14",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師模型更新顯示公平價值提升至 416.65 美元，主要受惠於 AI 相關測試需求帶動的獲利預測上調。"
+    },
+    {
+      "rank": 5,
+      "title": "How Teradyne, Inc.’s (TER) Robotics Demos Keep Its Automation Story Grounded in Factory Use Cases",
+      "publisher": "Yahoo",
+      "date": "2026-07-06 02:03",
+      "impact": "low",
+      "category": "產品應用",
+      "reason": "透過展示工業自動化實際應用案例，強化了市場對其機器人業務長期獲利能力的認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Teradyne (TER) Stock Moves -13.63%: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-07-02 22:00",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價單日重挫 13.63%，顯示在短期漲幅過大後，市場出現顯著的獲利了結賣壓。"
+    },
+    {
+      "rank": 2,
+      "title": "Semiconductor Equipment Stocks Face a Pivotal Test as High Valuations Meet Unmatched Profitability",
+      "publisher": "ChartMill",
+      "date": "2026-07-08 12:35",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "指出半導體設備股（包含 TER）的本益比已超過 60 倍，高估值可能在未來財報季面臨修正風險。"
+    },
+    {
+      "rank": 3,
+      "title": "3 Reasons TER is Risky and 1 Stock to Buy Instead",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 18:10",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "針對過去六個月 70.4% 的漲幅提出風險警示，認為估值過高且市場過度樂觀。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Does Teradyne’s (TER) Shift Into Growth Indices Recast Its Core AI and Robotics Narrative?",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 21:16",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "公司被重新歸類至 Russell 指數的成長型類別，此為被動資金調整，對基本面影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Teradyne (TER) Gains As Market Dips: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 22:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "單日股價上漲 2.47%，主要隨大盤波動，無特定公司層面利多消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
