@@ -1,0 +1,120 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-07-09",
+  "source_file": "cache/2026-07-09/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 5,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司憑藉 AI 驅動的資安平台與強勁的客戶採用率持續獲得分析師看好，儘管近期股價因估值與拆股後的市場波動出現修正。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike (CRWD) Sees 5x AIDR Demand As Identity Push Broadens Its Platform",
+      "publisher": "Yahoo",
+      "date": "2026-07-07 16:15",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "AI 檢測與回應 (AIDR) 需求成長 5 倍，顯示公司在 AI 資安領域的技術變現能力強勁，是推動長期成長的核心動力。"
+    },
+    {
+      "rank": 2,
+      "title": "Grant Thornton Picks CrowdStrike (CRWD) to Power Its Global Cybersecurity Platform",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 14:47",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "獲得 Grant Thornton 等大型機構採用，驗證了其全球資安平台的競爭力，且預測 5 年 EPS 年複合成長率達 29.19 %。"
+    },
+    {
+      "rank": 3,
+      "title": "UBS Maintains Buy on CrowdStrike Holdings, Raises Price Target to $235",
+      "publisher": "Benzinga",
+      "date": "2026-07-07 09:39",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "瑞銀 (UBS) 維持買入評級並上調目標價至 235 美元，反映市場對其基本面與 AI 成長故事的信心。"
+    },
+    {
+      "rank": 4,
+      "title": "CrowdStrike Surges 5%, Palo Alto and Okta Gain 4% as Cybersecurity Stocks Rally on Analyst Upgrades",
+      "publisher": "Yahoo",
+      "date": "2026-07-06 15:08",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受分析師正面評級帶動，資安類股整體走強，顯示市場資金對該產業的配置意願提升。"
+    },
+    {
+      "rank": 5,
+      "title": "CrowdStrike (CRWD) Joins OpenID Foundation to Advance Risk-Aware Identity Security",
+      "publisher": "Yahoo",
+      "date": "2026-07-04 12:54",
+      "impact": "low",
+      "category": "技術合作",
+      "reason": "加入 OpenID 基金會強化身分安全領域的技術標準，有助於提升產品生態系的整合度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Morgan Stanley Maintains Overweight on CrowdStrike Holdings, Lowers Price Target to $172",
+      "publisher": "Benzinga",
+      "date": "2026-07-07 10:48",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "摩根士丹利雖維持增持評級，但下調目標價至 172 美元，反映對短期估值與成長放緩的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike Holdings (CRWD) Declines More Than Market: Some Information for Investors",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 1.74 %，表現弱於大盤，顯示拆股後市場情緒出現獲利了結或短期賣壓。"
+    },
+    {
+      "rank": 3,
+      "title": "CRWD Trades at Premium Valuation: Time to Hold or Fold the Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-07-06 14:48",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "指出公司雖有 Falcon Flex 帶動營收，但高估值與銷售成長放緩可能限制股價進一步上漲空間。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is CrowdStrike Holdings (CRWD) Expensive As Its Stock Split Puts Valuation Back In Focus?",
+      "publisher": "Yahoo",
+      "date": "2026-07-07 17:15",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "討論 4 比 1 拆股後的估值合理性，拆股本身不影響基本面，僅是市場對股價心理價位的重新評估。"
+    },
+    {
+      "rank": 2,
+      "title": "Benchmark Maintains Buy on CrowdStrike Holdings, Lowers Price Target to $230",
+      "publisher": "Benzinga",
+      "date": "2026-07-08 08:25",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "Benchmark 維持買入評級，下調目標價主要是為了反映拆股後的調整，而非基本面惡化。"
+    },
+    {
+      "rank": 3,
+      "title": "6 Names Just Started Moving Together, And Cybersecurity Is An Interesting Basket",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-08 11:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 CRWD 列入資安類股強勢籃子，屬於技術面觀察，未提供具體公司基本面變動資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

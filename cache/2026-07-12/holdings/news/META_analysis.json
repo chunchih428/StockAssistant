@@ -1,0 +1,84 @@
+{
+  "ticker": "META",
+  "company": "Meta",
+  "analysis_date": "2026-07-09",
+  "source_file": "cache/2026-07-09/holdings/news/META.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "Meta 宣布在加拿大投資 130 億加元建設首座大型 AI 資料中心，市場看好其雲端業務擴張潛力，儘管面臨青少年成癮訴訟與 AI 投資回報的質疑。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Meta to build C$13 billion Alberta data center, its first in Canada",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 19:31",
+      "impact": "high",
+      "category": "基礎建設投資",
+      "reason": "Meta 宣布投資 130 億加元建設首座加拿大資料中心，展現其在 AI 基礎設施上的強大資本支出能力與全球擴張決心。"
+    },
+    {
+      "rank": 2,
+      "title": "Mark Zuckerberg's Meta Stock Surged 9% on New Cloud Business Plan",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 14:30",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "市場對 Meta 進軍雲端業務的策略反應正面，股價單日上漲 9 %，顯示投資人對其多元化營收來源的期待。"
+    },
+    {
+      "rank": 3,
+      "title": "META's Muse Image to Boost User Engagement: Will it Boost Ad Sales?",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 16:30",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出 Muse Image AI 工具可望提升 Instagram 與 WhatsApp 的用戶參與度，進而優化廣告變現能力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Meta (META) Faces $1.4 Trillion Youth Addiction Lawsuit In August Trial",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 14:16",
+      "impact": "high",
+      "category": "法律訴訟",
+      "reason": "面臨 1.4 兆美元的青少年成癮訴訟，若敗訴將對公司財務與營運模式造成重大衝擊。"
+    },
+    {
+      "rank": 2,
+      "title": "Mark Zuckerberg Admitted AI Agents \"Hasn't Really Accelerated\" as Meta Stock Dropped 5%",
+      "publisher": "Yahoo",
+      "date": "2026-07-09 03:35",
+      "impact": "medium",
+      "category": "公司治理",
+      "reason": "執行長承認 AI 代理進展未如預期，引發市場對高額 AI 資本支出是否能轉化為實際營收的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Meta Platforms, Inc. (META) A Top AI Stock on Wall Street’s Radar?",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 15:38",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "僅為市場對 Meta 作為 AI 概念股的常規觀察，未提供具體新資訊。"
+    },
+    {
+      "rank": 2,
+      "title": "Can Meta Platforms Become a Neocloud? Don't Hold Your Breath.",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 16:21",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析師對於 Meta 轉型雲端服務持保留態度，認為仍需數年時間驗證。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

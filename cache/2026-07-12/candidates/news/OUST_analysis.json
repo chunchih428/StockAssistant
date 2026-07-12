@@ -1,0 +1,84 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-07-09",
+  "source_file": "cache/2026-07-09/candidates/news/OUST.json",
+  "summary": {
+    "total_articles": 14,
+    "bullish_count": 3,
+    "bearish_count": 8,
+    "neutral_count": 3,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司完成 2 億美元股權增資導致短期股權稀釋壓力，但市場同時看好其 Lidar 技術需求增長與合規性帶來的長期成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ouster Stock Hits New Highs as Lidar Demand Gains Momentum",
+      "publisher": "Barchart",
+      "date": "2026-07-08",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價創下新高，反映市場對 Lidar 技術需求強勁的信心，顯示增資後的市場情緒已轉向正面。"
+    },
+    {
+      "rank": 2,
+      "title": "Ouster: Funded For Physical AI Scaling",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-04",
+      "impact": "medium",
+      "category": "財務規劃",
+      "reason": "透過 2 億美元增資，公司現金部位提升至約 3.75 億美元，為 Physical AI 的大規模擴張提供了充足的資本支持。"
+    },
+    {
+      "rank": 3,
+      "title": "Ouster (OUST) Wins BABA Clearance For Rev8 Lidar In U.S. Infrastructure Projects",
+      "publisher": "Simply Wall St.",
+      "date": "2026-07-01",
+      "impact": "medium",
+      "category": "產品認證",
+      "reason": "獲得 BABA 合規認證，為其 Rev8 Lidar 進入美國基礎設施項目掃除障礙，提升長期競爭優勢。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ouster Completes Offering Of 3.62M Shares, Raises ~$191.9M In Net Proceeds",
+      "publisher": "Benzinga",
+      "date": "2026-07-06",
+      "impact": "high",
+      "category": "股權融資",
+      "reason": "代表性新聞，彙整了公司以 55.22 美元價格完成 362 萬股公開發行，導致投資人擔憂股權稀釋效應，造成股價短期回調。"
+    },
+    {
+      "rank": 2,
+      "title": "Ouster Files Prospectus To Sell Mixed Securities Shelf",
+      "publisher": "Benzinga",
+      "date": "2026-07-02",
+      "impact": "medium",
+      "category": "股權融資",
+      "reason": "混合證券發行申報通常會引發市場對未來潛在融資與稀釋的擔憂，對股價構成壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "Franklin Covey Cuts Revenue Forecast, Joins Ouster And Other Big Stocks Moving Lower",
+      "publisher": "Benzinga",
+      "date": "2026-07-02",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場情緒疲軟，Ouster 與其他個股同步在盤前走低，反映出市場對成長型股票的避險情緒。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Which Robotics Supply Chain Stock Has Dominated in 2026: Ouster, Aeva, or Vishay Precision Group?",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-07-03",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "僅為產業內的比較分析，未對 Ouster 本身提供具體的利多或利空催化劑。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

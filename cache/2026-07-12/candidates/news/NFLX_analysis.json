@@ -1,0 +1,111 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-07-09",
+  "source_file": "cache/2026-07-09/candidates/news/NFLX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 6,
+    "bearish_count": 8,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場高度關注 7 月 16 日即將公布的 Q2 財報，多空雙方圍繞在廣告業務成長潛力、世界盃轉播權競標與股價估值修正之間拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Netflix (NFLX) Stock May Be Below Fair Value Despite Raised Cash Flow Guidance",
+      "publisher": "Yahoo",
+      "date": "2026-07-07 19:20",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "根據現金流折現模型 (DCF) 顯示，Netflix 目前股價低於內在價值，且公司上調了現金流指引，顯示基本面仍具韌性。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix Signs Short-Form Video Deals With Vogue, Rolling Stone",
+      "publisher": "Benzinga",
+      "date": "2026-07-08 06:22",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "透過與 Vogue 和 Rolling Stone 等品牌簽署短影音授權協議，有助於豐富平台內容多樣性並提升用戶黏著度。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Netflix (NFLX) a Buy as Wall Street Analysts Look Optimistic?",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 13:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "華爾街券商平均建議評級 (ABR) 維持在「買入」，顯示機構投資人對其長期競爭力仍持正面看法。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Netflix Stock Slumps Ahead of Q2 Earnings. Staying on the Sidelines May Be the Smartest Move.",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 17:04",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "市場擔憂營收成長放緩與利潤率壓力，導致財報前夕賣壓沉重，分析師建議投資人保持觀望。"
+    },
+    {
+      "rank": 2,
+      "title": "Bernstein Maintains Outperform on Netflix, Lowers Price Target to $100",
+      "publisher": "Benzinga",
+      "date": "2026-07-08 10:06",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "儘管維持「優於大盤」評級，但 Bernstein 分析師 Laurent Yoon 下調目標價至 $100，反映對短期成長動能的保守預期。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix desperately needs M&A, but there's also a second 'emerging' threat to deal with",
+      "publisher": "Yahoo",
+      "date": "2026-07-07 16:10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Citi 分析師 Jason Bazinet 指出 Netflix 面臨併購壓力及新興競爭威脅，顯示公司在策略轉型上存在不確定性。"
+    },
+    {
+      "rank": 4,
+      "title": "Why Netflix Stock Lost 17% in June",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 04:20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場對於公司尋求併購的傳聞感到擔憂，導致 6 月份股價出現顯著回調。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Netflix, Disney and YouTube interested in FIFA World Cup U.S. rights; package could reach $2 billion",
+      "publisher": "CNBC",
+      "date": "2026-07-07 17:21",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "Netflix 與 Disney、YouTube 競逐 2030/2034 年世界盃轉播權，潛在金額高達 20 億美元，雖能擴大影響力但亦帶來龐大資本支出風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Why July 16 Could Be a Turning Point for the Netflix Stock Price",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 09:42",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "市場普遍預期 7 月 16 日的財報將成為股價走勢的關鍵轉折點，目前處於多空觀望階段。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix adding lifestyle content to win viewers' attention",
+      "publisher": "Yahoo",
+      "date": "2026-07-09 01:03",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "公司增加生活風格類內容以爭取用戶注意力，屬於常規的內容策略調整，對股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

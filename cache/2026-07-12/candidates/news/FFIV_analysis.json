@@ -1,0 +1,75 @@
+{
+  "ticker": "FFIV",
+  "company": "F5",
+  "analysis_date": "2026-07-09",
+  "source_file": "cache/2026-07-09/candidates/news/FFIV.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 4,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "F5 與 Equinix 的 AI 基礎設施合作案成為市場焦點，儘管即將公布的財報面臨 EPS 成長壓力，但市場對其長期 AI 轉型與現金流表現持樂觀態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "F5 (FFIV) Could Be 13% Below Fair Value As Equinix AI Tie Up Builds",
+      "publisher": "Yahoo",
+      "date": "2026-07-09 03:15",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "分析指出 F5 目前股價較公允價值折價約 13 %，且與 Equinix 的 AI Guardrails 合作案強化了其在分散式 AI 基礎設施的競爭力，具備長期成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Okta and F5 Shares Skyrocket, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-06-29 23:06",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "近期股價強勁表現反映了市場對公司在網路安全與應用交付領域的執行力給予高度肯定，顯示投資人信心回升。"
+    },
+    {
+      "rank": 3,
+      "title": "Content Delivery Stocks Q1 Earnings: F5 (NASDAQ:FFIV) Firing on All Cylinders",
+      "publisher": "StockStory",
+      "date": "2026-07-01 18:09",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "回顧第一季財報表現，公司展現了強勁的營運效率與市場競爭力，為後續季度表現奠定良好基礎。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Here's What to Expect From F5, Inc.'s Next Earnings Report",
+      "publisher": "Yahoo",
+      "date": "2026-07-03 13:27",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "市場預期 F5 即將公布的第三季財報中，每股盈餘 (EPS) 可能出現下滑，這對短期股價構成壓力，投資人需關注獲利能力是否受壓。"
+    },
+    {
+      "rank": 2,
+      "title": "F5 (FFIV) Stock Looks Cheap On Cash Flow But Pricey On Earnings",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 17:12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "雖然現金流表現強勁，但基於盈餘的估值指標顯示股價偏高，反映出市場對於獲利成長動能的擔憂，多空訊號並存。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "F5 to Report Third Quarter Fiscal Year 2026 Financial Results",
+      "publisher": "Yahoo",
+      "date": "2026-07-07 12:30",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "此為例行性的財報發布預告，市場已將此事件納入預期，本身不具備額外利多或利空影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

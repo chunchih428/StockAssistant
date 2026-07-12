@@ -1,0 +1,55 @@
+{
+  "ticker": "NET",
+  "company": "Cloudflare",
+  "analysis_date": "2026-07-09",
+  "source_file": "cache/2026-07-09/holdings/news/NET.json",
+  "summary": {
+    "total_articles": 13,
+    "bullish_count": 13,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Cloudflare 憑藉與 OpenAI 的策略合作以及分析師上調評級，推動股價強勢突破 52 週高點。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Scotiabank Upgrades Cloudflare to Sector Outperform, Raises Price Target to $300",
+      "publisher": "Benzinga",
+      "date": "2026-07-07 05:56",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Scotiabank 分析師 Patrick Colville 將 Cloudflare 評級由「中立」上調至「優於大盤」，並將目標價大幅調升至 300 美元，直接引發市場買盤並推動股價突破 52 週高點。"
+    },
+    {
+      "rank": 2,
+      "title": "Cloudflare Launches AI Search Research Pilot With OpenAI",
+      "publisher": "Benzinga",
+      "date": "2026-07-08 10:51",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Cloudflare 與 OpenAI 展開研究合作，利用其全球網路訊號優化 AI 搜尋與內容發現，此舉強化了公司在 AI 基礎設施領域的競爭優勢。"
+    },
+    {
+      "rank": 3,
+      "title": "Cloudflare (NET) Launches New Partner Program to Speed AI Security Adoption",
+      "publisher": "Insider Monkey",
+      "date": "2026-07-08 14:47",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "公司推出新的合作夥伴計畫，旨在加速 AI 安全解決方案的採用，顯示其在企業級 AI 安全市場的積極布局。"
+    },
+    {
+      "rank": 4,
+      "title": "Cloudflare Stock Tests 52-Week High Zone: What's Driving the Breakout?",
+      "publisher": "Benzinga",
+      "date": "2026-07-07 16:07",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出 Cloudflare 股價單日上漲超過 8%，主要受惠於分析師評級上調與強勁的市場動能，確認了投資人對其成長前景的信心。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}
