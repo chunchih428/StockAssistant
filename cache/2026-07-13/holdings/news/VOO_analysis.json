@@ -1,0 +1,120 @@
+{
+  "ticker": "VOO",
+  "company": "S&P 500",
+  "analysis_date": "2026-07-13",
+  "source_file": "cache/2026-07-13/holdings/news/VOO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 8,
+    "bearish_count": 6,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對 S&P 500 的長期成長潛力與 AI 驅動的獲利前景持樂觀態度，但地緣政治緊張局勢與高估值風險引發了短期波動擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "1 Vanguard Index Fund to Buy Before It Soars in 2026, According to a Wall Street Analyst",
+      "publisher": "Yahoo",
+      "date": "2026-07-12 09:08",
+      "impact": "high",
+      "category": "市場觀點",
+      "reason": "Evercore 分析師 Julian Emanuel 看好 S&P 500 指數今年有望達到 9,000 點，為追蹤該指數的 VOO 提供強勁的長期看漲背書。"
+    },
+    {
+      "rank": 2,
+      "title": "My Updated 2026 Market Outlook: Keeping The S&P 500 Target, But Changing Sector Leaders",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-11 08:30",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "強調 AI 驅動的企業支出持續強勁，且 2026 年獲利預測與利潤率表現穩健，支撐大盤走勢。"
+    },
+    {
+      "rank": 3,
+      "title": "8 Stocks' Earnings Will Grow Faster Than Everyone's Wildest Dreams",
+      "publisher": "Yahoo",
+      "date": "2026-07-06 11:40",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "指出 S&P 500 成分股中部分企業第二季獲利成長超乎預期，顯示基本面強勁。"
+    },
+    {
+      "rank": 4,
+      "title": "S&P 500 Snapshot: Inches Away From Record High",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-10 20:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "指數週漲幅達 1.3%，距離歷史新高僅一步之遙，顯示市場動能依然強勁。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Oil Stocks Rally, S&P 500 Plunges As Iran Ceasefire Sinks",
+      "publisher": "Benzinga",
+      "date": "2026-07-08 12:12",
+      "impact": "high",
+      "category": "地緣政治",
+      "reason": "川普宣布伊朗停火協議破裂，導致油價飆升並引發市場對聯準會升息的擔憂，造成大盤重挫。"
+    },
+    {
+      "rank": 2,
+      "title": "The 9,500 S&P 500 Dream Is Dead",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-08 20:09",
+      "impact": "medium",
+      "category": "市場觀點",
+      "reason": "因荷姆茲海峽地緣政治緊張導致油價上漲 6 美元/桶，分析師下調對大盤的樂觀預期。"
+    },
+    {
+      "rank": 3,
+      "title": "S&P 500's AI Run Has Momentum - But Not Much Margin For Error",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-10 13:35",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "指出目前市場估值過高，缺乏容錯空間，若 AI 成長動能減弱，市場將面臨修正風險。"
+    },
+    {
+      "rank": 4,
+      "title": "VOO Just Crossed $1 Trillion. Here’s the Hidden Risk Nobody’s Pricing In",
+      "publisher": "Yahoo",
+      "date": "2026-07-10 21:12",
+      "impact": "low",
+      "category": "市場風險",
+      "reason": "雖然 VOO 資產規模突破 1 兆美元，但文章提醒市場過度集中於單一 ETF 可能隱含流動性與市場結構風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "VOO vs. QQQ: Which Index Fund Is the Better Buy for Long-Term Investors?",
+      "publisher": "Yahoo",
+      "date": "2026-07-07 11:03",
+      "impact": "low",
+      "category": "投資比較",
+      "reason": "對比 VOO 與 QQQ 的風險報酬特性，屬於投資策略建議，對 VOO 本身股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Everyone Owns VOO. This Overlooked S&P 500 ETF Is Somehow Cheaper",
+      "publisher": "Yahoo",
+      "date": "2026-07-11 21:22",
+      "impact": "low",
+      "category": "市場比較",
+      "reason": "討論其他更便宜的替代 ETF，屬於市場競爭分析，對 VOO 的持有者情緒影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "Managing A $1 Million Portfolio: A Better Way To Equal Weight The S&P 500",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-08 08:10",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "探討等權重投資策略，提供投資人資產配置建議，不影響 VOO 指數本身表現。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
