@@ -1,0 +1,56 @@
+{
+  "ticker": "FFIV",
+  "company": "F5",
+  "analysis_date": "2026-07-13",
+  "source_file": "cache/2026-07-13/candidates/news/FFIV.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "F5 與 Equinix 的 AI 基礎設施合作案成為市場焦點，同時投資人正密切關注即將公布的 2026 財年第三季財報。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "F5 (FFIV) Could Be 13% Below Fair Value As Equinix AI Tie Up Builds",
+      "publisher": "Yahoo",
+      "date": "2026-07-09 03:15",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "該報導指出 F5 目前股價較公允價值折價約 13 %，並強調與 Equinix 的 AI Guardrails 合作將成為未來成長的關鍵催化劑，具備顯著的估值修復潛力。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "F5 (FFIV) Stock Looks Cheap On Cash Flow But Pricey On Earnings",
+      "publisher": "Yahoo",
+      "date": "2026-07-08 17:12",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "分析指出 F5 在現金流指標上顯示股價便宜，但在本益比（Earnings）評價上則顯得昂貴，多空訊號並陳，反映市場對其估值存在分歧。"
+    },
+    {
+      "rank": 2,
+      "title": "F5 to Report Third Quarter Fiscal Year 2026 Financial Results",
+      "publisher": "Yahoo",
+      "date": "2026-07-07 12:30",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "公司正式宣布財報日期，屬於例行性公告，市場正處於觀望狀態，等待實際獲利數據以驗證 AI 策略的執行成效。"
+    },
+    {
+      "rank": 3,
+      "title": "F5 (FFIV), Equinix (EQIX) Partner to Secure and Scale Distributed AI Infrastructure",
+      "publisher": "Yahoo",
+      "date": "2026-07-06 18:24",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "此為重複報導 F5 與 Equinix 的合作案，雖具正面意義，但因市場已消化此消息，故歸類為中性觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

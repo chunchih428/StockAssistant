@@ -1,0 +1,111 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-07-13",
+  "source_file": "cache/2026-07-13/candidates/news/NFLX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 5,
+    "bearish_count": 8,
+    "neutral_count": 7,
+    "overall_sentiment": "mixed",
+    "key_theme": "Netflix 正積極探索直播電視與捆綁銷售策略以挽救用戶參與度，市場對其 7 月 16 日財報表現持高度觀望態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Netflix’s $300 Billion Comeback Is Turning Skeptics Into Believers",
+      "publisher": "Yahoo",
+      "date": "2026-07-10 17:17",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "報導指出 Netflix 在經歷股價下跌後，近期營運數據強勁，成功扭轉華爾街分析師的悲觀預期，顯示公司具備強大的復甦潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Here Is the Main Reason to Buy Netflix Before July 16",
+      "publisher": "Yahoo",
+      "date": "2026-07-10 13:00",
+      "impact": "medium",
+      "category": "投資建議",
+      "reason": "分析認為 Netflix 在 7 月 16 日財報發布前具備市場中極佳的技術面與基本面配置，適合投資人提前佈局。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix's 111 Emmy Nominations: Is the Strong Slate Enough to Win Big?",
+      "publisher": "Yahoo",
+      "date": "2026-07-10 15:51",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "獲得 111 項艾美獎提名顯示 Netflix 在內容製作上的競爭力，有助於提升品牌形象與用戶黏著度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Netflix Weighs New Strategy as Report Highlights Subscriber Engagement Concerns",
+      "publisher": "Yahoo",
+      "date": "2026-07-10 14:12",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "此篇涵蓋了關於 Netflix 考慮引入直播電視與捆綁銷售的報導，反映出公司面臨用戶參與度下滑的結構性挑戰，市場對此轉型策略的風險感到擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Netflix’s Pivot to Live TV Is a Big Risk",
+      "publisher": "Yahoo",
+      "date": "2026-07-10 14:02",
+      "impact": "medium",
+      "category": "策略轉型",
+      "reason": "分析指出直播電視策略偏離 Netflix 核心業務，可能帶來執行風險，且無法保證能有效解決用戶流失問題。"
+    },
+    {
+      "rank": 3,
+      "title": "Paramount–Warner Bros. merger could make HBO Max a 'staple' — even rivaling Netflix",
+      "publisher": "Yahoo",
+      "date": "2026-07-11 18:00",
+      "impact": "medium",
+      "category": "競爭分析",
+      "reason": "Paramount 與 Warner Bros. 的潛在合併可能創造出更強大的競爭對手 HBO Max，對 Netflix 的市占率構成威脅。"
+    },
+    {
+      "rank": 4,
+      "title": "Netflix Is Losing Viewers To The World Cup. That May Be The Wrong Measure Of The Business.",
+      "publisher": "Yahoo",
+      "date": "2026-07-12 15:49",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "雖然指出世界盃導致用戶流失，但強調這僅是短期現象，不過仍反映出 Netflix 在大型賽事期間的內容吸引力不足。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "3 Reasons Why Netflix Has a Lot to Prove on July 16",
+      "publisher": "Yahoo",
+      "date": "2026-07-12 08:25",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "文章客觀分析了財報前夕的關鍵觀察點，未給出明確買賣建議，僅提醒投資人需關注公司能否在財報中證明其成長策略。"
+    },
+    {
+      "rank": 2,
+      "title": "Options Action: Netflix options signal choppy week ahead",
+      "publisher": "CNBC",
+      "date": "2026-07-10 17:57",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "選擇權市場數據顯示股價波動加劇，屬於技術面分析，對長期基本面影響中性。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix (NFLX) Shares Retraced Following Strong Gains",
+      "publisher": "Yahoo",
+      "date": "2026-07-10 13:17",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅描述股價在強勁上漲後的技術性回調，屬於正常的市場修正行為。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
