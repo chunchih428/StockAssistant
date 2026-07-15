@@ -1,0 +1,57 @@
+{
+  "ticker": "BE",
+  "company": "Bloom Energy Corporation",
+  "analysis_date": "2026-07-13",
+  "source_file": "cache/2026-07-13/holdings/news/BE.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司面臨做空機構針對鈧供應鏈的指控，雖有 AI 電力合約擴張的利多支撐，但股價仍因供應鏈爭議與市場疑慮出現顯著波動。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy (BE) Is Down 9.7% After Scandium Supply Dispute And $25B AI Power Deal Expansion",
+      "publisher": "Simply Wall St.",
+      "date": "2026-07-10T22:13:36Z",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "儘管股價下跌，但文中提及公司獲得 250 億美元的 AI 電力合約擴張，顯示其在數據中心能源需求領域的長期成長潛力依然強勁。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy (BE) Is Down 9.7% After Scandium Supply Dispute And $25B AI Power Deal Expansion",
+      "publisher": "Simply Wall St.",
+      "date": "2026-07-10T22:13:36Z",
+      "impact": "high",
+      "category": "供應鏈風險",
+      "reason": "市場對鈧供應鏈的爭議感到擔憂，導致股價單日重挫 9.7 %，顯示投資人對公司營運透明度與關鍵原料取得的信心受到衝擊。"
+    },
+    {
+      "rank": 2,
+      "title": "BE Stock Alert: Bloom Energy Stock Remains In Focus Following Short Report, Rebuttal",
+      "publisher": "Barchart",
+      "date": "2026-07-10T15:42:27Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Crossroads Capital 發布做空報告指控公司供應鏈問題，引發市場高度關注與賣壓，儘管公司已做出回應，但負面輿論仍持續壓抑股價表現。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "What's Going on With Bloom Energy Stock Tuesday? — Bloom Energy (BE) slips 3% premarket, but long-term technicals stay bullish.",
+      "publisher": "Benzinga",
+      "date": "2026-07-07 08:57",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "該報導主要分析盤前股價波動與技術面支撐位，認為長期技術指標仍偏多，屬於市場雜訊，未涉及公司基本面重大變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,84 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-07-13",
+  "source_file": "cache/2026-07-13/candidates/news/OUST.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 1,
+    "bearish_count": 4,
+    "neutral_count": 2,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司近期完成 1.92 億美元的現金增資，導致股權稀釋疑慮，引發股價短期回調壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ouster Stock Hits New Highs as Lidar Demand Gains Momentum",
+      "publisher": "Barchart",
+      "date": "2026-07-08",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管面臨增資壓力，但 LiDAR 市場需求強勁的長期基本面支撐了股價在近期創下新高，顯示市場對其技術競爭力仍具信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ouster Completes Offering Of 3.62M Shares, Raises ~$191.9M In Net Proceeds",
+      "publisher": "Benzinga",
+      "date": "2026-07-06",
+      "impact": "high",
+      "category": "股權融資",
+      "reason": "公司完成 362 萬股的公開發行，籌集約 1.92 億美元，直接導致現有股東權益被稀釋，是近期股價下跌的主要驅動因素。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Is Ouster Stock Falling Friday? — Ouster (OUST) dips 7% after its public offering",
+      "publisher": "Benzinga",
+      "date": "2026-07-10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出股價單日下跌 7 %，反映市場對於增資後股權稀釋的負面情緒，並探討此回調是否為買入機會。"
+    },
+    {
+      "rank": 3,
+      "title": "Ouster (OUST) Drops On Share Offering As Fair Value Still Suggests Some Upside",
+      "publisher": "Simply Wall St.",
+      "date": "2026-07-12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析指出股價因增資而下跌，但從估值角度來看仍具備潛在上升空間，屬於對股價短期壓力的客觀評估。"
+    },
+    {
+      "rank": 4,
+      "title": "Ouster, Inc. (OUST) Stock Slides as Market Rises: Facts to Know Before You Trade",
+      "publisher": "Zacks",
+      "date": "2026-07-10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "在整體市場上漲的背景下，Ouster 股價卻出現下滑，顯示該公司近期因增資事件面臨較大的賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Which Robotics Supply Chain Stock Has Dominated in 2026: Ouster, Aeva, or Vishay Precision Group?",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-07-03",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "將 Ouster 與同業進行比較，屬於產業競爭力分析，未對股價產生直接的短期買賣訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "Ouster’s Latest Pullback Follows $192 Million Capital Raise",
+      "publisher": "Benzinga",
+      "date": "2026-07-07",
+      "impact": "low",
+      "category": "股權融資",
+      "reason": "此篇為增資事件的後續報導，內容與 7 月 6 日的公告重複，主要總結投資人對稀釋效應的權衡，故歸類為中性資訊整理。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,156 @@
+{
+  "ticker": "GOOGL",
+  "company": "Google",
+  "analysis_date": "2026-07-13",
+  "source_file": "cache/2026-07-13/holdings/news/GOOGL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 4,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "Google 在 AI 基礎設施與雲端運算的強勁擴張動能，抵銷了部分監管壓力與市場競爭的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Gene Munster Expects Google, AWS Cloud To Beat Q2 Estimates — Sees Higher AI Capex Growth in 2027",
+      "publisher": "Yahoo",
+      "date": "2026-07-11 00:37",
+      "impact": "high",
+      "category": "財報預測",
+      "reason": "分析師 Gene Munster 預期 Google 雲端業務將超越第 2 季財報預期，且 2027 年 AI 資本支出成長預估上調，顯示公司在 AI 領域的投資回報潛力被看好。"
+    },
+    {
+      "rank": 2,
+      "title": "Google's In-House AI Chip Strategy Could Be a Bigger Threat to Nvidia Than Investors Think",
+      "publisher": "Yahoo",
+      "date": "2026-07-12 14:25",
+      "impact": "medium",
+      "category": "產品策略",
+      "reason": "Google 自研 AI 晶片策略有助於降低長期 AI 運算成本，提升利潤率，並減少對 Nvidia 的依賴，具備長期競爭優勢。"
+    },
+    {
+      "rank": 3,
+      "title": "Google, Amazon Increase Data-Center Capacity Plans",
+      "publisher": "Yahoo",
+      "date": "2026-07-10 17:48",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "北美數據中心容量計畫持續擴張，顯示 Google 在雲端基礎設施的投入力度強勁，以滿足 AI 驅動的數位需求成長。"
+    },
+    {
+      "rank": 4,
+      "title": "Jim Cramer Says Google Could Win the Entire AI War: The 2.5 Billion Apple Devices Behind It Are Why",
+      "publisher": "Yahoo",
+      "date": "2026-07-10 17:43",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Jim Cramer 強調 Google 透過生態系統優勢，特別是與 Apple 裝置的整合，具備在 AI 競賽中勝出的潛力。"
+    },
+    {
+      "rank": 5,
+      "title": "Google Just Broke the Biggest Search Record in Its History Thanks to This One World Cup Moment",
+      "publisher": "Yahoo",
+      "date": "2026-07-10 13:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "打破搜尋紀錄證明 Google Search 在 AI 聊天機器人競爭下仍具備強大的用戶黏著度與市場領導地位。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "UK Places Major Cloud Providers Under Financial Sector Oversight",
+      "publisher": "Yahoo",
+      "date": "2026-07-10 13:04",
+      "impact": "medium",
+      "category": "法規監管",
+      "reason": "英國政府將 Google 等雲端服務商納入金融部門直接監管，可能增加營運成本與合規壓力，此為多篇報導之核心，故選此篇作為代表。"
+    },
+    {
+      "rank": 2,
+      "title": "Google, OpenAI have been selling AI models to Chinese firms: FT",
+      "publisher": "Yahoo",
+      "date": "2026-07-10 21:45",
+      "impact": "medium",
+      "category": "地緣政治",
+      "reason": "向中國企業提供 AI 模型可能引發美國政府對技術出口管制的審查，帶來潛在的政治與監管風險。"
+    },
+    {
+      "rank": 3,
+      "title": "Could SpaceX's Starmind Make Amazon's, Microsoft's, and Google's Cloud Businesses Obsolete?",
+      "publisher": "Yahoo",
+      "date": "2026-07-12 09:04",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "市場對新興技術（如 SpaceX 的 Starmind）可能顛覆現有雲端業務模式的擔憂，雖屬長期風險，但仍需關注。"
+    },
+    {
+      "rank": 4,
+      "title": "Bitcoin Has Two Ticking Time Bombs, Ex-Meta and Google Engineer Warns",
+      "publisher": "Yahoo",
+      "date": "2026-07-12 10:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "前 Google 工程師對量子運算威脅的評論，雖非直接針對 Google 業務，但反映了技術演進帶來的潛在不確定性。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Alphabet Inc. (GOOGL) A Top AI Stock In D. E. Shaw’s Holdings",
+      "publisher": "Yahoo",
+      "date": "2026-07-12 14:01",
+      "impact": "low",
+      "category": "投資動態",
+      "reason": "僅反映機構投資人的持倉動態，對股價無直接基本面影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Google vs Apple: Which of the 2 Biggest AI Stocks Is the Better Buy Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-07-12 00:21",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "屬於投資觀點比較，未提供新的實質營運資訊。"
+    },
+    {
+      "rank": 3,
+      "title": "Alphabet Is the Dow's Newest Member. This One Has Been Raising Its Dividend Since Before Google Existed.",
+      "publisher": "Yahoo",
+      "date": "2026-07-10 16:25",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "關於道瓊指數成分股的歷史背景與股利政策討論，對短期股價影響有限。"
+    },
+    {
+      "rank": 4,
+      "title": "Shaq Invested in Google After Meeting a Guy at the Four Seasons",
+      "publisher": "Yahoo",
+      "date": "2026-07-10 16:01",
+      "impact": "low",
+      "category": "市場花絮",
+      "reason": "名人投資軼事，屬於市場花絮，不影響公司基本面。"
+    },
+    {
+      "rank": 5,
+      "title": "What Google Stock Was Telling You Before It Doubled",
+      "publisher": "Yahoo",
+      "date": "2026-07-10 17:38",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "回顧性分析，對當前股價走勢參考價值有限。"
+    },
+    {
+      "rank": 6,
+      "title": "How OpenAI’s New GPT 5.6 Measures Up to SpaceX, Google, Anthropic",
+      "publisher": "Yahoo",
+      "date": "2026-07-10 17:00",
+      "impact": "low",
+      "category": "產品競爭",
+      "reason": "AI 模型效能評比，屬於產業常態競爭，未對 Google 造成顯著利空。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

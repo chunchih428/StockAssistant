@@ -1,0 +1,102 @@
+{
+  "ticker": "META",
+  "company": "Meta",
+  "analysis_date": "2026-07-13",
+  "source_file": "cache/2026-07-13/holdings/news/META.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 11,
+    "bearish_count": 5,
+    "neutral_count": 4,
+    "overall_sentiment": "mixed",
+    "key_theme": "Meta 積極推動 AI 基礎設施變現與新模型發布，但面臨歐盟監管壓力及 AI 投資回報時程延宕的挑戰。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Meta Platforms Just Unveiled a Shocking New Artificial Intelligence (AI) Strategy",
+      "publisher": "Yahoo",
+      "date": "2026-07-12 03:50",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Meta 計劃推出「Meta Compute」出租過剩 AI 算力，此舉將資本支出轉化為企業營收引擎，市場對其變現能力持正面看法。"
+    },
+    {
+      "rank": 2,
+      "title": "Meta's stock heads for best week since early 2024 as optimism builds around AI strategy",
+      "publisher": "CNBC",
+      "date": "2026-07-10 11:44",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "發布 Muse Spark 系列 AI 模型，顯示公司在 AI 研發領域的持續進展，帶動股價創下近期最佳單週表現。"
+    },
+    {
+      "rank": 3,
+      "title": "Jim Cramer Remains Upbeat About Meta Platforms (META)",
+      "publisher": "Yahoo",
+      "date": "2026-07-11 12:54",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "知名分析師 Jim Cramer 持續看好 Meta 的 AI 發展潛力，為市場提供信心支撐。"
+    },
+    {
+      "rank": 4,
+      "title": "Meta Platforms Inc. (META) Is A Top AI Stock In D. E. Shaw’s Holdings",
+      "publisher": "Yahoo",
+      "date": "2026-07-12 14:04",
+      "impact": "medium",
+      "category": "機構持倉",
+      "reason": "億萬富翁投資人 D. E. Shaw 將 Meta 列為 2026 年十大最佳投資標的之一，顯示機構投資人對其長期價值認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Meta found to breach EU laws with 'addictive' Instagram, Facebook designs",
+      "publisher": "CNBC",
+      "date": "2026-07-10 06:30",
+      "impact": "high",
+      "category": "法規監管",
+      "reason": "歐盟認定 Meta 旗下產品設計違反數位法規，可能面臨罰款或被迫調整產品功能，對用戶黏著度構成潛在風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Meta (META) Faces $2 Billion AI Deal Reversal And EU App Design Probe",
+      "publisher": "Yahoo",
+      "date": "2026-07-12 21:08",
+      "impact": "medium",
+      "category": "併購與監管",
+      "reason": "中國監管機構要求 Meta 撤銷 20 億美元的 Manus 收購案，阻礙了其 AI 戰略擴張的步伐。"
+    },
+    {
+      "rank": 3,
+      "title": "Mark Zuckerberg Said Meta's AI Bets \"Haven't Come to Fruition Yet\" as Shares Fell 5%",
+      "publisher": "Yahoo",
+      "date": "2026-07-12 08:23",
+      "impact": "medium",
+      "category": "公司治理",
+      "reason": "執行長 Mark Zuckerberg 公開承認 AI 投資回報進度不如預期，引發市場對資本支出效率的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Needham's Laura Martin on why she prefers Reddit's 'human intelligence' to Meta's artificial intelligence",
+      "publisher": "CNBC",
+      "date": "2026-07-10 17:19",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析師觀點分歧，認為 Reddit 的社群價值在特定領域優於 Meta 的 AI 策略，屬市場多元觀點。"
+    },
+    {
+      "rank": 2,
+      "title": "Bitcoin Has Two Ticking Time Bombs, Ex-Meta and Google Engineer Warns",
+      "publisher": "Yahoo",
+      "date": "2026-07-12 10:30",
+      "impact": "low",
+      "category": "產業趨勢",
+      "reason": "僅引用前 Meta 工程師對加密貨幣的評論，與 Meta 本身業務核心關聯度低。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

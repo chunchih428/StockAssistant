@@ -1,0 +1,56 @@
+{
+  "ticker": "CEVA",
+  "company": "CEVA",
+  "analysis_date": "2026-07-13",
+  "source_file": "cache/2026-07-13/candidates/news/CEVA.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 5,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "公司成功簽署指標性 AI 授權協議，拓展客戶群至大型軟體平台，並獲得分析師上調目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ceva Announces AI Licensing Deal With A U.S. Software And AI Platform Company For A Custom AI Silicon Program Focused On Computing Devices",
+      "publisher": "Benzinga",
+      "date": "2026-07-06 07:14",
+      "impact": "high",
+      "category": "業務拓展",
+      "reason": "此為核心利多消息，標誌著 CEVA 的客戶群從傳統半導體與 OEM 廠商成功跨足至大型軟體與 AI 平台，具備長期營收成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Stifel Maintains Buy on CEVA, Raises Price Target to $50",
+      "publisher": "Benzinga",
+      "date": "2026-07-10 09:08",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Stifel 分析師 Ruben Roy 將目標價從 $42 上調至 $50，反映市場對該公司 AI 授權業務前景的信心增強。"
+    },
+    {
+      "rank": 3,
+      "title": "Why CEVA (CEVA) Is Up 12.7% After Securing Landmark Edge AI Licensing Deal With Platform Giant",
+      "publisher": "Simply Wall St.",
+      "date": "2026-07-11",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導詳細分析了股價上漲 12.7% 的基本面驅動因素，確認了市場對該 AI 授權協議的正面解讀。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "CEVA (CEVA) Lands A New AI Deal, Does It Look Fully Valued?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-07-11",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "文章對股價是否已充分反映利多進行理性探討，提供中立的估值視角，提醒投資人關注後續獲利能力。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

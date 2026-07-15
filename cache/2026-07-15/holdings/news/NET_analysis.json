@@ -1,0 +1,93 @@
+{
+  "ticker": "NET",
+  "company": "Cloudflare",
+  "analysis_date": "2026-07-13",
+  "source_file": "cache/2026-07-13/holdings/news/NET.json",
+  "summary": {
+    "total_articles": 15,
+    "bullish_count": 8,
+    "bearish_count": 3,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Cloudflare 憑藉與 OpenAI 的 AI 搜尋合作及華爾街分析師的目標價上調，股價強勢突破 52 週高點，但市場對其高估值仍存有分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "BTIG Maintains Buy on Cloudflare, Raises Price Target to $314",
+      "publisher": "Benzinga",
+      "date": "2026-07-10 07:49",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "BTIG 分析師 Gray Powell 維持買入評級，並將目標價從 $269 大幅上調至 $314，顯示對公司長期成長潛力的強烈信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Cloudflare Launches AI Search Research Pilot With OpenAI",
+      "publisher": "Benzinga",
+      "date": "2026-07-08 10:51",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Cloudflare 與 OpenAI 合作開發 AI 搜尋研究試點，結合全球網路訊號與 AI 技術，被視為公司在 AI 領域的重大戰略進展。"
+    },
+    {
+      "rank": 3,
+      "title": "Scotiabank Upgrades Cloudflare to Sector Outperform, Raises Price Target to $300",
+      "publisher": "Benzinga",
+      "date": "2026-07-07 05:56",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Scotiabank 分析師 Patrick Colville 將評級從 Sector Perform 上調至 Sector Outperform，並將目標價調升至 $300，推動股價突破。"
+    },
+    {
+      "rank": 4,
+      "title": "Wall Street Says Investors Are Missing Cloudflare’s Biggest AI Opportunity",
+      "publisher": "Barchart",
+      "date": "2026-07-12 15:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場分析指出投資人尚未完全計入 Cloudflare 在 AI 基礎設施領域的潛在價值，暗示未來仍有上漲空間。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare (NET) Could Be 60% Overvalued After Its OpenAI Pilot News",
+      "publisher": "Simply Wall St.",
+      "date": "2026-07-11 00:18",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析報告指出在股價強勁上漲後，基於估值模型，Cloudflare 可能存在高達 60% 的溢價風險，提醒投資人注意回調壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Cloudflare (NET) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "publisher": "Zacks",
+      "date": "2026-07-10 21:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管大盤上漲，Cloudflare 股價出現回落，反映出部分獲利了結的賣壓與市場對高估值的修正心理。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "SpaceX, ClearOne, FuelCell Energy, Cloudflare and Penguin Solutions: Why These 5 Stocks Are on Investors' Radars Today",
+      "publisher": "Benzinga",
+      "date": "2026-07-07 21:43",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅提及 Cloudflare 成為當日市場熱門關注標的，未涉及具體財務基本面變化。"
+    },
+    {
+      "rank": 2,
+      "title": "Stocks making big moves this week: Lazard, Cloudflare, DigitalOcean, Sonos, and Carnival",
+      "publisher": "StockStory",
+      "date": "2026-07-10 20:23",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "單純列出本週股價波動較大的公司清單，屬於市場回顧性質。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
