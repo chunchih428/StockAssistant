@@ -1,0 +1,84 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-07-13",
+  "source_file": "cache/2026-07-13/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 1,
+    "bearish_count": 4,
+    "neutral_count": 2,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場焦點集中於 SpaceX 加入 Nasdaq-100 指數的影響，以及 BlackRock 競爭帶來的 ETF 市場份額壓力與科技股波動對 QQQ 的影響。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Breadth Rebounds as Small Caps Join the Rally — Thursday produced a broad internal rebound after Wednesday’s weakness. SPY and QQQ remained near their highs",
+      "publisher": "ChartMill",
+      "date": "2026-07-10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場廣度改善且 QQQ 維持在歷史高點附近，顯示科技股權重板塊的強勢支撐力道依然穩固。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "BlackRock Just Took The Fight To QQQ — The Nasdaq‑100 ETF War Is On",
+      "publisher": "Benzinga",
+      "date": "2026-07-09",
+      "impact": "high",
+      "category": "市場競爭",
+      "reason": "BlackRock 推出競爭性產品挑戰 QQQ 的市場主導地位，可能導致資金流出壓力及管理費率競爭，長期影響 QQQ 的資產規模與獲利能力。"
+    },
+    {
+      "rank": 2,
+      "title": "SpaceX Nasdaq 100 Debut, Minimal Lift: Analysts Call the QQQ Hype Overdone",
+      "publisher": "Benzinga",
+      "date": "2026-07-07",
+      "impact": "medium",
+      "category": "指數調整",
+      "reason": "分析師指出 SpaceX 加入 Nasdaq-100 的利多效應被過度炒作，強制買入的預期並未帶來顯著的股價提振，市場情緒轉趨冷靜。"
+    },
+    {
+      "rank": 3,
+      "title": "Chip Rout Cools Breadth, but the Broader Trend Holds — Market breadth cooled sharply as chip weakness hit QQQ",
+      "publisher": "ChartMill",
+      "date": "2026-07-08",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "半導體類股的疲軟直接拖累 QQQ 表現，導致市場廣度指標短期冷卻，反映出科技板塊對單一產業波動的高度敏感性。"
+    },
+    {
+      "rank": 4,
+      "title": "What Will Happen To The Market If Tech Cracks, Corrects Or Crashes?",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-06",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "探討科技股若出現修正對 QQQ 的系統性風險，雖然是假設性分析，但反映出市場對科技股估值過高的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "If I Could Tell Every QQQ Investor 1 Thing About SpaceX's Nasdaq-100 Entry, It's This",
+      "publisher": "Motley Fool",
+      "date": "2026-07-12",
+      "impact": "low",
+      "category": "指數調整",
+      "reason": "針對 SpaceX 加入指數的長期影響進行分析，內容偏向投資教育，未對短期股價產生直接買賣訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "Breadth Stays Positive as Tech Leadership Cools Before the Break",
+      "publisher": "ChartMill",
+      "date": "2026-07-06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管科技股領漲力道減弱，但整體市場廣度依然維持正面，顯示市場處於高檔震盪整理階段。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

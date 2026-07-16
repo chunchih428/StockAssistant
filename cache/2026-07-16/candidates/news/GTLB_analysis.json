@@ -1,0 +1,47 @@
+{
+  "ticker": "GTLB",
+  "company": "GitLab Inc.",
+  "analysis_date": "2026-07-13",
+  "source_file": "cache/2026-07-13/candidates/news/GTLB.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "GitLab 積極拓展企業級 AI 工作流應用，儘管分析師維持中性評級，但普遍上調目標價反映市場對其成長潛力的認可。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "GitLab (GTLB) Makes a Big Push Into Enterprise AI Workflows",
+      "publisher": "Insider Monkey",
+      "date": "2026-07-08",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "GitLab 積極投入企業級 AI 工作流，顯示公司正透過 AI 轉型提升產品附加價值，有助於擴大市場份額並增加長期營收潛力。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "UBS Maintains Neutral on GitLab, Raises Price Target to $35",
+      "publisher": "Benzinga",
+      "date": "2026-07-10",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "瑞銀分析師 Radi Sultan 維持中性評級，但將目標價從 $32 上調至 $35，顯示對公司基本面改善持謹慎樂觀態度，但未給予買進建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Truist Securities Maintains Hold on GitLab, Raises Price Target to $30",
+      "publisher": "Benzinga",
+      "date": "2026-07-09",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "Truist Securities 分析師 Miller Jump 維持持有評級，並將目標價由 $25 上調至 $30，反映對公司估值修正的認可，但仍對短期股價表現持保留態度。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

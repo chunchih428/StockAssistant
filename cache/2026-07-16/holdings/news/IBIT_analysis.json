@@ -1,0 +1,93 @@
+{
+  "ticker": "IBIT",
+  "company": "Bitcoin",
+  "analysis_date": "2026-07-13",
+  "source_file": "cache/2026-07-13/holdings/news/IBIT.json",
+  "summary": {
+    "total_articles": 12,
+    "bullish_count": 7,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "比特幣價格回升帶動 IBIT 資金流入轉正，市場風險偏好改善且通膨數據降溫支撐反彈趨勢。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bitcoin Rebounds Above $63,000: The $487M ETF Reversal May Be Driving the Rally",
+      "publisher": "Benzinga",
+      "date": "2026-07-07 09:31",
+      "impact": "high",
+      "category": "資金流向",
+      "reason": "BlackRock 的 IBIT 結束了長達 11 天的賣超紀錄，單日錄得 2.09 億美元資金流入，顯示機構投資者信心回籠，為 IBIT 股價提供強勁支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Bitcoin Pops to $64,000: Here's What's Needed for a Push to $71,000",
+      "publisher": "Benzinga",
+      "date": "2026-07-10 13:11",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "比特幣價格突破 6.4 萬美元關卡，市場情緒因地緣政治談判緩解而改善，分析師指出若能站穩此價位，有望進一步挑戰 7.1 萬美元。"
+    },
+    {
+      "rank": 3,
+      "title": "Inflation Turns Negative as Hormuz Reopens: Why Gold, Silver, Bitcoin May Now Rally",
+      "publisher": "Benzinga",
+      "date": "2026-07-06 09:31",
+      "impact": "medium",
+      "category": "宏觀經濟",
+      "reason": "美國通膨數據轉負且就業數據降溫，導致聯準會升息預期減弱，有利於比特幣等風險資產的估值修復。"
+    },
+    {
+      "rank": 4,
+      "title": "Forget Coinbase and Pivot into IBIT Instead to Save Yourself Headaches and Losses",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-07-09 15:32",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "文章建議投資人將資金從 Coinbase 轉向 IBIT，認為透過 ETF 持有比特幣能降低個股營運風險與波動性。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bitcoin Sentiment Is Dire — With a decline of more than 30%, Bitcoin (using the IBIT ETF as a proxy) was the worst performing asset class in the first half",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-09 00:10",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "指出 IBIT 在上半年跌幅超過 30%，表現為各類資產中最差，反映出市場對比特幣的極度悲觀情緒。"
+    },
+    {
+      "rank": 2,
+      "title": "Bitcoin: One More Flush Before The Bottom",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-06 15:17",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析師認為市場情緒處於極度恐慌，暗示在真正觸底前可能還會有一波拋售壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "ETHA vs. IBIT: Does Ethereum or Bitcoin Belong in Your Portfolio?",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-07-08 16:02",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "僅針對以太幣與比特幣 ETF 的資產配置進行比較分析，未對 IBIT 本身價格走勢做出明確多空判斷。"
+    },
+    {
+      "rank": 2,
+      "title": "Crypto Market Today, July 9: Bitcoin Holds Firm as Risk Appetite Returns Despite Geopolitical Noise",
+      "publisher": "Motley Fool",
+      "date": "2026-07-09 21:22",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導比特幣在地緣政治干擾下維持穩定，屬於市場現況描述，對 IBIT 股價影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,56 @@
+{
+  "ticker": "GEN",
+  "company": "Gen Digital",
+  "analysis_date": "2026-07-16",
+  "source_file": "cache/2026-07-16/candidates/news/GEN.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場分析認為 Gen Digital 的基本面成長與股價表現存在脫鉤，投資價值被低估，且即將公布的財報備受關注。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Own ServiceNow For AI? Gen Digital's Numbers Speak Louder",
+      "publisher": "Trefis",
+      "date": "2026-07-08",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析指出 Gen Digital 的財務數據表現強勁，相較於其他 AI 相關標的，其估值與成長潛力更具吸引力，建議投資人關注其基本面。"
+    },
+    {
+      "rank": 2,
+      "title": "GEN Grew. The Stock Did Not. Someone Is Wrong",
+      "publisher": "Trefis",
+      "date": "2026-07-07",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "文章強調公司營運持續成長但股價未同步反映，暗示市場存在定價錯誤，長期來看對股價具有支撐作用。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Gen to Announce Fiscal 2027 First Quarter Results on August 6, 2026",
+      "publisher": "Yahoo",
+      "date": "2026-07-14",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "公司宣布財報發布日期為例行性公告，市場將靜待 8 月 6 日的財報數據以確認營運趨勢。"
+    },
+    {
+      "rank": 2,
+      "title": "Gen Half-Year Threat Report: Attackers are Moving Closer to the Systems People Trust",
+      "publisher": "Yahoo",
+      "date": "2026-07-15",
+      "impact": "low",
+      "category": "產品與市場動態",
+      "reason": "發布 H1 2026 威脅報告屬於公司例行性的產業洞察分享，旨在提升品牌專業度，對短期股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
