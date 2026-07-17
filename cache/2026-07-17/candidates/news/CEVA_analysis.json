@@ -1,0 +1,74 @@
+{
+  "ticker": "CEVA",
+  "company": "CEVA",
+  "analysis_date": "2026-07-17",
+  "source_file": "cache/2026-07-17/candidates/news/CEVA.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 4,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "公司憑藉邊緣 AI 授權業務取得重大合約，帶動股價強勁上漲，並獲得多家投行調升目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why CEVA (CEVA) Is Up 12.7% After Securing Landmark Edge AI Licensing Deal With Platform Giant",
+      "publisher": "Simply Wall St.",
+      "date": "2026-07-11",
+      "impact": "high",
+      "category": "業務拓展",
+      "reason": "公司成功與平台巨頭簽署邊緣 AI 授權合約，直接推動股價單日大漲 12.7 %，顯示市場對其 AI 授權模式的獲利潛力高度認可。"
+    },
+    {
+      "rank": 2,
+      "title": "TD Cowen Maintains Buy on CEVA, Raises Price Target to $55",
+      "publisher": "Benzinga",
+      "date": "2026-07-13",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "TD Cowen 分析師 Joshua Buchalter 維持買入評級，並將目標價由 $45 大幅調升至 $55，反映對公司成長前景的信心增強。"
+    },
+    {
+      "rank": 3,
+      "title": "Stifel Maintains Buy on CEVA, Raises Price Target to $50",
+      "publisher": "Benzinga",
+      "date": "2026-07-10",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Stifel 分析師 Ruben Roy 維持買入評級，並將目標價由 $42 上調至 $50，顯示華爾街對公司近期業務動能的正面評價。"
+    },
+    {
+      "rank": 4,
+      "title": "Ceva (CEVA) Launches RealSpace Elevate Spatial Audio for Gaming Headsets",
+      "publisher": "Insider Monkey",
+      "date": "2026-07-15",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "推出 RealSpace Elevate 空間音訊技術，有助於擴展在遊戲耳機市場的技術布局，增強長期競爭力。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Benchmark Initiates Coverage On CEVA with Hold Rating",
+      "publisher": "Benzinga",
+      "date": "2026-07-16",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "Benchmark 分析師 Gary Mobley 給予持有評級，顯示在股價近期大幅上漲後，分析師採取較為審慎的觀望態度。"
+    },
+    {
+      "rank": 2,
+      "title": "CEVA (CEVA) Lands A New AI Deal, Does It Look Fully Valued?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-07-11",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導雖確認了 AI 合約利多，但同時探討估值是否已過高，提供市場中立的觀點，故選取此篇作為對比分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,120 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-07-17",
+  "source_file": "cache/2026-07-17/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "Broadcom 受惠於與 Apple 的長期晶片合作協議及 AI 基礎設施需求，儘管面臨歐盟反壟斷審查與市場對 AI 資本支出放緩的擔憂，整體成長前景仍獲華爾街看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why Broadcom (AVGO) Is Reinforcing Its Long-Term Growth With an Extended Apple Chip Partnership Through 2031",
+      "publisher": "Yahoo",
+      "date": "2026-07-15 12:06",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "Broadcom 與 Apple 簽署延長至 2031 年的晶片供應協議，涉及金額高達 300 億美元，為公司長期營收提供強大護城河與穩定性。"
+    },
+    {
+      "rank": 2,
+      "title": "Morgan Stanley: Broadcom bears are wrong about Google TPU",
+      "publisher": "Yahoo",
+      "date": "2026-07-15 17:33",
+      "impact": "high",
+      "category": "分析師報告",
+      "reason": "摩根士丹利發布強力報告，駁斥市場對 Google TPU 業務的擔憂，重申對 Broadcom 在 AI 晶片領域競爭力的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Standard Chartered Selects Broadcom to Deliver Secure, Always-On Banking Services at Global Scale",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 06:00",
+      "impact": "medium",
+      "category": "業務拓展",
+      "reason": "渣打銀行採用 VMware Cloud Foundation 平台，顯示 Broadcom 在收購 VMware 後成功將其軟體解決方案打入大型金融機構，強化營收多元化。"
+    },
+    {
+      "rank": 4,
+      "title": "CNCF Strengthens Partnership with Broadcom as a Platinum Member to Advance AI-Ready Cloud Native Infrastructure",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 16:00",
+      "impact": "low",
+      "category": "技術生態",
+      "reason": "Broadcom 成為雲原生計算基金會 (CNCF) 白金會員，有助於推動 AI 準備就緒的雲端基礎設施標準，提升技術影響力。"
+    },
+    {
+      "rank": 5,
+      "title": "Wall Street Analysts See a 32.76% Upside in Broadcom Inc. (AVGO)",
+      "publisher": "Yahoo",
+      "date": "2026-07-15 13:55",
+      "impact": "medium",
+      "category": "市場評級",
+      "reason": "華爾街分析師平均目標價顯示 32.76% 的潛在上漲空間，反映市場對其 AI 業務成長動能的高度共識。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Broadcom (AVGO) Faces EU Antitrust Review Over VMware Licensing Changes",
+      "publisher": "Yahoo",
+      "date": "2026-07-15 22:11",
+      "impact": "medium",
+      "category": "法規監管",
+      "reason": "歐盟對 VMware 授權變更展開反壟斷審查，可能導致罰款或被迫調整商業模式，增加營運不確定性。"
+    },
+    {
+      "rank": 2,
+      "title": "Marvell Drops 8% as AI Capex Slowdown Fears Weigh on Chips; Broadcom, AMD, and Intel Slide",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 16:12",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場擔憂 AI 資本支出放緩，導致半導體類股集體回調，Broadcom 股價受大盤情緒拖累。"
+    },
+    {
+      "rank": 3,
+      "title": "NXP Semiconductors and Broadcom Shares Plummet, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 22:57",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受台積電財報中關於現金流壓縮的評論影響，半導體板塊出現獲利了結賣壓，Broadcom 股價隨之波動。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Broadcom (AVGO) Stock Looks Fairly Priced After Its 8x Five Year Run",
+      "publisher": "Yahoo",
+      "date": "2026-07-15 23:15",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "分析指出 Broadcom 經歷五年 8 倍漲幅後，目前估值已趨於合理，投資人進入觀望階段。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom Inc. (AVGO) Is a Trending Stock: Facts to Know Before Betting on It",
+      "publisher": "Yahoo",
+      "date": "2026-07-15 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場熱度統計，未提供實質利多或利空訊息，僅反映散戶關注度提升。"
+    },
+    {
+      "rank": 3,
+      "title": "Price Prediction: Nvidia, AMD & Broadcom-Our Bold Price Predictions for 2029",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 17:00",
+      "impact": "low",
+      "category": "市場預測",
+      "reason": "針對 2029 年的長期預測，對短期股價影響有限，主要強調 AI 基礎設施建設的長期趨勢。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

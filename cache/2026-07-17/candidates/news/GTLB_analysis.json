@@ -1,0 +1,47 @@
+{
+  "ticker": "GTLB",
+  "company": "GitLab Inc.",
+  "analysis_date": "2026-07-17",
+  "source_file": "cache/2026-07-17/candidates/news/GTLB.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "GitLab 積極拓展企業級 AI 工作流並帶動股價強勁上漲，分析師態度轉趨正面。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "monday.com, Marqeta, and GitLab Shares Skyrocket, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-07-14",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "GitLab 股價出現顯著上漲，反映市場對其近期業務表現及成長動能的高度認可，為短期股價提供強勁支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "GitLab (GTLB) Makes a Big Push Into Enterprise AI Workflows",
+      "publisher": "Insider Monkey",
+      "date": "2026-07-08",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "GitLab 積極投入企業級 AI 工作流，此舉有助於提升產品競爭力並擴大在 AI 軟體開發領域的市場份額，具備長期成長潛力。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "UBS Maintains Neutral on GitLab, Raises Price Target to $35",
+      "publisher": "Benzinga",
+      "date": "2026-07-10",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "瑞銀分析師 Radi Sultan 維持中立評級，但將目標價從 32 美元上調至 35 美元，顯示對公司基本面改善的認可，但仍保持審慎態度。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

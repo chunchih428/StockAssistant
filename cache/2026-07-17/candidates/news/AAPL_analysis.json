@@ -1,0 +1,102 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-07-17",
+  "source_file": "cache/2026-07-17/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Apple 成功獲得中國監管機構批准引入 Apple Intelligence，結合強勁的市場需求與 AI 戰略布局，推動股價創下歷史新高。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "China approves Apple Intelligence, creating a new catalyst for device sales",
+      "publisher": "CNBC",
+      "date": "2026-07-16 00:27",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "獲得中國監管批准是 Apple 在 AI 領域的重大里程碑，透過與阿里巴巴與百度合作，將有效提振中國市場的 iPhone 換機需求。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple hits record high",
+      "publisher": "CNBC",
+      "date": "2026-07-15 11:37",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價創下歷史新高反映了市場對其 AI 戰略與長期增長潛力的強烈信心，技術面呈現強勢多頭格局。"
+    },
+    {
+      "rank": 3,
+      "title": "Warren Buffett: America's been a wonderful place to invest money",
+      "publisher": "CNBC",
+      "date": "2026-07-15 07:40",
+      "impact": "medium",
+      "category": "投資人關係",
+      "reason": "巴菲特重申對 Apple 的長期投資信心，並淡化了對未來執行長交接的擔憂，為市場提供了穩定的心理支撐。"
+    },
+    {
+      "rank": 4,
+      "title": "Apple (AAPL) Rides Growing Demand for AI-Enabled Smartwatches",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 18:25",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "AI 功能整合至穿戴式裝置預計將成為 2026 年下半年的重要成長引擎，顯示 Apple 生態系統的持續擴張。"
+    },
+    {
+      "rank": 5,
+      "title": "Apple’s China win strengthens the case for a $5 trillion valuation",
+      "publisher": "CNBC",
+      "date": "2026-07-16 00:29",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析師認為 Apple 的低成本 AI 策略與中國市場的突破，使其市值邁向 5 兆美元的目標更具說服力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "The Debates That Matter For AAPL Stock",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 17:24",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "儘管成長趨勢明確，但管理層在上次財報會議中提出的未量化警告，仍是部分投資人擔憂的潛在風險點。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple's New iPhone Is Going to Cost Significantly More Than Last Year",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 19:59",
+      "impact": "low",
+      "category": "成本結構",
+      "reason": "零組件成本上升可能壓縮毛利率，若無法完全轉嫁給消費者，將對獲利能力構成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "OpenAI Chairman Bret Taylor on Apple lawsuit: We have no interest in other companies' trade secrets",
+      "publisher": "CNBC",
+      "date": "2026-07-16 10:57",
+      "impact": "low",
+      "category": "法律訴訟",
+      "reason": "OpenAI 主席澄清與 Apple 訴訟相關的立場，目前對股價影響有限，屬於市場雜訊。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple's June iPhone, Total Revenue Expected In-Line With Forecasts Despite Challenging Backdrop, UBS Says",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 16:48",
+      "impact": "low",
+      "category": "財報預測",
+      "reason": "瑞銀預期營收符合預期，顯示公司在充滿挑戰的環境下表現穩定，未有超乎預期的利多或利空。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
