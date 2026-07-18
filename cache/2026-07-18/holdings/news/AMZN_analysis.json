@@ -1,0 +1,129 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-07-17",
+  "source_file": "cache/2026-07-17/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 11,
+    "bearish_count": 5,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場高度看好 Amazon 在 AI 基礎設施與雲端運算的長期競爭優勢，儘管資本支出龐大引發部分質疑，但核心業務成長動能強勁。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Andy Jassy Says Amazon's Chip Business Already Has $225 Billion in Commitments",
+      "publisher": "Yahoo",
+      "date": "2026-07-17 01:01",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "CEO Andy Jassy 指出晶片業務擁有 2,250 億美元的承諾訂單，顯示 Amazon 在 AI 硬體供應鏈中已建立強大的護城河。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon’s AI Arms Race: KeyBanc Says Massive Capex Is a Feature, Not a Bug",
+      "publisher": "Benzinga",
+      "date": "2026-07-16 13:19",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "KeyBanc 分析師認為 Amazon 的巨額資本支出是為了搶佔 AI 市場份額的必要投資，長期將轉化為強勁的獲利能力。"
+    },
+    {
+      "rank": 3,
+      "title": "AI Internet Hyperscalers: Why Wedbush Prefers Google And Amazon To Meta",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 16:21",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "Wedbush 將 Amazon 列為 AI 首選股，強調其在 AI 分發能力上的領先地位優於 Meta。"
+    },
+    {
+      "rank": 4,
+      "title": "Amazon Web Services Announces Availability Of xAI’s Grok 4.3 On Amazon Bedrock",
+      "publisher": "Benzinga",
+      "date": "2026-07-16 15:34",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "透過在 Bedrock 平台引入 xAI 的 Grok 模型，進一步豐富了 AWS 的 AI 生態系統，提升對開發者的吸引力。"
+    },
+    {
+      "rank": 5,
+      "title": "The \"Magnificent Seven\" Are at Their Lowest Relative Valuations in a Decade. My 3 Favorite Mag 7 Stocks to Buy.",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 20:35",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析師認為 Amazon 目前估值處於十年低點，具備長期投資價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Amazon senior cloud executive departs after 18 years",
+      "publisher": "CNBC",
+      "date": "2026-07-15 14:23",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "資深雲端高管離職，該主管曾負責 AWS 核心運算與機器學習部門，人事變動可能對短期技術策略執行造成不確定性。"
+    },
+    {
+      "rank": 2,
+      "title": "Michael Burry Mocks Data Center 'Fantasy’ In ORCL, NVDA, AMZN",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 05:21",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "知名投資人 Michael Burry 對 AI 資料中心熱潮提出質疑，認為存在泡沫風險，可能影響市場情緒。"
+    },
+    {
+      "rank": 3,
+      "title": "Minutes after Amazon switched on its new AI staffing enforcement, a manager begged an engineer to shut it down",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 21:15",
+      "impact": "low",
+      "category": "營運風險",
+      "reason": "AI 自動化管理系統在倉儲端出現執行問題，反映出技術導入過程中的營運摩擦與管理挑戰。"
+    },
+    {
+      "rank": 4,
+      "title": "Amazon (AMZN) Dips More Than Broader Market: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 1.99%，表現弱於大盤，反映短期獲利了結賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "What Amazon.com (AMZN)'s Massive $25 Billion Bond Sale Means For Shareholders",
+      "publisher": "Yahoo",
+      "date": "2026-07-17 00:17",
+      "impact": "low",
+      "category": "財務融資",
+      "reason": "公司完成 250 億美元債券發行，屬於正常的資本結構調整，用以支持長期營運與基礎設施擴張。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon (AMZN) Just Overtook the 50-Day Moving Average",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 13:30",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "股價突破 50 日均線，屬於技術面訊號，對基本面無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Market Chatter: Amazon.com-Backed Anthropic in Talks for Billions in New Credit Lines Ahead of Potential IPO",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 12:49",
+      "impact": "low",
+      "category": "投資動態",
+      "reason": "被投企業 Anthropic 尋求融資，對 Amazon 而言屬於間接影響，顯示其投資組合的活躍度。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

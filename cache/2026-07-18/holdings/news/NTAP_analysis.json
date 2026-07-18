@@ -1,0 +1,75 @@
+{
+  "ticker": "NTAP",
+  "company": "NetApp",
+  "analysis_date": "2026-07-17",
+  "source_file": "cache/2026-07-17/holdings/news/NTAP.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 4,
+    "bearish_count": 1,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "NetApp 透過收購 DataPelago 與深化 Oracle Cloud 合作，積極強化 AI 基礎設施布局，市場情緒正面。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "NetApp Acquires DataPelago, Making Data AI-Ready at the Infrastructure Layer",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 16:30",
+      "impact": "high",
+      "category": "企業併購",
+      "reason": "NetApp 收購 DataPelago 以強化基礎設施層的 AI 數據準備能力，此舉直接提升公司在 AI 數據管理市場的競爭力，為長期成長注入動能。"
+    },
+    {
+      "rank": 2,
+      "title": "NetApp and Oracle Launch OCI-Native Managed Storage Service To Simplify Enterprise And AI Workloads",
+      "publisher": "Benzinga",
+      "date": "2026-07-15 08:08",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 Oracle 合作推出 OCI 原生託管儲存服務，有助於擴大企業級與 AI 工作負載的市占率，強化雲端儲存生態系。"
+    },
+    {
+      "rank": 3,
+      "title": "GraniteShares Launches NTAL, TDCL and BTDL, 2x Long ETFs on NetApp, Teradata and Bitdeer",
+      "publisher": "Yahoo",
+      "date": "2026-07-14 12:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "GraniteShares 發行 2 倍槓桿做多 NetApp 的 ETF，顯示市場對該股短期交易熱度與流動性需求增加，反映投資人信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Everpure and NetApp Stocks Trade Up, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-07-14 19:43",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受惠於企業 IT 預算相關的市場情緒轉佳，NetApp 股價在盤中表現強勢，顯示其在企業儲存領域的韌性。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "NetApp (NTAP) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-07-10 22:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 1.67 %，屬於正常的市場波動，未見基本面惡化，僅為短期獲利回吐或市場輪動影響。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "NetApp, Inc. (NTAP) is Attracting Investor Attention: Here is What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 13:00",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "僅為 Zacks.com 用戶關注度報告，屬於常規的市場追蹤資訊，對股價無直接驅動影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
