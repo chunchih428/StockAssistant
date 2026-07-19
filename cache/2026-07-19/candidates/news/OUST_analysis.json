@@ -1,0 +1,66 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-07-17",
+  "source_file": "cache/2026-07-17/candidates/news/OUST.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 2,
+    "bearish_count": 3,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司近期因公開發行股票導致股價短期稀釋下跌，但市場對雷射雷達 (LiDAR) 的需求成長與分析師調升目標價仍提供長期支撐。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Oppenheimer Maintains Outperform on Ouster, Raises Price Target to $57",
+      "publisher": "Benzinga",
+      "date": "2026-07-15",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Oppenheimer 分析師 Colin Rusch 維持 Ouster 的「優於大盤」評級，並將目標價從 $42 大幅調升至 $57，顯示專業機構對其長期成長潛力與市場競爭力的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Ouster Stock Hits New Highs as Lidar Demand Gains Momentum",
+      "publisher": "Barchart",
+      "date": "2026-07-08",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "雷射雷達 (LiDAR) 市場需求持續增強，推動 Ouster 股價創下新高，反映出公司在自動駕駛與工業自動化領域的技術滲透率提升。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ouster (OUST) Drops On Share Offering As Fair Value Still Suggests Some Upside",
+      "publisher": "Simply Wall St.",
+      "date": "2026-07-12",
+      "impact": "high",
+      "category": "股權融資",
+      "reason": "公司進行公開發行股票導致股權稀釋，引發市場賣壓。此篇彙整了多篇關於股價下跌的報導，強調短期內投資人對籌資行為的負面反應。"
+    },
+    {
+      "rank": 2,
+      "title": "Ouster, Inc. (OUST) Stock Slides as Market Rises: Facts to Know Before You Trade",
+      "publisher": "Zacks",
+      "date": "2026-07-10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "在整體市場上漲背景下，Ouster 股價卻逆勢下跌，顯示市場對其近期籌資活動的擔憂大於對產業成長的樂觀情緒。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "What Will it Take for Ouster to Reach Breakeven EBITDA?",
+      "publisher": "Zacks",
+      "date": "2026-07-16",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "文章探討公司達到 EBITDA 損益平衡所需的財務條件，屬於中性的基本面分析，未對股價產生立即性的買賣訊號。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

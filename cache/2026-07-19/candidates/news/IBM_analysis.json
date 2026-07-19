@@ -1,0 +1,120 @@
+{
+  "ticker": "IBM",
+  "company": "International Business Machines Corporation",
+  "analysis_date": "2026-07-17",
+  "source_file": "cache/2026-07-17/candidates/news/IBM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 3,
+    "bearish_count": 14,
+    "neutral_count": 3,
+    "overall_sentiment": "strongly_bearish",
+    "key_theme": "IBM 因第二季財報預警表現大幅低於預期，導致股價創下歷史性單日跌幅，引發市場對其 AI 轉型策略與營收成長能力的強烈質疑。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "IBM Launches a New Server Solution After Its Post-Earnings Plunge",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 19:15",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "IBM 推出 Power S1112 伺服器以強化本地 AI 推論能力，試圖在股價重挫後透過技術創新挽回市場信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Tridiagonal.ai Partners with PETRONAS Carigali’s TriCipta AI with IBM",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 12:30",
+      "impact": "low",
+      "category": "市場擴張",
+      "reason": "與 Tridiagonal.ai 及 PETRONAS 合作開發工程領域 AI 解決方案，顯示公司在特定垂直產業的 AI 應用仍具備業務拓展能力。"
+    },
+    {
+      "rank": 3,
+      "title": "Stock of the Day: Is This the Bottom for IBM?",
+      "publisher": "Benzinga",
+      "date": "2026-07-16 14:24",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "技術分析觀點認為股價已進入超賣區間並觸及支撐位，提供潛在的抄底機會。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "IBM’s historic crash exposes AI spending trap",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 23:00",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "IBM 發布第二季財報預警後股價單日暴跌約 25 %，創下 1968 年以來最差紀錄，反映市場對其 AI 投資回報率的極度失望。"
+    },
+    {
+      "rank": 2,
+      "title": "Evercore ISI Group Maintains Outperform on IBM, Lowers Price Target to $250",
+      "publisher": "Benzinga",
+      "date": "2026-07-16 09:49",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師 Amit Daryanani 雖維持評級但大幅下調目標價，反映對公司營收成長前景的修正。"
+    },
+    {
+      "rank": 3,
+      "title": "Argus Research Maintains Buy on IBM, Lowers Price Target to $280",
+      "publisher": "Benzinga",
+      "date": "2026-07-16 11:41",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Argus Research 將目標價從 360 美元下調至 280 美元，顯示機構投資人對 IBM 短期估值的重新評估。"
+    },
+    {
+      "rank": 4,
+      "title": "Issues plaguing IBM are bigger than the company, says Evercore ISI's Amit Daryanani",
+      "publisher": "CNBC",
+      "date": "2026-07-14 16:58",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "專家指出 IBM 面臨的困境不僅是單一公司問題，更涉及整體科技產業在 AI 支出與營收轉換上的結構性挑戰。"
+    },
+    {
+      "rank": 5,
+      "title": "Why Did SPCX, IBM, BSX Drop To 52-Week Lows Today?",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 03:06",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價跌至 52 週新低，引發市場恐慌性拋售與獲利了結壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "IBM Vice Chairman Gary Cohn: Our software is not being disrupted by AI",
+      "publisher": "CNBC",
+      "date": "2026-07-15 12:08",
+      "impact": "low",
+      "category": "高層觀點",
+      "reason": "副董事長 Gary Cohn 出面澄清 AI 對公司軟體業務的影響，試圖安撫投資人情緒，但未改變市場對財報的負面解讀。"
+    },
+    {
+      "rank": 2,
+      "title": "How options traders should play this legacy tech name after its steep pullback",
+      "publisher": "CNBC",
+      "date": "2026-07-15 13:17",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "提供選擇權交易策略建議，屬於市場技術性操作討論，對公司基本面無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Trade Tracker: Malcolm Ethridge sells IBM",
+      "publisher": "CNBC",
+      "date": "2026-07-16 12:43",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "單一投資機構的賣出行為，屬於正常的資產配置調整。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

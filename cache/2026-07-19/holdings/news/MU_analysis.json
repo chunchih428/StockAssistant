@@ -1,0 +1,84 @@
+{
+  "ticker": "MU",
+  "company": "Micron Technology",
+  "analysis_date": "2026-07-17",
+  "source_file": "cache/2026-07-17/holdings/news/MU.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 4,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "美光 與 Qualcomm 等 7 家汽車供應商簽署長期合約，基本面強勁，但受 台積電 資本支出展望引發的半導體板塊獲利回吐壓力影響。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Micron Technology Enters Strategic Customer Agreements With Tier 1 Suppliers In The Global Automotive Industry Including Qualcomm And Hyundai Mobis",
+      "publisher": "Benzinga",
+      "date": "2026-07-16 09:05",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "美光 與 Qualcomm 及 Hyundai Mobis 等 7 家一級汽車供應商簽署長期戰略合約，有助於提升長期營收能見度與生產規劃，鞏固其在車用記憶體市場的地位。"
+    },
+    {
+      "rank": 2,
+      "title": "Bull of the Day: Micron (MU)",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 08:00",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析指出 美光 的架構直接解決了 AI 硬體瓶頸，且具備前所未有的每股盈餘 (EPS) 成長潛力，被視為 AI 基礎設施建設的關鍵受惠者。"
+    },
+    {
+      "rank": 3,
+      "title": "Micron Technology: AI Memory Demand Is Still in the Early Innings",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 15:41",
+      "impact": "medium",
+      "category": "產業趨勢",
+      "reason": "管理層強調機器人與自動駕駛技術將進一步推升記憶體需求，顯示 AI 記憶體市場仍處於成長初期，長期成長動能明確。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "S&P 500, Nasdaq, Dow End Lower As Chip Stocks Slide On TSMC Capex Concerns",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 21:31",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "台積電 提高資本支出展望引發市場對半導體產業短期利潤率與回報的擔憂，導致 美光 等晶片股隨大盤出現顯著回調。"
+    },
+    {
+      "rank": 2,
+      "title": "MU, SNDK, SKHY, WDC Stocks Drop Overnight: AI Memory Giants Suffer Reversal As IBM-Driven Rally Fades",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 06:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "投資人針對近期由 IBM 帶動的漲勢進行獲利回吐，導致 美光 及其他記憶體大廠股價出現技術性修正。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "SNDK vs. MU: Which AI Memory Stock is a Smarter Buy at Current Levels?",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 13:59",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "文章對比 美光 與 SanDisk 在 AI 記憶體領域的競爭力，屬於投資建議性質，未對股價產生直接驅動影響。"
+    },
+    {
+      "rank": 2,
+      "title": "In-Depth Analysis: Micron Technology Versus Competitors In Semiconductors & Semiconductor Equipment Industry",
+      "publisher": "Benzinga",
+      "date": "2026-07-16 05:58",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "針對半導體產業的競爭格局進行深度分析，提供產業背景資訊，對短期股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

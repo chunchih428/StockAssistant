@@ -1,0 +1,111 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla",
+  "analysis_date": "2026-07-17",
+  "source_file": "cache/2026-07-17/holdings/news/TSLA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 2,
+    "bearish_count": 10,
+    "neutral_count": 8,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場對 Tesla 即將到來的財報充滿疑慮，主要聚焦於 Robotaxi 進度、資本支出壓力以及競爭對手帶來的技術挑戰。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Tesla Rides Tightening Global Emission Standards for EV Thrust",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 13:59",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "全球排放標準趨嚴，有利於 Tesla 擴大電動車市占率，並透過規模經濟與軟體優勢維持競爭力。"
+    },
+    {
+      "rank": 2,
+      "title": "Morgan Stanley Resets Tesla Stock Price Target for 2027",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 12:21",
+      "impact": "low",
+      "category": "分析師報告",
+      "reason": "摩根士丹利上調目標價，顯示對公司長期價值仍有部分正面預期，儘管維持原評級。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Tesla Stock's Future Comes With A Hefty Price Tag",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 14:54",
+      "impact": "high",
+      "category": "財報預期",
+      "reason": "公司龐大的資本支出計畫引發投資人對獲利能力的擔憂，可能對股價造成壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "TSLA Stock Eyes Weekly Loss: Retail Investors Grill Musk On Missed Robotaxi Targets Ahead Of Q2 Earnings",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 08:30",
+      "impact": "high",
+      "category": "投資人關係",
+      "reason": "投資人對 Robotaxi 進度落後感到不滿，且對 Optimus 機器人的部署計畫缺乏信心，導致股價承壓。"
+    },
+    {
+      "rank": 3,
+      "title": "XPeng’s New SUV Launch Reveals Bigger Tesla Challenge With Level 4 Autonomy",
+      "publisher": "Benzinga",
+      "date": "2026-07-16 07:05",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "小鵬汽車計畫於 2028 年實現 L4 自動駕駛，對 Tesla 的 FSD 技術領先地位構成實質威脅。"
+    },
+    {
+      "rank": 4,
+      "title": "Tesla Delivered 480,126 Vehicles Last Quarter. Here's Why the Stock Didn't Rally.",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 19:05",
+      "impact": "medium",
+      "category": "營運數據",
+      "reason": "儘管交付量數據尚可，但市場對公司轉型速度與未來不確定性感到擔憂，導致利多消息無法支撐股價。"
+    },
+    {
+      "rank": 5,
+      "title": "Tesla's Robotaxi Just Launched in Miami. Here's How Small the Service Area Really Is",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 18:35",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Robotaxi 服務範圍過小，顯示商業化進程仍處於極早期階段，未能滿足市場對大規模擴張的期待。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Tesla Was Cleared in a Texas Crash. Why the Stock Is Down Anyway.",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 20:34",
+      "impact": "low",
+      "category": "法規與訴訟",
+      "reason": "雖然 FSD 系統在德州車禍中獲判無罪，但市場反應冷淡，顯示投資人更關注財報基本面而非單一法律事件。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla (TSLA) Faces Fresh Questions As SpaceX Merger Talk Gains Traction",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 18:26",
+      "impact": "low",
+      "category": "市場傳聞",
+      "reason": "關於 Tesla 與 SpaceX 合併的討論持續，但市場對此類傳聞的真實性與可行性持保留態度，且 Polymarket 數據顯示相關賭注正在減少。"
+    },
+    {
+      "rank": 3,
+      "title": "Should You Buy Tesla Stock Before July 22?",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 20:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場觀望氣氛濃厚，投資人等待 7 月 22 日財報會議中 Elon Musk 的發言，目前無明確方向。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

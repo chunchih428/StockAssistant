@@ -1,0 +1,120 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-07-17",
+  "source_file": "cache/2026-07-17/candidates/news/NFLX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 4,
+    "bearish_count": 10,
+    "neutral_count": 6,
+    "overall_sentiment": "bearish",
+    "key_theme": "Netflix 第二季財報營收未達預期且第三季財測疲軟，導致市場對其成長動能產生疑慮，股價盤後重挫。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Netflix (NFLX) Surpasses Q2 Earnings Estimates",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 21:20",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "公司第二季每股盈餘表現優於市場預期，顯示其獲利能力仍具韌性。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix Viewing Hours Hit 97B, Q2 Revenue Up 13%",
+      "publisher": "Yahoo",
+      "date": "2026-07-17 00:55",
+      "impact": "medium",
+      "category": "營運數據",
+      "reason": "全球觀看時數達到 970 億小時，且營收年增 13.4 %，顯示核心串流業務仍維持成長。"
+    },
+    {
+      "rank": 3,
+      "title": "Oppenheimer's Jason Helfstein shares his Netflix bull case ahead of earnings",
+      "publisher": "CNBC",
+      "date": "2026-07-15 17:20",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析師 Jason Helfstein 在財報前表達看多觀點，主要基於對廣告業務潛力的信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Options Action: Analysts back Netflix",
+      "publisher": "CNBC",
+      "date": "2026-07-13 11:04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "選擇權市場在財報前呈現看多情緒，反映投資人對短期股價表現的樂觀預期。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "NFLX Stock Sinks Over 8% After-Hours — Q2 Revenue Miss And Q3 Weak Guidance Weigh On Netflix Shares",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 22:20",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "此篇為代表性報導，彙整了營收未達標及第三季財測疲軟的利空，導致盤後股價大跌超過 8 %。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix Misses Second-Quarter Revenue Views, Moves Engagement Report to Annual Release",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 21:10",
+      "impact": "medium",
+      "category": "公司治理",
+      "reason": "除了營收未達標，公司宣布將參與度報告改為年度發布，引發市場對資訊透明度下降的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Trade Tracker: Steve Weiss sells Netflix",
+      "publisher": "CNBC",
+      "date": "2026-07-15 13:01",
+      "impact": "medium",
+      "category": "投資人動態",
+      "reason": "知名投資人 Steve Weiss 在財報前賣出持股，顯示機構投資人對其短期成長動能的信心動搖。"
+    },
+    {
+      "rank": 4,
+      "title": "Netflix stock sinks after just missing forecasts on Q3 outlook",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 20:27",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "強調第三季財測未達市場預期，這是導致股價下跌的核心驅動因素。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Here's what to expect when Netflix reports earnings after the bell",
+      "publisher": "CNBC",
+      "date": "2026-07-16 12:11",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "財報發布前的預期分析，列出投資人關注的廣告業務與參與度指標，屬中性資訊。"
+    },
+    {
+      "rank": 2,
+      "title": "Nasdaq, Dow, S&P 500 Futures Slip As Chip Selloff Overshadows Strong Earnings Season",
+      "publisher": "Yahoo",
+      "date": "2026-07-17 01:36",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "整體市場受晶片股拋售影響，Netflix 僅被提及為市場焦點之一，非公司特定利空。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix Q2 Earnings Call Highlights",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 22:03",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "整理財報電話會議重點，管理層重申 2026 年財務計畫，屬例行性資訊揭露。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

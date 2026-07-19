@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18 03:54:48",
+  "generated_at": "2026-07-19 04:23:00",
   "allocation": {
     "total_value": 384121.345,
     "total_pnl": 42240.11541,
@@ -242,7 +242,7 @@
       "confidence": null,
       "scores": {
         "fundamental": 3,
-        "technical": 4,
+        "technical": 5,
         "risk": 5
       },
       "current_price": 163.88,
@@ -372,7 +372,7 @@
       "confidence": null,
       "scores": {
         "fundamental": 2,
-        "technical": 2,
+        "technical": 3,
         "risk": 2
       },
       "current_price": 37.04,
@@ -437,12 +437,12 @@
       "confidence": null,
       "scores": {
         "fundamental": 5,
-        "technical": 5,
+        "technical": 4,
         "risk": 2
       },
       "current_price": 26.74,
       "analysis": "",
-      "news_count": 4
+      "news_count": 2
     },
     {
       "symbol": "PTRN",
@@ -463,7 +463,7 @@
       "confidence": null,
       "scores": {
         "fundamental": 4,
-        "technical": 1,
+        "technical": 2,
         "risk": 3
       },
       "current_price": 211.99,
@@ -737,7 +737,7 @@
       "scores": {
         "fundamental": 2,
         "technical": 4,
-        "risk": 3
+        "risk": 2
       },
       "current_price": 11.69,
       "analysis": "",
@@ -812,8 +812,12 @@
       "symbol": "DDS",
       "recommendation": "unknown",
       "confidence": null,
-      "scores": {},
-      "current_price": null,
+      "scores": {
+        "fundamental": 3,
+        "technical": 3,
+        "risk": 3
+      },
+      "current_price": 550.93,
       "analysis": "",
       "news_count": 0
     },
@@ -821,8 +825,12 @@
       "symbol": "DELL",
       "recommendation": "unknown",
       "confidence": null,
-      "scores": {},
-      "current_price": null,
+      "scores": {
+        "fundamental": 2,
+        "technical": 3,
+        "risk": 4
+      },
+      "current_price": 396.34,
       "analysis": "",
       "news_count": 0
     },
@@ -871,7 +879,7 @@
       "confidence": null,
       "scores": {
         "fundamental": 3,
-        "technical": 2,
+        "technical": 1,
         "risk": 4
       },
       "current_price": 407.11,
@@ -1105,7 +1113,7 @@
       "confidence": null,
       "scores": {
         "fundamental": 4,
-        "technical": 5,
+        "technical": 4,
         "risk": 2
       },
       "current_price": 15.26,
@@ -1142,7 +1150,11 @@
       "symbol": "IAC",
       "recommendation": "unknown",
       "confidence": null,
-      "scores": {},
+      "scores": {
+        "fundamental": 2,
+        "technical": 3,
+        "risk": 1
+      },
       "current_price": 42.24,
       "analysis": "",
       "news_count": 0
@@ -1565,7 +1577,7 @@
       "confidence": null,
       "scores": {
         "fundamental": 3,
-        "technical": 1,
+        "technical": 2,
         "risk": 3
       },
       "current_price": 171.78,

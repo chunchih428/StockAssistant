@@ -1,0 +1,65 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy",
+  "analysis_date": "2026-07-17",
+  "source_file": "cache/2026-07-17/holdings/news/CEG.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 0,
+    "overall_sentiment": "mixed",
+    "key_theme": "AI 帶動的電力需求成長為 CEG 提供長期結構性利多，但近期面臨紐約州數據中心禁令的監管風險與股價回調壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Will Constellation Benefit From America's Rising Electricity Needs?",
+      "publisher": "Yahoo",
+      "date": "2026-07-13 16:12",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "CEG 透過新增近 10 GW 的電力容量，直接受惠於 AI 數據中心與製造業電氣化帶來的電力需求激增，具備強勁的基本面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Constellation Energy Is Helping Solve the AI Power Crunch. Here's Why You Shouldn't Hesitate to Buy It Right Now.",
+      "publisher": "Yahoo",
+      "date": "2026-07-11 18:35",
+      "impact": "medium",
+      "category": "投資建議",
+      "reason": "分析指出 CEG 股價近期從高估值水平回調，提供了更具吸引力的進場點，且其在解決 AI 電力瓶頸中的角色至關重要。"
+    },
+    {
+      "rank": 3,
+      "title": "Beyond the Foundry: 5 Infrastructure Stocks Tackling the AI Bottlenecks",
+      "publisher": "Yahoo",
+      "date": "2026-07-14 13:00",
+      "impact": "low",
+      "category": "產業趨勢",
+      "reason": "將 CEG 列為解決 AI 基礎設施瓶頸的關鍵企業之一，強化了市場對其作為 AI 能源供應商的長期定位。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "BlackRock CEO Larry Fink Warned of an AI Power Crunch—New York Just Halted Large Data Centers: CEG, VST, NEE in Focus",
+      "publisher": "Benzinga",
+      "date": "2026-07-16 03:40",
+      "impact": "high",
+      "category": "法規與政策",
+      "reason": "紐約州暫停大型數據中心建設的禁令，直接挑戰了市場對電力需求持續擴張的預期，對 CEG 等電力股構成潛在監管風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Constellation Energy Corporation (CEG) Dipped More Than Broader Market Today",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 21:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日下跌 2.46 %，表現弱於大盤，反映出投資人對近期監管消息與高估值修正的擔憂，短期賣壓顯現。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}
