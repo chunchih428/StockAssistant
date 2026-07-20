@@ -1,0 +1,56 @@
+{
+  "ticker": "FFIV",
+  "company": "F5",
+  "analysis_date": "2026-07-20",
+  "source_file": "cache/2026-07-20/candidates/news/FFIV.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "F5 展現強勁的市場動能與技術創新，透過 AI 網路安全解決方案與高層人事調整持續強化競爭優勢。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "F5 Advances Frontier AI Cyber Resilience With New Fleet Management Capabilities",
+      "publisher": "Yahoo",
+      "date": "2026-07-15 13:00",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "F5 推出針對 AI 網路安全的新型車隊管理功能，顯示公司在 AI 應用領域的技術領先地位，有助於提升其在 API 與應用安全市場的市占率。"
+    },
+    {
+      "rank": 2,
+      "title": "F5 (FFIV): Buy, Sell, or Hold Post Q1 Earnings?",
+      "publisher": "Yahoo",
+      "date": "2026-07-13 20:30",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "過去 6 個月股價上漲 59.6 %，反映市場對其 Q1 財報表現的高度認可，強勁的財務動能為股價提供支撐。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "F5 Appoints Cathy Peterman as Chief People Officer",
+      "publisher": "Yahoo",
+      "date": "2026-07-13 16:01",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "任命 Cathy Peterman 為首席人力資源長屬於常規性高層人事調整，對短期股價影響有限，主要關注其後續組織文化與人才策略。"
+    },
+    {
+      "rank": 2,
+      "title": "PD or FFIV: Which Is the Better Value Stock Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-07-13 15:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此類文章為市場比較分析，旨在探討價值投資標的，並非針對 F5 本身發布重大營運消息，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-07-20",
+  "source_file": "cache/2026-07-20/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司憑藉強勁的 AI 安全業務擴張與歐洲戰略合作，獲得華爾街分析師調升目標價，儘管估值偏高但成長動能持續受到市場青睞。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Citigroup Maintains Buy on CrowdStrike Holdings, Raises Price Target to $250",
+      "publisher": "Benzinga",
+      "date": "2026-07-16 16:23",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Fatima Boolani 維持買入評級並將目標價調升至 250 美元，顯示華爾街對其長期成長潛力的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Stifel Maintains Buy on CrowdStrike Holdings, Raises Price Target to $230",
+      "publisher": "Benzinga",
+      "date": "2026-07-17 08:40",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師 Adam Borg 調升目標價至 230 美元，反映出市場對公司在網路安全領域競爭優勢的認可。"
+    },
+    {
+      "rank": 3,
+      "title": "CrowdStrike and Schwarz Digits Expand Strategic Partnership to Deliver Sovereign Cybersecurity Across Europe",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 12:37",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "與 Schwarz Digits 的合作有助於擴大在歐洲市場的市占率，並強化主權網路安全解決方案的佈局。"
+    },
+    {
+      "rank": 4,
+      "title": "Frost & Sullivan: CrowdStrike Named Company of the Year for Identity Threat Detection and Response",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 17:00",
+      "impact": "low",
+      "category": "產業獎項",
+      "reason": "獲選為年度最佳公司，進一步鞏固了其在身分威脅偵測與回應領域的技術領先地位。"
+    },
+    {
+      "rank": 5,
+      "title": "CrowdStrike Eyes Next Act As AI Security Business Takes Shape",
+      "publisher": "Yahoo",
+      "date": "2026-07-17 12:00",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "AI 安全業務被視為公司繼端點防護後的下一個主要成長引擎，具備長期獲利潛力。"
+    },
+    {
+      "rank": 6,
+      "title": "CrowdStrike Appoints AJ Shipley as Chief Product Officer",
+      "publisher": "Yahoo",
+      "date": "2026-07-15 12:04",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "任命 AJ Shipley 為首席產品長，有助於強化產品研發策略的執行力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike (CRWD) Stock Looks Fully Priced Despite Strong 3 Year Returns",
+      "publisher": "Yahoo",
+      "date": "2026-07-17 02:16",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場分析指出該股目前估值已趨於飽和，儘管過去三年表現優異，但進一步上漲空間可能受限。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike Holdings (CRWD) Stock Drops Despite Market Gains: Important Facts to Note",
+      "publisher": "Yahoo",
+      "date": "2026-07-15 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價在市場整體上漲時出現 1.88% 的回調，顯示短期內存在獲利了結的賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike vs. NVIDIA: Which Growth Tech Stock Is a Better Buy in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-07-17 21:59",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此類文章為常見的投資組合比較分析，旨在探討不同成長股的估值與獲利差異，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Stocks making big moves this week: HCA Healthcare, UnitedHealth, CrowdStrike, RXO, and Enovis",
+      "publisher": "Yahoo",
+      "date": "2026-07-17 20:57",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場熱門股的盤點報導，缺乏具體基本面變動資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

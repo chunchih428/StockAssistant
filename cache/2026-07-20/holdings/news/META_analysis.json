@@ -1,0 +1,102 @@
+{
+  "ticker": "META",
+  "company": "Meta",
+  "analysis_date": "2026-07-20",
+  "source_file": "cache/2026-07-20/holdings/news/META.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "Meta 透過與 Anthropic 洽談 100 億美元 AI 算力租賃合約及自研 Iris AI 晶片量產，展現其在 AI 基礎設施領域的變現潛力與技術領先地位。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Meta Reportedly In Talks With Anthropic Over a $10 Billion AI Deal",
+      "publisher": "Yahoo",
+      "date": "2026-07-18 15:05",
+      "impact": "high",
+      "category": "商業合作",
+      "reason": "Meta 擬將閒置的 AI 算力租賃給 Anthropic，預計合約價值達 100 億美元，此舉將有效提升公司 AI 基礎設施的資本回報率 (ROIC)。"
+    },
+    {
+      "rank": 2,
+      "title": "Mark Zuckerberg's Meta Is Putting Its In-House Iris AI Chip Into Production in September",
+      "publisher": "Yahoo",
+      "date": "2026-07-18 07:02",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Meta 自研 Iris AI 晶片將於 9 月量產，目標將運算能力提升至 14 吉瓦 (GW)，顯示公司在降低對外部供應商依賴及提升長期成長動能的決心。"
+    },
+    {
+      "rank": 3,
+      "title": "Meta Platforms Is Up 21% This Month, and Here Is What's Driving the Surge",
+      "publisher": "Yahoo",
+      "date": "2026-07-18 19:50",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Meta 本月股價強勢上漲 21%，市值增加 2,700 億美元，反映市場對其 AI 策略執行力的信心增強。"
+    },
+    {
+      "rank": 4,
+      "title": "The 3 Biggest Bargain \"Magnificent Seven\" Stocks to Buy Today",
+      "publisher": "Yahoo",
+      "date": "2026-07-19 09:20",
+      "impact": "low",
+      "category": "投資評級",
+      "reason": "分析師認為 Meta 目前估值偏低，在「科技七巨頭」中具備良好的投資性價比。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Meta (META) Faces Employee Lawsuit Over AI Assisted Layoffs",
+      "publisher": "Yahoo",
+      "date": "2026-07-17 11:13",
+      "impact": "medium",
+      "category": "法律訴訟",
+      "reason": "員工針對 AI 輔助裁員提起聯邦訴訟，可能引發勞資糾紛及監管機構對 AI 應用倫理的關注。"
+    },
+    {
+      "rank": 2,
+      "title": "Big Tech's $182 Billion AI Debt Spree: How META, NVDA and AMZN Are Reshaping Credit Markets",
+      "publisher": "Yahoo",
+      "date": "2026-07-18 10:01",
+      "impact": "low",
+      "category": "財務風險",
+      "reason": "科技巨頭為擴張 AI 基礎設施進行大規模舉債，在利率波動環境下可能增加公司的財務槓桿風險。"
+    },
+    {
+      "rank": 3,
+      "title": "Meta Platforms: AI Return on Invested Capital Is Uncertain",
+      "publisher": "Yahoo",
+      "date": "2026-07-17 20:29",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "市場對 Meta 在 AI 領域的高額資本支出能否轉化為長期穩定獲利仍存有疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Why Meta (META) Shares Are Trading Lower Today",
+      "publisher": "Yahoo",
+      "date": "2026-07-17 22:57",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價下跌 3.1% 主要受大盤整體拋售影響，而非公司基本面出現重大惡化。"
+    },
+    {
+      "rank": 2,
+      "title": "Meta Platforms’ (META) Capital Allocation Strategy",
+      "publisher": "Yahoo",
+      "date": "2026-07-17 14:10",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "投資機構對 Meta 的資本配置策略進行常規性回顧，未提出具體利多或利空觀點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

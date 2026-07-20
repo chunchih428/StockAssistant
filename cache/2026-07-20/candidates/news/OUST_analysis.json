@@ -1,0 +1,57 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-07-20",
+  "source_file": "cache/2026-07-20/candidates/news/OUST.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司在獲得分析師調升目標價的同時，面臨股權稀釋壓力與市場對 EBITDA 損益平衡點的獲利能力質疑。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Oppenheimer Maintains Outperform on Ouster, Raises Price Target to $57",
+      "publisher": "Benzinga",
+      "date": "2026-07-15 13:19",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Oppenheimer 分析師 Colin Rusch 維持 Ouster 的「優於大盤」評級，並將目標價從 $42 大幅調升至 $57，顯示市場對其長期成長潛力與技術競爭力持高度樂觀態度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ouster (OUST) Drops On Share Offering As Fair Value Still Suggests Some Upside",
+      "publisher": "Simply Wall St.",
+      "date": "2026-07-12 01:08",
+      "impact": "high",
+      "category": "股權融資",
+      "reason": "公司進行股票增發導致股價下跌，市場通常對股權稀釋持負面反應，儘管估值模型顯示仍有潛在上升空間，但短期籌碼面壓力顯著。"
+    },
+    {
+      "rank": 2,
+      "title": "Ouster, Inc. (OUST) Stock Slides as Market Rises: Facts to Know Before You Trade",
+      "publisher": "Zacks",
+      "date": "2026-07-10 22:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "在整體市場上漲背景下，Ouster 股價卻出現逆勢下跌，反映出投資人對該公司短期股價表現的信心不足，以及市場對其交易動能的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "What Will it Take for Ouster to Reach Breakeven EBITDA?",
+      "publisher": "Zacks",
+      "date": "2026-07-16 15:15",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "該報導探討公司達成 EBITDA 損益平衡的關鍵路徑，屬於中性的財務基本面分析，旨在釐清獲利能力的時間表，並未直接帶來利多或利空消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

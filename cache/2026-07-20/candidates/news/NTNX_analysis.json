@@ -1,0 +1,75 @@
+{
+  "ticker": "NTNX",
+  "company": "Nutanix, Inc.",
+  "analysis_date": "2026-07-20",
+  "source_file": "cache/2026-07-20/candidates/news/NTNX.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 4,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "Nutanix 透過與 GigaIO 合作拓展邊緣運算 AI 應用，並發布針對受監管產業的 AI 風險調查報告，市場普遍看好其長期成長潛力與估值空間。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Is Nutanix (NTNX) Cheap Following Its New AI Edge And Regulated Industry Push?",
+      "publisher": "Yahoo",
+      "date": "2026-07-17 17:10",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "該報導綜合了 AI 邊緣運算進展與受監管產業調查，指出 Nutanix 在技術與市場定位上具備優勢，且當前估值被視為具有吸引力，為投資人提供正面訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "Nutanix (NTNX) Brings Enterprise AI To The Tactical Edge With GigaIO",
+      "publisher": "Yahoo",
+      "date": "2026-07-17 12:12",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Nutanix Kubernetes Platform 與 GigaIO 邊緣運算平台完成驗證，有助於解決企業在邊緣端部署生成式 AI 的最後一哩路，強化其技術護城河。"
+    },
+    {
+      "rank": 3,
+      "title": "Healthcare, Financial Services, and Public Sector Industries Face Greatest Risks in Shadow AI and Data Sovereignty, New Nutanix Data Shows",
+      "publisher": "Yahoo",
+      "date": "2026-07-15 13:00",
+      "impact": "medium",
+      "category": "市場研究",
+      "reason": "透過發布針對醫療、金融與公共部門的 AI 風險報告，Nutanix 成功建立其在數據主權與安全領域的專業形象，有助於吸引高監管產業客戶。"
+    },
+    {
+      "rank": 4,
+      "title": "GigaIO’s Edge Platforms Now Verified for Nutanix Kubernetes Platform and Enterprise AI",
+      "publisher": "Yahoo",
+      "date": "2026-07-14 18:09",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "此為與 GigaIO 合作的詳細技術公告，確認了技術整合的完成，進一步落實其企業級 AI 策略。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Nutanix (NTNX) Stock Could Be 31% Undervalued Following Shadow AI Risk News",
+      "publisher": "Yahoo",
+      "date": "2026-07-17 02:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "雖然標題提及 31% 的低估空間，但內容強調了「影子 AI」帶來的潛在風險，顯示市場對其技術擴張伴隨的資安挑戰仍存有疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Nutanix (NTNX) Stock Declines While Market Improves: Some Information for Investors",
+      "publisher": "Yahoo",
+      "date": "2026-07-15 21:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅單純報導股價單日下跌 1.6% 的市場波動，未涉及公司基本面變動，屬於正常的市場價格調整。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
