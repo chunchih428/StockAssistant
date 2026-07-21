@@ -1,0 +1,102 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla",
+  "analysis_date": "2026-07-20",
+  "source_file": "cache/2026-07-20/holdings/news/TSLA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 3,
+    "bearish_count": 7,
+    "neutral_count": 10,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場高度關注 Tesla 即將公布的財報，多空觀點分歧，同時面臨地緣政治風險與競爭對手產品的挑戰。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "TSLA Stock Rises Overnight On Germany Ramp Ahead Of Q2: Analyst Sees 10% Delivery Jump This Year, Improving Margins",
+      "publisher": "Yahoo",
+      "date": "2026-07-20 01:57",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "分析師預期交付量將成長 10 % 且利潤率改善，投資人聚焦於 Cybertruck 與 FSD 15 等關鍵產品進展。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla stock: How much does an improved auto business matter?",
+      "publisher": "Yahoo",
+      "date": "2026-07-18 23:44",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "汽車業務表現改善有助於提升短期獲利，並為其人工智慧領域的投資提供資金支持。"
+    },
+    {
+      "rank": 3,
+      "title": "Elon Musk's Tesla Remains One of the Last Great Founder-Led Tech Giants. Is the Stock a Buy Before July 22?",
+      "publisher": "Yahoo",
+      "date": "2026-07-19 19:25",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "強調創辦人領導風格的長期價值，探討財報公布前的買入機會。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Tesla Heads Into Its July 22 Earnings Down 22%, and One Firm Sees a 67% Plunge From Here. Who's Right?",
+      "publisher": "Yahoo",
+      "date": "2026-07-19 15:03",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價已下跌 22 %，且有機構預測未來仍有 67 % 的下跌空間，市場對財報預期極度分歧。"
+    },
+    {
+      "rank": 2,
+      "title": "Mercedes Benz (XTRA:MBG) Unveils CLA 250 Plus To Take On Tesla Model 3",
+      "publisher": "Yahoo",
+      "date": "2026-07-19 21:07",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Mercedes-Benz 推出 CLA 250 + 直接挑戰 Model 3 市場份額，對 Tesla 的產品競爭力構成威脅。"
+    },
+    {
+      "rank": 3,
+      "title": "Elon Musk’s Net Worth Slumps Amid Tesla, SpaceX Crash",
+      "publisher": "Benzinga",
+      "date": "2026-07-18 17:56",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "反映公司股價近期疲軟，導致創辦人身價縮水，可能影響市場信心。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "What to Expect in Markets This Week: Alphabet, Tesla and Intel Headline Big Tech Earnings Reports",
+      "publisher": "Yahoo",
+      "date": "2026-07-19 11:00",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "作為本週科技股財報的重頭戲，市場正處於觀望狀態，等待 7 月 22 日的財報結果。"
+    },
+    {
+      "rank": 2,
+      "title": "Dow Jones Futures Fall, Oil Prices Jump As U.S.-Iran Attacks Escalate; Google, Tesla Ahead",
+      "publisher": "Yahoo",
+      "date": "2026-07-19 23:54",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "地緣政治風險（伊朗衝突）導致大盤期貨下跌，Tesla 作為大型科技股受到整體市場情緒波動影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Options Actions: Tesla options traders are split ahead of earnings",
+      "publisher": "CNBC",
+      "date": "2026-07-17 17:48",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "選擇權交易員在財報公布前意見分歧，顯示市場對短期波動的預期不確定。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
