@@ -1,0 +1,120 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-07-20",
+  "source_file": "cache/2026-07-20/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 11,
+    "bearish_count": 4,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "Amazon 積極投入 AI 基礎設施與自研晶片，儘管面臨資本支出壓力與高層異動，但其強勁的現金流與市場擴張能力仍獲市場看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Andy Jassy Said Amazon Isn't Investing $200 Billion in AI \"On a Hunch.\" Amazon's Own Trainium Chip Business Is Already Running at a $20 Billion Annual Pace.",
+      "publisher": "Yahoo",
+      "date": "2026-07-19 11:47",
+      "impact": "high",
+      "category": "技術發展",
+      "reason": "執行長 Andy Jassy 強調 AI 投資具備明確的商業回報，特別是 Trainium 晶片業務已達 200 億美元年化營收，證明其 AI 策略具備實質獲利支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon’s $25 Billion Bond Sale Created 3 More Reasons for Me to Keep Buying",
+      "publisher": "Yahoo",
+      "date": "2026-07-18 13:26",
+      "impact": "medium",
+      "category": "財務融資",
+      "reason": "儘管發債 250 億美元引發市場對債務的擔憂，但分析指出這是為擴張 AI 基礎設施進行的戰略性融資，有助於鞏固長期競爭優勢。"
+    },
+    {
+      "rank": 3,
+      "title": "Anthropic's Potential $1.2 Trillion IPO Could Make This Stock a Major Beneficiary",
+      "publisher": "Yahoo",
+      "date": "2026-07-19 23:50",
+      "impact": "medium",
+      "category": "投資佈局",
+      "reason": "Amazon 持有 Anthropic 大量股份，若後者成功進行高估值 IPO，將為 Amazon 帶來顯著的投資收益與資產增值。"
+    },
+    {
+      "rank": 4,
+      "title": "Amazon just beat Starlink to a market Musk can't crack",
+      "publisher": "Yahoo",
+      "date": "2026-07-17 18:47",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "Amazon 在特定市場競爭中擊敗 SpaceX 的 Starlink，顯示其在衛星通訊與基礎設施領域的執行力優於預期。"
+    },
+    {
+      "rank": 5,
+      "title": "Amazon (AMZN) Is Cutting Prices On 13,000 Grocery Items To Win More Shoppers",
+      "publisher": "Yahoo",
+      "date": "2026-07-19 16:07",
+      "impact": "low",
+      "category": "市場擴張",
+      "reason": "透過調降 1.3 萬項雜貨商品價格，展現 Amazon 在零售領域爭取市佔率的積極態度，有助於提升用戶黏著度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Amazon senior cloud executive departs after 18 years",
+      "publisher": "CNBC",
+      "date": "2026-07-15 14:23",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "AWS 資深高管離職，該主管曾負責機器學習與運算單元，其離職可能對 AWS 的技術創新節奏造成短期不確定性。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon's Zoox issues software recall after robotaxi drove into heavy smoke",
+      "publisher": "CNBC",
+      "date": "2026-07-17 10:40",
+      "impact": "low",
+      "category": "產品安全",
+      "reason": "自動駕駛子公司 Zoox 因安全事故進行軟體召回，雖影響有限，但凸顯自動駕駛技術在複雜環境下的監管與安全風險。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon closes another major facility, nearly 500 workers affected",
+      "publisher": "Yahoo",
+      "date": "2026-07-19 21:47",
+      "impact": "low",
+      "category": "營運調整",
+      "reason": "關閉物流設施並裁員 500 人，反映公司在追求獲利效率的過程中，持續進行物流網絡的優化與成本控制。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Amazon’s Trillion-Dollar Capex Gamble vs Shopify’s Lean Profitability Strategy",
+      "publisher": "Yahoo",
+      "date": "2026-07-19 18:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 Amazon 的高資本支出策略與 Shopify 的輕資產模式進行對比，屬於市場觀點分析，無直接股價驅動影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Worried Investors Should Buy Apple Over Amazon for the Rest of 2026",
+      "publisher": "Yahoo",
+      "date": "2026-07-19 14:10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "投資建議類文章，比較 Apple 與 Amazon 的投資價值，屬市場觀點分歧，對股價影響中性。"
+    },
+    {
+      "rank": 3,
+      "title": "Big Tech's $182 Billion AI Debt Spree: How META, NVDA and AMZN Are Reshaping Credit Markets",
+      "publisher": "Yahoo",
+      "date": "2026-07-18 10:01",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討科技巨頭集體發債對信貸市場的影響，屬於宏觀經濟層面的報導，對 Amazon 個股影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

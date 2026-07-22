@@ -1,0 +1,120 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-07-20",
+  "source_file": "cache/2026-07-20/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Apple 憑藉強勁的 AI 策略轉型與市場領導地位，股價創下歷史新高，並獲得分析師上調評級與機構投資人青睞。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "5 big analyst AI moves: Apple upgraded as HSBC flags ’operational turning point’",
+      "publisher": "Yahoo",
+      "date": "2026-07-19 09:30",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "匯豐銀行 (HSBC) 將 Apple 評級上調，認為其在 AI 領域的執行力已達「營運轉折點」，為股價提供強勁支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple Intelligence Just Got the Green Light in China. What That Means for AAPL Stock.",
+      "publisher": "Yahoo",
+      "date": "2026-07-19 14:00",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "Apple 與阿里巴巴合作成功將 Apple Intelligence 引入中國市場，消除了關鍵監管障礙，大幅擴展了 AI 服務的潛在用戶群。"
+    },
+    {
+      "rank": 3,
+      "title": "Gene Munster Says New Siri AI Makes It Feel 'Like Having a New Phone,' Ming-Chi Kuo Says Stock Rally Was Expected as Apple Stock Touches Record High",
+      "publisher": "Yahoo",
+      "date": "2026-07-18 13:30",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "市場對新版 Siri AI 的正面回饋與分析師預期相符，推動股價觸及歷史新高，顯示硬體升級週期帶來的換機需求強勁。"
+    },
+    {
+      "rank": 4,
+      "title": "Apple’s stunning Nvidia flip reveals where AI money is moving",
+      "publisher": "Yahoo",
+      "date": "2026-07-20 02:03",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Apple 短暫超越 Nvidia 成為全球市值最高公司，反映資金從純硬體基礎設施轉向具備軟體生態與終端應用能力的科技巨頭。"
+    },
+    {
+      "rank": 5,
+      "title": "Under Greg Abel, Apple and Alphabet Now Make Up Nearly 30% of Berkshire Hathaway's $348 Billion Stock Portfolio.",
+      "publisher": "Yahoo",
+      "date": "2026-07-19 08:51",
+      "impact": "medium",
+      "category": "機構持倉",
+      "reason": "波克夏海瑟威 (Berkshire Hathaway) 在 Greg Abel 領導下持續重倉 Apple，顯示長期價值投資人對其基本面與現金流的高度信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Apple, DOJ in early talks to settle iPhone antitrust case",
+      "publisher": "CNBC",
+      "date": "2026-07-17 13:30",
+      "impact": "medium",
+      "category": "法律訴訟",
+      "reason": "儘管進入和解談判，但與美國司法部 (DOJ) 的反壟斷訴訟仍是潛在的監管風險，可能影響 Apple 的封閉生態系統策略。"
+    },
+    {
+      "rank": 2,
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "publisher": "Yahoo",
+      "date": "2026-07-19 19:24",
+      "impact": "low",
+      "category": "法律訴訟",
+      "reason": "Apple 的法律行動可能對合作夥伴或競爭對手的硬體計畫造成不確定性，間接引發市場對其法律策略的關注。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple raises prices on key subscription services",
+      "publisher": "Yahoo",
+      "date": "2026-07-18 17:09",
+      "impact": "low",
+      "category": "營運策略",
+      "reason": "調漲訂閱服務價格雖能增加營收，但在通膨環境下可能引發消費者反彈，影響服務部門的用戶成長率。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Final Trades: Apple, Rio Tinto and UnitedHealth",
+      "publisher": "CNBC",
+      "date": "2026-07-17 13:29",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為投資委員會的例行性觀察名單，未提供具體的買賣建議或基本面分析。"
+    },
+    {
+      "rank": 2,
+      "title": "Alphabet vs. Apple: Which Warren Buffett Favorite Is the Better Stock to Buy Today?",
+      "publisher": "Yahoo",
+      "date": "2026-07-19 10:25",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "屬於兩家科技巨頭的比較分析，旨在提供投資人配置建議，對 Apple 本身股價無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "A Hidden Threat for Micron? Apple Is Eyeing a Fix for AI Memory Demands",
+      "publisher": "Yahoo",
+      "date": "2026-07-19 17:35",
+      "impact": "low",
+      "category": "供應鏈",
+      "reason": "新聞重點在於對 Micron 的潛在影響，Apple 僅作為尋求記憶體成本優化的買方角色，對其自身影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

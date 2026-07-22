@@ -1,0 +1,102 @@
+{
+  "ticker": "MU",
+  "company": "Micron Technology",
+  "analysis_date": "2026-07-20",
+  "source_file": "cache/2026-07-20/holdings/news/MU.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 6,
+    "neutral_count": 2,
+    "overall_sentiment": "mixed",
+    "key_theme": "Micron 積極擴展車用 AI 記憶體市場並簽署長期供應合約，但短期受台積電資本支出擔憂及半導體類股獲利了結賣壓影響。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Micron (MU) Reaches $1 Trillion Value As Auto AI Deals Deepen",
+      "publisher": "Yahoo",
+      "date": "2026-07-19 23:11",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "公司市值首度突破 1 兆美元大關，顯示市場對其在 AI 記憶體領域的領導地位與長期成長潛力給予極高估值肯定。"
+    },
+    {
+      "rank": 2,
+      "title": "MU Expands AI Memory Beyond Data Centers Into Next-Gen Cars — Locks In QCOM, Hyundai Mobis, And Other Auto Suppliers",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 14:38",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "與 Qualcomm、Hyundai Mobis 等 7 家一級車用供應商簽署長期策略客戶協議 (SCA)，有效提升未來營收能見度與產能規劃。"
+    },
+    {
+      "rank": 3,
+      "title": "Micron Technology: Record DRAM Pricing Meets A Stock In Retreat",
+      "publisher": "Yahoo",
+      "date": "2026-07-17 14:44",
+      "impact": "medium",
+      "category": "財報與營運",
+      "reason": "公司鎖定歷史高點的 DRAM 價格簽署五年期供應合約，確保了在記憶體週期中的獲利能力。"
+    },
+    {
+      "rank": 4,
+      "title": "Micron Technology (MU): Memory Powerhouse Driving the AI Boom",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 18:18",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析師看好 Micron 作為 AI 基礎設施關鍵供應商，在 2026 年下半年的成長動能。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "S&P 500, Nasdaq, Dow End Lower As Chip Stocks Slide On TSMC Capex Concerns — TSM, MU, NVDA, UNH, GOOGL In Focus",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 21:31",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "台積電對資本支出的擔憂引發市場對 AI 基礎設施建設短期利潤率的疑慮，導致半導體類股集體回檔。"
+    },
+    {
+      "rank": 2,
+      "title": "MU, SNDK, INTC, AMD, Other Chip Stocks Extend Slide – Retail Traders Still Buying The Memory Theme",
+      "publisher": "Yahoo",
+      "date": "2026-07-17 08:56",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "投資人出現獲利了結跡象，資金從高漲的 AI 晶片股轉向估值較低的軟體與網路類股，造成股價短期壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Did Micron Technology Stock Fall 8%?",
+      "publisher": "Yahoo",
+      "date": "2026-07-16 17:36",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "反映市場對半導體產業整體估值過高的修正，即便公司基本面強勁，仍難以抵擋大盤拋售潮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Evaluating Micron Technology Against Peers In Semiconductors & Semiconductor Equipment Industry",
+      "publisher": "Benzinga",
+      "date": "2026-07-17 05:58",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "針對同業競爭力的常規性分析報告，未提供新的重大催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "SK Hynix, AST SpaceMobile, SpaceX: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+      "publisher": "Benzinga",
+      "date": "2026-07-18 09:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅提及 Micron 為散戶社群討論熱門標的，屬於市場情緒觀察，對股價無直接基本面影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

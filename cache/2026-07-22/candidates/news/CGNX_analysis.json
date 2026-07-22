@@ -1,0 +1,84 @@
+{
+  "ticker": "CGNX",
+  "company": "Cognex",
+  "analysis_date": "2026-07-20",
+  "source_file": "cache/2026-07-20/candidates/news/CGNX.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對 Cognex 在 AI 工廠自動化領域的成長潛力持樂觀態度，但對於目前股價是否已過度反映基本面存在估值分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Prepare for the Next Wave of Factory Automation With These 3 Standout Names",
+      "publisher": "Yahoo",
+      "date": "2026-07-14",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "文章指出 Cognex 受惠於 AI 驅動的工廠自動化需求，屬於該產業的領先企業，具備強勁的成長動能。"
+    },
+    {
+      "rank": 2,
+      "title": "Cognex Corp (NASDAQ:CGNX) Presents a High Growth Momentum Breakout Setup",
+      "publisher": "ChartMill",
+      "date": "2026-07-16",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "技術面顯示該股呈現高成長動能的突破型態，評級為 9，吸引動能交易者關注。"
+    },
+    {
+      "rank": 3,
+      "title": "Are Computer and Technology Stocks Lagging Cognex (CGNX) This Year?",
+      "publisher": "Zacks",
+      "date": "2026-07-10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導強調 Cognex 今年表現優於整體電腦與科技類股，顯示其相對強勢的市場地位。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cognex (CGNX) Stock Looks Overvalued On Cash Flow And Earnings",
+      "publisher": "Yahoo",
+      "date": "2026-07-17",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "儘管過去一年股價漲幅達 90.3%，但 DCF 模型顯示股價已高於內在價值，暗示短期回調風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Cognex (CGNX) Could Be 16% Undervalued On August 5 Earnings Release",
+      "publisher": "Yahoo",
+      "date": "2026-07-17",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "雖然標題提及低估，但內容主要圍繞財報發布前的波動性與市場預期，與另一篇估值報告形成多空對比，故列入觀察。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Citigroup Maintains Neutral on Cognex, Raises Price Target to $72",
+      "publisher": "Benzinga",
+      "date": "2026-07-13",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "花旗分析師 Piyush Avasthy 維持中立評級，雖調升目標價至 72 美元，但反映出對股價漲幅空間的審慎態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Cognex Announces Second Quarter 2026 Earnings Release and Conference Call Dates",
+      "publisher": "Yahoo",
+      "date": "2026-07-16",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "僅為例行性的財報日期公告，屬於市場預期內的資訊，對股價無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

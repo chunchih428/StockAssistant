@@ -1,0 +1,93 @@
+{
+  "ticker": "IBIT",
+  "company": "Bitcoin",
+  "analysis_date": "2026-07-20",
+  "source_file": "cache/2026-07-20/holdings/news/IBIT.json",
+  "summary": {
+    "total_articles": 14,
+    "bullish_count": 6,
+    "bearish_count": 4,
+    "neutral_count": 4,
+    "overall_sentiment": "mixed",
+    "key_theme": "比特幣價格在 65,000 美元關卡震盪，市場在聯準會降息預期帶來的資金流入與技術性回調壓力之間拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bitcoin Price to $500K or $1M? Larry Fink Says ‘Very Bullish’ as BlackRock Clients Buy $139M BTC",
+      "publisher": "CCN",
+      "date": "2026-07-16 08:38",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "貝萊德執行長 Larry Fink 對比特幣長期前景表達強烈看好，且機構客戶持續買入 1.39 億美元，顯示長期資金配置信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Crypto ETFs End 8-Week Outflow Streak With $282M Inflows as Bitcoin and Ethereum Demand Rebounds",
+      "publisher": "CCN",
+      "date": "2026-07-14 10:34",
+      "impact": "high",
+      "category": "資金流向",
+      "reason": "加密貨幣 ETF 終結連續 8 週的資金流出，錄得 2.82 億美元淨流入，顯示市場需求回溫。"
+    },
+    {
+      "rank": 3,
+      "title": "Bitcoin Tops $65,000 as dovish Fed remarks and soft inflation data lift prices",
+      "publisher": "Benzinga",
+      "date": "2026-07-15 11:34",
+      "impact": "medium",
+      "category": "總體經濟",
+      "reason": "美國通膨數據疲軟降低了聯準會升息預期，有利於風險資產表現，直接推動比特幣價格突破 65,000 美元。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "‘BlackRock Dumped $185M in Bitcoin’ Claim Fuels ETF Panic as Trading Hits Cycle Lows",
+      "publisher": "BeInCrypto",
+      "date": "2026-07-15 04:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場出現關於貝萊德拋售比特幣的傳言，引發投資人恐慌，導致交易量降至週期低點。"
+    },
+    {
+      "rank": 2,
+      "title": "A Concerning Development For Bitcoin: Extended Chain Split",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-15 11:22",
+      "impact": "medium",
+      "category": "技術風險",
+      "reason": "由於 BIP 110 軟分叉帶來的不確定性，分析師將比特幣評級從「強力買入」下調至「買入」。"
+    },
+    {
+      "rank": 3,
+      "title": "Bitcoin Breaks Tech Stocks Correlation: Will BTC Now Follow in Gold's Footsteps?",
+      "publisher": "Benzinga",
+      "date": "2026-07-17 16:41",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "IBIT 的回調被視為可能進入類似黃金的繁榮-蕭條週期，暗示短期內可能面臨較長的修復期。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Bitcoin Is its Most Affordable in Two Years. Which ETF Is Better to Invest With Now: iShares Bitcoin Trust ETF or VanEck Bitcoin ETF?",
+      "publisher": "Motley Fool",
+      "date": "2026-07-18 14:30",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "文章旨在比較 IBIT 與其他競爭對手 ETF 的優劣，並未對 IBIT 本身給出明確的買賣建議，僅提供投資者參考。"
+    },
+    {
+      "rank": 2,
+      "title": "Bitwise Bitcoin ETF: Efficient Execution, But Distribution Matters",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-15 10:52",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "分析指出 Bitwise 在費用與價差上與 IBIT 等龍頭產品競爭，屬中性產業競爭分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

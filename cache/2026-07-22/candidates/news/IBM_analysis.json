@@ -1,0 +1,93 @@
+{
+  "ticker": "IBM",
+  "company": "International Business Machines Corporation",
+  "analysis_date": "2026-07-20",
+  "source_file": "cache/2026-07-20/candidates/news/IBM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 1,
+    "bearish_count": 17,
+    "neutral_count": 2,
+    "overall_sentiment": "strongly_bearish",
+    "key_theme": "IBM 因第二季初步財報表現疲軟，導致單日股價重挫 25 %，引發市場對其全年財測下調的擔憂與分析師降評潮。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "IBM (NYSE:IBM) Joins Team ORION For UK Defence Logistics And Digital Frameworks",
+      "publisher": "Yahoo",
+      "date": "2026-07-19 20:06",
+      "impact": "low",
+      "category": "業務合作",
+      "reason": "IBM 加入 Team ORION 聯盟以支持英國國防物流與數位框架，顯示公司在政府與國防領域仍具備業務拓展能力，但對短期股價跌勢的緩解作用有限。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Did IBM Stock Plunge 25% in One Day? Preliminary Q2 Results Were Weak, But Not Terrible",
+      "publisher": "Yahoo",
+      "date": "2026-07-20 00:37",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "IBM 公布疲軟的第二季初步財報，導致單日市值蒸發約 680 億美元，市場高度擔憂公司將在正式財報中下調 2026 年全年財測。"
+    },
+    {
+      "rank": 2,
+      "title": "Oppenheimer Downgraded IBM Following Its Sharp Post-Earnings Drop. What the Warning Means for IBM Stock.",
+      "publisher": "Yahoo",
+      "date": "2026-07-19 15:15",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Oppenheimer 在 IBM 股價重挫後下調評級並撤回目標價，反映華爾街對其未來獲利能力的信心動搖。"
+    },
+    {
+      "rank": 3,
+      "title": "IBM Just Had the Worst Crash in Its 115-Year History. For the Retiree Who Treated It as a Safe Dividend Anchor, That’s the Real Lesson.",
+      "publisher": "Yahoo",
+      "date": "2026-07-19 11:09",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "此次 25 % 的跌幅為 IBM 歷史罕見，嚴重打擊了長期將其視為穩定配息標的的投資人信心，可能導致機構資金流出。"
+    },
+    {
+      "rank": 4,
+      "title": "Why Is IBM Stock Falling Friday? — IBM stock hits $211 as a &#34;death cross&#34; and fresh analyst downgrades signal continued bearish momentum ahead of J",
+      "publisher": "Benzinga",
+      "date": "2026-07-17 14:30",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "技術面出現「死亡交叉」訊號，加上分析師持續降評，顯示市場對 IBM 的賣壓尚未結束，短期動能極度疲弱。"
+    },
+    {
+      "rank": 5,
+      "title": "Chamath Palihapitiya on IBM Stock Drop, AI Spending Concerns: ‘You’re Starting to See a Little Bit of the Wheels Come Off’",
+      "publisher": "Yahoo",
+      "date": "2026-07-17 14:31",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "知名投資人 Chamath Palihapitiya 公開質疑 AI 支出熱潮的持續性，並以 IBM 的崩跌作為市場動能減弱的指標，加劇了市場恐慌。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "IBM Vice Chairman Gary Cohn: Our software is not being disrupted by AI",
+      "publisher": "CNBC",
+      "date": "2026-07-15 12:08",
+      "impact": "low",
+      "category": "高層發言",
+      "reason": "副董事長 Gary Cohn 試圖安撫市場，強調 IBM 軟體業務未受 AI 顛覆，但此類言論在股價重挫背景下顯得蒼白無力，未改變市場悲觀情緒。"
+    },
+    {
+      "rank": 2,
+      "title": "How options traders should play this legacy tech name after its steep pullback",
+      "publisher": "CNBC",
+      "date": "2026-07-15 13:17",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析師針對 IBM 股價大跌後的選擇權交易策略進行討論，屬於中性的市場操作建議，不影響公司基本面。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
