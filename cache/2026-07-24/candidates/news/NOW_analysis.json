@@ -1,0 +1,93 @@
+{
+  "ticker": "NOW",
+  "company": "ServiceNow",
+  "analysis_date": "2026-07-24",
+  "source_file": "cache/2026-07-24/candidates/news/NOW.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "ServiceNow 發布強勁的第二季財報，訂閱營收成長與 AI 相關業務表現亮眼，帶動股價大漲並獲得多家投行上調目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "NOW Stock in Focus as ServiceNow Boosts Annual Forecast",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 19:17",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第二季財報優於預期，且上調全年訂閱營收預測，顯示業務動能強勁，吸引 Cantor Fitzgerald 等機構看好後續漲幅。"
+    },
+    {
+      "rank": 2,
+      "title": "ServiceNow Inc (NOW) Q2 2026 Earnings Call Highlights: Robust Growth in Subscription Revenue",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 05:00",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "訂閱營收成長 23 %，且 AI 相關年度合約價值 (ACV) 超過 10 億美元，證明公司在 AI 轉型領域的市場領導地位。"
+    },
+    {
+      "rank": 3,
+      "title": "JP Morgan Maintains Overweight on ServiceNow, Raises Price Target to $150",
+      "publisher": "Benzinga",
+      "date": "2026-07-23 14:25",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "摩根大通基於強勁的財報表現，維持「加碼」評級並上調目標價，反映市場對其長期成長潛力的信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Bernstein Maintains Outperform on ServiceNow, Raises Price Target to $248",
+      "publisher": "Benzinga",
+      "date": "2026-07-23 15:19",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Bernstein 給出極高的目標價上調，顯示分析師認為 ServiceNow 在企業軟體市場的競爭優勢被低估。"
+    },
+    {
+      "rank": 5,
+      "title": "Experian accelerates AI-first experiences with ServiceNow AI Platform",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 08:00",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "與 Experian 達成合作，進一步驗證 ServiceNow AI 平台的企業應用價值，有助於擴大市佔率。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "UBS Maintains Neutral on ServiceNow, Lowers Price Target to $110",
+      "publisher": "Benzinga",
+      "date": "2026-07-23 15:45",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "瑞銀儘管維持中立，但下調目標價，理由是擔憂市場需求呈現「混合」狀態，對未來成長動能持保留態度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Macquarie Maintains Neutral on ServiceNow, Raises Price Target to $110",
+      "publisher": "Benzinga",
+      "date": "2026-07-23 16:13",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "麥格理維持中立評級，雖小幅上調目標價，但整體立場未改變，反映對估值與成長平衡的謹慎看法。"
+    },
+    {
+      "rank": 2,
+      "title": "ServiceNow CEO: We have a kill switch if AI agents go rogue",
+      "publisher": "CNBC",
+      "date": "2026-07-22 19:37",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "CEO 說明 AI 安全機制，雖屬正面管理，但更多是針對技術風險的防禦性說明，對股價影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

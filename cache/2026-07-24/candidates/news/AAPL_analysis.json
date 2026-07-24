@@ -1,0 +1,120 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-07-24",
+  "source_file": "cache/2026-07-24/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 4,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場高度期待 Apple 即將公布的財報表現，並看好其 AI 策略與硬體更新帶來的長期成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Forget Nvidia. Apple May Be the AI Stock Wall Street Is Quietly Betting On.",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 18:37",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "市場觀點轉向，認為 Apple 的 AI 策略具備獨特競爭力，甚至在市值上短暫超越 Nvidia，顯示投資人對其 AI 變現能力信心增強。"
+    },
+    {
+      "rank": 2,
+      "title": "AAPL Plans Major MacBook, iMac Overhaul To Capitalize On AI-Fueled Demand For High-Performance Devices",
+      "publisher": "Yahoo",
+      "date": "2026-07-22 15:36",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Apple 計劃對 MacBook 與 iMac 進行重大硬體更新，旨在利用 AI 需求推動換機潮，預期將顯著提升高階產品線營收。"
+    },
+    {
+      "rank": 3,
+      "title": "As Wall Street Cuts Tesla, Morgan Stanley Raises Its Apple Target",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 16:30",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "摩根士丹利上調 Apple 目標價，對比 Tesla 的疲軟表現，凸顯 Apple 在營收紀錄與市場穩定性上的優勢。"
+    },
+    {
+      "rank": 4,
+      "title": "Apple Could Seize a Quarter of the Foldable Phone Market in Year One",
+      "publisher": "Benzinga",
+      "date": "2026-07-23 06:28",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "Counterpoint 研究指出 Apple 進入摺疊機市場後，有望在首年即搶佔 25 % 市占率，展現強大的品牌滲透力。"
+    },
+    {
+      "rank": 5,
+      "title": "Apple Maps To Be Integrated Into Upcoming Ford's Universal Electric Vehicle Platform",
+      "publisher": "Benzinga",
+      "date": "2026-07-23 09:04",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "Apple Maps 透過 Mapkit 整合至 Ford 電動車平台，進一步擴展其軟體生態系統至汽車領域。"
+    },
+    {
+      "rank": 6,
+      "title": "Apple turns to Klarna for new device leasing program",
+      "publisher": "CNBC",
+      "date": "2026-07-21 13:07",
+      "impact": "low",
+      "category": "商業模式",
+      "reason": "透過 Klarna 提供裝置租賃方案，有助於降低高價產品門檻，進而提升 iPhone 等核心產品的銷售轉換率。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Samsung ups prices as it launches new foldable smartphones ahead of expected Apple debut",
+      "publisher": "CNBC",
+      "date": "2026-07-22 09:00",
+      "impact": "medium",
+      "category": "競爭對手動態",
+      "reason": "Samsung 發布新款摺疊機，並透過與 Qualcomm 深度合作強化硬體規格，對 Apple 即將推出的摺疊產品構成直接競爭壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple (AAPL) Declines More Than Market: Some Information for Investors",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 1.3 %，表現弱於大盤，反映短期獲利了結賣壓。"
+    },
+    {
+      "rank": 3,
+      "title": "Tech Stocks Forecasts – AAPL, MSFT, and AMZN Face Pre-Market Pullbacks",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 12:13",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受整體科技股盤前疲軟影響，Apple 股價出現短期回調壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "47 Analysts Cover Apple. Their Average Price Target Is Now Below the Stock Price",
+      "publisher": "Yahoo",
+      "date": "2026-07-24 01:32",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "平均目標價低於現價，顯示分析師對短期股價漲幅持保留態度，但仍維持買進評級，多空觀點分歧。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple (AAPL) Earnings Expected to Grow: Should You Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 14:00",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "市場預期財報將有亮眼表現，但投資人仍在等待 7 月 30 日正式公布的數據以確認成長動能。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

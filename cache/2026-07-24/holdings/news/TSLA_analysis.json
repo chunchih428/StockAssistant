@@ -1,0 +1,129 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla",
+  "analysis_date": "2026-07-24",
+  "source_file": "cache/2026-07-24/holdings/news/TSLA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 1,
+    "bearish_count": 16,
+    "neutral_count": 3,
+    "overall_sentiment": "strongly_bearish",
+    "key_theme": "Tesla 第二季財報顯示獲利能力與自由現金流疲軟，市場對其在 AI 與機器人計程車領域的高額資本支出感到擔憂，導致股價大幅重挫。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Dan Ives Says AI Capex Boom Continues 'Full Steam Ahead' After TSLA, GOOGL Earnings",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 11:39",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析師 Dan Ives 認為雖然短期資本支出影響利潤率，但 AI 基礎設施的長期採用趨勢依然強勁，為公司未來成長提供支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Tesla (TSLA) Is Down 18.3% After Record Revenue But Weak Q2 Profitability And Cash Flow",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 23:16",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "儘管營收與交付量創新高，但獲利能力與現金流表現疲軟，導致股價單日跌幅超過 18 %，反映市場對其獲利模式的質疑。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla (TSLA) Stock Trades Down, Here Is Why",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 17:56",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "詳細報導了股價因財報表現不佳而下跌 13 % 的具體原因，強調市場對資本支出過高導致現金流惡化的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Update: Tesla Shares Fall After Q2 Adjusted Earnings Decline, Truist Cuts Price Target",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 13:42",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Truist 因財報獲利下滑而調降目標價，直接影響投資人信心，加劇股價賣壓。"
+    },
+    {
+      "rank": 4,
+      "title": "Alphabet, Tesla Shares Drop as Analysts Warn of Pressures to Free Cash Flow Amid Ballooning CapEx",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 19:47",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析師指出 Tesla 與 Alphabet 面臨相似的資本支出壓力，導致自由現金流受到擠壓，引發科技巨頭估值修正。"
+    },
+    {
+      "rank": 5,
+      "title": "Oppenheimer's Colin Rusch on Tesla's Q2 results: Not seeing results from the shift to physical AI",
+      "publisher": "CNBC",
+      "date": "2026-07-23 06:55",
+      "impact": "medium",
+      "category": "分析師觀點",
+      "reason": "Oppenheimer 分析師指出目前尚未看到 Tesla 在實體 AI 領域的轉型帶來實質財務回報，對公司策略提出質疑。"
+    },
+    {
+      "rank": 6,
+      "title": "Tesla is 'all about' future promises: Why this strategist calls it a 'story' stock",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 14:30",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "策略師將 Tesla 定義為「故事型」股票，強調其過度依賴未來願景（如 Optimus 機器人）而非當前獲利能力。"
+    },
+    {
+      "rank": 7,
+      "title": "TSLA Q2 Earnings Call Puts Growth Ambitions Over Margins",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 14:00",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "財報會議顯示公司將成長野心置於利潤率之上，2026 年支出超過 250 億美元，引發市場對獲利能力的擔憂。"
+    },
+    {
+      "rank": 8,
+      "title": "TSLA Stock Heads For Worst Single-Day Fall In Over A Year",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 14:25",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "總結了股價創下一年來最大單日跌幅的現象，並指出 Wall Street 正在尋求 Robotaxi 與 Optimus 的具體里程碑。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Stocks making the biggest moves midday: Alphabet, Tesla, Amazon, Southwest Airlines & more",
+      "publisher": "CNBC",
+      "date": "2026-07-23 13:04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為盤中市場波動的概覽報導，未提供新的深度分析，屬於中性市場資訊。"
+    },
+    {
+      "rank": 2,
+      "title": "S&P 500, Dow, Nasdaq End Lower Over Capex Concerns, Surging Oil",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 22:34",
+      "impact": "low",
+      "category": "總體經濟",
+      "reason": "將 Tesla 股價下跌歸因於總體環境（油價上漲、地緣政治），屬於市場整體情緒的反映。"
+    },
+    {
+      "rank": 3,
+      "title": "Elon Musk says Tesla–SpaceX merger has to be a 'process': Earnings recap",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 15:30",
+      "impact": "low",
+      "category": "公司新聞",
+      "reason": "報導了財報會議中關於 SpaceX 合併的討論，屬於會議花絮，對股價短期影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "ALAB",
+  "company": "Astera Labs",
+  "analysis_date": "2026-07-24",
+  "source_file": "cache/2026-07-24/candidates/news/ALAB.json",
+  "summary": {
+    "total_articles": 14,
+    "bullish_count": 8,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 基礎設施支出強勁與 Taurus 產品線擴張，公司營收成長動能顯著優於同業，但高估值與市場波動仍帶來潛在修正壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Astera Labs Expands Taurus Family with Industry’s First OCP-Standard Footprint Compatible 3.2T Smart Retimers and Smart Redrivers",
+      "publisher": "Yahoo",
+      "date": "2026-07-21 13:00",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "推出業界首款 OCP 標準相容的 3.2T 智慧重定時器與重驅動器，透過 COSMOS 軟體堆疊提升連結可觀測性，強化在 AI 資料中心市場的技術護城河。"
+    },
+    {
+      "rank": 2,
+      "title": "Astera Labs vs. Advanced Micro Devices: What the Revenue Trajectories of These Artificial Intelligence Companies Reveal to Investors",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 17:50",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析顯示 Astera Labs 已連續 8 季營收成長，與 AMD 成長停滯形成強烈對比，凸顯其在 AI 連結領域的強勁市占擴張能力。"
+    },
+    {
+      "rank": 3,
+      "title": "Astera Labs: The Market Is Finally Catching On",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-21 16:28",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "公司成功從單一重定時器產品跨足至交換器、記憶體連結與機架級基礎設施，產品組合多元化將支撐長期成長。"
+    },
+    {
+      "rank": 4,
+      "title": "Astera Labs Surged on Accelerating AI Infrastructure Spending",
+      "publisher": "Yahoo",
+      "date": "2026-07-22 16:29",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Polen Capital 報告指出 AI 基礎設施支出加速，直接帶動 Astera Labs 的核心業務需求，反映機構投資人對其成長前景的認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Astera Labs Is One Misstep Away From A Sharp Re-Rating",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-17 13:22",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "儘管技術領先，但目前估值過高且存在內部人拋售股票現象，若未來營運出現微小失誤，股價恐面臨劇烈修正風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Astera Labs (ALAB) Stock Could Trade At A Premium Despite Fresh AI Demand Optimism",
+      "publisher": "Yahoo",
+      "date": "2026-07-22 23:14",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "分析指出儘管 AI 需求樂觀，但根據現金流折現模型 (DCF) 計算，目前股價已處於溢價狀態，投資價值吸引力受限。"
+    },
+    {
+      "rank": 3,
+      "title": "Chip Stocks Enter Bear Market. Astera Labs Continues Slump.",
+      "publisher": "Yahoo",
+      "date": "2026-07-17 20:55",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受費城半導體指數 (SOX) 進入熊市影響，整體晶片類股承壓，導致 ALAB 股價短期內出現技術性疲軟。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Astera Labs, Inc. (ALAB) Stock Moves -1.19%: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 22:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為單日股價波動紀錄，未包含重大基本面變化，屬於常態性市場交易行為。"
+    },
+    {
+      "rank": 2,
+      "title": "4 Networking Semiconductor Stocks to Watch in August 2026",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 13:54",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 ALAB 與 Marvell、Broadcom 等同業並列觀察，屬於產業趨勢分析，未對公司個別營運提供新資訊。"
+    },
+    {
+      "rank": 3,
+      "title": "Astera Labs vs. Intel: What Do Revenue Trends for These Artificial Intelligence Companies Tell Investors?",
+      "publisher": "Yahoo",
+      "date": "2026-07-20 19:06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "比較 ALAB 與 Intel 的營收趨勢，強調兩者在 AI 領域的成長分歧，屬於產業競爭格局的常規分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

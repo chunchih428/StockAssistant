@@ -1,0 +1,147 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-07-24",
+  "source_file": "cache/2026-07-24/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 3,
+    "bearish_count": 12,
+    "neutral_count": 5,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場對 AI 資本支出激增的擔憂，疊加參議院針對中國影響力的調查與監管壓力，導致財報公布前股價承壓。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Amazon (AMZN) Earnings Expected to Grow: Should You Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 14:00",
+      "impact": "medium",
+      "category": "財報預期",
+      "reason": "分析指出 Amazon 具備獲利超預期的潛力，市場對其核心業務成長仍抱持正面期待。"
+    },
+    {
+      "rank": 2,
+      "title": "Alphabet Just Tied Amazon’s $200 Billion Capex Guidance. Could Amazon Raise the Bar Even Higher on July 30?",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 17:56",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "強調 CEO Andy Jassy 對 AI 領域的領導決心，市場預期公司將持續擴大 AI 投資以鞏固競爭優勢。"
+    },
+    {
+      "rank": 3,
+      "title": "A Mag 7 Peer Just Directed The Market to Load Up on Amazon Before July 30",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 16:13",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "基於同業雲端業務的強勁表現，推論 Amazon 財報亦將受惠，提供買入訊號。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Amazon Falls 4% as Senate China Probe and AI-Spending Jitters Weigh Ahead of Earnings",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 16:25",
+      "impact": "high",
+      "category": "監管調查",
+      "reason": "涵蓋了參議院針對中國影響力的調查、AI 支出擔憂及裁員消息，是導致股價下跌的主要綜合性利空因素。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon Stock Slips Below Key Level As Google Sets Tone For Hefty AI Spending",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 19:24",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Google 的財報引發市場對科技巨頭 AI 資本支出過高、獲利能力受損的恐慌，導致 Amazon 股價跌破 200 日均線技術支撐。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon Trims Its Artificial General Intelligence Team. Think of It as a Reset, Not a Pullback.",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 17:42",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "儘管公司稱是資源重組，但裁員行為仍引發市場對 AI 研發進度與成本控制的疑慮。"
+    },
+    {
+      "rank": 4,
+      "title": "How to claim part of the historic $2.5 billion Amazon Prime settlement and cancel unwanted subscriptions",
+      "publisher": "CNBC",
+      "date": "2026-07-20 16:54",
+      "impact": "medium",
+      "category": "法規訴訟",
+      "reason": "涉及 25 億美元的 FTC 和解案，對公司商譽及財務現金流造成負面影響。"
+    },
+    {
+      "rank": 5,
+      "title": "Greg Abel Makes Bold Portfolio Moves as Berkshire's New Leader -- Dumps Amazon While Buying an Airline Stock",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 14:05",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Berkshire Hathaway 減持 Amazon 股份，可能對機構投資人信心產生負面心理影響。"
+    },
+    {
+      "rank": 6,
+      "title": "Walmart shares its quiet plan to take down Amazon",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 23:17",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "競爭對手 Walmart 持續強化物流與 Prime 競爭力，對 Amazon 的電商市占率構成長期威脅。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Amazon and Microsoft pivot cloud gaming strategies to target different players",
+      "publisher": "CNBC",
+      "date": "2026-07-23 12:00",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "屬於正常的業務策略調整，對短期股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon vs. Microsoft: Which Cloud Empire Is the Better Buy Now?",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 23:35",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為投資比較分析，無實質營運變動。"
+    },
+    {
+      "rank": 3,
+      "title": "Google, Amazon, Meta, & Microsoft will spend 'unprecedented' $1T on AI capex in 2027: Analyst",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 16:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析師對產業趨勢的預測，屬於長期展望，對當前股價影響中性。"
+    },
+    {
+      "rank": 4,
+      "title": "Amazon, Walmart, & cautious consumers are major headwinds for Albertson's",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 20:03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "討論對手 Albertson's 的困境，間接反映 Amazon 在零售市場的強勢地位。"
+    },
+    {
+      "rank": 5,
+      "title": "Russia’s Amazon-style retail giant Wildberries is now in Ukraine’s crosshairs",
+      "publisher": "CNBC",
+      "date": "2026-07-23 05:54",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "與 Amazon 本身無直接關聯，僅為名稱相似的俄羅斯企業新聞。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

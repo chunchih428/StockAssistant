@@ -1,0 +1,75 @@
+{
+  "ticker": "FSLR",
+  "company": "First Solar",
+  "analysis_date": "2026-07-24",
+  "source_file": "cache/2026-07-24/candidates/news/FSLR.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 4,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場看好 First Solar 穩定的需求鎖定與強勁的基本面，預期即將公布的財報將優於市場預期。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "First Solar (FSLR) Expected to Beat Earnings Estimates: Should You Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 14:00",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "分析指出 First Solar 具備財報超預期的關鍵要素，包括強勁的訂單能見度與營運效率，吸引投資人關注。"
+    },
+    {
+      "rank": 2,
+      "title": "Qualcomm's AI Story Is Hot. Why Is First Solar's Future Clearer?",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 12:38",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "相較於波動較大的科技股，First Solar 憑藉鎖定的需求與優越的財務指標，被視為更具投資吸引力的選擇。"
+    },
+    {
+      "rank": 3,
+      "title": "Amid Energy Crisis, First Solar's Affordable Valuation Shines Bright",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-17 02:40",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "在能源危機背景下，First Solar 具備能源安全政策紅利，且目前估值被認為遭到低估，具備反彈潛力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Here's Why First Solar (FSLR) Fell More Than Broader Market",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 1.41 %，反映短期市場獲利了結賣壓，屬於正常技術性修正。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "First Solar (FSLR) Rises As Market Takes a Dip: Key Facts",
+      "publisher": "Yahoo",
+      "date": "2026-07-22 21:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此新聞為市場數據回顧，報導股價逆勢上漲 1.36 %，僅為客觀事實陳述，無重大基本面變動。"
+    },
+    {
+      "rank": 2,
+      "title": "T1 Energy vs. First Solar: Which Solar Stock Has More Upside?",
+      "publisher": "Yahoo",
+      "date": "2026-07-21 15:30",
+      "impact": "low",
+      "category": "產業競爭",
+      "reason": "將 First Solar 與 T1 Energy 進行比較，分析兩者在美國製造擴張的潛力，屬於中性的產業競爭分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

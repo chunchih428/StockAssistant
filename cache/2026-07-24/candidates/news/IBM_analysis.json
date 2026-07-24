@@ -1,0 +1,111 @@
+{
+  "ticker": "IBM",
+  "company": "International Business Machines Corporation",
+  "analysis_date": "2026-07-24",
+  "source_file": "cache/2026-07-24/candidates/news/IBM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 3,
+    "bearish_count": 12,
+    "neutral_count": 5,
+    "overall_sentiment": "bearish",
+    "key_theme": "IBM 因第二季財報營收未達預期且下調全年營收成長展望，導致股價面臨顯著賣壓，儘管量子運算領域的併購與部分分析師對現金流的信心提供支撐。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "IBM acquires HRL Laboratories from Boeing and GM",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 13:06",
+      "impact": "medium",
+      "category": "併購與技術布局",
+      "reason": "IBM 透過收購 HRL Laboratories 強化在量子運算領域的技術護城河，特別是電子自旋量子位元技術，有助於長期競爭力。"
+    },
+    {
+      "rank": 2,
+      "title": "RBC Capital Reiterates Outperform on IBM, Maintains $270 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-07-23 12:03",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "儘管短期財報表現不佳，RBC Capital 仍維持優於大盤評級與 270 美元目標價，顯示對其長期轉型策略仍具信心。"
+    },
+    {
+      "rank": 3,
+      "title": "IBM H2 Recovery Plausible on Early Deal Recapture, Higher Productivity, Morgan Stanley Says",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 15:31",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "摩根士丹利指出下半年復甦路徑明確，主要受惠於早期合約回收與 AI 帶動的生產力提升。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "IBM misses Q2 estimates, trims full-year revenue growth outlook",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 13:23",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "這是本輪新聞的核心利空。IBM 第二季營收未達預期，且將全年營收成長展望從 5% 以上下調至 4% 至 5%，主因是軟體交易延遲與大型主機銷售疲軟。"
+    },
+    {
+      "rank": 2,
+      "title": "Why IBM Stock Could Be Stuck In A 'Holding Pattern' After Historic Sell-Off",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 16:14",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "財報預警導致股價大幅回調，市場情緒轉趨保守，預期股價短期內將陷入盤整，難以出現強勁反彈。"
+    },
+    {
+      "rank": 3,
+      "title": "IBM Is The World’s Worst Big Tech Company",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 16:22",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "該評論指出 IBM 長期錯失多次科技革命，對公司長期經營績效與市場地位提出嚴厲批評，加深投資人疑慮。"
+    },
+    {
+      "rank": 4,
+      "title": "BMO Capital Maintains Market Perform on IBM, Lowers Price Target to $230",
+      "publisher": "Benzinga",
+      "date": "2026-07-23 13:05",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "BMO Capital 因應財報表現，將目標價由 270 美元下調至 230 美元，反映對短期成長動能的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "IBM CEO: Prices for a lot of infrastructure components have gone way up",
+      "publisher": "CNBC",
+      "date": "2026-07-23 10:29",
+      "impact": "low",
+      "category": "高層訪談",
+      "reason": "執行長 Arvind Krishna 解釋成本上升壓力，這是宏觀環境挑戰，雖對利潤率有壓，但屬於市場已知風險。"
+    },
+    {
+      "rank": 2,
+      "title": "I say 'yes' to holding IBM long-term, says SkyBridge's Anthony Scaramucci",
+      "publisher": "CNBC",
+      "date": "2026-07-22 17:43",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "投資人觀點分歧，此類言論對股價短期波動影響有限，主要反映長期持有者的心態。"
+    },
+    {
+      "rank": 3,
+      "title": "Stocks making the biggest moves after hours: Alphabet, Tesla, IBM, Las Vegas Sands, ServiceNow & more",
+      "publisher": "CNBC",
+      "date": "2026-07-22 17:19",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為盤後交易異動的客觀報導，並未提供新的基本面資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

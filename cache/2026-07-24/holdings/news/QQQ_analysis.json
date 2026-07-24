@@ -1,0 +1,57 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-07-24",
+  "source_file": "cache/2026-07-24/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對半導體板塊的過度擁擠與回調風險感到擔憂，但 QQQ 作為科技成長型 ETF 的交易熱度與影響力仍處於歷史高位。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "SPY, QQQ And SOXL Power ETF Trading To New Record",
+      "publisher": "Benzinga",
+      "date": "2026-07-22 09:58",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "ETF 交易量創下歷史新高，顯示 QQQ 在市場中的流動性與投資人參與度極高，反映出資金對科技成長股的持續關注與強勁需求。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why I'm 80% Cash While Everyone's Busy Blaming Kimi K3",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-18 14:12",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "針對半導體板塊（SOXX / QQQ）出現過度擁擠的賣壓，特別是 TSMC 與 ASML 的股價反應，顯示投資人對於超大規模資料中心支出與半導體估值過高的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Meet the Only Vanguard ETF That Has a Higher SpaceX Weighting Than the QQQ Nasdaq-100 ETF",
+      "publisher": "Motley Fool",
+      "date": "2026-07-23 21:06",
+      "impact": "low",
+      "category": "投資組合分析",
+      "reason": "僅是針對不同 ETF 對 SpaceX 持股權重的比較分析，屬於投資組合配置的資訊分享，對 QQQ 整體股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "QQQJ: Accessing Innovation At Smaller Market Cap Size",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-20 15:39",
+      "impact": "low",
+      "category": "產品介紹",
+      "reason": "該文章主要介紹 QQQJ（中型股 ETF）的產品特性與費用結構，與 QQQ 本身無直接關聯，僅為同系列產品的推廣資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
