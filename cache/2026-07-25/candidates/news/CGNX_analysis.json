@@ -1,0 +1,47 @@
+{
+  "ticker": "CGNX",
+  "company": "Cognex",
+  "analysis_date": "2026-07-24",
+  "source_file": "cache/2026-07-24/candidates/news/CGNX.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 0,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對於 Cognex 在 Q1 財報表現的優異評價與即將到來的 Q2 財報預期，與其股價是否已過度反映基本面估值的爭論並存。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Q1 Specialized Technology Earnings: Cognex (NASDAQ:CGNX) Earns Top Marks",
+      "publisher": "Yahoo",
+      "date": "2026-07-21 18:06",
+      "impact": "high",
+      "category": "財報表現",
+      "reason": "該報導將 Cognex 列為專業科技領域 Q1 財報表現最佳的公司之一，顯示其營運效率與市場競爭力獲得肯定，選此篇作為代表是因為其涵蓋了對 Q1 績效的綜合評估。"
+    },
+    {
+      "rank": 2,
+      "title": "Cognex (CGNX) Could Be 16% Undervalued On August 5 Earnings Release",
+      "publisher": "Yahoo",
+      "date": "2026-07-17 20:10",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析指出在 8 月 5 日財報發布前，該股可能存在 16% 的低估空間，為投資人提供了潛在的買入邏輯與估值支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cognex (CGNX) Stock Looks Overvalued On Cash Flow And Earnings",
+      "publisher": "Yahoo",
+      "date": "2026-07-17 18:10",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "儘管過去一年股價上漲 90.3%，但基於現金流折現模型 (DCF) 與盈餘分析，市場認為該股目前估值過高，存在回調風險。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

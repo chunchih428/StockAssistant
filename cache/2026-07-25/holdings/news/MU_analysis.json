@@ -1,0 +1,102 @@
+{
+  "ticker": "MU",
+  "company": "Micron Technology",
+  "analysis_date": "2026-07-24",
+  "source_file": "cache/2026-07-24/holdings/news/MU.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "AI 需求強勁帶動記憶體晶片需求激增，獲得機構與產業領袖正面評價，儘管面臨短期股價波動與市場輪動壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bank of America Is Feeling Bullish on Micron Stock. Here's Why",
+      "publisher": "Yahoo",
+      "date": "2026-07-21 20:40",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "美國銀行將 Micron 列入最高信念買入名單，顯示機構對其在 AI 記憶體領域的長期成長潛力具備高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Micron gains as Musk thanks it for 'significant' memory chip allocation",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 19:27",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Elon Musk 公開感謝 Micron 的記憶體晶片供應，此舉強化了市場對 Micron 在 AI 基礎設施供應鏈中關鍵地位的認知。"
+    },
+    {
+      "rank": 3,
+      "title": "Micron (MU) Is Getting A New China AI Demand Signal From Kimi K3",
+      "publisher": "Yahoo",
+      "date": "2026-07-24 03:16",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "中國 AI 模型 Kimi K3 的爆發性需求顯示記憶體晶片在區域市場的強勁拉貨力道，有利於 Micron 的營收成長。"
+    },
+    {
+      "rank": 4,
+      "title": "A new group of stocks is transforming global equities markets. Meet ‘Memi,’ the $3 trillion sector fueled by AI’s insatiable hunger for memory chips",
+      "publisher": "Yahoo",
+      "date": "2026-07-22 19:50",
+      "impact": "medium",
+      "category": "產業趨勢",
+      "reason": "將 Micron 與 SK Hynix 等公司歸類為「Memi」板塊，凸顯記憶體產業在 AI 時代的戰略價值與市值成長潛力。"
+    },
+    {
+      "rank": 5,
+      "title": "Stephanie Link Loads Up on NVDA, MU: 'Nvidia Will Always Dominate the GPU Market'",
+      "publisher": "Benzinga",
+      "date": "2026-07-22 03:49",
+      "impact": "medium",
+      "category": "投資動向",
+      "reason": "知名投資人 Stephanie Link 加碼買進 Micron，顯示專業投資機構對該公司在 AI 晶片生態系中的配置意願。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "INTC, AMD, MU, NVDA: Chip Stocks Tumble Again, Stalling A Nascent Rebound",
+      "publisher": "Yahoo",
+      "date": "2026-07-22 10:03",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場資金輪動至大型科技股，加上對中國低成本 AI 模型可能削弱雲端服務需求的擔憂，導致半導體類股短期承壓。"
+    },
+    {
+      "rank": 2,
+      "title": "UBS Says Micron Could Buy Back Nearly Half Its Stock. Why I’m Not Counting on That MU Catalyst.",
+      "publisher": "Yahoo",
+      "date": "2026-07-22 17:52",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "儘管瑞銀提及庫藏股潛力，但分析師對其實現難度持保留態度，提醒投資人勿過度期待此類資本操作帶來的股價催化效果。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "MU Vs Its Peers: A Lead With A Price Tag",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 12:38",
+      "impact": "low",
+      "category": "產業比較",
+      "reason": "文章探討 Micron 在過去一年大漲 749% 後的估值壓力，屬於中性的風險回報評估，未提供明確買賣建議。"
+    },
+    {
+      "rank": 2,
+      "title": "How Much Micron (MU) Do You Unknowingly Own?",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 14:33",
+      "impact": "low",
+      "category": "投資教育",
+      "reason": "僅為投資人分析 ETF 持倉結構，提醒投資人注意對單一半導體股票的曝險程度，不涉及公司基本面變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

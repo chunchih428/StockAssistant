@@ -1,0 +1,57 @@
+{
+  "ticker": "BE",
+  "company": "Bloom Energy Corporation",
+  "analysis_date": "2026-07-24",
+  "source_file": "cache/2026-07-24/holdings/news/BE.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場高度看好 Bloom Energy 在 AI 資料中心電力需求激增下的成長潛力，特別是 Brookfield 合作案與分析師調升目標價帶動了股價強勁表現。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy (BE) Soars 14.8% on Sharp PT Upgrade Ahead of Q2 Earnings",
+      "publisher": "Insider Monkey",
+      "date": "2026-07-22T01:17:16Z",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師大幅調升目標價，顯示市場對即將公布的 Q2 財報預期樂觀，直接推動股價單日上漲 14.8 %。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Bloom Energy (BE) Undervalued After JPMorgan Backed Its Brookfield AI Power Deal?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-07-23T06:09:46Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "JPMorgan 對公司與 Brookfield 達成的 AI 電力供應協議表示支持，強化了市場對於公司在 AI 基礎設施領域長期價值被低估的觀點。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy (BE) Suffers a Larger Drop Than the General Market: Key Insights",
+      "publisher": "Zacks",
+      "date": "2026-07-22T22:00:02Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價出現較大盤更明顯的跌幅，反映出在快速上漲後的獲利了結賣壓，屬於短期技術性修正。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy Corporation (BE) Rose on AI-Driven Power Demand",
+      "publisher": "Insider Monkey",
+      "date": "2026-07-22T16:19:36Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此報導總結了 AI 電力需求對股價的推升作用，內容與其他 bullish 新聞高度重疊，故歸類為中性觀察報導。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

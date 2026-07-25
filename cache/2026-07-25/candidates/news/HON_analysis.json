@@ -1,0 +1,74 @@
+{
+  "ticker": "HON",
+  "company": "Honeywell",
+  "analysis_date": "2026-07-24",
+  "source_file": "cache/2026-07-24/candidates/news/HON.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 13,
+    "bearish_count": 7,
+    "neutral_count": 0,
+    "overall_sentiment": "mixed",
+    "key_theme": "Honeywell 繳出優於預期的第 2 季財報並上調全年 EPS 指引，但因業務拆分導致營收預期下調，市場對其獲利能力與成長動能看法分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Honeywell International Inc (HON) Beats Q2 Earnings and Revenue Estimates",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 11:40",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第 2 季財報表現亮眼，每股盈餘 (EPS) 達 1.95 美元，優於市場預期的 1.82 美元，且營收表現超出預期 4.19%，顯示自動化業務成長強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "Honeywell Raises EPS Outlook, Cuts Sales Forecast After First Post-Split Earnings",
+      "publisher": "Benzinga",
+      "date": "2026-07-23 13:50",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "儘管營收預期因拆分調整，但公司上調了 2026 全年調整後 EPS 指引，顯示管理層對核心業務獲利能力的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Honeywell (HON) Q2 2026 Earnings Call Transcript — Organic sales grew 4% as orders surged 16%, with backlog up 9% year over year.",
+      "publisher": "Yahoo",
+      "date": "2026-07-24 00:29",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "訂單量激增 16% 且積壓訂單 (Backlog) 年增 9%，為未來營收成長提供強大能見度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Honeywell International CEO Says Expects Divestures Of Productivity Solution And Services, Warehouse And Workforce Solution Business By Early August 2026; Divestitures About 2 Months Ahead Of Initial Assumption, Has Reduced 2026 Revenue Expectation By ~$400M",
+      "publisher": "Benzinga",
+      "date": "2026-07-23 08:49",
+      "impact": "medium",
+      "category": "業務拆分",
+      "reason": "因提前進行業務剝離，導致 2026 年營收預期被下調約 4 億美元，短期內對營收規模造成負面影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Honeywell Intl Sees Q3 Adj EPS $2.05-$2.20 vs $2.06 Est; Sees Sales $4.900B-$5.000B vs $5.253B Est",
+      "publisher": "Benzinga",
+      "date": "2026-07-23 06:23",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "第 3 季營收指引區間 49 億至 50 億美元，低於市場共識的 52.53 億美元，引發市場對成長放緩的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Honeywell Technologies Earnings Caused Honeywell Aerospace Stock to Fall",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 11:39",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "財報發布後，市場對拆分後的航太業務板塊產生估值修正，導致相關股價出現波動。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}
