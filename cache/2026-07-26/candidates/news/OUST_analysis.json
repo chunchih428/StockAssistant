@@ -1,0 +1,84 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-07-24",
+  "source_file": "cache/2026-07-24/candidates/news/OUST.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 Ouster 在物理 AI 與人形機器人領域的技術應用前景持樂觀態度，儘管面臨與同業競爭及獲利能力的挑戰。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Northland Capital Markets Maintains Outperform on Ouster, Raises Price Target to $60",
+      "publisher": "Benzinga",
+      "date": "2026-07-21",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Tim Savageaux 維持「優於大盤」評級並大幅調升目標價至 60 美元，顯示市場對其成長潛力的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Physical AI Boom Drives Interest in Ouster Stock: Here's a New 2x ETF Playing the Trend",
+      "publisher": "Benzinga",
+      "date": "2026-07-20",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Defiance 推出 2 倍槓桿 ETF (OUSL) 追蹤 Ouster，顯示機構投資人對該公司在物理 AI 領域的市場熱度與流動性需求增加。"
+    },
+    {
+      "rank": 3,
+      "title": "3 Picks-and-Shovels Stocks Powering the Humanoid Robotics Buildout",
+      "publisher": "Yahoo",
+      "date": "2026-07-17",
+      "impact": "medium",
+      "category": "產業趨勢",
+      "reason": "Ouster 被列為人形機器人產業鏈的關鍵供應商，凸顯其雷射雷達技術在機器人視覺感知領域的戰略價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ouster Vs. Hesai: Which Physical AI Stock is a Better Bet Now?",
+      "publisher": "Yahoo",
+      "date": "2026-07-21",
+      "impact": "medium",
+      "category": "競爭分析",
+      "reason": "報導指出 Hesai 在獲利能力、車用雷射雷達領導地位及估值上優於 Ouster，對 Ouster 的相對投資吸引力構成壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Ouster, Inc. (OUST) Dipped More Than Broader Market Today",
+      "publisher": "Yahoo",
+      "date": "2026-07-20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 6.13%，反映出市場在波動行情中對高成長但尚未獲利公司的風險偏好轉弱。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ouster Names Shaluinn Fullove as Chief People Officer to Drive Global Growth and Talent Strategy",
+      "publisher": "Yahoo",
+      "date": "2026-07-23",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "任命新的人資長旨在強化人才策略與全球成長，屬於公司治理層面的常規調整，對短期股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "What Will it Take for Ouster to Reach Breakeven EBITDA?",
+      "publisher": "Zacks",
+      "date": "2026-07-16",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "文章探討 EBITDA 損益平衡的關鍵路徑，屬於財務基本面分析，未提供新的利多或利空消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

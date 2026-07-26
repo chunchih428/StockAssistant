@@ -1,0 +1,102 @@
+{
+  "ticker": "IBIT",
+  "company": "Bitcoin",
+  "analysis_date": "2026-07-24",
+  "source_file": "cache/2026-07-24/holdings/news/IBIT.json",
+  "summary": {
+    "total_articles": 19,
+    "bullish_count": 8,
+    "bearish_count": 4,
+    "neutral_count": 7,
+    "overall_sentiment": "bullish",
+    "key_theme": "比特幣 ETF 出現連續 7 天的資金淨流入，顯示機構投資者信心回升，帶動 IBIT 股價表現強勁。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "BlackRock’s IBIT Leads Nearly $1B Bitcoin ETF Recovery as Inflows Hit 7 Straight Days",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-07-23 20:38",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "IBIT 領軍比特幣 ETF 市場，連續 7 天錄得淨流入，總額接近 10 億美元，直接反映了機構資金對該產品的強勁需求。"
+    },
+    {
+      "rank": 2,
+      "title": "Bitcoin Price to $500K or $1M? Larry Fink Says ‘Very Bullish’ as BlackRock Clients Buy $139M BTC",
+      "publisher": "CCN",
+      "date": "2026-07-16 08:38",
+      "impact": "high",
+      "category": "高層觀點",
+      "reason": "貝萊德執行長 Larry Fink 公開表達對比特幣的長期看漲立場，並指出客戶持續買入，為 IBIT 的長期資產規模增長提供背書。"
+    },
+    {
+      "rank": 3,
+      "title": "Bitcoin Reclaims $65,000 as BTC ETF Inflows Return: Is the Worst Over?",
+      "publisher": "Yahoo",
+      "date": "2026-07-20 19:28",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "比特幣價格重回 65,000 美元關鍵心理關卡，配合 ETF 資金回流，市場情緒由恐慌轉向復甦。"
+    },
+    {
+      "rank": 4,
+      "title": "$4.1 billion firm discloses exposure to Bitcoin, XRP, Robinhood",
+      "publisher": "Yahoo",
+      "date": "2026-07-21 23:00",
+      "impact": "medium",
+      "category": "機構投資",
+      "reason": "資產管理規模 41 億美元的機構披露持有比特幣相關資產，顯示傳統金融機構對加密貨幣的配置意願持續增加。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "What Happens When The Largest Bitcoin ETF Sells 100,000 BTC? — BlackRock&#39;s IBIT ETF sold nearly 100,000 BTC.",
+      "publisher": "Benzinga",
+      "date": "2026-07-20 11:16",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "IBIT 近期為應對贖回壓力拋售約 10 萬枚比特幣，引發市場對流動性與贖回壓力的擔憂，選此篇作為代表是因為其詳細分析了壓力測試的影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Gold ETF’s 8-Year Stagnation Holds a Warning for IBIT Investors",
+      "publisher": "Yahoo",
+      "date": "2026-07-20 09:18",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "將比特幣 ETF 與黃金 ETF 的歷史停滯期進行對比，暗示若資金流動性持續惡化，可能面臨長期盤整風險。"
+    },
+    {
+      "rank": 3,
+      "title": "Bitcoin Drops From 5-Week High As Geopolitical Risk Tests Renewed ETF Demand",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-23 13:25",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "地緣政治風險導致市場避險情緒升溫，對比特幣價格造成短期回調壓力，影響 ETF 的淨流入動能。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Bitcoin Is its Most Affordable in Two Years. Which ETF Is Better to Invest With Now: iShares Bitcoin Trust ETF or VanEck Bitcoin ETF?",
+      "publisher": "Yahoo",
+      "date": "2026-07-18 14:30",
+      "impact": "low",
+      "category": "產品比較",
+      "reason": "文章對比了 IBIT 與 VanEck 的費率與資產規模，屬於投資建議性質，對 IBIT 本身股價無直接多空影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Bitcoin And Strategy In The Age Of AI Mega-IPOs",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-22 13:30",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "主要討論 MicroStrategy 的資本結構與 AI 產業趨勢，對 IBIT 的直接關聯性較低。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

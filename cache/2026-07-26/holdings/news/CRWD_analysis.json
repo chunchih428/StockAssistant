@@ -1,0 +1,111 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-07-24",
+  "source_file": "cache/2026-07-24/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "CrowdStrike 透過與 Cerebras 建立 AI 晶片策略合作，顯著提升 Falcon 平台的威脅偵測速度，並獲得多家投行上調目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike and Cerebras Partner to Power AI Detection and Response on the World's Fastest Inference",
+      "publisher": "Yahoo",
+      "date": "2026-07-22 13:25",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "CrowdStrike 與 Cerebras 達成策略合作，將 Cerebras 的 AI 推論晶片整合至 Falcon AIDR 平台，大幅提升即時威脅偵測速度，為公司 AI 護城河提供關鍵技術支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Argus Research Maintains Buy on CrowdStrike Holdings, Raises Price Target to $230",
+      "publisher": "Benzinga",
+      "date": "2026-07-22 08:41",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Argus Research 分析師 Joseph Bonner 維持買入評級並將目標價上調至 $230，反映市場對其 AI 產品競爭力的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Morgan Stanley Maintains Overweight on CrowdStrike Holdings, Raises Price Target to $227",
+      "publisher": "Benzinga",
+      "date": "2026-07-21 14:45",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "摩根士丹利分析師 Keith Weiss 維持增持評級並上調目標價至 $227，顯示華爾街對其長期成長潛力的認可。"
+    },
+    {
+      "rank": 4,
+      "title": "CrowdStrike (CRWD) Expands STACKIT Partnership And Names AJ Shipley Product Chief",
+      "publisher": "Yahoo",
+      "date": "2026-07-20 16:08",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "擴大與 Schwarz Digits 的 STACKIT 合作並任命 AJ Shipley 為產品長，有助於強化歐洲市場布局與產品研發執行力。"
+    },
+    {
+      "rank": 5,
+      "title": "Jim Cramer Calls AI Cyberattacks a “Watershed Moment” for CrowdStrike",
+      "publisher": "Yahoo",
+      "date": "2026-07-22 15:25",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "知名財經評論員 Jim Cramer 強調 AI 攻擊帶來的威脅是 CrowdStrike 的關鍵轉折點，有助於提升市場對其防禦技術的關注度。"
+    },
+    {
+      "rank": 6,
+      "title": "Can XM Cyber IP Acquisition Strengthen CrowdStrike's Falcon Platform?",
+      "publisher": "Yahoo",
+      "date": "2026-07-20 13:44",
+      "impact": "low",
+      "category": "併購與技術整合",
+      "reason": "透過收購 XM Cyber 的攻擊路徑技術，進一步強化 Falcon 平台的暴露管理能力，提升產品綜合競爭力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Is CrowdStrike Stock Falling on Thursday?",
+      "publisher": "Benzinga",
+      "date": "2026-07-23 14:09",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價因科技板塊整體壓力與獲利了結賣壓出現回調，反映短期技術性修正。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike Holdings (CRWD) Stock Declines While Market Improves",
+      "publisher": "Yahoo",
+      "date": "2026-07-21 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "單日下跌 3.7%，顯示在市場整體回升時出現相對弱勢的短期價格波動。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike Just Became Wall Street's Newest Stock-Split Stock",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 11:26",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "討論股票分割後的市場地位，屬於市場觀察性質，對基本面影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "CRWD Short Strangle Could Net $1,045 in a Few Weeks",
+      "publisher": "Yahoo",
+      "date": "2026-07-21 11:00",
+      "impact": "low",
+      "category": "衍生性商品",
+      "reason": "針對選擇權策略的分析，反映市場對波動率的看法，不直接影響公司營運。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
