@@ -1,0 +1,84 @@
+{
+  "ticker": "VOO",
+  "company": "S&P 500",
+  "analysis_date": "2026-07-27",
+  "source_file": "cache/2026-07-27/holdings/news/VOO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 VOO 的長期績效與歷史回報持高度信心，儘管部分投資人擔憂指數成分股過度集中於大型科技股，但整體市場情緒仍受惠於總體經濟改善與歷史數據支持。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "This Vanguard ETF Consistently Beats the S&P 500. Here's Why More Outperformance Is Possible.",
+      "publisher": "Yahoo",
+      "date": "2026-07-27",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "文章強調 VOO 在長期績效上優於其他大型股指數，且具備持續超越市場的潛力，增強投資人信心。"
+    },
+    {
+      "rank": 2,
+      "title": "SPY Could Be Poised for a Post-Midterm Rally if 70 Years of History Repeats",
+      "publisher": "Benzinga",
+      "date": "2026-07-23",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "引用 70 年歷史數據指出期中選舉後市場通常會出現反彈，對 VOO 等追蹤 S&P 500 的 ETF 構成正面預期。"
+    },
+    {
+      "rank": 3,
+      "title": "Should You Invest $1,000 in VOO in 2026? (Hint: History Says Yes.)",
+      "publisher": "Yahoo",
+      "date": "2026-07-22",
+      "impact": "medium",
+      "category": "投資策略",
+      "reason": "透過歷史回測數據支持長期投資 VOO 的價值，強調市場隨時間推移具備可預測性。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Vanguard ETFs offer bold escape from top-heavy S&P 500",
+      "publisher": "Yahoo",
+      "date": "2026-07-25",
+      "impact": "medium",
+      "category": "風險評估",
+      "reason": "指出 S&P 500 指數成分股過度集中於少數大型科技股，建議投資人尋求替代方案以分散風險。"
+    },
+    {
+      "rank": 2,
+      "title": "3 Undervalued Vanguard ETFs to Buy Before the End of July",
+      "publisher": "Yahoo",
+      "date": "2026-07-23",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "提到 Morningstar 數據顯示 10 檔股票控制了指數超過三分之一的權重，對 VOO 的集中度風險提出警示。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "S&P 500 Rises As Oil Sinks On Iran Talk Hopes: Stock Market Today",
+      "publisher": "Benzinga",
+      "date": "2026-07-24",
+      "impact": "low",
+      "category": "總體經濟",
+      "reason": "報導油價下跌與總體市場反彈，屬於宏觀市場波動，對 VOO 本身無特殊利多或利空影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Should Vanguard 500 Index Fund ETF Shares (VOO) Be on Your Investing Radar?",
+      "publisher": "Yahoo",
+      "date": "2026-07-22",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "僅為常規的 ETF 風格箱報告，提供客觀數據供投資人參考，無明顯情緒導向。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
