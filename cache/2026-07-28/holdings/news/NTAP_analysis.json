@@ -1,0 +1,84 @@
+{
+  "ticker": "NTAP",
+  "company": "NetApp",
+  "analysis_date": "2026-07-27",
+  "source_file": "cache/2026-07-27/holdings/news/NTAP.json",
+  "summary": {
+    "total_articles": 11,
+    "bullish_count": 4,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "NetApp 受惠於 AI 基礎設施需求與雲端業務成長，市場對即將公布的財報持樂觀預期。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "NetApp's Enterprise AI Bet: Can DataPelago Buyout Accelerate Growth?",
+      "publisher": "Yahoo",
+      "date": "2026-07-22 13:20",
+      "impact": "high",
+      "category": "併購與策略合作",
+      "reason": "收購 DataPelago 強化了 NetApp 在 GPU 加速儲存領域的競爭力，直接切入高成長的 AI 基礎設施市場，被視為長期成長的關鍵催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Will Rising Demand for Public Cloud Services Benefit NetApp?",
+      "publisher": "Yahoo",
+      "date": "2026-07-20 14:11",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "公有雲與 AI 需求持續攀升，NetApp 的雲端業務展現強勁成長動能與高利潤率，為股價提供穩健的基本面支撐。"
+    },
+    {
+      "rank": 3,
+      "title": "NetApp's Quarterly Earnings Preview: What You Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-07-24 12:32",
+      "impact": "medium",
+      "category": "財報預測",
+      "reason": "華爾街預期 NetApp 第一季財報將出現雙位數成長，市場情緒偏向樂觀，投資人正密切關注獲利表現是否能超越預期。"
+    },
+    {
+      "rank": 4,
+      "title": "StructureCraft Scales Data-Driven Design on NetApp",
+      "publisher": "Yahoo",
+      "date": "2026-07-22 12:00",
+      "impact": "low",
+      "category": "客戶案例",
+      "reason": "透過與 StructureCraft 的合作案例，展示了 NetApp 智慧數據基礎設施在實際應用場景中的效能，有助於提升品牌市場能見度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Is NetApp (NTAP) Fully Priced After Its Proxy Filing?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-07-24 04:29",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場針對代理權聲明文件進行分析，提出股價是否已充分反映價值（Fully Priced）的疑慮，可能導致短期獲利了結賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "NetApp (NTAP) Rises Higher Than Market: Key Facts",
+      "publisher": "Yahoo",
+      "date": "2026-07-24 21:50",
+      "impact": "low",
+      "category": "股價表現",
+      "reason": "單純報導股價單日上漲 1.9 % 的市場數據，屬於技術性回顧，未包含新的基本面消息。"
+    },
+    {
+      "rank": 2,
+      "title": "NetApp (NTAP) Stock Moves -1.14%: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 22:00",
+      "impact": "low",
+      "category": "股價表現",
+      "reason": "報導股價單日下跌 1.14 % 的市場波動，屬於常態性市場震盪，不具備長期趨勢意義。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

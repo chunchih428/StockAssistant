@@ -1,0 +1,102 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-07-27",
+  "source_file": "cache/2026-07-27/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "CrowdStrike 與 Cerebras 達成戰略合作，透過 AI 加速器提升 Falcon AIDR 效能，強化在 AI 驅動網路威脅防禦領域的競爭優勢。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike and Cerebras Partner to Power AI Detection and Response on the World's Fastest Inference",
+      "publisher": "Yahoo",
+      "date": "2026-07-22 13:25",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "CrowdStrike 與 Cerebras 達成戰略合作，將 Cerebras 的 AI 加速硬體整合至 Falcon AIDR，顯著提升威脅偵測與回應速度，為公司在 AI 安全領域建立技術護城河。"
+    },
+    {
+      "rank": 2,
+      "title": "Argus Research Maintains Buy on CrowdStrike Holdings, Raises Price Target to $230",
+      "publisher": "Benzinga",
+      "date": "2026-07-22 08:41",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Joseph Bonner 維持買入評級並上調目標價至 $230，顯示市場對公司長期獲利成長與市場地位的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Jim Cramer Calls AI Cyberattacks a “Watershed Moment” for CrowdStrike",
+      "publisher": "Yahoo",
+      "date": "2026-07-22 15:25",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "Jim Cramer 強調機器對機器攻擊的增加是 CrowdStrike 的「分水嶺時刻」，肯定了公司在應對 AI 威脅方面的先發優勢。"
+    },
+    {
+      "rank": 4,
+      "title": "Is CrowdStrike Holdings (CRWD) Cheap On Its Schwarz Digits Partnership And Pullback?",
+      "publisher": "Yahoo",
+      "date": "2026-07-22 03:21",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "透過與 Schwarz Digits 的合作擴張，市場認為在股價回調時提供了具吸引力的進場點，凸顯其業務擴張潛力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Is CrowdStrike Stock Falling on Thursday?",
+      "publisher": "Benzinga",
+      "date": "2026-07-23 14:09",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受科技股整體壓力與獲利了結賣壓影響，導致股價短期回調，反映市場對高估值科技股的敏感度。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike Holdings (CRWD) Stock Declines While Market Improves",
+      "publisher": "Yahoo",
+      "date": "2026-07-21 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "單日股價下跌 3.7%，與大盤走勢背離，顯示短期內存在技術性修正壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Here's What to Expect From CrowdStrike’s Next Earnings Report",
+      "publisher": "Yahoo",
+      "date": "2026-07-24 11:15",
+      "impact": "low",
+      "category": "財報預期",
+      "reason": "市場對即將到來的 Q2 財報持正面預期，但目前仍處於觀望階段，未有實質財報數據公布。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike (CRWD) Is a Trending Stock: Facts to Know Before Betting on It",
+      "publisher": "Yahoo",
+      "date": "2026-07-24 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為 Zacks.com 用戶關注度分析，提供投資人基本面回顧，無直接影響股價的重大事件。"
+    },
+    {
+      "rank": 3,
+      "title": "CRWD Short Strangle Could Net $1,045 in a Few Weeks",
+      "publisher": "Yahoo",
+      "date": "2026-07-21 11:00",
+      "impact": "low",
+      "category": "衍生性商品",
+      "reason": "僅為選擇權交易策略建議，反映高隱含波動率 (IV)，對公司基本面無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

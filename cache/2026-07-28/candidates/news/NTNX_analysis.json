@@ -1,0 +1,47 @@
+{
+  "ticker": "NTNX",
+  "company": "Nutanix, Inc.",
+  "analysis_date": "2026-07-27",
+  "source_file": "cache/2026-07-27/candidates/news/NTNX.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "Nutanix 積極透過 AI Edge 與受監管產業的擴張策略推動成長，儘管近期股價出現短期技術性回調。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Nutanix (NTNX) Brings Enterprise AI To The Tactical Edge With GigaIO",
+      "publisher": "Simply Wall St.",
+      "date": "2026-07-17",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Nutanix 與 GigaIO 合作將企業級 AI 導入邊緣運算，顯示其在 AI 基礎設施市場的技術擴張能力，有助於提升長期競爭優勢。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Nutanix (NTNX) Cheap Following Its New AI Edge And Regulated Industry Push?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-07-17",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 Nutanix 在受監管產業的滲透率提升，結合 AI 邊緣運算布局，可能使其當前估值具備吸引力，對投資人信心有正面支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Nutanix (NTNX) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-07-21",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 1.67 %，在市場整體上漲背景下表現相對疲軟，反映出短期獲利了結壓力或技術性修正。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

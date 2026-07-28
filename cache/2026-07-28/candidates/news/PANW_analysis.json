@@ -1,0 +1,93 @@
+{
+  "ticker": "PANW",
+  "company": "Palo Alto Networks",
+  "analysis_date": "2026-07-27",
+  "source_file": "cache/2026-07-27/candidates/news/PANW.json",
+  "summary": {
+    "total_articles": 19,
+    "bullish_count": 12,
+    "bearish_count": 2,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 驅動的資安需求強勁，公司透過收購 Embrace 強化可觀測性平台，並獲得多家投行上調目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Morgan Stanley Maintains Overweight on Palo Alto Networks, Raises Price Target to $387",
+      "publisher": "Benzinga",
+      "date": "2026-07-21 14:42",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "摩根士丹利分析師 Hamza Fodderwala 維持「加碼」評級並調升目標價至 387 美元，反映對公司長期成長前景的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Palo Alto Networks to Extend Leading Observability Platform with Innovative Digital Experience Monitoring",
+      "publisher": "Yahoo",
+      "date": "2026-07-21 20:10",
+      "impact": "high",
+      "category": "併購活動",
+      "reason": "公司宣布收購 Embrace，旨在整合數位體驗監控與可觀測性工具，擴大產品生態系以應對複雜的資安需求。"
+    },
+    {
+      "rank": 3,
+      "title": "BofA lifts cybersecurity stock targets to reflect long-term growth outlook",
+      "publisher": "Yahoo",
+      "date": "2026-07-25 23:27",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "美國銀行基於長期成長展望，上調了包括 Palo Alto Networks 在內的多家資安公司目標價。"
+    },
+    {
+      "rank": 4,
+      "title": "Why Palo Alto Stock Can Be a Big Winner in Cybersecurity’s New AI Era",
+      "publisher": "Yahoo",
+      "date": "2026-07-21 12:51",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "AI 模型帶來的資安威脅增加，市場對公司服務需求強勁，被視為 AI 時代的資安領頭羊。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Palo Alto Networks (PANW) Could Be 123% Overvalued Following Its Record High",
+      "publisher": "Yahoo",
+      "date": "2026-07-21 19:11",
+      "impact": "medium",
+      "category": "市場估值",
+      "reason": "儘管股價創新高，但有觀點認為其估值過高，存在潛在回調風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Palo Alto Networks (PANW) Sees a More Significant Dip Than Broader Market",
+      "publisher": "Yahoo",
+      "date": "2026-07-20 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 2.79%，表現弱於大盤，顯示短期獲利了結賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Palo Alto Networks' Q4 2026 Earnings: What to Expect",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 14:13",
+      "impact": "medium",
+      "category": "財報預期",
+      "reason": "市場正等待第四季財報公布，預期將有雙位數成長，目前處於觀望階段。"
+    },
+    {
+      "rank": 2,
+      "title": "Nasdaq, Dow, S&P 500 Futures Edge Higher Ahead Of Key Earnings Week",
+      "publisher": "Yahoo",
+      "date": "2026-07-20 01:35",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "提及公司作為財報週焦點個股之一，反映市場對整體財報季的關注。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

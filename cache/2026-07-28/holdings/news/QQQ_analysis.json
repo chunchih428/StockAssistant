@@ -1,0 +1,56 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-07-27",
+  "source_file": "cache/2026-07-27/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "ETF 市場資金流入強勁且交易量創新高，顯示投資人對科技成長型資產的持續需求。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "SPY, QQQ And SOXL Power ETF Trading To New Record",
+      "publisher": "Benzinga",
+      "date": "2026-07-22 09:58",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "ETF 交易量創下歷史新高，反映出市場對 QQQ 等追蹤科技股指數的產品需求旺盛，資金流動性增加對股價具支撐作用。"
+    },
+    {
+      "rank": 2,
+      "title": "Top Three ETFs to Watch This Week: TQQQ, MAGS, SCHD",
+      "publisher": "Benzinga",
+      "date": "2026-07-26 15:25",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "整體 ETF 市場資產管理規模持續增長，且資金流入突破 1 兆美元大關，顯示整體投資環境對 QQQ 這類大型 ETF 相當友善。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "QQQ vs. VGT: Where Should You Invest $1,000 Right Now?",
+      "publisher": "Motley Fool",
+      "date": "2026-07-24 18:53",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "此類文章屬於比較性質的投資分析，旨在協助投資人評估 QQQ 與 VGT 的配置差異，並非針對 QQQ 本身釋出利多或利空消息。"
+    },
+    {
+      "rank": 2,
+      "title": "QQQJ: Accessing Innovation At Smaller Market Cap Size",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-20 15:39",
+      "impact": "low",
+      "category": "產品介紹",
+      "reason": "文章重點在於介紹 Invesco 旗下的另一檔 ETF QQQJ，屬於產品推廣與資訊揭露，對 QQQ 本身的股價影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
