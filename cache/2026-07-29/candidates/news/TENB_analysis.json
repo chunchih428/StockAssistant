@@ -1,0 +1,75 @@
+{
+  "ticker": "TENB",
+  "company": "Tenable Holdings, Inc.",
+  "analysis_date": "2026-07-27",
+  "source_file": "cache/2026-07-27/candidates/news/TENB.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "Tenable 積極轉型 AI 安全平台以推動長期成長，但面臨估值過高與分析師評級下調的短期壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cantor Fitzgerald Maintains Overweight on Tenable Holdings, Raises Price Target to $45",
+      "publisher": "Benzinga",
+      "date": "2026-07-24 08:26",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Jonathan Ruykhaver 維持「加碼」評級並將目標價上調至 $45，顯示市場對其長期成長潛力仍具信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Tenable (TENB) Stock Outlook as Tenable Builds an AI-Led Security Platform",
+      "publisher": "Yahoo",
+      "date": "2026-07-21 15:52",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Tenable 透過 Tenable One 與 Hexa AI 平台成功從單純的漏洞掃描轉型為 AI 安全領導者，具備長期競爭優勢。"
+    },
+    {
+      "rank": 3,
+      "title": "TENB and the AI Security Trend Reshaping Exposure Management",
+      "publisher": "Yahoo",
+      "date": "2026-07-21 15:49",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "強調公司在 AI 安全趨勢下的市場定位，有助於鞏固其在風險暴露管理領域的領導地位。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Truist Securities Downgrades Tenable Holdings to Hold, Raises Price Target to $40",
+      "publisher": "Benzinga",
+      "date": "2026-07-21 06:55",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Junaid Siddiqui 將評級從「買進」下調至「持有」，主要考量估值已反映成長預期，上漲空間有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Tenable (TENB) Stock Trades Down, Here Is Why",
+      "publisher": "Yahoo",
+      "date": "2026-07-21 22:22",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受 Truist 降評影響，股價當日下跌 10%，反映市場對其短期高估值的修正壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is TENB Stock a Buy Now or Fairly Valued After Its Big 2026 Rally?",
+      "publisher": "Yahoo",
+      "date": "2026-07-21 15:50",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "探討 2026 年大漲後的估值合理性，認為基本面雖強但已反映在股價中，屬於中性觀點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

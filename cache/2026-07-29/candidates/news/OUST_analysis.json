@@ -1,0 +1,66 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-07-27",
+  "source_file": "cache/2026-07-27/candidates/news/OUST.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對 Ouster 在 Physical AI 領域的成長潛力與估值存在分歧，分析師上調目標價與槓桿 ETF 的推出支撐股價，但面臨競爭對手 Hesai 的強勢挑戰與短期獲利了結壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Northland Capital Markets Maintains Outperform on Ouster, Raises Price Target to $60",
+      "publisher": "Benzinga",
+      "date": "2026-07-21 14:39",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Tim Savageaux 維持 Ouster 的「優於大盤」評級，並將目標價大幅上調至 $60，顯示市場對其長期成長動能與技術競爭力的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Physical AI Boom Drives Interest in Ouster Stock: Here's a New 2x ETF Playing the Trend",
+      "publisher": "Benzinga",
+      "date": "2026-07-20 14:59",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Defiance 推出 2 倍槓桿 ETF (OUSL) 追蹤 Ouster，反映出市場對 Physical AI 趨勢的熱度，有助於提升該股的流動性與市場關注度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ouster Vs. Hesai: Which Physical AI Stock is a Better Bet Now?",
+      "publisher": "Yahoo",
+      "date": "2026-07-21 14:10",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "該分析指出 Hesai 在獲利能力、車用光達領導地位及全球合作夥伴關係上優於 Ouster，且估值更具吸引力，對 Ouster 的相對投資價值構成壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Ouster, Inc. (OUST) Dipped More Than Broader Market Today",
+      "publisher": "Yahoo",
+      "date": "2026-07-20 22:15",
+      "impact": "low",
+      "category": "股價波動",
+      "reason": "OUST 單日下跌 6.13%，表現弱於大盤，顯示在近期漲勢後出現獲利了結賣壓，短期技術面修正風險增加。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ouster Names Shaluinn Fullove as Chief People Officer to Drive Global Growth and Talent Strategy",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 10:00",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "公司任命 Shaluinn Fullove 為首席人力資源官，旨在強化全球人才策略，屬於公司治理層面的常規人事布局，對股價短期影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,120 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-07-27",
+  "source_file": "cache/2026-07-27/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "Broadcom 憑藉強勁的 AI 晶片需求與三星簽署高達 2,000 億美元的長期合作協議，儘管短期股價受市場波動影響，但長期成長動能與定價能力依然穩固。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Samsung, Broadcom Ink $200 Billion AI Chip Pact Through 2030 as Foundry Race With TSMC Heats Up",
+      "publisher": "Benzinga",
+      "date": "2026-07-26 02:20",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "Broadcom 與三星簽署價值超過 2,000 億美元的長期晶片製造協議，確保了至 2030 年的產能與技術優勢，是極具指標性的利多。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom (AVGO) Lands At The Center Of A $35 Billion AI Financing Trade",
+      "publisher": "Yahoo",
+      "date": "2026-07-24 07:16",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "華爾街銀行啟動 350 億美元的 AI 融資計畫，顯示金融市場對 Broadcom 在 AI 基礎設施領域的長期價值高度認可。"
+    },
+    {
+      "rank": 3,
+      "title": "TSMC Just Announced Incredible News for Nvidia and Broadcom Investors",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 10:05",
+      "impact": "medium",
+      "category": "產業趨勢",
+      "reason": "台積電釋出正面訊號，確認 AI 基礎設施建設需求強勁，直接利好 Broadcom 的晶片業務前景。"
+    },
+    {
+      "rank": 4,
+      "title": "Missed Out on Nvidia's Historic Run? These 2 Tech Winners Are Just Getting Started.",
+      "publisher": "Yahoo",
+      "date": "2026-07-24 21:50",
+      "impact": "medium",
+      "category": "投資分析",
+      "reason": "分析指出 Broadcom 具備長期成長潛力，被視為繼 Nvidia 之後的 AI 領域核心投資標的。"
+    },
+    {
+      "rank": 5,
+      "title": "Vanguard’s VIG Dividend ETF’s Top Stock Is… Broadcom? Here’s Why",
+      "publisher": "Yahoo",
+      "date": "2026-07-22 15:20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Broadcom 成為 Vanguard 股息 ETF 的最大持股，反映其財務穩健性與持續配息能力，吸引長期價值型投資人。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "SK Hynix, Samsung Ink $950 Billion AI Chip Deals, But Stocks Still Slide",
+      "publisher": "Yahoo",
+      "date": "2026-07-27 03:36",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管有重大合約利多，但受整體科技股賣壓影響，Broadcom 股價隨大盤下滑，顯示短期市場情緒脆弱。"
+    },
+    {
+      "rank": 2,
+      "title": "What's Going on With Broadcom Stock Friday?",
+      "publisher": "Benzinga",
+      "date": "2026-07-24 12:01",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "股價跌破 50 日移動平均線，技術面轉弱，短期內面臨 414 美元的壓力測試。"
+    },
+    {
+      "rank": 3,
+      "title": "What's Going on With Broadcom Stock Wednesday?",
+      "publisher": "Benzinga",
+      "date": "2026-07-22 08:57",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "盤前股價下跌 2%，反映科技板塊整體回調壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "TSMC’s Price Hikes Could Show Which AI Chip Stocks Have Real Pricing Power",
+      "publisher": "Yahoo",
+      "date": "2026-07-24 12:40",
+      "impact": "medium",
+      "category": "產業趨勢",
+      "reason": "台積電計畫漲價，對 Broadcom 而言是雙面刃，既考驗其轉嫁成本的定價能力，也可能壓縮毛利率。"
+    },
+    {
+      "rank": 2,
+      "title": "Are Computer and Technology Stocks Lagging Broadcom (AVGO) This Year?",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 13:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為年度績效對比分析，未對未來股價走勢提供明確指引。"
+    },
+    {
+      "rank": 3,
+      "title": "Alphabet CEO Sundar Pichai Just Made a Major Decision Affecting Nvidia and Broadcom Investors",
+      "publisher": "Yahoo",
+      "date": "2026-07-27 00:51",
+      "impact": "low",
+      "category": "公司策略",
+      "reason": "Alphabet 的資本決策對 Broadcom 影響間接，目前缺乏具體細節評估其對營收的實質貢獻。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
