@@ -1,0 +1,93 @@
+{
+  "ticker": "ARM",
+  "company": "Arm Holdings plc",
+  "analysis_date": "2026-07-27",
+  "source_file": "cache/2026-07-27/candidates/news/ARM.json",
+  "summary": {
+    "total_articles": 17,
+    "bullish_count": 9,
+    "bearish_count": 5,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "Arm 憑藉其在 AI 伺服器架構市占率的提升與強勁的授權模式，持續獲得市場看好，儘管近期面臨部分投行下調目標價的獲利回吐壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Arm Just Scored a Major Server Market Share Win. What That Means for ARM Stock Here.",
+      "publisher": "Yahoo",
+      "date": "2026-07-25 14:00",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Arm 在 AI 伺服器市場取得重大市占率突破，證明其架構在高效能運算領域的競爭力，為長期成長提供強大支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Arm Holdings (ARM) Is Up 5.9% After Overtaking x86 In AI GPU Servers",
+      "publisher": "Yahoo",
+      "date": "2026-07-24 13:10",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Arm 架構正式超越 x86 成為 AI 伺服器主流平台，此技術里程碑直接推動股價上漲，並強化其市場領導地位。"
+    },
+    {
+      "rank": 3,
+      "title": "Leading investment bank lifts Arm target to $320 as AI drives surge in CPU demand",
+      "publisher": "Yahoo",
+      "date": "2026-07-20 11:27",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Jefferies 將目標價從 $290 上調至 $320，反映出 AI 工作負載對 CPU 需求激增，看好其長期獲利前景。"
+    },
+    {
+      "rank": 4,
+      "title": "Can Arm Holdings Become a $1 Trillion Company?",
+      "publisher": "Yahoo",
+      "date": "2026-07-24 19:09",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "探討 Arm 作為 AI 基礎設施關鍵設計者的潛力，市場對其市值邁向 1 兆美元的預期提升了投資人信心。"
+    },
+    {
+      "rank": 5,
+      "title": "Why ARM's AI Opportunity Could Extend Beyond Market Hype",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 16:20",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析指出 Arm 的授權模式與市場擴張具有實質基本面支撐，不僅僅是短期 AI 炒作，有利於股價長期穩定。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "ARM Stock Takes A Breather After Three Days Of Gains — Wells Fargo Cuts Price Target",
+      "publisher": "Yahoo",
+      "date": "2026-07-22 15:58",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Wells Fargo 將目標價從 $410 下調至 $350，警告未來面臨「艱難的設定」，導致股價在連續上漲後出現回調壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "UBS Maintains Buy on ARM Holdings, Lowers Price Target to $360",
+      "publisher": "Yahoo",
+      "date": "2026-07-20 14:43",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "UBS 雖維持買入評級，但將目標價從 $470 大幅下調至 $360，反映出對晶片股整體回調的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Should You Be Bullish on Arm Holdings plc (ARM)?",
+      "publisher": "Yahoo",
+      "date": "2026-07-21 14:21",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "引用 NZS Capital 的成長型投資策略報告，提供客觀的投資觀點分析，未對股價產生直接驅動影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

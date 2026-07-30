@@ -1,0 +1,102 @@
+{
+  "ticker": "NOW",
+  "company": "ServiceNow",
+  "analysis_date": "2026-07-27",
+  "source_file": "cache/2026-07-27/candidates/news/NOW.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 1,
+    "neutral_count": 5,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "ServiceNow 憑藉強勁的第二季財報表現、AI 業務突破 10 億美元大關以及上調全年財測，成功扭轉市場對 SaaS 產業的悲觀情緒。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "ServiceNow’s quiet $1B cybersecurity boom",
+      "publisher": "Yahoo",
+      "date": "2026-07-24 18:47",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第二季財報優於預期，且 AI 相關業務營收突破 10 億美元，顯示其在企業軟體市場的強勁成長動能。"
+    },
+    {
+      "rank": 2,
+      "title": "NOW Stock in Focus as ServiceNow Boosts Annual Forecast",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 19:17",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司不僅財報亮眼，更上調全年財測，獲得 Cantor Fitzgerald 等機構看好，認為股價仍有顯著上漲空間。"
+    },
+    {
+      "rank": 3,
+      "title": "Bank of America spots ServiceNow’s overlooked AI advantage",
+      "publisher": "Yahoo",
+      "date": "2026-07-24 16:33",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "美國銀行重申買入評級與 130 美元目標價，強調其在 AI 領域的競爭優勢被市場低估。"
+    },
+    {
+      "rank": 4,
+      "title": "ServiceNow Surges 6%, Salesforce Climbs 4% as Government AI Deals Lift Enterprise Software",
+      "publisher": "Yahoo",
+      "date": "2026-07-24 17:38",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "聯邦政府 AI 合約需求激增，為 ServiceNow 等企業軟體公司帶來實質訂單成長，推動股價上漲。"
+    },
+    {
+      "rank": 5,
+      "title": "ServiceNow CEO Reveals a Literal 'Kill Switch' for Rogue AI Agents",
+      "publisher": "Yahoo",
+      "date": "2026-07-24 17:31",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "執行長 Bill McDermott 提出 AI 代理「終止開關」機制，有效緩解市場對 AI 風險的擔憂，強化企業客戶信心。"
+    },
+    {
+      "rank": 6,
+      "title": "ServiceNow (NOW) Teams Up With TeamViewer As Experian Expands AI Platform Use",
+      "publisher": "Yahoo",
+      "date": "2026-07-26 18:07",
+      "impact": "low",
+      "category": "合作夥伴",
+      "reason": "與 TeamViewer 達成多年合作協議，進一步擴大其數位員工體驗平台的應用場景。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "NOW (PSE:NOW) Tracks Software Sentiment, Is The Valuation Already Overvalued?",
+      "publisher": "Yahoo",
+      "date": "2026-07-24 14:13",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章質疑在軟體產業競爭加劇（如 Oracle 獲得國防部合約）的背景下，ServiceNow 的估值是否過高。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Salesforce vs. ServiceNow: Which Agentic AI Stock Is Actually the Better Buy Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-07-26 11:25",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對兩大軟體巨頭在 AI 領域的競爭進行比較，屬於產業分析性質，無明確單一方向影響。"
+    },
+    {
+      "rank": 2,
+      "title": "NOW Stock Draws Price Target Hikes After Q2 Beat – Bernstein Sees ‘Relief’ While UBS Warns Of ‘Mixed Demand’",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 16:47",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "雖然財報亮眼，但 UBS 等機構提醒市場需求仍存在不確定性，多空觀點並存。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

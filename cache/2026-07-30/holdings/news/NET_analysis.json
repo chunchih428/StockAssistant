@@ -1,0 +1,102 @@
+{
+  "ticker": "NET",
+  "company": "Cloudflare",
+  "analysis_date": "2026-07-27",
+  "source_file": "cache/2026-07-27/holdings/news/NET.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 4,
+    "bearish_count": 3,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "華爾街分析師普遍看好 Cloudflare 的成長潛力並紛紛上調目標價，儘管市場對其估值與競爭壓力仍存有疑慮。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Oppenheimer Maintains Outperform on Cloudflare, Raises Price Target to $330",
+      "publisher": "Benzinga",
+      "date": "2026-07-23",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Oppenheimer 分析師 Param Singh 維持「優於大盤」評級並將目標價調升至 $330，顯示對公司長期營收成長與市場地位的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Citizens Maintains Market Outperform on Cloudflare, Raises Price Target to $330",
+      "publisher": "Benzinga",
+      "date": "2026-07-20",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師 Patrick Walravens 上調目標價至 $330，反映出市場對 Cloudflare 在雲端安全領域的持續擴張持正面看法。"
+    },
+    {
+      "rank": 3,
+      "title": "Truist Securities Maintains Buy on Cloudflare, Raises Price Target to $300",
+      "publisher": "Benzinga",
+      "date": "2026-07-21",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師 Junaid Siddiqui 維持「買進」評級並上調目標價，強化了市場對該股的正面預期。"
+    },
+    {
+      "rank": 4,
+      "title": "Wells Fargo Maintains Overweight on Cloudflare, Raises Price Target to $300",
+      "publisher": "Benzinga",
+      "date": "2026-07-20",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Wells Fargo 分析師 Ryan Macwilliams 維持「加碼」評級並調升目標價，顯示機構投資人對其基本面看好。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare Stock Is Not a Buy Despite Its Strong Outlook. Here’s Why.",
+      "publisher": "Barchart",
+      "date": "2026-07-22",
+      "impact": "medium",
+      "category": "市場觀點",
+      "reason": "儘管前景強勁，但分析指出目前股價可能已過高，建議投資人需考量估值風險，對短期買進持保留態度。"
+    },
+    {
+      "rank": 2,
+      "title": "CoreWeave Jumps 6% on Truist Buy Upgrade, Pulling Ahead of Cloudflare, Snowflake, Oracle",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-07-22",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "競爭對手 CoreWeave 獲得升評並股價上漲，市場將其與 Cloudflare 進行比較，暗示競爭壓力可能影響資金配置。"
+    },
+    {
+      "rank": 3,
+      "title": "Nebius Is Down 9% Today: How Does NBIS Compare to Other AI Cloud Stocks Like CoreWeave and Cloudflare?",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-07-24",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "透過與其他 AI 雲端股的比較分析，突顯了 Cloudflare 在高估值環境下所面臨的市場波動風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Cloudflare (NET) Launches Precursor To Rethink Bot Checks In The Browser",
+      "publisher": "Simply Wall St.",
+      "date": "2026-07-26",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "公司推出新技術 Precursor 以優化瀏覽器機器人檢測，屬於常規產品更新，對股價影響有限。此篇涵蓋了技術細節，故選為代表。"
+    },
+    {
+      "rank": 2,
+      "title": "Cloudflare (NET) Launches Precursor, Is The Stock Already Above Fair Value?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-07-26",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "探討新產品發布的同時質疑其估值，正負面觀點抵銷，維持中性看法。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,83 @@
+{
+  "ticker": "HON",
+  "company": "Honeywell",
+  "analysis_date": "2026-07-27",
+  "source_file": "cache/2026-07-27/candidates/news/HON.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 18,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Honeywell 憑藉強勁的第二季財報表現、自動化業務的成長以及上調全年獲利指引，獲得市場分析師的一致看好與目標價調升。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Honeywell International Inc. (HON) Beats Q2 Earnings and Revenue Estimates",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 11:40",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "Honeywell 第二季財報表現亮眼，每股盈餘 (EPS) 超出預期 8.33%，營收超出預期 4.19%，顯示公司在業務轉型與自動化領域的執行力強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "Honeywell Raises EPS Outlook, Cuts Sales Forecast After First Post-Split Earnings",
+      "publisher": "Benzinga",
+      "date": "2026-07-23 13:50",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司上調了 2026 年全年調整後 EPS 指引，顯示管理層對未來獲利能力的信心，儘管營收預測微調，但獲利品質的提升對股價更具支撐力。"
+    },
+    {
+      "rank": 3,
+      "title": "RBC Capital Maintains Outperform on Honeywell Intl, Raises Price Target to $298",
+      "publisher": "Benzinga",
+      "date": "2026-07-24 10:42",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "RBC Capital 分析師 Deane Dray 維持「優於大盤」評級並將目標價調升至 298 美元，反映了市場對其財報後成長動能的正面認可。"
+    },
+    {
+      "rank": 4,
+      "title": "Citigroup Maintains Buy on Honeywell Intl, Raises Price Target to $279",
+      "publisher": "Benzinga",
+      "date": "2026-07-24 15:01",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "花旗分析師 Andrew Kaplowitz 維持「買進」評級並調升目標價至 279 美元，進一步強化了華爾街對該股的看漲共識。"
+    },
+    {
+      "rank": 5,
+      "title": "Building automation products to proliferate in slimmed-down Honeywell, CEO Kapur says",
+      "publisher": "Yahoo",
+      "date": "2026-07-24 08:20",
+      "impact": "medium",
+      "category": "業務發展",
+      "reason": "執行長 Kapur 強調醫療、飯店與數據中心領域的自動化需求成長，顯示公司在核心業務轉型上的策略方向正確且具備長期成長潛力。"
+    },
+    {
+      "rank": 6,
+      "title": "The Bull Case For TAT Technologies (TATT) Could Change Following Exclusive Honeywell APU Parts Deal Extension",
+      "publisher": "Yahoo",
+      "date": "2026-07-26 15:13",
+      "impact": "low",
+      "category": "業務發展",
+      "reason": "Honeywell 與 TAT Technologies 延長 APU 零件獨家供應協議至 2036 年，顯示 Honeywell 在供應鏈管理上的穩定性與長期合作關係。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Honeywell Technologies Announces Quarterly Dividend",
+      "publisher": "Yahoo",
+      "date": "2026-07-24 13:13",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "公司宣布季度股利發放，屬於例行性財務活動，對股價影響中性，反映公司現金流穩定。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

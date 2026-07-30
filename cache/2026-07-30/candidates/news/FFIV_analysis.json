@@ -1,0 +1,84 @@
+{
+  "ticker": "FFIV",
+  "company": "F5",
+  "analysis_date": "2026-07-27",
+  "source_file": "cache/2026-07-27/candidates/news/FFIV.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "neutral",
+    "key_theme": "市場正密切關注 F5 即將公布的第 3 季財報，多空雙方對於其軟體成長與 AI 基礎設施需求能否抵銷獲利下滑壓力存在分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "F5: Strong Fundamentals, Uninspiring Entry Point",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-21 04:03",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 F5 正處於強勁的硬體更新週期，帶動產品與系統營收實現雙位數成長，顯示公司基本面穩健。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Earnings Preview: F5 Networks (FFIV) Q3 Earnings Expected to Decline",
+      "publisher": "Yahoo",
+      "date": "2026-07-20 14:00",
+      "impact": "medium",
+      "category": "財報預測",
+      "reason": "根據量化模型分析，F5 目前缺乏足以支撐財報超預期的關鍵指標，預期第 3 季獲利將面臨下滑壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "F5's Specialist Approach Vs. Palo Alto's Platformization",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-25 09:04",
+      "impact": "low",
+      "category": "競爭分析",
+      "reason": "將 F5 的專業安全策略與 Palo Alto 的平台化策略進行對比，暗示在市場競爭中，F5 可能面臨平台整合趨勢帶來的市場份額挑戰。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "FFIV Set to Post Q3 Earnings: What's in Store for the Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-07-23 13:50",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "該報導為財報前瞻，重點關注混合多雲、AI 基礎設施需求及軟體成長，屬於中性市場預期整理。"
+    },
+    {
+      "rank": 2,
+      "title": "F5 (FFIV) Q2 Earnings Report Preview: What To Look For",
+      "publisher": "Yahoo",
+      "date": "2026-07-26 03:49",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "此為財報發布前的例行性前瞻報導，旨在提醒投資人關注關鍵財務指標，未提供明確的多空方向。"
+    },
+    {
+      "rank": 3,
+      "title": "Curious about F5 (FFIV) Q3 Performance? Explore Wall Street Estimates for Key Metrics",
+      "publisher": "Yahoo",
+      "date": "2026-07-22 13:15",
+      "impact": "low",
+      "category": "財報預測",
+      "reason": "提供華爾街對 F5 第 3 季關鍵財務指標的預估數據，屬於資訊揭露性質，協助投資人建立財報預期。"
+    },
+    {
+      "rank": 4,
+      "title": "F5 (FFIV) Q2 Earnings Report Preview: What To Look For",
+      "publisher": "StockStory",
+      "date": "2026-07-26 03:49",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "與 Yahoo 同名報導內容相似，作為財報前瞻資訊，對股價無直接驅動影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

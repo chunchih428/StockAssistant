@@ -1,0 +1,111 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla",
+  "analysis_date": "2026-07-27",
+  "source_file": "cache/2026-07-27/holdings/news/TSLA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 2,
+    "bearish_count": 13,
+    "neutral_count": 5,
+    "overall_sentiment": "bearish",
+    "key_theme": "Tesla 因第 2 季財報表現不如預期、現金流轉負及資本支出增加，導致股價面臨沉重賣壓與市場對其長期獲利能力的質疑。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Elon Musk Just Revealed a Quiet Win for Tesla’s AI Ambitions",
+      "publisher": "Yahoo",
+      "date": "2026-07-26 15:00",
+      "impact": "medium",
+      "category": "技術發展",
+      "reason": "獲得 Micron 提供的關鍵記憶體晶片配置，有助於支撐 Tesla 在 AI 與自動駕駛領域的長期發展。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla Sank 15% on Its Q2 Miss. Wall Street's Average Price Target Now Implies 29% Upside.",
+      "publisher": "Yahoo",
+      "date": "2026-07-25 16:57",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "雖然股價大跌，但華爾街分析師的平均目標價仍隱含 29 % 的上漲空間，顯示部分機構仍看好其長期價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Musk's bad week: Tesla suffers worst slump since 2022, SpaceX drops ahead of Starship test flight",
+      "publisher": "CNBC",
+      "date": "2026-07-24 16:20",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "Tesla 第 2 季財報表現疲軟，獲利未達標且現金流轉為負值，引發市場恐慌性拋售，為近期股價下跌的主要催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla's Revenue Beat Hid The Number That Actually Sank The Stock",
+      "publisher": "Yahoo",
+      "date": "2026-07-25 14:43",
+      "impact": "high",
+      "category": "財務分析",
+      "reason": "儘管營收表現尚可，但獲利能力腰斬及現金流惡化，揭露了公司核心營運的結構性問題。"
+    },
+    {
+      "rank": 3,
+      "title": "Tesla Is Still Overvalued After Its 14% Post-Earnings Drop",
+      "publisher": "Yahoo",
+      "date": "2026-07-26 20:17",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析指出資本支出持續上升與利潤率緊縮的組合，使得即便股價下跌後，估值仍顯得過高。"
+    },
+    {
+      "rank": 4,
+      "title": "Ross Gerber Questions Tesla's Optimus Bet: 'There's No Revenue Coming Anytime Soon'",
+      "publisher": "Yahoo",
+      "date": "2026-07-26 22:30",
+      "impact": "medium",
+      "category": "公司策略",
+      "reason": "知名投資人質疑 Optimus 機器人計畫的變現能力，認為短期內無法為公司帶來實質營收貢獻。"
+    },
+    {
+      "rank": 5,
+      "title": "Down 30% on the Year, Is Tesla Stock a Buy On This Latest Dip?",
+      "publisher": "Yahoo",
+      "date": "2026-07-26 09:40",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "今年以來股價已下跌 30 %，市場情緒轉向悲觀，建議投資人持續避開該標的。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: NVDA, GOOGL, ORCL, TSLA, INTC",
+      "publisher": "Yahoo",
+      "date": "2026-07-27 02:05",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅反映散戶對 Tesla 的關注度高，屬於市場熱門股的常態討論，無實質基本面影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla Debuts Its Robotaxis in Orlando and Tampa. What This Means for TSLA Stock.",
+      "publisher": "Yahoo",
+      "date": "2026-07-25 14:00",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "Robotaxi 的展示屬於既定產品進程，市場已預期，對股價短期影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "Want to Build Your Own Tesla Model S or X? Elon Musk Will Show You How.",
+      "publisher": "Yahoo",
+      "date": "2026-07-26 16:01",
+      "impact": "low",
+      "category": "公司策略",
+      "reason": "釋出已取消車型的設計圖，屬於公關操作，對公司財務與營運無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
