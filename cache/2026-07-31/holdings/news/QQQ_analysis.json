@@ -1,0 +1,111 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-07-31",
+  "source_file": "cache/2026-07-31/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 3,
+    "bearish_count": 4,
+    "neutral_count": 3,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對 QQQ 的 AI 科技股權重配置存在分歧，一方面看好其資金流入優勢，另一方面擔憂科技巨頭資本支出競賽帶來的估值風險與技術面疲軟。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "BlackRock’s Nasdaq ETF Challenger Is Growing — But QQQ Still Pulls 300× More Inflows",
+      "publisher": "Benzinga",
+      "date": "2026-07-27 16:12",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管面臨競爭，QQQ 在資金流入方面仍展現出壓倒性的市場主導地位，顯示其作為 Nasdaq-100 指數首選投資工具的流動性優勢。"
+    },
+    {
+      "rank": 2,
+      "title": "Aggressive Buying On Nvidia Backing Massive OpenAI Data Center And Trump Pausing Iran Attacks",
+      "publisher": "Benzinga",
+      "date": "2026-07-27 15:09",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "AI 基礎設施投資（如 Nvidia 與 OpenAI 的合作）持續推動科技股買盤，對作為科技權重型 ETF 的 QQQ 構成潛在支撐。"
+    },
+    {
+      "rank": 3,
+      "title": "Top Three Catalysts for VOO, QQQ and DIA ETFs This Week",
+      "publisher": "Benzinga",
+      "date": "2026-07-26 15:55",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場關注財報與聯準會政策動向，這類總體經濟催化劑通常會為 QQQ 帶來波動性，提供交易機會。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "QQQ And Tech Earnings: They Can't All Win The CapEx Arms Race",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-27 04:04",
+      "impact": "high",
+      "category": "財報分析",
+      "reason": "分析指出大型科技股在 AI 領域的資本支出競賽可能無法全數獲利，對 QQQ 的高估值成分股構成獲利回吐壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Daily Breadth Rebounds, but the Negative Bias Remains",
+      "publisher": "ChartMill",
+      "date": "2026-07-28 12:04",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "技術面顯示 QQQ 走勢疲軟且市場參與度不足 50%，反映出整體市場廣度不佳，短期趨勢偏向中性偏空。"
+    },
+    {
+      "rank": 3,
+      "title": "SPYG Vs. QQQ: It's Not The Tech Exposure, It's What's Inside It",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-30 13:20",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "建議投資人考慮風險調整後的報酬，指出 QQQ 在 AI 與半導體產業的集中度風險，促使資金轉向更具防禦性的成長型 ETF。"
+    },
+    {
+      "rank": 4,
+      "title": "Trump Says US Should Have the World's Lowest Interest Rates: What Do Prediction Markets Say?",
+      "publisher": "Benzinga",
+      "date": "2026-07-28 14:03",
+      "impact": "low",
+      "category": "總體經濟",
+      "reason": "市場對聯準會意外升息的預期（Polymarket 顯示 20% 機率）增加，利率不確定性對高估值的科技股 ETF 構成潛在逆風。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Top Three ETFs to Watch This Week: TQQQ, MAGS, SCHD",
+      "publisher": "Benzinga",
+      "date": "2026-07-26 15:25",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅提及 ETF 整體資金流入規模，未對 QQQ 本身做出明確的方向性預測。"
+    },
+    {
+      "rank": 2,
+      "title": "TQQQ: What a $10,000 Bet on This 3X Nasdaq ETF Would Actually Be Worth Today",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-07-31 01:08",
+      "impact": "low",
+      "category": "投資教育",
+      "reason": "文章重點在於槓桿型 ETF 的歷史績效回顧，對 QQQ 的短期股價走勢無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Daily Breadth Improves, but the Broader Trend Stays Fragile",
+      "publisher": "ChartMill",
+      "date": "2026-07-29 12:18",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "與前一日報告內容高度重疊，確認市場廣度雖有改善但整體趨勢仍處於脆弱的平衡狀態。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

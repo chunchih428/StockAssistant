@@ -1,0 +1,84 @@
+{
+  "ticker": "ARM",
+  "company": "Arm Holdings plc",
+  "analysis_date": "2026-07-31",
+  "source_file": "cache/2026-07-31/candidates/news/ARM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 6,
+    "neutral_count": 4,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司發布強勁的第 1 季財報並展現 AI 領域的成長動能，但市場對高估值產生疑慮，導致多家券商下調目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Arm Holdings PLC (ARM) (Q1 2027) Earnings Call Highlights: Record Revenue and AI Growth",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 05:00",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第 1 季營收達 12.9 億美元，年增 22.4%，數據中心權利金收入翻倍，展現強勁的 AI 基礎設施需求。"
+    },
+    {
+      "rank": 2,
+      "title": "Guggenheim Reiterates Buy on ARM Holdings, Maintains $255 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-07-30 09:53",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師維持買入評級與目標價，顯示對公司長期 AI 架構授權模式的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Arm remains key AI infrastructure beneficiary despite softer handset outlook, Citi says",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 19:38",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "花旗指出儘管手機市場需求疲軟，但 Arm 在 AI 基礎設施的長期定位依然穩固。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "UBS Maintains Buy on ARM Holdings, Lowers Price Target to $320",
+      "publisher": "Benzinga",
+      "date": "2026-07-30 15:53",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "瑞銀雖維持買入評級，但將目標價從 360 美元下調至 320 美元，反映市場對高估值的修正壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Arm Holdings Q1 FY2027 earnings beat estimates on AI demand — but Arm stock dropped more than 8%",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 12:53",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "儘管財報優於預期，但股價在財報後出現超過 8% 的跌幅，顯示市場對其成長預期過高，出現獲利了結賣壓。"
+    },
+    {
+      "rank": 3,
+      "title": "Wells Fargo Maintains Overweight on ARM Holdings, Lowers Price Target to $280",
+      "publisher": "Benzinga",
+      "date": "2026-07-30 10:53",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "富國銀行下調目標價，反映出在當前市場環境下，投資人對半導體類股估值倍數的重新評估。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Morgan Stanley Maintains Equal-Weight on ARM Holdings, Raises Price Target to $212",
+      "publisher": "Benzinga",
+      "date": "2026-07-30 13:23",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "摩根士丹利維持中立評級，僅小幅調整目標價，顯示其對該股目前價格區間持觀望態度。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

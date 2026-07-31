@@ -1,0 +1,111 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-07-31",
+  "source_file": "cache/2026-07-31/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 4,
+    "bearish_count": 9,
+    "neutral_count": 7,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管 Apple 第三季財報優於預期，但因記憶體供應鏈短缺與中國市場銷售疲軟，導致財測不如預期，引發股價盤後重挫。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple (AAPL) Q3 Earnings and Revenues Beat Estimates",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 22:00",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "Apple 第三季營收與每股盈餘分別超出預期 0.62% 與 1.60%，顯示核心 iPhone 業務仍具備強勁動能。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple commits more than $30 billion to US manufacturing",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 22:08",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "承諾投入 300 億美元於美國製造，有助於長期供應鏈韌性與符合政策導向，對品牌形象有正面助益。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple shares just hit a record",
+      "publisher": "CNBC",
+      "date": "2026-07-29 13:47",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "在財報公布前夕股價創下歷史新高，反映市場對其 AI 布局與成長潛力的強烈信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Apple turns to leasing to shorten the iPhone upgrade cycle",
+      "publisher": "CNBC",
+      "date": "2026-07-28 17:03",
+      "impact": "low",
+      "category": "產品策略",
+      "reason": "透過 Klarna 合作推動租賃方案，有助於降低消費者購機門檻並縮短換機週期，提升服務營收。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "AAPL Stock Drops 7% After-Hours — Apple's Q3 China Sales Slow, Tim Cook Flags Memory Supply Constraints Affecting Q4 Revenue",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 23:07",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "財測顯示營收成長僅 9% 至 11%，低於市場預期，且 Tim Cook 明確指出記憶體供應鏈瓶頸與中國市場疲軟將持續影響第四季表現。"
+    },
+    {
+      "rank": 2,
+      "title": "Tim Cook signed off on his final Apple earnings call with a warning about a ‘hundred year flood’ in memory chip pricing",
+      "publisher": "Yahoo",
+      "date": "2026-07-31 00:28",
+      "impact": "high",
+      "category": "營運風險",
+      "reason": "CEO Tim Cook 離任前發出警示，稱記憶體成本飆升為「百年一遇的洪水」，將嚴重壓縮硬體毛利率。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple (AAPL) Faces UK App Store Pushback And Crypto Scam Lawsuit",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 12:09",
+      "impact": "low",
+      "category": "法規與訴訟",
+      "reason": "面臨英國監管機構對 App Store 付款規則的挑戰及加密貨幣詐騙訴訟，增加法律合規成本與營運不確定性。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Tim Cook's final earnings call as Apple CEO",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 22:51",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "Tim Cook 進行最後一次財報會議並交棒給 John Ternus，市場關注新任 CEO 的領導風格與策略延續性。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple and Amazon report after the bell. Here's what the options market is saying",
+      "publisher": "CNBC",
+      "date": "2026-07-30 10:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導財報公布前的選擇權市場情緒，屬於事件前的市場預期分析，對股價無直接實質影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 17:40",
+      "impact": "low",
+      "category": "分析師觀點",
+      "reason": "分析師 Gene Munster 指出 iPhone 銷售逆風與漲價順風並存，屬於中性觀點，未對股價給出明確方向。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
