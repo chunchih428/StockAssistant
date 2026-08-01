@@ -1,0 +1,201 @@
+{
+  "ticker": "VOO",
+  "company": "S&P 500",
+  "analysis_date": "2026-07-31",
+  "source_file": "cache/2026-07-31/holdings/news/VOO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 8,
+    "bearish_count": 5,
+    "neutral_count": 7,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場在 AI 驅動的獲利成長與高估值擔憂之間拉鋸，投資人持續評估 VOO 作為長期核心配置的價值。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "The Stock Market Is Not Overvalued, Yet",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-27 09:28",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "指出 S&P 500 企業獲利成長高達 39.3%，強勁的基本面支撐了當前市場估值，反駁了市場過熱的論點。"
+    },
+    {
+      "rank": 2,
+      "title": "AI Is Killing Stocks, But Not The Way You Think",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-27 08:36",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析指出 S&P 500 前十大權值股的本益比約為 21 倍，遠低於 1999 年網路泡沫時期，顯示當前市場仍具備吸引力。"
+    },
+    {
+      "rank": 3,
+      "title": "This Vanguard ETF Consistently Beats the S&P 500. Here's Why More Outperformance Is Possible.",
+      "publisher": "Yahoo",
+      "date": "2026-07-27 03:29",
+      "impact": "medium",
+      "category": "投資策略",
+      "reason": "強調 Vanguard 指數基金長期績效優異，且具備持續超越大盤的潛力，增強投資人對 VOO 的信心。"
+    },
+    {
+      "rank": 4,
+      "title": "$10,000 Invested in Vanguard's S&P 500 ETF at Its Launch Is Worth This Much Today.",
+      "publisher": "Yahoo",
+      "date": "2026-07-27 00:07",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "透過歷史數據回測，展示長期持有 VOO 的複利效應，強調被動投資的長期價值。"
+    },
+    {
+      "rank": 5,
+      "title": "S&P 500 Rises As Oil Sinks On Iran Talk Hopes: Stock Market Today",
+      "publisher": "Benzinga",
+      "date": "2026-07-24 13:59",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "油價下跌緩解通膨壓力，帶動美股廣泛上漲，有利於 VOO 成分股的整體表現。"
+    },
+    {
+      "rank": 6,
+      "title": "Is It Really Safe to Invest in the Vanguard S&P 500 ETF Right Now? Here's What History Says.",
+      "publisher": "Yahoo",
+      "date": "2026-07-26 17:22",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "指出 2026 年 S&P 500 已上漲 10%，歷史數據顯示投資人情緒依然樂觀，支持持續投入。"
+    },
+    {
+      "rank": 7,
+      "title": "Top Three Catalysts for VOO, QQQ and DIA ETFs This Week",
+      "publisher": "Benzinga",
+      "date": "2026-07-26 15:55",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "預告財報與聯準會動向為本週關鍵催化劑，提供投資人關注焦點。"
+    },
+    {
+      "rank": 8,
+      "title": "RSP Nears $100 Billion as Equal Weight Finally Has Its Year",
+      "publisher": "Yahoo",
+      "date": "2026-07-31 00:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "雖然討論的是等權重 ETF，但反映了市場資金開始尋求多元化配置，對整體大盤生態系有正面意義。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Anatomy Of An Earnings Bubble: The Unseen Cracks Behind AI's Record EPS",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-29 17:30",
+      "impact": "high",
+      "category": "財報分析",
+      "reason": "警告 AI 相關獲利預測過度樂觀，且面臨高資本支出、現金流薄弱及中國 AI 政策壓力，可能引發獲利泡沫破裂。"
+    },
+    {
+      "rank": 2,
+      "title": "S&P 500 Declines As Higher Oil Prices, AI Capex Spending, And Risk Of Rate Hikes Scare Wall Street Bulls",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-27 08:17",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "總結上週市場下跌原因，包括油價上漲、AI 資本支出過高及升息風險，顯示市場對宏觀環境的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "History Says the S&P 500 Is Expensive: Should You Still Buy VOO?",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 17:20",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "針對市場處於歷史高點提出估值過高的警示，提醒投資人需注意回調風險。"
+    },
+    {
+      "rank": 4,
+      "title": "Vanguard ETFs offer bold escape from top-heavy S&P 500",
+      "publisher": "Yahoo",
+      "date": "2026-07-25 13:33",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "指出 S&P 500 指數過度集中於少數大型股，暗示投資人應尋求更分散的配置以規避風險。"
+    },
+    {
+      "rank": 5,
+      "title": "I Ran the Numbers on Retiring 5 Years Early With VOO. Here's What Changed My Mind.",
+      "publisher": "Yahoo",
+      "date": "2026-07-24 05:35",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "透過個人退休規劃案例，提醒投資人單一指數投資在特定時間點可能面臨的財務缺口風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "This Old-School Sector Battles Semiconductor ETFs For Supremacy",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 11:35",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "討論半導體與傳統產業的競爭，屬於產業輪動分析，對 VOO 整體影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Meet The 2 S&P 500 CEOs Paid Less Than $500 A Year",
+      "publisher": "Yahoo",
+      "date": "2026-07-27 11:42",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "關於 CEO 薪酬的趣聞，對股價無實質影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Here’s Why SCHD is Beating the S&P 500 in 2026 YTD",
+      "publisher": "Yahoo",
+      "date": "2026-07-26 22:07",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "比較不同 ETF 的績效，屬於投資組合選擇分析，不影響 VOO 本身價值。"
+    },
+    {
+      "rank": 4,
+      "title": "How Do the Vanguard S&P 500 Growth ETF and the State Street Small Cap Growth ETF Compare?",
+      "publisher": "Yahoo",
+      "date": "2026-07-25 23:10",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "比較成長型 ETF 與小型股 ETF，屬於產品比較分析。"
+    },
+    {
+      "rank": 5,
+      "title": "Is the Vanguard S&P 500 Growth ETF or iShares Small-Cap 600 Growth ETF the Better Fund in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-07-25 17:47",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "與上述新聞主題重複，均為 ETF 績效比較，對 VOO 影響中性。"
+    },
+    {
+      "rank": 6,
+      "title": "TSPY: A Daily Volatility Management Alternative Weathering Macro Shocks",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-28 08:15",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "介紹波動率管理工具，作為 S&P 500 的替代方案，對 VOO 本身無直接影響。"
+    },
+    {
+      "rank": 7,
+      "title": "ISCG vs. VOOG: Small-Cap Growth vs. S&P 500 Growth -- Which ETF Is the Better Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-07-24 11:13",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "針對成長型 ETF 的比較分析，對 VOO 整體影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

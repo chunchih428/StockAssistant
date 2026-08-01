@@ -1,0 +1,84 @@
+{
+  "ticker": "PANW",
+  "company": "Palo Alto Networks",
+  "analysis_date": "2026-07-31",
+  "source_file": "cache/2026-07-31/candidates/news/PANW.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 2,
+    "bearish_count": 3,
+    "neutral_count": 2,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對 Palo Alto Networks 的 AI 安全需求與長期成長前景持樂觀態度，但高昂的估值引發了投資人對股價過熱的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "BofA lifts cybersecurity stock targets to reflect long-term growth outlook",
+      "publisher": "Yahoo",
+      "date": "2026-07-25 23:27",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "美國銀行 (BofA) 上調了包括 PANW 在內的多家網路安全公司目標價，反映出市場對該產業長期成長潛力的信心，對股價具備實質支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "AT&T Business, Palo Alto Networks Expand Collaboration",
+      "publisher": "Benzinga",
+      "date": "2026-07-29 11:03",
+      "impact": "medium",
+      "category": "商業合作",
+      "reason": "與 AT&T Business 擴大合作關係，有助於 PANW 強化其在企業級網路安全市場的滲透率，並進一步推動營收成長。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Palo Alto Networks: Valuation Has Reached Absurd Levels",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-29 10:51",
+      "impact": "high",
+      "category": "市場觀點",
+      "reason": "分析指出 PANW 近期股價翻倍，但基本面支撐不足，估值已達「荒謬」水準，此類觀點易引發獲利了結賣壓。"
+    },
+    {
+      "rank": 2,
+      "title": "Palo Alto Networks (PANW) Stock Could Be Pricey After Fresh AI Security Demand",
+      "publisher": "Yahoo",
+      "date": "2026-07-28 19:09",
+      "impact": "medium",
+      "category": "市場觀點",
+      "reason": "儘管 AI 安全需求強勁，但市場擔憂該利多已充分反映在股價中，導致風險回報比下降，選此篇作為估值擔憂的代表。"
+    },
+    {
+      "rank": 3,
+      "title": "Palo Alto Networks (PANW) Stock Sinks As Market Gains: Here's Why",
+      "publisher": "Yahoo",
+      "date": "2026-07-27 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價在市場上漲期間逆勢下跌 1.94 %，顯示短期內存在技術性修正壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Palo Alto Networks, Inc. (PANW) Is a Trending Stock: Facts to Know Before Betting on It",
+      "publisher": "Yahoo",
+      "date": "2026-07-24 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場熱度分析，提供投資人基本事實參考，未對股價走勢給出明確方向。"
+    },
+    {
+      "rank": 2,
+      "title": "BreachRx Appoints Former Palo Alto Networks Sales Leader John Zilinskas as Chief Revenue Officer",
+      "publisher": "Yahoo",
+      "date": "2026-07-28 13:00",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "前 PANW 銷售主管離職轉任他職，屬於正常人才流動，對 PANW 本身營運影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

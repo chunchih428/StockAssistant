@@ -1,0 +1,111 @@
+{
+  "ticker": "HON",
+  "company": "Honeywell",
+  "analysis_date": "2026-07-31",
+  "source_file": "cache/2026-07-31/candidates/news/HON.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 2,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司完成業務分拆與資產處置，第二季財報表現優於預期，帶動華爾街分析師普遍上調目標價與評級。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Honeywell's Order Strength Improves Growth Visibility After Aerospace Separation, BofA Says",
+      "publisher": "Yahoo",
+      "date": "2026-07-28 15:12",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "Honeywell 第二季財報表現優於預期，且在航太業務分拆後，訂單趨勢強勁，顯著提升了未來成長的可見度。"
+    },
+    {
+      "rank": 2,
+      "title": "BofA upgrades Honeywell Technologies to Neutral after strong quarter, lifts PT",
+      "publisher": "Yahoo",
+      "date": "2026-07-28 13:56",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "美銀 (BofA) 分析師 Andrew Obin 將評級從「劣於大盤」上調至「中立」，並調升目標價至 265 美元，反映對公司基本面改善的認可。"
+    },
+    {
+      "rank": 3,
+      "title": "Citigroup Maintains Buy on Honeywell Intl, Raises Price Target to $279",
+      "publisher": "Benzinga",
+      "date": "2026-07-24 15:01",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "花旗分析師 Andrew Kaplowitz 維持「買進」評級並調升目標價至 279 美元，顯示市場對其轉型策略的信心。"
+    },
+    {
+      "rank": 4,
+      "title": "BMO Capital Maintains Outperform on Honeywell Intl, Raises Price Target to $276",
+      "publisher": "Benzinga",
+      "date": "2026-07-27 08:10",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "BMO Capital 維持「優於大盤」評級，並將目標價調升至 276 美元，肯定公司在自動化領域的成長潛力。"
+    },
+    {
+      "rank": 5,
+      "title": "Mizuho Maintains Outperform on Honeywell Intl, Raises Price Target to $265",
+      "publisher": "Benzinga",
+      "date": "2026-07-27 13:59",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "瑞穗分析師 Brett Linzey 維持「優於大盤」評級並調升目標價，反映對公司獲利動能的正面看法。"
+    },
+    {
+      "rank": 6,
+      "title": "HON Q2 Earnings Call Highlights Automation Growth Push",
+      "publisher": "Yahoo",
+      "date": "2026-07-24 14:00",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "財報電話會議強調了自動化轉型的進展，以及 2026 年財測的調升，為股價提供支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Honeywell vs. Rockwell: Which Industrial Automation Stock Has Greater Upside?",
+      "publisher": "Yahoo",
+      "date": "2026-07-28 15:57",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析指出 Rockwell Automation (ROK) 在獲利動能與自動化需求方面優於 Honeywell，對 HON 的相對投資吸引力構成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Honeywell Technologies Completes Sale of Warehouse and Workflow Solutions Business to American Industrial Partners",
+      "publisher": "Yahoo",
+      "date": "2026-07-27 11:19",
+      "impact": "medium",
+      "category": "資產處置",
+      "reason": "公司完成倉儲與工作流程解決方案業務的出售，此為既定策略的一部分，市場已預期該資產處置，對股價影響中性偏正面。"
+    },
+    {
+      "rank": 2,
+      "title": "Honeywell Technologies Announces Quarterly Dividend",
+      "publisher": "Yahoo",
+      "date": "2026-07-24 13:13",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "宣布季度股利發放，屬於例行性財務活動，對股價無顯著波動影響。"
+    },
+    {
+      "rank": 3,
+      "title": "$1000 Invested In Honeywell Intl 20 Years Ago Would Be Worth This Much Today",
+      "publisher": "Benzinga",
+      "date": "2026-07-28 10:34",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "回顧性歷史績效分析，對當前股價走勢無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

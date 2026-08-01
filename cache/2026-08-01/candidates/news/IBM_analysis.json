@@ -1,0 +1,93 @@
+{
+  "ticker": "IBM",
+  "company": "International Business Machines Corporation",
+  "analysis_date": "2026-07-31",
+  "source_file": "cache/2026-07-31/candidates/news/IBM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "IBM 在量子計算領域取得顯著技術突破，並透過出售非核心資產優化業務組合，儘管財報表現引發市場雜音，但整體技術領先地位仍獲肯定。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "IBM and The University of Chicago Demonstrate Quantum Advantage, Establishing Trusted Quantum Computation on Logical Circuits",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 10:54",
+      "impact": "high",
+      "category": "技術研發",
+      "reason": "IBM 與芝加哥大學成功展示量子優勢，透過邏輯電路實現可信量子計算，這是量子計算邁向實用化的關鍵里程碑，大幅提升公司技術護城河。"
+    },
+    {
+      "rank": 2,
+      "title": "IBM is Finally Fixing One of Quantum Computing’s Biggest Headaches",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 11:46",
+      "impact": "medium",
+      "category": "技術研發",
+      "reason": "IBM 發表三篇研究論文，解決量子計算準確性驗證難題，顯示其在量子錯誤修正技術上的領先地位，有助於吸引更多企業級客戶。"
+    },
+    {
+      "rank": 3,
+      "title": "IBM Stock: 3 Reasons Q2 Earnings Weren’t as Bad as Investors Feared",
+      "publisher": "Yahoo",
+      "date": "2026-07-29 18:57",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "分析師指出市場過度反應財報失誤，忽略了 IBM 在營運效率與核心業務上的潛在成長動能，為股價提供支撐。"
+    },
+    {
+      "rank": 4,
+      "title": "Is IBM (IBM) Quietly Turning QRadar Into the Core of Its AI Security Investment Story?",
+      "publisher": "Yahoo",
+      "date": "2026-07-29 15:08",
+      "impact": "medium",
+      "category": "產品策略",
+      "reason": "IBM 透過 QRadar SIEM 與 Resecurity 的整合，強化其在 AI 安全領域的戰略佈局，顯示公司正積極將 AI 轉化為實際營收驅動力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Circle Acquires IBM's Entire Blockchain Patent Portfolio: 'IBM Just Capitulated,' Analyst Says",
+      "publisher": "Benzinga",
+      "date": "2026-07-28 08:20",
+      "impact": "medium",
+      "category": "資產處置",
+      "reason": "IBM 出售近 1,000 項區塊鏈專利給 Circle，雖然優化了資產負債表，但被部分分析師解讀為放棄區塊鏈領域的競爭，對長期技術願景有負面觀感。"
+    },
+    {
+      "rank": 2,
+      "title": "IBM Swapped Its AI Scoreboard For A Quantum One",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 11:59",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "IBM 在財報會議中移除 AI 進度指標，引發市場對其 AI 業務透明度與成長速度的擔憂，可能導致投資人對 AI 轉型信心動搖。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "IBM vs Verizon: The Most Undervalued Dow Stocks Right Now",
+      "publisher": "Yahoo",
+      "date": "2026-07-29 13:05",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 IBM 與 Verizon 進行價值投資比較，屬於市場常規的估值分析，對股價短期波動影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "IBM Study: One in Four Malicious Breaches are AI-Enabled, Costing Companies $6 Million on Average",
+      "publisher": "Yahoo",
+      "date": "2026-07-29 10:00",
+      "impact": "low",
+      "category": "市場研究",
+      "reason": "IBM 發布關於 AI 網路攻擊成本的產業研究報告，屬於例行性的市場洞察，雖能提升品牌專業形象，但對財務面無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

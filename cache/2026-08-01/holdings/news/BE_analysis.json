@@ -1,0 +1,84 @@
+{
+  "ticker": "BE",
+  "company": "Bloom Energy Corporation",
+  "analysis_date": "2026-07-31",
+  "source_file": "cache/2026-07-31/holdings/news/BE.json",
+  "summary": {
+    "total_articles": 12,
+    "bullish_count": 9,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Bloom Energy 受惠於 AI 數據中心電力需求強勁，第二季財報表現亮眼並上調全年財測，獲得分析師調升評級。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why Is Bloom Energy Stock Soaring Wednesday? — Bloom Energy (BE) stock spikes premarket after crushing Q2 estimates with $1.07B revenue and raising full-year guidance.",
+      "publisher": "Benzinga",
+      "date": "2026-07-29 07:28",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第二季營收達 10.7 億美元，大幅超越市場預期，並同步上調全年財務指引，顯示營運成長動能強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "BE Stock Soars To Best Day This Year — Mizuho Upgrades Bloom Energy To 'Outperform,' Sees 48% Upside On Cheap Valuation",
+      "publisher": "Stocktwits",
+      "date": "2026-07-30 17:58",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "瑞穗證券 (Mizuho) 將評級調升至「優於大盤」，並指出其估值具吸引力，預期有 48% 的上漲空間。"
+    },
+    {
+      "rank": 3,
+      "title": "Bloom Energy Is Rising as AI Power Demand Strengthens. Only Buy BE Stock If You Can Stomach the Valuation.",
+      "publisher": "Barchart",
+      "date": "2026-07-30 17:26",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場認可 AI 產業對電力需求的結構性增長，Bloom Energy 作為能源解決方案提供商，長期基本面看好。"
+    },
+    {
+      "rank": 4,
+      "title": "Bloom Energy Q2 Preview: What I Need To See To Stay Bullish",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-24 01:56",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師強調其 200 億美元的積壓訂單與營收成長潛力，為股價提供強大支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy Shares Shrug Off Hunterbrook Short Report After Record Q2",
+      "publisher": "Benzinga",
+      "date": "2026-07-30 14:56",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管 Hunterbrook 發布做空報告，但市場對財報利多反應更為強烈，顯示賣壓已被強勁的基本面抵銷。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Sk Hynix, Bloom Energy, Seagate, Micron Technology and Visa: Why These 5 Stocks Are on Investors' Radars Today",
+      "publisher": "Benzinga",
+      "date": "2026-07-28 21:32",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場熱門股清單，未包含具體的財務影響分析。"
+    },
+    {
+      "rank": 2,
+      "title": "Bloom Energy Corporation (BE) Q2 2026 Earnings Call Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-29 04:53",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "提供財報會議原始逐字稿，屬於資訊揭露性質，已反映在財報利多新聞中。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

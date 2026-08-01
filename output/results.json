@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-31 04:25:57",
+  "generated_at": "2026-08-01 04:21:26",
   "allocation": {
-    "total_value": 371595.67,
-    "total_pnl": 29714.440409999996,
+    "total_value": 382040.7800000001,
+    "total_pnl": 40159.550409999996,
     "cash": 44335.03,
     "portfolio_risk": {
-      "hhi": 0.0863,
+      "hhi": 0.0883,
       "hhi_label": "適度集中",
-      "top1_concentration": 11.2,
-      "top3_concentration": 32.1,
-      "top5_concentration": 49.1,
-      "effective_leverage": 0.881,
-      "portfolio_beta": 1.67
+      "top1_concentration": 12.2,
+      "top3_concentration": 33.2,
+      "top5_concentration": 49.9,
+      "effective_leverage": 0.884,
+      "portfolio_beta": 1.7
     }
   },
   "results": [
@@ -21,10 +21,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 4,
-        "technical": 3,
+        "technical": 4,
         "risk": 3
       },
-      "current_price": 235.5,
+      "current_price": 271.58,
       "analysis": "",
       "news_count": 20
     },
@@ -34,10 +34,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 2,
-        "technical": 4,
+        "technical": 3,
         "risk": 2
       },
-      "current_price": 263.56,
+      "current_price": 262.75,
       "analysis": "",
       "news_count": 9
     },
@@ -47,10 +47,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 3,
-        "technical": 4,
+        "technical": 5,
         "risk": 4
       },
-      "current_price": 185.22,
+      "current_price": 190.86,
       "analysis": "",
       "news_count": 18
     },
@@ -60,10 +60,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 4,
-        "technical": 2,
+        "technical": 4,
         "risk": 5
       },
-      "current_price": 333.66,
+      "current_price": 356.13,
       "analysis": "",
       "news_count": 20
     },
@@ -76,7 +76,7 @@
         "technical": 3,
         "risk": 2
       },
-      "current_price": 36.7,
+      "current_price": 35.64,
       "analysis": "",
       "news_count": 11
     },
@@ -89,7 +89,7 @@
         "technical": 4,
         "risk": 3
       },
-      "current_price": 451.1,
+      "current_price": 464.72,
       "analysis": "",
       "news_count": 20
     },
@@ -99,10 +99,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 5,
-        "technical": 2,
+        "technical": 3,
         "risk": 3
       },
-      "current_price": 195.04,
+      "current_price": 200.75,
       "analysis": "",
       "news_count": 20
     },
@@ -112,10 +112,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 5,
-        "technical": 1,
+        "technical": 2,
         "risk": 2
       },
-      "current_price": 122.26,
+      "current_price": 123.06,
       "analysis": "",
       "news_count": 20
     },
@@ -125,10 +125,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 4,
-        "technical": 2,
+        "technical": 3,
         "risk": 4
       },
-      "current_price": 683.55,
+      "current_price": 687.99,
       "analysis": "",
       "news_count": 10
     },
@@ -141,7 +141,7 @@
         "technical": 1,
         "risk": 2
       },
-      "current_price": 308.85,
+      "current_price": 311.21,
       "analysis": "",
       "news_count": 20
     },
@@ -151,10 +151,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 4,
-        "technical": 3,
-        "risk": 4
+        "technical": 4,
+        "risk": 5
       },
-      "current_price": 681.79,
+      "current_price": 686.65,
       "analysis": "",
       "news_count": 20
     },
@@ -167,7 +167,7 @@
         "technical": 2,
         "risk": 3
       },
-      "current_price": 207.12,
+      "current_price": 205.81,
       "analysis": "",
       "news_count": 12
     },
@@ -177,10 +177,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 2,
-        "technical": 2,
+        "technical": 4,
         "risk": 3
       },
-      "current_price": 386.89,
+      "current_price": 415.2,
       "analysis": "",
       "news_count": 9
     },
@@ -193,7 +193,7 @@
         "technical": 2,
         "risk": 2
       },
-      "current_price": 539.03,
+      "current_price": 556.71,
       "analysis": "",
       "news_count": 20
     },
@@ -206,7 +206,7 @@
         "technical": 4,
         "risk": 1
       },
-      "current_price": 31.38,
+      "current_price": 33.23,
       "analysis": "",
       "news_count": 0
     },
@@ -216,10 +216,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 5,
-        "technical": 2,
+        "technical": 1,
         "risk": 3
       },
-      "current_price": 874.66,
+      "current_price": 823.03,
       "analysis": "",
       "news_count": 20
     },
@@ -232,7 +232,7 @@
         "technical": 4,
         "risk": 3
       },
-      "current_price": 283.39,
+      "current_price": 278.98,
       "analysis": "",
       "news_count": 5
     },
@@ -242,10 +242,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 3,
-        "technical": 5,
+        "technical": 4,
         "risk": 5
       },
-      "current_price": 173.98,
+      "current_price": 178.5,
       "analysis": "",
       "news_count": 8
     },
@@ -258,7 +258,7 @@
         "technical": 3,
         "risk": 4
       },
-      "current_price": 657.98,
+      "current_price": 667.36,
       "analysis": "",
       "news_count": 16
     },
@@ -271,7 +271,7 @@
         "technical": 3,
         "risk": 4
       },
-      "current_price": 365.49,
+      "current_price": 367.69,
       "analysis": "",
       "news_count": 20
     },
@@ -281,10 +281,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 3,
-        "technical": 5,
+        "technical": 4,
         "risk": 2
       },
-      "current_price": 59.26,
+      "current_price": 59.01,
       "analysis": "",
       "news_count": 4
     },
@@ -294,10 +294,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 5,
-        "technical": 4,
+        "technical": 3,
         "risk": 2
       },
-      "current_price": 110.07,
+      "current_price": 111.23,
       "analysis": "",
       "news_count": 20
     },
@@ -310,7 +310,7 @@
         "technical": 2,
         "risk": 3
       },
-      "current_price": 221.74,
+      "current_price": 223.65,
       "analysis": "",
       "news_count": 20
     },
@@ -323,7 +323,7 @@
         "technical": 4,
         "risk": 2
       },
-      "current_price": 33.72,
+      "current_price": 34.51,
       "analysis": "",
       "news_count": 5
     },
@@ -333,10 +333,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 3,
-        "technical": 4,
+        "technical": 3,
         "risk": 2
       },
-      "current_price": 32.55,
+      "current_price": 32.64,
       "analysis": "",
       "news_count": 20
     },
@@ -349,7 +349,7 @@
         "technical": 4,
         "risk": 4
       },
-      "current_price": 241.91,
+      "current_price": 243.05,
       "analysis": "",
       "news_count": 20
     },
@@ -360,9 +360,9 @@
       "scores": {
         "fundamental": 5,
         "technical": 2,
-        "risk": 2
+        "risk": 3
       },
-      "current_price": 201.08,
+      "current_price": 206.99,
       "analysis": "",
       "news_count": 2
     },
@@ -375,7 +375,7 @@
         "technical": 2,
         "risk": 2
       },
-      "current_price": 35.53,
+      "current_price": 39.01,
       "analysis": "",
       "news_count": 2
     },
@@ -388,7 +388,7 @@
         "technical": 2,
         "risk": 2
       },
-      "current_price": 299.69,
+      "current_price": 311.23,
       "analysis": "",
       "news_count": 15
     },
@@ -398,10 +398,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 4,
-        "technical": 2,
+        "technical": 1,
         "risk": 3
       },
-      "current_price": 241.54,
+      "current_price": 239.69,
       "analysis": "",
       "news_count": 20
     },
@@ -411,10 +411,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 4,
-        "technical": 2,
+        "technical": 4,
         "risk": 4
       },
-      "current_price": 62.62,
+      "current_price": 65.24,
       "analysis": "",
       "news_count": 3
     },
@@ -424,10 +424,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 4,
-        "technical": 5,
+        "technical": 2,
         "risk": 5
       },
-      "current_price": 333.43,
+      "current_price": 308.91,
       "analysis": "",
       "news_count": 20
     },
@@ -440,7 +440,7 @@
         "technical": 5,
         "risk": 2
       },
-      "current_price": 27.29,
+      "current_price": 27.45,
       "analysis": "",
       "news_count": 0
     },
@@ -451,9 +451,9 @@
       "scores": {
         "fundamental": 3,
         "technical": 3,
-        "risk": 3
+        "risk": 2
       },
-      "current_price": 23.95,
+      "current_price": 23.02,
       "analysis": "",
       "news_count": 0
     },
@@ -462,11 +462,11 @@
       "recommendation": "unknown",
       "confidence": null,
       "scores": {
-        "fundamental": 4,
-        "technical": 2,
-        "risk": 3
+        "fundamental": 3,
+        "technical": 3,
+        "risk": 2
       },
-      "current_price": 206.01,
+      "current_price": 211.03,
       "analysis": "",
       "news_count": 15
     },
@@ -476,10 +476,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 4,
-        "technical": 2,
-        "risk": 3
+        "technical": 4,
+        "risk": 4
       },
-      "current_price": 388.75,
+      "current_price": 402.57,
       "analysis": "",
       "news_count": 20
     },
@@ -492,7 +492,7 @@
         "technical": 1,
         "risk": 3
       },
-      "current_price": 32.89,
+      "current_price": 32.65,
       "analysis": "",
       "news_count": 0
     },
@@ -505,7 +505,7 @@
         "technical": 3,
         "risk": 4
       },
-      "current_price": 387.84,
+      "current_price": 389.28,
       "analysis": "",
       "news_count": 20
     },
@@ -518,7 +518,7 @@
         "technical": 4,
         "risk": 4
       },
-      "current_price": 325.68,
+      "current_price": 331.83,
       "analysis": "",
       "news_count": 7
     },
@@ -531,7 +531,7 @@
         "technical": 3,
         "risk": 2
       },
-      "current_price": 73.17,
+      "current_price": 71.71,
       "analysis": "",
       "news_count": 20
     },
@@ -544,7 +544,7 @@
         "technical": 2,
         "risk": 3
       },
-      "current_price": 125.21,
+      "current_price": 130.38,
       "analysis": "",
       "news_count": 0
     },
@@ -557,7 +557,7 @@
         "technical": 4,
         "risk": 3
       },
-      "current_price": 71.76,
+      "current_price": 72.39,
       "analysis": "",
       "news_count": 0
     },
@@ -570,7 +570,7 @@
         "technical": 4,
         "risk": 2
       },
-      "current_price": 247.9,
+      "current_price": 250.41,
       "analysis": "",
       "news_count": 0
     },
@@ -583,7 +583,7 @@
         "technical": 2,
         "risk": 5
       },
-      "current_price": 366.67,
+      "current_price": 367.41,
       "analysis": "",
       "news_count": 0
     },
@@ -596,7 +596,7 @@
         "technical": 5,
         "risk": 3
       },
-      "current_price": 12.5,
+      "current_price": 12.88,
       "analysis": "",
       "news_count": 0
     },
@@ -609,7 +609,7 @@
         "technical": 4,
         "risk": 2
       },
-      "current_price": 234.97,
+      "current_price": 234.2,
       "analysis": "",
       "news_count": 0
     },
@@ -619,10 +619,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 2,
-        "technical": 2,
-        "risk": 5
+        "technical": 3,
+        "risk": 4
       },
-      "current_price": 127.78,
+      "current_price": 127.85,
       "analysis": "",
       "news_count": 0
     },
@@ -635,7 +635,7 @@
         "technical": 2,
         "risk": 4
       },
-      "current_price": 113.75,
+      "current_price": 115.18,
       "analysis": "",
       "news_count": 0
     },
@@ -648,7 +648,7 @@
         "technical": 3,
         "risk": 4
       },
-      "current_price": 501.77,
+      "current_price": 507.67,
       "analysis": "",
       "news_count": 0
     },
@@ -658,10 +658,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 4,
-        "technical": 3,
+        "technical": 2,
         "risk": 3
       },
-      "current_price": 485.39,
+      "current_price": 476.15,
       "analysis": "",
       "news_count": 0
     },
@@ -671,10 +671,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 2,
-        "technical": 2,
-        "risk": 2
+        "technical": 1,
+        "risk": 3
       },
-      "current_price": 48.26,
+      "current_price": 49.87,
       "analysis": "",
       "news_count": 0
     },
@@ -684,10 +684,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 3,
-        "technical": 3,
+        "technical": 2,
         "risk": 3
       },
-      "current_price": 27.97,
+      "current_price": 27.39,
       "analysis": "",
       "news_count": 0
     },
@@ -697,10 +697,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 5,
-        "technical": 2,
+        "technical": 1,
         "risk": 1
       },
-      "current_price": 403.87,
+      "current_price": 395.9,
       "analysis": "",
       "news_count": 0
     },
@@ -713,7 +713,7 @@
         "technical": 2,
         "risk": 3
       },
-      "current_price": 9.47,
+      "current_price": 9.32,
       "analysis": "",
       "news_count": 0
     },
@@ -726,7 +726,7 @@
         "technical": 2,
         "risk": 3
       },
-      "current_price": 332.82,
+      "current_price": 340.02,
       "analysis": "",
       "news_count": 0
     },
@@ -749,10 +749,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 3,
-        "technical": 3,
+        "technical": 2,
         "risk": 2
       },
-      "current_price": 16.09,
+      "current_price": 16.35,
       "analysis": "",
       "news_count": 0
     },
@@ -765,7 +765,7 @@
         "technical": 4,
         "risk": 2
       },
-      "current_price": 180.71,
+      "current_price": 184.02,
       "analysis": "",
       "news_count": 0
     },
@@ -778,7 +778,7 @@
         "technical": 2,
         "risk": 1
       },
-      "current_price": 73.9,
+      "current_price": 71.77,
       "analysis": "",
       "news_count": 0
     },
@@ -789,9 +789,9 @@
       "scores": {
         "fundamental": 2,
         "technical": 2,
-        "risk": 3
+        "risk": 4
       },
-      "current_price": 71.26,
+      "current_price": 73.59,
       "analysis": "",
       "news_count": 0
     },
@@ -804,7 +804,7 @@
         "technical": 4,
         "risk": 4
       },
-      "current_price": 268.56,
+      "current_price": 267.97,
       "analysis": "",
       "news_count": 0
     },
@@ -814,10 +814,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 3,
-        "technical": 3,
+        "technical": 4,
         "risk": 4
       },
-      "current_price": 602.31,
+      "current_price": 588.34,
       "analysis": "",
       "news_count": 0
     },
@@ -827,10 +827,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 2,
-        "technical": 4,
+        "technical": 3,
         "risk": 4
       },
-      "current_price": 404.81,
+      "current_price": 405.37,
       "analysis": "",
       "news_count": 0
     },
@@ -843,7 +843,7 @@
         "technical": 4,
         "risk": 1
       },
-      "current_price": 10.38,
+      "current_price": 9.86,
       "analysis": "",
       "news_count": 0
     },
@@ -852,11 +852,11 @@
       "recommendation": "unknown",
       "confidence": null,
       "scores": {
-        "fundamental": 4,
-        "technical": 3,
-        "risk": 3
+        "fundamental": 3,
+        "technical": 4,
+        "risk": 2
       },
-      "current_price": 51.78,
+      "current_price": 58.81,
       "analysis": "",
       "news_count": 0
     },
@@ -866,10 +866,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 2,
-        "technical": 5,
+        "technical": 3,
         "risk": 4
       },
-      "current_price": 126.27,
+      "current_price": 125.43,
       "analysis": "",
       "news_count": 0
     },
@@ -879,10 +879,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 3,
-        "technical": 3,
+        "technical": 2,
         "risk": 4
       },
-      "current_price": 417.15,
+      "current_price": 401.07,
       "analysis": "",
       "news_count": 0
     },
@@ -895,7 +895,7 @@
         "technical": 5,
         "risk": 3
       },
-      "current_price": 113.52,
+      "current_price": 114.01,
       "analysis": "",
       "news_count": 0
     },
@@ -908,7 +908,7 @@
         "technical": 3,
         "risk": 3
       },
-      "current_price": 802.37,
+      "current_price": 797.43,
       "analysis": "",
       "news_count": 0
     },
@@ -921,7 +921,7 @@
         "technical": 2,
         "risk": 2
       },
-      "current_price": 37.38,
+      "current_price": 37.54,
       "analysis": "",
       "news_count": 0
     },
@@ -934,7 +934,7 @@
         "technical": 2,
         "risk": 3
       },
-      "current_price": 117.11,
+      "current_price": 119.05,
       "analysis": "",
       "news_count": 0
     },
@@ -944,10 +944,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 2,
-        "technical": 3,
+        "technical": 2,
         "risk": 5
       },
-      "current_price": 108.03,
+      "current_price": 107.62,
       "analysis": "",
       "news_count": 0
     },
@@ -960,7 +960,7 @@
         "technical": 4,
         "risk": 3
       },
-      "current_price": 83.15,
+      "current_price": 81.68,
       "analysis": "",
       "news_count": 0
     },
@@ -973,7 +973,7 @@
         "technical": 4,
         "risk": 5
       },
-      "current_price": 14.86,
+      "current_price": 14.68,
       "analysis": "",
       "news_count": 0
     },
@@ -986,7 +986,7 @@
         "technical": 4,
         "risk": 5
       },
-      "current_price": 48.71,
+      "current_price": 48.31,
       "analysis": "",
       "news_count": 0
     },
@@ -999,7 +999,7 @@
         "technical": 5,
         "risk": 2
       },
-      "current_price": 5.35,
+      "current_price": 5.93,
       "analysis": "",
       "news_count": 0
     },
@@ -1009,10 +1009,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 4,
-        "technical": 3,
+        "technical": 2,
         "risk": 4
       },
-      "current_price": 1697.84,
+      "current_price": 1729.69,
       "analysis": "",
       "news_count": 0
     },
@@ -1022,10 +1022,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 3,
-        "technical": 3,
+        "technical": 2,
         "risk": 3
       },
-      "current_price": 105.38,
+      "current_price": 106.2,
       "analysis": "",
       "news_count": 0
     },
@@ -1035,10 +1035,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 3,
-        "technical": 2,
+        "technical": 1,
         "risk": 2
       },
-      "current_price": 33.28,
+      "current_price": 33.27,
       "analysis": "",
       "news_count": 0
     },
@@ -1048,10 +1048,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 4,
-        "technical": 4,
-        "risk": 4
+        "technical": 5,
+        "risk": 5
       },
-      "current_price": 154.25,
+      "current_price": 161.95,
       "analysis": "",
       "news_count": 0
     },
@@ -1061,10 +1061,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 4,
-        "technical": 4,
+        "technical": 2,
         "risk": 2
       },
-      "current_price": 99.33,
+      "current_price": 82.74,
       "analysis": "",
       "news_count": 0
     },
@@ -1077,7 +1077,7 @@
         "technical": 2,
         "risk": 5
       },
-      "current_price": 981.98,
+      "current_price": 990.29,
       "analysis": "",
       "news_count": 0
     },
@@ -1087,10 +1087,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 1,
-        "technical": 3,
+        "technical": 5,
         "risk": 5
       },
-      "current_price": 88.4,
+      "current_price": 88.86,
       "analysis": "",
       "news_count": 0
     },
@@ -1103,7 +1103,7 @@
         "technical": 2,
         "risk": 2
       },
-      "current_price": 13.47,
+      "current_price": 13.2,
       "analysis": "",
       "news_count": 0
     },
@@ -1113,10 +1113,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 4,
-        "technical": 4,
+        "technical": 5,
         "risk": 3
       },
-      "current_price": 16.95,
+      "current_price": 17.34,
       "analysis": "",
       "news_count": 0
     },
@@ -1126,10 +1126,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 3,
-        "technical": 4,
+        "technical": 5,
         "risk": 4
       },
-      "current_price": 47.14,
+      "current_price": 47.9,
       "analysis": "",
       "news_count": 0
     },
@@ -1142,7 +1142,7 @@
         "technical": 5,
         "risk": 3
       },
-      "current_price": 26.86,
+      "current_price": 27.27,
       "analysis": "",
       "news_count": 0
     },
@@ -1165,10 +1165,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 3,
-        "technical": 2,
-        "risk": 3
+        "technical": 4,
+        "risk": 4
       },
-      "current_price": 571.54,
+      "current_price": 744.54,
       "analysis": "",
       "news_count": 0
     },
@@ -1181,7 +1181,7 @@
         "technical": 2,
         "risk": 3
       },
-      "current_price": 91.13,
+      "current_price": 90.2,
       "analysis": "",
       "news_count": 0
     },
@@ -1194,7 +1194,7 @@
         "technical": 4,
         "risk": 2
       },
-      "current_price": 315.5,
+      "current_price": 316.07,
       "analysis": "",
       "news_count": 0
     },
@@ -1204,10 +1204,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 3,
-        "technical": 2,
+        "technical": 3,
         "risk": 1
       },
-      "current_price": 35.77,
+      "current_price": 36.44,
       "analysis": "",
       "news_count": 0
     },
@@ -1218,9 +1218,9 @@
       "scores": {
         "fundamental": 4,
         "technical": 2,
-        "risk": 3
+        "risk": 4
       },
-      "current_price": 180.33,
+      "current_price": 182.82,
       "analysis": "",
       "news_count": 0
     },
@@ -1230,10 +1230,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 1,
-        "technical": 3,
+        "technical": 4,
         "risk": 1
       },
-      "current_price": 8.12,
+      "current_price": 7.38,
       "analysis": "",
       "news_count": 0
     },
@@ -1246,7 +1246,7 @@
         "technical": 2,
         "risk": 3
       },
-      "current_price": 297.72,
+      "current_price": 293.02,
       "analysis": "",
       "news_count": 0
     },
@@ -1256,10 +1256,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 4,
-        "technical": 2,
+        "technical": 4,
         "risk": 3
       },
-      "current_price": 325.88,
+      "current_price": 337.48,
       "analysis": "",
       "news_count": 0
     },
@@ -1272,7 +1272,7 @@
         "technical": 2,
         "risk": 3
       },
-      "current_price": 293.3,
+      "current_price": 297.45,
       "analysis": "",
       "news_count": 0
     },
@@ -1281,11 +1281,11 @@
       "recommendation": "unknown",
       "confidence": null,
       "scores": {
-        "fundamental": 4,
+        "fundamental": 3,
         "technical": 3,
         "risk": 4
       },
-      "current_price": 1316.18,
+      "current_price": 1426.03,
       "analysis": "",
       "news_count": 0
     },
@@ -1298,7 +1298,7 @@
         "technical": 2,
         "risk": 3
       },
-      "current_price": 183.3,
+      "current_price": 187.56,
       "analysis": "",
       "news_count": 0
     },
@@ -1307,11 +1307,11 @@
       "recommendation": "unknown",
       "confidence": null,
       "scores": {
-        "fundamental": 2,
-        "technical": 3,
+        "fundamental": 3,
+        "technical": 2,
         "risk": 1
       },
-      "current_price": 97.74,
+      "current_price": 93.28,
       "analysis": "",
       "news_count": 0
     },
@@ -1324,7 +1324,7 @@
         "technical": 5,
         "risk": 4
       },
-      "current_price": 39.31,
+      "current_price": 39.41,
       "analysis": "",
       "news_count": 0
     },
@@ -1333,11 +1333,11 @@
       "recommendation": "unknown",
       "confidence": null,
       "scores": {
-        "fundamental": 3,
-        "technical": 2,
-        "risk": 4
+        "fundamental": 2,
+        "technical": 1,
+        "risk": 3
       },
-      "current_price": 324.44,
+      "current_price": 263.1,
       "analysis": "",
       "news_count": 0
     },
@@ -1347,10 +1347,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 2,
-        "technical": 4,
+        "technical": 2,
         "risk": 5
       },
-      "current_price": 87.93,
+      "current_price": 86.92,
       "analysis": "",
       "news_count": 0
     },
@@ -1363,7 +1363,7 @@
         "technical": 2,
         "risk": 1
       },
-      "current_price": 16.68,
+      "current_price": 15.91,
       "analysis": "",
       "news_count": 0
     },
@@ -1376,7 +1376,7 @@
         "technical": 2,
         "risk": 1
       },
-      "current_price": 1.47,
+      "current_price": 1.43,
       "analysis": "",
       "news_count": 0
     },
@@ -1389,7 +1389,7 @@
         "technical": 3,
         "risk": 2
       },
-      "current_price": 133.97,
+      "current_price": 134.29,
       "analysis": "",
       "news_count": 0
     },
@@ -1402,7 +1402,7 @@
         "technical": 2,
         "risk": 3
       },
-      "current_price": 2.83,
+      "current_price": 2.85,
       "analysis": "",
       "news_count": 0
     },
@@ -1412,10 +1412,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 4,
-        "technical": 4,
+        "technical": 5,
         "risk": 4
       },
-      "current_price": 140.42,
+      "current_price": 141.93,
       "analysis": "",
       "news_count": 0
     },
@@ -1428,7 +1428,7 @@
         "technical": 2,
         "risk": 2
       },
-      "current_price": 72.74,
+      "current_price": 73.47,
       "analysis": "",
       "news_count": 0
     },
@@ -1441,7 +1441,7 @@
         "technical": 2,
         "risk": 3
       },
-      "current_price": 250.52,
+      "current_price": 258.58,
       "analysis": "",
       "news_count": 0
     },
@@ -1454,7 +1454,7 @@
         "technical": 2,
         "risk": 1
       },
-      "current_price": 0.1611,
+      "current_price": 0.181,
       "analysis": "",
       "news_count": 0
     },
@@ -1467,7 +1467,7 @@
         "technical": 3,
         "risk": 1
       },
-      "current_price": 127.56,
+      "current_price": 129.87,
       "analysis": "",
       "news_count": 0
     },
@@ -1480,7 +1480,7 @@
         "technical": 4,
         "risk": 2
       },
-      "current_price": 12.37,
+      "current_price": 12.76,
       "analysis": "",
       "news_count": 0
     },
@@ -1490,10 +1490,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 2,
-        "technical": 5,
+        "technical": 4,
         "risk": 5
       },
-      "current_price": 17.78,
+      "current_price": 17.38,
       "analysis": "",
       "news_count": 0
     },
@@ -1503,10 +1503,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 5,
-        "technical": 4,
+        "technical": 5,
         "risk": 2
       },
-      "current_price": 24.43,
+      "current_price": 24.01,
       "analysis": "",
       "news_count": 0
     },
@@ -1516,10 +1516,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 2,
-        "technical": 3,
+        "technical": 2,
         "risk": 4
       },
-      "current_price": 35.56,
+      "current_price": 35.21,
       "analysis": "",
       "news_count": 0
     },
@@ -1529,10 +1529,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 2,
-        "technical": 3,
+        "technical": 2,
         "risk": 2
       },
-      "current_price": 85.65,
+      "current_price": 84.41,
       "analysis": "",
       "news_count": 0
     },
@@ -1542,10 +1542,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 2,
-        "technical": 2,
+        "technical": 1,
         "risk": 1
       },
-      "current_price": 27.83,
+      "current_price": 27.61,
       "analysis": "",
       "news_count": 0
     },
@@ -1567,7 +1567,7 @@
         "technical": 2,
         "risk": 3
       },
-      "current_price": 130.52,
+      "current_price": 131.18,
       "analysis": "",
       "news_count": 0
     },
@@ -1580,7 +1580,7 @@
         "technical": 1,
         "risk": 2
       },
-      "current_price": 151.6,
+      "current_price": 147.61,
       "analysis": "",
       "news_count": 0
     },
@@ -1593,7 +1593,7 @@
         "technical": 2,
         "risk": 2
       },
-      "current_price": 71.58,
+      "current_price": 72.36,
       "analysis": "",
       "news_count": 0
     },
@@ -1603,10 +1603,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 5,
-        "technical": 3,
-        "risk": 2
+        "technical": 2,
+        "risk": 1
       },
-      "current_price": 178.04,
+      "current_price": 140.67,
       "analysis": "",
       "news_count": 0
     },
@@ -1616,10 +1616,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 1,
-        "technical": 4,
-        "risk": 3
+        "technical": 2,
+        "risk": 2
       },
-      "current_price": 16.83,
+      "current_price": 15.22,
       "analysis": "",
       "news_count": 0
     },
@@ -1632,7 +1632,7 @@
         "technical": 3,
         "risk": 3
       },
-      "current_price": 101.69,
+      "current_price": 103.35,
       "analysis": "",
       "news_count": 0
     },
@@ -1645,7 +1645,7 @@
         "technical": 5,
         "risk": 3
       },
-      "current_price": 389.25,
+      "current_price": 391.97,
       "analysis": "",
       "news_count": 0
     },
@@ -1658,7 +1658,7 @@
         "technical": 2,
         "risk": 2
       },
-      "current_price": 5.9,
+      "current_price": 5.84,
       "analysis": "",
       "news_count": 0
     },
@@ -1671,7 +1671,7 @@
         "technical": 3,
         "risk": 1
       },
-      "current_price": 27.73,
+      "current_price": 28.4,
       "analysis": "",
       "news_count": 0
     },
@@ -1684,7 +1684,7 @@
         "technical": 3,
         "risk": 1
       },
-      "current_price": 8.6,
+      "current_price": 8.42,
       "analysis": "",
       "news_count": 0
     },
@@ -1710,7 +1710,7 @@
         "technical": 2,
         "risk": 2
       },
-      "current_price": 1279.96,
+      "current_price": 1214.83,
       "analysis": "",
       "news_count": 0
     },
@@ -1720,10 +1720,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 4,
-        "technical": 5,
-        "risk": 2
+        "technical": 4,
+        "risk": 3
       },
-      "current_price": 298.1,
+      "current_price": 293.28,
       "analysis": "",
       "news_count": 0
     },
@@ -1733,10 +1733,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 4,
-        "technical": 1,
+        "technical": 2,
         "risk": 2
       },
-      "current_price": 372.33,
+      "current_price": 388.76,
       "analysis": "",
       "news_count": 0
     },
@@ -1745,11 +1745,11 @@
       "recommendation": "unknown",
       "confidence": null,
       "scores": {
-        "fundamental": 2,
-        "technical": 2,
-        "risk": 4
+        "fundamental": 1,
+        "technical": 4,
+        "risk": 3
       },
-      "current_price": 94.34,
+      "current_price": 94.54,
       "analysis": "",
       "news_count": 0
     },
@@ -1762,7 +1762,7 @@
         "technical": 2,
         "risk": 3
       },
-      "current_price": 580.73,
+      "current_price": 596.77,
       "analysis": "",
       "news_count": 0
     },
@@ -1772,10 +1772,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 1,
-        "technical": 4,
+        "technical": 3,
         "risk": 2
       },
-      "current_price": 75.84,
+      "current_price": 74.97,
       "analysis": "",
       "news_count": 0
     },
@@ -1785,10 +1785,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 4,
-        "technical": 2,
-        "risk": 3
+        "technical": 3,
+        "risk": 4
       },
-      "current_price": 190.94,
+      "current_price": 197.35,
       "analysis": "",
       "news_count": 0
     },
@@ -1801,7 +1801,7 @@
         "technical": 2,
         "risk": 5
       },
-      "current_price": 278.76,
+      "current_price": 275.74,
       "analysis": "",
       "news_count": 0
     },
@@ -1814,7 +1814,7 @@
         "technical": 2,
         "risk": 4
       },
-      "current_price": 476.61,
+      "current_price": 481.7,
       "analysis": "",
       "news_count": 0
     },
@@ -1827,7 +1827,7 @@
         "technical": 4,
         "risk": 3
       },
-      "current_price": 286.58,
+      "current_price": 290.02,
       "analysis": "",
       "news_count": 0
     },
@@ -1837,10 +1837,10 @@
       "confidence": null,
       "scores": {
         "fundamental": 5,
-        "technical": 2,
+        "technical": 3,
         "risk": 3
       },
-      "current_price": 533.04,
+      "current_price": 544.84,
       "analysis": "",
       "news_count": 0
     },
@@ -1853,7 +1853,7 @@
         "technical": 4,
         "risk": 3
       },
-      "current_price": 30.53,
+      "current_price": 30.28,
       "analysis": "",
       "news_count": 0
     },
@@ -1866,7 +1866,7 @@
         "technical": 2,
         "risk": 4
       },
-      "current_price": 78.23,
+      "current_price": 78.2,
       "analysis": "",
       "news_count": 0
     },
@@ -1879,7 +1879,7 @@
         "technical": 4,
         "risk": 2
       },
-      "current_price": 148.39,
+      "current_price": 151.2,
       "analysis": "",
       "news_count": 0
     }

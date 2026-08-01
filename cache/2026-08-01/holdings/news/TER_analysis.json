@@ -1,0 +1,73 @@
+{
+  "ticker": "TER",
+  "company": "Teradyne, Inc.",
+  "analysis_date": "2026-07-31",
+  "source_file": "cache/2026-07-31/holdings/news/TER.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 20,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "受惠於 AI 晶片需求強勁，Teradyne 第 2 季財報表現亮眼並上調展望，獲多家券商調升目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Teradyne Q2 Earnings Beat Estimates, Revenues Increase Year over Year",
+      "publisher": "Yahoo",
+      "date": "2026-07-29 17:52",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第 2 季財報營收與獲利均優於預期，營收突破 13 億美元，主要受惠於 AI 相關測試需求與記憶體測試業務成長，為股價強勁上漲的核心驅動力。"
+    },
+    {
+      "rank": 2,
+      "title": "Evercore ISI Group Maintains Outperform on Teradyne, Raises Price Target to $420",
+      "publisher": "Benzinga",
+      "date": "2026-07-30 10:54",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Evercore ISI 分析師 Mark Lipacis 維持「優於大盤」評級並調升目標價至 420 美元，反映市場對其 AI 測試設備市占率與長期成長潛力的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "TER Stock Gains After Q2 Beat – CEO Says AI Demand Remains 'Robust,' Sees Growth Extending Into 2027",
+      "publisher": "Yahoo",
+      "date": "2026-07-29 11:29",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "高盛重申「買入」評級與 465 美元目標價，並強調執行長對 AI 需求延續至 2027 年的樂觀展望，顯著提振投資人信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Morgan Stanley Maintains Equal-Weight on Teradyne, Raises Price Target to $397",
+      "publisher": "Benzinga",
+      "date": "2026-07-30 13:38",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "摩根士丹利分析師 Joseph Moore 維持「中立」評級，但將目標價調升至 397 美元，顯示即便在保守評級下，分析師仍認可其基本面改善。"
+    },
+    {
+      "rank": 5,
+      "title": "Cantor Fitzgerald Reiterates Overweight on Teradyne, Maintains $550 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-07-29 08:17",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Cantor Fitzgerald 分析師 C.J. Muse 重申「加碼」評級與 550 美元高目標價，顯示華爾街對該公司在半導體測試領域的領先地位給予極高評價。"
+    },
+    {
+      "rank": 6,
+      "title": "Teradyne (TER) Rose on Semiconductor Test Recovery and Rising Chip Complexity",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 12:57",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Columbia Threadneedle Investments 指出晶片複雜度提升與測試需求復甦是推動 Teradyne 長期價值提升的關鍵結構性因素。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}
