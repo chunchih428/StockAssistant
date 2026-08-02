@@ -1,0 +1,84 @@
+{
+  "ticker": "MSFT",
+  "company": "Microsoft",
+  "analysis_date": "2026-07-31",
+  "source_file": "cache/2026-07-31/holdings/news/MSFT.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 18,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "微軟 第 4 季 財報 表現 強勁 ， Azure 雲端 業務 與 AI 需求 成長 超出 市場 預期 ， 帶動 股價 大幅 上漲 。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Microsoft Q4 Earnings Crush Expectations: Time to Buy MSFT Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 23:12",
+      "impact": "high",
+      "category": "財報 公布",
+      "reason": "微軟 第 4 季 財報 表現 優異 ， 營收 與 獲利 均 超出 預期 ， 股價 單日 大漲 15 % ， 為 近年 來 最 佳 表現 。"
+    },
+    {
+      "rank": 2,
+      "title": "Microsoft Stock Surges Nearly 10% in Thursday Premarket as Dan Ives Hails Azure Growth the ‘Best Barometer’ for Enterprise AI After Q4 Earnings",
+      "publisher": "Benzinga",
+      "date": "2026-07-30 09:01",
+      "impact": "high",
+      "category": "市場 動態",
+      "reason": "分析師 Dan Ives 指出 Azure 成長 達 43 % ， 成為 企業 AI 需求 的 最 佳 指標 ， 強化 市場 對 微軟 AI 變現 能力 的 信心 。"
+    },
+    {
+      "rank": 3,
+      "title": "Microsoft Corp (MSFT) (Q4 2026) Earnings Call Highlights: Record Revenue Surpasses $331 Billion",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 05:04",
+      "impact": "high",
+      "category": "財報 公布",
+      "reason": "全年 營收 創 下 紀錄 ， Azure 營收 突破 1000 億 美元 大關 ， 顯示 雲端 基礎 設施 規模 效應 顯著 。"
+    },
+    {
+      "rank": 4,
+      "title": "Ross Gerber Says MSFT Is 'Crushing It,' Jim Cramer Calls Quarter a 'Tour De Force' After Earnings Beat",
+      "publisher": "Benzinga",
+      "date": "2026-07-30 05:36",
+      "impact": "medium",
+      "category": "市場 評論",
+      "reason": "知名 投資 人 與 評論 家 對 微軟 的 執行 力 與 AI 策略 給予 高度 評價 ， 有助於 提升 市場 情緒 。"
+    },
+    {
+      "rank": 5,
+      "title": "MSFT Says the Next Phase of AI Is 'Per Seat Plus Consumption' as Copilot Usage Grows",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 08:55",
+      "impact": "medium",
+      "category": "產品 發布",
+      "reason": "公司 明確 指出 AI 商業 模式 的 下 一 階段 為 「 每 座位 加 消耗 量 」 計費 ， 展現 清晰 的 獲利 成長 路徑 。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Nvidia (NVDA) Could Backstop $250 Billion for OpenAI. Where Does That Leave Microsoft (MSFT)?",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 16:30",
+      "impact": "low",
+      "category": "市場 動態",
+      "reason": "探討 Nvidia 可能 介入 OpenAI 的 融資 ， 引發 市場 對 微軟 在 OpenAI 合作 關係 中 的 獨家 地位 與 風險 分擔 的 疑慮 。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Microsoft is one of the most balanced AI stories, says Jefferies’ Brent Thill",
+      "publisher": "CNBC",
+      "date": "2026-07-30 10:28",
+      "impact": "low",
+      "category": "市場 評論",
+      "reason": "分析師 認為 微軟 在 AI 領域 的 發展 相當 平衡 ， 屬於 中性 偏 正面 的 觀點 ， 未 對 股價 造成 劇烈 波動 。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

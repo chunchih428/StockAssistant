@@ -1,0 +1,66 @@
+{
+  "ticker": "NET",
+  "company": "Cloudflare",
+  "analysis_date": "2026-07-31",
+  "source_file": "cache/2026-07-31/holdings/news/NET.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "Cloudflare 憑藉強勁的市場表現與分析師的樂觀預期維持成長動能，儘管面臨高層持股變動與估值過高的潛在疑慮。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare (NET) Laps the Stock Market: Here's Why",
+      "publisher": "Zacks",
+      "date": "2026-07-27T21:50:04Z",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "該報導分析了 Cloudflare 顯著優於大盤的股價表現，歸因於其在邊緣運算領域的持續領先地位與強勁的營收成長潛力，是市場看好該股的主要驅動力。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Cloudflare (NET) a Buy as Wall Street Analysts Look Optimistic?",
+      "publisher": "Zacks",
+      "date": "2026-07-27T13:30:03Z",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "華爾街分析師對 Cloudflare 的前景持樂觀態度，反映了機構投資人對其長期商業模式與市場競爭力的信心，有助於支撐股價估值。"
+    },
+    {
+      "rank": 3,
+      "title": "Cloudflare, Inc. (NET) Is a Trending Stock: Facts to Know Before Betting on It",
+      "publisher": "Zacks",
+      "date": "2026-07-27T13:00:02Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該文整理了投資人關注的關鍵事實，強調了 Cloudflare 在市場上的高熱度與成長趨勢，有助於維持市場對該股的關注度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare's CFO Sold Nearly 13,000 Company Shares for $3.6 Million. What Does This Mean for Investors?",
+      "publisher": "Motley Fool",
+      "date": "2026-07-30T22:53:01Z",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "財務長出售價值 360 萬美元的股票，雖然可能是預先安排的交易，但大規模的內部人拋售往往會引發投資人對公司未來成長信心或估值是否觸頂的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Cloudflare (NET) Launches Precursor, Is The Stock Already Above Fair Value?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-07-26T13:07:16Z",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "雖然發布了新產品 Precursor 展現技術創新，但文章同時質疑其股價是否已高於合理價值，正負面因素相互抵銷，對股價影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

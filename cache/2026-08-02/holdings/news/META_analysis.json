@@ -1,0 +1,111 @@
+{
+  "ticker": "META",
+  "company": "Meta",
+  "analysis_date": "2026-07-31",
+  "source_file": "cache/2026-07-31/holdings/news/META.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 2,
+    "bearish_count": 15,
+    "neutral_count": 3,
+    "overall_sentiment": "bearish",
+    "key_theme": "Meta 雖然營收成長強勁，但因 AI 資本支出過高導致自由現金流大幅縮水，且財測疲軟引發市場對獲利能力的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Meta's Business AI, Ad Tools May Add New Revenue Streams, UBS Says",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 17:52",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "瑞銀 (UBS) 指出 Meta 的商業代理人與 AI 廣告工具具備長期營收潛力，可作為核心廣告業務之外的成長引擎。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Meta Platforms (META) Still Undervalued Despite Heavy AI Spending?",
+      "publisher": "Yahoo",
+      "date": "2026-07-31 01:06",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "儘管股價近期因財報重挫，但從現金流折現模型 (DCF) 來看，該分析認為 Meta 目前股價仍處於被低估的狀態。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "META Drops 9% as Free Cash Flow Collapses 91%, AI Agent Pitch Falls Flat",
+      "publisher": "Benzinga",
+      "date": "2026-07-30 15:08",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "自由現金流暴跌 91 % 是市場最恐慌的數據，顯示 AI 投資對短期財務結構造成嚴重擠壓，選此篇作為代表是因為其精準點出投資人對 Zuckerberg AI 策略的質疑。"
+    },
+    {
+      "rank": 2,
+      "title": "Meta Issues Weak Revenue Guidance as Quarterly Earnings Unexpectedly Decline; Raises Capex Outlook",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 13:18",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司發布疲軟的第三季營收指引，加上資本支出 (Capex) 展望上調，直接導致市場對未來獲利能力的預期下修。"
+    },
+    {
+      "rank": 3,
+      "title": "Meta's Rising Spending Deepens Investor Questions on Returns, Wedbush Says",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 16:07",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "Wedbush 指出 Meta 的多年度資本支出計畫缺乏明確的回報時間表，加深了投資人對資本配置效率的疑慮。"
+    },
+    {
+      "rank": 4,
+      "title": "Microsoft To Rally More Than 40%? Here Are 10 Top Analyst Forecasts For Thursday",
+      "publisher": "Benzinga",
+      "date": "2026-07-30 08:15",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "巴克萊 (Barclays) 在財報後下調了 Meta 的目標價，反映出華爾街對其短期成長動能的保守態度。"
+    },
+    {
+      "rank": 5,
+      "title": "Meta is in need of a new 'lead singer' beyond advertising: Brent Thill",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 15:01",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析師 Brent Thill 強調 Meta 過度依賴廣告業務，在 AI 轉型期缺乏其他強而有力的獲利支柱。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Stocks to Watch Recap: Microsoft, Meta, Amazon, Apple",
+      "publisher": "The Wall Street Journal",
+      "date": "2026-07-30 22:18",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為當日市場焦點股的例行性回顧，未提供新的基本面分析。"
+    },
+    {
+      "rank": 2,
+      "title": "Stocks making the biggest moves midday: Meta, Microsoft, MarketAxess, Crocs & more",
+      "publisher": "CNBC",
+      "date": "2026-07-30 12:13",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "單純報導盤中股價波動，屬於市場行情紀錄，不涉及深度分析。"
+    },
+    {
+      "rank": 3,
+      "title": "Meta (META) Could Spend $62 Billion With CoreWeave (CRWV) and Nebius (NBIS), Then Become Their Competitor",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 14:34",
+      "impact": "low",
+      "category": "產業競爭",
+      "reason": "探討 Meta 與供應商之間的複雜關係，雖然金額龐大，但屬於長期戰略推測，對短期股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

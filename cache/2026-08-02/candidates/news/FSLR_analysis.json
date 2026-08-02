@@ -1,0 +1,93 @@
+{
+  "ticker": "FSLR",
+  "company": "First Solar",
+  "analysis_date": "2026-07-31",
+  "source_file": "cache/2026-07-31/candidates/news/FSLR.json",
+  "summary": {
+    "total_articles": 15,
+    "bullish_count": 5,
+    "bearish_count": 4,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司公布 2026 年第二季財報，獲利表現優於預期但營收略有下滑，市場對其強勁的美國製造實力與訂單積壓持正面看法，但同時面臨合約取消與證券集體訴訟的法律風險壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "First Solar (NASDAQ:FSLR) Surges After-Hours as Q2 Earnings Beat Offsets Revenue Miss",
+      "publisher": "ChartMill",
+      "date": "2026-07-30",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第二季每股盈餘 (EPS) 達 3.92 美元，大幅優於市場預期，強勁的獲利能力抵銷了營收微幅未達標的負面影響，帶動盤後股價上漲。"
+    },
+    {
+      "rank": 2,
+      "title": "Roth Capital Reiterates Buy on First Solar, Maintains $300 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-07-24",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Roth Capital 分析師 Philip Shen 重申買入評級並維持 300 美元目標價，顯示專業機構對其長期成長潛力仍具信心。"
+    },
+    {
+      "rank": 3,
+      "title": "First Solar Q2 Earnings Call Highlights",
+      "publisher": "Yahoo",
+      "date": "2026-07-30",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "公司在財報會議中強調 2026 年上半年銷售量創紀錄，且擁有 144 億美元的龐大訂單積壓 (Backlog)，展現穩健的營運基本面。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "First Solar Sales Fall on Contract Cancellations",
+      "publisher": "The Wall Street Journal",
+      "date": "2026-07-30",
+      "impact": "high",
+      "category": "營運風險",
+      "reason": "報導指出公司因合約取消導致銷售額下滑，直接影響市場對其營收成長穩定性的擔憂，是導致營收未達預期的主因。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Tariff and Operations Litigation Altering The Investment Case For First Solar (FSLR)?",
+      "publisher": "Yahoo",
+      "date": "2026-07-25",
+      "impact": "medium",
+      "category": "法律訴訟",
+      "reason": "近期面臨多項證券集體訴訟，指控公司在關稅與營運狀況上誤導投資人，法律不確定性對股價估值構成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "First Solar, Inc. Announces Second Quarter 2026 Financial Results and Reaffirms Guidance",
+      "publisher": "Yahoo",
+      "date": "2026-07-30",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "公司正式發布財報並重申全年財測，屬於例行性財務揭露，市場已將此預期納入考量。"
+    },
+    {
+      "rank": 2,
+      "title": "First Solar’s 2026 Corporate Responsibility Report Shows How It Builds Value Where It Makes Solar",
+      "publisher": "Yahoo",
+      "date": "2026-07-30",
+      "impact": "low",
+      "category": "企業社會責任",
+      "reason": "發布企業責任報告書屬於常規 ESG 揭露，對短期股價影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "First Solar, Inc. 2026 Q2 - Results - Earnings Call Presentation",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-30",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "提供財報簡報資料供投資人參考，屬於資訊透明化的常規動作。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

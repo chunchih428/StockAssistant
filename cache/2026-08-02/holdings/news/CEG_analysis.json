@@ -1,0 +1,102 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy",
+  "analysis_date": "2026-07-31",
+  "source_file": "cache/2026-07-31/holdings/news/CEG.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 2,
+    "bearish_count": 5,
+    "neutral_count": 2,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管分析師普遍維持買入評級，但受市場情緒與估值調整影響，多家投行下調了 Constellation Energy 的目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Can CEG's Capital Allocation Strategy Enhance Shareholder Value?",
+      "publisher": "Yahoo",
+      "date": "2026-07-28 16:58",
+      "impact": "medium",
+      "category": "財務策略",
+      "reason": "公司透過高回報成長投資與股息、庫藏股計畫的組合，展現了強化現金流與長期股東價值的潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Brokers Suggest Investing in Constellation Energy Corporation (CEG): Read This Before Placing a Bet",
+      "publisher": "Yahoo",
+      "date": "2026-07-27 13:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "基於平均經紀商建議 (ABR)，該股仍被視為投資組合中的增持標的，顯示市場對其基本面仍具信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "UBS Maintains Buy on Constellation Energy, Lowers Price Target to $380",
+      "publisher": "Benzinga",
+      "date": "2026-07-28 15:41",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "UBS 分析師 Ross Fowler 雖維持買入評級，但將目標價從 $388 下調，反映出對短期股價成長空間的修正。"
+    },
+    {
+      "rank": 2,
+      "title": "Wells Fargo Maintains Overweight on Constellation Energy, Lowers Price Target to $362",
+      "publisher": "Benzinga",
+      "date": "2026-07-27 09:39",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Wells Fargo 分析師 Shahriar Pourreza 下調目標價，顯示華爾街對該公司在當前市場環境下的估值預期趨於保守。"
+    },
+    {
+      "rank": 3,
+      "title": "TD Cowen Maintains Buy on Constellation Energy, Lowers Price Target to $368",
+      "publisher": "Benzinga",
+      "date": "2026-07-27 09:40",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "TD Cowen 分析師 Shelby Tucker 下調目標價，與其他投行趨勢一致，顯示市場對能源板塊的估值模型進行了集體調整。"
+    },
+    {
+      "rank": 4,
+      "title": "Barclays Maintains Overweight on Constellation Energy, Lowers Price Target to $324",
+      "publisher": "Benzinga",
+      "date": "2026-07-28 07:21",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Barclays 分析師 Michael Lonegan 大幅下調目標價，為近期分析師報告中較為謹慎的觀點。"
+    },
+    {
+      "rank": 5,
+      "title": "Constellation Energy Corporation (CEG) Stock Drops Despite Market Gains: Important Facts to Note",
+      "publisher": "Yahoo",
+      "date": "2026-07-27 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價在市場整體上漲背景下逆勢下跌 1.59%，顯示短期賣壓與技術性修正壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Constellation Energy Corporation (CEG) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 14:00",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "市場對於即將到來的財報發布持觀望態度，目前缺乏明確的催化劑來推動股價大幅波動。"
+    },
+    {
+      "rank": 2,
+      "title": "Is the Options Market Predicting a Spike in Constellation Energy Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-07-24 12:36",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "期權市場的波動暗示投資人正在評估潛在的價格變動，但尚未形成明確的單邊趨勢。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

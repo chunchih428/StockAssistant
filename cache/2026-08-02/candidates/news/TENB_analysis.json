@@ -1,0 +1,102 @@
+{
+  "ticker": "TENB",
+  "company": "Tenable Holdings, Inc.",
+  "analysis_date": "2026-07-31",
+  "source_file": "cache/2026-07-31/candidates/news/TENB.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 3,
+    "bearish_count": 7,
+    "neutral_count": 10,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司公布 Q2 財報優於預期並上調全年財測，但市場對其未來成長動能與指引仍存疑，導致分析師評級與目標價出現分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Canaccord Genuity Maintains Buy on Tenable Holdings, Raises Price Target to $36",
+      "publisher": "Benzinga",
+      "date": "2026-07-30 11:53",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師看好公司長期成長潛力，在財報公布後給予買進評級並調升目標價，顯示對其市場地位的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Needham Maintains Buy on Tenable Holdings, Raises Price Target to $36",
+      "publisher": "Benzinga",
+      "date": "2026-07-30 07:42",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Needham 維持買進評級並調升目標價，反映對公司核心業務表現的正面看法。"
+    },
+    {
+      "rank": 3,
+      "title": "Susquehanna Maintains Positive on Tenable Holdings, Raises Price Target to $36",
+      "publisher": "Benzinga",
+      "date": "2026-07-30 14:37",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Susquehanna 給予正面評級並調升目標價，認可公司在財報中展現的財務韌性。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Tenable Holdings (NASDAQ:TENB) Falls After Q2 Earnings Beat Fails to Offset Revenue Miss and Weak Guidance",
+      "publisher": "ChartMill",
+      "date": "2026-07-29 21:16",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "儘管 EPS 超出預期，但市場對營收表現與未來指引感到失望，導致股價承壓，此篇報導精準點出市場對財測保守的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Piper Sandler Downgrades Tenable Holdings to Neutral, Lowers Price Target to $30",
+      "publisher": "Benzinga",
+      "date": "2026-07-30 05:55",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Piper Sandler 將評級下調至中性並調降目標價，顯示對公司短期成長動能轉趨保守。"
+    },
+    {
+      "rank": 3,
+      "title": "Truist Securities Maintains Hold on Tenable Holdings, Lowers Price Target to $30",
+      "publisher": "Benzinga",
+      "date": "2026-07-30 12:14",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "分析師維持持有評級但調降目標價，反映對公司未來獲利成長空間的疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Tenable Holdings Q2 Adj. EPS $0.51 Beats $0.47 Estimate, Sales $268.508M Beat $264.827M Estimate",
+      "publisher": "Benzinga",
+      "date": "2026-07-29 16:08",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "此篇報導涵蓋了 Q2 財報的核心數據，顯示公司營收與獲利均優於市場預期，為後續多空分歧的基準點。"
+    },
+    {
+      "rank": 2,
+      "title": "UBS Maintains Neutral on Tenable Holdings, Lowers Price Target to $34",
+      "publisher": "Benzinga",
+      "date": "2026-07-30 16:20",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "UBS 維持中性評級，僅因應市場環境微調目標價，對股價影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "Barclays Maintains Equal-Weight on Tenable Holdings, Lowers Price Target to $38",
+      "publisher": "Benzinga",
+      "date": "2026-07-30 07:41",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "Barclays 維持權重評級，目標價調整幅度反映市場整體估值修正。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

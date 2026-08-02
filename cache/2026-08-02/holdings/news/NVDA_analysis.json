@@ -1,0 +1,111 @@
+{
+  "ticker": "NVDA",
+  "company": "NVIDIA",
+  "analysis_date": "2026-07-31",
+  "source_file": "cache/2026-07-31/holdings/news/NVDA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 5,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管面臨短期股價波動與市場對 AI 資本支出持續性的擔憂，Nvidia 憑藉強勁的生態系統合作與長期 AI 基礎設施需求，仍被市場視為具備成長潛力的核心標的。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Nvidia (NVDA) Reportedly Anchors Hut 8’s (HUT) $19.6 Billion AI Lease Bet",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 15:20",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "Nvidia 成為 Hut 8 高達 196 億美元 AI 租賃項目的核心供應商，顯示其在大型數據中心基礎設施中的不可替代性。"
+    },
+    {
+      "rank": 2,
+      "title": "NVIDIA Stock Rises as Microsoft Sustains Massive AI Spending",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 19:58",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Microsoft 與 Meta 維持龐大的 AI 基礎設施支出，直接支撐了市場對 Nvidia GPU 的長期需求預期。"
+    },
+    {
+      "rank": 3,
+      "title": "Chips to ships: Nvidia plans new shipbuilding investment with Kawasaki",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 15:20",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Nvidia 與川崎重工合作開發數位造船廠，展現其 AI 技術跨足工業自動化與數位孿生領域的潛力。"
+    },
+    {
+      "rank": 4,
+      "title": "Cursor Launches Benchmark Partners Program with AWS, BCG, Databricks, McKinsey, NVIDIA, and Snowflake",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 17:02",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "Nvidia 加入 Cursor 的企業級 AI 採用堆疊計畫，進一步鞏固其在 AI 開發工具生態系中的領導地位。"
+    },
+    {
+      "rank": 5,
+      "title": "History Says That Nvidia Is an Unbelievable Bargain Right Now",
+      "publisher": "Yahoo",
+      "date": "2026-07-31 02:20",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "基於歷史數據分析，認為當前股價回調提供了良好的買入點，看好未來幾個月的成長空間。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Nvidia CEO Jensen Huang Personally Joined a Closed-Door Morgan Stanley Roadshow to Address 3 Investor Concerns. Nvidia Stock Is Down 4% Since He Spoke.",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 23:20",
+      "impact": "medium",
+      "category": "高層動態",
+      "reason": "執行長黃仁勳親自出席路演試圖緩解投資人疑慮，但市場反應冷淡，股價反而下跌 4%，顯示投資人對 AI 變現能力仍存有戒心。"
+    },
+    {
+      "rank": 2,
+      "title": "Mark Cuban, Michael Burry send strong warning on Nvidia, AI stocks",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 19:13",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "知名投資人對 AI 泡沫與 Nvidia 的高估值提出警告，可能影響散戶投資信心。"
+    },
+    {
+      "rank": 3,
+      "title": "NVDA, NBIS, SKHY, SNDK Stock Losses Reportedly Force Ex-OpenAI Researcher’s $20B Fund To Seek Capital",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 10:48",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "大型避險基金因持股虧損而需尋求資本，反映出近期科技股波動對機構投資人的壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "The Nvidia Vs. AMD Narrative Evolved Again: How to Understand it Today",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 17:20",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "探討 Nvidia 與 AMD 在 AI 基礎設施領域的競爭演變，屬於中性的產業競爭分析。"
+    },
+    {
+      "rank": 2,
+      "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 17:35",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對高配息 ETF 的風險提示，雖提及 Nvidia，但重點在於金融產品結構而非公司基本面。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

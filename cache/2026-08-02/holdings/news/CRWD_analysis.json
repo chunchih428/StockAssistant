@@ -1,0 +1,93 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-07-31",
+  "source_file": "cache/2026-07-31/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 18,
+    "bullish_count": 9,
+    "bearish_count": 3,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "CrowdStrike 受惠於 AI 資安需求激增與華爾街分析師看好，儘管面臨估值過高與市場波動的雜音，整體成長動能依然強勁。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Loop Capital Initiates Coverage On CrowdStrike Holdings with Buy Rating, Announces Price Target of $230",
+      "publisher": "Benzinga",
+      "date": "2026-07-28 07:46",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Loop Capital 分析師 Yun Kim 給予買入評級與 230 美元目標價，顯示華爾街對其 AI 資安策略的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike (CRWD) Joins Open Source AI Cybersecurity Alliance",
+      "publisher": "Yahoo",
+      "date": "2026-07-28 00:15",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "加入 AI 資安聯盟有助於提升公司在產業標準制定中的話語權，並強化其在 AI 防禦領域的技術護城河。"
+    },
+    {
+      "rank": 3,
+      "title": "Jim Cramer Says Buy CrowdStrike (CRWD) as AI Agents Go Rogue",
+      "publisher": "Yahoo",
+      "date": "2026-07-25 06:42",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "知名財經評論員 Jim Cramer 將近期資安事件視為產業轉折點，明確看好 CrowdStrike 的防禦技術價值。"
+    },
+    {
+      "rank": 4,
+      "title": "Can Platform Consolidation Accelerate CrowdStrike's Revenue Growth?",
+      "publisher": "Yahoo",
+      "date": "2026-07-29 13:39",
+      "impact": "medium",
+      "category": "營運展望",
+      "reason": "平台整合策略成功推動客戶採用更多 Falcon 模組，直接挹注經常性收入 (ARR) 的長期成長。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike: Firmly In Bubble Territory",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-24 13:26",
+      "impact": "medium",
+      "category": "投資分析",
+      "reason": "分析指出儘管 AI 需求強勁，但 ARR 成長速度與高昂的估值不匹配，認為股價存在泡沫風險。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike Holdings (CRWD) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-07-27 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價在市場整體上漲時出現 1.73% 的回調，顯示短期內存在獲利了結賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "'Unprecedented' OpenAI Cyberattack Brings Palo Alto, CrowdStrike Into Focus",
+      "publisher": "Yahoo",
+      "date": "2026-07-29 16:08",
+      "impact": "medium",
+      "category": "產業事件",
+      "reason": "OpenAI 與 Hugging Face 的資安事件雖凸顯資安需求，但同時也反映了 AI 攻擊技術的演進，對產業而言是雙面刃。"
+    },
+    {
+      "rank": 2,
+      "title": "Here's What to Expect From CrowdStrike’s Next Earnings Report",
+      "publisher": "Yahoo",
+      "date": "2026-07-24 11:15",
+      "impact": "low",
+      "category": "財報預期",
+      "reason": "市場對於即將到來的 Q2 財報持觀望態度，預期 EPS 成長但未有明確的超預期指引。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

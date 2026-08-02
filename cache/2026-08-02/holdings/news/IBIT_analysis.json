@@ -1,0 +1,102 @@
+{
+  "ticker": "IBIT",
+  "company": "Bitcoin",
+  "analysis_date": "2026-07-31",
+  "source_file": "cache/2026-07-31/holdings/news/IBIT.json",
+  "summary": {
+    "total_articles": 11,
+    "bullish_count": 1,
+    "bearish_count": 5,
+    "neutral_count": 5,
+    "overall_sentiment": "bearish",
+    "key_theme": "地緣政治緊張局勢與市場避險情緒導致比特幣 ETF 出現顯著資金流出，其中 IBIT 作為龍頭產品面臨較大的贖回壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "BlackRock’s IBIT Leads Nearly $1B Bitcoin ETF Recovery as Inflows Hit 7 Straight Days",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-07-23",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "在市場情緒回穩期間，IBIT 展現了強勁的吸金能力，連續 7 天淨流入並帶動整體比特幣 ETF 市場復甦，顯示其作為機構投資首選的市場地位。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bitcoin ETFs Shed $465M Over Two Days, Led by BlackRock's IBIT",
+      "publisher": "decrypt",
+      "date": "2026-07-27",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "此新聞彙整了 Benzinga 與 Decrypt 關於資金外流的報導。IBIT 作為市場龍頭，在兩日內領頭流出 4.65 億美元，反映出地緣政治風險加劇下，投資人對加密資產的避險拋售行為。"
+    },
+    {
+      "rank": 2,
+      "title": "Bitcoin ETFs Shed $225M, Snapping Seven-Day Inflow Streak as Iran Tensions Spook Markets",
+      "publisher": "Yahoo",
+      "date": "2026-07-24",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "美伊緊張局勢導致比特幣價格跌破 65,000 美元，直接中斷了先前的連續流入趨勢，IBIT 的資金流出顯示機構投資人對宏觀風險的敏感度提高。"
+    },
+    {
+      "rank": 3,
+      "title": "Bitcoin ETFs Bleed While Ethereum Funds Post Third Straight Weekly Inflow",
+      "publisher": "BeInCrypto",
+      "date": "2026-07-29",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場資金出現板塊輪動，比特幣 ETF 面臨持續失血，而以太幣 ETF 卻連續三週淨流入，此消彼長可能導致 IBIT 在短期內面臨資產配置權重下降的壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Morgan Stanley Bitcoin Trust ETF: The Bull Case Isn't Just Bitcoin",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-30",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "分析師探討摩根士丹利比特幣信託的競爭力，指出費用率與顧問採用率是關鍵，此文雖未直接影響 IBIT，但提供了 ETF 市場競爭格局的背景資訊。"
+    },
+    {
+      "rank": 2,
+      "title": "FBTC: Self-Custody Was The Pitch, Now There's A Backup Plan Nobody Explained",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-28",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "針對競爭對手 FBTC 的託管策略變更進行分析，對 IBIT 本身無直接影響，僅反映出比特幣 ETF 產業在託管安全與合規上的持續演進。"
+    },
+    {
+      "rank": 3,
+      "title": "Major wealth manager discloses Bitcoin, XRP holdings",
+      "publisher": "TheStreet",
+      "date": "2026-07-27",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "大型財富管理機構披露持倉，顯示加密貨幣資產配置的普及化，對整體產業屬中性偏多，但未對 IBIT 產生直接的價格驅動。"
+    },
+    {
+      "rank": 4,
+      "title": "Metaplanet: Same Playbook As Strategy But With The Weaker Structure",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-27",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "探討企業持有比特幣的策略風險，與 IBIT 的 ETF 結構無直接關聯，屬於加密貨幣生態系的外部觀察。"
+    },
+    {
+      "rank": 5,
+      "title": "Why Are Ethereum ETF Outperforming Bitcoin ETF in 2026?",
+      "publisher": "Cryptonews",
+      "date": "2026-07-29",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討以太幣 ETF 相對強勢的原因，屬於市場資金流向的比較分析，對 IBIT 的長期價值主張影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
