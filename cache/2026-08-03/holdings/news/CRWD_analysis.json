@@ -1,0 +1,93 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-08-03",
+  "source_file": "cache/2026-08-03/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 16,
+    "bullish_count": 10,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 驅動的資安需求增長與平台整合策略，CrowdStrike 獲得華爾街分析師正面評級與目標價上調。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Loop Capital Initiates Coverage On CrowdStrike Holdings with Buy Rating, Announces Price Target of $230",
+      "publisher": "Benzinga",
+      "date": "2026-07-28 07:46",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Loop Capital 分析師 Yun Kim 給予買入評級並設定 230 美元目標價，顯示市場對其 AI 安全策略的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "How AI‑Driven Falcon Demand and M&A Ambitions Could Reshape CrowdStrike Holdings’ (CRWD) Investment Narrative",
+      "publisher": "Yahoo",
+      "date": "2026-07-31 02:09",
+      "impact": "medium",
+      "category": "財報與展望",
+      "reason": "公司第一季營收達 13.9 億美元，AI 驅動的 Falcon 平台需求強勁，顯示其長期成長動能穩健。"
+    },
+    {
+      "rank": 3,
+      "title": "Can Platform Consolidation Accelerate CrowdStrike's Revenue Growth?",
+      "publisher": "Yahoo",
+      "date": "2026-07-29 13:39",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "客戶採用更多 Falcon 模組的平台整合策略，有效提升了經常性收入 (ARR) 的穩定性。"
+    },
+    {
+      "rank": 4,
+      "title": "CrowdStrike (CRWD) Joins Open Source AI Cybersecurity Alliance",
+      "publisher": "Yahoo",
+      "date": "2026-07-28 00:15",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "加入開源 AI 資安聯盟，與 Nvidia 等巨頭合作開發安全工具，強化了其在 AI 安全領域的領導地位。"
+    },
+    {
+      "rank": 5,
+      "title": "Jim Cramer Believes Cybersecurity Stocks Like Palo Alto & CrowdStrike Will Do Well",
+      "publisher": "Yahoo",
+      "date": "2026-08-01 02:34",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "知名財經評論員 Jim Cramer 看好資安板塊，為 CrowdStrike 帶來正面市場情緒。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "How Much CRWD Are You Really Betting On? — You bought a diversified fund, but you may have quietly inherited a concentrated position in one very stretched technolo",
+      "publisher": "Yahoo",
+      "date": "2026-07-31 19:52",
+      "impact": "low",
+      "category": "投資風險",
+      "reason": "文章提醒投資人注意基金持股過度集中於高估值的科技股，可能面臨波動風險。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike Holdings (CRWD) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-07-27 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 1.73%，反映短期獲利了結壓力或市場資金輪動。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "'Unprecedented' OpenAI Cyberattack Brings Palo Alto, CrowdStrike Into Focus",
+      "publisher": "Yahoo",
+      "date": "2026-07-29 16:08",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "OpenAI 遭駭事件凸顯資安需求，雖然對 CrowdStrike 是潛在利多，但同時也反映了當前 AI 環境的高風險性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

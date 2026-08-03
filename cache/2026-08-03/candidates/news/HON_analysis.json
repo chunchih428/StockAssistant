@@ -1,0 +1,93 @@
+{
+  "ticker": "HON",
+  "company": "Honeywell",
+  "analysis_date": "2026-08-03",
+  "source_file": "cache/2026-08-03/candidates/news/HON.json",
+  "summary": {
+    "total_articles": 19,
+    "bullish_count": 10,
+    "bearish_count": 3,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司完成業務拆分與資產處置後，財報表現優於預期，獲得多家券商上調評級與目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "BofA upgrades Honeywell Technologies to Neutral after strong quarter, lifts PT",
+      "publisher": "Yahoo",
+      "date": "2026-07-28 13:56",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "美國銀行將 Honeywell 評級由「劣於大盤」上調至「中性」，並調升目標價，主要歸功於第二季財報表現強勁且訂單趨勢改善。"
+    },
+    {
+      "rank": 2,
+      "title": "BMO Capital Maintains Outperform on Honeywell Intl, Raises Price Target to $276",
+      "publisher": "Benzinga",
+      "date": "2026-07-27 08:10",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "BMO Capital 維持「優於大盤」評級，並將目標價調升至 276 美元，顯示對公司轉型後的成長潛力具備信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Mizuho Maintains Outperform on Honeywell Intl, Raises Price Target to $265",
+      "publisher": "Benzinga",
+      "date": "2026-07-27 13:59",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Mizuho 維持「優於大盤」評級並上調目標價至 265 美元，反映市場對公司業務重組後的獲利能力持正面看法。"
+    },
+    {
+      "rank": 4,
+      "title": "Honeywell Technologies Completes Sale of Warehouse and Workflow Solutions Business to American Industrial Partners",
+      "publisher": "Yahoo",
+      "date": "2026-07-27 11:19",
+      "impact": "medium",
+      "category": "資產處置",
+      "reason": "公司成功完成倉儲與工作流程解決方案業務的出售，有助於優化資產組合並專注於核心工業技術領域。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Defense Earnings Divergence: Pure-Play Primes Outperform as Honeywell Stumbles",
+      "publisher": "ChartMill",
+      "date": "2026-07-27 12:36",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "指出在國防產業中，Honeywell 的重組過程導致表現落後於 RTX 與 Lockheed Martin 等純國防企業。"
+    },
+    {
+      "rank": 2,
+      "title": "Honeywell vs. Rockwell: Which Industrial Automation Stock Has Greater Upside?",
+      "publisher": "Yahoo",
+      "date": "2026-07-28 15:57",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析認為 Rockwell Automation 在自動化需求與財報動能上優於 Honeywell，對 HON 的相對投資吸引力持保留態度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Honeywell Technologies Announces Participation at Upcoming Investor Conference",
+      "publisher": "Yahoo",
+      "date": "2026-07-31 16:00",
+      "impact": "low",
+      "category": "公司活動",
+      "reason": "例行性的投資人會議參與公告，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Data Center Access Control Market Size, Share & Trends Analysis Report",
+      "publisher": "Yahoo",
+      "date": "2026-07-31 08:11",
+      "impact": "low",
+      "category": "產業報告",
+      "reason": "產業研究報告提及 Honeywell 在資料中心門禁控制市場的地位，屬於長期產業趨勢分析，短期影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

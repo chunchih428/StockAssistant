@@ -1,0 +1,102 @@
+{
+  "ticker": "IBIT",
+  "company": "Bitcoin",
+  "analysis_date": "2026-08-03",
+  "source_file": "cache/2026-08-03/holdings/news/IBIT.json",
+  "summary": {
+    "total_articles": 12,
+    "bullish_count": 1,
+    "bearish_count": 6,
+    "neutral_count": 5,
+    "overall_sentiment": "bearish",
+    "key_theme": "比特幣價格波動導致現貨 ETF 出現顯著資金外流，其中 IBIT 領跌，市場情緒轉趨保守。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Is the Quantum Threat to Bitcoin Real or Not? Galaxy Digital Just Pledged $5 Million to Boost Bitcoin's Quantum Resistance.",
+      "publisher": "Motley Fool",
+      "date": "2026-08-02T12:52:00Z",
+      "impact": "low",
+      "category": "技術發展",
+      "reason": "Galaxy Digital 投入 500 萬美元提升比特幣量子抗性，長期來看有助於增強資產安全性與機構投資者的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bitcoin ETFs Shed $465M Over Two Days, Led by BlackRock's IBIT",
+      "publisher": "decrypt",
+      "date": "2026-07-27T11:23:01Z",
+      "impact": "high",
+      "category": "資金流向",
+      "reason": "IBIT 在兩日內領頭流出，顯示機構投資者在宏觀地緣政治風險下採取避險操作，對股價造成直接賣壓。"
+    },
+    {
+      "rank": 2,
+      "title": "Crypto Market Today, July 31: Bitcoin Slides Below $63,000 and Coinbase Tumbles 10%",
+      "publisher": "Motley Fool",
+      "date": "2026-07-31T21:38:47Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "比特幣價格跌破 63,000 美元關鍵心理關卡，直接影響追蹤比特幣的 IBIT 資產淨值與市場情緒。"
+    },
+    {
+      "rank": 3,
+      "title": "Bitcoin ETFs Bleed While Ethereum Funds Post Third Straight Weekly Inflow",
+      "publisher": "BeInCrypto",
+      "date": "2026-07-29T05:54:51Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "資金出現板塊輪動，從比特幣 ETF 轉向以太幣 ETF，削弱了 IBIT 的資金吸引力。"
+    },
+    {
+      "rank": 4,
+      "title": "BlackRock Bitcoin Buying Rebounds as ETF Investors Sit 22% Underwater",
+      "publisher": "BeInCrypto",
+      "date": "2026-07-31T18:02:04Z",
+      "impact": "low",
+      "category": "投資人情緒",
+      "reason": "儘管買盤回升，但投資者面臨 22% 的帳面虧損，可能導致後續反彈時出現解套賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Morgan Stanley Bitcoin Trust ETF: The Bull Case Isn't Just Bitcoin",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-30 06:30",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "分析摩根士丹利 ETF 的費用結構與顧問採用率，對 IBIT 本身無直接影響，僅提供產業競爭格局參考。"
+    },
+    {
+      "rank": 2,
+      "title": "Major wealth manager discloses Bitcoin, XRP holdings",
+      "publisher": "TheStreet",
+      "date": "2026-07-27T20:00:49Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "大型財富管理機構披露持倉，顯示加密貨幣資產配置常態化，但未直接涉及 IBIT 的資金流向。"
+    },
+    {
+      "rank": 3,
+      "title": "FBTC: Self-Custody Was The Pitch, Now There's A Backup Plan Nobody Explained",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-28 17:19",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "討論 Fidelity 的託管策略變更，屬於競爭對手動態，對 IBIT 的直接影響有限。"
+    },
+    {
+      "rank": 4,
+      "title": "Metaplanet: Same Playbook As Strategy But With The Weaker Structure",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-27 13:30",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "分析 Metaplanet 的比特幣庫存策略，與 IBIT 的 ETF 運作模式無直接關聯。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

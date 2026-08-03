@@ -1,0 +1,102 @@
+{
+  "ticker": "ETN",
+  "company": "Eaton",
+  "analysis_date": "2026-08-03",
+  "source_file": "cache/2026-08-03/holdings/news/ETN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 3,
+    "neutral_count": 2,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Eaton 憑藉強勁的電氣業務需求與 AI 基礎設施成長，第二季財報營收與獲利雙雙優於預期，並上調全年調整後每股盈餘指引。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Eaton Reports Record Second Quarter 2026 Results, with Strong Organic Growth, Accelerating Orders and Backlog, and Raises Organic Growth Guidance",
+      "publisher": "Yahoo",
+      "date": "2026-07-31",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司公布第二季營收達 85 億美元，調整後每股盈餘 3.15 美元，雙雙超越華爾街預期，且積壓訂單持續成長，顯示核心業務動能強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "Eaton Corp Raises FY2026 Adj EPS Guidance from $13.05-$13.50 to $13.40-$13.60 vs $13.24 Est",
+      "publisher": "Benzinga",
+      "date": "2026-07-31",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "管理層上調 2026 全年調整後每股盈餘指引至 13.40 至 13.60 美元區間，高於市場預期的 13.24 美元，反映對未來獲利能力的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Verizon (VZ) Gets $1.5 Billion Fiber Backing From Bain And Tillman",
+      "publisher": "Yahoo",
+      "date": "2026-07-31",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Bain Capital 與 Tillman Global Holdings 投資 15 億美元於 Eaton Fiber，此舉將加速 Verizon 的光纖寬頻部署，對 Eaton 的基礎設施業務具正面助益。"
+    },
+    {
+      "rank": 4,
+      "title": "2 Stocks From Top Growth Sectors to Buy in August for the Rest of 2026",
+      "publisher": "Yahoo",
+      "date": "2026-07-30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析師將 Eaton 列為 8 月份成長型股票首選，看好其在 AI 與基礎設施領域的長期成長潛力。"
+    },
+    {
+      "rank": 5,
+      "title": "Eaton collaborates with Kose Engineering to support growing demand for IEC-compliant power infrastructure in Japan",
+      "publisher": "Yahoo",
+      "date": "2026-07-30",
+      "impact": "low",
+      "category": "市場擴張",
+      "reason": "與 Kose Engineering 合作拓展日本市場，有助於提升 Eaton 在國際電力基礎設施市場的市佔率。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Eaton Corp Lowers FY2026 GAAP EPS Guidance from $10.88-$11.33 to $10.36-$10.56 vs $11.77 Est",
+      "publisher": "Benzinga",
+      "date": "2026-07-31",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "儘管調整後獲利強勁，但 GAAP 每股盈餘指引下調至 10.36 至 10.56 美元，顯著低於分析師預期的 11.77 美元，引發市場對會計準則下獲利能力的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Eaton Corp Sees Q3 GAAP EPS $2.77-$2.87 vs $3.11 Est",
+      "publisher": "Benzinga",
+      "date": "2026-07-31",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "第三季 GAAP 每股盈餘指引低於市場預期，反映短期內可能面臨成本壓力或非經常性支出影響。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Eaton vs. Tesla: A Difference in Absolute Revenue and Revenue Volatility",
+      "publisher": "Yahoo",
+      "date": "2026-07-30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章對比 Eaton 與 Tesla 的營收波動性，屬於產業分析性質，對股價無直接短期影響。"
+    },
+    {
+      "rank": 2,
+      "title": "The Zacks Analyst Blog Highlights Applied Materials, Sandisk, Eaton and Flanigan's",
+      "publisher": "Yahoo",
+      "date": "2026-07-31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為分析師部落格的綜合報導，提及 Eaton 的 AI 相關動能，屬於市場例行性評論。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
