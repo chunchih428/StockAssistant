@@ -1,0 +1,120 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-08-03",
+  "source_file": "cache/2026-08-03/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 3,
+    "bearish_count": 12,
+    "neutral_count": 5,
+    "overall_sentiment": "bearish",
+    "key_theme": "儘管財報營收表現亮眼，但市場高度擔憂記憶體成本上升、供應鏈瓶頸以及服務營收成長放緩對公司高估值的衝擊。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple Delivers Strong Free Cash Flow, But What is the Best AAPL Play?",
+      "publisher": "Yahoo",
+      "date": "2026-08-02 13:00",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "公司在第 3 財季展現強勁的自由現金流（FCF）成長與高利潤率，顯示核心財務體質依然穩健。"
+    },
+    {
+      "rank": 2,
+      "title": "US Schools Are Ditching Chromebooks for MacBooks by the Thousands— Apple Just Named Names",
+      "publisher": "Yahoo",
+      "date": "2026-08-01 23:30",
+      "impact": "low",
+      "category": "市場擴張",
+      "reason": "教育市場市占率提升，顯示 Mac 產品線在特定領域仍具備強大競爭力與滲透力。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple Soared 15% in July, but GPIQ Holders Lost 6%: The Hidden Options Tax on Covered-Call ETFs",
+      "publisher": "Yahoo",
+      "date": "2026-08-02 21:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "提及 Apple 在 7 月份股價強勁上漲 15%，反映出市場近期對其成長動能的認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Apple shares sink as weaker margins and services growth challenge its premium valuation",
+      "publisher": "CNBC",
+      "date": "2026-07-31 11:58",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "此篇涵蓋了記憶體成本上升、服務營收疲軟及利潤率下滑等核心利空，是市場對 Apple 高估值產生質疑的代表性報導。"
+    },
+    {
+      "rank": 2,
+      "title": "iPhone Prices to Go up as Memory Chip Costs Keep Climbing? Tim Cook Says Apple Is 'Evaluating All Options'",
+      "publisher": "Yahoo",
+      "date": "2026-08-02 23:30",
+      "impact": "high",
+      "category": "供應鏈管理",
+      "reason": "記憶體短缺與成本攀升直接威脅產品毛利，且管理層暗示可能調漲售價，恐影響終端需求。"
+    },
+    {
+      "rank": 3,
+      "title": "Morgan Stanley sends cautious Apple stock message after earnings",
+      "publisher": "Yahoo",
+      "date": "2026-08-03 03:06",
+      "impact": "medium",
+      "category": "分析師觀點",
+      "reason": "摩根士丹利對 Apple 在 AI 競賽中的表現持保留態度，認為公司並非不受產業挑戰影響。"
+    },
+    {
+      "rank": 4,
+      "title": "Apple’s record iPhone boom just became a Wall Street trap",
+      "publisher": "Yahoo",
+      "date": "2026-08-02 01:03",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出即便營收成長 16%，市場仍對未來成長的可持續性感到擔憂，將亮眼財報視為誘多陷阱。"
+    },
+    {
+      "rank": 5,
+      "title": "The global memory shortage hits the MacBook Air",
+      "publisher": "Yahoo",
+      "date": "2026-08-02 21:33",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "記憶體短缺已實質影響熱門產品 MacBook Air 的供貨，恐導致短期營收損失。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: AAPL, MSFT, AMZN, META, TSLA",
+      "publisher": "Yahoo",
+      "date": "2026-08-03 02:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅總結大型科技股財報週的市場關注度，未對 Apple 個股提供具體方向性分析。"
+    },
+    {
+      "rank": 2,
+      "title": "Microsoft vs. Apple: Comparing Revenue Trends and the Impact of Artificial Intelligence",
+      "publisher": "Yahoo",
+      "date": "2026-08-02 13:13",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "對比 Microsoft 與 Apple 的營收趨勢，屬於中性的產業比較分析。"
+    },
+    {
+      "rank": 3,
+      "title": "Stocks making the biggest moves midday: Apple, Amazon, Reddit, GoDaddy, IES Holdings & more",
+      "publisher": "CNBC",
+      "date": "2026-07-31 12:43",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅列出盤中波動較大的個股，屬於市場行情紀錄。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

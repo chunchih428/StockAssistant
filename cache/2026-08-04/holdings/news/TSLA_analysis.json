@@ -1,0 +1,156 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla",
+  "analysis_date": "2026-08-03",
+  "source_file": "cache/2026-08-03/holdings/news/TSLA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 4,
+    "bearish_count": 10,
+    "neutral_count": 6,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場對 Tesla 併購 SpaceX 的傳聞感到擔憂，加上財報後股價修正與 AI 資本支出壓力，導致投資人情緒轉趨保守。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Elon Musk's Tesla Delivered 480,126 Vehicles in Q2, a 25% Jump From a Year Ago",
+      "publisher": "Yahoo",
+      "date": "2026-08-02 01:35",
+      "impact": "high",
+      "category": "銷售數據",
+      "reason": "第二季交付量年增 25 %，顯示 Tesla 在全球電動車市場的強勁競爭力與主導地位。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla's $99-a-Month FSD Plan Is on Pace to Generate $1.8 Billion a Year",
+      "publisher": "Yahoo",
+      "date": "2026-08-01 05:35",
+      "impact": "medium",
+      "category": "產品營收",
+      "reason": "全自動輔助駕駛 (FSD) 訂閱制展現出穩定的經常性收入潛力，預計年營收可達 18 億美元。"
+    },
+    {
+      "rank": 3,
+      "title": "Cathie Wood Doubles Down on Tesla and SpaceX as Wall Street Turns Cautious",
+      "publisher": "Yahoo",
+      "date": "2026-08-01 18:11",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "知名投資人 Cathie Wood 逆勢加碼，展現對公司長期發展潛力的信心，提供市場情緒支撐。"
+    },
+    {
+      "rank": 4,
+      "title": "Tesla and BYD Ride Global EV Boom",
+      "publisher": "Yahoo",
+      "date": "2026-08-02 12:30",
+      "impact": "low",
+      "category": "產業趨勢",
+      "reason": "全球油價上漲推動電動車需求，Tesla 作為龍頭將持續受惠於整體產業的成長趨勢。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Elon Musk's Net Worth Down Nearly $700 Billion Amid Tesla, SpaceX Merger Rumors",
+      "publisher": "Benzinga",
+      "date": "2026-08-01 15:36",
+      "impact": "high",
+      "category": "公司治理",
+      "reason": "關於 Tesla 與 SpaceX 合併的傳聞引發市場恐慌，導致馬斯克個人財富與公司股價大幅震盪。"
+    },
+    {
+      "rank": 2,
+      "title": "Dwindling cash and soaring memory costs: Tech's AI buildout has ballooning price tag",
+      "publisher": "CNBC",
+      "date": "2026-07-31 09:06",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "Tesla 在最新一季出現負現金流，反映出 AI 相關資本支出過高，對公司財務結構造成壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "Should You Buy Tesla While It's Below $350?",
+      "publisher": "Yahoo",
+      "date": "2026-08-01 12:05",
+      "impact": "medium",
+      "category": "股價走勢",
+      "reason": "自 7 月 22 日財報公布以來，股價已下跌 20 %，顯示市場對財報結果與未來展望的負面反應。"
+    },
+    {
+      "rank": 4,
+      "title": "Enron Short Seller Jim Chanos Sees a '1999-Type Moment' in AI Boom, Includes SPCX, TSLA in His Shorts",
+      "publisher": "Benzinga",
+      "date": "2026-07-31 10:35",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "知名放空機構負責人 Jim Chanos 將 Tesla 列為放空標的，認為 AI 泡沫化風險極高。"
+    },
+    {
+      "rank": 5,
+      "title": "Elon Musk Plans $100 Million Republican Midterm Push, Despite Earlier Political Fallout for Tesla",
+      "publisher": "Benzinga",
+      "date": "2026-08-01 08:30",
+      "impact": "low",
+      "category": "政治風險",
+      "reason": "馬斯克投入大量資金參與政治活動，可能再次引發品牌形象爭議並影響部分客群的購買意願。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Elon Musk Dismisses Report Tesla Could Sell Chinese Business for SpaceX Merger",
+      "publisher": "Yahoo",
+      "date": "2026-08-03 01:30",
+      "impact": "medium",
+      "category": "公司聲明",
+      "reason": "馬斯克親自闢謠關於出售中國業務的傳聞，雖消除不確定性，但市場對其併購意圖仍存疑。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: AAPL, MSFT, AMZN, META, TSLA",
+      "publisher": "Yahoo",
+      "date": "2026-08-03 02:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為散戶關注度分析，未對公司基本面產生實質影響。"
+    },
+    {
+      "rank": 3,
+      "title": "PCAR vs. TSLA: Which Stock Should Value Investors Buy Now?",
+      "publisher": "Yahoo",
+      "date": "2026-07-31 15:40",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "純屬投資標的比較分析，不涉及公司重大營運變動。"
+    },
+    {
+      "rank": 4,
+      "title": "SpaceX Is Down 19% From Its IPO Price. Tesla's History Suggests This May Happen Next",
+      "publisher": "Yahoo",
+      "date": "2026-08-01 14:20",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "以歷史經驗進行推測，缺乏實質財務數據支持。"
+    },
+    {
+      "rank": 5,
+      "title": "Tesla Rival BYD Ramping Up Sales On Overseas Demand, Flash Charging",
+      "publisher": "Yahoo",
+      "date": "2026-08-01 12:19",
+      "impact": "low",
+      "category": "競爭對手",
+      "reason": "競爭對手 BYD 的擴張雖構成壓力，但屬於市場常態競爭。"
+    },
+    {
+      "rank": 6,
+      "title": "Nasdaq, S&P 500 Futures Rise As Amazon Reignites AI Trade, Apple Slides",
+      "publisher": "Yahoo",
+      "date": "2026-07-31 08:54",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "整體大盤情緒分析，對 Tesla 個股影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

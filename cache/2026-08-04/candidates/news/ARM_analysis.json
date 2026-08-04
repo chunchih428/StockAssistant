@@ -1,0 +1,111 @@
+{
+  "ticker": "ARM",
+  "company": "Arm Holdings plc",
+  "analysis_date": "2026-08-03",
+  "source_file": "cache/2026-08-03/candidates/news/ARM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 6,
+    "neutral_count": 2,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司發布強勁的財報並展現 AI 領域的成長動能，但多數分析師在調升目標價的同時，因估值過高而下調了目標價位。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Arm Holdings PLC (ARM) (Q1 2027) Earnings Call Highlights: Record Revenue and AI Growth",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 05:00",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司公布第一季營收達 12.9 億美元，數據中心權利金收入翻倍，且 AI CPU 需求強勁，顯示核心業務成長動能極佳。"
+    },
+    {
+      "rank": 2,
+      "title": "A $2 Billion Reason to Buy Arm Holdings Stock Now",
+      "publisher": "Yahoo",
+      "date": "2026-08-01 14:00",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "新一代 AGI CPU 需求突破 20 億美元，證明 Arm 在 AI 運算架構的市場領導地位與變現能力。"
+    },
+    {
+      "rank": 3,
+      "title": "Morgan Stanley Maintains Equal-Weight on ARM Holdings, Raises Price Target to $212",
+      "publisher": "Benzinga",
+      "date": "2026-07-30 13:23",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "摩根士丹利分析師 Lee Simpson 在財報後上調目標價，反映對公司長期成長潛力的認可。"
+    },
+    {
+      "rank": 4,
+      "title": "Guggenheim Reiterates Buy on ARM Holdings, Maintains $255 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-07-30 09:53",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Guggenheim 分析師 John Difucci 維持買入評級與目標價，顯示對公司執行力與 AI 策略的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "UBS Maintains Buy on ARM Holdings, Lowers Price Target to $320",
+      "publisher": "Benzinga",
+      "date": "2026-07-30 15:53",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管維持買入，但瑞銀分析師 Timothy Arcuri 將目標價從 360 美元下調至 320 美元，反映市場對高估值的修正壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "TD Cowen Maintains Buy on ARM Holdings, Lowers Price Target to $350",
+      "publisher": "Benzinga",
+      "date": "2026-07-30 11:38",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "TD Cowen 分析師 Krish Sankar 將目標價大幅下調，顯示即便看好基本面，分析師對股價過熱的擔憂加劇。"
+    },
+    {
+      "rank": 3,
+      "title": "Arm (ARM) Stock Looks Pricey On Book Value Yet Strong On AI Growth",
+      "publisher": "Yahoo",
+      "date": "2026-07-31 10:06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章指出 Arm 年初至今漲幅已達 110.5%，從帳面價值來看估值過高，投資人需警惕回調風險。"
+    },
+    {
+      "rank": 4,
+      "title": "Arm remains key AI infrastructure beneficiary despite softer handset outlook, Citi says",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 19:38",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "花旗指出手機市場展望疲軟，雖然 AI 基礎設施能抵銷部分影響，但仍構成潛在的成長阻力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "The Zacks Analyst Blog Highlights Arm Holdings, NVIDIA and Qualcomm",
+      "publisher": "Yahoo",
+      "date": "2026-07-31 06:36",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "綜合報導產業動態，強調 Arm 在 AI 領域的成長，但也提醒投資人需關注執行風險與市場的高預期。"
+    },
+    {
+      "rank": 2,
+      "title": "Arm's AI Momentum is Undeniable, but is ARM Stock a Hold?",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 18:09",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討公司成長動能與執行風險的平衡，對短期投資建議持保留態度，屬於中性觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

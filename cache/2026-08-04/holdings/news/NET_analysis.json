@@ -1,0 +1,65 @@
+{
+  "ticker": "NET",
+  "company": "Cloudflare",
+  "analysis_date": "2026-08-03",
+  "source_file": "cache/2026-08-03/holdings/news/NET.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 4,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "Cloudflare 近期股價表現強勁並創下 52 週新高，市場情緒普遍樂觀，儘管面臨高層內部持股變動的潛在疑慮。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why Did REPL, SNOW, NET Stocks Surge To 52-Week Highs Last Week?",
+      "publisher": "Stocktwits",
+      "date": "2026-08-03",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價創下 52 週新高顯示強勁的市場動能與投資人信心，反映出 Cloudflare 在雲端安全與邊緣運算領域的競爭優勢獲得市場認可。"
+    },
+    {
+      "rank": 2,
+      "title": "Cloudflare (NET) Laps the Stock Market: Here's Why",
+      "publisher": "Zacks",
+      "date": "2026-07-27",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導分析了 Cloudflare 超越整體大盤的表現，歸因於其持續的業務成長與市場份額擴張，對投資人具有正面引導作用。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Cloudflare (NET) a Buy as Wall Street Analysts Look Optimistic?",
+      "publisher": "Zacks",
+      "date": "2026-07-27",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "華爾街分析師的樂觀態度通常會帶動機構資金流入，進一步強化市場對該公司未來獲利能力的預期。"
+    },
+    {
+      "rank": 4,
+      "title": "Cloudflare, Inc. (NET) Is a Trending Stock: Facts to Know Before Betting on It",
+      "publisher": "Zacks",
+      "date": "2026-07-27",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "作為熱門股的分析報告，有助於提升市場關注度與流動性，雖無直接基本面利多，但對股價情緒有支撐效果。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare's CFO Sold Nearly 13,000 Company Shares for $3.6 Million. What Does This Mean for Investors?",
+      "publisher": "Motley Fool",
+      "date": "2026-07-30",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "財務長出售價值 360 萬美元的股票，儘管可能是預先安排的交易，但大規模內部人拋售仍可能引發投資人對公司短期股價高點的擔憂。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-08-03",
+  "source_file": "cache/2026-08-03/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 1,
+    "bearish_count": 5,
+    "neutral_count": 3,
+    "overall_sentiment": "bearish",
+    "key_theme": "科技股面臨資本支出競賽壓力與市場去槓桿化風險，導致 QQQ 近期表現疲軟且市場情緒轉趨謹慎。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Aggressive Buying On Nvidia Backing Massive OpenAI Data Center And Trump Pausing Iran Attacks",
+      "publisher": "Benzinga",
+      "date": "2026-07-27 15:09",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場對於 Nvidia 等 AI 龍頭股的積極買盤，為 QQQ 的科技權重股提供了支撐力道。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Citadel, Situational Awareness, And The Likely Pause Of Forced Selling",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-31 10:54",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "指出科技股面臨去槓桿化與強制賣壓，且聯準會政策不確定性增加，對 QQQ 構成顯著下行壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "QQQI’s 14% Yield Hides a Costly Truth: 98% Is Your Own Money Coming Back",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-08-01 11:47",
+      "impact": "medium",
+      "category": "產品分析",
+      "reason": "揭露衍生性商品 ETF 的高配息結構隱憂，提醒投資人高殖利率可能源自本金返還，影響投資信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Daily Breadth Rebounds, but the Negative Bias Remains",
+      "publisher": "ChartMill",
+      "date": "2026-07-28 12:04",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "綜合多篇技術分析指出 QQQ 走勢疲軟，且市場參與度低於 50%，顯示整體趨勢偏向負面。"
+    },
+    {
+      "rank": 4,
+      "title": "QQQ And Tech Earnings: They Can't All Win The CapEx Arms Race",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-27 04:04",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "分析指出大型科技股在 AI 領域的資本支出競賽過於激烈，恐壓縮未來獲利空間。"
+    },
+    {
+      "rank": 5,
+      "title": "SPYG Vs. QQQ: It's Not The Tech Exposure, It's What's Inside It",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-30 13:20",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "建議投資人轉向風險調整後表現更佳的替代標的，暗示 QQQ 在當前環境下風險較高。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "BlackRock’s Nasdaq ETF Challenger Is Growing — But QQQ Still Pulls 300× More Inflows",
+      "publisher": "Benzinga",
+      "date": "2026-07-27 16:12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "雖然競爭對手 ETF 資金流入增加，但 QQQ 仍保持絕對市場主導地位，對股價影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Trump Says US Should Have the World's Lowest Interest Rates: What Do Prediction Markets Say?",
+      "publisher": "Benzinga",
+      "date": "2026-07-28 14:03",
+      "impact": "low",
+      "category": "總體經濟",
+      "reason": "討論利率政策對市場的潛在影響，但目前僅為市場預測，尚未形成實質利多或利空。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

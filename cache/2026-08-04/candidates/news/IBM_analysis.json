@@ -1,0 +1,93 @@
+{
+  "ticker": "IBM",
+  "company": "International Business Machines Corporation",
+  "analysis_date": "2026-08-03",
+  "source_file": "cache/2026-08-03/candidates/news/IBM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 5,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "IBM 在量子運算領域取得顯著技術突破，透過與多方合作驗證了量子優勢，雖市場對其成長動能與 AI 表現仍有疑慮，但技術領先地位獲得肯定。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "IBM (IBM) and Partners Reach Trusted Quantum Breakthroughs Beyond Classical Computing",
+      "publisher": "Yahoo",
+      "date": "2026-08-01 03:17",
+      "impact": "high",
+      "category": "技術突破",
+      "reason": "IBM 與芝加哥大學、Algorithmiq 及 Qedma 等多方合作，成功展示量子運算在邏輯電路上的優勢，並解決了量子計算準確性驗證的難題，確立了其在量子領域的技術領先地位。"
+    },
+    {
+      "rank": 2,
+      "title": "IBM CEO Arvind Krishna goes one-on-one with Jim Cramer",
+      "publisher": "CNBC",
+      "date": "2026-07-30 19:44",
+      "impact": "medium",
+      "category": "高層訪談",
+      "reason": "CEO Arvind Krishna 透過主流財經媒體強調量子運算的轉型潛力，有助於提升市場對 IBM 長期技術願景的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Why IBM Stock May Be A Value Deal",
+      "publisher": "Yahoo",
+      "date": "2026-07-31 14:07",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出在近期股價回調後，IBM 的估值已具備吸引力，對於尋求價值投資的機構法人而言，該股被視為具備防禦性的科技標的。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Alphabet vs. IBM: What Diverging Revenue Trends Tell Investors About These Artificial Intelligence Companies",
+      "publisher": "Yahoo",
+      "date": "2026-08-01 13:03",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "文章對比 Alphabet 與 IBM 的營收成長差距，指出 IBM 在 AI 領域的營收成長動能相對疲軟且波動較大，引發投資人對其競爭力的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "IBM Swapped Its AI Scoreboard For A Quantum One",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 11:59",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "指出 IBM 在財報會議中淡化 AI 績效指標轉而強調量子運算，可能暗示短期 AI 業務成長不如預期，造成市場不確定性。"
+    },
+    {
+      "rank": 3,
+      "title": "Is IBM Stock Worth Buying After Its Steep 2026 Share Price Pullback?",
+      "publisher": "Yahoo",
+      "date": "2026-07-31 17:41",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管股價回調，但分析師指出公司仍面臨成長緩慢、槓桿率過高及估值偏高等結構性問題，限制了股價反彈空間。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Jim Cramer Is Sad About International Business Machines Corporation (NYSE:IBM)’s Performance",
+      "publisher": "Yahoo",
+      "date": "2026-08-01 02:36",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "Jim Cramer 對 IBM 的表現表達複雜情緒，既肯定其長期潛力又對短期股價表現感到失望，屬於個人觀點，對股價實質影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "How To Bank 13% On IBM Stock Before Buying A Single Share",
+      "publisher": "Yahoo",
+      "date": "2026-07-30 21:02",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "介紹選擇權策略以獲取收益，屬於衍生性金融商品操作建議，不直接反映公司基本面變化。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
