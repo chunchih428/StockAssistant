@@ -1,0 +1,111 @@
+{
+  "ticker": "FFIV",
+  "company": "F5",
+  "analysis_date": "2026-08-03",
+  "source_file": "cache/2026-08-03/candidates/news/FFIV.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 1,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "F5 憑藉強勁的 AI 需求與混合雲業務推動，第 3 季財報優於預期並上調全年展望，獲得多家券商調升目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "F5 Reports Third Quarter Results with 19% Product Revenue Growth",
+      "publisher": "Yahoo",
+      "date": "2026-07-27 20:05",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司公布第 3 季財報，營收年增 11 % 達 8.65 億美元，產品營收成長 19 %，表現優於市場預期，並上調全年財測。"
+    },
+    {
+      "rank": 2,
+      "title": "JP Morgan Maintains Overweight on F5, Raises Price Target to $515",
+      "publisher": "Benzinga",
+      "date": "2026-07-28 09:27",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "摩根大通分析師 Samik Chatterjee 維持「加碼」評級，並將目標價調升至 515 美元，反映對其 AI 驅動成長的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Piper Sandler Reiterates Overweight on F5, Raises Price Target to $461",
+      "publisher": "Benzinga",
+      "date": "2026-07-28 11:02",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Piper Sandler 分析師 James Fish 重申「加碼」評級，並將目標價從 423 美元調升至 461 美元，肯定其在混合多雲市場的競爭力。"
+    },
+    {
+      "rank": 4,
+      "title": "F5 Integrates F5 AI Guardrails with NVIDIA NeMo Guardrails to Extend Runtime Security for Enterprise AI Applications",
+      "publisher": "Yahoo",
+      "date": "2026-07-29 13:00",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "F5 與 NVIDIA 合作整合 AI 防護機制，強化企業級 AI 應用的安全性，展現公司在 AI 基礎設施領域的技術領先地位。"
+    },
+    {
+      "rank": 5,
+      "title": "F5 (FFIV) Launches AI Fleet Management To Speed BIG IP Security Fixes",
+      "publisher": "Yahoo",
+      "date": "2026-07-29 09:09",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "推出 AI 驅動的車隊管理功能，旨在加速 BIG-IP 安全修復，進一步提升產品組合的自動化與效率。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "These Analysts Increase Their Forecasts On F5 Following Upbeat Q3 Earnings",
+      "publisher": "Benzinga",
+      "date": "2026-07-28 09:36",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管財報亮眼，但股價在財報後出現 8.3 % 的回調，顯示市場對高估值或獲利了結賣壓的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "PD vs. FFIV: Which Stock Is the Better Value Option?",
+      "publisher": "Yahoo",
+      "date": "2026-07-29 15:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對 PagerDuty 與 F5 的價值投資比較分析，屬於中性的市場觀點，未對股價產生直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Morgan Stanley Maintains Equal-Weight on F5, Raises Price Target to $415",
+      "publisher": "Benzinga",
+      "date": "2026-07-28 13:12",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "摩根士丹利維持「中立」評級，僅小幅調升目標價，顯示對其成長潛力持謹慎樂觀態度。"
+    },
+    {
+      "rank": 3,
+      "title": "Barclays Maintains Equal-Weight on F5, Raises Price Target to $397",
+      "publisher": "Benzinga",
+      "date": "2026-07-28 07:28",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "巴克萊維持「中立」評級，反映市場對其未來成長空間與估值平衡的看法。"
+    },
+    {
+      "rank": 4,
+      "title": "F5 Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call",
+      "publisher": "Benzinga",
+      "date": "2026-07-27 08:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "財報公布前的預測整理，屬於事件發生前的市場預期，隨財報公布後已失去即時參考價值。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

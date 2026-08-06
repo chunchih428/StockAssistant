@@ -1,0 +1,120 @@
+{
+  "ticker": "MSFT",
+  "company": "Microsoft",
+  "analysis_date": "2026-08-03",
+  "source_file": "cache/2026-08-03/holdings/news/MSFT.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 1,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "微軟憑藉強勁的 Q4 財報與 AI 策略的變現能力，推動股價上漲，儘管面臨監管調查與 AI 基礎設施成本的市場檢視。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "3 Reasons Microsoft Stock Soared After Q4 Earnings",
+      "publisher": "Yahoo",
+      "date": "2026-08-02 17:30",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "微軟 Q4 財報顯示其數十億美元的 AI 投資已開始產生實質回報，營收與利潤增長強勁，市場對其長期成長潛力信心大增。"
+    },
+    {
+      "rank": 2,
+      "title": "Alphabet, Amazon and Microsoft added nearly $1.5 trillion in combined value this week",
+      "publisher": "CNBC",
+      "date": "2026-07-31 04:13",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "財報後市場反應熱烈，微軟市值顯著增加，反映投資人對其雲端與 AI 業務的高度認可。"
+    },
+    {
+      "rank": 3,
+      "title": "Microsoft’s AI Cybersecurity Push Could Become a Major Growth Driver for MSFT Stock",
+      "publisher": "Yahoo",
+      "date": "2026-08-01 16:09",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "AI 驅動的資安工具被視為微軟下一個重要的營收成長引擎，有助於提升企業客戶的黏著度。"
+    },
+    {
+      "rank": 4,
+      "title": "Microsoft Just Announced Huge News for Nvidia Shareholders",
+      "publisher": "Yahoo",
+      "date": "2026-08-01 15:07",
+      "impact": "medium",
+      "category": "資本支出",
+      "reason": "微軟計畫在 2027 財年持續擴大資料中心支出，顯示其對 AI 基礎設施的長期投入決心，對供應鏈夥伴亦是利多。"
+    },
+    {
+      "rank": 5,
+      "title": "Microsoft's Xbox chief lays out plan to pass rivals on margin by 2030 in memo to employees",
+      "publisher": "CNBC",
+      "date": "2026-07-30 18:30",
+      "impact": "low",
+      "category": "公司策略",
+      "reason": "Xbox 部門制定明確的利潤率提升計畫，透過 Minecraft 等核心 IP 與全球市場擴張，展現長期營運優化目標。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Microsoft (MSFT) Faces Consumer Probes Over Microsoft 365 And Copilot Changes",
+      "publisher": "Yahoo",
+      "date": "2026-08-01 18:08",
+      "impact": "medium",
+      "category": "法規監管",
+      "reason": "英國、義大利與澳洲監管機構針對 Microsoft 365 與 Copilot 的變更展開調查，可能引發後續合規成本或業務調整壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: AAPL, MSFT, AMZN, META, TSLA",
+      "publisher": "Yahoo",
+      "date": "2026-08-03 02:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "綜合報導科技巨頭財報後的市場情緒，重點在於投資人對 AI 支出回報與晶片成本的權衡，屬於市場觀察性質。"
+    },
+    {
+      "rank": 2,
+      "title": "Microsoft CEO Satya Nadella Says 'Every Model Is Substitutable'",
+      "publisher": "Yahoo",
+      "date": "2026-08-02 15:30",
+      "impact": "low",
+      "category": "高層觀點",
+      "reason": "執行長 Satya Nadella 對 AI 模型可替代性的評論，強調微軟在 AI 生態系中的靈活策略，對股價影響中性。"
+    },
+    {
+      "rank": 3,
+      "title": "Microsoft vs. Apple: Comparing Revenue Trends and the Impact of Artificial Intelligence",
+      "publisher": "Yahoo",
+      "date": "2026-08-02 13:13",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "對比微軟與蘋果的營收趨勢，分析兩者在 AI 時代的競爭地位，屬於產業分析報告。"
+    },
+    {
+      "rank": 4,
+      "title": "LinkedIn reports solid Q2 revenue growth",
+      "publisher": "Yahoo",
+      "date": "2026-08-02 19:06",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "LinkedIn 營收成長穩健，但因微軟未揭露詳細數據，對整體股價影響有限。"
+    },
+    {
+      "rank": 5,
+      "title": "Why Google, Microsoft, And Meta Are Building In West Texas?",
+      "publisher": "Yahoo",
+      "date": "2026-08-01 10:42",
+      "impact": "low",
+      "category": "基礎設施",
+      "reason": "報導科技巨頭在德州建設 AI 基礎設施的趨勢，屬於產業基礎建設的常規報導。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
