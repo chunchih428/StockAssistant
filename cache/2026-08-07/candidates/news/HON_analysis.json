@@ -1,0 +1,75 @@
+{
+  "ticker": "HON",
+  "company": "Honeywell",
+  "analysis_date": "2026-08-07",
+  "source_file": "cache/2026-08-07/candidates/news/HON.json",
+  "summary": {
+    "total_articles": 15,
+    "bullish_count": 2,
+    "bearish_count": 7,
+    "neutral_count": 6,
+    "overall_sentiment": "bearish",
+    "key_theme": "Honeywell Aerospace 獨立上市後首份財報表現欠佳，因供應鏈限制下調全年財測，導致股價重挫。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Honeywell Technologies Completes Sale of Productivity Solutions and Services Business to Brady Corporation",
+      "publisher": "Yahoo",
+      "date": "2026-08-03 20:19",
+      "impact": "medium",
+      "category": "資產處置",
+      "reason": "完成非核心業務出售，有助於公司精簡營運架構並專注於核心工業技術領域。"
+    },
+    {
+      "rank": 2,
+      "title": "Jim Cramer spots overlooked winner after aerospace split",
+      "publisher": "Yahoo",
+      "date": "2026-07-31 17:07",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "市場評論員看好公司拆分後的長期價值潛力，認為拆分有助於釋放各業務單元的成長動能。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Honeywell Aerospace Stock Plunges. Its First Standalone Quarter Was a Mess.",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 12:13",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "Honeywell Aerospace 作為獨立公司發布首份財報，因供應鏈瓶頸導致銷售疲軟並下調 2026 年全年財測，與同業成長趨勢背道而馳，引發股價重挫。"
+    },
+    {
+      "rank": 2,
+      "title": "Honeywell Aerospace Cuts Full-Year Growth Guidance as Supply Constraints Dampen Second-Quarter Sales",
+      "publisher": "The Wall Street Journal",
+      "date": "2026-08-05 20:22",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "明確指出供應鏈限制是導致第二季銷售不如預期及下調全年財測的主因，對投資人信心造成直接打擊。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Honeywell Technologies Announces Participation at Upcoming Investor Conference",
+      "publisher": "Yahoo",
+      "date": "2026-07-31 16:00",
+      "impact": "low",
+      "category": "投資人關係",
+      "reason": "僅為例行性參加投資人會議公告，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Data Center Access Control Market Size, Share & Trends Analysis Report",
+      "publisher": "Yahoo",
+      "date": "2026-07-31 08:11",
+      "impact": "low",
+      "category": "市場研究",
+      "reason": "行業研究報告提及 Honeywell 在資料中心存取控制領域的佈局，屬於產業趨勢分析，對短期股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

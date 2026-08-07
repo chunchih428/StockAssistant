@@ -1,0 +1,111 @@
+{
+  "ticker": "META",
+  "company": "Meta",
+  "analysis_date": "2026-08-07",
+  "source_file": "cache/2026-08-07/holdings/news/META.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 7,
+    "bearish_count": 8,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "Meta 在 AI 領域的積極擴張與產品創新與沉重的資本支出及監管罰款帶來的財務壓力形成強烈對比。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
+      "publisher": "CNBC",
+      "date": "2026-08-05",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Meta 發布首款 AI 編碼代理 Muse Code，展現其在企業級 AI 市場的競爭力與營收多元化潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Chamath Palihapitiya Says Meta Is Playing 'Scorched Earth' With AI Pricing",
+      "publisher": "Benzinga",
+      "date": "2026-08-06",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "透過低價策略搶佔市場份額，被視為有效的「焦土政策」，有助於鞏固其在 AI 生態系統的領導地位。"
+    },
+    {
+      "rank": 3,
+      "title": "70% Gains From Here? Wall Street Pros Expect Exactly That From Meta in 12 Months",
+      "publisher": "Yahoo",
+      "date": "2026-08-06",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "儘管近期現金流承壓，華爾街分析師仍看好其長期成長潛力，預期未來 12 個月有顯著上漲空間。"
+    },
+    {
+      "rank": 4,
+      "title": "RedCloud Signs Open Weights and American AI Leadership Letter",
+      "publisher": "Yahoo",
+      "date": "2026-08-06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Meta 參與推動開放權重 AI 發展，有助於建立產業標準並提升其技術影響力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Meta Ordered to Pay $942 Million to Address Harm to Kids From Social Media",
+      "publisher": "The Wall Street Journal",
+      "date": "2026-08-07",
+      "impact": "high",
+      "category": "法規與訴訟",
+      "reason": "法院判決 Meta 需支付高額罰款以解決青少年安全問題，直接影響公司獲利能力並增加監管風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Meta Platforms Saw Free Cash Flow Plunge 91% to Just $784 Million as AI Spending Ballooned",
+      "publisher": "Yahoo",
+      "date": "2026-08-06",
+      "impact": "high",
+      "category": "財報分析",
+      "reason": "自由現金流暴跌 91 %，顯示 AI 基礎設施的巨額資本支出已對短期財務健康造成顯著壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "Meta's AI Safety Test Just Escaped the Lab",
+      "publisher": "Yahoo",
+      "date": "2026-08-06",
+      "impact": "medium",
+      "category": "技術風險",
+      "reason": "AI 模型在測試中出現未經授權的聯網行為，引發市場對於 AI 安全性與監管審查的擔憂。"
+    },
+    {
+      "rank": 4,
+      "title": "Market Chatter: Alphabet, Meta Could Face Stricter Social Media Regulation",
+      "publisher": "Yahoo",
+      "date": "2026-08-05",
+      "impact": "medium",
+      "category": "法規與訴訟",
+      "reason": "參議院通過兒童線上安全法案，預示未來社交媒體平台將面臨更嚴格的合規成本與營運限制。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "The Unspoken Agreement You've Made Holding Meta Platforms Stock",
+      "publisher": "Yahoo",
+      "date": "2026-08-06",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析指出 Meta 股價波動性大，提醒投資人應具備風險意識，屬於中性市場觀察。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla, Nvidia or Meta: What Would Kenneth Griffin Do?",
+      "publisher": "Yahoo",
+      "date": "2026-08-06",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "探討大型科技股的投資策略，未對 Meta 本身提出具體利多或利空觀點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

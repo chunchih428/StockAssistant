@@ -1,0 +1,93 @@
+{
+  "ticker": "FSLR",
+  "company": "First Solar",
+  "analysis_date": "2026-08-07",
+  "source_file": "cache/2026-08-07/candidates/news/FSLR.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 5,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司憑藉強勁的第 2 季財報表現與毛利率擴張，加上市場對美國政府潛在的太陽能保護政策（Section 232）抱持高度期待，帶動股價強勢反彈。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "First Solar Applauds Comprehensive Section 232 Action on Polysilicon and Derivatives",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 22:11",
+      "impact": "high",
+      "category": "政策利多",
+      "reason": "公司公開支持 Section 232 行動，此舉將強化美國本土製造的競爭優勢，並對抗低價進口產品，是長期利多。"
+    },
+    {
+      "rank": 2,
+      "title": "Citigroup Maintains Buy on First Solar, Raises Price Target to $297",
+      "publisher": "Benzinga",
+      "date": "2026-08-03 15:30",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "花旗銀行分析師 Vikram Bagri 上調目標價，反映市場對公司獲利能力與市占率擴張的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Guggenheim Maintains Buy on First Solar, Raises Price Target to $282",
+      "publisher": "Benzinga",
+      "date": "2026-08-03 10:24",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Guggenheim 分析師 Joseph Osha 同步上調目標價，確認了市場對其財報後續動能的正面看法。"
+    },
+    {
+      "rank": 4,
+      "title": "First Solar Inc (FSLR) (Q2 2026) Earnings Call Highlights: Record Sales and 100 GW Milestone",
+      "publisher": "Yahoo",
+      "date": "2026-07-31 05:03",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "第 2 季毛利率擴張至 57%，並達成 100 GW 里程碑，顯示公司在技術與成本控制上的卓越表現。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bernstein Maintains Underperform on First Solar, Lowers Price Target to $197",
+      "publisher": "Benzinga",
+      "date": "2026-07-31 05:25",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Bernstein 分析師 Sunaina Ocalan 維持劣於大盤評級並下調目標價，擔憂營收成長放緩與市場競爭壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "First Solar: Cheap For Good Reasons - Swing Trade & Data Center Opportunities",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-04 09:56",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "文章指出 Section 232 決策延遲導致訂單趨勢放緩，對長期成長動能提出質疑。"
+    },
+    {
+      "rank": 3,
+      "title": "Truist Securities Reiterates Hold on First Solar, Lowers Price Target to $229",
+      "publisher": "Benzinga",
+      "date": "2026-07-31 09:13",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "分析師 Christopher Souther 下調目標價，反映對短期股價估值過高的保守態度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "First Solar Stock Edges Higher After Q2 Profit Surge: What Investors Need to Know",
+      "publisher": "Benzinga",
+      "date": "2026-07-31 10:29",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導總結了財報的混合結果，市場反應平淡，屬於消化財報資訊的整理階段。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

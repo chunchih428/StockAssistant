@@ -1,0 +1,102 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-08-07",
+  "source_file": "cache/2026-08-07/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 1,
+    "bearish_count": 13,
+    "neutral_count": 6,
+    "overall_sentiment": "bearish",
+    "key_theme": "Apple 面臨與 OpenAI 的法律訴訟壓力、記憶體成本上升以及硬體產品需求放緩等多重負面因素夾擊。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple, Alphabet, JB Hunt And Howmet Aerospace: CNBC’s ‘Final Trades’",
+      "publisher": "Benzinga",
+      "date": "2026-08-05 07:44",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場分析師在 CNBC 節目中建議長期持有 Apple 股票，顯示部分機構投資人仍對其長期價值持正面看法。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "OpenAI Asks Judge to Toss Apple Suit Alleging Trade Secret Theft",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 06:07",
+      "impact": "high",
+      "category": "法律訴訟",
+      "reason": "OpenAI 申請駁回 Apple 的商業機密竊取訴訟，並指控 Apple 自身的安全實踐存在漏洞，這對 Apple 的法律策略構成重大挑戰。"
+    },
+    {
+      "rank": 2,
+      "title": "A Chinese Investment Firm Just Downgraded Apple. Here's What It Means for AAPL Stock.",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 16:50",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "中國投資機構因服務業務成長放緩及高昂的記憶體成本下調 Apple 評級，反映市場對其獲利能力的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "'Apple is scrambling to get enough memory chips': RAM crisis is causing panic",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 13:32",
+      "impact": "medium",
+      "category": "供應鏈",
+      "reason": "記憶體晶片供應緊張與價格上漲，直接威脅到 iPhone 與 Mac 的生產成本與利潤空間。"
+    },
+    {
+      "rank": 4,
+      "title": "Without a new budget iPad, Apple tablet demand slows",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 14:45",
+      "impact": "medium",
+      "category": "產品銷售",
+      "reason": "由於缺乏新款平價 iPad，導致 iPad 出貨量在第二季出現罕見下滑，顯示硬體需求疲軟。"
+    },
+    {
+      "rank": 5,
+      "title": "Apple's Search for Cheaper Memory Just Hit a Wall",
+      "publisher": "Yahoo",
+      "date": "2026-08-05 18:33",
+      "impact": "low",
+      "category": "供應鏈",
+      "reason": "Apple 試圖尋求更低成本記憶體供應的努力受阻，進一步加劇了成本控制的壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Apple App Store revenue ticks up despite falling downloads",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 19:43",
+      "impact": "low",
+      "category": "財報數據",
+      "reason": "App Store 營收微幅成長 0.6%，顯示服務業務在下載量下滑背景下仍具韌性，但成長動能有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple, Amazon, and Nike Get $166 Billion in Tariff Refunds – Consumers Get Nothing",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 18:46",
+      "impact": "low",
+      "category": "法規政策",
+      "reason": "關於關稅退款的報導，雖涉及鉅額資金，但屬於過去法規執行結果，對股價短期影響中性。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple launches fresh legal challenge against UK encrypted data access demand",
+      "publisher": "CNBC",
+      "date": "2026-08-04 06:15",
+      "impact": "low",
+      "category": "法律訴訟",
+      "reason": "Apple 與英國政府關於加密數據的法律拉鋸戰持續，屬於長期監管風險，短期內未有重大突破。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

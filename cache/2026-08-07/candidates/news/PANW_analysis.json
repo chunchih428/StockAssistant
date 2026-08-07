@@ -1,0 +1,102 @@
+{
+  "ticker": "PANW",
+  "company": "Palo Alto Networks",
+  "analysis_date": "2026-08-07",
+  "source_file": "cache/2026-08-07/candidates/news/PANW.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 13,
+    "bearish_count": 3,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 資安需求強勁與分析師調升目標價，儘管面臨中國監管審查的潛在風險，市場整體情緒仍維持正面。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Oppenheimer Reiterates Outperform on Palo Alto Networks, Raises Price Target to $400",
+      "publisher": "Benzinga",
+      "date": "2026-08-04 13:13",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Ittai Kidron 給予優於大盤評級並調升目標價至 400 美元，反映對公司 AI 資安成長動能的強烈信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Barclays Maintains Overweight on Palo Alto Networks, Raises Price Target to $370",
+      "publisher": "Benzinga",
+      "date": "2026-08-05 09:05",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師 Saket Kalia 維持加碼評級並調升目標價，顯示華爾街對其獲利預估持續上調。"
+    },
+    {
+      "rank": 3,
+      "title": "FireMon Integrates with Palo Alto Networks to Help Enterprises Strengthen Security Policy Governance Across Hybrid Environments",
+      "publisher": "Yahoo",
+      "date": "2026-08-04 13:00",
+      "impact": "medium",
+      "category": "產品合作",
+      "reason": "與 FireMon 的整合強化了混合雲環境下的資安治理能力，有助於擴大產品生態系並提升客戶黏著度。"
+    },
+    {
+      "rank": 4,
+      "title": "Cyber Stocks Jump as CrowdStrike, Palo Alto Networks Ride AI Agent Hack Fears",
+      "publisher": "Benzinga",
+      "date": "2026-08-02 11:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "AI 時代駭客威脅增加，推升市場對 Palo Alto Networks 等資安解決方案的剛性需求。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "China launches cybersecurity review into Palo Alto Networks products",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 11:09",
+      "impact": "high",
+      "category": "法規風險",
+      "reason": "中國啟動對其產品的資安審查，此舉可能影響公司在中國市場的營收，並引發地緣政治不確定性。"
+    },
+    {
+      "rank": 2,
+      "title": "Palo Alto Networks Surges 89% in 3 Months: Hold or Fold the Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-08-04 14:34",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "股價短期漲幅過大，市場開始擔憂整合成本上升及估值過高問題，建議投資人審慎評估。"
+    },
+    {
+      "rank": 3,
+      "title": "3 Reasons to Avoid PANW and 1 Stock to Buy Instead",
+      "publisher": "Yahoo",
+      "date": "2026-08-01 14:03",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "部分分析師認為股價已反映過多利多，建議獲利了結或轉向其他標的。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Palo Alto Networks to Announce Fiscal Fourth Quarter and Fiscal Year 2026 Financial Results on Tuesday, September 1, 2026",
+      "publisher": "Yahoo",
+      "date": "2026-08-03 12:30",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "預告財報發布日期，屬於例行性公司公告，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Palo Alto Networks (PANW) Dips More Than Broader Market: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-08-05 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "單日股價小幅回調 1%，屬於市場正常波動範圍，無特殊利空消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
