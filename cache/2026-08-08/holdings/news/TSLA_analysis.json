@@ -1,0 +1,102 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla",
+  "analysis_date": "2026-08-07",
+  "source_file": "cache/2026-08-07/holdings/news/TSLA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "Tesla 與 SpaceX 宣布共同投資 168 億美元建設 Terafab 晶片工廠，並持續深化 AI 基礎設施與機器人業務的協同效應。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Tesla and SpaceX to invest $16.8B in Terafab chip factory in Texas",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 17:18",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "Tesla 與 SpaceX 宣布共同投資 168 億美元建設 Terafab 晶片工廠，預計將大幅提升 AI 運算能力，並為 Tesla 的 Optimus 機器人提供關鍵硬體支援。"
+    },
+    {
+      "rank": 2,
+      "title": "SpaceX ramps up Tesla Megapack purchases in Q2 to power its AI data centers",
+      "publisher": "CNBC",
+      "date": "2026-08-05 17:30",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "SpaceX 在第二季購買了 2.95 億美元的 Tesla Megapack 儲能系統，顯示 Tesla 的能源業務正透過集團內部的 AI 需求實現強勁增長。"
+    },
+    {
+      "rank": 3,
+      "title": "Tesla (TSLA) Targets 1 Million Optimus Robots A Year",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 04:32",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Elon Musk 設定每年生產 100 萬台 Optimus 人形機器人的目標，展現公司在 AI 與自動化領域的長期願景與市場野心。"
+    },
+    {
+      "rank": 4,
+      "title": "Prediction: Tesla's Share Price Dip Will Prove an Excellent Buying Opportunity",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 22:20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析師認為近期股價回調提供了良好的買入機會，市場過度關注短期 Robotaxi 部署細節，忽略了公司在 AI 基礎設施上的長期布局。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Tesla Stock Plunged 26% in July",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 15:35",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "回顧 7 月份股價下跌 26% 的表現，反映出投資人對公司高估值與資本支出壓力的高度敏感。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla Takes Its Self-Driving Patent Fight To The Supreme Court",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 16:12",
+      "impact": "low",
+      "category": "法規",
+      "reason": "Tesla 將自動駕駛專利訴訟上訴至最高法院，法律不確定性可能對公司技術護城河造成潛在風險。"
+    },
+    {
+      "rank": 3,
+      "title": "Tesla or SpaceX: Which Musk-Led Company is a Better Investment Now?",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 15:38",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章指出兩家公司皆面臨高估值與沉重的資本支出壓力，投資人需在成長性與財務風險之間進行權衡。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Chinese Robot Maker To IPO At $9 Billion Valuation. How It Compares To Tesla's Optimus.",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 20:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "中國機器人製造商 Unitree 即將進行 IPO，市場將其與 Tesla 的 Optimus 進行比較，屬於產業競爭格局的觀察。"
+    },
+    {
+      "rank": 2,
+      "title": "Next AI Battleground: U.S., China Scramble To Lead In Humanoid Robots",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 15:52",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討美中在人形機器人領域的競爭，屬於宏觀產業趨勢分析，對 Tesla 股價無直接短期影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

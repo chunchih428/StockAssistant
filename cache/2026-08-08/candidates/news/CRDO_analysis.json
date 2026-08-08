@@ -1,0 +1,37 @@
+{
+  "ticker": "CRDO",
+  "company": "Credo Technology Group Holding Ltd",
+  "analysis_date": "2026-08-07",
+  "source_file": "cache/2026-08-07/candidates/news/CRDO.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 0,
+    "bearish_count": 2,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場對於 Credo 在 AI 互連領域的估值溢價產生疑慮，導致股價自高點顯著回調。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Credo Stock: What The Market Is Missing",
+      "publisher": "SeekingAlpha",
+      "date": "2026-07-31 16:53",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "該文章指出 CRDO 股價已從近期高點下跌超過 30 %，反映出市場對其過高的估值修正，以及投資人對其未來成長動能的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Credo Technology Group Holding (CRDO) Showcased AI Interconnects, Is The Stock Fully Priced?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-05T15:16:46Z",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "儘管公司展示了 AI 互連技術，但市場質疑該技術優勢是否已完全反映在當前股價中，暗示短期內股價可能面臨估值壓力。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

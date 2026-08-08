@@ -1,0 +1,83 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy",
+  "analysis_date": "2026-08-07",
+  "source_file": "cache/2026-08-07/holdings/news/CEG.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 0,
+    "neutral_count": 6,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "公司第 2 季財報表現亮眼，EPS 超出預期並上調全年財測，受惠於強勁的電力需求與核能資產組合優勢。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Constellation Energy Rides Soaring Power Demand To Higher 2026 Outlook",
+      "publisher": "Benzinga",
+      "date": "2026-08-06 08:55",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第 2 季財報表現優異，EPS 達 2.55 美元，並將全年調整後 EPS 指引上調至 11.50 至 12.50 美元區間，反映出市場對核能電力需求的強勁成長。"
+    },
+    {
+      "rank": 2,
+      "title": "Nuclear Utility Constellation Leads Nasdaq 100 After Earnings",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 13:27",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "財報利多帶動股價單日大漲約 7 %，顯示市場對其核能資產組合與長期合約策略的高度認可。"
+    },
+    {
+      "rank": 3,
+      "title": "Constellation Energy: Cheaper But Same Nuclear Tailwinds",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-04 07:14",
+      "impact": "medium",
+      "category": "投資分析",
+      "reason": "分析指出儘管估值壓縮，但核能產業的長期順風與穩定的獲利前景使該股仍具備投資價值。"
+    },
+    {
+      "rank": 4,
+      "title": "Constellation Energy (CEG) Beat Earnings And Lifted Guidance, Is It Still 26% Undervalued?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-07 02:16",
+      "impact": "medium",
+      "category": "投資分析",
+      "reason": "財報後市場評估顯示該股仍存在顯著折價空間，進一步強化了投資人的信心。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Constellation Announces Board Chairman Transition and New Board Appointment",
+      "publisher": "Yahoo",
+      "date": "2026-08-05 18:10",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "公司宣布董事會主席更迭與新董事任命，屬於正常的公司治理調整，對股價影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Constellation Energy Corporation Declares Dividend",
+      "publisher": "Yahoo",
+      "date": "2026-08-04 18:23",
+      "impact": "low",
+      "category": "股利政策",
+      "reason": "公司宣布季度股利發放，屬於例行性財務活動，符合市場預期。"
+    },
+    {
+      "rank": 3,
+      "title": "Constellation Energy Says New Nuclear Power Purchase Agreements Have Later Start Dates",
+      "publisher": "Benzinga",
+      "date": "2026-08-06 10:38",
+      "impact": "low",
+      "category": "營運展望",
+      "reason": "公司澄清新簽署的核能購電協議預計啟動時間較晚，不會對 2029 年前的獲利造成影響，屬於營運細節說明。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

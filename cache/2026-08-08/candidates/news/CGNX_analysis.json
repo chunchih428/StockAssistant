@@ -1,0 +1,66 @@
+{
+  "ticker": "CGNX",
+  "company": "Cognex",
+  "analysis_date": "2026-08-07",
+  "source_file": "cache/2026-08-07/candidates/news/CGNX.json",
+  "summary": {
+    "total_articles": 18,
+    "bullish_count": 12,
+    "bearish_count": 4,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "Cognex 2026 年第 2 季財報表現優於預期，儘管營收微幅未達標，但憑藉強勁的利潤率擴張與優異的財測指引，市場情緒轉向正面。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cognex Sees FY2026 Adj EPS $1.64-$1.68 vs $1.49 Est; Sees Sales $1.130B-$1.150B vs $1.111B Est",
+      "publisher": "Benzinga",
+      "date": "2026-08-05 16:51",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司上調全年財測，調整後每股盈餘預期為 1.64 至 1.68 美元，顯著高於市場預期的 1.49 美元，顯示管理層對未來營運展望極具信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Cognex Corp (CGNX) (Q2 2026) Earnings Call Highlights: Record Revenue and Margin Expansion Fuel ...",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 23:18",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "財報電話會議強調在半導體、電子與封裝市場的強勁成長，並提到新的資料中心機會，為長期成長提供明確動能。"
+    },
+    {
+      "rank": 3,
+      "title": "Cognex Q2 Earnings Beat on Margin Gains Despite Revenue Miss",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 15:36",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "雖然營收微幅未達標，但透過成本控制與有利的產品組合，成功實現利潤率擴張，顯示公司具備良好的營運效率。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cognex (NASDAQ:CGNX) Misses Q2 CY2026 Revenue Estimates",
+      "publisher": "Yahoo",
+      "date": "2026-08-05 20:55",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "第 2 季營收未能達到市場預期，反映出部分終端市場需求仍存在波動，但因盈餘表現強勁，此利空影響相對有限。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Cognex (CGNX) Q2 Earnings Report Preview: What To Look For",
+      "publisher": "Yahoo",
+      "date": "2026-08-04 20:13",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "財報發布前的市場前瞻分析，整理了投資人關注的焦點，屬於事件發生前的中性資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

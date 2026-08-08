@@ -1,0 +1,66 @@
+{
+  "ticker": "BE",
+  "company": "Bloom Energy Corporation",
+  "analysis_date": "2026-08-07",
+  "source_file": "cache/2026-08-07/holdings/news/BE.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "Bloom Energy 股價在強勁的第 2 季財報表現與做空機構 Hunterbrook 針對燃料電池效率的指控之間呈現多空拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "3 Huge Winners of the Q2 Earnings Season: BE, MSFT, EME",
+      "publisher": "Zacks",
+      "date": "2026-08-04",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "Bloom Energy 被評選為第 2 季財報季的重大贏家，顯示其財務表現優於市場預期，為股價提供強勁的基本面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Morgan Stanley says Bloom can withstand an Oracle project delay",
+      "publisher": "Yahoo",
+      "date": "2026-07-31",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "摩根士丹利分析師指出 Bloom Energy 具備足夠的韌性來應對 Oracle 專案延遲的風險，緩解了市場對單一客戶依賴的擔憂。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "BE Stock Surges Overnight Despite New Hunterbrook Report Challenging Fuel Cell Performance",
+      "publisher": "Yahoo",
+      "date": "2026-07-31",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Hunterbrook Capital 發布報告指控 Bloom 的燃料電池效率未達標，此類做空報告通常會引發市場對公司技術真實性的質疑與股價波動。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Bloom Energy (BE) Undervalued Following The Lawsuit And Short Seller Report?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-06",
+      "impact": "medium",
+      "category": "法律訴訟",
+      "reason": "公司面臨法律訴訟與做空報告的雙重壓力，儘管市場討論其是否被低估，但法律風險仍是潛在的負面因子。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Are Oils-Energy Stocks Lagging Alvopetro Energy (ALVOF) This Year?",
+      "publisher": "Yahoo",
+      "date": "2026-07-31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此報導主要進行產業內的績效比較，並未提供關於 Bloom Energy 本身營運的重大新資訊，對股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,66 @@
+{
+  "ticker": "NTNX",
+  "company": "Nutanix, Inc.",
+  "analysis_date": "2026-08-07",
+  "source_file": "cache/2026-08-07/candidates/news/NTNX.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對 Nutanix 裁員計畫與即將公布的 2026 財年第四季財報表現持審慎樂觀態度，多空因素交織。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Is Nutanix (NTNX) a Buy as Wall Street Analysts Look Optimistic?",
+      "publisher": "Yahoo",
+      "date": "2026-08-04",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "華爾街分析師平均建議 (ABR) 顯示 Nutanix 具備投資價值，反映市場對其長期成長潛力的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Trending Stock Nutanix (NTNX) a Buy Now?",
+      "publisher": "Zacks",
+      "date": "2026-07-29",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "作為熱門交易標的，該報導進一步強化了投資人對 Nutanix 的關注度，屬於正面市場情緒指標。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "NTNX Stock Layoffs: What to Know About the Latest Nutanix Job Cuts",
+      "publisher": "Yahoo",
+      "date": "2026-08-04",
+      "impact": "medium",
+      "category": "公司營運",
+      "reason": "公司宣布裁員約 5 % 的人力，雖然通常旨在優化成本結構，但在短期內引發市場對營運穩定性與成長動能的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Nutanix (NTNX) Sees a More Significant Dip Than Broader Market",
+      "publisher": "Yahoo",
+      "date": "2026-08-06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價表現弱於大盤，顯示短期賣壓存在，反映投資人對即將公布的財報前夕採取避險操作。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Nutanix Announces Date and Conference Call Information for Fiscal Fourth Quarter and Fiscal Year 2026 Financial Results",
+      "publisher": "Yahoo",
+      "date": "2026-08-06",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "僅為例行性的財報發布日期公告，本身不具備多空方向性，但為市場關注的關鍵時間點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

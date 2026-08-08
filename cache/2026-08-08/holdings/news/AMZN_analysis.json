@@ -1,0 +1,102 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-08-07",
+  "source_file": "cache/2026-08-07/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 4,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Amazon 展現強勁的雲端與 AI 成長動能，儘管資本支出大幅增加至 2200 億美元引發市場對成本的擔憂，但核心業務的擴張與創新（如藥局服務與 Zoox）仍支撐市場信心。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Amazon’s Premium vs. Microsoft’s Backlog: Who Wins the Next Trillion?",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 18:18",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Amazon 市值突破 3 兆美元大關，反映市場對其雲端與零售業務的高度認可，且股價表現強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon Is Bringing the Weight-Loss Drug Race to Medicare",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 17:04",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Amazon Pharmacy 宣布以每月 50 美元價格提供減肥藥物給 Medicare 患者，顯示其在醫療保健領域的積極擴張。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon's Stake in Anthropic Could Be Worth Over $200 Billion",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 15:27",
+      "impact": "medium",
+      "category": "投資布局",
+      "reason": "Amazon 持有的 Anthropic 股份價值潛力巨大，若 IPO 估值實現，將為 Amazon 帶來顯著的資本利得與 AI 戰略優勢。"
+    },
+    {
+      "rank": 4,
+      "title": "Amazon's Zoox to launch paid robotaxi service in Las Vegas on Aug. 10",
+      "publisher": "CNBC",
+      "date": "2026-08-05 11:00",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "Zoox 啟動付費機器人計程車服務，標誌著 Amazon 在自動駕駛商業化進程中的重要里程碑。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Is Amazon’s Massive Capex Expansion a Drag, or Did They Just Win the Cloud Infrastructure War?",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 14:18",
+      "impact": "high",
+      "category": "財報分析",
+      "reason": "資本支出目標調升至 2200 億美元，引發投資人對獲利能力與現金流壓力的擔憂，儘管這是為了應對 AI 需求。"
+    },
+    {
+      "rank": 2,
+      "title": "Cathie Wood invests a combined $28.7 million in TSMC, SpaceX after trimming investments in Amazon",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 11:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "知名投資人 Cathie Wood 減持 Amazon 部位，可能對短期市場情緒造成微幅負面影響。"
+    },
+    {
+      "rank": 3,
+      "title": "MONDAY: O'BRIEN, ZUCKERMAN, AMAZON TEAMSTERS RALLY FOR DELIVERY PROTECTION ACT",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 17:26",
+      "impact": "low",
+      "category": "勞資關係",
+      "reason": "工會集會抗議可能增加營運成本與監管風險，對公司形象與勞動力穩定性構成潛在壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Bezos Plans to Sell $4B Amazon Stock: Why Investors Should Sit Tight",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 15:37",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "Bezos 出售 40 億美元股票，但經確認為預先規劃的交易，對公司基本面無直接影響，市場反應趨於平穩。"
+    },
+    {
+      "rank": 2,
+      "title": "Comparing Amazon.com With Industry Competitors In Broadline Retail Industry",
+      "publisher": "Benzinga",
+      "date": "2026-08-06 05:59",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "產業競爭力分析，提供投資人參考資訊，無特定利多或利空消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
