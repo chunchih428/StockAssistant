@@ -1,0 +1,102 @@
+{
+  "ticker": "MU",
+  "company": "Micron Technology",
+  "analysis_date": "2026-08-07",
+  "source_file": "cache/2026-08-07/holdings/news/MU.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 6,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管近期股價因記憶體市場波動出現修正，但 AI 驅動的長期需求強勁，且華爾街分析師普遍視回調為買入良機。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Micron pullback seen as buying opportunity amid solid end-demand, says BofA",
+      "publisher": "Yahoo",
+      "date": "2026-08-04 20:03",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "美銀重申買入評級並給予 1,550 美元目標價，強調終端需求穩健，將股價回調視為長期佈局機會。"
+    },
+    {
+      "rank": 2,
+      "title": "MU, SNDK, SKHY Stocks In Focus: Elon Musk Says Memory Demand Is Growing ‘200% A Year, Maybe Higher,’",
+      "publisher": "Yahoo",
+      "date": "2026-08-05 07:02",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Elon Musk 指出記憶體需求每年成長 200 % 以上，且供應不足將支撐價格持續上漲，對 Micron 營收前景極為有利。"
+    },
+    {
+      "rank": 3,
+      "title": "Micron (MU) Teams Up With Liqid And Microchip On AI Memory And Storage",
+      "publisher": "Yahoo",
+      "date": "2026-08-05 08:12",
+      "impact": "medium",
+      "category": "產品合作",
+      "reason": "與 Liqid 及 Microchip 合作開發 AI 記憶體平台，展現公司在高效能運算領域的技術整合能力。"
+    },
+    {
+      "rank": 4,
+      "title": "Buy 5 Top-Ranked Growth Stocks for August to Tap Market Rally",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 17:42",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "被列入 8 月份成長型股票首選名單，反映市場對其 AI 相關業務的成長潛力保持信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Micron Technology Stock Is Falling Thursday: What's Going On?",
+      "publisher": "Benzinga",
+      "date": "2026-08-06 06:54",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受記憶體晶片板塊整體拋售影響，股價單日下跌 4 %，反映短期技術面壓力與市場情緒波動。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Micron Technology (MU) A Bargain Following New Memory Capacity Risks?",
+      "publisher": "Yahoo",
+      "date": "2026-08-04 07:10",
+      "impact": "medium",
+      "category": "產業風險",
+      "reason": "市場擔憂記憶體產能過度擴張可能導致供需失衡，對未來利潤率構成潛在風險。"
+    },
+    {
+      "rank": 3,
+      "title": "BofA downplays China’s threat to Micron’s AI business",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 16:17",
+      "impact": "low",
+      "category": "競爭風險",
+      "reason": "儘管分析師淡化中國競爭對手的威脅，但中國晶片廠的崛起仍被視為長期潛在的市場份額競爭壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "MU, WDC, SKHY, AMD — VanEck’s Nicholas Frasse Downplays Volatility In Semiconductor Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 12:59",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "專家認為半導體板塊的波動屬於正常市場調整，並非基本面惡化，對股價影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Comparative Study: Micron Technology And Industry Competitors",
+      "publisher": "Benzinga",
+      "date": "2026-08-05 05:58",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "僅為產業競爭力比較分析，未提供具體買賣建議或重大財務變動資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

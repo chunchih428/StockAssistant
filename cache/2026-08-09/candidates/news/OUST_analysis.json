@@ -1,0 +1,111 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-08-07",
+  "source_file": "cache/2026-08-07/candidates/news/OUST.json",
+  "summary": {
+    "total_articles": 12,
+    "bullish_count": 2,
+    "bearish_count": 4,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管 Ouster 第 2 季營收表現亮眼且受惠於物理 AI 趨勢，但因 EPS 未達預期及第 3 季財測疲軟，導致股價在財報後出現回調。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ouster, Inc. (OUST) Reports Q2 Loss, Beats Revenue Estimates",
+      "publisher": "Zacks",
+      "date": "2026-08-06",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "公司第 2 季營收達 5,460 萬美元，優於市場預期，顯示其在物理 AI 領域的市場需求強勁，營收年增率達 56 %。"
+    },
+    {
+      "rank": 2,
+      "title": "Serve Robotics Surges 13%, Ouster Climbs 6%, Symbotic Gains 4% as Robotics Stocks Rally",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-08-03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受惠於整體機器人板塊的資金輪動與市場情緒樂觀，帶動 Ouster 股價在財報前出現 6 % 的漲幅。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ouster (NASDAQ:OUST) Drops on Soft Q3 Guidance Despite Q2 Beat",
+      "publisher": "ChartMill",
+      "date": "2026-08-06",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "雖然營收優於預期，但第 3 季財測區間 5,450 萬至 5,750 萬美元低於市場共識的 5,748 萬美元，引發投資人擔憂成長放緩，導致盤後股價下跌 7 %。"
+    },
+    {
+      "rank": 2,
+      "title": "Ouster Q2 EPS $(0.27) Misses $(0.20) Estimate",
+      "publisher": "Benzinga",
+      "date": "2026-08-06",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "第 2 季每股虧損 0.27 美元，遜於市場預期的 0.20 美元，顯示公司在獲利能力與成本控制上仍面臨挑戰。"
+    },
+    {
+      "rank": 3,
+      "title": "Ouster's COO Sold 30,000 Shares for $1.4 Million",
+      "publisher": "Motley Fool",
+      "date": "2026-08-06",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "營運長 (COO) 出售 3 萬股股票，套現 140 萬美元，內部人賣股行為常被市場解讀為對短期股價信心不足的訊號。"
+    },
+    {
+      "rank": 4,
+      "title": "Ouster, Inc. (OUST) Stock Drops Despite Market Gains",
+      "publisher": "Zacks",
+      "date": "2026-07-28",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "在財報前夕股價表現疲軟，顯示市場對於其獲利能力與現金流狀況存在觀望情緒。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ouster: Q2 Won't Move The Needle On Margins",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-04",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "分析師認為公司成長主要由物理 AI 需求驅動，而非利潤率擴張，維持「持有」評級，認為短期內財報對估值影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Ouster (OUST) Names A Chief People Officer",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-06",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "公司任命新的首席人力資源官，屬於常規組織調整，對股價無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Ouster (OUST) Stock May Trade At A Discount On Cash Flow But A Premium On Sales",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-06",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "針對現金流與營收估值的多空分析，指出市場對其評價存在分歧，未提供明確的方向性指引。"
+    },
+    {
+      "rank": 4,
+      "title": "Ouster: Important Considerations Ahead Of The Q2 Earnings Event",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-03",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "財報前瞻分析，重點關注 StereoLabs 整合與 REV8 感測器影響，屬於財報前的預期整理。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

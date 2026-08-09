@@ -1,0 +1,120 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-08-07",
+  "source_file": "cache/2026-08-07/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 13,
+    "bearish_count": 4,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "Broadcom 受惠於 AI 基礎設施資本支出強勁，儘管面臨地緣政治與競爭對手挑戰，市場仍普遍看好其在客製化晶片領域的長期成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Alphabet CEO Sundar Pichai Just Made a $200 Billion Infrastructure Move. Nvidia, Micron, and Broadcom Investors Should Rejoice.",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 03:20",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Alphabet 宣布高達 2,000 億美元的基礎設施投資計畫，將直接帶動 Broadcom 在 AI 晶片與網路設備的需求，被視為重大營收催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "I’m Buying Broadcom Because It Sucks Up The Hyperscaler AI Capex That Doesn’t Go To Nvidia",
+      "publisher": "Yahoo",
+      "date": "2026-08-05 04:19",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "分析指出 Broadcom 成功捕捉了大型雲端服務商（Hyperscalers）在 Nvidia 之外的 AI 資本支出，確立了其在客製化 AI 晶片市場的關鍵地位。"
+    },
+    {
+      "rank": 3,
+      "title": "Broadcom Is Down 20% From Its All-Time High. Here's Why It's a Screaming Bargain.",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 09:58",
+      "impact": "medium",
+      "category": "投資建議",
+      "reason": "股價自歷史高點回調 20%，市場分析認為其基本面強勁，當前估值具備吸引力，提供長期投資價值。"
+    },
+    {
+      "rank": 4,
+      "title": "Broadcom Enables Enterprises to Strengthen Multi-Layer Cyber Defense and Operational Efficiency with New vDefend and Avi Load Balancer Capabilities",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 13:00",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Broadcom 透過更新 VMware Cloud Foundation 的 vDefend 與 Avi Load Balancer 功能，強化企業級資安與營運效率，有助於提升軟體部門的競爭力。"
+    },
+    {
+      "rank": 5,
+      "title": "Could Broadcom (AVGO) Be 40% Undervalued As It Heads To Memory And Storage Conference?",
+      "publisher": "Yahoo",
+      "date": "2026-08-04 14:12",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場預期 Broadcom 在即將到來的記憶體與儲存會議中將展現技術優勢，分析師認為其股價被低估約 40%。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Broadcom, Marvell And Nvidia Could Feel the Impact of US Ban on Chinese AI Components",
+      "publisher": "Benzinga",
+      "date": "2026-08-05 13:14",
+      "impact": "high",
+      "category": "法規",
+      "reason": "BNP Paribas 警告美國擬禁止中國 AI 組件，可能擾亂 Broadcom 的供應鏈並影響其在中國市場的營收表現。"
+    },
+    {
+      "rank": 2,
+      "title": "Anthropic Gets Ready to Build its Own Chips",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 15:14",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "Anthropic 招募前 OpenAI 晶片工程師並建立自有晶片團隊，顯示客戶端轉向自研晶片的趨勢，可能長期威脅 Broadcom 的客製化晶片業務。"
+    },
+    {
+      "rank": 3,
+      "title": "MediaTek Wants 20% of Custom AI Chips. Alphabet (GOOGL) Could Win Before Broadcom (AVGO) Loses",
+      "publisher": "Yahoo",
+      "date": "2026-08-04 18:24",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "聯發科提高客製化 AI 晶片市占目標，顯示該領域競爭加劇，可能稀釋 Broadcom 未來的市場份額。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Microsoft vs. Broadcom: Two AI Powerhouses, One Better Investment",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 17:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章比較 Microsoft 與 Broadcom 的 AI 策略差異，屬於投資組合配置分析，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Understanding Broadcom's Position In Semiconductors & Semiconductor Equipment Industry Compared To Competitors",
+      "publisher": "Benzinga",
+      "date": "2026-08-06 05:58",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "產業競爭力分析報告，提供投資人背景資訊，未包含具體利多或利空消息。"
+    },
+    {
+      "rank": 3,
+      "title": "What Is Going on With Broadcom Stock on Tuesday?",
+      "publisher": "Benzinga",
+      "date": "2026-08-04 13:39",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "解釋股價隨大盤與 Palantir 財報帶動的補漲行情，屬於事後市場情緒總結。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
