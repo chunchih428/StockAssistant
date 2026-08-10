@@ -1,0 +1,83 @@
+{
+  "ticker": "NET",
+  "company": "Cloudflare",
+  "analysis_date": "2026-08-07",
+  "source_file": "cache/2026-08-07/holdings/news/NET.json",
+  "summary": {
+    "total_articles": 13,
+    "bullish_count": 10,
+    "bearish_count": 0,
+    "neutral_count": 3,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Cloudflare 憑藉強勁的 AI 需求驅動，第二季財報營收與獲利雙雙優於預期，並上調全年財測，帶動股價顯著上漲。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare (NYSE:NET) Jumps 16% on Q2 Beat and Strong Full-Year Guidance",
+      "publisher": "ChartMill",
+      "date": "2026-08-06 21:57",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司公布第二季營收成長 36 %，每股盈餘達 0.29 美元，且上調全年財測，市場反應熱烈，股價盤後大漲 16 %。"
+    },
+    {
+      "rank": 2,
+      "title": "Cloudflare raises annual outlook above market estimates on AI-driven demand",
+      "publisher": "Reuters",
+      "date": "2026-08-06T22:27:44Z",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "明確指出 AI 需求是推動成長的核心動力，且上調後的財測優於市場共識，強化了投資人對其長期成長潛力的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Cloudflare Stock Jumps On Earnings Beat As Customer Growth Booms",
+      "publisher": "Investor's Business Daily",
+      "date": "2026-08-06T21:18:08Z",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "強調客戶成長動能強勁，顯示 Cloudflare 在競爭激烈的雲端市場中仍能有效擴大市占率。"
+    },
+    {
+      "rank": 4,
+      "title": "TEAM, NET Stocks Rally Overnight After Earnings: Is ‘SaaSpocalypse’ Finally Fading?",
+      "publisher": "Stocktwits",
+      "date": "2026-08-07T02:07:12Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "將 Cloudflare 的強勁表現視為軟體產業復甦的指標，有助於提振整體 SaaS 類股的投資情緒。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Three Things I Love About Cloudflare And Why I'm Stuck At Hold Anyway",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-04 09:48",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "儘管認可公司在 AI 與邊緣運算領域的技術優勢，但認為當前估值過高，因此維持持有評級，屬於財報前夕的謹慎觀點。"
+    },
+    {
+      "rank": 2,
+      "title": "Here's How Much $100 Invested In Cloudflare 5 Years Ago Would Be Worth Today",
+      "publisher": "Benzinga",
+      "date": "2026-08-06 10:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "回顧過去 5 年的績效表現，屬於歷史數據分析，對短期股價影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "Nebius Is Still Up 136% This Year. It Is Time to Take Profits and Switch to Cloudflare, CoreWeave, or Snowflake?",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-08-06T18:34:58Z",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "將 Cloudflare 列為潛在的資金轉移標的，屬於投資組合配置建議，非針對公司基本面變化的直接評論。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,84 @@
+{
+  "ticker": "FFIV",
+  "company": "F5",
+  "analysis_date": "2026-08-07",
+  "source_file": "cache/2026-08-07/candidates/news/FFIV.json",
+  "summary": {
+    "total_articles": 12,
+    "bullish_count": 7,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司憑藉強勁的 AI 需求與混合雲業務推動 Q3 財報優於預期並上調全年展望，儘管面臨內部人士賣股與市場對估值的討論。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "FFIV Beats Q3 Earnings Estimates on Systems Strength, Raises View",
+      "publisher": "Zacks",
+      "date": "2026-07-28",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "F5 公布的 Q3 財報表現優於華爾街預期，且公司基於強勁的系統需求上調了全年財務展望，顯示核心業務動能穩健。"
+    },
+    {
+      "rank": 2,
+      "title": "F5 Rises as AI Demand Turns into Revenue",
+      "publisher": "FX Empire",
+      "date": "2026-07-29",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場明確觀察到 AI 需求已轉化為實際營收，驗證了公司在 AI 基礎設施領域的競爭優勢。"
+    },
+    {
+      "rank": 3,
+      "title": "F5 (FFIV) Launches AI Fleet Management To Speed BIG IP Security Fixes",
+      "publisher": "Simply Wall St.",
+      "date": "2026-07-29",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出 AI 車隊管理功能有助於加速 BIG-IP 系統的安全修復，提升產品競爭力與客戶黏著度。"
+    },
+    {
+      "rank": 4,
+      "title": "F5 Placed in the Leader Tier of the SecureIQLab 2026 Cloud WAAP v5.0 CyberRisk Validation Comparative Report",
+      "publisher": "Yahoo",
+      "date": "2026-08-03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "獲得第三方機構 SecureIQLab 的領導者評級，強化了公司在雲端安全領域的市場地位與品牌信譽。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Director At F5 Sells $1.56M Of Stock",
+      "publisher": "Benzinga",
+      "date": "2026-08-04",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "董事 Ramesh Nikhil Mehta 出售價值 156 萬美元的股票，內部人士的大額拋售通常會引發市場對股價短期高點的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "5 Revealing Analyst Questions From F5’s Q2 Earnings Call",
+      "publisher": "Yahoo",
+      "date": "2026-08-03",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "儘管財報亮眼，但分析師提出的尖銳問題反映出市場對於利潤率前景的謹慎態度，以及對高估值的潛在疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "PD vs. FFIV: Which Stock Is the Better Value Option?",
+      "publisher": "Zacks",
+      "date": "2026-07-29",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此類文章屬於投資組合比較分析，旨在探討價值投資屬性，對股價本身無直接驅動影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
