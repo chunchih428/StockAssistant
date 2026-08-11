@@ -1,0 +1,66 @@
+{
+  "ticker": "FFIV",
+  "company": "F5",
+  "analysis_date": "2026-08-11",
+  "source_file": "cache/2026-08-11/candidates/news/FFIV.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "F5 展現強勁的財務品質與獲利能力，儘管面臨內部人賣股與國際營收波動的挑戰，市場仍對其長期成長潛力持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "F5 Inc (NASDAQ:FFIV) Shines as a Quality Investment",
+      "publisher": "ChartMill",
+      "date": "2026-08-10 09:41",
+      "impact": "high",
+      "category": "財務分析",
+      "reason": "該報導指出 F5 具備 71% 的高投入資本回報率 (ROIC) 且零負債，強勁的現金轉換能力使其成為優質的長期投資標的。"
+    },
+    {
+      "rank": 2,
+      "title": "Unlocking F5 (FFIV) International Revenues: Trends, Surprises, and Prospects",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 13:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "深入探討國際營收趨勢，有助於投資人評估 F5 在全球市場的財務穩定性與成長潛力，對長期估值有正面助益。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Director At F5 Sells $1.56M Of Stock",
+      "publisher": "Benzinga",
+      "date": "2026-08-04 11:01",
+      "impact": "medium",
+      "category": "內部人交易",
+      "reason": "董事 RAMESH NIKHIL MEHTA 出售價值 156 萬美元的股票，通常會引起市場對公司內部人對股價看法或未來展望的疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "F5 (FFIV) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
+      "publisher": "Yahoo",
+      "date": "2026-08-07 21:00",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "此報導為財報數據的客觀回顧，提供投資人對 2026 年 6 月季度表現的基礎資訊，未帶有強烈多空傾向。"
+    },
+    {
+      "rank": 2,
+      "title": "5 Revealing Analyst Questions From F5’s Q2 Earnings Call",
+      "publisher": "StockStory",
+      "date": "2026-08-03 16:13",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "整理分析師在法說會上的提問，有助於釐清公司營運細節，屬於中性的資訊整理，不直接構成買賣訊號。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

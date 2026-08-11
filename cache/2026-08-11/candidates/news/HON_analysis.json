@@ -1,0 +1,75 @@
+{
+  "ticker": "HON",
+  "company": "Honeywell",
+  "analysis_date": "2026-08-11",
+  "source_file": "cache/2026-08-11/candidates/news/HON.json",
+  "summary": {
+    "total_articles": 12,
+    "bullish_count": 1,
+    "bearish_count": 4,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "Honeywell Aerospace 分拆上市後的首份財報表現不如預期，導致股價重挫，但市場仍看好 Honeywell 本體在建築自動化與數據中心領域的長期成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Can Strength in Building Automation Segment Drive HON's Growth?",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 15:19",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管航太部門表現疲軟，但 Honeywell 本體的建築自動化業務受惠於數據中心投資與基礎建設需求，展現出強勁的成長動能，為股價提供支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Honeywell Aerospace Stock Plunges. Its First Standalone Quarter Was a Mess.",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 12:13",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "Honeywell Aerospace 分拆後首份財報表現混亂，且下調了 2026 全年財務指引，與同業調升展望的趨勢背道而馳，引發市場恐慌性拋售。"
+    },
+    {
+      "rank": 2,
+      "title": "Honeywell International (HON) Could Be 25% Undervalued As Aerospace Miss Sparks Valuation Debate",
+      "publisher": "Yahoo",
+      "date": "2026-08-07 13:12",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "航太部門的業績失誤引發了對公司整體估值的重新審視，雖然部分分析師認為股價被低估，但短期內投資人對分拆後的業務執行力存疑。"
+    },
+    {
+      "rank": 3,
+      "title": "Honeywell (HON) Stock Trades Below Fair Value Despite Mixed Checks",
+      "publisher": "Yahoo",
+      "date": "2026-08-07 07:13",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "HON 股價年初至今已下跌約 38.5%，反映出市場對其營運表現的極度失望，儘管估值具吸引力，但缺乏強勁的催化劑扭轉頹勢。"
+    },
+    {
+      "rank": 4,
+      "title": "Is Wall Street Bullish or Bearish on Honeywell Aerospace Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 09:32",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "航太部門顯著落後大盤，華爾街分析師雖維持溫和樂觀，但實際股價表現疲軟，顯示市場信心尚未恢復。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Honeywell (HON) Completes Aerospace Spin Off As Standalone Guidance Takes Shape",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 19:12",
+      "impact": "low",
+      "category": "公司策略",
+      "reason": "報導 Honeywell Aerospace 完成分拆後的首份財報與指引，屬於中性的企業營運進度更新，重點在於後續的執行力驗證。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

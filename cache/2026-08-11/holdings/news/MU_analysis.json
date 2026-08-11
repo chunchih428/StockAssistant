@@ -1,0 +1,93 @@
+{
+  "ticker": "MU",
+  "company": "Micron Technology",
+  "analysis_date": "2026-08-11",
+  "source_file": "cache/2026-08-11/holdings/news/MU.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 5,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "AI 需求帶動的高頻寬記憶體 (HBM) 供給緊縮，支撐了 Micron 長期的獲利結構與成長前景。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Micron Technology's Earnings Outlook Strengthens on Higher Memory Pricing, UBS Says",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 17:42",
+      "impact": "high",
+      "category": "財報展望",
+      "reason": "瑞銀 (UBS) 指出記憶體價格上漲將強化 Micron 的長期獲利能力，且 HBM 供給持續緊縮，有利於公司定價權。"
+    },
+    {
+      "rank": 2,
+      "title": "Micron Says AI Memory Crunch Could Last Beyond 2027 as DRAM Demand Soars",
+      "publisher": "Yahoo",
+      "date": "2026-08-11 01:04",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "公司預期 AI 記憶體供給短缺將延續至 2027 年後，顯示強勁的結構性需求支撐。"
+    },
+    {
+      "rank": 3,
+      "title": "Micron (MU) Secures Strategic Auto Deals and AI Momentum to Offset Cyclical Pressures",
+      "publisher": "Yahoo",
+      "date": "2026-08-09 10:17",
+      "impact": "medium",
+      "category": "業務拓展",
+      "reason": "透過車用市場與 AI 領域的策略性合約，有效降低了傳統記憶體週期的波動風險。"
+    },
+    {
+      "rank": 4,
+      "title": "Buy 5 Top-Ranked Growth Stocks for August to Tap Market Rally",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 17:42",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "MU 被列為 8 月份頂級成長股之一，反映市場對其 AI 驅動成長的認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Citi cuts Micron stock target, sees memory chip prices peaking in 2Q27",
+      "publisher": "Yahoo",
+      "date": "2026-08-07 12:48",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "花旗 (Citi) 雖維持買入評級，但將目標價從 1,400 美元下調至 1,150 美元，理由是預期記憶體價格將在 2027 年第二季觸頂。"
+    },
+    {
+      "rank": 2,
+      "title": "Micron’s Memory Boom Is Heading For A Peak, Analyst Warns",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 10:00",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析師提醒記憶體繁榮週期可能接近頂峰，投資人需留意後續成長動能減弱的風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "S&P 500, Nasdaq, Dow Futures Mixed As Hormuz Uncertainty Weighs",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 08:24",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受地緣政治不確定性影響，整體市場情緒分歧，MU 股價表現受大盤波動干擾。"
+    },
+    {
+      "rank": 2,
+      "title": "Micron Technology, Inc. (MU) Presents at The KeyBanc Technology Leadership Forum 2026 Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-10 16:38",
+      "impact": "low",
+      "category": "公司活動",
+      "reason": "公司參與分析師論壇，主要為例行性業務說明，未有重大突發性利多或利空消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

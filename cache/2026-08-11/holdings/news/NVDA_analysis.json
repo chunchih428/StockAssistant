@@ -1,0 +1,93 @@
+{
+  "ticker": "NVDA",
+  "company": "NVIDIA",
+  "analysis_date": "2026-08-11",
+  "source_file": "cache/2026-08-11/holdings/news/NVDA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 5,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "Nvidia 攜手華爾街巨頭推動 5000 億美元 AI 基礎設施融資計畫，雖引發市場對資本支出風險的擔憂，但長期成長動能仍獲看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Nvidia Teams Up With Wall Street Giants On Massive $500B AI Infrastructure Funding Push",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 17:23",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "Nvidia 與 BlackRock、Goldman Sachs 等華爾街巨頭合作，建立 5000 億美元的 AI 基礎設施融資平台，此舉將有效解決客戶資金瓶頸，確保長期晶片需求。"
+    },
+    {
+      "rank": 2,
+      "title": "Nvidia Poised for Second-Quarter Sales Beat, Upbeat Guidance, BofA Says",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 16:55",
+      "impact": "high",
+      "category": "財報預測",
+      "reason": "美國銀行 (BofA) 分析師預期 Nvidia 在 Vera Rubin 晶片強勁需求帶動下，第二季財報將優於預期並上調財測，顯示基本面依然強勁。"
+    },
+    {
+      "rank": 3,
+      "title": "Nvidia (NVDA) Commits $5 Billion To Take A Bigger Role In AI Infrastructure",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 09:09",
+      "impact": "medium",
+      "category": "策略投資",
+      "reason": "Nvidia 宣布投入 50 億美元於 Lancium 與 Firmus 等能源與數據中心項目，展現其垂直整合 AI 生態系的決心。"
+    },
+    {
+      "rank": 4,
+      "title": "Nvidia Just Added $562 Billion in a Week",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 19:40",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "單週市值增加 5620 億美元，反映市場對其 AI 領導地位的強烈信心與資金追捧。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Did Nvidia Stock Fall on Monday Despite a $500 Billion Wall Street AI Deal?",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 22:43",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管有融資利多，但市場擔憂 Nvidia 變相為客戶融資可能增加自身財務風險，導致股價在利多消息下反而下跌。"
+    },
+    {
+      "rank": 2,
+      "title": "Nvidia (NVDA) Suffers a Larger Drop Than the General Market: Key Insights",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 2.87%，表現弱於大盤，顯示短期獲利了結賣壓沉重。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Nvidia Stock Still a Good Buy at $220?",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 23:50",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "針對股價處於歷史高點後的投資價值進行討論，未提供明確買賣建議，屬中性觀點。"
+    },
+    {
+      "rank": 2,
+      "title": "Intel (INTC) Tripled This Year, But Can a $15B Share Sale Stop the Momentum?",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 21:35",
+      "impact": "low",
+      "category": "競爭對手動態",
+      "reason": "主要討論 Intel 的股價與融資，僅順帶提及 Nvidia 作為對比，對 Nvidia 本身影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

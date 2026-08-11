@@ -1,0 +1,74 @@
+{
+  "ticker": "NTAP",
+  "company": "NetApp",
+  "analysis_date": "2026-08-11",
+  "source_file": "cache/2026-08-11/holdings/news/NTAP.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 4,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "NetApp 透過收購 JetStream Software 強化 AI 時代的資料保護能力，並獲得華爾街分析師調升評級與目標價，市場情緒轉趨正面。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Morgan Stanley Upgrades NetApp to Equal-Weight, Raises Price Target to $173",
+      "publisher": "Benzinga",
+      "date": "2026-08-10 07:30",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "摩根士丹利分析師 Erik Woodring 將 NetApp 評級從「減碼」調升至「中立」，並上調目標價至 173 美元，顯示對公司基本面改善的認可。"
+    },
+    {
+      "rank": 2,
+      "title": "NetApp Acquires JetStream Software to Advance Cyber Resilience and Data Protection for the AI Era",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 12:00",
+      "impact": "medium",
+      "category": "企業併購",
+      "reason": "NetApp 收購 JetStream Software 以強化 AI 時代的資料保護與網路韌性，此舉有助於擴大其產品組合並提升競爭力，選定此篇為代表，因其為官方公告。"
+    },
+    {
+      "rank": 3,
+      "title": "NetApp (NTAP) Increases Despite Market Slip: Here's What You Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 21:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "在市場整體疲軟的情況下，NetApp 股價逆勢上漲 2.62 %，顯示市場對其近期業務發展與併購策略的正面反應。"
+    },
+    {
+      "rank": 4,
+      "title": "This NetApp Analyst Is No Longer Bearish; Here Are Top 5 Upgrades For Monday",
+      "publisher": "Benzinga",
+      "date": "2026-08-10 08:07",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "確認分析師對 NetApp 的觀點由空轉中立，進一步證實市場對該公司未來展望的信心有所回升。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "NetApp's Buyback Is Better Funded Than It Is Big",
+      "publisher": "Trefis",
+      "date": "2026-08-04 17:52",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "分析指出 NetApp 的股票回購計畫資金充足，但規模並非特別巨大，屬於中性偏正面的財務評估，選定 Trefis 為代表來源。"
+    },
+    {
+      "rank": 2,
+      "title": "SNDK vs. NTAP: Which Stock Is the Better Value Option?",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 15:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 NetApp 與其他同業進行價值比較，未對股價產生直接催化作用，僅為投資組合配置的參考資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
