@@ -1,0 +1,102 @@
+{
+  "ticker": "PANW",
+  "company": "Palo Alto Networks",
+  "analysis_date": "2026-08-11",
+  "source_file": "cache/2026-08-11/candidates/news/PANW.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 6,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管面臨中國網路安全審查的潛在監管風險，但受惠於 AI 驅動的強勁需求與分析師上調目標價，市場對其長期成長前景仍持樂觀態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike, Palo Alto Networks stocks hit new highs after Black Hat",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 18:20",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "BTIG 分析師指出 AI 代理技術改變了威脅格局，進而上調目標價，推動股價創下新高。"
+    },
+    {
+      "rank": 2,
+      "title": "Barclays Maintains Overweight on Palo Alto Networks, Raises Price Target to $370",
+      "publisher": "Benzinga",
+      "date": "2026-08-05 09:05",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Barclays 分析師 Saket Kalia 維持增持評級並上調目標價，顯示機構投資人對其基本面信心充足。"
+    },
+    {
+      "rank": 3,
+      "title": "AI Adoption Is Driving Stronger Demand for Palo Alto Networks (PANW)",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 13:52",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Sands Capital 報告指出 AI 採用率提升正成為公司營收成長的核心驅動力。"
+    },
+    {
+      "rank": 4,
+      "title": "NET, ZS, PANW End Second Week Higher — Citrini Research Sees Cybersecurity Stocks Pulling Further Ahead",
+      "publisher": "Yahoo",
+      "date": "2026-08-08 00:31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "網路安全類股與軟體板塊脫鉤，顯示市場資金正集中於具備 AI 防禦能力的資安龍頭。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "China launches cybersecurity review into Palo Alto Networks products",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 11:09",
+      "impact": "high",
+      "category": "法規監管",
+      "reason": "中國網信辦對公司產品啟動網路安全審查，市場擔憂其在中國市場的營運受阻，類似於美光科技曾面臨的制裁風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Palo Alto Networks Is Worth Nearly $300 Billion. A Year Ago It Was Worth About $113 Billion.",
+      "publisher": "Yahoo",
+      "date": "2026-08-09 15:54",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "市場質疑公司市值在一年內成長近三倍，但營收成長速度卻遠不及市值膨脹速度，存在估值過高的隱憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Palo Alto Networks (PANW) Could Be 131% Overvalued On FireMon Integration News",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 02:12",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "針對 FireMon 整合案的市場評論認為股價已過度反應，存在潛在回調風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is It Worth Investing in Palo Alto (PANW) Based on Wall Street's Bullish Views?",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 13:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "綜合券商建議雖偏向買入，但市場對於當前高估值是否值得進場仍存在分歧。"
+    },
+    {
+      "rank": 2,
+      "title": "Jim Cramer Favors Fortinet (FTNT) Alongside CrowdStrike (CRWD) and Palo Alto (PANW)",
+      "publisher": "Yahoo",
+      "date": "2026-08-08 13:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Jim Cramer 的評論將 PANW 與同業並列，未給予特別的利多或利空評價。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

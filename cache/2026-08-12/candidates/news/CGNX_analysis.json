@@ -1,0 +1,111 @@
+{
+  "ticker": "CGNX",
+  "company": "Cognex",
+  "analysis_date": "2026-08-11",
+  "source_file": "cache/2026-08-11/candidates/news/CGNX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 11,
+    "bearish_count": 3,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管 Q2 營收微幅未達預期，但受惠於 AI 與資料中心需求強勁，公司展現出色的獲利能力與利潤率擴張，獲得多家投行上調目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why Cognex (CGNX) Is Up 7.6% After Record Q2 Beat, Higher Guidance and Dividend Hike",
+      "publisher": "Yahoo",
+      "date": "2026-08-07 04:29",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司公布 Q2 財報表現亮眼，獲利優於預期並調升全年財測，同時宣布配發每股 0.085 美元現金股利，直接帶動股價上漲 7.6 %。"
+    },
+    {
+      "rank": 2,
+      "title": "Cantor Fitzgerald Maintains Overweight on Cognex, Raises Price Target to $84",
+      "publisher": "Benzinga",
+      "date": "2026-08-07 08:35",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師 Troy Jensen 維持加碼評級並將目標價調升至 84 美元，反映對公司 AI 機器視覺技術在半導體與電子產業的成長潛力深具信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Needham Maintains Buy on Cognex, Raises Price Target to $80",
+      "publisher": "Benzinga",
+      "date": "2026-08-07 09:41",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師 James Ricchiuti 將目標價由 75 美元調升至 80 美元，肯定公司在資料中心與自動化市場的領先地位。"
+    },
+    {
+      "rank": 4,
+      "title": "Barclays Maintains Overweight on Cognex, Raises Price Target to $80",
+      "publisher": "Benzinga",
+      "date": "2026-08-10 06:32",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Barclays 分析師 Guy Hardwick 將目標價由 75 美元調升至 80 美元，顯示市場對其獲利能力改善的認可。"
+    },
+    {
+      "rank": 5,
+      "title": "This AI Stock Offers Diversified Way To Play The Space, Eyes Entry As Profits Jump 80%",
+      "publisher": "Yahoo",
+      "date": "2026-08-07 17:28",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出 Cognex 獲利成長 80 %，且作為 AI 領域的多元化投資標的，具備長期成長吸引力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "HSBC Downgrades Cognex to Hold",
+      "publisher": "Benzinga",
+      "date": "2026-08-10 09:15",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "HSBC 分析師 Helen Fang 將評級從買進下調至持有，可能考量到近期股價漲幅已反映利多，或對未來營收成長動能持保留態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Cognex (NASDAQ:CGNX) Misses Q2 CY2026 Revenue Estimates",
+      "publisher": "Yahoo",
+      "date": "2026-08-05 20:55",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "雖然獲利超預期，但營收微幅未達市場預期，顯示在汽車等特定產業需求可能面臨挑戰。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Citigroup Maintains Neutral on Cognex, Raises Price Target to $74",
+      "publisher": "Benzinga",
+      "date": "2026-08-07 17:26",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "Citigroup 維持中立評級，雖調升目標價至 74 美元，但顯示對當前估值與未來成長空間持平衡看法。"
+    },
+    {
+      "rank": 2,
+      "title": "Truist Securities Maintains Hold on Cognex, Raises Price Target to $78",
+      "publisher": "Benzinga",
+      "date": "2026-08-07 09:14",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "Truist Securities 維持持有評級，反映市場在財報後對股價後續走勢的觀望態度。"
+    },
+    {
+      "rank": 3,
+      "title": "Cognex Corporation (CGNX) Presents at The KeyBanc Technology Leadership Forum 2026 Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-10 15:28",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "公司參與論壇並分享營運展望，屬於例行性投資人溝通，未有重大新消息釋出。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
