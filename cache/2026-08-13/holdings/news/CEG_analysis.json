@@ -1,0 +1,93 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy",
+  "analysis_date": "2026-08-11",
+  "source_file": "cache/2026-08-11/holdings/news/CEG.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "受惠於 AI 驅動的電力需求激增，公司 Q2 財報優於預期並上調全年財測，展現強勁的核能合約簽署動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Constellation Energy Raises FY2026 Adj EPS Guidance from $11.00-$12.00 to $11.50-$12.50 vs $11.63 Est",
+      "publisher": "Benzinga",
+      "date": "2026-08-06 06:47",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司上調 2026 財年調整後每股盈餘預測至 11.50 至 12.50 美元，顯示管理層對未來獲利成長具備高度信心，直接推升股價。"
+    },
+    {
+      "rank": 2,
+      "title": "Constellation Signed 920 Megawatts of New Power Deals, Including a Walmart PPA. Here's What It Means for CEG Stock.",
+      "publisher": "Yahoo",
+      "date": "2026-08-07 16:45",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "成功簽署 920 兆瓦的新電力合約，包括與 Walmart 的購電協議，驗證了核能作為 AI 資料中心穩定電力來源的市場需求。"
+    },
+    {
+      "rank": 3,
+      "title": "Constellation Energy (CEG) Beat Earnings And Lifted Guidance, Is It Still 26% Undervalued?",
+      "publisher": "Yahoo",
+      "date": "2026-08-07 02:16",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "Q2 營收達 75.04 億美元，且獲利表現優於市場預期，分析師認為在強勁需求下，公司估值仍具備吸引力。"
+    },
+    {
+      "rank": 4,
+      "title": "The Biggest AI Power Opportunity May Be Hiding in Constellation Energy",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 15:28",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "強調公司透過長期核能合約鎖定 AI 帶動的電力需求，具備長期結構性成長潛力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Constellation Energy Q2 Adj. EPS $2.55 Beats $2.28 Estimate, Sales $7.504B Miss $7.829B Estimate",
+      "publisher": "Benzinga",
+      "date": "2026-08-06 06:48",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "儘管每股盈餘超預期，但營收 75.04 億美元略低於市場預期的 78.29 億美元，顯示營收成長動能仍受部分因素干擾。"
+    },
+    {
+      "rank": 2,
+      "title": "Constellation Energy Says New Nuclear Power Purchase Agreements Have Later Start Dates, Not Expected To Impact 2029 Earnings",
+      "publisher": "Benzinga",
+      "date": "2026-08-06 10:38",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "新簽署的核能合約啟動時間較晚，短期內對 2029 年前的獲利貢獻有限，提醒投資人需關注長期現金流實現時程。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Constellation Announces Board Chairman Transition and New Board Appointment",
+      "publisher": "Yahoo",
+      "date": "2026-08-05 18:10",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "公司宣布董事會主席交接與新董事任命，屬於常規公司治理調整，對股價影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Constellation Energy Corporation Declares Dividend",
+      "publisher": "Yahoo",
+      "date": "2026-08-04 18:23",
+      "impact": "low",
+      "category": "股利政策",
+      "reason": "公司宣布季度股利發放，符合市場預期，屬於例行性財務活動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

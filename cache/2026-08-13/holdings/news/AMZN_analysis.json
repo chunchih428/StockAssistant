@@ -1,0 +1,102 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-08-11",
+  "source_file": "cache/2026-08-11/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "Amazon 受惠於強勁的雲端運算成長與 AI 貨幣化能力，股價表現強勢並突破 3 兆美元市值，但同時面臨環境永續與勞工權益的 ESG 挑戰。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Amazon Just Joined the $3 Trillion Club. Here's Why It Could Reach $5 Trillion by 2029.",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 17:20",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Amazon 市值突破 3 兆美元大關，市場看好其雲端營收加速成長，預期未來幾年將持續推動股價上漲。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon: A Post-Earnings Drift Candidate",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 18:02",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "第二季財報表現優異，AWS 成長動能強勁且 AI 需求激增，分析師認為股價漲勢才剛開始。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Google and Amazon rank top among Cloud hyperscalers for AI",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 14:32",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Amazon 在雲端基礎設施與 AI 運算能力上處於領先地位，被視為 AI 時代的關鍵基礎設施提供者。"
+    },
+    {
+      "rank": 4,
+      "title": "Corporate America Is The Strongest It's Been In 5 Years: Here’s Why",
+      "publisher": "Benzinga",
+      "date": "2026-08-10 09:44",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "數據顯示 Amazon 與 Alphabet 是推動 S&P 500 指數獲利成長的主要引擎，凸顯其在大型企業中的核心地位。"
+    },
+    {
+      "rank": 5,
+      "title": "Amazon, SpaceX Eye Major Decart Acquisition",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 21:37",
+      "impact": "medium",
+      "category": "併購",
+      "reason": "Amazon 展現對即時 AI 技術的積極布局，透過潛在併購強化其技術護城河。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Amazon Texas gas plant could be biggest U.S. climate polluter",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 12:21",
+      "impact": "medium",
+      "category": "環境永續",
+      "reason": "Amazon 投資的德州天然氣發電廠被指為潛在的重大碳排放源，可能引發 ESG 投資人的負面觀感與監管壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "MONDAY: O'BRIEN, ZUCKERMAN, AMAZON TEAMSTERS RALLY FOR DELIVERY PROTECTION ACT",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 10:00",
+      "impact": "low",
+      "category": "勞工權益",
+      "reason": "工會組織針對配送保護法案進行抗議，反映出公司在勞工管理與營運成本上持續面臨壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Amazon Back Near $3 Trillion as Jeff Bezos Reportedly Eyes a Third of Liverpool",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 12:28",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "創辦人 Jeff Bezos 的個人投資行為（收購利物浦足球俱樂部股份）對 Amazon 本身營運無直接財務影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon.com vs. Chewy: Which Consumer Stock Is a Better Buy in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 22:33",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為投資標的比較分析，未提供新的實質營運資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

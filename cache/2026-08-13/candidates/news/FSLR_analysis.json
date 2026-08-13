@@ -1,0 +1,101 @@
+{
+  "ticker": "FSLR",
+  "company": "First Solar",
+  "analysis_date": "2026-08-11",
+  "source_file": "cache/2026-08-11/candidates/news/FSLR.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 16,
+    "bearish_count": 0,
+    "neutral_count": 4,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "美國政府針對多晶矽產品實施 15% 關稅與最低進口價格政策，顯著提升了 First Solar 的本土製造競爭優勢，加上強勁的財報表現與分析師調升目標價，共同推動股價強勢上漲。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "First Solar CEO calls Trump’s new tariffs for polysilicon products ‘very well thought out’",
+      "publisher": "CNBC",
+      "date": "2026-08-07 12:31",
+      "impact": "high",
+      "category": "政策利多",
+      "reason": "CEO Mark Widmar 公開支持川普政府對多晶矽實施 15% 關稅，此政策直接保護了 First Solar 的本土製造優勢，被視為公司長期成長的重大催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Wells Fargo Maintains Overweight on First Solar, Raises Price Target to $313",
+      "publisher": "Benzinga",
+      "date": "2026-08-07 09:32",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "富國銀行分析師 Praneeth Satish 維持「加碼」評級並將目標價調升至 313 美元，反映市場對公司在關稅保護下的獲利前景充滿信心。"
+    },
+    {
+      "rank": 3,
+      "title": "First Solar (FSLR) Is Up 18.5% After Cad-Tel Edge Widens Under New U.S. Solar Tariffs",
+      "publisher": "Yahoo",
+      "date": "2026-08-08 19:09",
+      "impact": "high",
+      "category": "財報與市場動態",
+      "reason": "公司第二季營收達 10.56 億美元，且在關稅政策下，其獨特的碲化鎘 (CdTe) 技術競爭優勢進一步擴大，股價因此大幅上漲。"
+    },
+    {
+      "rank": 4,
+      "title": "Solar Earnings Season Splits the Sector: Profitable Names Rally, Loss-Makers Sink",
+      "publisher": "ChartMill",
+      "date": "2026-08-07 12:38",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場資金明顯流向具備獲利能力的太陽能龍頭，First Solar 作為產業領頭羊，在財報季中展現了相對於同業的強勁財務韌性。"
+    },
+    {
+      "rank": 5,
+      "title": "First Solar: Structural Growth, Financial Strength, And An Attractive Valuation",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-06 03:51",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "分析指出公司擁有垂直整合的美國製造基地與專利技術，具備長期結構性成長潛力，且估值仍具吸引力。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "First Solar Diversifies The Source Of Your Risk, Not Its Size",
+      "publisher": "Yahoo",
+      "date": "2026-08-07 16:16",
+      "impact": "low",
+      "category": "風險評估",
+      "reason": "文章指出 First Solar 與大盤相關性低，雖能分散投資組合風險，但並未減少公司本身的營運風險，屬中性觀點。"
+    },
+    {
+      "rank": 2,
+      "title": "First Solar Stock: Analyst Estimates & Ratings",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 14:41",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "彙整分析師預估與評級，顯示市場對該股持謹慎樂觀態度，無重大新消息。"
+    },
+    {
+      "rank": 3,
+      "title": "First Solar (FSLR) After Tariffs And Guidance, Buying Opportunity Or Fairly Valued?",
+      "publisher": "Yahoo",
+      "date": "2026-08-08 21:14",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討在關稅與財測公布後，股價是否已達合理估值，提供多空雙向思考，未有明確偏向。"
+    },
+    {
+      "rank": 4,
+      "title": "Is First Solar (FSLR) Still Reasonable After Its 45 GW Backlog?",
+      "publisher": "Yahoo",
+      "date": "2026-08-05 05:13",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "針對 45 GW 的積壓訂單進行估值合理性分析，屬於對公司基本面的常規檢視。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

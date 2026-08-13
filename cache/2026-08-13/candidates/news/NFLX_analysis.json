@@ -1,0 +1,120 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-08-11",
+  "source_file": "cache/2026-08-11/candidates/news/NFLX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Netflix 成功完成 2026 年廣告銷售談判，廣告承諾金額翻倍，顯示其廣告業務已成為強勁的第二成長引擎。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Netflix (NFLX) Wraps Upfront Ad Sales With Commitments Nearly Doubling",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 22:10",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "Netflix 完成 2026-27 年度廣告銷售談判，承諾金額較去年翻倍，且 2027 年女子世界盃廣告庫存幾乎售罄，證明廣告業務規模化進展順利。"
+    },
+    {
+      "rank": 2,
+      "title": "Down but Not Out: Analysts See 40% Upside in Netflix After the Slide",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 14:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管股價過去一年表現疲軟，但華爾街分析師仍維持買入評級，並看好其未來 40% 的上漲空間，顯示市場對其長期基本面信心未減。"
+    },
+    {
+      "rank": 3,
+      "title": "Warren Buffett Bought Alphabet Stock Last Year. He Might Buy This Megacap Stock Next, Says a Wall Street Expert.",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 08:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析師指出 Netflix 目前估值處於三年來最低點，具備吸引價值型投資人（如巴菲特）的潛力，有助於提振市場情緒。"
+    },
+    {
+      "rank": 4,
+      "title": "Netflix, Amazon, Amcor And A Consumer Defensive Stock: CNBC’s ‘Final Trades’",
+      "publisher": "Benzinga",
+      "date": "2026-08-10 07:43",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "知名投資人 Bryn Talkington 在 CNBC 節目中將 Netflix 列為其最終交易標的，顯示專業投資圈對該股的關注度與看好度。"
+    },
+    {
+      "rank": 5,
+      "title": "Netflix (NFLX) Stock May Be 26% Undervalued Despite New Franchise Rights",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 23:15",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "市場研究顯示 Netflix 股價被低估約 26%，且公司持續獲得新特許經營權，為長期獲利能力提供支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Is Netflix’s (NFLX) Long-Term Dominance Under Threat?",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 14:57",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Sands Capital 在其基金報告中對 Netflix 的長期主導地位提出質疑，反映出部分機構投資人對串流媒體競爭加劇的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix's Latest Insider Sale Looks Bigger Than It Is",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 19:55",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "公司董事計畫出售 2,160 股股票，雖為預先安排的交易計畫，但內部人賣股行為通常會引起投資人對股價短期壓力的疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "S&P500, Nasdaq, Dow Futures Unchanged After Ending Session Mildly Lower",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 23:02",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該新聞主要討論大盤走勢與 Intel 的股票發行，Netflix 僅被提及為關注標的之一，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Is Disney So Much Cheaper Than Netflix? This Is the Only Answer I Can Think Of.",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 08:05",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章比較了 Disney 與 Netflix 的估值差異，將 Netflix 定位為高溢價的優質選擇，屬於中性的觀點分析。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix Killed Cable TV. Now the Streaming Giant Wants to Bring It Back.",
+      "publisher": "Yahoo",
+      "date": "2026-08-06 17:55",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "報導討論 Netflix 商業模式的轉變，雖然具有戰略意義，但屬於對公司未來發展方向的觀察，非即時利多或利空。"
+    },
+    {
+      "rank": 4,
+      "title": "Netflix Looks Attractive to Short-Put Players - a 2.0% One Month Income Yield",
+      "publisher": "Yahoo",
+      "date": "2026-08-07 13:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此文針對選擇權交易策略進行分析，對股價本身的基本面影響有限，僅提供交易層面的參考。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

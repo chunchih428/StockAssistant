@@ -1,0 +1,84 @@
+{
+  "ticker": "CEVA",
+  "company": "CEVA",
+  "analysis_date": "2026-08-12",
+  "source_file": "cache/2026-08-12/candidates/news/CEVA.json",
+  "summary": {
+    "total_articles": 13,
+    "bullish_count": 10,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "CEVA 憑藉強勁的第二季財報表現，以及在邊緣 AI 與藍牙技術授權領域的成長動能，獲得多數分析師正面評價與目標價調升。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "CEVA Q2 Adj. EPS $0.08 Beats $0.07 Estimate, Sales $29.033M Beat $28.170M Estimate",
+      "publisher": "Benzinga",
+      "date": "2026-08-10",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第二季財報表現優於預期，調整後每股盈餘為 0.08 美元（優於預期的 0.07 美元），營收達 2,903 萬美元（優於預期的 2,817 萬美元），顯示核心業務成長穩健。"
+    },
+    {
+      "rank": 2,
+      "title": "Rosenblatt Maintains Buy on CEVA, Raises Price Target to $49",
+      "publisher": "Benzinga",
+      "date": "2026-08-11",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Kevin Cassidy 維持買入評級，並將目標價從 45 美元上調至 49 美元，反映對公司長期成長潛力的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "CEVA Handset, AI Momentum Seen Supporting Growth, UBS Says",
+      "publisher": "MT Newswires",
+      "date": "2026-08-11",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "瑞銀指出 CEVA 在手機市場與 AI 領域的動能強勁，將成為未來營收成長的主要支撐因素。"
+    },
+    {
+      "rank": 4,
+      "title": "Ceva Tops Q2 Targets On Edge AI Tech Licensing",
+      "publisher": "Investor's Business Daily",
+      "date": "2026-08-10",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "報導強調公司在邊緣 AI 技術授權方面的成功，是推動第二季營收超越目標的關鍵驅動力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Oppenheimer Maintains Outperform on CEVA, Lowers Price Target to $38",
+      "publisher": "Benzinga",
+      "date": "2026-08-11",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "儘管維持優於大盤評級，但 Oppenheimer 分析師 Martin Yang 將目標價從 42 美元下調至 38 美元，顯示對短期估值或市場環境的保守看法。"
+    },
+    {
+      "rank": 2,
+      "title": "Ceva shares slip despite Q2 earnings beat and stronger licensing revenue",
+      "publisher": "InvestorsHub",
+      "date": "2026-08-10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管財報表現亮眼，但股價出現下滑，反映出市場可能存在獲利了結賣壓或對未來成長預期過高的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "CEVA (CEVA) Lands Early Bluetooth HDT Win, Is The Upside Already Priced In?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章探討公司在藍牙技術的早期勝利，但同時提出市場是否已充分反映利多因素的疑問，持中立觀察態度。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

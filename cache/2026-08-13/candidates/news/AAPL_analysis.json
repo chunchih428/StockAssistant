@@ -1,0 +1,84 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-08-11",
+  "source_file": "cache/2026-08-11/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 1,
+    "bearish_count": 16,
+    "neutral_count": 3,
+    "overall_sentiment": "bearish",
+    "key_theme": "Jefferies 的降評報告引發市場對 iPhone 產品線延遲與記憶體成本上升的擔憂，導致股價承壓。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Expect a strong next 12 months from Apple, says Deepwater's Gene Munster",
+      "publisher": "CNBC",
+      "date": "2026-08-10 07:20",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "知名分析師 Gene Munster 對 Apple 未來 12 個月的表現持樂觀態度，為市場提供正面觀點以平衡降評帶來的恐慌。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Apple may scrap its all-glass iPhone. Wall Street hasn’t been this alarmed since Steve Jobs’ death",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 18:19",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Jefferies 將 Apple 評級下調至「表現不佳」，並將目標價從 285.56 美元下調，主因是供應鏈顯示 20 週年紀念款全玻璃 iPhone 計畫取消，引發市場對創新能力的質疑。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple (AAPL) Downgraded as Soaring Memory Costs Test iPhone Pricing Power",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 19:02",
+      "impact": "medium",
+      "category": "成本結構",
+      "reason": "記憶體成本飆升可能迫使 Apple 提高 iPhone 售價，這將考驗其定價能力與消費者的購買意願，對毛利率構成潛在威脅。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple races to fix string of security flaws",
+      "publisher": "CNBC",
+      "date": "2026-08-10 12:41",
+      "impact": "low",
+      "category": "資安風險",
+      "reason": "Apple 正緊急修復 Mac 的安全漏洞，雖然是常規維護，但在股價疲軟時期增加了負面情緒。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Market Chatter: Apple Testing CXMT Memory Chips Amid Global Supply Crunch",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 08:18",
+      "impact": "medium",
+      "category": "供應鏈管理",
+      "reason": "Apple 測試中國 CXMT 記憶體晶片以應對供應短缺，此舉雖能降低成本，但面臨地緣政治與白宮審批的不確定性，影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "S&P 500, Nasdaq, Dow Futures Mixed As Hormuz Uncertainty Weighs",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 08:24",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "整體市場受宏觀地緣政治因素影響，Apple 作為權值股隨大盤波動，非公司特定利多或利空。"
+    },
+    {
+      "rank": 3,
+      "title": "One quiet Apple update could matter more than it looks",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 18:03",
+      "impact": "low",
+      "category": "產品策略",
+      "reason": "探討 Apple 在 AI 領域的長期布局，雖然具備潛力，但短期內對股價缺乏直接的催化作用。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
