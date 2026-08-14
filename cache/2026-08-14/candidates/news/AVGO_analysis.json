@@ -1,0 +1,111 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-08-14",
+  "source_file": "cache/2026-08-14/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 11,
+    "bearish_count": 6,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 Broadcom 在 AI 基礎設施的關鍵地位與長期成長潛力持樂觀態度，但對於目前的高估值與未來獲利成長預期是否過高存在分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Hock Tan Reaffirmed Broadcom's $100 Billion AI Forecast. Six Customers Carry Nearly All of It.",
+      "publisher": "Yahoo",
+      "date": "2026-08-11 08:01",
+      "impact": "high",
+      "category": "公司策略",
+      "reason": "執行長 Hock Tan 重申 1,000 億美元的 AI 營收目標，顯示公司在 AI 基礎設施領域的護城河穩固，且主要客戶需求明確。"
+    },
+    {
+      "rank": 2,
+      "title": "Cathie Wood Scoops $16 Million of Broadcom Ahead of a Crucial AI Earnings Test",
+      "publisher": "Benzinga",
+      "date": "2026-08-13 09:40",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名投資人 Cathie Wood 的 ARK Invest 加碼買進 1,600 萬美元，展現機構投資人對其財報表現的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Broadcom Is The Low-Beta AI Play To Buy",
+      "publisher": "Yahoo",
+      "date": "2026-08-12 12:19",
+      "impact": "medium",
+      "category": "投資分析",
+      "reason": "分析指出 Broadcom 控制了 AI 叢集的關鍵節點，且合約簽訂具備穩定性，適合尋求低波動的 AI 投資者。"
+    },
+    {
+      "rank": 4,
+      "title": "Broadcom (AVGO) Strengthens Market Position with Major Customers and Strategic Agreements",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 12:45",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "Baron Capital 指出公司透過與主要客戶的戰略協議，進一步鞏固了市場競爭地位。"
+    },
+    {
+      "rank": 5,
+      "title": "Broadcom Can Eat Nvidia’s Lunch Just Like This",
+      "publisher": "Yahoo",
+      "date": "2026-08-11 16:04",
+      "impact": "low",
+      "category": "競爭分析",
+      "reason": "強調公司在 AI 營收成長速度上的潛力，並透過特定技術優勢與 Nvidia 形成差異化競爭。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Broadcom (AVGO) Stock Trades Near Fair Value But At A Premium On Earnings",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 14:10",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "指出股價已反映大部分利多，目前交易價格處於溢價狀態，未來上漲空間可能受限。"
+    },
+    {
+      "rank": 2,
+      "title": "What Is The Market Really Expecting From AVGO Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-08-11 21:08",
+      "impact": "medium",
+      "category": "財務預測",
+      "reason": "分析認為市場對未來 5 年每年 26% 的營收成長預期過高，若無法達標將面臨修正風險。"
+    },
+    {
+      "rank": 3,
+      "title": "Nvidia and Broadcom Deepen AI Financing Push — But Wolfe Sees Long-Term Risks",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 13:19",
+      "impact": "low",
+      "category": "財務風險",
+      "reason": "Wolfe Research 警告透過債務融資推動 AI 擴張可能帶來長期財務風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "What's Going On With Broadcom Stock Thursday? — Broadcom (AVGO) stock rises over 2% amid tech rally.",
+      "publisher": "Benzinga",
+      "date": "2026-08-13 10:09",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價隨科技股大盤上漲，並非公司基本面發生重大變化。"
+    },
+    {
+      "rank": 2,
+      "title": "3 Semiconductor Stocks to Buy Before the Next AI Earnings Wave in August",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 11:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為財報季前的投資建議彙整，未提供新的基本面資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

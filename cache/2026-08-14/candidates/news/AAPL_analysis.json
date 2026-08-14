@@ -1,0 +1,102 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-08-14",
+  "source_file": "cache/2026-08-14/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 8,
+    "bearish_count": 6,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "Apple 正積極透過擴大製造布局與強化 Siri AI 功能來應對市場競爭，但同時面臨來自 Jefferies 的降評壓力與 Google Pixel 11 的 AI 手機挑戰。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple opens Advanced Manufacturing Center in Houston",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 18:30",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "Apple 在德州休士頓開設先進製造中心，顯示其在供應鏈韌性與本土製造能力的持續投入，有助於提升長期營運效率。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple Stock Rises While Norway Fund Reveals Huge Position",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 19:01",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "挪威主權基金揭露持有價值 5,220 億挪威克朗的 Apple 股份，顯示大型機構投資人對該公司長期價值的堅定信心。"
+    },
+    {
+      "rank": 3,
+      "title": "The Lowest-Beta Mega-Cap Just Got a $358 Target",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 16:30",
+      "impact": "medium",
+      "category": "分析師觀點",
+      "reason": "儘管面臨供應鏈挑戰，分析師給予 358 美元目標價，並強調其強勁的財報表現與作為低 Beta 避險資產的吸引力。"
+    },
+    {
+      "rank": 4,
+      "title": "Expect a strong next 12 months from Apple, says Deepwater's Gene Munster",
+      "publisher": "CNBC",
+      "date": "2026-08-10 07:20",
+      "impact": "medium",
+      "category": "分析師觀點",
+      "reason": "Deepwater Asset Management 的 Gene Munster 看好 Apple 未來 12 個月的表現，認為其財報基本面依然穩健。"
+    },
+    {
+      "rank": 5,
+      "title": "Apple considering publisher partnerships to add more news & information to Siri",
+      "publisher": "CNBC",
+      "date": "2026-08-13 07:23",
+      "impact": "low",
+      "category": "產品研發",
+      "reason": "Apple 尋求與新聞出版商合作以強化 Siri 的資訊豐富度，顯示其在 AI 領域提升用戶體驗的積極策略。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Jefferies downgrades Apple to a sell: How you should trade it",
+      "publisher": "CNBC",
+      "date": "2026-08-10 13:11",
+      "impact": "high",
+      "category": "分析師觀點",
+      "reason": "Jefferies 將 Apple 評級下調至「賣出」，主要擔憂記憶體成本上升以及 iPhone 定價能力的壓力，對股價構成顯著負面影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
+      "publisher": "CNBC",
+      "date": "2026-08-12 10:00",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "Google 推出 Pixel 11 並主打 Gemini AI，直接挑戰 Apple 即將推出的 AI 升級版 Siri，加劇了 AI 手機市場的競爭壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple races to fix string of security flaws",
+      "publisher": "CNBC",
+      "date": "2026-08-10 12:41",
+      "impact": "low",
+      "category": "產品安全",
+      "reason": "Apple 需緊急修復一系列 Mac 安全漏洞，雖然是常規維護，但頻繁的漏洞發現可能影響品牌信任度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "How To Trade SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA Using Technical Analysis",
+      "publisher": "Benzinga",
+      "date": "2026-08-13 08:59",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為技術分析教學與市場概覽，不涉及公司基本面變動，對股價無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
