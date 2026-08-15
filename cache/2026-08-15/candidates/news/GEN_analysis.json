@@ -1,0 +1,74 @@
+{
+  "ticker": "GEN",
+  "company": "Gen Digital",
+  "analysis_date": "2026-08-14",
+  "source_file": "cache/2026-08-14/candidates/news/GEN.json",
+  "summary": {
+    "total_articles": 13,
+    "bullish_count": 10,
+    "bearish_count": 0,
+    "neutral_count": 3,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Gen Digital 發布強勁的 2027 財年第一季財報，營收與獲利雙雙優於預期，並獲得多家投行上調目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Gen Digital Q1 Earnings Beat Estimates, Revenues Increase Y/Y",
+      "publisher": "Yahoo",
+      "date": "2026-08-07 16:03",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司公布 2027 財年第一季財報，營收與獲利均超越市場預期，且預訂量呈現雙位數成長，並上調全年財測，顯示業務動能強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "Barclays Maintains Equal-Weight on Gen Digital, Raises Price Target to $32",
+      "publisher": "Benzinga",
+      "date": "2026-08-07 14:33",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Barclays 分析師 Saket Kalia 在財報公布後，將目標價由原先水準上調至 $32，反映對公司成長前景的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "RBC Capital Maintains Sector Perform on Gen Digital, Raises Price Target to $30",
+      "publisher": "Benzinga",
+      "date": "2026-08-07 15:30",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "RBC Capital 分析師 Matthew Hedberg 將目標價調升至 $30，認可公司在第一季展現的營運效率與成長速度。"
+    },
+    {
+      "rank": 4,
+      "title": "Wells Fargo Maintains Equal-Weight on Gen Digital, Raises Price Target to $28",
+      "publisher": "Benzinga",
+      "date": "2026-08-07 11:15",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Wells Fargo 分析師 Richard Poland 跟進上調目標價至 $28，顯示市場對公司財報表現的正面回饋。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Gen Digital (GEN) Launches Fearless Planet Index While Valuation Views Still Split",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-05 20:12",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "公司推出 Fearless Planet 網路威脅指數，雖具備品牌行銷價值，但市場對於其估值看法仍存在分歧，故影響力中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Gen Digital (GEN) Stock Looks Below Fair Value On Cash Flow And Earnings",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-05 15:13",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "基於現金流與獲利模型分析，認為股價處於合理價值區間，屬於市場觀點分析，對短期股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

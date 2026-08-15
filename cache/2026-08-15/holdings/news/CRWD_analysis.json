@@ -1,0 +1,93 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-08-14",
+  "source_file": "cache/2026-08-14/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 1,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 驅動的資安需求激增，CrowdStrike 在產品擴展與市場地位上獲得分析師與機構的高度認可，股價動能強勁。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Citizens Maintains Market Outperform on CrowdStrike Holdings, Raises Price Target to $230",
+      "publisher": "Benzinga",
+      "date": "2026-08-12 09:36",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Rustam Kanga 維持買入評級並上調目標價至 230 美元，顯示市場對其成長前景的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike Expands Project QuiltWorks to SMBs, Extending Frontier AI Risk Protection to Organizations of Every Size",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 13:11",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "將 Project QuiltWorks 擴展至中小企業市場，顯著擴大了潛在客戶群與營收來源。"
+    },
+    {
+      "rank": 3,
+      "title": "CrowdStrike, Palo Alto hit records after Black Hat cyber conference illuminates rising AI threat",
+      "publisher": "CNBC",
+      "date": "2026-08-10 13:47",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Black Hat 大會確認了 AI 威脅帶來的資安需求，推動 CrowdStrike 股價創下新高。"
+    },
+    {
+      "rank": 4,
+      "title": "CrowdStrike Holdings (CRWD) Fal.Con 2026 Sells Out With 10,000 Attendees",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 15:14",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "年度大會門票快速售罄，反映出品牌影響力與市場對其技術的高度關注。"
+    },
+    {
+      "rank": 5,
+      "title": "CrowdStrike Named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise Vendor Assessment",
+      "publisher": "Yahoo",
+      "date": "2026-08-11 12:00",
+      "impact": "medium",
+      "category": "市場地位",
+      "reason": "獲 IDC 評選為 MDR/MXDR 市場領導者，強化了其在企業級資安領域的競爭護城河。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike: When Excellence Gets Ahead Of Itself",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-13 17:03",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "指出 180 倍的預期本益比過高，暗示股價可能已過度反映利多，存在回調風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "C3.ai vs. CrowdStrike: Which Tech Stock Is a Better Buy in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 04:16",
+      "impact": "low",
+      "category": "產業比較",
+      "reason": "僅為兩家公司的業務模式比較，未對 CrowdStrike 本身提供明確的買賣建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Dear CrowdStrike Stock Fans, Mark Your Calendars for August 26",
+      "publisher": "Yahoo",
+      "date": "2026-08-12 15:17",
+      "impact": "low",
+      "category": "財報預告",
+      "reason": "提醒投資人關注即將到來的財報發布日期，屬於例行性市場資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

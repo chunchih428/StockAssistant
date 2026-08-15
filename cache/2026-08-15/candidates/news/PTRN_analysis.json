@@ -1,0 +1,47 @@
+{
+  "ticker": "PTRN",
+  "company": "Pattern Group - Series A",
+  "analysis_date": "2026-08-13",
+  "source_file": "cache/2026-08-13/candidates/news/PTRN.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司 Q2 財報表現優於預期且營收創新高，但市場對 Q3 成長放緩的指引感到擔憂，導致股價出現多空拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Pattern Group Inc (PTRN) (Q2 2026) Earnings Call Highlights: Record Revenue and NRR Fuel Raised",
+      "publisher": "GuruFocus.com",
+      "date": "2026-08-06T05:05:43Z",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司 Q2 繳出創紀錄的營收與淨收入留存率 (NRR)，並因此上調全年財測，顯示核心業務動能強勁，為股價提供基本面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Pattern Group (PTRN) May Find a Bottom Soon, Here's Why You Should Buy the Stock Now",
+      "publisher": "Zacks",
+      "date": "2026-08-07T13:55:02Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師基於技術面與估值觀點，認為該股已接近底部，建議投資人進場，反映市場對其長期價值持正面看法。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Pattern Group (NASDAQ:PTRN) Beats Q2 Estimates but Shares Fall on Slower Growth Outlook",
+      "publisher": "ChartMill",
+      "date": "2026-08-06 02:10",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "儘管 Q2 財報優於預期，但公司給出的 Q3 成長指引低於市場預期，引發投資人對未來成長動能減弱的擔憂，導致股價短期承壓。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,84 @@
+{
+  "ticker": "IBM",
+  "company": "International Business Machines Corporation",
+  "analysis_date": "2026-08-14",
+  "source_file": "cache/2026-08-14/candidates/news/IBM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 16,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "IBM 透過與 OpenAI 的深度戰略合作及 Together AI 的雲端基礎設施合約，展現其在企業級 AI 部署與混合雲市場的強勁競爭力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "IBM Partners with OpenAI to Accelerate Secure AI Deployment for Enterprises Across Core Operations",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 10:00",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "IBM 與 OpenAI 達成戰略合作，將 GPT-5.6 等前沿模型整合至 IBM Consulting 與 AI 平台，此舉大幅提升 IBM 在企業 AI 轉型市場的技術護城河，選此篇作為代表是因為其涵蓋了合作的核心目標與技術整合細節。"
+    },
+    {
+      "rank": 2,
+      "title": "IBM Lands $240 Million AI Deal with Together AI to Scale Inference",
+      "publisher": "Benzinga",
+      "date": "2026-08-11 13:36",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "IBM 與 Together AI 簽署 2.4 億美元合約，利用 Nvidia Blackwell 系統擴展雲端 AI 推論能力，此合約直接貢獻營收並強化 IBM Cloud 在 AI 基礎設施領域的地位。"
+    },
+    {
+      "rank": 3,
+      "title": "Why IBM Stock Looks Like a Very Promising Long-Term Pick",
+      "publisher": "Yahoo",
+      "date": "2026-08-12 15:33",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析師看好 IBM 的長期成長潛力，認為其多項 AI 倡議與管理層策略具備競爭優勢，有助於提升投資人信心。"
+    },
+    {
+      "rank": 4,
+      "title": "TD SYNNEX Expands IBM Distribution to Accelerate Partner-Led Growth Worldwide",
+      "publisher": "Yahoo",
+      "date": "2026-08-11 14:23",
+      "impact": "low",
+      "category": "通路擴展",
+      "reason": "透過擴大與 TD SYNNEX 的經銷合作，有助於 IBM 加速其產品在全球市場的滲透率與通路銷售成長。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "IBM’s CEO Just Did the Math on AI Spending — and the Numbers Don’t Add Up",
+      "publisher": "Yahoo",
+      "date": "2026-08-11 14:01",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "市場對 AI 基礎設施投資的資本回報率（ROI）產生質疑，擔憂過度資本支出可能影響長期獲利能力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "International Business Machines (IBM), What Is Driving Fresh Attention Today?",
+      "publisher": "Yahoo",
+      "date": "2026-08-11 14:12",
+      "impact": "low",
+      "category": "財務活動",
+      "reason": "報導 IBM 完成 9.97 億加幣的債券發行，屬於正常的企業融資活動，對股價影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Domain-Specific LLM Platforms Market Report 2026–2033",
+      "publisher": "Yahoo",
+      "date": "2026-08-12 15:28",
+      "impact": "low",
+      "category": "產業報告",
+      "reason": "產業研究報告提及 IBM 在特定領域 LLM 的市場份額，屬於產業趨勢分析，未對公司短期營運產生直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

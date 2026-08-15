@@ -1,0 +1,93 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy",
+  "analysis_date": "2026-08-14",
+  "source_file": "cache/2026-08-14/holdings/news/CEG.json",
+  "summary": {
+    "total_articles": 13,
+    "bullish_count": 10,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "受惠於 AI 數據中心對核能電力需求的激增，公司透過簽署長期購電協議 (PPA) 與上調財測，展現強勁的成長動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Constellation Energy (CEG) Q2 2026 Earnings Call Transcript — Nuclear PPAs surge as adjusted operating earnings jump to $2.55 per share.",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 12:45",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "第二季調整後每股盈餘達 2.55 美元，且核能購電協議 (PPA) 需求激增，顯示公司核心業務獲利能力顯著提升。"
+    },
+    {
+      "rank": 2,
+      "title": "CEG Q2 Earnings Call Focuses on Higher Guidance and Nuclear Deals — Constellation lifts 2026 earnings guidance as Calpine accretion, nuclear contracting and Crane progress strengthen its g",
+      "publisher": "Yahoo",
+      "date": "2026-08-07 14:00",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司上調 2026 年財測，並強調 Calpine 收購案的綜效與核能合約進展，為股價提供強勁支撐。"
+    },
+    {
+      "rank": 3,
+      "title": "Constellation Signed 920 Megawatts of New Power Deals, Including a Walmart PPA. Here's What It Means for CEG Stock.",
+      "publisher": "Yahoo",
+      "date": "2026-08-07 16:45",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "成功簽署 920 MW 的新電力合約，包含 Walmart 的購電協議，證明公司在滿足大型企業能源需求方面的市場競爭力。"
+    },
+    {
+      "rank": 4,
+      "title": "Constellation Energy's nuclear capacity enables it to grow from AI: Powers Advisory's Matt Powers",
+      "publisher": "CNBC",
+      "date": "2026-08-11 14:58",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場專家指出核能發電能力是 AI 產業成長的關鍵基礎設施，將長期推升 Constellation Energy 的價值。"
+    },
+    {
+      "rank": 5,
+      "title": "Constellation Energy: Higher Guidance And Nuclear Scarcity Are Starting To Pay Off",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-11 11:07",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "核能資源稀缺性與 AI 電力需求結合，加上股票回購計畫，被視為推動 EPS 成長的關鍵驅動力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Constellation (CEG) Locks In More Power Deals As Nuclear Output Slips",
+      "publisher": "Yahoo",
+      "date": "2026-08-09 11:21",
+      "impact": "low",
+      "category": "營運狀況",
+      "reason": "儘管合約簽署順利，但核能產出出現小幅下滑，可能對短期營運效率造成微小壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Argus Research Maintains Buy on Constellation Energy, Lowers Price Target to $325",
+      "publisher": "Benzinga",
+      "date": "2026-08-11 09:10",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "維持買進評級但下調目標價至 325 美元，反映分析師對估值調整的謹慎態度，但整體看好趨勢不變。"
+    },
+    {
+      "rank": 2,
+      "title": "Constellation Energy Stock: Analyst Estimates & Ratings",
+      "publisher": "Yahoo",
+      "date": "2026-08-07 14:25",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "彙整市場分析師評級與估值，顯示股價過去一年表現落後大盤，但市場對未來成長潛力仍持正面看法。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

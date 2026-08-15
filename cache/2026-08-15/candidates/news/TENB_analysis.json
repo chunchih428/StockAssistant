@@ -1,0 +1,57 @@
+{
+  "ticker": "TENB",
+  "company": "Tenable Holdings, Inc.",
+  "analysis_date": "2026-08-14",
+  "source_file": "cache/2026-08-14/candidates/news/TENB.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司發布 Q2 財報並展現 AI 安全領域的獲利轉折，但同時面臨做空機構針對其核心業務競爭力的質疑與股價漲幅過高的估值壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Tenable (TENB) Widens Its AI Security Net Just As Profits Turn A Corner",
+      "publisher": "Insider Monkey",
+      "date": "2026-08-08",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "公司在 Q2 財報中展現了獲利能力的改善，並透過擴展 AI 安全產品線來強化市場競爭力，顯示其商業模式正處於成長與獲利平衡的關鍵轉折點。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Reported Earlier: Watching Tenable; The Bear Cave Issues Report On Co Titled \"Problems at Tenable (TENB); Cyber Boom Leaves Behind Vulnerability Management\"",
+      "publisher": "Benzinga",
+      "date": "2026-08-07",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "做空機構 The Bear Cave 發布報告質疑 Tenable 在網路安全熱潮下的核心競爭力，認為其漏洞管理業務面臨挑戰，此類做空報告通常會引發市場對公司基本面與治理的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Tenable (TENB) Q2 2026 Earnings Call Transcript",
+      "publisher": "Motley Fool",
+      "date": "2026-08-08",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "此為財報會議逐字稿，提供投資人原始數據與管理層對未來展望的說明，屬於中性資訊揭露，需結合市場解讀方能判斷具體影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Tenable Holdings (TENB) Stock Rich Or Reasonable After A 58% Rally?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章針對股價在短期內大幅上漲 58 % 後的估值進行分析，探討其是否過高，屬於市場情緒與技術面的理性評估，並未提供新的基本面利多或利空消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

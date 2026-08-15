@@ -1,0 +1,83 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-08-14",
+  "source_file": "cache/2026-08-14/candidates/news/NFLX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 0,
+    "neutral_count": 5,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "知名投資人 Bill Ackman 重返 Netflix 並建立 315 萬股持倉，市場看好其串流媒體龍頭地位與獲利能力改善。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bill Ackman Lost $400 Million on NFLX Stock in 2022 — Now He’s Back With a 3.15M-Share Bet, Saying Netflix Has ‘Won the Streaming Wars’",
+      "publisher": "Benzinga",
+      "date": "2026-08-13 09:19",
+      "impact": "high",
+      "category": "機構投資動態",
+      "reason": "知名對沖基金經理 Bill Ackman 的 Pershing Square 重新買入 315 萬股 Netflix，並公開宣稱 Netflix 已贏得串流媒體戰爭，此舉極大提振市場信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix Stock Jumps 3.4% as Ackman Returns With New Stake",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 17:51",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出 Netflix 因 Ackman 的投資消息股價上漲 3.4 %，並強調其利潤率擴張、廣告業務增長及全球規模是投資的核心邏輯。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix Doubles Down on Live Sports With Massive Push",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 18:14",
+      "impact": "medium",
+      "category": "產品策略",
+      "reason": "Netflix 持續加碼直播體育賽事，市場認為直播內容對提升用戶黏著度與廣告價值具有關鍵戰略意義。"
+    },
+    {
+      "rank": 4,
+      "title": "Down 39%, Should You Buy the Dip in Netflix Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 22:29",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "分析指出 Netflix 過去一年股價下跌 39 %，但獲利成長 35 %，估值與基本面出現背離，被視為潛在的買入機會。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "NFLX Vs Its Peers: The Return Does Not Match The Rank",
+      "publisher": "Yahoo",
+      "date": "2026-08-11 21:16",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "探討 Netflix 業務表現優於同業但股價表現落後的現象，市場對於是否存在成長放緩疑慮持中性觀察態度。"
+    },
+    {
+      "rank": 2,
+      "title": "GTN vs. NFLX: Which Stock Is the Better Value Option?",
+      "publisher": "Yahoo",
+      "date": "2026-08-12 15:40",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "將 Netflix 與 GTN 進行價值投資比較，屬於常規的投資組合分析，未對股價產生直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Stock Market Today: S&P 500, Dow Futures Rise, Nasdaq Falls as July Inflation Cools—Cisco Systems, Netflix, Applied Materials in Focus",
+      "publisher": "Benzinga",
+      "date": "2026-08-13 08:37",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅提及 Netflix 為當日市場焦點個股之一，屬於總體經濟環境下的例行性報導。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
