@@ -1,0 +1,129 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-08-14",
+  "source_file": "cache/2026-08-14/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 5,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對 Amazon 在 AI 領域的成長潛力與 AWS 雲端業務加速持樂觀態度，但同時面臨創辦人減持股份、監管壓力及隱私爭議等負面因素干擾。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Amazon Stock Gains as Ackman Backs Accelerating AWS Growth",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 18:47",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "知名投資人 Bill Ackman 的 Pershing Square 表態支持，強調雲端業務加速與零售量能提升，為股價提供強勁基本面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "1 Jaw-Dropping Metric That Shows Why Amazon Is a Force to Be Reckoned With in the AI Arms Race",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 23:46",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "指出 AWS 成長率正在加速，顯示其在 AI 軍備競賽中具備強大競爭力，是推動長期價值的重要指標。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon’s Price Target Says +32% and Not a Single Analyst Says Sell",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 17:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "華爾街 62 位分析師無人給予賣出評級，且平均目標價顯示 32% 的潛在上漲空間，反映市場共識極度看好。"
+    },
+    {
+      "rank": 4,
+      "title": "What Could Amazon.com (AMZN) Gain From Leading The Decart AI Bidding?",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 06:09",
+      "impact": "medium",
+      "category": "併購",
+      "reason": "報導指出 Amazon 成為收購 Decart AI 的領先競標者，若成功將進一步強化其 AI 技術布局。"
+    },
+    {
+      "rank": 5,
+      "title": "Prediction: Amazon Will Join Apple in the $4 Trillion Club Before 2030",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 09:06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析師預測 Amazon 將在 2030 年前市值突破 4 兆美元，增強投資人長期持有的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Jeff Bezos takes bold new turn amid $4B Amazon sell-off",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 16:03",
+      "impact": "high",
+      "category": "高層異動",
+      "reason": "創辦人 Jeff Bezos 申報出售高達 1500 萬股股票，總值約 40 億美元，短期內可能對市場情緒造成賣壓。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Amazon Stock Is Down Today — Amazon Shares Fall as Twitch Privacy Fight Escalates Over AI Training",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 17:09",
+      "impact": "medium",
+      "category": "法規",
+      "reason": "Twitch 因 AI 訓練數據的隱私爭議引發市場擔憂，直接導致股價當日下跌。"
+    },
+    {
+      "rank": 3,
+      "title": "AMAZON TEAMSTERS AND ALLIES PICKET CITY HALL FOR THE DELIVERY PROTECTION ACT",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 19:52",
+      "impact": "low",
+      "category": "勞工議題",
+      "reason": "工會與相關團體針對物流保護法案進行抗議，顯示公司在勞工關係與營運成本上仍面臨潛在壓力。"
+    },
+    {
+      "rank": 4,
+      "title": "Steve Eisman warns AI boom depends on OpenAI and Anthropic",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 13:51",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "投資人 Steve Eisman 警告 AI 營收過度依賴特定合作夥伴，暗示 Amazon 在 AI 變現能力上存在集中度風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Amazon shares appear stuck in a rut. Trader Mike Khouw is betting things will stay that way",
+      "publisher": "CNBC",
+      "date": "2026-08-12 11:53",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "交易員建議採取區間操作策略，顯示短期內股價缺乏明確的突破動能。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon Is the Only $3 Trillion Company That Has Never Paid a Dividend",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 19:46",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "探討公司持續將現金投入成長而非發放股利，屬於長期經營策略的討論，對股價無立即影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon's Zoox Launches Paid Robotaxi Service In Las Vegas and Says 'We Need To Be Regulated'",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 03:31",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "Zoox 推出付費機器人計程車服務，但同時呼籲加強監管，屬於業務擴張與合規性的平衡發展。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

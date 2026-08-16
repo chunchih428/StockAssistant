@@ -1,0 +1,102 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla",
+  "analysis_date": "2026-08-14",
+  "source_file": "cache/2026-08-14/holdings/news/TSLA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 5,
+    "bearish_count": 10,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "Tesla 積極布局 100 億美元太陽能計畫以支撐能源業務，但面臨市場對其行銷策略、Robotaxi 進度及供應鏈瓶頸的質疑。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Tesla $10 Billion Solar Bet Could Change Its Energy Game",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 18:59",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "Tesla 計劃投資 101 億美元於德州建設太陽能工廠，目標年產能達 100 GW，此舉被視為公司能源轉型與長期成長的重大戰略布局。"
+    },
+    {
+      "rank": 2,
+      "title": "TSLA Stock Rises As Swedish Union Ends Nearly 3-Year Strike After Tesla Buyouts",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 21:58",
+      "impact": "medium",
+      "category": "勞資關係",
+      "reason": "長達 3 年的瑞典工會罷工正式結束，消除了歐洲市場營運的不確定性與潛在法律風險。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Tesla Doesn't Need to Win China's Brutal EV Price War",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 13:50",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 Tesla 透過維持品牌溢價與上海廠的出口優勢，成功避開中國市場激烈的價格戰，有助於保護利潤率。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Gary Black Questions Tesla’s Strategy As Robotaxi Fleet Stays ‘Stuck’ At 90-100 Vehicles",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 12:15",
+      "impact": "high",
+      "category": "產品研發",
+      "reason": "分析師 Gary Black 指出 Robotaxi 車隊規模停滯不前，且過度依賴 Elon Musk 的社群媒體宣傳，缺乏有效的商業行銷策略。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla Is Down 26% in 2026 and Trailing Every Magnificent Seven Peer",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 15:05",
+      "impact": "medium",
+      "category": "股價表現",
+      "reason": "2026 年股價表現疲軟，落後於其他科技巨頭，市場擔憂缺乏新產品驅動成長。"
+    },
+    {
+      "rank": 3,
+      "title": "The Shipping Crunch Is Getting Worse. What It Means for Walmart, Tesla, and More.",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 19:47",
+      "impact": "medium",
+      "category": "供應鏈",
+      "reason": "全球航運瓶頸導致物流成本上升與延遲，對 Tesla 的生產與交付效率構成負面影響。"
+    },
+    {
+      "rank": 4,
+      "title": "Tesla paid Elon Musk 2.5m times more as CEO than its average worker in 2025",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 16:31",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "高額的 CEO 薪酬差距引發公司治理與薪酬公平性的討論，可能影響投資人觀感。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "More Analysts Say Hold Than Buy on Tesla. The Price Target Went Up Anyway.",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 15:30",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "華爾街分析師評級分歧，儘管目標價上調，但多數建議持股，顯示市場對未來走勢看法中立。"
+    },
+    {
+      "rank": 2,
+      "title": "How To Trade SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA Using Technical Analysis",
+      "publisher": "Benzinga",
+      "date": "2026-08-13 08:59",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "純技術分析報告，不涉及基本面變動，僅提供交易區間參考。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

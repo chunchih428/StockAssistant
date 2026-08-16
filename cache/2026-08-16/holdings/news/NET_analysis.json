@@ -1,0 +1,111 @@
+{
+  "ticker": "NET",
+  "company": "Cloudflare",
+  "analysis_date": "2026-08-14",
+  "source_file": "cache/2026-08-14/holdings/news/NET.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 16,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "公司發布優於預期的第 2 季財報後，獲得多家華爾街投行上調目標價，且技術面強勁突破 52 週新高。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare Stock Pops After Strong Q2 Results",
+      "publisher": "Benzinga",
+      "date": "2026-08-07 11:03",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第 2 季財報營收與獲利均優於市場預期，為近期股價強勢上漲的核心驅動力。"
+    },
+    {
+      "rank": 2,
+      "title": "Citigroup Maintains Buy on Cloudflare, Raises Price Target to $400",
+      "publisher": "Benzinga",
+      "date": "2026-08-10 10:40",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "花旗分析師 Fatima Boolani 維持買入評級，並將目標價大幅調升至 $400，顯示市場對其成長潛力的高度信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Did PANW, NET, HPQ Stocks Jump To 52-Week Highs Today?",
+      "publisher": "Stocktwits",
+      "date": "2026-08-14 02:30",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價創下 52 週新高，反映出強勁的市場動能與投資人對公司未來展望的樂觀情緒。"
+    },
+    {
+      "rank": 4,
+      "title": "Cloudflare For Government Receives FedRAMP High Certification And GovRAMP Moderate Authorization",
+      "publisher": "Benzinga",
+      "date": "2026-08-10 09:03",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "獲得 FedRAMP 高度認證，將顯著提升公司在政府與國防領域的競爭力與市場滲透率。"
+    },
+    {
+      "rank": 5,
+      "title": "Cloudflare (NYSE:NET) Passes Minervini Trend Template and High Growth Momentum Screen",
+      "publisher": "ChartMill",
+      "date": "2026-08-12 09:21",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "符合 Minervini 趨勢模板，顯示該股具備強勁的相對強度與獲利成長動能，吸引量化交易資金。"
+    },
+    {
+      "rank": 6,
+      "title": "Cathie Wood's Bets Big on Rocket Lab Stock and Cloudflare",
+      "publisher": "Benzinga",
+      "date": "2026-08-11 22:51",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "知名投資人 Cathie Wood 的 Ark Invest 持續增持，為市場帶來正面信心指標。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Guggenheim Maintains Sell on Cloudflare, Raises Price Target to $160",
+      "publisher": "Benzinga",
+      "date": "2026-08-07 12:35",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "儘管 Guggenheim 上調了目標價，但仍維持賣出評級，反映出對其高估值的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Cloudflare Prices $2.175B Zero-Interest Convertible Notes Due 2031",
+      "publisher": "Benzinga",
+      "date": "2026-08-13 11:04",
+      "impact": "medium",
+      "category": "資本運作",
+      "reason": "發行 21.75 億美元零息可轉債，雖能籌集資金但會造成潛在股權稀釋，市場反應中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Susquehanna Maintains Neutral on Cloudflare, Raises Price Target to $300",
+      "publisher": "Benzinga",
+      "date": "2026-08-10 09:17",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "分析師維持中性評級，僅隨市場趨勢上調目標價，未改變對基本面的看法。"
+    },
+    {
+      "rank": 3,
+      "title": "Cloudflare CTO Says Starlink Needs New Internet Traffic Rules Built for Satellites",
+      "publisher": "Benzinga",
+      "date": "2026-08-10 06:27",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "技術長提出與 SpaceX Starlink 合作的願景，目前僅處於提案階段，尚未產生實質財務影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
