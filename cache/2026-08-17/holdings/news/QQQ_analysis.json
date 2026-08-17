@@ -1,0 +1,111 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-08-14",
+  "source_file": "cache/2026-08-14/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 3,
+    "bearish_count": 4,
+    "neutral_count": 3,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對科技股廣度改善持樂觀態度，但面臨資金流出壓力與知名投資人看空避險的雙重挑戰。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "QUICK SPARK: Nasdaq 100 Breadth Hits Its Strongest Level in Over a Year",
+      "publisher": "Benzinga",
+      "date": "2026-08-10 15:31",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "納斯達克 100 指數成分股中，有 70% 的股票交易價格高於 200 日移動平均線，顯示市場廣度達到一年來最強水平，為長期多頭趨勢提供支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Navigating AI Waves: How Capital Rotation Will Propel SPY And QQQ",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-11 14:38",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析指出 AI 投資資金正從晶片股輪動至大型科技股，此種輪動效應將成為推動 QQQ 股價上漲的潛在動力。"
+    },
+    {
+      "rank": 3,
+      "title": "Breadth Rebounds as Small Caps Hold Firm Near Resistance",
+      "publisher": "ChartMill",
+      "date": "2026-08-12 11:28",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場參與度改善，儘管 QQQ 在高點附近暫停，但整體技術面廣度回升，顯示市場買盤依然穩健。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Michael Burry Loads Up On QQQ Puts, Boosts MU Short As He Braces For ‘Larger Fall’",
+      "publisher": "Stocktwits",
+      "date": "2026-08-13 20:13",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "知名投資人 Michael Burry 大舉買入 QQQ 的賣權（Puts），顯示其對科技股後市極度悲觀，預期將出現較大幅度的回調。"
+    },
+    {
+      "rank": 2,
+      "title": "QUICK SPARK: $3.6B Flows Into SPY in One Day; QQQ, SOXX Lead ETF Redemptions",
+      "publisher": "Benzinga",
+      "date": "2026-08-13 10:07",
+      "impact": "medium",
+      "category": "資金流向",
+      "reason": "資金出現從科技股 ETF（QQQ）撤出的跡象，轉向更廣泛的市場指數（SPY），顯示投資人風險偏好轉趨保守。"
+    },
+    {
+      "rank": 3,
+      "title": "TQQQ: Tread Cautiously Ahead Of The Next Round Of Tech Earnings",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-13 16:43",
+      "impact": "medium",
+      "category": "財報預期",
+      "reason": "針對槓桿型科技 ETF 的警示，提醒投資人在即將到來的科技股財報季前應保持謹慎，避免波動風險。"
+    },
+    {
+      "rank": 4,
+      "title": "QQQH: Sell The Collar Fund That Lost To The Collar Index",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-10 17:05",
+      "impact": "low",
+      "category": "產品評級",
+      "reason": "針對 QQQH 的賣出評級，指出其績效落後於基準指數且避險效果不佳，反映出相關衍生產品的投資效率問題。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "How To Trade SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA Using Technical Analysis",
+      "publisher": "Benzinga",
+      "date": "2026-08-13 08:59",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "僅提供技術分析教學與經濟數據前瞻，未對 QQQ 未來走勢做出明確多空判斷。"
+    },
+    {
+      "rank": 2,
+      "title": "TQQQ: Why I'm Not Buying The 15% Dip",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-12 17:29",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "作者解釋不參與 15% 回調買入的原因，屬於個人投資觀點，對整體 QQQ 股價影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "JEPQ vs QQQI: After Comparing the Two Biggest Nasdaq Income ETFs, One Is the Better Buy Heading Into 2027",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-08-13 16:20",
+      "impact": "low",
+      "category": "產品比較",
+      "reason": "文章重點在於比較兩檔納斯達克收益型 ETF，對 QQQ 本身並無直接影響，僅為相關產品分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

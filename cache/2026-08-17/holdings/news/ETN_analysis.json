@@ -1,0 +1,92 @@
+{
+  "ticker": "ETN",
+  "company": "Eaton",
+  "analysis_date": "2026-08-14",
+  "source_file": "cache/2026-08-14/holdings/news/ETN.json",
+  "summary": {
+    "total_articles": 12,
+    "bullish_count": 9,
+    "bearish_count": 0,
+    "neutral_count": 3,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "受惠於 AI 基礎設施需求激增，Eaton 在 Q2 財報中展現強勁營收成長，並獲得分析師調升目標價與技術合作肯定。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Evercore ISI Group Maintains Outperform on Eaton Corp, Raises Price Target to $515",
+      "publisher": "Benzinga",
+      "date": "2026-08-11 08:50",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 David Raso 維持「優於大盤」評級，並將目標價調升至 $515，反映市場對其長期成長潛力的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Eaton (ETN) Q2 2026 Earnings Call Transcript — Revenue hit record $8.5B with 21% growth as data center demand surges 65% organically.",
+      "publisher": "Yahoo",
+      "date": "2026-08-08 02:31",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "Q2 營收創下 $8.5B 紀錄，年增 21%，其中資料中心業務有機成長高達 65%，顯示 AI 基礎設施需求強勁。"
+    },
+    {
+      "rank": 3,
+      "title": "Eaton's Data Center Growth Is Increasingly Reflected In Valuation",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-12 15:21",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 Eaton 的訂單積壓量持續加速，證明其在 AI 驅動的資料中心市場中具有強大的競爭優勢。"
+    },
+    {
+      "rank": 4,
+      "title": "Infleqtion Selected by Eaton to Support Research Advancing Quantum Computing for U.S. Grid Resilience",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 13:00",
+      "impact": "medium",
+      "category": "技術合作",
+      "reason": "Eaton 與 Infleqtion 合作研究量子計算以提升電網韌性，展現其在能源基礎設施技術上的領先地位。"
+    },
+    {
+      "rank": 5,
+      "title": "$100 Invested In Eaton Corp 10 Years Ago Would Be Worth This Much Today",
+      "publisher": "Benzinga",
+      "date": "2026-08-07 12:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "回顧過去 10 年表現，Eaton 年化報酬率優於市場 7.46%，強化了長期投資者的信心。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Better AI Infrastructure Stock: Vertiv vs. Eaton",
+      "publisher": "Yahoo",
+      "date": "2026-08-12 09:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 Eaton 與 Vertiv 進行比較，探討兩者在 AI 基礎設施領域的優劣，屬於產業分析性質，無直接利多或利空。"
+    },
+    {
+      "rank": 2,
+      "title": "Should You Buy, Sell or Hold Eaton Stock Post Q2 Earnings?",
+      "publisher": "Zacks",
+      "date": "2026-08-06 17:53",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對財報後的投資策略進行中立分析，提供投資人多方觀點參考。"
+    },
+    {
+      "rank": 3,
+      "title": "Eaton (ETN) Could Be 4% Undervalued After Guidance Update And Mobility Separation Plan",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-06 12:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "基於估值模型認為股價有 4% 的低估空間，並提及 Mobility 部門的分拆計畫，屬於中性評估。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

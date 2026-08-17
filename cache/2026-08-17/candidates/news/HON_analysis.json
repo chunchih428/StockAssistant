@@ -1,0 +1,102 @@
+{
+  "ticker": "HON",
+  "company": "Honeywell",
+  "analysis_date": "2026-08-14",
+  "source_file": "cache/2026-08-14/candidates/news/HON.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 2,
+    "bearish_count": 4,
+    "neutral_count": 3,
+    "overall_sentiment": "bearish",
+    "key_theme": "Honeywell 於 Deutsche Bank 工業峰會發布的未來成長指引不如預期，導致股價顯著下跌，且市場對於分拆後的 Honeywell Aerospace 表現存有疑慮。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Can Strength in Building Automation Segment Drive HON's Growth?",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 15:19",
+      "impact": "medium",
+      "category": "業務展望",
+      "reason": "建築自動化部門受惠於數據中心投資與建築專案需求，被視為推動 Honeywell 未來成長的關鍵引擎。"
+    },
+    {
+      "rank": 2,
+      "title": "Honeywell International Stock: Is Wall Street Bullish or Bearish?",
+      "publisher": "Yahoo",
+      "date": "2026-08-12 10:03",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "儘管過去一年表現落後大盤，但華爾街分析師整體仍維持溫和看多態度，認為其長期價值仍存。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Honeywell Slides 5% As Future Growth Guidance At Chicago Investor Event Dissapoints",
+      "publisher": "Yahoo",
+      "date": "2026-08-11 18:55",
+      "impact": "high",
+      "category": "財報與指引",
+      "reason": "公司在 Deutsche Bank 峰會上提供的未來成長指引令投資人失望，導致股價單日重挫 5 %，為近期最主要的負面催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Honeywell Aerospace Tumbles on Disappointing Debut Report, but Bull Case Remains Intact",
+      "publisher": "Yahoo",
+      "date": "2026-08-07 11:20",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "分拆後的 Honeywell Aerospace 首份財報因供應鏈問題表現疲軟，引發市場對其獨立營運能力的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Honeywell (HON) Stock Trades Below Fair Value Despite Mixed Checks",
+      "publisher": "Yahoo",
+      "date": "2026-08-07 07:13",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "HON 年初至今股價已下跌約 38.5 %，顯示市場對其營運表現與估值修正的強烈負面情緒。"
+    },
+    {
+      "rank": 4,
+      "title": "Honeywell International (HON) Could Be 25% Undervalued As Aerospace Miss Sparks Valuation Debate",
+      "publisher": "Yahoo",
+      "date": "2026-08-07 13:12",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "雖然提及可能存在 25 % 的低估空間，但核心論點在於 Aerospace 分拆後的估值爭議，對股價短期造成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Honeywell International Inc. (HON) Presents at Deutsche Bank's Chicago Industrials Summit Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-11 15:37",
+      "impact": "low",
+      "category": "公司公告",
+      "reason": "僅為峰會逐字稿紀錄，提供投資人參考公司管理層的公開發言內容，無直接市場影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Honeywell Aerospace (HONA) Trade Settles at Valuation Discount Following Spin-off",
+      "publisher": "Yahoo",
+      "date": "2026-08-11 13:14",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導分拆後的估值折價現象，屬於市場結構性調整的客觀描述。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Wall Street Bullish or Bearish on Honeywell Aerospace Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 09:32",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "重複提及 Aerospace 表現落後大盤與分析師觀點，與其他新聞內容重疊，故列為中性觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

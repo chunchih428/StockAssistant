@@ -1,0 +1,92 @@
+{
+  "ticker": "FSLR",
+  "company": "First Solar",
+  "analysis_date": "2026-08-14",
+  "source_file": "cache/2026-08-14/candidates/news/FSLR.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 0,
+    "neutral_count": 6,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "美國政府針對進口太陽能產品實施新關稅政策，顯著提升了 First Solar 的市場競爭優勢，並帶動多家券商上調其目標價與評級。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "First Solar CEO calls Trump’s new tariffs for polysilicon products ‘very well thought out’",
+      "publisher": "CNBC",
+      "date": "2026-08-07 12:31",
+      "impact": "high",
+      "category": "政策利多",
+      "reason": "公司執行長公開支持針對多晶矽產品的 15% 關稅政策，確認該政策將強化公司在美國本土的競爭壁壘。"
+    },
+    {
+      "rank": 2,
+      "title": "Baird Just Upgraded First Solar Stock. Here's Why.",
+      "publisher": "Yahoo",
+      "date": "2026-08-11 19:23",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Baird 將 First Solar 評級上調至「優於大盤」，認為關稅政策為公司未來訂單鋪平了道路。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Is FSLR Stock Rising Premarket Today? — Mizuho raised the price target to $324",
+      "publisher": "Yahoo",
+      "date": "2026-08-11 08:06",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Mizuho 將目標價從 $300 上調至 $324，並維持「優於大盤」評級，反映市場對其獲利前景的信心增強。"
+    },
+    {
+      "rank": 4,
+      "title": "Wells Fargo Maintains Overweight on First Solar, Raises Price Target to $313",
+      "publisher": "Benzinga",
+      "date": "2026-08-07 09:32",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "富國銀行維持「加碼」評級並上調目標價，顯示大型機構對公司在關稅環境下的成長潛力持正面看法。"
+    },
+    {
+      "rank": 5,
+      "title": "First Solar (FSLR) Is Up 18.5% After Cad-Tel Edge Widens Under New U.S. Solar Tariffs",
+      "publisher": "Yahoo",
+      "date": "2026-08-08 19:09",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "第二季財報顯示營收達 10.56 億美元，且在關稅保護下，其碲化鎘 (Cad-Tel) 技術的競爭優勢進一步擴大。"
+    },
+    {
+      "rank": 6,
+      "title": "Solar Earnings Season Splits the Sector: Profitable Names Rally, Loss-Makers Sink",
+      "publisher": "ChartMill",
+      "date": "2026-08-07 12:38",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場資金轉向高品質與獲利穩定的公司，First Solar 作為產業龍頭，在財報季中展現出強勁的相對抗跌與成長力。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "First Solar Diversifies The Source Of Your Risk, Not Its Size",
+      "publisher": "Yahoo",
+      "date": "2026-08-07 16:16",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析指出該股與大盤相關性低，雖具備避險屬性，但並未直接降低投資組合的整體風險規模。"
+    },
+    {
+      "rank": 2,
+      "title": "First Solar Stock: Analyst Estimates & Ratings",
+      "publisher": "Yahoo",
+      "date": "2026-08-10 14:41",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "彙整分析師對該股的共識評級，顯示市場目前持審慎樂觀態度，無重大新資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

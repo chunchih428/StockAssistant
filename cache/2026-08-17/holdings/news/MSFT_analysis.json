@@ -1,0 +1,111 @@
+{
+  "ticker": "MSFT",
+  "company": "Microsoft",
+  "analysis_date": "2026-08-14",
+  "source_file": "cache/2026-08-14/holdings/news/MSFT.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 4,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "Microsoft 積極擴展 AI 基礎設施與雲端運算能力，儘管面臨碳排放與地緣政治挑戰，但華爾街分析師仍對其長期獲利能力與 Azure 的成長潛力持正面態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "J.P. Morgan Revamps Microsoft Stock Price Target for 2027",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 18:57",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "摩根大通基於 AI 成長潛力大幅上調 Microsoft 目標價，顯示機構投資人對其長期獲利能力的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "IREN Jumps 10% as Microsoft Accepts First AI Data Center Under $9.7 Billion Deal",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 14:16",
+      "impact": "high",
+      "category": "業務合作",
+      "reason": "Microsoft 正式批准 IREN 的 Horizon 1 AI 資料中心部署，象徵其在 AI 基礎設施擴張上的具體執行力。"
+    },
+    {
+      "rank": 3,
+      "title": "Microsoft Stock Rises as Ackman Reaffirms Azure Bet",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 19:21",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名投資人 Bill Ackman 重申對 Azure 產能投資與 Microsoft 365 競爭優勢的看好，支撐股價動能。"
+    },
+    {
+      "rank": 4,
+      "title": "What Dip? Why Microsoft Stock's Post-Earnings Momentum Is Set To Continue.",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 16:53",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "技術分析師指出 Microsoft 財報後的上升趨勢依然穩固，市場情緒轉向樂觀。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Microsoft Slashes Carbon Removal Purchases By 80% As AI Boom Drives Emissions Higher",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 17:58",
+      "impact": "medium",
+      "category": "ESG 與法規",
+      "reason": "AI 運算需求導致碳排放激增，Microsoft 削減碳移除採購，可能引發 ESG 投資人的疑慮與監管壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Microsoft (MSFT) Is Pulling Back From China. Should Investors Worry?",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 17:59",
+      "impact": "low",
+      "category": "地緣政治",
+      "reason": "公司縮減在中國的業務布局，反映地緣政治風險對跨國科技巨頭營運策略的限制。"
+    },
+    {
+      "rank": 3,
+      "title": "Wells Fargo resets Microsoft stock price target for 2026",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 18:18",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "富國銀行調整目標價，反映市場對於過去一年資本支出過高導致股價修正的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "How To Trade SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA Using Technical Analysis",
+      "publisher": "Benzinga",
+      "date": "2026-08-13 08:59",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為技術面交易建議，未對公司基本面產生實質影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Berkshire Bought Alphabet Stock in Q2—and Maybe Microsoft Too",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 20:07",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場對於波克夏持股的猜測，尚未獲得官方證實。"
+    },
+    {
+      "rank": 3,
+      "title": "Sam Altman Is Pushing for a $1 Trillion IPO Valuation for OpenAI",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 18:55",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "OpenAI 的 IPO 估值目標對 Microsoft 而言影響複雜，既是合作夥伴也是潛在的資本結構變數。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
