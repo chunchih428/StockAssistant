@@ -1,0 +1,111 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-08-18",
+  "source_file": "cache/2026-08-18/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 3,
+    "bearish_count": 4,
+    "neutral_count": 3,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場資金在 AI 產業鏈中進行輪動，導致 QQQ 面臨短期贖回壓力，但長期投資價值仍受市場看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "History Says a $10,000 Investment in the QQQ Will Be Worth $66,000 in 10 Years",
+      "publisher": "Motley Fool",
+      "date": "2026-08-17",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "基於歷史數據的長期回測分析，強調 QQQ 作為科技成長型 ETF 的長期複利效應，對投資人信心有正面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Navigating AI Waves: How Capital Rotation Will Propel SPY And QQQ",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-11",
+      "impact": "medium",
+      "category": "市場策略",
+      "reason": "分析指出 AI 投資資金將從晶片股輪動至大型科技股，預期此趨勢將推動 QQQ 後續表現，建議逢低布局。"
+    },
+    {
+      "rank": 3,
+      "title": "Anthropic's Revenue Jumps 14x; Chinese AI Targets Nvidia's Moat — AI Gets Even Hotter",
+      "publisher": "Benzinga",
+      "date": "2026-08-17",
+      "impact": "low",
+      "category": "產業動態",
+      "reason": "AI 產業營收爆發性成長，顯示 AI 需求持續強勁，間接有利於 QQQ 成分股中的科技巨頭。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "QUICK SPARK: $3.6B Flows Into SPY in One Day; QQQ, SOXX Lead ETF Redemptions",
+      "publisher": "Benzinga",
+      "date": "2026-08-13",
+      "impact": "high",
+      "category": "資金流向",
+      "reason": "數據顯示 QQQ 出現顯著贖回壓力，資金流向更廣泛的市場指數（如 SPY），反映投資人短期避險情緒。"
+    },
+    {
+      "rank": 2,
+      "title": "TQQQ: Tread Cautiously Ahead Of The Next Round Of Tech Earnings",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-13",
+      "impact": "medium",
+      "category": "風險警示",
+      "reason": "針對槓桿型 ETF 的警示，提醒投資人在科技股財報季前應保持謹慎，避免市場波動帶來的放大損失。"
+    },
+    {
+      "rank": 3,
+      "title": "BWET ETF Up More Than 1,600% in 2026: Here's Why It's Beating QQQ and SPY",
+      "publisher": "Benzinga",
+      "date": "2026-08-15",
+      "impact": "low",
+      "category": "績效比較",
+      "reason": "市場出現績效遠超 QQQ 的替代性 ETF，可能導致部分追求高報酬的資金分流。"
+    },
+    {
+      "rank": 4,
+      "title": "TQQQ: Why I'm Not Buying The 15% Dip",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-12",
+      "impact": "low",
+      "category": "投資觀點",
+      "reason": "作者對科技股回調持保留態度，認為即便出現 15% 的跌幅，仍不足以構成進場訊號，反映市場對科技股估值的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "How To Trade SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA Using Technical Analysis",
+      "publisher": "Benzinga",
+      "date": "2026-08-13",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "純粹的技術面分析教學，未對 QQQ 基本面做出評價，僅提供交易策略參考。"
+    },
+    {
+      "rank": 2,
+      "title": "QQQI’s 14% Yield Erases a $500,000 Cost Basis in Seven Years, Then the Tax Bill Lands",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-08-17",
+      "impact": "low",
+      "category": "稅務規劃",
+      "reason": "討論衍生性商品 ETF 的稅務影響，屬於特定產品的財務規劃議題，對 QQQ 本身股價影響中性。"
+    },
+    {
+      "rank": 3,
+      "title": "Breadth Rebounds as Small Caps Hold Firm Near Resistance",
+      "publisher": "ChartMill",
+      "date": "2026-08-12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "描述市場廣度改善與 QQQ 在高檔盤整的技術狀態，屬於市場現況描述，無明顯多空傾向。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

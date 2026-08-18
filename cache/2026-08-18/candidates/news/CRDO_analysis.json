@@ -1,0 +1,56 @@
+{
+  "ticker": "CRDO",
+  "company": "Credo Technology Group Holding Ltd",
+  "analysis_date": "2026-08-18",
+  "source_file": "cache/2026-08-18/candidates/news/CRDO.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場高度看好 Credo 在 AI 基礎設施與高速互連技術的成長潛力，儘管面臨同業財報帶來的潛在風險警示。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Credo (CRDO) Soars Ahead of Earnings, Revenues Seen to More-Than-Double",
+      "publisher": "Insider Monkey",
+      "date": "2026-08-18",
+      "impact": "high",
+      "category": "財報預期",
+      "reason": "市場預期公司營收將實現翻倍成長，強勁的財報預期直接推動股價上漲，顯示投資人對其核心業務動能信心充足。"
+    },
+    {
+      "rank": 2,
+      "title": "Credo's Growth Story Is Only Getting Started",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-12",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 Credo 作為 AI 基礎設施建設的純粹受惠者，其成長週期才剛開始，具備長期投資價值。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Credo (CRDO) Quietly Redefining Its AI Moat Through Open Interconnect Standards and Memory Solutions?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-13",
+      "impact": "medium",
+      "category": "技術發展",
+      "reason": "探討公司透過開放互連標準與記憶體解決方案建立 AI 護城河，技術領先優勢有助於鞏固市場地位。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Credo: Lumentum's Earnings Results Were A Warning Shot",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-12",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "引用同業 Lumentum 的財報結果作為警示，暗示光通訊與 AI 供應鏈可能面臨需求波動或競爭壓力，對 Credo 的短期展望構成潛在風險。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}
