@@ -1,0 +1,120 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-08-18",
+  "source_file": "cache/2026-08-18/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 5,
+    "bearish_count": 8,
+    "neutral_count": 7,
+    "overall_sentiment": "mixed",
+    "key_theme": "Apple 在美國擴大製造布局與 AI 策略進展，但面臨地緣政治壓力（中國晶片限制）及市場對硬體定價與競爭的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple says $60 billion of its U.S. investment push is going to Texas",
+      "publisher": "CNBC",
+      "date": "2026-08-13",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "Apple 宣布在德州投入 600 億美元進行製造與供應鏈在地化，有助於降低對海外供應鏈的依賴並強化品牌形象。"
+    },
+    {
+      "rank": 2,
+      "title": "Ross Gerber Says 'Now Is a Good Time' to Buy iPhone 17 as Apple Prepares for Potential Price Hike With Next Model",
+      "publisher": "Benzinga",
+      "date": "2026-08-17",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析師看好 iPhone 產品週期與潛在的定價策略調整，認為目前是進場布局的時機。"
+    },
+    {
+      "rank": 3,
+      "title": "Maryland tax court voids digital ad tax, orders refunds to Apple, Google and Peacock TV",
+      "publisher": "Yahoo",
+      "date": "2026-08-14",
+      "impact": "low",
+      "category": "法規",
+      "reason": "馬里蘭州法院裁定數位廣告稅無效，對 Apple 等科技巨頭而言是潛在的稅務成本節省利多。"
+    },
+    {
+      "rank": 4,
+      "title": "Apple Makes Crucial Move in China AI Race",
+      "publisher": "Yahoo",
+      "date": "2026-08-14",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Apple 積極布局中國 AI 市場，試圖填補 iPhone 在當地競爭力缺口，對維持市占率至關重要。"
+    },
+    {
+      "rank": 5,
+      "title": "Apple considering publisher partnerships to add more news & information to Siri",
+      "publisher": "CNBC",
+      "date": "2026-08-13",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "透過與出版商合作強化 Siri 功能，有助於提升 AI 助理的實用性與用戶黏著度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "US presses Apple to avoid Chinese memory chips amid shortage",
+      "publisher": "WSJ",
+      "date": "2026-08-17",
+      "impact": "high",
+      "category": "法規",
+      "reason": "美國政府施壓 Apple 停止採購中國記憶體晶片，這將導致供應鏈成本上升並面臨地緣政治風險，選此篇作為代表是因為其涵蓋了後續多篇相關報導的核心衝突。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple Stock Stalls as Jefferies Cuts Target to $263.66",
+      "publisher": "Yahoo",
+      "date": "2026-08-14",
+      "impact": "medium",
+      "category": "財報",
+      "reason": "Jefferies 下調目標價，主因是零組件成本上升及 iPhone 定價空間受限，反映市場對獲利能力的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
+      "publisher": "CNBC",
+      "date": "2026-08-12",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "Google 透過 Pixel 11 與 Gemini AI 積極挑戰 Apple 的手機市場地位，加劇了硬體與 AI 軟體的競爭壓力。"
+    },
+    {
+      "rank": 4,
+      "title": "KeyBanc Has Message For Apple Stock Investors",
+      "publisher": "Yahoo",
+      "date": "2026-08-14",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "KeyBanc 指出短期需求信號雖強，但長期成長的可持續性仍面臨結構性挑戰。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Sandisk, Micron, Coherent, Boeing, Apple, Amazon, and More Stocks That Explain Today’s Market",
+      "publisher": "Barrons.com",
+      "date": "2026-08-17",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場概覽報導，未針對 Apple 提供具體基本面分析。"
+    },
+    {
+      "rank": 2,
+      "title": "Assessing Apple's Performance Against Competitors In Technology Hardware, Storage & Peripherals Industry",
+      "publisher": "Benzinga",
+      "date": "2026-08-17",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "屬於行業競爭力評估報告，內容較為中性且缺乏即時催化劑。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

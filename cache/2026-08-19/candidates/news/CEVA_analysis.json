@@ -1,0 +1,102 @@
+{
+  "ticker": "CEVA",
+  "company": "CEVA",
+  "analysis_date": "2026-08-16",
+  "source_file": "cache/2026-08-16/candidates/news/CEVA.json",
+  "summary": {
+    "total_articles": 14,
+    "bullish_count": 7,
+    "bearish_count": 3,
+    "neutral_count": 4,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司第二季財報表現優於預期，且邊緣 AI 與授權業務成長強勁，但分析師對目標價調整分歧，且市場擔憂高估值與稀釋效應。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "CEVA Q2 Adj. EPS $0.08 Beats $0.07 Estimate, Sales $29.033M Beat $28.170M Estimate",
+      "publisher": "Benzinga",
+      "date": "2026-08-10 07:02",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第二季營收與每股盈餘均超越市場預期，顯示核心授權業務成長動能強勁，為股價提供基本面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "CEVA Handset, AI Momentum Seen Supporting Growth, UBS Says",
+      "publisher": "MT Newswires",
+      "date": "2026-08-11 17:02",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "瑞銀指出手機市場與邊緣 AI 需求將持續推動公司成長，確認了長期技術授權的市場競爭力。"
+    },
+    {
+      "rank": 3,
+      "title": "Rosenblatt Maintains Buy on CEVA, Raises Price Target to $49",
+      "publisher": "Benzinga",
+      "date": "2026-08-11 08:40",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Rosenblatt 分析師 Kevin Cassidy 對公司前景表示樂觀，並上調目標價至 $49，反映對其技術授權業務的信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Ceva Tops Q2 Targets On Edge AI Tech Licensing",
+      "publisher": "Investor's Business Daily",
+      "date": "2026-08-10 20:53",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "報導強調邊緣 AI 技術授權是推動第二季業績超越目標的關鍵驅動力，驗證了公司轉型策略的成功。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "CEVA: Growth Is Picking Up, But The Shares Are Still Relatively Expensive",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-12 12:55",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出儘管營收成長，但 56 倍的預期本益比過高，且存在股權稀釋風險，對當前股價估值提出警示。"
+    },
+    {
+      "rank": 2,
+      "title": "TD Cowen Maintains Buy on CEVA, Lowers Price Target to $45",
+      "publisher": "Benzinga",
+      "date": "2026-08-11 11:54",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "儘管維持買入評級，但 TD Cowen 下調目標價，反映出對短期獲利成長空間的保守看法。"
+    },
+    {
+      "rank": 3,
+      "title": "Oppenheimer Maintains Outperform on CEVA, Lowers Price Target to $38",
+      "publisher": "Benzinga",
+      "date": "2026-08-11 09:24",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "Oppenheimer 將目標價大幅下調至 $38，顯示分析師對公司未來獲利能力的預期有所修正。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "CEVA, Inc. (CEVA) Q2 2026 Earnings Call Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-10 13:48",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "提供財報會議原始紀錄，供投資人自行解讀公司營運細節，無直接市場情緒導向。"
+    },
+    {
+      "rank": 2,
+      "title": "Ceva shares slip despite Q2 earnings beat and stronger licensing revenue",
+      "publisher": "InvestorsHub",
+      "date": "2026-08-10 12:52",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導股價在財報公布後出現下跌，反映市場「利多出盡」的心理，屬於短期技術性修正。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

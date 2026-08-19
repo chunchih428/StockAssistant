@@ -1,0 +1,102 @@
+{
+  "ticker": "IBIT",
+  "company": "Bitcoin",
+  "analysis_date": "2026-08-18",
+  "source_file": "cache/2026-08-18/holdings/news/IBIT.json",
+  "summary": {
+    "total_articles": 14,
+    "bullish_count": 6,
+    "bearish_count": 4,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "機構投資者如 Paul Tudor Jones 與摩根士丹利在 Q2 持續增持 IBIT，顯示大型資本對比特幣現貨 ETF 的長期信心回升。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Paul Tudor Jones Is Buying Bitcoin ETF IBIT Again — But His Trade Has Changed",
+      "publisher": "Benzinga",
+      "date": "2026-08-17 14:08",
+      "impact": "high",
+      "category": "機構持倉",
+      "reason": "知名對沖基金經理 Paul Tudor Jones 增持 IBIT 18.9 %，並轉向直接持有比特幣資產，顯示專業投資人對該 ETF 的長期價值認可。"
+    },
+    {
+      "rank": 2,
+      "title": "QUICK SPARK: Morgan Stanley, JPMorgan Load Up on Bitcoin, Ethereum ETFs",
+      "publisher": "Benzinga",
+      "date": "2026-08-14 12:52",
+      "impact": "high",
+      "category": "機構持倉",
+      "reason": "華爾街巨頭摩根士丹利與摩根大通在 Q2 大舉增持比特幣 ETF，為市場注入強大的機構流動性與信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Harvard Did Not Sell Its Bitcoin ETF Holdings in Q2, Discloses No New Ethereum ETF Stake",
+      "publisher": "Benzinga",
+      "date": "2026-08-17 05:33",
+      "impact": "medium",
+      "category": "機構持倉",
+      "reason": "哈佛大學捐贈基金維持 IBIT 持倉不變，顯示長期機構投資者並未因短期波動而拋售，具有穩定市場情緒的作用。"
+    },
+    {
+      "rank": 4,
+      "title": "As Bitcoin Runs Out Of Sellers, I Am Allocating 5% Of My Retirement Account To IBIT",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-11 09:19",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "分析師認為比特幣已完成築底，建議將部分退休金配置於 IBIT，反映市場對其作為投資組合多元化工具的看好。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Will Bitcoin Drop Below $60K as BTC ETFs See Biggest Outflow in 6 Weeks?",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-08-17 20:55",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "比特幣 ETF 出現 6 週以來最大規模資金流出，引發市場對價格跌破 6 萬美元關卡的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Bitcoin Drop Cost Abu Dhabi $118 Million: Will They Sell?",
+      "publisher": "BeInCrypto",
+      "date": "2026-08-15 11:05",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "比特幣價格下跌導致阿布達比相關投資損失 1.18 億美元，市場擔憂大型持有者可能因虧損而選擇拋售。"
+    },
+    {
+      "rank": 3,
+      "title": "Bitcoin Is Down 44% and Its Miners Are Up 90%. The AI Pivot Explains Everything.",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-08-16 18:21",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "指出比特幣價格大幅回調，且資金流向轉往 AI 相關礦企，對 IBIT 的短期資金吸引力構成排擠效應。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Bitcoin ETFs Are Back but It's 'Too Early' to Get Bullish, Wintermute Says",
+      "publisher": "Benzinga",
+      "date": "2026-08-11 13:38",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "Wintermute 認為儘管流入量回升，但仍需觀察持續性，對短期走勢持保留態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Crypto Market Today, Aug. 12: Bitcoin Slips Despite Cooling Inflation",
+      "publisher": "Motley Fool",
+      "date": "2026-08-12 22:16",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管通膨數據降溫，比特幣價格仍出現下滑，顯示宏觀經濟數據對加密貨幣的短期影響力減弱。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,38 @@
+{
+  "ticker": "GTLB",
+  "company": "GitLab Inc.",
+  "analysis_date": "2026-08-17",
+  "source_file": "cache/2026-08-17/candidates/news/GTLB.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場分析師上調目標價與內部高層減持股份帶來的多空訊息交織。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "RBC Capital Maintains Sector Perform on GitLab, Raises Price Target to $46",
+      "publisher": "Benzinga",
+      "date": "2026-08-14 09:58",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "RBC Capital 分析師 Matthew Hedberg 維持 GitLab 的 Sector Perform 評級，並將目標價上調至 $46，顯示市場對公司長期成長潛力與營運表現持正面看法。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "GitLab Chief Accounting Officer Simon Mundy Sells 8,725 Shares",
+      "publisher": "Motley Fool",
+      "date": "2026-08-12 18:49",
+      "impact": "low",
+      "category": "內部人交易",
+      "reason": "會計長 Simon Mundy 出售 8,725 股公司股票，雖然內部人賣股通常被視為獲利了結或個人財務規劃，但仍可能引發投資人對公司短期股價動能的疑慮。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,84 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-08-18",
+  "source_file": "cache/2026-08-18/candidates/news/NFLX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "知名投資人 Bill Ackman 重返 Netflix 持股，市場對其串流媒體龍頭地位與獲利成長潛力重拾信心。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bill Ackman Takes Another Swing At NFLX After Colossal 2022 Loss: 'Netflix Has Effectively Won The Streaming Wars'",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 08:00",
+      "impact": "high",
+      "category": "機構投資動態",
+      "reason": "Bill Ackman 的 Pershing Square 重新買入 315 萬股 Netflix 股票，並公開宣稱 Netflix 已贏得串流媒體戰爭，此舉極大提振了市場信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix Doubles Down on Live Sports With Massive Push",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 18:14",
+      "impact": "medium",
+      "category": "業務策略",
+      "reason": "Netflix 積極擴展直播體育賽事，顯示公司正透過差異化內容提升用戶黏著度與廣告價值，長期成長動能看好。"
+    },
+    {
+      "rank": 3,
+      "title": "Down 39%, Should You Buy the Dip in Netflix Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 22:29",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析指出 Netflix 過去一年股價下跌 39% 但獲利成長 35%，估值與基本面出現背離，提供投資人逢低布局的機會。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Is Netflix Stock Falling on Monday? — Netflix Inc. (NASDAQ: NFLX) stock slips as market concerns over third-quarter revenue and earnings guidance outweigh Bil",
+      "publisher": "Benzinga",
+      "date": "2026-08-17 11:43",
+      "impact": "medium",
+      "category": "財報預期",
+      "reason": "市場對第三季營收與獲利指引感到擔憂，導致股價在週一出現回調，顯示投資人對短期財報表現仍保持謹慎。"
+    },
+    {
+      "rank": 2,
+      "title": "Coatue Management Cuts Share Stake In Netflix By 31.7% To 4.7M Shares — -SEC Filing",
+      "publisher": "Benzinga",
+      "date": "2026-08-14 16:41",
+      "impact": "low",
+      "category": "機構投資動態",
+      "reason": "Coatue Management 減持 31.7% 的持股，顯示部分大型機構在股價波動中選擇獲利了結或調整投資組合。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "SanDisk, Workday, Applied Materials, Netflix and Reddit: Why These 5 Stocks Are on Investors' Radars Today",
+      "publisher": "Benzinga",
+      "date": "2026-08-13 21:37",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場熱門股清單提及，未包含針對 Netflix 的具體利多或利空分析，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Cisco, Netflix, CrowdStrike And An Industrial Stock On CNBC’s ‘Final Trades’",
+      "publisher": "Benzinga",
+      "date": "2026-08-14 08:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "投資專家在節目中將 Netflix 列為最終交易標的之一，屬於個人觀點分享，不構成重大基本面變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

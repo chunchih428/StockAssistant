@@ -1,0 +1,75 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy",
+  "analysis_date": "2026-08-18",
+  "source_file": "cache/2026-08-18/holdings/news/CEG.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 5,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 數據中心對核能電力需求的強勁增長，公司透過簽署長期購電協議 (PPA) 與優異的財報表現，持續鞏固其市場領導地位。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Constellation Energy (CEG) Q2 2026 Earnings Call Transcript — Nuclear PPAs surge as adjusted operating earnings jump to $2.55 per share.",
+      "publisher": "Yahoo",
+      "date": "2026-08-13 12:45",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "每股調整後營運盈餘達 2.55 美元，且核能購電協議 (PPA) 需求激增，顯示公司核心業務獲利能力顯著提升。"
+    },
+    {
+      "rank": 2,
+      "title": "Constellation Energy: Higher Guidance And Nuclear Scarcity Are Starting To Pay Off",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-11 11:07",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "分析指出核能稀缺性與 AI 電力需求帶動公司獲利，加上股票回購計畫，進一步支撐每股盈餘 (EPS) 成長。"
+    },
+    {
+      "rank": 3,
+      "title": "Constellation Energy's nuclear capacity enables it to grow from AI: Powers Advisory's Matt Powers",
+      "publisher": "CNBC",
+      "date": "2026-08-11 14:58",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "專家 Matt Powers 強調公司核能產能是參與 AI 基礎設施成長的關鍵路徑，具備長期結構性利多。"
+    },
+    {
+      "rank": 4,
+      "title": "The Biggest AI Power Opportunity May Be Hiding in Constellation Energy",
+      "publisher": "Barchart",
+      "date": "2026-08-10 15:28",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場觀點認為公司在 AI 能源供應鏈中被低估，具備極高的潛在成長空間。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Constellation (CEG) Locks In More Power Deals As Nuclear Output Slips",
+      "publisher": "Insider Monkey",
+      "date": "2026-08-09 11:21",
+      "impact": "low",
+      "category": "營運狀況",
+      "reason": "儘管簽署了更多電力合約，但核能產出下滑可能對短期營運效率造成壓力，需持續觀察產能利用率。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Argus Research Maintains Buy on Constellation Energy, Lowers Price Target to $325",
+      "publisher": "Benzinga",
+      "date": "2026-08-11 09:10",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "維持買進評級顯示長期看好，但下調目標價至 325 美元反映了對短期估值或市場波動的審慎態度。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
