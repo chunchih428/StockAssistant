@@ -1,0 +1,92 @@
+{
+  "ticker": "ETN",
+  "company": "Eaton",
+  "analysis_date": "2026-08-18",
+  "source_file": "cache/2026-08-18/holdings/news/ETN.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 7,
+    "bearish_count": 0,
+    "neutral_count": 3,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Eaton 受惠於 AI 資料中心基礎設施需求強勁，透過與 NVIDIA 等科技巨頭合作及策略性併購，持續推動營收成長與市場估值提升。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Evercore ISI Group Maintains Outperform on Eaton Corp, Raises Price Target to $515",
+      "publisher": "Benzinga",
+      "date": "2026-08-11 08:50",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 David Raso 維持「優於大盤」評級並將目標價調升至 515 美元，反映市場對其長期獲利能力的強烈信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Trane Technologies And Eaton Collaborate To Accelerate AI-Factory Efficiency With Integrated Advanced Thermal Management And Electrical System Architectures",
+      "publisher": "Benzinga",
+      "date": "2026-08-17 06:32",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "Eaton 與 Trane Technologies 合作開發針對 NVIDIA DSX AI 工廠的整合設計，此舉鞏固了 Eaton 在 AI 基礎設施供應鏈中的關鍵地位。選此篇作為代表，因其詳細說明了技術整合的具體應用。"
+    },
+    {
+      "rank": 3,
+      "title": "Eaton's Data Center Growth Is Increasingly Reflected In Valuation",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-12 15:21",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "第二季營收成長 21 % 且訂單積壓量持續增加，顯示 AI 驅動的資料中心需求已實質轉化為財務表現。"
+    },
+    {
+      "rank": 4,
+      "title": "Infleqtion (INFQ) Lands Quantum Grid Reliability Subcontract",
+      "publisher": "Yahoo",
+      "date": "2026-08-16 04:15",
+      "impact": "medium",
+      "category": "技術研發",
+      "reason": "Eaton 與 Infleqtion 合作將量子計算應用於電網可靠性，展現公司在能源管理技術的前瞻性佈局。"
+    },
+    {
+      "rank": 5,
+      "title": "Eaton's Strategic Buyouts to Power Its Next Growth Phase?",
+      "publisher": "Zacks",
+      "date": "2026-08-17 18:25",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "分析指出 Eaton 透過策略性併購強化競爭優勢，為下一階段的成長提供動力。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Better AI Infrastructure Stock: Vertiv vs. Eaton",
+      "publisher": "Yahoo",
+      "date": "2026-08-12 09:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 Eaton 與 Vertiv 進行比較，屬於產業競爭分析，對股價無直接影響。選此篇作為代表，因其涵蓋了兩大 AI 基礎設施龍頭的比較。"
+    },
+    {
+      "rank": 2,
+      "title": "Are Wall Street Analysts Predicting Eaton Corporation Stock Will Climb or Sink?",
+      "publisher": "Barchart",
+      "date": "2026-08-17 12:11",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "彙整華爾街分析師觀點，屬於市場情緒總結，未提供新的基本面資訊。"
+    },
+    {
+      "rank": 3,
+      "title": "Eaton (ETN) Q2 2026 Earnings Call Transcript",
+      "publisher": "Motley Fool",
+      "date": "2026-08-08 02:31",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "提供財報會議原始逐字稿，屬於資訊揭露，已反映在後續的分析報告中。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

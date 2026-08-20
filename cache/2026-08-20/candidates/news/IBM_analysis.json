@@ -1,0 +1,111 @@
+{
+  "ticker": "IBM",
+  "company": "International Business Machines Corporation",
+  "analysis_date": "2026-08-18",
+  "source_file": "cache/2026-08-18/candidates/news/IBM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "IBM 透過與 OpenAI 的深度戰略合作及 Together AI 的雲端基礎設施合約，積極強化企業級 AI 解決方案與雲端運算競爭力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "publisher": "Yahoo",
+      "date": "2026-08-13",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "IBM 與 OpenAI 達成重大戰略合作，將 GPT-5.6 模型整合至 IBM Consulting 服務中，並計畫培訓數萬名顧問，此舉顯著提升 IBM 在企業 AI 轉型市場的市占率潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "IBM Lands a $240 Million AI Inference Deal",
+      "publisher": "Yahoo",
+      "date": "2026-08-11",
+      "impact": "high",
+      "category": "業務擴張",
+      "reason": "IBM 與 Together AI 簽署價值 2.4 億美元的多年期雲端合約，利用 Nvidia Blackwell 系統構建 AI 推論叢集，驗證了 IBM Cloud 在高效能 AI 運算領域的技術實力。"
+    },
+    {
+      "rank": 3,
+      "title": "Why IBM Stock Looks Like a Very Promising Long-Term Pick",
+      "publisher": "Yahoo",
+      "date": "2026-08-12",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析師看好 IBM 多項長期成長計畫及現任執行長的領導能力，認為其在企業軟體與混合雲領域具備穩健的競爭優勢。"
+    },
+    {
+      "rank": 4,
+      "title": "TD SYNNEX Expands IBM Distribution to Accelerate Partner-Led Growth Worldwide",
+      "publisher": "Yahoo",
+      "date": "2026-08-11",
+      "impact": "low",
+      "category": "通路擴張",
+      "reason": "透過擴大與 TD SYNNEX 的經銷合作，有助於 IBM 加速其產品在全球市場的滲透率與通路銷售動能。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "IBM’s CEO Just Did the Math on AI Spending — and the Numbers Don’t Add Up",
+      "publisher": "Yahoo",
+      "date": "2026-08-11",
+      "impact": "medium",
+      "category": "市場觀點",
+      "reason": "市場對大型科技公司在 AI 基礎設施上的鉅額支出是否能產生對應的投資回報提出質疑，這可能對 IBM 的長期資本支出策略構成壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "IBM Landed A $240M AI Deal. Is That Enough?",
+      "publisher": "Yahoo",
+      "date": "2026-08-12",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "儘管獲得 2.4 億美元合約，但分析師質疑相較於競爭對手，此規模對 IBM 整體營收的貢獻度是否足以支撐其高估值。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "HPE vs. IBM: Which Stock Should Value Investors Buy Now?",
+      "publisher": "Zacks",
+      "date": "2026-08-17",
+      "impact": "low",
+      "category": "投資評比",
+      "reason": "針對 IBM 與 HPE 的價值投資比較分析，未提供具體利多或利空消息，僅為投資組合配置建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Computerized Maintenance Management System (CMMS) Market Analysis and Growth Forecast 2026-2032",
+      "publisher": "Yahoo",
+      "date": "2026-08-14",
+      "impact": "low",
+      "category": "產業研究",
+      "reason": "報告將 IBM 列為 CMMS 市場主要參與者之一，屬於產業趨勢分析，對股價無直接短期影響。"
+    },
+    {
+      "rank": 3,
+      "title": "International Business Machines (IBM), What Is Driving Fresh Attention Today?",
+      "publisher": "Yahoo",
+      "date": "2026-08-11",
+      "impact": "low",
+      "category": "財務融資",
+      "reason": "報導 IBM 完成 9.97 億加幣的債券發行，屬於正常的資本結構調整與融資活動。"
+    },
+    {
+      "rank": 4,
+      "title": "The Zacks Analyst Blog Highlights Quantinuum, IonQ, NVIDIA, IBM, QTUM, ARQQ, WQTM and CHPX",
+      "publisher": "Yahoo",
+      "date": "2026-08-12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "提及量子運算 ETF 的發展趨勢，IBM 被列為相關領域的參與者，缺乏具體公司層面的重大新聞。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
