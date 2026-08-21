@@ -1,0 +1,65 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-08-21",
+  "source_file": "cache/2026-08-21/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 0,
+    "bearish_count": 4,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "近期市場資金流向顯示 QQQ 面臨贖回壓力，且在市場廣度轉弱的環境下，表現落後於其他特定主題型 ETF。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "QUICK SPARK: SPY Gets $1.9B Boost in One Day as QQQ, GLD and SOXL See Outflows",
+      "publisher": "Benzinga",
+      "date": "2026-08-20 10:18",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "單日出現顯著資金贖回，顯示機構投資人正將資金從 QQQ 轉向 SPY 等更廣泛的市場指數，對股價構成直接賣壓。"
+    },
+    {
+      "rank": 2,
+      "title": "Breadth Slips to Neutral-Positive as Selling Pressure Builds",
+      "publisher": "ChartMill",
+      "date": "2026-08-19 09:29",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場下跌家數占比達 64.5%，下行動能增強，導致 QQQ 等主要指數 ETF 面臨技術性回調壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "STK: This Tech CEF Is Crushing QQQ, And Is Still Trading At A Discount",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-20 08:08",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "透過比較分析指出主動型科技基金 STK 在績效上優於 QQQ，可能導致部分追求主動管理與折價空間的投資人轉移配置。"
+    },
+    {
+      "rank": 4,
+      "title": "BWET ETF Up More Than 1,600% in 2026: Here's Why It's Beating QQQ and SPY",
+      "publisher": "Benzinga",
+      "date": "2026-08-15 16:51",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "BWET ETF 的超額報酬凸顯了 QQQ 在特定市場環境下的績效落後，對投資人信心產生邊際負面影響。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Anthropic's Revenue Jumps 14x; Chinese AI Targets Nvidia's Moat",
+      "publisher": "Benzinga",
+      "date": "2026-08-17 13:37",
+      "impact": "low",
+      "category": "產業趨勢",
+      "reason": "報導 AI 產業競爭加劇與個別公司營收成長，雖與 QQQ 持股權重高的科技股相關，但未直接對指數本身產生明確多空指引。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

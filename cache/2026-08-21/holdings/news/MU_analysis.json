@@ -1,0 +1,93 @@
+{
+  "ticker": "MU",
+  "company": "Micron Technology",
+  "analysis_date": "2026-08-21",
+  "source_file": "cache/2026-08-21/holdings/news/MU.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 6,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對 AI 記憶體需求與週期性風險存在分歧，導致股價在強勁基本面預期與機構減持壓力下呈現震盪。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Micron Could Double From Here and Hit $1 Trillion",
+      "publisher": "Benzinga",
+      "date": "2026-08-17 05:39",
+      "impact": "high",
+      "category": "市場展望",
+      "reason": "分析指出 Micron 受惠於強勁的 AI 記憶體週期，現金流表現優異，具備長期成長至 1 兆美元市值的潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Micron: Strong Buy As KOSPI Fear Looks Overdone",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-16 09:19",
+      "impact": "medium",
+      "category": "投資評級",
+      "reason": "分析師認為市場對韓國股市（KOSPI）的擔憂過度，Micron 在 AI 需求驅動下，未來幾年的獲利成長動能依然強勁。"
+    },
+    {
+      "rank": 3,
+      "title": "Chip Rally Broadens: AI Infrastructure Supply-Chain Names Are Leading the Market",
+      "publisher": "ChartMill",
+      "date": "2026-08-18 12:08",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "半導體市場動能轉向供應鏈，Micron 作為記憶體關鍵供應商，在 AI 基礎設施擴張中處於領先地位。"
+    },
+    {
+      "rank": 4,
+      "title": "What's Going On With Micron Technology Stock Friday? — Micron (MU) stock ticks higher premarket on surging AI memory demand and a new $250M venture fund deployment.",
+      "publisher": "Benzinga",
+      "date": "2026-08-14 05:34",
+      "impact": "medium",
+      "category": "企業投資",
+      "reason": "公司透過 2.5 億美元的創投基金部署，顯示其在 AI 生態系的積極佈局，且市場需求持續增長。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Stanley Druckenmiller Bets Big on AMZN, AMD — Dumps AVGO, INTC and MU in Q2",
+      "publisher": "Benzinga",
+      "date": "2026-08-15 04:44",
+      "impact": "high",
+      "category": "機構持倉",
+      "reason": "知名投資人 Stanley Druckenmiller 在第二季大幅減持 Micron，顯示大型機構對其短期成長前景轉趨保守。"
+    },
+    {
+      "rank": 2,
+      "title": "What's Going On With Micron Technology Stock Wednesday? — Micron stock rebounds in premarket trading after a 7% drop as Cathie Wood warns high-bandwidth memory prices face cyclic",
+      "publisher": "Benzinga",
+      "date": "2026-08-19 05:53",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "Cathie Wood 警告高頻寬記憶體（HBM）價格面臨週期性壓力，引發市場對記憶體價格觸頂的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Micron: Inventory Does Not Lie (Rating Upgrade)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-18 15:08",
+      "impact": "low",
+      "category": "投資評級",
+      "reason": "評級上調至「持有」，主要因股價修正 20% 後估值風險降低，但並未給予買進評級，顯示觀望態度。"
+    },
+    {
+      "rank": 2,
+      "title": "What's Going On With Micron Technology Stock Thursday? — Micron stock edges up in premarket trading as technicals support its long-term uptrend.",
+      "publisher": "Benzinga",
+      "date": "2026-08-20 05:51",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "僅基於技術面分析股價支撐與壓力位，缺乏基本面重大消息驅動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

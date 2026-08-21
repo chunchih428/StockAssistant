@@ -1,0 +1,56 @@
+{
+  "ticker": "ARM",
+  "company": "Arm Holdings plc",
+  "analysis_date": "2026-08-21",
+  "source_file": "cache/2026-08-21/candidates/news/ARM.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "ARM 受益於 AI 基礎設施需求強勁與技術突破，儘管公司對於轉型晶片製造的複雜性持謹慎態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "ARM Stock: The $2 Billion AI Signal Investors Shouldn’t Ignore",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-08-18",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "報導指出 20 億美元的 AI 相關訊號顯示 ARM 在人工智慧基礎設施領域的關鍵地位，為股價提供強勁的長期成長支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "ARM Holdings (NASDAQ:ARM) Shows Strong Growth and a Technical Breakout Setup",
+      "publisher": "ChartMill",
+      "date": "2026-08-14",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "基本面數據顯示 ARM 獲利能力高且成長加速，技術面出現突破訊號，吸引動能交易者關注。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Arm Holdings Stock Popped Today",
+      "publisher": "Motley Fool",
+      "date": "2026-08-13",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析 ARM 近期股價上漲的驅動因素，確認市場對其 IP 授權模式在 AI 時代的溢價能力給予正面評價。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "ARM CFO Says ‘Delivering Silicon Is Definitely More Complicated’ As Chip Designer Eyes Deals To Go From Licensing To Making Chips: Report",
+      "publisher": "Stocktwits",
+      "date": "2026-08-17",
+      "impact": "medium",
+      "category": "公司策略",
+      "reason": "CFO 對於從單純的 IP 授權轉向晶片製造的複雜性表達擔憂，市場擔心此舉可能增加營運風險與資本支出，對其輕資產模式構成潛在挑戰。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}
