@@ -1,0 +1,38 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy",
+  "analysis_date": "2026-08-21",
+  "source_file": "cache/2026-08-21/holdings/news/CEG.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "mixed",
+    "key_theme": "核能類股近期面臨市場波動，但長期基本面仍受分析師看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Prediction: Constellation Energy Reclaims Its $412 Record Before 2030",
+      "publisher": "Motley Fool",
+      "date": "2026-08-18T07:58:01Z",
+      "impact": "medium",
+      "category": "市場展望",
+      "reason": "分析師預測 Constellation Energy 的長期成長潛力，認為其股價有望在 2030 年前重回 412 美元的高點，顯示市場對其核能業務的長期信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Nuclear Stocks Plunge Tuesday: Oklo Down 5%, Constellation Energy Down 4%, NuScale Down 5%",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-08-19T03:12:19Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受整體核能類股板塊回調影響，Constellation Energy 單日下跌 4 %，反映出短期市場情緒的波動與獲利了結賣壓。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

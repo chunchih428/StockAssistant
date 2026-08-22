@@ -1,0 +1,93 @@
+{
+  "ticker": "VOO",
+  "company": "S&P 500",
+  "analysis_date": "2026-08-21",
+  "source_file": "cache/2026-08-21/holdings/news/VOO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 7,
+    "neutral_count": 4,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場在 AI 驅動的強勁企業獲利與高債券殖利率帶來的宏觀風險之間拉鋸，整體情緒呈現多空並陳。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "S&P 500 Just Got The Green Light To 8000",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-20 14:48",
+      "impact": "high",
+      "category": "市場展望",
+      "reason": "分析指出 AI 基本面強勁且財政部回購提供流動性，支撐指數上看 8000 點。"
+    },
+    {
+      "rank": 2,
+      "title": "S&P 500: The Bull Market That Won't Die",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-17 17:00",
+      "impact": "medium",
+      "category": "市場趨勢",
+      "reason": "強調美股市場具備超越傳統基本面的結構性支撐力量，牛市動能持續。"
+    },
+    {
+      "rank": 3,
+      "title": "S&P500: Big Changes Spark A Bullish Outlier (Technical Analysis)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-16 16:00",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "第二季 EPS 成長 50.8%，主要由 AI 資本支出驅動，顯示企業獲利能力強勁。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Warsh Under Spotlight Amid Bond Market Selloff: The Jackson Hole Preview",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-19 06:02",
+      "impact": "high",
+      "category": "宏觀經濟",
+      "reason": "債券市場拋售導致實質利率上升，可能對 S&P 500 的估值構成壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Extreme Investor Leveraging: The Market Signal That Cannot Be Ignored",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-17 16:29",
+      "impact": "medium",
+      "category": "市場風險",
+      "reason": "市場槓桿率過高且情緒過度樂觀，顯示牛市已進入後期階段，風險正在累積。"
+    },
+    {
+      "rank": 3,
+      "title": "Prepare For A Spike In Volatility",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-18 09:13",
+      "impact": "medium",
+      "category": "市場風險",
+      "reason": "地緣政治風險與油價上漲可能引發 9 月份的市場回調與波動率飆升。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "VOO vs VTI: After Comparing the Two Funds Most Americans Actually Own, One Is the Better Buy for the Next 20 Years",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-08-20 21:35",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "針對 VOO 與 VTI 的長期比較分析，屬於投資組合配置建議，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "The Outlook For S&P 500 Dividends In August 2026",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-18 07:17",
+      "impact": "low",
+      "category": "市場數據",
+      "reason": "提供股利發放的季節性預測，呈現互有漲跌的混合訊號，對整體市場影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

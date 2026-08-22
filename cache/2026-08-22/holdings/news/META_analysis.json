@@ -1,0 +1,93 @@
+{
+  "ticker": "META",
+  "company": "Meta",
+  "analysis_date": "2026-08-21",
+  "source_file": "cache/2026-08-21/holdings/news/META.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 6,
+    "bearish_count": 10,
+    "neutral_count": 4,
+    "overall_sentiment": "mixed",
+    "key_theme": "Meta 正面臨關於青少年安全與成癮問題的重大法律訴訟，但其在 AI 基礎設施的巨額投資與成長潛力仍獲得分析師與機構投資人的看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Meta's AI Spending Could Unlock 'Abundant Revenue,' Analyst Says",
+      "publisher": "Benzinga",
+      "date": "2026-08-20 05:37",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "BNP Paribas 給予 Meta 高達 855 美元的目標價，預期 AI 基礎設施投資將成為未來成長引擎，潛在漲幅達 57 %。"
+    },
+    {
+      "rank": 2,
+      "title": "Billionaire Bill Ackman Just Sold 25% of His Stake in This Big Tech Giant for 2 AI Rivals",
+      "publisher": "Yahoo",
+      "date": "2026-08-20 18:07",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名投資人 Bill Ackman 的 Pershing Square 基金增持 Meta 股份，顯示機構投資人對其 AI 轉型策略的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Meta Is Now One of Microsoft's Largest AI Customers",
+      "publisher": "Bloomberg",
+      "date": "2026-08-20 18:17",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "Meta 成為 Microsoft 的大型 AI 客戶，顯示其在 AI 運算資源上的積極佈局與對技術領先地位的追求。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Meta Slips as $200 Billion Youth-Safety Trial Intensifies",
+      "publisher": "Yahoo",
+      "date": "2026-08-20 19:40",
+      "impact": "high",
+      "category": "法律訴訟",
+      "reason": "針對青少年安全與成癮問題的聯邦審判進入關鍵階段，潛在賠償金額高達 2,000 億美元，且前員工證詞對公司不利，引發市場擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "What the Meta Platform trial means for investors",
+      "publisher": "CNBC",
+      "date": "2026-08-18 12:51",
+      "impact": "high",
+      "category": "法律訴訟",
+      "reason": "除了鉅額罰款外，審判可能導致 Facebook 與 Instagram 的內容演算法被迫調整，這將直接威脅 Meta 的核心商業模式與廣告營收。"
+    },
+    {
+      "rank": 3,
+      "title": "Deepwater’s Gene Munster: Meta could be set up for bigger lawsuits in the future",
+      "publisher": "CNBC",
+      "date": "2026-08-18 15:52",
+      "impact": "medium",
+      "category": "法律訴訟",
+      "reason": "分析師 Gene Munster 指出，此案可能成為未來更多監管訴訟的先例，增加公司長期的法律風險與營運不確定性。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Use Meta Stock Volatility To Capture A 35% Return In A Few Weeks",
+      "publisher": "Yahoo",
+      "date": "2026-08-20 17:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討利用 Meta 股價波動進行選擇權策略交易，屬於技術性交易建議，對公司基本面無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "How options traders can carry out this curiously names strategy on Meta",
+      "publisher": "CNBC",
+      "date": "2026-08-19 13:24",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "純粹針對選擇權交易策略的討論，不涉及公司營運或財務狀況的評估。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
