@@ -1,0 +1,75 @@
+{
+  "ticker": "FSLR",
+  "company": "First Solar",
+  "analysis_date": "2026-08-21",
+  "source_file": "cache/2026-08-21/candidates/news/FSLR.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 4,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於關稅政策保護與強勁的第 2 季財報表現，分析師對 First Solar 的長期成長前景持樂觀態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Morgan Stanley Maintains Overweight on First Solar, Raises Price Target to $323",
+      "publisher": "Benzinga",
+      "date": "2026-08-18 08:59",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "摩根士丹利分析師 Andrew Percoco 維持「加碼」評級並將目標價上調至 $323，顯示華爾街對該公司在市場中的競爭優勢與獲利能力信心增強。"
+    },
+    {
+      "rank": 2,
+      "title": "First Solar (FSLR) Stock Could Be 30% Undervalued As Tariff News Lifts Sentiment",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-19 06:12",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場分析指出該股目前被低估約 30 %，且關稅政策帶來的保護壁壘進一步提升了投資人情緒，有利於股價回升。"
+    },
+    {
+      "rank": 3,
+      "title": "Q2 Earnings Outperformers: First Solar (NASDAQ:FSLR) And The Rest Of The Renewable Energy Stocks",
+      "publisher": "StockStory",
+      "date": "2026-08-18 17:25",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "First Solar 在第 2 季財報中表現優於預期，證明其在再生能源產業中具備強勁的營運韌性與獲利成長動能。"
+    },
+    {
+      "rank": 4,
+      "title": "The Tariff That Helps First Solar And Hurts Everyone Else",
+      "publisher": "Insider Monkey",
+      "date": "2026-08-12 19:03",
+      "impact": "medium",
+      "category": "法規政策",
+      "reason": "關稅政策為 First Solar 建立了強大的護城河，使其在面對低價進口競爭時處於相對優勢地位，直接利好公司長期市占率。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Evercore ISI Group Maintains In-Line on First Solar, Lowers Price Target to $218",
+      "publisher": "Benzinga",
+      "date": "2026-08-17 10:55",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Evercore ISI 分析師 Nicholas Amicucci 下調目標價至 $218，反映出對該公司未來估值空間或市場競爭壓力的保守看法。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Zacks Industry Outlook Highlights First Solar, Enphase Energy and T1 Energy",
+      "publisher": "Zacks",
+      "date": "2026-08-19 07:40",
+      "impact": "low",
+      "category": "產業展望",
+      "reason": "該報導僅為產業概況分析，將 First Solar 與其他同業並列討論，未對股價產生直接的買賣訊號影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

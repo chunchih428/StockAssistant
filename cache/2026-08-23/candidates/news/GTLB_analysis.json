@@ -1,0 +1,65 @@
+{
+  "ticker": "GTLB",
+  "company": "GitLab Inc.",
+  "analysis_date": "2026-08-21",
+  "source_file": "cache/2026-08-21/candidates/news/GTLB.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 0,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管多家券商因估值調整上調了 GitLab 的目標價，但市場仍對其股價波動與內部高管拋售行為感到擔憂。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Health Catalyst, GitLab, Elastic, and Marqeta Shares Plummet, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-08-18",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價出現顯著下跌，反映出市場對於軟體類股的拋售壓力，對短期股價走勢構成負面影響。"
+    },
+    {
+      "rank": 2,
+      "title": "GitLab Chief Accounting Officer Simon Mundy Sells 8,725 Shares",
+      "publisher": "Motley Fool",
+      "date": "2026-08-12",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "會計長 Simon Mundy 拋售 8,725 股，雖然屬於個人財務規劃，但內部人賣股通常會引發投資人對公司前景的疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "B of A Securities Maintains Neutral on GitLab, Raises Price Target to $45",
+      "publisher": "Benzinga",
+      "date": "2026-08-19",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "美銀分析師 Koji Ikeda 維持中立評級，但將目標價從原先水準上調至 $45，顯示對公司基本面改善的認可，但仍對估值持保留態度。"
+    },
+    {
+      "rank": 2,
+      "title": "RBC Capital Maintains Sector Perform on GitLab, Raises Price Target to $46",
+      "publisher": "Benzinga",
+      "date": "2026-08-14",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "RBC 分析師 Matthew Hedberg 維持產業表現評級，並調升目標價至 $46，反映出市場對軟體產業估值模型的修正。"
+    },
+    {
+      "rank": 3,
+      "title": "Mizuho Maintains Neutral on GitLab, Raises Price Target to $34",
+      "publisher": "Benzinga",
+      "date": "2026-08-19",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "瑞穗分析師 Gregg Moskowitz 維持中立評級，並將目標價從 $28 上調至 $34，此舉主要為跟隨市場估值調整，對股價實質推動力有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

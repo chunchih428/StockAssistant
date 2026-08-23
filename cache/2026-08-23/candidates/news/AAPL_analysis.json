@@ -1,0 +1,183 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-08-21",
+  "source_file": "cache/2026-08-21/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 8,
+    "bearish_count": 3,
+    "neutral_count": 9,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場看好 Apple 在 AI 領域的潛力與折疊式 iPhone 的成長前景，儘管面臨歐盟法規調整的持續壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple’s Foldable iPhone is an ‘Underappreciated’ Opportunity That Could Send AAPL Stock Soaring, Says Analyst",
+      "publisher": "Benzinga",
+      "date": "2026-08-18 09:00",
+      "impact": "high",
+      "category": "產品創新",
+      "reason": "分析師預測折疊式 iPhone 到 2027 年將銷售 1,400 萬台，並將目標價調升至 400 美元，顯示市場對新硬體成長動能的高度期待。"
+    },
+    {
+      "rank": 2,
+      "title": "Could Apple Stock Be Headed to $400? — Apple shares are swinging on Monday. Rothschild Redburn upgraded the stock to Buy from Neutral rating",
+      "publisher": "Benzinga",
+      "date": "2026-08-17 15:39",
+      "impact": "high",
+      "category": "投資評級",
+      "reason": "Rothschild Redburn 將 Apple 評級上調至「買入」，並大幅調升目標價，反映機構投資人對其長期價值重估的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple Is The Most Underappreciated AI Mega-Cap, Analyst Says",
+      "publisher": "Benzinga",
+      "date": "2026-08-19 12:34",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師指出 Apple 是被低估的 AI 巨頭，隨著 AI 輪動趨勢，股價表現強勁，顯示市場正重新評估其 AI 軟硬體整合的競爭優勢。"
+    },
+    {
+      "rank": 4,
+      "title": "Why Apple Is the Blueprint for SK Hynix's AI Cash Mountain",
+      "publisher": "Benzinga",
+      "date": "2026-08-19 07:48",
+      "impact": "medium",
+      "category": "資本配置",
+      "reason": "SK Hynix 採取 Apple 式的資本配置策略，凸顯 Apple 在現金流管理與股東回報方面的業界標竿地位。"
+    },
+    {
+      "rank": 5,
+      "title": "What's Going On With Apple Stock Thursday? — AAPL holds steady despite market dip. Gene Munster eyes Apple as an underappreciated AI winner",
+      "publisher": "Benzinga",
+      "date": "2026-08-20 10:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "在市場整體回調下，Apple 股價表現抗跌，顯示其作為避險資產與 AI 成長股的雙重吸引力。"
+    },
+    {
+      "rank": 6,
+      "title": "Congressman Has Bought Nothing but Apple Since 2024, and It's All on Autopilot",
+      "publisher": "Benzinga",
+      "date": "2026-08-20 16:21",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "國會議員持續買入 Apple 股票，反映出長期投資者對公司基本面的穩定信心。"
+    },
+    {
+      "rank": 7,
+      "title": "Ross Gerber Says 'Now Is a Good Time' to Buy iPhone 17 as Apple Prepares for Potential Price Hike",
+      "publisher": "Benzinga",
+      "date": "2026-08-17 01:35",
+      "impact": "low",
+      "category": "產品定價",
+      "reason": "市場預期未來產品漲價將有助於提升毛利率，分析師建議投資人提前布局。"
+    },
+    {
+      "rank": 8,
+      "title": "Apple opens new manufacturing facility in Texas: Here's what to know",
+      "publisher": "CNBC",
+      "date": "2026-08-14 06:45",
+      "impact": "low",
+      "category": "供應鏈",
+      "reason": "德州新製造設施的啟用有助於供應鏈多元化與在地化，符合長期營運韌性需求。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Reported Aug. 14: 'U.S. Urges Apple Not to Buy Chinese Memory Chips' - WSJ Exclusive",
+      "publisher": "Benzinga",
+      "date": "2026-08-17 10:37",
+      "impact": "medium",
+      "category": "地緣政治",
+      "reason": "美國政府施壓要求 Apple 停止採購中國記憶體晶片，可能導致供應鏈成本上升或生產延遲。"
+    },
+    {
+      "rank": 2,
+      "title": "ChatGPT Can Now Control iMessage, Potentially Raising Apple Privacy Concerns",
+      "publisher": "Bloomberg",
+      "date": "2026-08-20 20:56",
+      "impact": "medium",
+      "category": "隱私與安全",
+      "reason": "ChatGPT 整合 iMessage 引發隱私疑慮，可能導致監管機構加強審查，影響 Apple 的隱私品牌形象。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple’s New CEO Could Shake Up Its Spending Strategy to Win in AI",
+      "publisher": "Barrons.com",
+      "date": "2026-08-20 21:00",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "新任執行長可能調整 AI 支出策略，市場對策略轉向的不確定性持觀望態度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Apple overhauls Europe app store fees to resolve payments clash",
+      "publisher": "CNBC",
+      "date": "2026-08-18 13:16",
+      "impact": "medium",
+      "category": "法規監管",
+      "reason": "Apple 調整歐盟 App Store 收費結構以解決監管衝突，此舉雖能降低法律風險，但同時也影響了該地區的營收結構，故視為中性調整。"
+    },
+    {
+      "rank": 2,
+      "title": "Buying an Apple product? These 4 tools can help you pay for it",
+      "publisher": "CNBC",
+      "date": "2026-08-20 08:00",
+      "impact": "low",
+      "category": "消費金融",
+      "reason": "僅為消費者提供融資工具的介紹，對股價無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Evaluating Apple Against Peers In Technology Hardware, Storage & Peripherals Industry",
+      "publisher": "Benzinga",
+      "date": "2026-08-20 05:58",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "常規的產業競爭力比較報告，未提供新的重大財務資訊。"
+    },
+    {
+      "rank": 4,
+      "title": "Klarna Stock Tries to Stabilize After 23% Plunge As German Shoppers Spoil the Party",
+      "publisher": "Benzinga",
+      "date": "2026-08-19 06:56",
+      "impact": "low",
+      "category": "合作夥伴",
+      "reason": "提及 Apple 合作夥伴 Klarna 的股價波動，對 Apple 本身影響有限。"
+    },
+    {
+      "rank": 5,
+      "title": "Comparing Apple With Industry Competitors In Technology Hardware, Storage & Peripherals Industry",
+      "publisher": "Benzinga",
+      "date": "2026-08-19 05:58",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "常規的產業比較分析，屬於例行性市場資訊。"
+    },
+    {
+      "rank": 6,
+      "title": "Assessing Apple's Performance Against Competitors In Technology Hardware, Storage & Peripherals Industry",
+      "publisher": "Benzinga",
+      "date": "2026-08-18 05:58",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "例行性的產業績效評估，不具備市場催化作用。"
+    },
+    {
+      "rank": 7,
+      "title": "Timm Schulze-Melander on foldable iPhone: ‘Match made in heaven for Apple’",
+      "publisher": "CNBC",
+      "date": "2026-08-17 13:28",
+      "impact": "low",
+      "category": "產品創新",
+      "reason": "專家對折疊式 iPhone 的正面評論，與後續更詳細的分析報告內容重疊，故歸類為中性參考。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

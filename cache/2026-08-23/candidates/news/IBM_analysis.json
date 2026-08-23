@@ -1,0 +1,102 @@
+{
+  "ticker": "IBM",
+  "company": "International Business Machines Corporation",
+  "analysis_date": "2026-08-21",
+  "source_file": "cache/2026-08-21/candidates/news/IBM.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 3,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "mixed",
+    "key_theme": "IBM 在量子運算技術取得顯著突破，但面臨大型主機業務下滑與 AI 市場競爭激烈的雙重挑戰。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "IBM Announces Successful Joining And Cooling Down Of Two Cryogenic Modules, A Precursor To Scaling Into The Ultra-Cold System Required To Link Hundreds Of Quantum Chips",
+      "publisher": "Benzinga",
+      "date": "2026-08-19 06:07",
+      "impact": "medium",
+      "category": "技術研發",
+      "reason": "成功連結並冷卻兩個低溫模組是實現 2029 年量子運算目標的關鍵里程碑，顯示 IBM 在量子硬體擴展能力上的技術領先地位。"
+    },
+    {
+      "rank": 2,
+      "title": "IBM: Big Blue Sees Red Hat; Mainframe Headwinds, Software Tailwinds",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-18 07:32",
+      "impact": "medium",
+      "category": "投資建議",
+      "reason": "分析師維持買入評級，認為儘管主機業務下滑，但軟體業務（特別是 Red Hat）的成長動能足以支撐公司價值，且股價在回調後已具備吸引力。"
+    },
+    {
+      "rank": 3,
+      "title": "Computerized Maintenance Management System (CMMS) Market Analysis and Growth Forecast 2026-2032",
+      "publisher": "Yahoo",
+      "date": "2026-08-14 09:25",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "IBM 被列為 CMMS 市場的主要參與者，隨著 AI 與物聯網驅動預測性維護需求增加，IBM 在工業軟體領域的市占率有望持續受惠。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "IBM: Big Blue Sees Red Hat; Mainframe Headwinds, Software Tailwinds",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-18 07:32",
+      "impact": "high",
+      "category": "財報表現",
+      "reason": "第二季主機業務營收下滑 42 %，顯示核心硬體業務面臨嚴重的結構性逆風，對短期營收成長構成壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Does NVIDIA Corporation (NVDA)’s AI Dominance Leave Any Room for International Business (IBM) to Catch Up?",
+      "publisher": "Insider Monkey",
+      "date": "2026-08-20 22:13",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "市場質疑 IBM 在 AI 領域的競爭力是否足以抗衡 NVIDIA，擔憂其在 AI 基礎設施與軟體生態系的市占率遭到擠壓。"
+    },
+    {
+      "rank": 3,
+      "title": "Is International Business Machines (IBM) Reasonable After A 115% Run?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-20 17:07",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "股價經歷 115 % 的大幅上漲後，市場開始質疑其估值是否過高，投資人對後續成長空間持保留態度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Can IBM Scale Quantum Computing With Its New Cryogenic Systems?",
+      "publisher": "Zacks",
+      "date": "2026-08-20 14:57",
+      "impact": "low",
+      "category": "技術研發",
+      "reason": "針對量子技術突破進行深度探討，屬於中性分析，旨在評估技術商業化的可行性與潛在挑戰。"
+    },
+    {
+      "rank": 2,
+      "title": "IBM vs. Accenture: One Trades at a 52-Week Low. The Better Dividend Stock May Surprise You.",
+      "publisher": "Barchart",
+      "date": "2026-08-20 09:28",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "將 IBM 與 Accenture 進行股息收益比較，屬於投資組合配置建議，對 IBM 本身基本面無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "IBM Stock Is Out Of Favor, But The Margin Commitment Never Came Down",
+      "publisher": "Trefis",
+      "date": "2026-08-19 20:01",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "指出儘管市場情緒冷淡，但公司對利潤率的承諾未變，屬於對公司財務紀律的客觀觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
