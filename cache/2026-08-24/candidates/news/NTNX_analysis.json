@@ -1,0 +1,102 @@
+{
+  "ticker": "NTNX",
+  "company": "Nutanix, Inc.",
+  "analysis_date": "2026-08-21",
+  "source_file": "cache/2026-08-21/candidates/news/NTNX.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 6,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "Nutanix 受惠於 AI 基礎設施合作與 AMD 的策略投資，儘管市場對成長放緩存有疑慮，但華爾街分析師普遍維持正面評級。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "RBC Capital Maintains Outperform on Nutanix, Raises Price Target to $84",
+      "publisher": "Benzinga",
+      "date": "2026-08-14",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Matthew Hedberg 維持「優於大盤」評級並調升目標價至 84 美元，顯示對公司長期獲利能力的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Nutanix Collaborates With ChronoScale To Jointly Offer Enterprise-Ready AI Infrastructure",
+      "publisher": "Benzinga",
+      "date": "2026-08-18",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 ChronoScale 合作開發企業級 AI 基礎設施，有助於強化 Nutanix 在混合雲 AI 市場的競爭地位。"
+    },
+    {
+      "rank": 3,
+      "title": "AMD filing reveals unexpected SpaceX and Nutanix bet",
+      "publisher": "TheStreet",
+      "date": "2026-08-17",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "AMD 的 13F 文件揭露其對 Nutanix 的投資，顯示產業巨頭對其技術與市場潛力的認可。"
+    },
+    {
+      "rank": 4,
+      "title": "Nutanix Stock Can Get a Big Lift From Agentic AI Growth, AMD Investment",
+      "publisher": "Barchart",
+      "date": "2026-08-20",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 Agentic AI 的成長趨勢與 AMD 的投資將成為推動股價上漲的關鍵催化劑。"
+    },
+    {
+      "rank": 5,
+      "title": "Is It Worth Investing in Nutanix (NTNX) Based on Wall Street's Bullish Views?",
+      "publisher": "Zacks",
+      "date": "2026-08-20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "綜合華爾街觀點，顯示市場對 Nutanix 的投資情緒偏向正面。"
+    },
+    {
+      "rank": 6,
+      "title": "Nutanix’s Secure AI Automation Push Might Change The Case For Investing In Nutanix (NTNX)",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-12",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "公司在安全 AI 自動化領域的投入，被視為提升長期投資價值的潛在因素。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Nutanix: Bookings Strong, Growth Slowing - Hold Into Q4 (Rating Downgrade)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-17",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "儘管訂單強勁，但成長速度放緩引發擔憂，分析師將評級下調至「持有」，建議投資人觀望至第四季。"
+    },
+    {
+      "rank": 2,
+      "title": "Nutanix (NTNX) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "publisher": "Zacks",
+      "date": "2026-08-14",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價表現弱於大盤，反映出短期內市場對該股的拋售壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Nutanix (NTNX) Advances While Market Declines: Some Information for Investors",
+      "publisher": "Zacks",
+      "date": "2026-08-20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "單純報導股價在市場下跌時逆勢上漲的現象，未提供具體基本面變動資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

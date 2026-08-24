@@ -1,0 +1,93 @@
+{
+  "ticker": "PANW",
+  "company": "Palo Alto Networks",
+  "analysis_date": "2026-08-21",
+  "source_file": "cache/2026-08-21/candidates/news/PANW.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管短期股價受市場波動影響，但華爾街分析師普遍看好其 AI 戰略布局與平台化轉型，紛紛上調目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Wells Fargo Maintains Overweight on Palo Alto Networks, Raises Price Target to $475",
+      "publisher": "Benzinga",
+      "date": "2026-08-17",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Michael Turrin 維持加碼評級並將目標價大幅上調至 475 美元，反映市場對其平台化策略的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Truist Securities Maintains Buy on Palo Alto Networks, Raises Price Target to $435",
+      "publisher": "Benzinga",
+      "date": "2026-08-19",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Junaid Siddiqui 上調目標價至 435 美元，顯示機構投資人對其長期成長潛力的認可。"
+    },
+    {
+      "rank": 3,
+      "title": "Palo Alto Networks, NTT DATA Target $1B in Strategic AI Alliance",
+      "publisher": "Benzinga",
+      "date": "2026-08-20",
+      "impact": "medium",
+      "category": "策略聯盟",
+      "reason": "與 NTT DATA 達成 10 億美元規模的 AI 戰略聯盟，為公司首個與全球系統整合商的深度合作，有助於擴大 AI 網路安全市占率。"
+    },
+    {
+      "rank": 4,
+      "title": "Palo Alto Networks Introduces Frontier AI Critical Defense Program",
+      "publisher": "Yahoo",
+      "date": "2026-08-19",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出 Frontier AI 關鍵防禦計畫，強化在 AI 安全領域的技術領先地位，符合市場對 AI 驅動資安的需求。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Palo Alto Networks (PANW) Stock Declines While Market Improves",
+      "publisher": "Yahoo",
+      "date": "2026-08-19",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價在市場整體回升時逆勢下跌 3.76 %，顯示短期內面臨獲利了結壓力或市場對其估值的修正。"
+    },
+    {
+      "rank": 2,
+      "title": "Palo Alto Networks, SentinelOne, DigitalOcean, and Commvault Stocks Trade Down",
+      "publisher": "Yahoo",
+      "date": "2026-08-19",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受 AI 領域競爭加劇影響，資安類股普遍走弱，反映投資人對產業競爭格局的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Palo Alto Networks Faces Mixed Momentum, UBS Says",
+      "publisher": "Yahoo",
+      "date": "2026-08-19",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "UBS 分析師 Roger Boyd 維持中立評級，儘管上調目標價至 390 美元，但認為公司面臨強弱參半的成長動能。"
+    },
+    {
+      "rank": 2,
+      "title": "Did New Index Inclusions and FireMon Integration Just Reframe Palo Alto Networks' (PANW) Platformized AI Security Narrative?",
+      "publisher": "Yahoo",
+      "date": "2026-08-18",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "納入以色列 TA-35 與 TA-125 指數及完成 FireMon 整合，屬於營運層面的常規進展，對股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
