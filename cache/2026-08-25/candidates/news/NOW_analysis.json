@@ -1,0 +1,102 @@
+{
+  "ticker": "NOW",
+  "company": "ServiceNow",
+  "analysis_date": "2026-08-25",
+  "source_file": "cache/2026-08-25/candidates/news/NOW.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 2,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "ServiceNow 憑藉企業級 AI 部署能力的擴展與合作夥伴關係的深化，成功緩解市場對軟體業 AI 恐慌的擔憂，並獲得分析師調升目標價與正面評價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Tech Mahindra and ServiceNow Expand Partnership to Deliver Production-Ready Enterprise AI at Scale",
+      "publisher": "Yahoo",
+      "date": "2026-08-20 15:00",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "透過與 Tech Mahindra 的深度合作，加速企業從 AI 試點轉向大規模生產部署，直接強化了 ServiceNow 在企業 AI 市場的競爭護城河。"
+    },
+    {
+      "rank": 2,
+      "title": "Software's AI Panic Is Fading, and These 10 Stocks Are the First to Benefit",
+      "publisher": "Benzinga",
+      "date": "2026-08-20 11:38",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "美國銀行 (Bank of America) 調升了 10 檔軟體股目標價，明確指出 ServiceNow 在 AI 轉型中的領先地位，有效提振市場信心。"
+    },
+    {
+      "rank": 3,
+      "title": "ServiceNow: The Growth Story Isn't Done Yet",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-21 07:13",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "分析指出該股目前的預期本益成長比 (PEG) 合理，且營收成長速度遠超同業，具備長期投資價值。"
+    },
+    {
+      "rank": 4,
+      "title": "S&P 500 Could Hit 8,000 Soon, Morningstar Says — CRM, NOW, WDAY And MSFT Lead The August Rebound",
+      "publisher": "Yahoo",
+      "date": "2026-08-20 07:52",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Morningstar 將 ServiceNow 列為引領 8 月軟體股反彈的關鍵標的，顯示市場資金重新回流至該公司。"
+    },
+    {
+      "rank": 5,
+      "title": "“The Selling Goes Too Far”: Jim Cramer Defends ServiceNow, Salesforce, and Other Software Giants Against Extinction Fears",
+      "publisher": "Yahoo",
+      "date": "2026-08-19 15:55",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "知名財經評論員 Jim Cramer 公開力挺，認為市場對軟體巨頭的拋售過度，基本面並未惡化。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Salesforce's and ServiceNow’s Business Models Are in Danger, Expert Cautions",
+      "publisher": "Benzinga",
+      "date": "2026-08-18 11:46",
+      "impact": "medium",
+      "category": "產業風險",
+      "reason": "Parnassus 投資長警告 AI 可能衝擊傳統「按人頭計費」的商業模式，對長期獲利結構提出質疑。"
+    },
+    {
+      "rank": 2,
+      "title": "ServiceNow (NOW) Faces Questions Over Acquisitions and Capital Allocation",
+      "publisher": "Insider Monkey",
+      "date": "2026-08-24 13:45",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "市場對公司近期的併購策略與資本配置效率提出疑問，可能影響投資人對管理層執行力的信心。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Salesforce Vs. ServiceNow: The Platform Play is On as AI Capital Pivots",
+      "publisher": "Yahoo",
+      "date": "2026-08-21 13:48",
+      "impact": "low",
+      "category": "產業競爭",
+      "reason": "對比 Salesforce 與 ServiceNow 在代理 AI (Agentic AI) 的不同策略，屬於中性產業分析，未對股價產生直接買賣訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "Palantir Climbs 4% Through $180, BigBear.ai Rises 4%, ServiceNow Holds Flat",
+      "publisher": "Yahoo",
+      "date": "2026-08-21 18:10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導當日股價持平的市場表現，僅為盤中交易紀錄，無重大基本面變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

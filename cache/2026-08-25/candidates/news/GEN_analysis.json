@@ -1,0 +1,47 @@
+{
+  "ticker": "GEN",
+  "company": "Gen Digital",
+  "analysis_date": "2026-08-25",
+  "source_file": "cache/2026-08-25/candidates/news/GEN.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場分析師普遍看好 Gen Digital 的低估值與強勁現金流，認為其具備雙位數成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Gen Digital: Too Cheap For Double-Digit Growth",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-22 06:32",
+      "impact": "high",
+      "category": "投資評級",
+      "reason": "該分析指出公司具備強勁的現金流與 2027 財年指引，並明確給出上看 40 美元的目標價，選此篇作為代表是因為其對成長潛力與目標價的量化分析更為具體。"
+    },
+    {
+      "rank": 2,
+      "title": "Gen Digital: A Cheap Stock With An Underappreciated Growth Opportunity",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-22 07:25",
+      "impact": "medium",
+      "category": "投資評級",
+      "reason": "強調公司交易價格低於 10 倍預期 EPS，認為市場低估了其業務轉型帶來的成長機會，屬於正面估值重估觀點。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Gen Digital Inc's Dividend Analysis",
+      "publisher": "GuruFocus.com",
+      "date": "2026-08-17 11:05",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "僅針對公司的股利政策進行客觀數據分析，未對股價未來走勢提供明確的買進或賣出建議，對股價影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

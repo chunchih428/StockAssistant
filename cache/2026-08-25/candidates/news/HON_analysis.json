@@ -1,0 +1,102 @@
+{
+  "ticker": "HON",
+  "company": "Honeywell",
+  "analysis_date": "2026-08-25",
+  "source_file": "cache/2026-08-25/candidates/news/HON.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 3,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司正透過高層人事改組與強化供應鏈管理來應對營運挑戰，市場對其估值與成長潛力看法分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Honeywell Aerospace Stock Has Fallen Far Enough. Morgan Stanley Says It’s Time to Buy.",
+      "publisher": "Yahoo",
+      "date": "2026-08-19 15:45",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Morgan Stanley 分析師 Kristine Liwag 將評級上調至買入，認為股價已跌至具備吸引力的進場點。"
+    },
+    {
+      "rank": 2,
+      "title": "Honeywell Technologies: Good Revenue Acceleration And Earnings Growth Prospects At A Reasonable Valuation",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-21 12:40",
+      "impact": "medium",
+      "category": "投資分析",
+      "reason": "報告指出 Honeywell 具備強勁的訂單成長與利潤擴張潛力，且相較於自動化同業估值偏低，具備投資價值。"
+    },
+    {
+      "rank": 3,
+      "title": "The veteran Fortune 500 CEO who turned an 80-year-old AC company into an AI darling",
+      "publisher": "Yahoo",
+      "date": "2026-08-22 09:00",
+      "impact": "low",
+      "category": "公司願景",
+      "reason": "回顧前執行長 Dave Cote 的轉型策略，強調公司在 AI 領域的佈局與長期競爭力，有助於提升市場信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "HON Stock Declines 51.5% in 6 Months: Should You Buy, Hold or Sell?",
+      "publisher": "Zacks",
+      "date": "2026-08-17 16:31",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價在 6 個月內大幅下跌 51.5%，反映出市場對公司近期營運表現與未來前景的極度擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Honeywell Aerospace targets supplier bottlenecks to boost output",
+      "publisher": "Yahoo",
+      "date": "2026-08-18 10:38",
+      "impact": "medium",
+      "category": "營運挑戰",
+      "reason": "執行長坦言上半年有 3,000 家供應商表現不佳，導致產能瓶頸，直接影響航空部門的交付能力。"
+    },
+    {
+      "rank": 3,
+      "title": "Jim Cramer Revealed What Went Wrong With Honeywell Aerospace Inc.",
+      "publisher": "Insider Monkey",
+      "date": "2026-08-15 21:36",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "知名評論員 Jim Cramer 指出公司航空部門面臨的具體營運失誤，加深了投資人對管理層執行力的疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Honeywell Technologies Appoints Billal Hammoud President, CEO Of Process Technology, Juan Picon President, CEO Of Building Automation",
+      "publisher": "Benzinga",
+      "date": "2026-08-19 08:17",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "公司進行高層人事改組，任命新部門負責人。此為常規管理調整，市場需觀察新團隊後續執行成效，故暫定為中性。"
+    },
+    {
+      "rank": 2,
+      "title": "RBC Capital Maintains Outperform on Honeywell Intl, Lowers Price Target to $293",
+      "publisher": "Benzinga",
+      "date": "2026-08-18 09:01",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "RBC Capital 維持優於大盤評級，但下調目標價，反映出對短期獲利預期的修正，多空因素抵銷。"
+    },
+    {
+      "rank": 3,
+      "title": "Honeywell Technologies Announces Leadership Updates for Process Technology and Building Automation",
+      "publisher": "Yahoo",
+      "date": "2026-08-19 13:15",
+      "impact": "low",
+      "category": "公司公告",
+      "reason": "此為與 Benzinga 報導相同之高層人事異動公告，作為重複內容，僅列為補充資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
