@@ -1,0 +1,66 @@
+{
+  "ticker": "NET",
+  "company": "Cloudflare",
+  "analysis_date": "2026-08-25",
+  "source_file": "cache/2026-08-25/holdings/news/NET.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 1,
+    "bearish_count": 3,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "受 AI 與雲端類股整體融資擔憂與市場情緒疲軟影響，Cloudflare 股價近期面臨修正壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cathie Wood's Firm Launches New ETF; Buys Broadcom, Rocket Lab, Cloudflare",
+      "publisher": "Investor's Business Daily",
+      "date": "2026-08-20 17:21",
+      "impact": "medium",
+      "category": "機構投資動態",
+      "reason": "Cathie Wood 旗下 ARK Invest 透過新 ETF 增持 Cloudflare，顯示機構投資人對其長期成長潛力仍具信心，具備正面背書效應。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Nebius Drops 4%, Cloudflare Falls 3%, Snowflake Slips: Are Financing Concerns Sinking AI-Cloud Stocks?",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-08-20 17:11",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場對 AI 與雲端產業的融資環境產生疑慮，導致 Cloudflare 等相關個股出現連帶性下跌，反映投資人對高估值科技股的風險趨避。"
+    },
+    {
+      "rank": 2,
+      "title": "MongoDB, Cloudflare, Okta, Zscaler, and Upstart Stocks Trade Down, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-08-20 22:35",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出多檔軟體與雲端股同步走弱，顯示 Cloudflare 近期股價疲軟主要受板塊輪動與整體科技股賣壓影響，而非單一公司基本面惡化。"
+    },
+    {
+      "rank": 3,
+      "title": "Nebius Group Falls 4% as $5B Convertible Settles, Datadog Drops 3%, Cloudflare Slips",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-08-24 17:43",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場持續受到大型可轉債結算與產業情緒影響，Cloudflare 股價隨同業小幅滑落，顯示短期內缺乏強勁買盤支撐。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "$1000 Invested In Cloudflare 5 Years Ago Would Be Worth This Much Today",
+      "publisher": "Benzinga",
+      "date": "2026-08-18 18:01",
+      "impact": "low",
+      "category": "歷史績效回顧",
+      "reason": "此類文章為歷史回顧性質，雖強調 Cloudflare 過去 5 年優於大盤的表現，但對當前股價走勢無直接影響，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

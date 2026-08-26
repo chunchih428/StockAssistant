@@ -1,0 +1,120 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-08-25",
+  "source_file": "cache/2026-08-25/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 6,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場高度看好 AWS 雲端成長與 AI 晶片業務的獲利潛力，儘管面臨硬體成本上升與 AI 資本支出帶來的現金流壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Amazon Stock is Trending Higher: What's Going On Today? — Amazon.com is rising Monday after Citizens reiterated a Market Outperform rating with a $315 target",
+      "publisher": "Benzinga",
+      "date": "2026-08-24",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Citizens 給予市場表現優於大盤評級，並設定 315 美元目標價，顯示華爾街對其在 OpenAI 與 Anthropic 合作下的 AI 競爭力具信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon's Custom Chip Business Crossed a $25 Billion Run Rate: Time to Load Up on Shares?",
+      "publisher": "Yahoo",
+      "date": "2026-08-22",
+      "impact": "high",
+      "category": "業務成長",
+      "reason": "自研晶片業務營收年化率突破 250 億美元，證明 Amazon 在 AI 基礎設施的垂直整合能力，有助於提升長期利潤率。"
+    },
+    {
+      "rank": 3,
+      "title": "Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-08-22",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名投資人 Stanley Druckenmiller 將 Amazon 列為 AI 基礎設施建設的核心受惠股，增強市場對其長期成長的信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Amazon to expand drone service to nearly 500 cities after targeting 1 million deliveries this year",
+      "publisher": "CNBC",
+      "date": "2026-08-19",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "無人機配送服務擴展至 500 個城市，顯示物流自動化技術取得監管突破，長期有望顯著降低最後一哩路配送成本。"
+    },
+    {
+      "rank": 5,
+      "title": "This is One of the Cheapest Magnificent Seven Stocks Right Now",
+      "publisher": "Yahoo",
+      "date": "2026-08-23",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 Amazon 估值在七大科技巨頭中相對偏低，且 AWS 成長速度創 18 季新高，基本面與股價表現存在背離，具備投資價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Amazon's Free Cash Flow Went Negative by $7.6 Billion Even as Operating Cash Flow Rose 33%. Here's the Gap AI Capex Is Actually Creating.",
+      "publisher": "Yahoo",
+      "date": "2026-08-23",
+      "impact": "high",
+      "category": "財報分析",
+      "reason": "AI 資本支出導致自由現金流轉負 76 億美元，顯示 AI 基礎設施投資對短期現金流造成沉重壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Exclusive: Amazon quietly hiked prices on Echo, Fire TV, Kindle, and eero overnight to offset ‘significant increases’ in memory costs",
+      "publisher": "Yahoo",
+      "date": "2026-08-22",
+      "impact": "medium",
+      "category": "成本壓力",
+      "reason": "硬體產品調漲價格以抵銷記憶體成本上升，反映供應鏈通膨壓力，可能影響消費性電子產品的市場需求。"
+    },
+    {
+      "rank": 3,
+      "title": "Elon Musk: “Starlink Now Has 11k Satellites in Orbit.” Amazon Hasn’t Even Cracked 1,000.",
+      "publisher": "Yahoo",
+      "date": "2026-08-21",
+      "impact": "low",
+      "category": "競爭分析",
+      "reason": "在衛星網路領域落後於 SpaceX 的 Starlink，顯示其 Kuiper 計畫在執行進度上仍面臨巨大挑戰。"
+    },
+    {
+      "rank": 4,
+      "title": "Zohran Mamdani Is Turning His Fire on Amazon",
+      "publisher": "The Wall Street Journal",
+      "date": "2026-08-25",
+      "impact": "low",
+      "category": "法規與政策",
+      "reason": "政治人物針對 Amazon 進行抨擊，可能增加未來在勞工權益與反壟斷議題上的監管風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Performance Comparison: Amazon.com And Competitors In Broadline Retail Industry",
+      "publisher": "Benzinga",
+      "date": "2026-08-24",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為產業績效比較分析，未提供具體影響股價的催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Alphabet and Amazon Are Cheaper Than the S&P 500. What's Going On?",
+      "publisher": "Yahoo",
+      "date": "2026-08-23",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討本益比指標的技術性問題，對股價無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

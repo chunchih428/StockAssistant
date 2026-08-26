@@ -1,0 +1,111 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-08-25",
+  "source_file": "cache/2026-08-25/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 4,
+    "neutral_count": 7,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場高度關注即將公布的第二季財報，儘管分析師對目標價看法分歧且面臨高層人事變動，但 AI 安全領域的技術領先地位仍支撐其長期成長預期。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Jefferies Maintains Buy on CrowdStrike Holdings, Raises Price Target to $230",
+      "publisher": "Benzinga",
+      "date": "2026-08-24 14:00",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Jefferies 分析師 Joseph Gallo 維持買入評級並上調目標價至 230 美元，顯示對公司基本面與成長潛力的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Keybanc Maintains Overweight on CrowdStrike Holdings, Raises Price Target to $240",
+      "publisher": "Benzinga",
+      "date": "2026-08-21 08:33",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Keybanc 分析師 Eric Heath 給予增持評級並將目標價調升至 240 美元，反映市場對其 AI 安全產品帶動營收成長的樂觀預期。"
+    },
+    {
+      "rank": 3,
+      "title": "Can Rising AI Security Adoption Help CrowdStrike Challenge PANW & ZS?",
+      "publisher": "Yahoo",
+      "date": "2026-08-21 15:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "CrowdStrike 在 AI 安全需求驅動下，於雲端與身分識別領域展現強勁競爭力，有助於鞏固其在網路安全市場的領導地位。"
+    },
+    {
+      "rank": 4,
+      "title": "CrowdStrike Named the Frost Radar™ Leader in Cloud Workload Protection for Fourth Consecutive Time",
+      "publisher": "Yahoo",
+      "date": "2026-08-20 12:59",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "連續第四次獲 Frost Radar™ 評選為雲端工作負載保護領導者，驗證了其技術護城河與市場影響力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike (CRWD) CTO Exit Puts AI Security Leadership In Focus",
+      "publisher": "Yahoo",
+      "date": "2026-08-20 15:13",
+      "impact": "high",
+      "category": "高層異動",
+      "reason": "全球技術長 Elia Zaitsev 離職創立 AI 安全公司，引發市場對其核心技術領導層穩定性及 AI 策略執行力的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Scotiabank Maintains Sector Outperform on CrowdStrike Holdings, Lowers Price Target to $227",
+      "publisher": "Benzinga",
+      "date": "2026-08-21 08:47",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "儘管維持優於大盤評級，但 Scotiabank 將目標價下調至 227 美元，反映對短期股價波動或獲利預期的謹慎態度。"
+    },
+    {
+      "rank": 3,
+      "title": "Why CrowdStrike (CRWD) Stock Is Trading Lower Today",
+      "publisher": "Yahoo",
+      "date": "2026-08-20 22:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日下跌 4.2%，主要受市場對特定負面消息的反應，顯示投資人對財報前夕的股價敏感度極高。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Countdown to CrowdStrike (CRWD) Q2 Earnings: A Look at Estimates Beyond Revenue and EPS",
+      "publisher": "Yahoo",
+      "date": "2026-08-21 14:15",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "市場進入財報倒數階段，投資人關注焦點已從單純的營收與 EPS 轉向更深層的營運指標，屬於財報前夕的觀望情緒。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike needs more than a beat to keep investors happy",
+      "publisher": "Yahoo",
+      "date": "2026-08-21 20:37",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "美國銀行指出市場對財報門檻設定極高，單純優於預期可能不足以支撐股價，反映市場對估值修正的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Stock of the Day: Will CrowdStrike Reverse off of this Important Level?",
+      "publisher": "Benzinga",
+      "date": "2026-08-21 13:44",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "分析 177 美元的技術支撐位，屬於技術面觀察，對基本面影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,92 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-08-25",
+  "source_file": "cache/2026-08-25/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 0,
+    "bearish_count": 6,
+    "neutral_count": 2,
+    "overall_sentiment": "bearish",
+    "key_theme": "近期 QQQ 面臨資金淨流出、技術面跌破關鍵均線以及負 Gamma 體制下的市場壓力，整體情緒偏向保守。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "QUICK SPARK: $6.4 Billion Pours into S&P 500 ETFs in One Day as QQQ Sees Outflows",
+      "publisher": "Benzinga",
+      "date": "2026-08-24 09:22",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "資金持續從 QQQ 流出並轉向 SPY 與 VOO 等標普 500 指數 ETF，顯示投資人風險偏好轉向更廣泛的市場配置，此為資金流向的負面訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "QQQ is Still in a Negative Gamma Regime. Here’s How a ‘Put Wall’ and Fibonacci Support Could Come Into Play.",
+      "publisher": "Barchart",
+      "date": "2026-08-24 18:08",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "處於負 Gamma 體制意味著市場波動性可能加劇，且賣權牆（Put Wall）的存在限制了反彈空間，技術面壓力顯著。"
+    },
+    {
+      "rank": 3,
+      "title": "Short-Term Breadth Breaks Down as Major ETFs Lose EMA Support",
+      "publisher": "ChartMill",
+      "date": "2026-08-21 12:01",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "QQQ 跌破 EMA9 短期均線支撐，且市場廣度轉弱，顯示賣壓沉重，技術結構需要修復。"
+    },
+    {
+      "rank": 4,
+      "title": "QQQ Cut Its Fee After 26 Years. On $250,000, the VGT ETF Still Saves You $225 Every Year",
+      "publisher": "Yahoo",
+      "date": "2026-08-21 13:25",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "儘管 QQQ 調降費率，但與競爭對手（如 VGT）相比成本仍高出兩倍，對長期持有者的吸引力相對受限。"
+    },
+    {
+      "rank": 5,
+      "title": "STK: This Tech CEF Is Crushing QQQ, And Is Still Trading At A Discount",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-20 08:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場出現績效優於 QQQ 的替代性科技投資工具（如 STK），且具備折價優勢，可能分流部分尋求主動式管理的資金。"
+    },
+    {
+      "rank": 6,
+      "title": "Breadth Slips to Neutral-Positive as Selling Pressure Builds",
+      "publisher": "ChartMill",
+      "date": "2026-08-19 09:29",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "市場下跌家數占比達到 64.5%，賣壓增強且動能轉弱，對 QQQ 等大型科技股 ETF 構成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Breadth Rebounds, but Index Trends Still Need Repair",
+      "publisher": "ChartMill",
+      "date": "2026-08-24 12:40",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "市場廣度雖有反彈，但 QQQ 仍處於 EMA9 之下，趨勢尚未完全扭轉，處於多空拉鋸的修復階段。"
+    },
+    {
+      "rank": 2,
+      "title": "QUICK SPARK: SPY Gets $1.9B Boost in One Day as QQQ, GLD and SOXL See Outflows",
+      "publisher": "Benzinga",
+      "date": "2026-08-20 10:18",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此為 8 月 24 日資金流出新聞的早期報導，內容重複，主要反映短期資金輪動，對長期趨勢影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
