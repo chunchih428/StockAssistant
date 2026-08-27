@@ -1,0 +1,156 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla",
+  "analysis_date": "2026-08-25",
+  "source_file": "cache/2026-08-25/holdings/news/TSLA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 8,
+    "bearish_count": 5,
+    "neutral_count": 7,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對 Tesla 即將推出的 Cybercab 充滿期待，但同時面臨中國市場大規模召回與競爭加劇的壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "JPMorgan Says Tesla Is Confident of Scaling Cybercab Operations, Touts Future Models Based on Platform",
+      "publisher": "Yahoo",
+      "date": "2026-08-22",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "JPMorgan 指出 Tesla 對 Cybercab 的擴展充滿信心，且 FSD V15 軟體被視為技術上的重大突破，有利於長期自動駕駛業務發展。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Is Tesla Stock Up Today? Nevada regulators cleared it to put as many as 5,000 driverless robotaxis on Las Vegas streets",
+      "publisher": "Yahoo",
+      "date": "2026-08-21",
+      "impact": "high",
+      "category": "監管進展",
+      "reason": "獲得內華達州監管機構批准，允許在拉斯維加斯部署高達 5,000 輛無人駕駛計程車，為 Robotaxi 商業化鋪平道路。"
+    },
+    {
+      "rank": 3,
+      "title": "Tesla Controls 59% of the U.S. EV Market -- Its Highest Share Since 2023",
+      "publisher": "Yahoo",
+      "date": "2026-08-21",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Tesla 在美國電動車市場市占率回升至 59 %，顯示其核心汽車業務在面對競爭時仍具備強大的品牌護城河。"
+    },
+    {
+      "rank": 4,
+      "title": "Tesla's Model Y L Is Coming to America. Will It Reignite Sales Growth?",
+      "publisher": "Yahoo",
+      "date": "2026-08-22",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Model Y 長續航版本（Model Y L）即將進入美國市場，有望緩解當前銷售成長放緩的壓力。"
+    },
+    {
+      "rank": 5,
+      "title": "Paul Graham Says Tesla Buyers Are Getting More Range, More Car For Less Money Than A Decade Ago",
+      "publisher": "Yahoo",
+      "date": "2026-08-23",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "知名投資人 Paul Graham 對 Tesla 的性價比給予正面評價，有助於提升品牌形象與消費者信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Tesla Recalls Nearly 3 Million EVs in China Over Door Releases That Could Trap Occupants",
+      "publisher": "Yahoo",
+      "date": "2026-08-23",
+      "impact": "high",
+      "category": "品質與召回",
+      "reason": "Tesla 在中國召回近 300 萬輛汽車，為該公司在中國史上最大規模召回，涉及車門安全隱患，恐影響品牌聲譽及產生額外維修成本。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla Sets Cybercab Launch Event for September 3 but Prediction Markets Doubt It'll Impress",
+      "publisher": "Benzinga",
+      "date": "2026-08-24",
+      "impact": "medium",
+      "category": "市場預期",
+      "reason": "預測市場顯示投資人對 9 月 3 日 Cybercab 發布會的信心不足，僅 18 % 機率認為能達成 3 萬美元以下的目標價格。"
+    },
+    {
+      "rank": 3,
+      "title": "TSLA Competitor? Xiaomi Joins NIO in Race to Build In-House Chips for Self-Driving Cars",
+      "publisher": "Benzinga",
+      "date": "2026-08-24",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "小米等中國科技巨頭投入 3 奈米自研晶片，加劇了自動駕駛領域的競爭，對 Tesla 的技術領先地位構成長期威脅。"
+    },
+    {
+      "rank": 4,
+      "title": "Tesla stops selling solar roofs a decade after launch",
+      "publisher": "Reuters",
+      "date": "2026-08-24",
+      "impact": "low",
+      "category": "業務調整",
+      "reason": "Tesla 停止銷售太陽能屋頂產品，顯示其能源業務在非核心領域的收縮與調整。"
+    },
+    {
+      "rank": 5,
+      "title": "Elon Musk's Tesla Has 'Massive Advantage' Before Selling Optimus in the Market, Says This Analyst — Crypto Prediction Market Weighs 2026 Launch Odds",
+      "publisher": "Benzinga",
+      "date": "2026-08-24",
+      "impact": "low",
+      "category": "市場預期",
+      "reason": "加密貨幣預測市場下調了 Optimus 人形機器人在 2026 年商業化發布的機率，反映市場對其開發進度的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Tesla Cybercab to launch Sept. 3 as robotaxi bet ramps up",
+      "publisher": "Yahoo Finance",
+      "date": "2026-08-24",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "關於 Cybercab 發布日期的例行報導，未提供新的財務數據或技術細節，屬市場資訊更新。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla (TSLA) Up 8% Since Last Earnings Report: Can It Continue?",
+      "publisher": "Yahoo",
+      "date": "2026-08-21",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "回顧過去一個月的股價表現與財報後走勢，屬於技術性分析，無實質利多或利空消息。"
+    },
+    {
+      "rank": 3,
+      "title": "US Stock Indices End Week Lower On Pressure From Elevated Long-Duration Treasury Yields",
+      "publisher": "Yahoo",
+      "date": "2026-08-21",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "整體市場受美債殖利率上升影響，屬於大盤宏觀環境因素，非 Tesla 公司特定消息。"
+    },
+    {
+      "rank": 4,
+      "title": "If You Invested $1000 In Tesla Stock 10 Years Ago, You Would Have This Much Today",
+      "publisher": "Benzinga",
+      "date": "2026-08-24",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "歷史績效回顧，對當前股價決策無直接影響。"
+    },
+    {
+      "rank": 5,
+      "title": "Marvell, Micron, SpaceX, XPeng, Tesla, Moderna, and More Stocks That Explain Today’s Market",
+      "publisher": "Barrons.com",
+      "date": "2026-08-24",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "綜合性市場盤點，僅提及 Tesla 為當日市場焦點之一，未深入分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

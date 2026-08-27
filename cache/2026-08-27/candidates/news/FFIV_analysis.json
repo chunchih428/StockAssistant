@@ -1,0 +1,37 @@
+{
+  "ticker": "FFIV",
+  "company": "F5",
+  "analysis_date": "2026-08-26",
+  "source_file": "cache/2026-08-26/candidates/news/FFIV.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 0,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "neutral",
+    "key_theme": "目前市場對 F5 的關注集中在估值比較與華爾街分析師的目標價評估，缺乏具體的營運催化劑。"
+  },
+  "bullish": [],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "What Are Wall Street Analysts' Target Price for F5 Stock?",
+      "publisher": "Barchart",
+      "date": "2026-08-25",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "該報導整理了華爾街分析師對 F5 的目標價共識，屬於常規的市場資訊更新，並未提供新的營運利多或利空，對股價影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "DV or FFIV: Which Is the Better Value Stock Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-08-20",
+      "impact": "low",
+      "category": "投資評級",
+      "reason": "文章將 F5 與 DoubleVerify (DV) 進行價值投資比較，旨在協助投資人進行資產配置選擇，屬於投資策略分析，不涉及公司基本面變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

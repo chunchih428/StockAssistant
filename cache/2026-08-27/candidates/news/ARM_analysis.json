@@ -1,0 +1,84 @@
+{
+  "ticker": "ARM",
+  "company": "Arm Holdings plc",
+  "analysis_date": "2026-08-25",
+  "source_file": "cache/2026-08-25/candidates/news/ARM.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 1,
+    "bearish_count": 4,
+    "neutral_count": 2,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對於 Arm 轉型投入數據中心晶片製造的策略持保留態度，擔憂其高昂的估值已過度反映未來成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "ARM Stock: The $ 2 Billion AI Signal Investors Shouldn’t Ignore",
+      "publisher": "Yahoo",
+      "date": "2026-08-18 18:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "執行長在單季內將關鍵業務管線預測翻倍，顯示 AI 相關業務動能強勁，為長期成長提供實質支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Arm (ARM) Stock Looks Above Fair Value Even After AI Progress",
+      "publisher": "Yahoo",
+      "date": "2026-08-22 03:11",
+      "impact": "high",
+      "category": "估值分析",
+      "reason": "該股今年以來漲幅已達 112.1 %，市場分析認為其當前股價已過度昂貴，估值偏離基本面。"
+    },
+    {
+      "rank": 2,
+      "title": "Arm Holdings: What The $ 25 Billion Target Actually Requires",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-21 17:44",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Arm 交易於極高倍數的本益比，反映市場對其跨足數據中心 CPU 市場有極高期待，若執行不如預期將面臨修正風險。"
+    },
+    {
+      "rank": 3,
+      "title": "ARM CFO Says ‘Delivering Silicon Is Definitely More Complicated’",
+      "publisher": "Stocktwits",
+      "date": "2026-08-17 15:23",
+      "impact": "medium",
+      "category": "營運策略",
+      "reason": "財務長坦言從單純的 IP 授權轉型為晶片製造商過程複雜，增加了營運執行風險與資本支出壓力。"
+    },
+    {
+      "rank": 4,
+      "title": "Advanced Micro Devices vs. Arm Holdings: Comparing Revenue Trends",
+      "publisher": "Yahoo",
+      "date": "2026-08-21 21:01",
+      "impact": "low",
+      "category": "競爭分析",
+      "reason": "與 AMD 連續八季營收穩定成長相比，Arm 的成長模式較不穩定，引發投資人對其營收品質的質疑。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Arm Holdings (ARM) Delivers Strong Growth, but Has the Valuation Run Too Far?",
+      "publisher": "Insider Monkey",
+      "date": "2026-08-24 13:36",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "綜合報導了強勁的成長表現與過高的估值擔憂，呈現多空平衡的觀點，未給出明確投資建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Arm Holdings (ARM) Shifts Strategy to Sell Own Data Center Chips",
+      "publisher": "Insider Monkey",
+      "date": "2026-08-24 11:38",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "報導 Arm 轉型策略的客觀事實，市場對此舉是否能帶來獲利提升仍處於觀察階段。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

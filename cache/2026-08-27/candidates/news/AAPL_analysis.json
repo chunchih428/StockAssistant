@@ -1,0 +1,138 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-08-25",
+  "source_file": "cache/2026-08-25/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 4,
+    "bearish_count": 10,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對於 Apple 在 AI 領域的落後進度與高層接班策略感到擔憂，儘管公司仍具備強大的現金流與回購能力，但面臨成長動能放緩與估值溢價的挑戰。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple Announced Its Largest-Ever Stock Buyback Under Tim Cook's Leadership",
+      "publisher": "Yahoo",
+      "date": "2026-08-22 23:20",
+      "impact": "high",
+      "category": "財務政策",
+      "reason": "大規模的股票回購計畫顯示公司對現金流的強大信心，並能有效支撐每股盈餘 (EPS) 的表現，對股東價值具有直接正面影響。"
+    },
+    {
+      "rank": 2,
+      "title": "What's Going On With Apple Stock Monday? — Apple (AAPL) outperforms during a market dip",
+      "publisher": "Benzinga",
+      "date": "2026-08-24 10:13",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "在市場整體回調時展現出抗跌性，顯示機構投資者對 Apple 作為大型科技股避風港的認可。"
+    },
+    {
+      "rank": 3,
+      "title": "Walmart Finally Gives In on Apple Pay and Google Pay",
+      "publisher": "Yahoo",
+      "date": "2026-08-21 20:42",
+      "impact": "medium",
+      "category": "產品應用",
+      "reason": "Walmart 終於支援 Apple Pay，這將擴大 Apple 在實體零售支付領域的市占率，有助於鞏固其服務生態系統的黏著度。"
+    },
+    {
+      "rank": 4,
+      "title": "Jim Cramer Wants You To Look At The Bigger Picture For Apple Inc.",
+      "publisher": "Yahoo",
+      "date": "2026-08-23 01:23",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "知名分析師對 Apple 長期表現的背書，有助於穩定散戶投資者的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Jefferies Just Said Sell Apple (AAPL). Here’s the iPhone Feature That Got Canceled",
+      "publisher": "Yahoo",
+      "date": "2026-08-21 22:11",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Jefferies 將評級下調至「賣出」，並將目標價砍至 263 美元，反映出市場對 iPhone 創新停滯與產品取消的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple Reportedly Shifts Focus To AI And Smart Glasses With Job Cuts In Siri And Vision Pro Teams",
+      "publisher": "Yahoo",
+      "date": "2026-08-22 00:15",
+      "impact": "high",
+      "category": "高層異動與組織調整",
+      "reason": "裁撤超過 200 名 Siri 與 Vision Pro 團隊員工，顯示公司在 AI 轉型過程中面臨組織陣痛與策略調整的不確定性。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple Falls as Leadership Questions Deepen Its AI Dilemma",
+      "publisher": "Yahoo",
+      "date": "2026-08-21 21:01",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場對於 Apple 是否能透過改變基礎設施策略來追趕 AI 競爭對手產生質疑，導致股價承壓。"
+    },
+    {
+      "rank": 4,
+      "title": "Every S&P 500 Index Fund Owner Holds More Nvidia Than Apple",
+      "publisher": "Yahoo",
+      "date": "2026-08-22 09:32",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "資金流向顯示 Nvidia 已取代 Apple 成為市場寵兒，這可能導致被動型基金在資產配置上對 Apple 的權重產生排擠效應。"
+    },
+    {
+      "rank": 5,
+      "title": "The Premium On AAPL Stock Vs What Its Peers Deliver",
+      "publisher": "Yahoo",
+      "date": "2026-08-21 21:45",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "指出 Apple 目前的股價溢價與其成長指標不符，暗示未來若獲利成長未達預期，估值有修正風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Apple Cut Its Standard EU App Store Commission From 30% to 26%",
+      "publisher": "Yahoo",
+      "date": "2026-08-23 04:43",
+      "impact": "low",
+      "category": "法規與合規",
+      "reason": "雖然調降佣金以應對歐盟監管，但對整體營收影響有限，屬於被動的合規性調整。"
+    },
+    {
+      "rank": 2,
+      "title": "Cowell Remains Tethered To Apple But Investors Cheer Strong Earnings",
+      "publisher": "Benzinga",
+      "date": "2026-08-24 17:52",
+      "impact": "low",
+      "category": "供應鏈動態",
+      "reason": "供應商高度依賴 Apple 的現狀未變，對 Apple 本身股價影響中性。"
+    },
+    {
+      "rank": 3,
+      "title": "Inquiry Into Apple's Competitor Dynamics In Technology Hardware",
+      "publisher": "Benzinga",
+      "date": "2026-08-24 05:58",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為產業競爭環境的常規分析，未對 Apple 產生直接利多或利空。"
+    },
+    {
+      "rank": 4,
+      "title": "Buying an Apple product? These 4 tools can help you pay for it",
+      "publisher": "CNBC",
+      "date": "2026-08-20 08:00",
+      "impact": "low",
+      "category": "產品應用",
+      "reason": "關於消費者融資工具的報導，對公司基本面無重大影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "VOO",
+  "company": "S&P 500",
+  "analysis_date": "2026-08-25",
+  "source_file": "cache/2026-08-25/holdings/news/VOO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 7,
+    "bearish_count": 8,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場在 AI 成長潛力與債券殖利率攀升帶來的估值壓力之間拉鋸，資金持續流入 S&P 500 指數型 ETF。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "QUICK SPARK: $6.4 Billion Pours into S&P 500 ETFs in One Day as QQQ Sees Outflows",
+      "publisher": "Benzinga",
+      "date": "2026-08-24 09:22",
+      "impact": "high",
+      "category": "資金流向",
+      "reason": "單日 64 億美元流入 S&P 500 相關 ETF，顯示機構與散戶對大盤指數的強勁需求，支撐 VOO 股價。"
+    },
+    {
+      "rank": 2,
+      "title": "S&P 500 Just Got The Green Light To 8000",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-20 14:48",
+      "impact": "medium",
+      "category": "市場展望",
+      "reason": "分析師指出 AI 基本面強勁與財政部回購帶來的流動性，為指數上看 8000 點提供支撐。"
+    },
+    {
+      "rank": 3,
+      "title": "1 Unstoppable Vanguard ETF I Wish I'd Bought 10 Years Ago",
+      "publisher": "Yahoo",
+      "date": "2026-08-19 17:20",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "強調 VOO 長期複利效應，強化投資人對該 ETF 作為長期核心配置的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "S&P 500 Retreats As Bond Market Bear Scares Investors",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-24 08:16",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "債券殖利率攀升引發市場恐慌，導致 S&P 500 單週下跌 1.4%，反映高利率環境對股市的壓制。"
+    },
+    {
+      "rank": 2,
+      "title": "The S&P 500 Has A Big Math Problem; How I'm Solving It",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-21 08:30",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "指出科技股權重過高且動能減弱，建議投資人採取防禦性策略，顯示市場對指數集中度風險的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Warsh Under Spotlight Amid Bond Market Selloff: The Jackson Hole Preview",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-19 06:02",
+      "impact": "medium",
+      "category": "總體經濟",
+      "reason": "預期實際利率上升可能推高長期殖利率，對 S&P 500 的估值構成下行風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "VOO vs VTI: After Comparing the Two Funds Most Americans Actually Own, One Is the Better Buy for the Next 20 Years",
+      "publisher": "Yahoo",
+      "date": "2026-08-20 22:35",
+      "impact": "low",
+      "category": "產品比較",
+      "reason": "針對 VOO 與 VTI 的長期績效比較，屬於投資組合配置建議，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Every S&P 500 Index Fund Owner Holds More Nvidia Than Apple",
+      "publisher": "Yahoo",
+      "date": "2026-08-22 09:32",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指數成分股權重變化，屬於市場結構性資訊，對整體指數影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

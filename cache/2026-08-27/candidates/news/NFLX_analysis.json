@@ -1,0 +1,111 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-08-25",
+  "source_file": "cache/2026-08-25/candidates/news/NFLX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 5,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "Netflix 展現強勁的市場韌性與廣告業務成長潛力，但面臨 YouTube 針對內容創作者的激烈競爭壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "What's Going On With Netflix Stock Wednesday? — Netflix stock climbs after Pershing Square takes a 4.9% portfolio position",
+      "publisher": "Benzinga",
+      "date": "2026-08-19",
+      "impact": "high",
+      "category": "機構投資",
+      "reason": "Pershing Square 建立 4.9% 的持倉部位，顯示大型機構對 Netflix 的長期成長與市場領導地位具備強烈信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix Has No ‘Single Silver Bullet’ To Engagement, Revenue Growth: Analyst — JPMorgan's Doug Anmuth maintains Overweight rating and $85 PT",
+      "publisher": "Benzinga",
+      "date": "2026-08-21",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "摩根大通分析師維持「加碼」評級，肯定其內容策略與多元化營收成長路徑。"
+    },
+    {
+      "rank": 3,
+      "title": "NFLX's Ad Business Focus: Can it Support Revenue Expansion?",
+      "publisher": "Yahoo",
+      "date": "2026-08-19",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "廣告業務規模化快速，直播內容與新廣告工具成為推動營收擴張的關鍵引擎。"
+    },
+    {
+      "rank": 4,
+      "title": "Netflix Gains Ground as App Bundling, Creator Push Drive Relative Strength",
+      "publisher": "Benzinga",
+      "date": "2026-08-24",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Netflix 探索第三方 App 整合與捆綁銷售策略，展現出相對於同業的股價相對強勢。"
+    },
+    {
+      "rank": 5,
+      "title": "Is Netflix (NFLX) Trading At A Discount Despite Strong Cash Flow?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-24",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "分析指出 Netflix 目前股價處於折價狀態，且具備強勁的現金流支撐，具備投資價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "YouTube Could Spark a Creator Bidding War That Hurts Netflix Stock",
+      "publisher": "Barrons.com",
+      "date": "2026-08-24",
+      "impact": "high",
+      "category": "競爭風險",
+      "reason": "YouTube 透過高額補貼與獨家激勵措施爭奪創作者，恐導致 Netflix 內容獲取成本上升並削弱競爭優勢。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix Co-Founder Reed Hastings Says Companies Aren’t Families",
+      "publisher": "Yahoo",
+      "date": "2026-08-20",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "創辦人對企業文化的言論引發市場對其人才管理與企業凝聚力的討論，雖非直接財務利空，但影響市場觀感。"
+    },
+    {
+      "rank": 3,
+      "title": "Could Investing $10,000 in Netflix Set You Up for Life?",
+      "publisher": "Yahoo",
+      "date": "2026-08-22",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "分析師認為 Netflix 難以維持過去的高速成長，對未來股價爆發力持保留態度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Which Streaming Stock Would Hold Up Better in a Recession: Netflix or Walt Disney?",
+      "publisher": "Yahoo",
+      "date": "2026-08-21",
+      "impact": "low",
+      "category": "產業比較",
+      "reason": "針對經濟衰退環境下的防禦性比較，未對 Netflix 本身營運產生直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix, Eli Lilly, Elanco Animal Health And More Stock On CNBC’s ‘Final Trades’",
+      "publisher": "Benzinga",
+      "date": "2026-08-19",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為財經節目分析師的個人投資建議，對股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

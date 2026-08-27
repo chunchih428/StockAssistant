@@ -1,0 +1,65 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy",
+  "analysis_date": "2026-08-25",
+  "source_file": "cache/2026-08-25/holdings/news/CEG.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "AI 驅動的電力需求激增為核能供應商帶來長期結構性成長機會，儘管短期面臨股價波動與分析師目標價調整。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "AI's Next Bottleneck Isn't Chips, It's Power, With Demand Expected to Soar 1,100% by 2033: Why CEG, VST, GEV Stocks Are in Focus",
+      "publisher": "Benzinga",
+      "date": "2026-08-24 07:18",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "AI 運算需求導致電力短缺，預計至 2033 年需求成長 1,100 %，Constellation Energy 作為核能發電龍頭，具備長期結構性成長優勢。"
+    },
+    {
+      "rank": 2,
+      "title": "Prediction: Constellation Energy Reclaims Its $412 Record Before 2030",
+      "publisher": "Yahoo",
+      "date": "2026-08-18 08:58",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析指出該公司目前的獲利成長速度遠高於達到歷史高點所需的年化報酬率，顯示基本面強勁，具備股價回升潛力。"
+    },
+    {
+      "rank": 3,
+      "title": "Constellation Energy vs. Vistra: Who Leads the AI Power Revenue Race?",
+      "publisher": "Yahoo",
+      "date": "2026-08-21 13:18",
+      "impact": "medium",
+      "category": "產業競爭",
+      "reason": "透過與 Vistra 的比較分析，凸顯了 Constellation Energy 在核能供應鏈中的領先地位與營收潛力，強化投資人信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Morgan Stanley Maintains Overweight on Constellation Energy, Lowers Price Target to $364",
+      "publisher": "Benzinga",
+      "date": "2026-08-21 10:57",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "摩根士丹利分析師 David Arcaro 雖維持「加碼」評級，但下調目標價至 364 美元，反映市場對短期估值與成長預期的修正。"
+    },
+    {
+      "rank": 2,
+      "title": "Nuclear Stocks Plunge Tuesday: Oklo Down 5%, Constellation Energy Down 4%, NuScale Down 5%",
+      "publisher": "Yahoo",
+      "date": "2026-08-19 04:12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "核能類股出現集體回調，儘管與公司基本面無直接關聯，但短期股價波動反映了市場情緒的脆弱性。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

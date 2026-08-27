@@ -1,0 +1,93 @@
+{
+  "ticker": "TER",
+  "company": "Teradyne, Inc.",
+  "analysis_date": "2026-08-25",
+  "source_file": "cache/2026-08-25/holdings/news/TER.json",
+  "summary": {
+    "total_articles": 16,
+    "bullish_count": 2,
+    "bearish_count": 9,
+    "neutral_count": 5,
+    "overall_sentiment": "bearish",
+    "key_theme": "近期因分析師下調評級與市場對半導體設備股的拋售壓力，導致 Teradyne 股價面臨短期估值修正與成長催化劑空窗期的挑戰。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Teradyne: Upgraded Buy As Chips Grow In Volume/Density - Potential Dip Ahead",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-19 22:18",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析師看好 AI 驅動的晶片測試需求將推動晶圓廠設備 (WFE) 與自動測試設備 (ATE) 的長期成長，認為基本面強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "Teradyne (NASDAQ:TER): An Affordable Growth Play with Strong Fundamentals",
+      "publisher": "ChartMill",
+      "date": "2026-08-20 11:11",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "強調公司具備穩健的獲利能力與合理的估值，將其視為具備成長潛力的標的。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Baird Downgrades Teradyne to Neutral, Maintains Price Target to $420",
+      "publisher": "Benzinga",
+      "date": "2026-08-21 05:41",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Baird 分析師 Quinn Fredrickson 將評級從「優於大盤」下調至「中立」，主要考量到 2028 年前缺乏新的成長催化劑，特別是矽光子技術的貢獻尚未顯現。"
+    },
+    {
+      "rank": 2,
+      "title": "Applied Materials Falls 4%, Lam Research and Teradyne Sink 5%: What’s Prompting the Selloff in Chip Equipment Stocks?",
+      "publisher": "Yahoo",
+      "date": "2026-08-19 18:14",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "半導體設備類股遭遇集體拋售，市場對該板塊的短期情緒轉趨悲觀，導致股價顯著回調。"
+    },
+    {
+      "rank": 3,
+      "title": "Teradyne (TER) Stock Looks Fully Priced As Its 336% Run Continues",
+      "publisher": "Yahoo",
+      "date": "2026-08-18 15:14",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "指出股價在經歷長期大幅上漲後，目前的估值已顯得昂貴，市場對其進一步上漲空間存疑。"
+    },
+    {
+      "rank": 4,
+      "title": "Coherent, Teradyne, and Ciena Are the S&P 500’s 3 Biggest Decliners on Tuesday",
+      "publisher": "Yahoo",
+      "date": "2026-08-18 21:27",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "作為 AI 基礎設施相關股，Teradyne 成為標普 500 指數中跌幅最大的個股之一，反映出資金從高估值科技股撤出的壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Does Teradyne’s (TER) New US$1 Billion Credit Line Redefine Its AI Capital Allocation Playbook?",
+      "publisher": "Yahoo",
+      "date": "2026-08-18 13:09",
+      "impact": "low",
+      "category": "財務動態",
+      "reason": "公司獲得 10 億美元的循環信貸額度，屬於正常的資本結構調整，對股價影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "If You Invested $1000 in Teradyne a Decade Ago, This is How Much It'd Be Worth Now",
+      "publisher": "Zacks",
+      "date": "2026-08-24 12:30",
+      "impact": "low",
+      "category": "歷史回顧",
+      "reason": "僅為歷史績效回顧，對當前股價走勢無實質影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

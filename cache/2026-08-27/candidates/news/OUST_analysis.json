@@ -1,0 +1,102 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-08-25",
+  "source_file": "cache/2026-08-25/candidates/news/OUST.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 6,
+    "bearish_count": 3,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "Ouster 憑藉與 Nvidia 的合作關係及在機器人與實體 AI 領域的技術部署，展現強勁的成長潛力，儘管近期受市場整體 AI 類股回調影響而波動。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "EXCLUSIVE: Nvidia Partner Ouster Says Physical AI Is Moving From 'Demo To Deployment'",
+      "publisher": "Benzinga",
+      "date": "2026-08-20 10:47",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "執行長 Angus Pacala 強調實體 AI 正從實驗階段轉向大規模部署，這標誌著 Ouster 的技術已進入商業化變現的關鍵期，且與 Nvidia 的合作關係強化了其市場地位。"
+    },
+    {
+      "rank": 2,
+      "title": "Ouster's LiDAR Shipments Jump 70% Y/Y in Q2: Will Demand Sustain?",
+      "publisher": "Zacks",
+      "date": "2026-08-17 16:00",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "第二季 LiDAR 出貨量年增 70 %，顯示市場對其核心產品需求強勁，營收成長動能明確，為公司長期獲利能力提供支撐。"
+    },
+    {
+      "rank": 3,
+      "title": "Ouster Says Rev8 Lidar Gains Early Multimillion-Dollar Orders, Targets Broader Platform Growth",
+      "publisher": "MarketBeat",
+      "date": "2026-08-16 06:01",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Rev8 LiDAR 獲得數百萬美元的早期訂單，驗證了新產品線的市場接受度，有助於擴大其在感測器平台的市占率。"
+    },
+    {
+      "rank": 4,
+      "title": "Ouster Unit Stereolabs Partners With Trossen Robotics To Integrate Stereolabs' ZED X Mini And ZED X Nano Cameras Into Trossen's New Physical AI Hardware Suite",
+      "publisher": "Benzinga",
+      "date": "2026-08-18 07:08",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "透過子公司 Stereolabs 與 Trossen Robotics 合作，將視覺感測技術整合至機器人硬體套件中，進一步擴展了 Ouster 在機器人感知領域的生態系。"
+    },
+    {
+      "rank": 5,
+      "title": "QUICK SPARK: Nvidia Partner Ouster Says Humanoid Robots Could Need Up to 12 Cameras Each",
+      "publisher": "Benzinga",
+      "date": "2026-08-20 11:55",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "執行長指出人形機器人對感測器的高需求（每台需 12 個鏡頭），預示著未來機器人市場將為公司帶來龐大的潛在硬體需求空間。"
+    },
+    {
+      "rank": 6,
+      "title": "EXCLUSIVE: Nvidia Partner Says Tesla, Waymo Are Growing the Physical AI Market — Not Competing With It",
+      "publisher": "Benzinga",
+      "date": "2026-08-20 12:17",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "管理層澄清與 Tesla、Waymo 等巨頭的關係，強調產業擴張而非競爭，有助於消除投資人對市場競爭加劇的疑慮。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Robotics Stocks Punished Tuesday in AI Sell-Off: Ouster Down 10%",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-08-18 21:22",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受整體 AI 類股賣壓影響，股價單日下跌 10 %，反映出市場對高成長科技股的風險偏好降低，短期股價面臨修正壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "What's Going On With Ouster Stock Wednesday? — Ouster (OUST) stock dips 5% amid short-term pullbacks",
+      "publisher": "Benzinga",
+      "date": "2026-08-19 12:56",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價延續前一日的跌勢再下挫 5 %，顯示短期技術面籌碼鬆動，投資人情緒趨於保守。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Can Ouster's BlueCity Expand Its LiDAR Growth Opportunity? / Will Stereolabs Help Ouster Capitalize on Robotics Growth?",
+      "publisher": "Zacks",
+      "date": "2026-08-18 14:29",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "此類文章多為針對公司成長策略的分析與提問，並未提供新的實質利多或利空消息，僅作為投資人評估公司未來潛力的參考。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
