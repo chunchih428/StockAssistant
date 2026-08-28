@@ -1,0 +1,47 @@
+{
+  "ticker": "CEVA",
+  "company": "CEVA",
+  "analysis_date": "2026-08-26",
+  "source_file": "cache/2026-08-26/candidates/news/CEVA.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司近期發布 2026 年第 2 季財報後，市場分析機構對其基本面轉趨樂觀，認為空頭壓力減弱且具備買入價值。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bears are Losing Control Over Ceva (CEVA), Here's Why It's a 'Buy' Now",
+      "publisher": "Zacks",
+      "date": "2026-08-20T13:55:02Z",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Zacks 將 CEVA 列為買入評級，指出市場空頭部位正在減少，顯示投資人對該公司未來股價表現的信心增強。"
+    },
+    {
+      "rank": 2,
+      "title": "Bull of the Day: Ceva (CEVA)",
+      "publisher": "Zacks",
+      "date": "2026-08-20T09:20:00Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Zacks 將 CEVA 選為當日看多標的，進一步強化了市場對該公司技術授權業務成長潛力的正面預期。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "CEVA (CEVA) Q2 2026 Earnings Call Transcript",
+      "publisher": "Motley Fool",
+      "date": "2026-08-17T15:43:43Z",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "此為財報會議逐字稿，屬於資訊揭露性質，為後續分析師給予正面評價的基礎，本身不具備直接的市場情緒導向。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,101 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-08-28",
+  "source_file": "cache/2026-08-28/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 19,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "CrowdStrike 發布強勁的第二季財報，營收與每股盈餘均優於預期，並在 AI 網路安全需求推動下獲得多家投行上調目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike jumps 11% on record second quarter as 'Mythos moment' drives AI cyber wave",
+      "publisher": "CNBC",
+      "date": "2026-08-26 16:56",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司公布破紀錄的第二季財報，營收與 EPS 雙雙超越市場預期，且管理層強調 AI 威脅帶動了對先進安全工具的強勁需求，是股價大漲的核心驅動力。"
+    },
+    {
+      "rank": 2,
+      "title": "RBC Capital Maintains Outperform on CrowdStrike Holdings, Raises Price Target to $260",
+      "publisher": "Benzinga",
+      "date": "2026-08-27 10:34",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "RBC Capital 分析師 Matthew Hedberg 維持「優於大盤」評級並將目標價上調至 $260，反映出對公司長期成長潛力的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "UBS Maintains Buy on CrowdStrike Holdings, Raises Price Target to $250",
+      "publisher": "Benzinga",
+      "date": "2026-08-27 10:02",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "UBS 分析師 Roger Boyd 將目標價從 $235 上調至 $250，並維持「買入」評級，顯示市場對其財報後的估值重估。"
+    },
+    {
+      "rank": 4,
+      "title": "Rosenblatt Maintains Buy on CrowdStrike Holdings, Raises Price Target to $250",
+      "publisher": "Benzinga",
+      "date": "2026-08-27 09:32",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師 Catharine Trebnick 上調目標價至 $250，認可公司在網路安全市場的領導地位與財報表現。"
+    },
+    {
+      "rank": 5,
+      "title": "Scotiabank Maintains Sector Outperform on CrowdStrike Holdings, Raises Price Target to $250",
+      "publisher": "Benzinga",
+      "date": "2026-08-27 09:25",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Scotiabank 分析師 Patrick Colville 維持「產業優於大盤」評級並上調目標價，反映財報後對公司獲利能力的正面看法。"
+    },
+    {
+      "rank": 6,
+      "title": "Morgan Stanley Maintains Overweight on CrowdStrike Holdings, Raises Price Target to $238",
+      "publisher": "Benzinga",
+      "date": "2026-08-27 09:17",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師 Keith Weiss 維持「加碼」評級並上調目標價，顯示機構投資人對其財報後的成長動能持樂觀態度。"
+    },
+    {
+      "rank": 7,
+      "title": "DA Davidson Maintains Buy on CrowdStrike Holdings, Raises Price Target to $245",
+      "publisher": "Benzinga",
+      "date": "2026-08-27 09:14",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師 Rudy Kessinger 上調目標價至 $245，肯定公司在財報中展現的營運效率。"
+    },
+    {
+      "rank": 8,
+      "title": "Needham Maintains Buy on CrowdStrike Holdings, Raises Price Target to $250",
+      "publisher": "Benzinga",
+      "date": "2026-08-27 07:34",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師 Mike Cikos 上調目標價至 $250，反映對公司在 AI 安全領域持續擴張的正面預期。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Guggenheim Reiterates Neutral on CrowdStrike Holdingsto Neutral",
+      "publisher": "Benzinga",
+      "date": "2026-08-27 09:27",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "Guggenheim 分析師 John Difucci 維持「中立」評級，未隨市場情緒調整，顯示該機構對股價後續漲幅持保留態度。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

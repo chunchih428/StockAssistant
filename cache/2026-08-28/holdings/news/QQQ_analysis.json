@@ -1,0 +1,111 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-08-28",
+  "source_file": "cache/2026-08-28/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 2,
+    "bearish_count": 5,
+    "neutral_count": 3,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場資金在大型科技股 ETF 與其他資產類別間頻繁輪動，且技術面指標顯示 QQQ 正面臨季節性壓力與 EMA 支撐位挑戰。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "QUICK SPARK: $3.8B SPY Exodus Meets $3.7B QQQ Inflow in One Day",
+      "publisher": "Benzinga",
+      "date": "2026-08-27 11:02",
+      "impact": "medium",
+      "category": "資金流向",
+      "reason": "QQQ 單日獲得 36.7 億美元資金淨流入，顯示投資人對納斯達克 100 指數成分股的信心回升，資金從 SPY 轉向 QQQ 的趨勢明顯。"
+    },
+    {
+      "rank": 2,
+      "title": "SPY And QQQ: 'Stable' Still Supports Selective Leverage, But Entry And Exit Rules Matter",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-28 00:27",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析指出美國經濟處於「穩定」狀態，歷史數據顯示此環境對 QQQ 等指數型 ETF 具有支撐作用，有利於長期持有。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Short-Term Breadth Breaks Down as Major ETFs Lose EMA Support",
+      "publisher": "ChartMill",
+      "date": "2026-08-21 12:01",
+      "impact": "high",
+      "category": "技術分析",
+      "reason": "QQQ 跌破 EMA9 短期移動平均線支撐，且市場廣度指標惡化，顯示賣壓沉重，技術面轉弱。"
+    },
+    {
+      "rank": 2,
+      "title": "QUICK SPARK: $6.4 Billion Pours into S&P 500 ETFs in One Day as QQQ Sees Outflows",
+      "publisher": "Benzinga",
+      "date": "2026-08-24 09:22",
+      "impact": "medium",
+      "category": "資金流向",
+      "reason": "資金出現從 QQQ 流出並轉向 S&P 500 ETF (SPY/VOO) 的現象，反映投資人風險偏好轉向更廣泛的市場指數。"
+    },
+    {
+      "rank": 3,
+      "title": "QQQM: Notable Nasdaq 100 Risks Heading Into September",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-26 15:34",
+      "impact": "medium",
+      "category": "市場展望",
+      "reason": "儘管估值合理 (21.4x P/E)，但九月份季節性疲軟與技術面壓力，使得 QQQM (QQQ 的姊妹 ETF) 僅獲持有評級，暗示短期上漲空間受限。"
+    },
+    {
+      "rank": 4,
+      "title": "QQQ Cut Its Fee After 26 Years. On $250,000, the VGT ETF Still Saves You $225 Every Year",
+      "publisher": "Yahoo",
+      "date": "2026-08-21 13:25",
+      "impact": "low",
+      "category": "產品費用",
+      "reason": "雖然 QQQ 終於調降費率，但相較於競爭對手 (如 VGT)，其成本結構仍顯得昂貴，可能影響長期成本敏感型投資人的選擇。"
+    },
+    {
+      "rank": 5,
+      "title": "QUICK SPARK: Gold ETF Leads Inflows as Investors Pull Billions From Mega-Cap ETFs",
+      "publisher": "Benzinga",
+      "date": "2026-08-25 08:10",
+      "impact": "low",
+      "category": "資金流向",
+      "reason": "投資人從 QQQ、IVV 與 SPY 合計撤出 43.5 億美元，轉向黃金 ETF，顯示市場避險情緒升溫。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Treasury Bond Buybacks Cannot Solve A Fiscal Problem; Nvidia Earnings And Inflation Data Expected Tomorrow",
+      "publisher": "Benzinga",
+      "date": "2026-08-25 14:07",
+      "impact": "medium",
+      "category": "總體經濟",
+      "reason": "市場正等待 Nvidia 財報與通膨數據，這些關鍵變數將主導 QQQ 後續走勢，目前處於觀望階段。"
+    },
+    {
+      "rank": 2,
+      "title": "Zacks Investment Ideas feature highlights: QQQ, NVIDIA, CoreWeave, Nebius, TeraWulf, Cipher and IREN",
+      "publisher": "Zacks",
+      "date": "2026-08-28 06:46",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為投資觀點彙整，提及 QQQ 作為科技股投資組合的一部分，未提供具體買賣建議。"
+    },
+    {
+      "rank": 3,
+      "title": "Breadth Rebounds, but Index Trends Still Need Repair",
+      "publisher": "ChartMill",
+      "date": "2026-08-24 12:40",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "市場廣度雖有反彈，但 QQQ 仍處於 EMA9 之下，趨勢尚未完全修復，處於多空震盪整理期。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

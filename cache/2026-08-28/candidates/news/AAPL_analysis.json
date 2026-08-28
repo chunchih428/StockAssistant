@@ -1,0 +1,129 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-08-28",
+  "source_file": "cache/2026-08-28/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 2,
+    "neutral_count": 8,
+    "overall_sentiment": "bullish",
+    "key_theme": "Apple 透過推出搭載 M5 Ultra 與 M6 晶片的 Mac 新品強化 AI 邊緣運算能力，並即將於 9 月 9 日舉辦新品發表會，市場對 iPhone 18 與 AI 整合前景持樂觀態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple sets iPhone launch event for Sept. 9",
+      "publisher": "CNBC",
+      "date": "2026-08-26",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "確認 9 月 9 日發表會日期，市場高度期待 iPhone 18 與首款摺疊機型，預期將成為股價短期催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple Unveils New Mac mini and Mac Studio With M6 and M5 Ultra Chips",
+      "publisher": "Benzinga",
+      "date": "2026-08-26",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "推出 M6 與 M5 Ultra 晶片，顯著提升 Mac 系列的 AI 運算效能，鞏固其在硬體市場的競爭優勢。"
+    },
+    {
+      "rank": 3,
+      "title": "Forget the Cloud: Apple's Latest Mac Upgrades Prove It's the Quiet AI Winner",
+      "publisher": "Motley Fool",
+      "date": "2026-08-28",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 Apple 透過在地化 AI 運算策略，避開雲端依賴，展現出獨特的 AI 獲利模式。"
+    },
+    {
+      "rank": 4,
+      "title": "iPhone Buyers Rush in Before Potential Apple Price Increases",
+      "publisher": "Benzinga",
+      "date": "2026-08-26",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "第二季 iPhone 全球出貨量成長 13 %，顯示強勁的市場需求與定價能力。"
+    },
+    {
+      "rank": 5,
+      "title": "Apple's 'Surprise and Shine' iPhone 18 Teaser Has This Analyst Seeing a Big Camera Upgrade",
+      "publisher": "Benzinga",
+      "date": "2026-08-26",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "分析師預期 iPhone 18 將具備重大相機升級與 AI 智慧家庭整合功能，增強產品吸引力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Nvidia spooked Apple investors... again",
+      "publisher": "Yahoo Finance",
+      "date": "2026-08-27",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Nvidia 在 AI 領域的強勢表現持續對 Apple 投資人造成心理壓力，擔憂其在 AI 軟體生態的競爭力。"
+    },
+    {
+      "rank": 2,
+      "title": "Cowell Remains Tethered To Apple But Investors Cheer Strong Earnings",
+      "publisher": "Benzinga",
+      "date": "2026-08-24",
+      "impact": "low",
+      "category": "供應鏈",
+      "reason": "供應鏈廠商過度依賴 Apple 營收（佔比 99 %），反映出 Apple 供應鏈集中度風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Comparative Study: Apple And Industry Competitors",
+      "publisher": "Benzinga",
+      "date": "2026-08-27",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對硬體產業的常規性競爭對手比較分析，未提供具體影響股價的重大訊息。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple CEO Tim Cook Pays Tribute to Yayoi Kusama",
+      "publisher": "Benzinga",
+      "date": "2026-08-27",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "執行長個人活動，對公司財務與營運無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Tim Cook's biggest hits and misses as Apple CEO",
+      "publisher": "Yahoo Finance",
+      "date": "2026-08-28",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "回顧性評論文章，缺乏對當前股價的即時影響。"
+    },
+    {
+      "rank": 4,
+      "title": "Apple and New Klarna Leasing Strategy",
+      "publisher": "Benzinga",
+      "date": "2026-08-28",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "關於租賃策略的討論，屬於營運細節調整，影響程度有限。"
+    },
+    {
+      "rank": 5,
+      "title": "What's Going On With Apple Stock Monday?",
+      "publisher": "Benzinga",
+      "date": "2026-08-24",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對盤中股價表現的描述，屬於市場波動紀錄。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

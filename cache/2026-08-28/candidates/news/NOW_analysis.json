@@ -1,0 +1,93 @@
+{
+  "ticker": "NOW",
+  "company": "ServiceNow",
+  "analysis_date": "2026-08-28",
+  "source_file": "cache/2026-08-28/candidates/news/NOW.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 1,
+    "neutral_count": 5,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "企業級 AI 需求強勁推動營收成長，且市場對其技術平台與合作夥伴關係持高度樂觀態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "ServiceNow Stock Jumps on Enterprise AI Momentum",
+      "publisher": "Benzinga",
+      "date": "2026-08-27 13:04",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "受惠於企業級 AI 發展動能及 Salesforce 財報帶動的軟體板塊效應，股價單日上漲 9 %，顯示市場對其 AI 變現能力信心強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "ServiceNow: A Loaded Rocket On The AI Launch Pad",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-26 11:28",
+      "impact": "high",
+      "category": "財務分析",
+      "reason": "分析指出其 AI 營收預計在 2026 年底突破 15 億美元，並於 2030 年達到 96 億美元，長期成長潛力巨大。"
+    },
+    {
+      "rank": 3,
+      "title": "ServiceNow Says AI Is Driving Growth, Not Budget Pressure",
+      "publisher": "MarketBeat",
+      "date": "2026-08-28 00:02",
+      "impact": "medium",
+      "category": "公司營運",
+      "reason": "公司管理層強調 AI 需求是推動成長的核心驅動力，而非僅是預算調整，消除了市場對 IT 支出放緩的疑慮。"
+    },
+    {
+      "rank": 4,
+      "title": "Tech Mahindra, ServiceNow expand partnership to advance enterprise AI",
+      "publisher": "Yahoo",
+      "date": "2026-08-21 09:43",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 Tech Mahindra 擴大合作，有助於加速企業 AI 解決方案的落地與部署，強化其在印度及全球市場的系統整合能力。"
+    },
+    {
+      "rank": 5,
+      "title": "ServiceNow: The Growth Story Isn't Done Yet",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-21 07:13",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "從前瞻 PEG 比率分析，認為其股價溢價合理，且營收成長速度遠高於同業，具備投資價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "What's Going On With ServiceNow Stock Wednesday?",
+      "publisher": "Benzinga",
+      "date": "2026-08-26 10:26",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價因短線獲利了結賣壓下跌約 2 %，屬於技術性回調，並非基本面惡化。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "ServiceNow, Inc. (NOW) Presents at Deutsche Bank 2026 Technology Conference",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-27 19:39",
+      "impact": "low",
+      "category": "投資人會議",
+      "reason": "公司於德意志銀行科技大會進行簡報，主要重申既有策略，未釋出重大超預期訊息。"
+    },
+    {
+      "rank": 2,
+      "title": "Palantir Climbs 4% Through $180, BigBear.ai Rises 4%, ServiceNow Holds Flat",
+      "publisher": "Yahoo",
+      "date": "2026-08-21 18:10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "在 AI 軟體板塊波動中，ServiceNow 股價表現相對持平，反映市場在等待更多催化劑。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
