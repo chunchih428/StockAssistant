@@ -1,0 +1,101 @@
+{
+  "ticker": "IBIT",
+  "company": "Bitcoin",
+  "analysis_date": "2026-08-28",
+  "source_file": "cache/2026-08-28/holdings/news/IBIT.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 16,
+    "bearish_count": 0,
+    "neutral_count": 4,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "比特幣現貨 ETF 持續獲得強勁資金流入，市場將其視為對抗法幣貶值的「數位黃金」首選資產。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bitcoin ETFs Pull In $2.8B as Investors Rotate From AI Into the ‘Debasement Trade’",
+      "publisher": "Benzinga",
+      "date": "2026-08-27 10:47",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "比特幣 ETF 在 8 個交易日內吸引 28 億美元資金流入，顯示投資人正將資金從 AI 類股轉向比特幣，作為對抗貨幣貶值的避險工具。"
+    },
+    {
+      "rank": 2,
+      "title": "Bitcoin's Rally Is Shifting From Short Squeeze to ETF Demand as Inflows Hit $1.6 Billion",
+      "publisher": "Benzinga",
+      "date": "2026-08-21 16:28",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "渣打銀行分析指出，比特幣漲勢已從空頭回補轉向實質的 ETF 需求驅動，預期比特幣價格有望挑戰 12.6 萬美元。"
+    },
+    {
+      "rank": 3,
+      "title": "Bitcoin ETFs Extend Inflow Streak to 9 Days With $242M Added",
+      "publisher": "BeInCrypto",
+      "date": "2026-08-28 05:01",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "連續 9 天的資金淨流入顯示機構投資人對 IBIT 等現貨 ETF 的需求持續穩定，支撐資產規模擴張。"
+    },
+    {
+      "rank": 4,
+      "title": "BlackRock Sees Continued Strength In Bitcoin",
+      "publisher": "CryptoProwl",
+      "date": "2026-08-27 13:43",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "貝萊德高層公開表示比特幣正被機構視為「數位黃金」，並認為特定監管法案對比特幣的重要性已降低，顯示其對長期資產價值的信心。"
+    },
+    {
+      "rank": 5,
+      "title": "Bitcoin's 7-Sigma Move Signals a Big ‘Macro Transition’",
+      "publisher": "Benzinga",
+      "date": "2026-08-24 10:31",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "22 V Research 指出比特幣出現 7 個標準差的歷史性波動，象徵宏觀經濟環境的重大轉變，有利於比特幣作為避險資產的地位。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Rep. Rashida Tlaib Opposed Crypto Bill. But Her Retirement Accounts Held Bitcoin and Ethereum ETFs",
+      "publisher": "Benzinga",
+      "date": "2026-08-24 14:37",
+      "impact": "low",
+      "category": "法規與政治",
+      "reason": "雖然揭露了國會議員對加密貨幣的立場與個人投資組合的矛盾，但對 IBIT 的實際資金流向或市場基本面影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Bitcoin-backed mortgages are now available on Coinbase: What homebuyer should know",
+      "publisher": "Yahoo Finance Video",
+      "date": "2026-08-27 16:00",
+      "impact": "low",
+      "category": "產品應用",
+      "reason": "此為加密貨幣生態系的應用擴展，雖有助於比特幣普及化，但對 IBIT ETF 本身的直接影響力較小。"
+    },
+    {
+      "rank": 3,
+      "title": "ETFs to Watch After Revival of Bitcoin",
+      "publisher": "Zacks",
+      "date": "2026-08-27 14:18",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場觀察報告，列舉比特幣相關 ETF 的投資機會，未提供具體利多或利空觀點。"
+    },
+    {
+      "rank": 4,
+      "title": "Inflation Is Coming For Your Cash — Is Gold Or Bitcoin A Solution?",
+      "publisher": "Investor's Business Daily",
+      "date": "2026-08-27 11:34",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討通膨環境下比特幣與黃金的避險屬性，屬於中性的市場分析，未對 IBIT 產生立即性的價格驅動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
