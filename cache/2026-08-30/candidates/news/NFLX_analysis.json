@@ -1,0 +1,102 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-08-28",
+  "source_file": "cache/2026-08-28/candidates/news/NFLX.json",
+  "summary": {
+    "total_articles": 19,
+    "bullish_count": 5,
+    "bearish_count": 6,
+    "neutral_count": 8,
+    "overall_sentiment": "mixed",
+    "key_theme": "Netflix 透過探索第三方應用整合與內容創新維持成長動能，但面臨來自 YouTube 的創作者競爭壓力及市場對其長期成長速度的質疑。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Wolfe Research Maintains Outperform on Netflix, Raises Price Target to $95",
+      "publisher": "Benzinga",
+      "date": "2026-08-25",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Wolfe Research 分析師 Peter Supino 看好 Netflix 的用戶參與度，並將目標價上調至 95 美元，顯示市場對其基本面信心增強。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix Gains Ground as App Bundling, Creator Push Drive Relative Strength",
+      "publisher": "Benzinga",
+      "date": "2026-08-24",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出 Netflix 正在探索第三方應用整合，此舉有助於提升用戶黏著度並擴大生態系，增強了股價的相對強勢。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix Has No ‘Single Silver Bullet’ To Engagement, Revenue Growth: Analyst",
+      "publisher": "Benzinga",
+      "date": "2026-08-21",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "摩根大通分析師 Doug Anmuth 維持 Overweight 評級與 85 美元目標價，肯定其多元化的成長策略與強勁的內容產出。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Netflix (NFLX) Faces Fresh Creator Pressure As Rivals Offer Exclusive Incentives",
+      "publisher": "Yahoo",
+      "date": "2026-08-21",
+      "impact": "medium",
+      "category": "競爭分析",
+      "reason": "YouTube 透過提供財務誘因吸引創作者，對 Netflix 的內容獲取策略構成直接威脅，可能影響其長期內容競爭力。"
+    },
+    {
+      "rank": 2,
+      "title": "Could Investing $10,000 in Netflix Set You Up for Life?",
+      "publisher": "Yahoo",
+      "date": "2026-08-22",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "文章質疑 Netflix 未來能否維持過去的高速成長，對長期投資回報持保留態度，反映市場對其成長放緩的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix embraces traditional telly as streaming revolution dries up",
+      "publisher": "The Telegraph",
+      "date": "2026-08-28",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "指出串流媒體革命紅利消退，Netflix 轉向傳統電視模式，暗示產業進入成熟期，成長空間受限。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "NFLX vs. GOOGL: Which Streaming & Ad Stock Has an Edge Right Now?",
+      "publisher": "Zacks",
+      "date": "2026-08-27",
+      "impact": "low",
+      "category": "產業比較",
+      "reason": "對比 Netflix 與 Alphabet 在串流與廣告業務的競爭力，屬於中性的產業分析，未對股價產生直接催化作用。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix (NFLX) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "publisher": "Zacks",
+      "date": "2026-08-27",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅描述股價在市場上漲時下跌的現象，缺乏具體基本面利空因素，屬於市場波動的客觀報導。"
+    },
+    {
+      "rank": 3,
+      "title": "Unusual Options Activity: NFLX, HONA, and MSFT Lead the Way",
+      "publisher": "Barchart",
+      "date": "2026-08-27",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "報導期權市場的異常交易活動，屬於技術面觀察，無法直接判斷多空方向。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,84 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy",
+  "analysis_date": "2026-08-28",
+  "source_file": "cache/2026-08-28/holdings/news/CEG.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 5,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "AI 數據中心帶動電力需求激增，Constellation Energy 憑藉核能與天然氣組合優勢及上調財測，展現強勁成長動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Constellation Energy Just Raised Guidance. Here's What's Driving It.",
+      "publisher": "Motley Fool",
+      "date": "2026-08-26",
+      "impact": "high",
+      "category": "財報與展望",
+      "reason": "公司上調 2026 年 EPS 指引，反映出核心業務獲利能力提升，是市場最直接的利多訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "Constellation Energy: The Scarcity Platform The Market Still Underestimates",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-25",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "詳細分析了核能與天然氣組合的稀缺性，並強調 Calpine 交易與數據中心需求將持續推升公司價值，具備高度投資參考價值。"
+    },
+    {
+      "rank": 3,
+      "title": "AI's Next Bottleneck Isn't Chips, It's Power, With Demand Expected to Soar 1,100% by 2033",
+      "publisher": "Benzinga",
+      "date": "2026-08-24",
+      "impact": "medium",
+      "category": "產業趨勢",
+      "reason": "指出 AI 發展面臨電力瓶頸，CEG 作為主要電力供應商，將長期受惠於電力需求爆發性成長。"
+    },
+    {
+      "rank": 4,
+      "title": "CEG Stock Outperforms Industry in the Past Month: Buy, Hold or Sell",
+      "publisher": "Zacks",
+      "date": "2026-08-26",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價近期表現優於產業平均，顯示市場資金對其基本面與成長前景的高度認可。"
+    },
+    {
+      "rank": 5,
+      "title": "Will Rising Revenues Support Constellation Energy's Long-Term Growth?",
+      "publisher": "Zacks",
+      "date": "2026-08-25",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "探討營收成長對長期股價的支撐力，確認了公司營收結構的穩健性。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Morgan Stanley Maintains Overweight on Constellation Energy, Lowers Price Target to $364",
+      "publisher": "Benzinga",
+      "date": "2026-08-21",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "儘管維持「加碼」評級，但摩根士丹利分析師 David Arcaro 下調目標價至 364 美元，可能引發市場對估值空間的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Constellation Energy vs. Vistra: Who Leads the AI Power Revenue Race?",
+      "publisher": "Yahoo",
+      "date": "2026-08-21",
+      "impact": "low",
+      "category": "同業競爭",
+      "reason": "比較 CEG 與 Vistra 在 AI 電力市場的競爭，屬於中性的產業競爭分析，未對 CEG 本身產生直接利多或利空影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

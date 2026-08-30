@@ -1,0 +1,201 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-08-28",
+  "source_file": "cache/2026-08-28/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 5,
+    "bearish_count": 6,
+    "neutral_count": 9,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場高度關注 Broadcom 即將公布的財報表現，同時在 AI 晶片領域的競爭地位與機構投資人的持倉調整之間呈現多空拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "What's Going On With Broadcom Stock Thursday? — Broadcom (AVGO) stock rises nearly 2% premarket following strong NVIDIA earnings.",
+      "publisher": "Benzinga",
+      "date": "2026-08-27",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受惠於 NVIDIA 強勁財報帶動半導體板塊情緒，顯示市場對 AI 基礎設施需求仍具信心，進而推升 Broadcom 股價。"
+    },
+    {
+      "rank": 2,
+      "title": "Kyndryl Expands Partnership With Broadcom To Provide Consulting Services For VMware Cloud Foundation",
+      "publisher": "Benzinga",
+      "date": "2026-08-27",
+      "impact": "medium",
+      "category": "業務合作",
+      "reason": "與 Kyndryl 擴大合作有助於強化 VMware Cloud Foundation 的市場滲透率，顯示 Broadcom 在軟體與雲端服務領域的持續擴張。"
+    },
+    {
+      "rank": 3,
+      "title": "Billionaire David Tepper Sold His Fund's Sandisk Stake in Favor of This Trillion-Dollar Artificial Intelligence (AI) Chip Stock",
+      "publisher": "Yahoo",
+      "date": "2026-08-22",
+      "impact": "medium",
+      "category": "投資動向",
+      "reason": "知名投資人 David Tepper 將資金轉向 Broadcom，顯示大型機構對其在 AI 晶片市場長期競爭力的認可。"
+    },
+    {
+      "rank": 4,
+      "title": "Daniel Newman Says Broadcom Deserves Credit for OpenAI’s Jalapeño Chip",
+      "publisher": "Benzinga",
+      "date": "2026-08-26",
+      "impact": "low",
+      "category": "產品技術",
+      "reason": "分析師肯定 Broadcom 在 OpenAI 自研晶片中的關鍵技術貢獻，強化其作為 AI 基礎設施核心供應商的地位。"
+    },
+    {
+      "rank": 5,
+      "title": "Where Will This Vanguard ETF, Loaded With Nvidia and Broadcom, Be in 10 Years?",
+      "publisher": "Yahoo",
+      "date": "2026-08-22",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Broadcom 被納入 Vanguard 核心科技 ETF，顯示其作為大型科技股的穩定性與長期投資價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Third Point Starts to Raise Alarm Bells on Broadcom After Dumping AVGO Stock in Q2",
+      "publisher": "Yahoo",
+      "date": "2026-08-22",
+      "impact": "high",
+      "category": "投資動向",
+      "reason": "Dan Loeb 的 Third Point 在財報前夕出清持股，引發市場對公司短期獲利能力或估值過高的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "D.E. Shaw Just Disclosed a $912 Million SpaceX Stake and a 58% Broadcom Cut in the Same Quarter",
+      "publisher": "Yahoo",
+      "date": "2026-08-22",
+      "impact": "medium",
+      "category": "投資動向",
+      "reason": "大型避險基金 D.E. Shaw 大幅減持 58% 的 Broadcom 部位，顯示機構投資人對該股獲利了結的意願強烈。"
+    },
+    {
+      "rank": 3,
+      "title": "Broadcom Fell 12.6% on Its Last Beat — Can It Avoid a Repeat in September?",
+      "publisher": "Benzinga",
+      "date": "2026-08-26",
+      "impact": "medium",
+      "category": "財報預期",
+      "reason": "回顧上次財報後股價大跌的歷史，市場擔憂即便財報數據優於預期，仍可能面臨賣壓，增加財報公布前的波動風險。"
+    },
+    {
+      "rank": 4,
+      "title": "Forget Broadcom: Nvidia (NVDA) Is Still the Top Semiconductor Stock for 2027 and Beyond",
+      "publisher": "Yahoo",
+      "date": "2026-08-23",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "市場觀點認為 Nvidia 的生態系統優勢大於 Broadcom，可能導致資金排擠效應。"
+    },
+    {
+      "rank": 5,
+      "title": "'Fast Money' traders talk Broadcom heading back to the debt market",
+      "publisher": "CNBC",
+      "date": "2026-08-21",
+      "impact": "low",
+      "category": "財務狀況",
+      "reason": "市場討論公司重返債務市場的舉動，引發對 AI 相關資本支出與債務結構的關注。"
+    },
+    {
+      "rank": 6,
+      "title": "What's Going On With Broadcom Stock Monday? — Broadcom (AVGO) drops premarket below key moving averages.",
+      "publisher": "Benzinga",
+      "date": "2026-08-24",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "股價跌破關鍵移動平均線，觸發技術性賣壓，顯示短期趨勢轉弱。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Jobs report, Broadcom results pose next hurdles for stock market rally",
+      "publisher": "Reuters",
+      "date": "2026-08-28",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "將 Broadcom 財報視為影響整體市場走勢的關鍵事件，屬於總體經濟與市場情緒的觀察，非單一利多或利空。"
+    },
+    {
+      "rank": 2,
+      "title": "RBC Capital Reiterates Sector Perform on Broadcom, Maintains $400 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-08-26",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "維持「表現與產業一致」評級與目標價，顯示分析師對其短期股價走勢持中立態度。"
+    },
+    {
+      "rank": 3,
+      "title": "Comparing Broadcom With Industry Competitors In Semiconductors & Semiconductor Equipment Industry",
+      "publisher": "Benzinga",
+      "date": "2026-08-27",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "系列報導旨在提供產業數據比較，屬於常規性的市場資訊整理，無明確多空導向。"
+    },
+    {
+      "rank": 4,
+      "title": "Broadcom vs. Marvell Technology: 1 Critical Metric Decides the Better Custom AI Chip Stock",
+      "publisher": "Yahoo",
+      "date": "2026-08-23",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "針對競爭對手 Marvell 的比較分析，提供投資人評估指標，屬中性產業研究。"
+    },
+    {
+      "rank": 5,
+      "title": "Performance Comparison: Broadcom And Competitors In Semiconductors & Semiconductor Equipment Industry",
+      "publisher": "Benzinga",
+      "date": "2026-08-26",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "常規產業績效對比，無特定利多或利空訊息。"
+    },
+    {
+      "rank": 6,
+      "title": "Exploring The Competitive Space: Broadcom Versus Industry Peers In Semiconductors & Semiconductor Equipment",
+      "publisher": "Benzinga",
+      "date": "2026-08-25",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "常規產業競爭空間分析，無特定利多或利空訊息。"
+    },
+    {
+      "rank": 7,
+      "title": "Insights Into Broadcom's Performance Versus Peers In Semiconductors & Semiconductor Equipment Sector",
+      "publisher": "Benzinga",
+      "date": "2026-08-24",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "常規產業績效洞察，無特定利多或利空訊息。"
+    },
+    {
+      "rank": 8,
+      "title": "EXCLUSIVE: God Bless America ETF Exec Says Nvidia Wins No Matter Who Leads AI Race",
+      "publisher": "Benzinga",
+      "date": "2026-08-26",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "提及 Broadcom 為 AI 賽道參與者，但強調 Nvidia 的主導地位，對 Broadcom 本身影響中性。"
+    },
+    {
+      "rank": 9,
+      "title": "Broadcom's newest debt deal: Here's what to know",
+      "publisher": "CNBC",
+      "date": "2026-08-21",
+      "impact": "low",
+      "category": "財務狀況",
+      "reason": "報導公司債務融資細節，屬於企業財務運作的客觀事實陳述。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

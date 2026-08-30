@@ -1,0 +1,102 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-08-28",
+  "source_file": "cache/2026-08-28/candidates/news/OUST.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 5,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "Ouster 成功打入 John Deere 旗下 GUSS Automation 的供應鏈，強化了其在物理 AI 與自動化農業領域的市場地位，帶動市場對其成長潛力的正面預期。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ouster Announces Its Rev8 OS0 Native Color Digital Lidar Sensors Will Be Integrated Into Deere Subsidiary Guss Automation's Autonomous Orchard Machine Fleet",
+      "publisher": "Benzinga",
+      "date": "2026-08-26",
+      "impact": "high",
+      "category": "商業合作",
+      "reason": "Ouster 宣布其 Rev8 OS0 感測器將整合至 John Deere 子公司 GUSS Automation 的自動化果園機隊，此合作案象徵 Ouster 在高階農業自動化市場的技術驗證與市占擴張，具備實質營收貢獻潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "How Ouster Is Helping Deere Implement Physical AI",
+      "publisher": "Barrons.com",
+      "date": "2026-08-26",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導深入分析 Ouster 如何透過 LiDAR 技術協助 John Deere 實現物理 AI，強化了市場對於 Ouster 作為工業自動化關鍵供應商的長期投資論點。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Ouster (OUST) Undervalued As John Deere's GUSS Picks Its Lidar For Orchard Robots?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-27",
+      "impact": "medium",
+      "category": "投資分析",
+      "reason": "分析師指出在獲得 John Deere 訂單後，Ouster 的估值可能被市場低估，強調了技術落地對公司基本面的正面影響。"
+    },
+    {
+      "rank": 4,
+      "title": "Brokers Suggest Investing in Ouster (OUST): Read This Before Placing a Bet",
+      "publisher": "Zacks",
+      "date": "2026-08-25",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "券商分析顯示對 Ouster 的投資評級持正面態度，反映了機構投資人對其近期業務發展的認可。"
+    },
+    {
+      "rank": 5,
+      "title": "Can Ouster's BlueCity Expand Its LiDAR Growth Opportunity?",
+      "publisher": "Zacks",
+      "date": "2026-08-18",
+      "impact": "low",
+      "category": "產品發展",
+      "reason": "探討 BlueCity 解決方案對 LiDAR 成長機會的擴展，顯示公司在智慧城市與交通領域的多元化佈局。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Robotics Stocks Punished Tuesday in AI Sell-Off: Ouster Down 10%, Aeva Technologies Down 12%, Symbotic Down 4%",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-08-18",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受整體 AI 類股拋售潮影響，Ouster 股價單日下跌 10 %，反映出市場對高成長科技股的波動性風險與情緒面壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Ouster (OUST) Stock Too Expensive After A Very Large 3 Year Run?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-27",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "針對 Ouster 過去 3 年股價大幅上漲後的估值合理性提出質疑，提醒投資人注意獲利了結的風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ouster Vs. Aeva: Which is the Better Physical AI Lidar Bet Now?",
+      "publisher": "Zacks",
+      "date": "2026-08-26",
+      "impact": "low",
+      "category": "產業比較",
+      "reason": "將 Ouster 與競爭對手 Aeva 進行比較，旨在協助投資人評估兩者在物理 AI 領域的競爭優劣，未給出明確買賣建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Ouster (OUST) Quietly Repositioning Its Lidar Platform at the Center of John Deere’s Autonomy Stack?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-27",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "探討 Ouster 在 John Deere 自動化架構中的定位，屬於產業趨勢觀察，對股價短期影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,57 @@
+{
+  "ticker": "FFIV",
+  "company": "F5",
+  "analysis_date": "2026-08-29",
+  "source_file": "cache/2026-08-29/candidates/news/FFIV.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "F5 憑藉 Q3 財報優異表現與 AI Gateway 新產品發布，展現出強勁的成長潛力與被低估的投資價值。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "F5 (FFIV) Could Be 8% Undervalued As Guidance Rises After Q3 Beat",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-27T14:15:11Z",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司在 Q3 財報中表現優於預期，並隨之調升未來財測，顯示營運動能強勁，估值模型顯示股價存在約 8 % 的折價空間。"
+    },
+    {
+      "rank": 2,
+      "title": "Enhanced AI Gateway Launch Could Be A Game Changer For F5’s AI Strategy (FFIV)",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-27T00:21:54Z",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出增強版 AI Gateway 產品，有助於鞏固 F5 在 AI 基礎設施領域的競爭地位，為長期營收成長提供新動能。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "F5 (FFIV) Down 5.1% Since Last Earnings Report: Can It Rebound?",
+      "publisher": "Zacks",
+      "date": "2026-08-26T15:30:03Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管財報表現良好，但股價自上次財報發布後累計下跌 5.1 %，反映出市場對於短期獲利了結壓力或對未來成長持續性的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "What Are Wall Street Analysts' Target Price for F5 Stock?",
+      "publisher": "Barchart",
+      "date": "2026-08-25T16:30:07Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此報導僅彙整華爾街分析師對 F5 的目標價預測，屬於市場資訊整理，未提供新的基本面催化劑，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
