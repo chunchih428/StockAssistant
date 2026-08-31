@@ -1,0 +1,75 @@
+{
+  "ticker": "NET",
+  "company": "Cloudflare",
+  "analysis_date": "2026-08-28",
+  "source_file": "cache/2026-08-28/holdings/news/NET.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場高度關注 Cloudflare 的 Workers 平台作為未來營收成長引擎的潛力，並反映在目標價的顯著上調上。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare (NET) Price Target Increased by 25.01% to 337.83",
+      "publisher": "Fintel",
+      "date": "2026-08-28 03:07",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "目標價大幅上調 25.01 %，顯示市場對 Cloudflare 的長期估值與成長前景信心增強。"
+    },
+    {
+      "rank": 2,
+      "title": "How Investors May Respond To Cloudflare (NET) Workers Platform Emerging As A Meaningful Revenue Driver",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-27 15:06",
+      "impact": "medium",
+      "category": "業務發展",
+      "reason": "Workers 平台被視為關鍵營收驅動力，此篇代表性文章分析了該業務對公司營收結構的正面影響，選為代表是因為其深入探討了成長邏輯。"
+    },
+    {
+      "rank": 3,
+      "title": "Wix, Workiva, DigitalOcean, Commvault, and Cloudflare Stocks Trade Up, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-08-28 04:41",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價上漲反映了市場對該公司近期表現的正面情緒與資金流向。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike Posts Best Quarter Ever, but Cathie Wood's Ark Sells Shares Amid Cloudflare, Cerebras Buys",
+      "publisher": "Benzinga",
+      "date": "2026-08-27 00:17",
+      "impact": "low",
+      "category": "機構持倉",
+      "reason": "雖然 Ark Invest 買入 Cloudflare，但該報導同時提及基金經理人 Cathie Wood 的調倉行為，可能引發市場對持倉變動的短期擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Can Cloudflare's Workers Platform Become a Key Growth Engine?",
+      "publisher": "Zacks",
+      "date": "2026-08-26 13:40",
+      "impact": "low",
+      "category": "業務分析",
+      "reason": "以提問方式探討 Workers 平台的成長性，屬於中性分析，旨在評估該業務是否能持續貢獻營收。"
+    },
+    {
+      "rank": 2,
+      "title": "Cloudflare (NET) Workers Growth Has Investors Asking If The Stock Is Already Priced In",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-27 11:05",
+      "impact": "low",
+      "category": "市場情緒",
+      "reason": "探討股價是否已反映成長預期，提醒投資人注意估值過高的風險，屬於理性市場觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

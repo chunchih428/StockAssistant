@@ -1,0 +1,120 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-08-28",
+  "source_file": "cache/2026-08-28/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 5,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "AWS 在 AI 基礎設施領域的強勁擴張與資本支出帶來的長期成長潛力，正與短期自由現金流壓力形成多空拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Amazon Web Services And NVIDIA Announce An Expansion Of Their Strategic Collaboration To Meet Surging Global Demand For AI Infrastructure",
+      "publisher": "Benzinga",
+      "date": "2026-08-26 17:10",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "AWS 與 NVIDIA 宣布將部署 200 萬顆額外 GPU，並為美國政府建設安全數據中心，顯示其在 AI 基礎設施領域的領導地位與強勁需求。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon Stock is Trending Higher: What's Going On Today?",
+      "publisher": "Benzinga",
+      "date": "2026-08-24 13:13",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Citizens 重申「優於大盤」評級並給予 315 美元目標價，反映市場對其在 OpenAI 與 Anthropic 合作下的成長信心。"
+    },
+    {
+      "rank": 3,
+      "title": "This is One of the Cheapest Magnificent Seven Stocks Right Now",
+      "publisher": "Yahoo",
+      "date": "2026-08-23 16:00",
+      "impact": "medium",
+      "category": "市場估值",
+      "reason": "AWS 營收成長創 18 季新高，但股價估值相對合理，被視為「七巨頭」中具備高成長潛力的低估標的。"
+    },
+    {
+      "rank": 4,
+      "title": "Billionaire David Tepper Has 16% of His $7.5 Billion Appaloosa Portfolio in Amazon Stock",
+      "publisher": "Yahoo",
+      "date": "2026-08-23 11:22",
+      "impact": "low",
+      "category": "機構持倉",
+      "reason": "知名投資人 David Tepper 將 16% 投資組合配置於 Amazon，顯示機構投資人對其作為 AI 超大規模運算商的長期看好。"
+    },
+    {
+      "rank": 5,
+      "title": "Amazon's AWS To Acquire Amsterdam-Based Open Source Database Analytics Firm DuckLabs",
+      "publisher": "Benzinga",
+      "date": "2026-08-26 09:08",
+      "impact": "low",
+      "category": "併購活動",
+      "reason": "收購 DuckLabs 有助於強化 AWS 的數據庫分析能力，進一步鞏固其雲端服務的技術護城河。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Amazon's Free Cash Flow Went Negative by $7.6 Billion Even as Operating Cash Flow Rose 33%",
+      "publisher": "Yahoo",
+      "date": "2026-08-23 15:35",
+      "impact": "high",
+      "category": "財報分析",
+      "reason": "儘管營運現金流成長，但因 AI 資本支出過高導致自由現金流轉負 76 億美元，引發市場對資本效率的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Billionaire Bill Ackman Just Sold Amazon and Bought Microsoft Stock",
+      "publisher": "Motley Fool",
+      "date": "2026-08-28 08:20",
+      "impact": "medium",
+      "category": "投資組合調整",
+      "reason": "Bill Ackman 出清 Amazon 持股轉向 Microsoft，可能暗示市場對兩大雲端巨頭在 AI 獲利能力上的比較偏好轉變。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
+      "publisher": "CNBC",
+      "date": "2026-08-25 20:34",
+      "impact": "low",
+      "category": "產品調整",
+      "reason": "關閉 Mechanical Turk 服務，反映公司在 AI 自動化浪潮下進行業務精簡與資源重組。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Nvidia Still Dominates AI Chips. Meta, Google and Amazon Still Want Their Own.",
+      "publisher": "Benzinga",
+      "date": "2026-08-27 11:01",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析 Amazon 等科技巨頭開發自有晶片的趨勢，屬於長期策略佈局，對短期股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Microsoft, Amazon, Google Court Kimi K3 Maker Despite Bessent Blacklist Threat",
+      "publisher": "Benzinga",
+      "date": "2026-08-26 12:49",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導 Amazon 與 Moonshot AI 洽談合作，但面臨地緣政治與監管黑名單風險，不確定性較高。"
+    },
+    {
+      "rank": 3,
+      "title": "Industry Comparison: Evaluating Amazon.com Against Competitors In Broadline Retail Industry",
+      "publisher": "Benzinga",
+      "date": "2026-08-27 05:58",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "常規性的產業競爭力比較分析，未提供具體影響股價的新資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

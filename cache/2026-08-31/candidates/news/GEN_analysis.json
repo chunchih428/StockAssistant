@@ -1,0 +1,65 @@
+{
+  "ticker": "GEN",
+  "company": "Gen Digital",
+  "analysis_date": "2026-08-28",
+  "source_file": "cache/2026-08-28/candidates/news/GEN.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 4,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場普遍認為 Gen Digital 目前估值偏低且具備雙位數成長潛力，儘管存在內部人賣股的短期雜訊，但技術面與基本面均顯示強勁的買進訊號。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Gen Digital: Too Cheap For Double-Digit Growth",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-22 06:32",
+      "impact": "high",
+      "category": "投資評級",
+      "reason": "分析師指出公司具備強勁的現金流與 FY2027 財測指引，認為目前股價被低估，目標價上看 40 美元，具備顯著的上漲空間。"
+    },
+    {
+      "rank": 2,
+      "title": "Gen Digital: A Cheap Stock With An Underappreciated Growth Opportunity",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-22 07:25",
+      "impact": "medium",
+      "category": "投資評級",
+      "reason": "給予買進評級，強調該股交易價格低於 10 倍預期 EPS，市場對其業務轉型帶來的成長機會存在低估。"
+    },
+    {
+      "rank": 3,
+      "title": "Gen Digital: MoneyLion Opens A New Growth Channel At A Low Valuation",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-25 02:14",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "透過收購 MoneyLion 拓展金融與網路安全交叉銷售渠道，有助於提升客戶變現能力，為長期成長注入新動能。"
+    },
+    {
+      "rank": 4,
+      "title": "Gen Digital (NASDAQ:GEN) Shows a Strong Technical Breakout Setup",
+      "publisher": "ChartMill",
+      "date": "2026-08-26 12:30",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "技術指標評分高達 8/10，顯示股價處於強勁的突破型態，有利於短期動能延續。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Gen Digital Board Member Sold $1.38M In Company Stock",
+      "publisher": "Benzinga",
+      "date": "2026-08-26 11:01",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "董事 Ondrej Vlcek 出售價值 138 萬美元的持股，雖然內部人賣股通常被視為負面訊號，但金額相對公司市值而言影響有限。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}
