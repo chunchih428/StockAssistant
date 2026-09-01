@@ -1,0 +1,101 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-09-01",
+  "source_file": "cache/2026-09-01/candidates/news/NFLX.json",
+  "summary": {
+    "total_articles": 12,
+    "bullish_count": 7,
+    "bearish_count": 0,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "分析師上調目標價與看好 Netflix 轉型為混合型媒體平台的長期成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Wolfe Research Maintains Outperform on Netflix, Raises Price Target to $95",
+      "publisher": "Benzinga",
+      "date": "2026-08-25 11:28",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Wolfe Research 分析師 Peter Supino 維持 Netflix 的「優於大盤」評級，並將目標價上調至 95 美元，顯示市場對其用戶參與度與獲利能力的信心增強。"
+    },
+    {
+      "rank": 2,
+      "title": "Jim Cramer Tells Mad Money Caller Why Netflix (NFLX) Is Worth a Moderate Buy",
+      "publisher": "Insider Monkey",
+      "date": "2026-09-01T03:10:45Z",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "Jim Cramer 對 Netflix 給予「溫和買入」評價，儘管股價過去一年下跌 35%，但其基本面仍具吸引力，此觀點彙整了多篇關於其買入價值的討論。"
+    },
+    {
+      "rank": 3,
+      "title": "The Bull Case for Netflix Stock Is Stronger Than You Think",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-08-31T14:30:15Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "文章深入分析了 Netflix 的長期多頭邏輯，強調其在串流媒體市場的競爭優勢與潛在的獲利成長空間。"
+    },
+    {
+      "rank": 4,
+      "title": "Netflix Puts Worth Shorting Here for High One-Month Yields",
+      "publisher": "Barchart",
+      "date": "2026-08-31T13:15:02Z",
+      "impact": "low",
+      "category": "衍生性商品",
+      "reason": "透過賣出賣權（Shorting Puts）的策略建議，隱含了市場對 Netflix 股價下檔風險有限的看法，對股價具支撐作用。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Netflix (NFLX) Is Recasting Itself As A Hybrid TV Platform",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-30T20:17:14Z",
+      "impact": "medium",
+      "category": "公司策略",
+      "reason": "分析 Netflix 轉型為混合型電視平台的策略，此轉型對營收的具體貢獻尚待觀察，屬於中性偏正面的長期戰略評估。"
+    },
+    {
+      "rank": 2,
+      "title": "Can Gaming Become the Next Revenue Pillar for Netflix Stock?",
+      "publisher": "Zacks",
+      "date": "2026-08-31T13:24:00Z",
+      "impact": "low",
+      "category": "業務拓展",
+      "reason": "探討遊戲業務是否能成為 Netflix 的新營收支柱，目前仍處於探索階段，對短期股價影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "GTA 6 Netflix Special Could Come at Perfect Time With Leaks Out",
+      "publisher": "Benzinga",
+      "date": "2026-08-26 15:58",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "討論 GTA 6 相關特別節目對 Netflix 的潛在影響，屬於單一內容項目的市場炒作，對整體財務影響較小。"
+    },
+    {
+      "rank": 4,
+      "title": "Netflix vs. Meta: The Better Media Stock May Surprise You",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-08-31T17:00:52Z",
+      "impact": "low",
+      "category": "市場比較",
+      "reason": "將 Netflix 與 Meta 進行比較，提供投資人資產配置的參考，並未對 Netflix 本身釋出明確的利多或利空訊號。"
+    },
+    {
+      "rank": 5,
+      "title": "Cramer’s Mad Dash: Netflix",
+      "publisher": "CNBC",
+      "date": "2026-08-25 09:29",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "Jim Cramer 的每日短評，屬於市場情緒的日常追蹤，未提供新的基本面資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

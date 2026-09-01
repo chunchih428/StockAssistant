@@ -1,0 +1,201 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-09-01",
+  "source_file": "cache/2026-09-01/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 6,
+    "bearish_count": 5,
+    "neutral_count": 9,
+    "overall_sentiment": "mixed",
+    "key_theme": "Amazon 正面臨雲端運算與 AI 基礎設施的強勁擴張，但同時受到美國聯邦貿易委員會 (FTC) 針對廣告定價機制的反壟斷訴訟壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Amazon.com (AMZN) Triples AI Chip Orders As Robotaxi Supplier Network Expands",
+      "publisher": "Yahoo",
+      "date": "2026-08-29",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "Amazon 大幅增加 NVIDIA GPU 晶片訂單，顯示其在 AI 運算領域的積極佈局，有助於鞏固 AWS 的技術領先地位。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon Web Services Plans To Launch First Cloud Infrastructure Region In Saudi Arabia By 2026 End",
+      "publisher": "Benzinga",
+      "date": "2026-08-31",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "AWS 宣布進軍沙烏地阿拉伯市場，將擴大其全球雲端基礎設施版圖，為中東地區的數位轉型提供支援。"
+    },
+    {
+      "rank": 3,
+      "title": "Is This the Single Best Reason to Buy Amazon Stock Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-08-30",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "分析指出 AWS 的持續擴張是推動 Amazon 營業利潤成長的核心引擎，具備長期投資價值。"
+    },
+    {
+      "rank": 4,
+      "title": "Marvell Wins Wall Street. Google Bets $12 Billion. Amazon Fears Fade.",
+      "publisher": "Yahoo",
+      "date": "2026-08-30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導提到 Amazon 與 Marvell 的合作關係強化，顯示其在 AI 供應鏈的整合能力，有助於緩解市場對其競爭力的擔憂。"
+    },
+    {
+      "rank": 5,
+      "title": "Amazon Web Services, Microsoft Collaborate On Multicloud Networking",
+      "publisher": "Benzinga",
+      "date": "2026-08-31",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "AWS 與 Microsoft 進行多雲網路合作，提升了雲端服務的互通性，有助於吸引更多企業級客戶。"
+    },
+    {
+      "rank": 6,
+      "title": "Amazon.com vs. MercadoLibre: A Look at Which E-Commerce Stock Is a Better Investment in 2026",
+      "publisher": "Yahoo",
+      "date": "2026-08-30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "指出 Amazon 目前的本益比相較於 MercadoLibre 更具吸引力，展現其在電商領域的價值投資潛力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "FTC to File Lawsuit Alleging Amazon Deceived Advertisers",
+      "publisher": "Benzinga",
+      "date": "2026-08-31",
+      "impact": "high",
+      "category": "法規",
+      "reason": "FTC 針對 Amazon 廣告定價機制提出訴訟，指控其誤導廣告商，此類監管風險可能導致罰款或業務模式被迫調整。"
+    },
+    {
+      "rank": 2,
+      "title": "Employment Department Posts Warn Notice For Amazon To Permanently Lay Off 121 Workers In Washington",
+      "publisher": "Benzinga",
+      "date": "2026-08-31",
+      "impact": "low",
+      "category": "人力資源",
+      "reason": "儘管裁員規模較小，但持續的組織調整顯示公司在成本控制與營運效率上的壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon Has Badly Underperformed the S&P 500 and Nasdaq-100 Since Jeff Bezos Stepped Down as CEO",
+      "publisher": "Yahoo",
+      "date": "2026-08-30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "回顧性分析指出 CEO 更迭後的股價表現落後於大盤，反映市場對現任管理層的信心仍有待觀察。"
+    },
+    {
+      "rank": 4,
+      "title": "What's Going On With the Fall in Amazon Stock?",
+      "publisher": "Benzinga",
+      "date": "2026-08-31",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "直接報導因 FTC 訴訟消息導致股價下跌，反映市場對監管不確定性的敏感度。"
+    },
+    {
+      "rank": 5,
+      "title": "Amazon Refutes U.S. Federal Trade Commission Lawsuit",
+      "publisher": "Benzinga",
+      "date": "2026-08-31",
+      "impact": "low",
+      "category": "法規",
+      "reason": "雖然公司公開反駁指控，但法律訴訟程序通常曠日廢時，持續的法律攻防對股價構成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Stocks making the biggest moves midday: Amazon, Marvell, PayPal, Salesforce & more",
+      "publisher": "CNBC",
+      "date": "2026-08-28",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為盤中交易概況報導，未提供具體基本面分析。"
+    },
+    {
+      "rank": 2,
+      "title": "The AI Tide Hits Hawaii - Power & Fiber Bottlenecks Report",
+      "publisher": "Yahoo",
+      "date": "2026-08-31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "提及 Amazon 為 AI 基礎設施參與者之一，屬於產業趨勢報告，對個股影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "DuLac Farmaceutici Accelerates U.S. Expansion with OneLavi Launch",
+      "publisher": "Yahoo",
+      "date": "2026-08-31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅提及第三方廠商利用 Amazon 平台進行銷售，對 Amazon 本身營收影響微乎其微。"
+    },
+    {
+      "rank": 4,
+      "title": "Performance Comparison: Amazon.com And Competitors In Broadline Retail Industry",
+      "publisher": "Benzinga",
+      "date": "2026-08-31",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "常規性的產業績效比較，未包含重大新資訊。"
+    },
+    {
+      "rank": 5,
+      "title": "Tim Cook's Exit Mirrors Jeff Bezos' Amazon Move",
+      "publisher": "Benzinga",
+      "date": "2026-08-31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對 Apple 高層異動的評論，僅以 Amazon 作為歷史參考案例。"
+    },
+    {
+      "rank": 6,
+      "title": "History Says Amazon Stock's 2 Worst Years of the Past 15 Ended in Net Losses",
+      "publisher": "Yahoo",
+      "date": "2026-08-30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "歷史數據回顧，對當前股價走勢缺乏直接預測力。"
+    },
+    {
+      "rank": 7,
+      "title": "Amazon's $200 Ring doorbell camera keeps packages safe on your porch",
+      "publisher": "Yahoo",
+      "date": "2026-08-29",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "單一消費性電子產品的常規介紹，對整體財務影響極小。"
+    },
+    {
+      "rank": 8,
+      "title": "How Amazon’s ‘Secret’ Ad Pricing System Worked, According to the FTC",
+      "publisher": "The Wall Street Journal",
+      "date": "2026-09-01",
+      "impact": "medium",
+      "category": "法規",
+      "reason": "詳細拆解 FTC 對廣告定價的指控，雖為負面消息，但與後續報導內容重複，故歸類為中性補充資訊。"
+    },
+    {
+      "rank": 9,
+      "title": "Amazon Web Services Accelerates Middle East AI Push with Saudi Cloud Region Launch",
+      "publisher": "Benzinga",
+      "date": "2026-08-31",
+      "impact": "low",
+      "category": "市場擴張",
+      "reason": "與沙烏地阿拉伯雲端區域新聞重複，僅補充了股價下跌的市場情緒描述。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

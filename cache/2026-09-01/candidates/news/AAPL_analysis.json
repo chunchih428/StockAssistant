@@ -1,0 +1,111 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-09-01",
+  "source_file": "cache/2026-09-01/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 2,
+    "bearish_count": 5,
+    "neutral_count": 13,
+    "overall_sentiment": "mixed",
+    "key_theme": "Apple 正處於執行長交接的過渡期，Tim Cook 卸任與 John Ternus 接班引發市場對公司未來策略轉型的關注，同時伴隨裁員、訴訟與訂閱漲價等負面壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Global Phone Shipments Drop, but Apple Positioned for Record iOS Market Share Gain",
+      "publisher": "Benzinga",
+      "date": "2026-08-31 06:48",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管全球手機出貨量下滑，但 Apple 展現出強大的市場韌性，預計將獲得創紀錄的 iOS 市占率，顯示其品牌護城河依然穩固。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple sets iPhone launch event for Sept. 9, first under new CEO John Ternus",
+      "publisher": "CNBC",
+      "date": "2026-08-26 12:24",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "新產品發布會是 Apple 的核心營收驅動力，市場期待新一代 iPhone 與潛在的摺疊機型能為公司帶來新的成長動能。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Apple Alleges Defendant In Trade Secret Case Against OpenAI Accessed Power Converter Circuit Schematic",
+      "publisher": "Benzinga",
+      "date": "2026-08-31 16:14",
+      "impact": "high",
+      "category": "法律訴訟",
+      "reason": "Apple 指控 OpenAI 竊取其電源轉換器電路圖與專有資訊，此法律糾紛可能影響 Apple 在 AI 領域的競爭優勢與合作關係。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple preps for CEO handoff, cuts jobs in AI and software",
+      "publisher": "CNBC",
+      "date": "2026-08-28 16:35",
+      "impact": "medium",
+      "category": "公司治理",
+      "reason": "公司在執行長交接之際進行 AI 與軟體部門裁員，引發市場對於研發投入縮減及內部組織動盪的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple hikes subscription prices for Apple TV and Apple One in the U.S.",
+      "publisher": "CNBC",
+      "date": "2026-08-28 12:56",
+      "impact": "medium",
+      "category": "財務策略",
+      "reason": "漲價雖能短期提升服務營收，但在消費疲軟環境下，可能導致用戶流失並影響服務業務的長期成長性。"
+    },
+    {
+      "rank": 4,
+      "title": "Apple’s Phil Schiller Steps Down from Running App Store, Product Events",
+      "publisher": "Benzinga",
+      "date": "2026-08-31 12:33",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "資深高管 Phil Schiller 卸下 App Store 與產品活動職務，加劇了市場對於領導層變動可能導致策略執行不確定性的疑慮。"
+    },
+    {
+      "rank": 5,
+      "title": "Futurum CEO Daniel Newman: Apple needs to reinvent itself",
+      "publisher": "CNBC",
+      "date": "2026-08-31 06:47",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析師指出 Apple 在後 Tim Cook 時代面臨嚴峻挑戰，必須進行徹底的自我重塑才能維持成長，反映出市場對未來的不確定感。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "End of an era at Apple: Tim Cook's last day as CEO",
+      "publisher": "CNBC",
+      "date": "2026-08-31 09:28",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "Tim Cook 正式卸任執行長，此為市場已預期的事件，新聞多為回顧其 15 年任期內的成就與傳承，對股價無直接衝擊。"
+    },
+    {
+      "rank": 2,
+      "title": "Tim Cook's Exit Mirrors Jeff Bezos' Amazon Move",
+      "publisher": "Benzinga",
+      "date": "2026-08-31 03:12",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "將此次交接與 Amazon 的案例進行比較，屬於市場觀點分析，旨在探討 John Ternus 接班後的潛在挑戰。"
+    },
+    {
+      "rank": 3,
+      "title": "Insights Into Apple's Performance Versus Peers In Technology Hardware, Storage & Peripherals Sector",
+      "publisher": "Benzinga",
+      "date": "2026-08-31 05:58",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "常規的產業績效比較分析，未提供具體影響股價的重大新資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

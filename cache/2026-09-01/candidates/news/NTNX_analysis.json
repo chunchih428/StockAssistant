@@ -1,0 +1,92 @@
+{
+  "ticker": "NTNX",
+  "company": "Nutanix, Inc.",
+  "analysis_date": "2026-09-01",
+  "source_file": "cache/2026-09-01/candidates/news/NTNX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 0,
+    "neutral_count": 5,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Nutanix 發布優於預期的 2026 財年第四季財報，並獲得多家華爾街投行同步上調目標價，市場對其雲端基礎設施與 AI 工具的成長前景信心大增。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Nutanix Tops Estimates in Q4, Shares Jump",
+      "publisher": "Benzinga",
+      "date": "2026-08-26",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司公布 2026 財年第四季財報，營收達 7.57 億美元且調整後每股盈餘達 0.60 美元，雙雙優於市場預期，直接推動股價上漲。"
+    },
+    {
+      "rank": 2,
+      "title": "RBC Capital Maintains Outperform on Nutanix, Raises Price Target to $90",
+      "publisher": "Benzinga",
+      "date": "2026-08-27",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "RBC Capital 分析師 Matthew Hedberg 將目標價大幅上調至 90 美元，反映出對公司獲利能力與市場份額擴張的強烈信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Needham Maintains Buy on Nutanix, Raises Price Target to $85",
+      "publisher": "Benzinga",
+      "date": "2026-08-27",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Needham 分析師 Mike Cikos 將目標價從 60 美元調升至 85 美元，肯定公司在軟體訂閱模式下的強勁成長表現。"
+    },
+    {
+      "rank": 4,
+      "title": "Oppenheimer Maintains Outperform on Nutanix, Raises Price Target to $85",
+      "publisher": "Benzinga",
+      "date": "2026-08-27",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Oppenheimer 分析師 Param Singh 上調目標價至 85 美元，認可公司在雲端基礎設施領域的競爭優勢。"
+    },
+    {
+      "rank": 5,
+      "title": "UBS Maintains Buy on Nutanix, Raises Price Target to $80",
+      "publisher": "Benzinga",
+      "date": "2026-08-25",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "UBS 分析師 Radi Sultan 在財報前夕將目標價調升至 80 美元，顯示市場對其財報表現已有高度正面預期。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Nutanix Sees FY2027 Sales $3.180B-$3.230B vs $3.191B Est",
+      "publisher": "Benzinga",
+      "date": "2026-08-26",
+      "impact": "low",
+      "category": "財測展望",
+      "reason": "公司提供的 2027 財年營收指引中位數與市場預期基本持平，屬於中性偏穩健的展望，未對股價造成顯著波動。"
+    },
+    {
+      "rank": 2,
+      "title": "Nutanix (NTNX) Q4 2026 Earnings Call Transcript",
+      "publisher": "Motley Fool",
+      "date": "2026-08-31",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "此為財報會議逐字稿，提供詳細營運細節，作為投資人評估公司長期策略的參考資料，本身不具備即時市場情緒影響。"
+    },
+    {
+      "rank": 3,
+      "title": "What Is Nutanix (NTNX) Telling Investors With Its New AI And Cloud Tools?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-29",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對公司 AI 與雲端工具的深度分析，屬於長期基本面觀察，對短期股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
