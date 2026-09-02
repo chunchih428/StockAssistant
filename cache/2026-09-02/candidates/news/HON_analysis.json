@@ -1,0 +1,75 @@
+{
+  "ticker": "HON",
+  "company": "Honeywell",
+  "analysis_date": "2026-09-01",
+  "source_file": "cache/2026-09-01/candidates/news/HON.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "Honeywell 在完成業務分拆後，市場焦點轉向其成長前景與財務結構的優化，分析師對其長期價值持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Honeywell International's Growth Outlook Improves After Aerospace Spin, Morgan Stanley Says",
+      "publisher": "MT Newswires",
+      "date": "2026-08-31",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "Morgan Stanley 分析師 Chris Snyder 將目標價調升至 250 美元，並指出分拆航太業務後，Honeywell 的成長前景與資本配置效率顯著改善，為股價提供支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Stock of the Day: Did Honeywell Just Reverse?",
+      "publisher": "Benzinga",
+      "date": "2026-08-27",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "技術面顯示股價在關鍵支撐位出現反轉跡象，賣壓減弱且買盤進場，有利於形成新的上升趨勢。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Honeywell International Inc. (HON) Declines More Than Market: Some Information for Investors",
+      "publisher": "Zacks",
+      "date": "2026-08-28",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價表現落後於大盤，反映短期內市場對其營運調整的觀望情緒，屬於市場波動下的短期修正。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Honeywell: The Spinoff Is Complete, Now Look Ahead To The Future",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-28",
+      "impact": "medium",
+      "category": "財報與營運",
+      "reason": "文章全面檢視了分拆後的財務數據，包括 Q2 營收、EPS 與 200 億美元的積壓訂單，雖提供了長期展望，但同時提醒了各部門面臨的風險，整體觀點中立。"
+    },
+    {
+      "rank": 2,
+      "title": "HON vs. EMR: Which Automation Stock Has Better Growth Potential?",
+      "publisher": "Zacks",
+      "date": "2026-08-27",
+      "impact": "low",
+      "category": "產業比較",
+      "reason": "將 HON 與 Emerson Electric (EMR) 進行比較分析，旨在評估自動化領域的成長潛力，未對 HON 本身給出明確的買進或賣出建議。"
+    },
+    {
+      "rank": 3,
+      "title": "Morgan Stanley Maintains Equal-Weight on Honeywell Intl, Raises Price Target to $250",
+      "publisher": "Benzinga",
+      "date": "2026-08-31",
+      "impact": "low",
+      "category": "評級變動",
+      "reason": "雖然調升了目標價，但維持 Equal-Weight (中立) 評級，顯示分析師認為目前股價已反映其基本面價值，缺乏進一步上漲的催化劑。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

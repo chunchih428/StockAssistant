@@ -1,0 +1,138 @@
+{
+  "ticker": "IBM",
+  "company": "International Business Machines Corporation",
+  "analysis_date": "2026-09-01",
+  "source_file": "cache/2026-09-01/candidates/news/IBM.json",
+  "summary": {
+    "total_articles": 13,
+    "bullish_count": 5,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "IBM 透過推出結合 Arm 架構的 2 奈米處理器與 AI 應用展現技術轉型實力，但面臨大型主機業務下滑壓力與高層持股變動的市場雜音。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "IBM Introduces New Mainframe Processor Combining Its Own Tech With Arm Architecture",
+      "publisher": "Yahoo",
+      "date": "2026-08-29",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "IBM 推出結合 Arm 架構的 2 奈米處理器，此舉顯著擴展了其運算能力與生態系統，被視為推動未來成長的關鍵技術里程碑。"
+    },
+    {
+      "rank": 2,
+      "title": "IBM: Big Blue Is Not Going Back To The Dinosaur Age",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-25",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "混合雲與數據業務展現雙位數成長，證明公司成功轉型，擺脫傳統業務衰退的刻板印象。"
+    },
+    {
+      "rank": 3,
+      "title": "IBM (IBM) Emerges As A Leading Enterprise Blockchain Provider In New Market Report",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "被評選為領先的企業區塊鏈供應商，強化了公司在企業級技術解決方案的市場地位。"
+    },
+    {
+      "rank": 4,
+      "title": "Jim Cramer: This Tech Company Had An ‘Amazing’ Quarter",
+      "publisher": "Benzinga",
+      "date": "2026-08-25",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "知名財經評論員 Jim Cramer 對 IBM 的季度表現給予正面評價，有助於提升市場信心。"
+    },
+    {
+      "rank": 5,
+      "title": "IBM Brings AI-Powered US Open Fan Experience Back to Madison Square Park",
+      "publisher": "Yahoo",
+      "date": "2026-08-27",
+      "impact": "low",
+      "category": "市場行銷",
+      "reason": "透過 AI 贊助美國網球公開賽，成功展示其 AI 應用能力，提升品牌形象與市場能見度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "IBM: Get Paid To Wait For Growth",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-28",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "儘管分析師維持買進評級，但報告指出大型主機業務營收下滑 42%，顯示核心業務面臨嚴峻挑戰。"
+    },
+    {
+      "rank": 2,
+      "title": "IBM Form4 Filing Shows Senior VP Thomas Robert David Sells 25,000 Shares",
+      "publisher": "Benzinga",
+      "date": "2026-08-28",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "資深副總裁 Thomas Robert David 出售 25,000 股股票，內部人賣股行為通常會引發投資人對公司前景的疑慮。"
+    },
+    {
+      "rank": 3,
+      "title": "IBM Stock Is Under Pressure. Is Its Quantum Business Reason Enough to Buy?",
+      "publisher": "Barrons.com",
+      "date": "2026-08-31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場對 IBM 股價表現感到壓力，質疑量子運算業務是否足以支撐目前的估值。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Susquehanna Maintains Neutral on IBM, Raises Price Target to $235",
+      "publisher": "Benzinga",
+      "date": "2026-08-31",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Susquehanna 維持中立評級，僅小幅上調目標價，反映市場對其成長潛力與風險的平衡看法。"
+    },
+    {
+      "rank": 2,
+      "title": "How Wide Is The Risk Band On IBM Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-08-28",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析選擇權市場的波動區間，屬於技術性市場分析，對股價基本面無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Is IonQ Stock Sinking?",
+      "publisher": "Yahoo",
+      "date": "2026-08-27",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此篇主要討論 IonQ 的股價下跌，僅提及 IBM 表現相對穩定，對 IBM 本身無重大影響。"
+    },
+    {
+      "rank": 4,
+      "title": "Why Is Arm Holdings (ARM) Stock Trending After Hours",
+      "publisher": "Benzinga",
+      "date": "2026-08-26",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導重點在於 Arm Holdings 的股價波動，IBM 與其合作僅為次要背景因素。"
+    },
+    {
+      "rank": 5,
+      "title": "Is IBM’s Dual-Architecture 2nm Mainframe Reshaping The Investment Case?",
+      "publisher": "Yahoo",
+      "date": "2026-08-28",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "此篇為針對 2 奈米處理器發布的深度分析，內容與已發布的產品新聞重複，故歸類為中性觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

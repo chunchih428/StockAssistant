@@ -1,0 +1,92 @@
+{
+  "ticker": "NET",
+  "company": "Cloudflare",
+  "analysis_date": "2026-09-01",
+  "source_file": "cache/2026-09-01/holdings/news/NET.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 5,
+    "bearish_count": 0,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "Cloudflare 憑藉在 AI 領域的擴張與聯邦政府業務的強勁滲透，獲得分析師調升目標價與市場正面評價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Citizens Reiterates Market Outperform on Cloudflare, Maintains $394 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-08-31 08:42",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Citizens 分析師 Patrick Walravens 重申對 Cloudflare 的「優於大盤」評級，並維持 394 美元的高目標價，顯示機構投資人對其長期成長潛力具備高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Cloudflare (NET) Price Target Increased by 25.01% to 337.83",
+      "publisher": "Fintel",
+      "date": "2026-08-28 03:07",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "市場目標價顯著上調 25.01 %，反映了賣方研究機構對公司未來獲利能力與市場份額擴張的預期修正。"
+    },
+    {
+      "rank": 3,
+      "title": "The Next Palantir? 100 Federal Agencies Already Use Cloudflare, and It’s Cleared For More",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-08-29T15:35:44Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "公司在聯邦政府領域的滲透率提升，已有 100 個政府機構採用，這類高黏著度與高安全標準的客戶群將成為穩定的營收護城河。"
+    },
+    {
+      "rank": 4,
+      "title": "Cloudflare Makes Bigger AI Push as Threats Rise",
+      "publisher": "GuruFocus.com",
+      "date": "2026-09-01T02:32:37Z",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "隨著網路威脅增加，Cloudflare 加大對 AI 產品的投入，這有助於鞏固其在邊緣運算與安全領域的領導地位。"
+    },
+    {
+      "rank": 5,
+      "title": "Wix, Workiva, DigitalOcean, Commvault, and Cloudflare Stocks Trade Up, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-08-28T04:41:07Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Cloudflare 股價隨同類股上漲，顯示市場對雲端軟體板塊的整體情緒偏向正面。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "How Investors May Respond To Cloudflare (NET) Workers Platform Emerging As A Meaningful Revenue Driver",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-27T15:06:19Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討 Workers 平台作為營收驅動力的潛力，屬於中性分析，旨在引導投資人關注該業務對財報的貢獻度。"
+    },
+    {
+      "rank": 2,
+      "title": "Cloudflare (NET) Workers Growth Has Investors Asking If The Stock Is Already Priced In",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-27T11:05:55Z",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對 Workers 業務成長是否已完全反映在當前股價中提出疑問，屬於市場估值合理性的討論，無明確多空傾向。"
+    },
+    {
+      "rank": 3,
+      "title": "CrowdStrike Posts Best Quarter Ever, but Cathie Wood's Ark Sells Shares Amid Cloudflare, Cerebras Buys",
+      "publisher": "Benzinga",
+      "date": "2026-08-27 00:17",
+      "impact": "low",
+      "category": "投資組合變動",
+      "reason": "報導 Ark Invest 的持倉調整，雖然提到買入 Cloudflare，但主要焦點在於 CrowdStrike 的財報，對 NET 本身影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
