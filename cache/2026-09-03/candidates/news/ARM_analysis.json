@@ -1,0 +1,74 @@
+{
+  "ticker": "ARM",
+  "company": "Arm Holdings plc",
+  "analysis_date": "2026-09-01",
+  "source_file": "cache/2026-09-01/candidates/news/ARM.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "ARM 受惠於 NVIDIA 強勁財報帶動的 AI 產業動能，以及與 IBM 擴大合作帶來的技術生態系擴張。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why Is Arm Stock Surging on Thursday? — Arm Holdings PLC (NASDAQ: ARM) stock surges Thursday following Nvidia’s Q2 financial results and optimistic guidance",
+      "publisher": "Benzinga",
+      "date": "2026-08-27",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "ARM 作為 AI 晶片架構核心，與 NVIDIA 的業務高度連動。NVIDIA 優異的財報與展望直接驗證了 AI 基礎設施的強勁需求，推升 ARM 股價表現。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Is Arm Holdings (ARM) Stock Trending After Hours — Arm Holdings shares climbed 4.76% in after-hours trading Wednesday, extending gains after an expanded IBM collaboration",
+      "publisher": "Benzinga",
+      "date": "2026-08-26",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 IBM 擴大合作顯示 ARM 在企業級運算與雲端架構的影響力持續提升，有助於鞏固其在非手機領域的營收成長潛力。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "ARM vs. NVDA: Which AI Chip Designer is Worth Investing in?",
+      "publisher": "Zacks",
+      "date": "2026-08-31",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "該文章為比較分析性質，旨在探討兩家公司在 AI 領域的投資價值差異，並未提供具體買賣建議或重大新消息。"
+    },
+    {
+      "rank": 2,
+      "title": "Arm Holdings (ARM) Heads To TestMu Conference, Is The AI Story Fully Priced?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-31",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討 ARM 參與會議的動態，並對其 AI 題材是否已反映在股價中提出疑問，屬於市場情緒觀察，無實質利多或利空影響。"
+    },
+    {
+      "rank": 3,
+      "title": "SoftBank: A Discounted Bet On The Entire AI Stack",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-26",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "文章重點在於軟銀 (SoftBank) 的投資價值，ARM 被視為其 AI 投資組合的一部分，對 ARM 本身股價無直接驅動影響。"
+    },
+    {
+      "rank": 4,
+      "title": "What's Going On With ARM Stock Monday",
+      "publisher": "GuruFocus.com",
+      "date": "2026-09-01",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為例行性的市場盤點報導，缺乏具體影響股價的重大事件或基本面變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,120 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla",
+  "analysis_date": "2026-09-01",
+  "source_file": "cache/2026-09-01/holdings/news/TSLA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 11,
+    "bearish_count": 4,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場高度聚焦即將到來的 Cybercab 發布會，儘管面臨人形機器人競爭與監管審查，但投資人對自動駕駛與機器人業務的長期成長潛力仍持樂觀態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Tesla Stock Surges Ahead of Cybercab Event",
+      "publisher": "Benzinga",
+      "date": "2026-08-31 13:15",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "市場對即將舉行的 Cybercab 發布會預期心理強烈，推動股價上漲，顯示投資人對 Tesla 自動駕駛業務的變現能力充滿信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla's 500-Semi Einride Order Finally Gets a Timeline",
+      "publisher": "Benzinga",
+      "date": "2026-08-28 05:40",
+      "impact": "medium",
+      "category": "商業合約",
+      "reason": "Tesla 獲得 Einride AB 的 500 輛 Semi 卡車訂單並確認 2026 年交付時程，具體營收貢獻路徑明確，有利於市場對其商用車業務的評估。"
+    },
+    {
+      "rank": 3,
+      "title": "Jason Calacanis Says TSLA's Optimus Will Eclipse AAPL's iPhone",
+      "publisher": "Benzinga",
+      "date": "2026-08-26 05:21",
+      "impact": "medium",
+      "category": "市場展望",
+      "reason": "知名投資人看好 Optimus 機器人長期潛力，預測其銷量將超越 iPhone，強化了 Tesla 作為 AI 與機器人公司的估值邏輯。"
+    },
+    {
+      "rank": 4,
+      "title": "Trade Tracker: Bryn Talkington buys more Tesla",
+      "publisher": "CNBC",
+      "date": "2026-08-31 13:17",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "機構投資人加碼買進 Tesla，顯示專業投資者對公司當前股價與未來成長性的認可。"
+    },
+    {
+      "rank": 5,
+      "title": "Japan's Terra Charge To Roll Out Tesla-Compatible EV Charging Stations",
+      "publisher": "Benzinga",
+      "date": "2026-08-26 13:13",
+      "impact": "low",
+      "category": "市場擴張",
+      "reason": "日本充電樁營運商採用 NACS 標準，進一步鞏固 Tesla 充電技術在全球市場的標準化地位。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Tesla's Optimus Rival Could Be Worth $6 Billion As SoftBank Circles OpenAI-Backed 1X",
+      "publisher": "Benzinga",
+      "date": "2026-08-27 14:46",
+      "impact": "medium",
+      "category": "競爭分析",
+      "reason": "軟銀投資 OpenAI 支持的 1X 機器人公司，顯示人形機器人領域競爭加劇，且市場對 Tesla 達成 2026 年目標的機率僅給予 3% 的預期。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla Isn't Leading Humanoid Robotics—Figure AI Is, RoboStrategy CEO Says",
+      "publisher": "Benzinga",
+      "date": "2026-08-25 09:09",
+      "impact": "low",
+      "category": "競爭分析",
+      "reason": "分析師指出 Figure AI 在商業化產品進度上領先 Tesla，對 Tesla 在人形機器人領域的技術領先地位提出質疑。"
+    },
+    {
+      "rank": 3,
+      "title": "Australian judge floats giving court-appointed expert access to Tesla's engineering systems",
+      "publisher": "Reuters",
+      "date": "2026-09-01 02:09",
+      "impact": "low",
+      "category": "法規與訴訟",
+      "reason": "澳洲法院考慮允許外部專家存取 Tesla 工程系統，可能引發技術機密外洩的擔憂，並增加監管審查壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Tesla Denies It’s Pulling Back on FSD in China",
+      "publisher": "Benzinga",
+      "date": "2026-08-27 04:57",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "公司出面闢謠關於 FSD 在中國撤退的傳聞，雖然消除了不確定性，但未帶來實質利多。"
+    },
+    {
+      "rank": 2,
+      "title": "General Motors vs. Tesla: Comparing Revenue Growth Trajectories",
+      "publisher": "Motley Fool",
+      "date": "2026-09-01 01:50",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "對比 GM 與 Tesla 的營收成長路徑，屬於常規的產業分析報告，對股價無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "AMD vs. Nvidia: SpaceX and Tesla CEO Elon Musk Weighs In",
+      "publisher": "Motley Fool",
+      "date": "2026-09-01 05:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Elon Musk 對晶片廠的評論主要與 SpaceX 相關，對 Tesla 本身基本面影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
