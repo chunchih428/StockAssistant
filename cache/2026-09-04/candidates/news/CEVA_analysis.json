@@ -1,0 +1,28 @@
+{
+  "ticker": "CEVA",
+  "company": "CEVA",
+  "analysis_date": "2026-09-02",
+  "source_file": "cache/2026-09-02/candidates/news/CEVA.json",
+  "summary": {
+    "total_articles": 1,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "近期股價出現顯著回調，市場對於是否進場抄底持觀望態度。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "CEVA Stock Slides 19% in a Month: Should You Buy the Dip or Wait?",
+      "publisher": "Zacks",
+      "date": "2026-09-01T16:03:00Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "CEVA 股價在一個月內下跌 19 %，顯示市場賣壓沉重，技術面轉弱，投資人對其短期走勢信心不足，需觀察是否有基本面支撐以判斷是否為抄底時機。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

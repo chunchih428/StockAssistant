@@ -1,0 +1,47 @@
+{
+  "ticker": "CGNX",
+  "company": "Cognex",
+  "analysis_date": "2026-09-01",
+  "source_file": "cache/2026-09-01/candidates/news/CGNX.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場分析師對 Cognex 的獲利預期持樂觀態度，並看好其在自動化產業中的成長潛力與股價上漲空間。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Wall Street Analysts See a 27.01% Upside in Cognex (CGNX): Can the Stock Really Move This High?",
+      "publisher": "Zacks",
+      "date": "2026-08-27T13:55:04Z",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "分析師給出高達 27.01% 的潛在上漲空間，反映市場對該公司未來股價表現的高度信心，是強力的買進訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "Can Cognex (CGNX) Run Higher on Rising Earnings Estimates?",
+      "publisher": "Zacks",
+      "date": "2026-08-27T16:20:02Z",
+      "impact": "medium",
+      "category": "財報預測",
+      "reason": "獲利預估值的上調通常是股價上漲的先行指標，顯示公司基本面改善，有利於支撐股價走勢。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Three Earnings Reports Put the Automation Rally to the Test",
+      "publisher": "ChartMill",
+      "date": "2026-08-27 12:07",
+      "impact": "low",
+      "category": "產業動態",
+      "reason": "該報導將 Cognex 與其他機器人公司並列，旨在檢視自動化產業的漲勢是否由基本面支撐，屬於中性的市場觀察，未直接對股價產生明確多空指引。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

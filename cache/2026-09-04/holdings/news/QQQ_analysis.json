@@ -1,0 +1,93 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-09-01",
+  "source_file": "cache/2026-09-01/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管面臨 9 月季節性疲軟與資金輪動壓力，QQQ 仍展現強勁的市場吸引力與資金淨流入趨勢。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "QUICK SPARK: $3.8B SPY Exodus Meets $3.7B QQQ Inflow in One Day",
+      "publisher": "Benzinga",
+      "date": "2026-08-27",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "單日錄得 36.7 億美元的資金淨流入，顯示機構投資者在市場波動中仍偏好 QQQ 作為核心配置，相較於 SPY 的資金流出更具指標意義。"
+    },
+    {
+      "rank": 2,
+      "title": "Stocks Were Strong In August. Here's What Could Derail The S&P 500's Rally",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-31",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "8 月份 QQQ 在主要指數中表現領先，證明其在科技股帶動的市場反彈中具備強勁的動能與抗跌性。"
+    },
+    {
+      "rank": 3,
+      "title": "SPY And QQQ: 'Stable' Still Supports Selective Leverage, But Entry And Exit Rules Matter",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-28",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "基於 ERM 穩定機制分析，當前宏觀經濟環境對 QQQ 而言屬於歷史性的利多區間，支持投資者進行選擇性槓桿操作。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "QQQM: Notable Nasdaq 100 Risks Heading Into September",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-26",
+      "impact": "medium",
+      "category": "風險評估",
+      "reason": "儘管估值合理（21.4 倍本益比），但技術面轉弱且面臨 9 月份歷史季節性疲軟的壓力，建議持保守態度。"
+    },
+    {
+      "rank": 2,
+      "title": "QUICK SPARK: Gold ETF Leads Inflows as Investors Pull Billions From Mega-Cap ETFs in One Day",
+      "publisher": "Benzinga",
+      "date": "2026-08-25",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "投資者在短期內將資金從大型股 ETF（包含 QQQ）輪動至黃金等避險資產，反映市場對短期波動的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "If You'd Invested $1,000 in QQQ 20 Years Ago, Here's What You'd Have Today",
+      "publisher": "Motley Fool",
+      "date": "2026-08-30",
+      "impact": "low",
+      "category": "長期績效",
+      "reason": "回顧性分析，雖強調長期持有 QQQ 的複利效應，但對當前股價走勢無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "SCHD And QQQ: The New 60-40 Portfolio (Bitcoin And Gold Edition)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-30",
+      "impact": "low",
+      "category": "資產配置",
+      "reason": "探討資產配置策略的轉變，將 QQQ 視為現代投資組合的一部分，屬中性策略建議。"
+    },
+    {
+      "rank": 3,
+      "title": "Treasury Bond Buybacks Cannot Solve A Fiscal Problem; Nvidia Earnings And Inflation Data Expected Tomorrow",
+      "publisher": "Benzinga",
+      "date": "2026-08-25",
+      "impact": "low",
+      "category": "總體經濟",
+      "reason": "提及 Nvidia 財報與通膨數據對市場的潛在影響，屬於市場觀望情緒，未對 QQQ 本身做出明確多空判斷。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

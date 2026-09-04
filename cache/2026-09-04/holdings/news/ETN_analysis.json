@@ -1,0 +1,83 @@
+{
+  "ticker": "ETN",
+  "company": "Eaton",
+  "analysis_date": "2026-09-01",
+  "source_file": "cache/2026-09-01/holdings/news/ETN.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 Eaton 在 AI 資料中心與醫療領域的戰略佈局持樂觀態度，且分析師持續上調目標價，顯示其成長動能強勁。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Morgan Stanley Maintains Overweight on Eaton Corp, Raises Price Target to $520",
+      "publisher": "Benzinga",
+      "date": "2026-08-28 10:28",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Morgan Stanley 分析師 Chris Snyder 維持對 Eaton 的「加碼」評級，並將目標價調升至 $520，反映出機構投資人對其長期獲利能力的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "All You Need to Know About Eaton (ETN) Rating Upgrade to Buy",
+      "publisher": "Zacks",
+      "date": "2026-08-28 16:00",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Zacks 將 Eaton 的評級上調至「買進」，進一步強化了市場對該公司基本面改善的正面預期。"
+    },
+    {
+      "rank": 3,
+      "title": "Should Eaton’s AI Data Center and Healthcare Deals With Trane Signal a Strategic Shift for ETN Investors?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-29 09:06",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "Eaton 與 Trane 在 AI 資料中心及醫療領域的合作，顯示公司正積極轉型至高成長市場，為未來營收成長提供明確驅動力。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Eaton Stock Riskier Than It Was A Year Ago?",
+      "publisher": "Trefis",
+      "date": "2026-08-31 18:41",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "文章探討風險評估，並未給出明確的買賣建議，僅針對過去一年的風險變化進行中性分析。"
+    },
+    {
+      "rank": 2,
+      "title": "GE Vernova Slides 3%, Vertiv Holdings and Eaton Sit Out the Selloff",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-08-31 13:48",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出 Eaton 在近期市場拋售潮中表現相對抗跌，顯示其股價具備防禦性，但並未帶來顯著的漲跌催化劑。"
+    },
+    {
+      "rank": 3,
+      "title": "Eaton Stock Can Swing Far More Than Its Steady Story Suggests",
+      "publisher": "Trefis",
+      "date": "2026-08-28 20:16",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析指出 Eaton 股價波動性可能高於市場預期，提醒投資人注意潛在的市場波動風險，屬於中性觀點。"
+    },
+    {
+      "rank": 4,
+      "title": "How Much Upside Can ETN Stock's Growth Deliver?",
+      "publisher": "Trefis",
+      "date": "2026-08-27 19:57",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "針對成長潛力進行量化分析，提供投資人參考數據，未有明顯偏向多空的情緒表達。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
