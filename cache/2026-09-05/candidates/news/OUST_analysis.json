@@ -1,0 +1,75 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-09-05",
+  "source_file": "cache/2026-09-05/candidates/news/OUST.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 6,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "Ouster 正透過與 John Deere 等產業龍頭的深度合作，成功將業務從單純的 Lidar 硬體轉型為「實體 AI」解決方案供應商，市場對其成長潛力持高度正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ouster Is Becoming A Serious Physical AI Player",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-04",
+      "impact": "high",
+      "category": "業務轉型",
+      "reason": "該文全面分析了 Ouster 透過 Rev8、Stereolabs 與 BlueCity 等佈局，成功跨足機器人與智慧基礎設施領域，確立了其作為「實體 AI」核心供應商的市場地位，具備長期成長動能。"
+    },
+    {
+      "rank": 2,
+      "title": "How Ouster Is Helping Deere Implement Physical AI",
+      "publisher": "Barrons.com",
+      "date": "2026-08-26",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "與農業機械巨頭 John Deere 的合作是 Ouster 進入工業自動化市場的關鍵里程碑，驗證了其技術在嚴苛環境下的應用價值，此篇報導涵蓋了與 GUSS 機器人合作的細節，具代表性。"
+    },
+    {
+      "rank": 3,
+      "title": "Will GeoCue Partnership Accelerate Ouster's Lidar Growth?",
+      "publisher": "Zacks",
+      "date": "2026-09-03",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "與 GeoCue 的合作進一步擴展了 Ouster 在測繪與地理空間領域的市占率，顯示公司產品在多樣化垂直市場的滲透能力增強。"
+    },
+    {
+      "rank": 4,
+      "title": "How Trossen Robotics Collaboration Could Strengthen Ouster's Prospects",
+      "publisher": "Zacks",
+      "date": "2026-09-01",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 Trossen Robotics 的合作有助於 Ouster 進入機器人研發與教育市場，雖規模較小，但有助於建立生態系影響力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Is Ouster (OUST) Stock Too Expensive After A Very Large 3 Year Run?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-08-27",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "文章針對 Ouster 過去 3 年股價大幅上漲後的估值合理性提出質疑，提醒投資人需關注高成長預期下的回調風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ouster Vs. Aeva: Which is the Better Physical AI Lidar Bet Now?",
+      "publisher": "Zacks",
+      "date": "2026-08-26",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該文屬於同業比較分析，旨在探討 Ouster 與 Aeva 在實體 AI 領域的競爭優勢，未提供具體利多或利空消息，僅為投資策略參考。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,65 @@
+{
+  "ticker": "BE",
+  "company": "Bloom Energy Corporation",
+  "analysis_date": "2026-09-05",
+  "source_file": "cache/2026-09-05/holdings/news/BE.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Bloom Energy 獲納入 S&P 500 指數成分股，且作為 AI 基礎設施瓶頸解決方案受到市場高度關注。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "BE, P, ILMN Join S&P 500; Bloom Energy Stock Gains",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 23:42",
+      "impact": "high",
+      "category": "指數調整",
+      "reason": "Bloom Energy 正式獲納入 S&P 500 指數，此舉將引發被動型基金的強制買盤，顯著提升流動性與機構持股信心，故選此篇作為代表。"
+    },
+    {
+      "rank": 2,
+      "title": "NVDA Is Booming, But BlackRock Sounds the Alarm on a $100 Billion AI Debt Problem: Are AI Bottleneck Plays BE, VRT, MU the Next Winners?",
+      "publisher": "Benzinga",
+      "date": "2026-09-01 07:22",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "BlackRock 指出 AI 基礎設施瓶頸股（如 Bloom Energy）將成為資金避風港，顯示市場將其視為 AI 算力擴張的關鍵電力供應商。"
+    },
+    {
+      "rank": 3,
+      "title": "What Makes Bloom Energy (BE) a Compelling Investment Bet?",
+      "publisher": "Yahoo",
+      "date": "2026-09-03 13:29",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "Sands Capital 在其 Q2 投資信中將 Bloom Energy 列為具吸引力的投資標的，反映出專業機構投資人對其成長潛力的認可。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Bloom Energy (BE) Stock Outpacing Its Oils-Energy Peers This Year?",
+      "publisher": "Yahoo",
+      "date": "2026-09-02 13:40",
+      "impact": "low",
+      "category": "績效評估",
+      "reason": "僅為單純的股價績效比較分析，未涉及公司基本面變動，對股價影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Bloom Energy (BE) Set To Join The S&P 500 In Quarterly Rebalancing",
+      "publisher": "Yahoo",
+      "date": "2026-09-05 01:08",
+      "impact": "low",
+      "category": "指數調整",
+      "reason": "此篇報導與 9 月 4 日的 S&P 500 納入新聞內容重複，僅作為資訊更新，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,201 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-09-05",
+  "source_file": "cache/2026-09-05/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 8,
+    "bearish_count": 6,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "Amazon 在雲端運算與 AI 領域的強勁擴張與投資動能，與面臨的反壟斷監管及勞工權益挑戰形成多空拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "AWS Plans 2 Million More NVIDIA GPUs. Is This Better News for AMZN’s Cloud Growth or NVDA’s Backlog?",
+      "publisher": "Yahoo",
+      "date": "2026-09-05 00:04",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "AWS 宣布採購 200 萬顆 NVIDIA 高階 GPU，顯示其在 AI 基礎設施的領先布局，將顯著提升雲端運算競爭力。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon's $100 Billion Anthropic Contract Gets a 45% Cheaper Engine",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 19:37",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Anthropic 的 Claude Fable 5.1 模型成本降低 45%，將優化 AWS 客戶的經濟效益，深化雙方合作價值。"
+    },
+    {
+      "rank": 3,
+      "title": "Palantir Billionaire Peter Thiel Buys an AI Stock Up 560% in 10 Years (Hint: Not Nvidia)",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 10:04",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名投資人 Peter Thiel 在第二季買入 Amazon 股票，顯示機構投資者對其 AI 轉型與長期成長的信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Founder-Led Companies That Are Redefining Technology and Growth",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 18:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Amazon 被列為創辦人領導的頂尖科技公司，強調其強大的創新願景與長期成長潛力。"
+    },
+    {
+      "rank": 5,
+      "title": "The Zacks Analyst Blog Highlights Amazon.com, AbbVie, Alibaba and Lulu's Fashion Lounge",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 14:29",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析師看好 Amazon 的多元化成長策略與 AI 業務推動力，維持正面評價。"
+    },
+    {
+      "rank": 6,
+      "title": "OpenAI Declares “AGI Era” With Astra Launch. Anthropic’s Fable 5.1 More Than Doubled Its Predecessor’s Science Score. MSFT and AMZN Both Win",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 04:11",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Anthropic 模型效能大幅提升，作為主要合作夥伴的 Amazon 將從中獲益，強化其在 AI 領域的競爭優勢。"
+    },
+    {
+      "rank": 7,
+      "title": "Better Consumer Stock for 2026: Amazon.com vs. Walt Disney",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 03:17",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "比較報告指出 Amazon 的雲端市占率與 10.8% 的淨利率優於 Disney，具備更佳的財務體質。"
+    },
+    {
+      "rank": 8,
+      "title": "Amazon vs. Microsoft: 1 Key Metric Identifies the Superior Artificial Intelligence (AI) Cloud Stock",
+      "publisher": "Yahoo",
+      "date": "2026-09-03 21:13",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析指出 Amazon 的雲端營收成長正在加速，展現出與 Microsoft 在 AI 領域競爭的強勁實力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "FTC's Andrew Ferguson on Amazon lawsuit: Received billions in additional profit from advertisers",
+      "publisher": "CNBC",
+      "date": "2026-09-01 13:37",
+      "impact": "high",
+      "category": "法規",
+      "reason": "FTC 主席針對反壟斷訴訟發言，指控 Amazon 從廣告商獲取不當利潤，增加法律與監管風險。"
+    },
+    {
+      "rank": 2,
+      "title": "DOJ expands beef price probe to eight retailers, including Walmart and Amazon",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 18:45",
+      "impact": "medium",
+      "category": "法規",
+      "reason": "司法部擴大對零售商牛肉價格的調查，Amazon 被列入名單，可能面臨合規成本與聲譽損害。"
+    },
+    {
+      "rank": 3,
+      "title": "What Amazon.com (AMZN)'s Riverside Warehouse Strike Reveals About Labor Risk in Its Logistics Model",
+      "publisher": "Yahoo",
+      "date": "2026-09-03 23:08",
+      "impact": "medium",
+      "category": "勞工權益",
+      "reason": "加州倉庫發生罷工事件，凸顯 Amazon 在物流模式中面臨的勞工組織與營運中斷風險。"
+    },
+    {
+      "rank": 4,
+      "title": "Market Chatter: Global Corporate Giants Draw Regulatory Attention to Blacklisted Groups in Supply Chains",
+      "publisher": "Yahoo",
+      "date": "2026-09-03 09:09",
+      "impact": "low",
+      "category": "法規",
+      "reason": "供應鏈涉及黑名單企業引發監管關注，增加企業社會責任與合規壓力。"
+    },
+    {
+      "rank": 5,
+      "title": "How Far Can Amazon Stock Fall When The Business Is Fine?",
+      "publisher": "Yahoo",
+      "date": "2026-09-03 16:41",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價近期下跌 10%，反映市場對短期波動的擔憂，儘管基本面依然穩健。"
+    },
+    {
+      "rank": 6,
+      "title": "Market Chatter: Anthropic, OpenAI Take Different Positions on Massachusetts AI Safety Bill",
+      "publisher": "Yahoo",
+      "date": "2026-09-03 14:06",
+      "impact": "low",
+      "category": "法規",
+      "reason": "Amazon 投資的 Anthropic 支持 AI 安全法案，可能對未來 AI 產品開發速度與成本產生影響。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Waymo and Zoox expand into more U.S. markets as robotaxi race heats up",
+      "publisher": "CNBC",
+      "date": "2026-09-01 10:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Amazon 旗下的 Zoox 擴大自動駕駛測試，屬於長期布局，對短期股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Jensen Huang's Nvidia Guided for 70% Revenue Growth in Fiscal 2028",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 15:37",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此新聞主要聚焦於 NVIDIA 的財測，Amazon 的採購僅為背景資訊，對 AMZN 本身影響中性。"
+    },
+    {
+      "rank": 3,
+      "title": "Understanding Amazon.com's Position In Broadline Retail Industry Compared To Competitors",
+      "publisher": "Benzinga",
+      "date": "2026-09-04 05:58",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "行業分析報告，提供競爭格局概覽，無具體利多或利空催化劑。"
+    },
+    {
+      "rank": 4,
+      "title": "Amazon.com (AMZN): AI Exposure Adds, But Other Businesses Drive Results",
+      "publisher": "Yahoo",
+      "date": "2026-09-03 14:30",
+      "impact": "low",
+      "category": "財報",
+      "reason": "投資信件摘要，重申 AI 業務與核心業務的貢獻，屬於例行性分析。"
+    },
+    {
+      "rank": 5,
+      "title": "Walmart Jumps Nearly 2.8% as Justice Department Widens Beef-Pricing Review",
+      "publisher": "Yahoo",
+      "date": "2026-09-03 21:28",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此新聞重點在於 Walmart 的股價反應，Amazon 僅被提及為受調查對象之一，影響力較小。"
+    },
+    {
+      "rank": 6,
+      "title": "Trump's DOJ Expands Beef Price Probe to Walmart, Costco, Amazon and 5 Other Retail Giants",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 14:30",
+      "impact": "low",
+      "category": "法規",
+      "reason": "與上述 DOJ 調查重複，選此篇作為代表，強調調查範圍廣泛，對單一公司影響尚不明確。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,102 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-09-05",
+  "source_file": "cache/2026-09-05/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管市場廣度波動劇烈，但 QQQ 仍展現強勁的資金流入與領漲態勢，投資人持續將其視為資產配置的核心標的。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "QUICK SPARK: QQQ, VOO Lead ETF Inflows as Investors Rotate Into Gold and Treasurys",
+      "publisher": "Benzinga",
+      "date": "2026-09-03 08:39",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "QQQ 單日吸引 8.6 億美元資金流入，顯示在市場輪動過程中，機構與散戶投資人仍將 QQQ 作為首選的成長型 ETF，具備強勁的買盤支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Breadth Recovery Gains Ground as SPY and QQQ Reclaim Their Short-Term Trend",
+      "publisher": "ChartMill",
+      "date": "2026-09-04 10:50",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "市場廣度連續兩日改善，QQQ 成功重回短期趨勢線上方，技術面轉強有利於吸引動能交易者進場。"
+    },
+    {
+      "rank": 3,
+      "title": "Stocks Were Strong In August. Here's What Could Derail The S&P 500's Rally",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-31 16:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "回顧 8 月份市場表現，QQQ 在科技股領漲帶動下表現優於大盤，確立了其作為成長型投資組合核心的領先地位。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Broad Selling Pushes Market Breadth Into Negative Territory",
+      "publisher": "ChartMill",
+      "date": "2026-09-02 07:58",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "9 月 1 日市場廣度急劇惡化，QQQ 失守短期支撐位，反映出市場賣壓沉重，短期內面臨修正風險。"
+    },
+    {
+      "rank": 2,
+      "title": "TDAQ: A 17% Yielding Covered Call ETF Really Can Outperform QQQ, But Not In The Long Run",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-01 18:30",
+      "impact": "low",
+      "category": "產品比較",
+      "reason": "雖然該文指出 TDAQ 在特定條件下可能優於 QQQ，但長期來看 QQQ 仍具備較佳的風險調整後報酬，此類比較文對 QQQ 的長期持有者影響有限。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Goldman Sachs Is Buying Into High Income ETFs, but What Are Nasdaq Investors Giving Up for Those Payouts?",
+      "publisher": "Yahoo",
+      "date": "2026-08-31 19:58",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "探討高收益 ETF 與 QQQ 的權衡，強調投資人在追求高配息時可能犧牲的成長潛力，屬於中性的資產配置分析。"
+    },
+    {
+      "rank": 2,
+      "title": "Governments Are Encouraging Industrial Robotic Growth",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-03 16:10",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "文章建議投資人權衡 QQQ 等廣泛型 ETF 與利基型機器人 ETF 的風險，未對 QQQ 本身做出明確買賣建議。"
+    },
+    {
+      "rank": 3,
+      "title": "Forget JEPQ: The Company Behind QQQ Runs Its Own Nasdaq Income Fund",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-09-04 21:45:43Z",
+      "impact": "low",
+      "category": "產品資訊",
+      "reason": "僅介紹 QQQ 發行商旗下的相關收益型產品，屬於資訊性報導，對 QQQ 本身股價無直接影響。"
+    },
+    {
+      "rank": 4,
+      "title": "SCHD And QQQ: The New 60-40 Portfolio (Bitcoin And Gold Edition)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-08-30 05:00",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "將 QQQ 作為現代化 60/40 投資組合的一部分進行討論，屬於資產配置建議，不影響 QQQ 的基本面。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,120 @@
+{
+  "ticker": "IBM",
+  "company": "International Business Machines Corporation",
+  "analysis_date": "2026-09-05",
+  "source_file": "cache/2026-09-05/candidates/news/IBM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 3,
+    "neutral_count": 8,
+    "overall_sentiment": "mixed",
+    "key_theme": "IBM 在量子運算與混合雲領域持續獲得戰略投資與政策支持，但市場對於其 AI 營收透明度及 legacy 業務轉型壓力仍存有分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "IBM Ventures Invests in BQP as Quantum-Algorithm Physics Acceleration Reaches Production",
+      "publisher": "Yahoo",
+      "date": "2026-09-02",
+      "impact": "medium",
+      "category": "策略投資",
+      "reason": "IBM Ventures 投資物理加速公司 BQP，顯示其在量子運算生態系的深度布局，有助於提升未來運算效能。"
+    },
+    {
+      "rank": 2,
+      "title": "Why IBM, Microsoft Back Move for Quantum Policy Czar",
+      "publisher": "Barrons.com",
+      "date": "2026-09-04",
+      "impact": "medium",
+      "category": "政策法規",
+      "reason": "IBM 積極推動國家級量子政策，有助於鞏固其在關鍵技術領域的領導地位與供應鏈安全。"
+    },
+    {
+      "rank": 3,
+      "title": "IBM Introduces New Mainframe Processor Combining Its Own Tech With Arm Architecture",
+      "publisher": "Yahoo",
+      "date": "2026-08-29",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出結合 Arm 架構的新一代大型主機處理器，展現技術創新能力，有助於維持核心業務競爭力。"
+    },
+    {
+      "rank": 4,
+      "title": "Retail Investors’ 2 Favorite AI Stocks for the Long Term: Alphabet, IBM",
+      "publisher": "Yahoo",
+      "date": "2026-09-01",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "被市場視為長期 AI 投資標的，有助於提升散戶信心與長期持股意願。"
+    },
+    {
+      "rank": 5,
+      "title": "IBM (IBM) Emerges As A Leading Enterprise Blockchain Provider In New Market Report",
+      "publisher": "Yahoo",
+      "date": "2026-08-31",
+      "impact": "low",
+      "category": "市場地位",
+      "reason": "在企業區塊鏈領域被評為領導者，強化了 IBM 在企業級 IT 解決方案的品牌價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "IBM Slumps 21% YTD: Time to Reassess the Stock in Your Portfolio?",
+      "publisher": "Yahoo",
+      "date": "2026-09-01",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "年初至今股價下跌 21%，反映市場對其傳統業務轉型壓力及 AI 競爭威脅的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Should You Worry That IBM Has Gone Quiet On Its AI Total?",
+      "publisher": "Yahoo",
+      "date": "2026-09-04",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "市場質疑 IBM 對 AI 營收貢獻的透明度下降，可能導致投資人對其 AI 成長動能產生疑慮。"
+    },
+    {
+      "rank": 3,
+      "title": "IBM (IBM) Stock Could Be Below Fair Value Despite Cautious Broader Checks",
+      "publisher": "Yahoo",
+      "date": "2026-09-03",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "儘管股價可能低於公允價值，但市場調查顯示對其業務前景持謹慎態度，限制了短期上漲空間。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Susquehanna Maintains Neutral on IBM, Raises Price Target to $235",
+      "publisher": "Benzinga",
+      "date": "2026-08-31",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師維持中立評級，僅小幅上調目標價，顯示對短期股價爆發力持保留態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Global Information Technology (IT) Governance and Strategy Outlook 2026-2030",
+      "publisher": "Yahoo",
+      "date": "2026-09-02",
+      "impact": "low",
+      "category": "產業報告",
+      "reason": "產業展望報告將 IBM 列為主要參與者，屬於行業常規分析，對股價無直接催化作用。"
+    },
+    {
+      "rank": 3,
+      "title": "Cisco vs. IBM: A Dividend Showdown Between 2 Tech Giants",
+      "publisher": "Yahoo",
+      "date": "2026-09-02",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "針對股息發放的比較分析，屬於長期投資者的參考資訊，對股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

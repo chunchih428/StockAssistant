@@ -1,0 +1,75 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy",
+  "analysis_date": "2026-09-05",
+  "source_file": "cache/2026-09-05/holdings/news/CEG.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 1,
+    "bearish_count": 3,
+    "neutral_count": 2,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對於 Constellation Energy 在核能數據中心需求帶動下的長期成長潛力持樂觀態度，但近期面臨與同業 Vistra 及 NextEra 的估值與獲利能力比較壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Can Rising C&I Demand Drive Constellation Energy's Long-Term Growth?",
+      "publisher": "Yahoo",
+      "date": "2026-09-01 18:22",
+      "impact": "high",
+      "category": "市場需求",
+      "reason": "該報導指出 CEG 成功鎖定商業與工業 (C&I) 客戶的長期核能電力需求，這將顯著提升營收可預測性並支撐每股盈餘 (EPS) 的長期成長。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "CEG vs. VST: Which Nuclear Utility Stock Stands Out for Investors?",
+      "publisher": "Yahoo",
+      "date": "2026-08-31 17:40",
+      "impact": "medium",
+      "category": "同業競爭",
+      "reason": "分析顯示 Vistra (VST) 在獲利成長、股東權益報酬率 (ROE) 及利潤率方面表現優於 CEG，且估值更具吸引力，對 CEG 股價構成相對壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Constellation Energy vs. NextEra Energy: Which Utilities Stock Is a Better Investment in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-08-31 19:16",
+      "impact": "medium",
+      "category": "同業競爭",
+      "reason": "比較顯示 NextEra 擁有 25% 的淨利率，遠高於 CEG 的 9%，儘管 CEG 有核能數據中心題材，但獲利能力的差距使投資人對其估值產生疑慮。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Constellation Energy Stock Underperforming the Dow?",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 15:50",
+      "impact": "low",
+      "category": "市場表現",
+      "reason": "儘管分析師對前景樂觀，但過去一年 CEG 的股價表現落後於道瓊工業指數，反映出市場對其短期股價動能的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Better Energy Play: NextEra vs. Constellation Energy",
+      "publisher": "Yahoo",
+      "date": "2026-09-03 17:35",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "該報導客觀比較兩家公司的商業模式差異，認為兩者各有優勢，未明確給出買進或賣出建議，屬於中性觀點。"
+    },
+    {
+      "rank": 2,
+      "title": "Constellation Energy (CEG) Stock Looks Discounted Against Fair Value",
+      "publisher": "Yahoo",
+      "date": "2026-08-31 05:30",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "報導指出雖然 CEG 經歷了三年的強勁成長，但目前的市場價格與公允價值之間存在分歧，顯示市場對其當前估值仍有爭議。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
