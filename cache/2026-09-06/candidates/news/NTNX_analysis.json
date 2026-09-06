@@ -1,0 +1,93 @@
+{
+  "ticker": "NTNX",
+  "company": "Nutanix, Inc.",
+  "analysis_date": "2026-09-05",
+  "source_file": "cache/2026-09-05/candidates/news/NTNX.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 4,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Nutanix 憑藉強勁的財報表現與 AI 產品布局推動股價上漲，但市場仍關注其自由現金流指引的保守性以及來自 VMware 的競爭壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Nutanix (NTNX) Shares Skyrocket, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-08-28",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司發布強勁的財報數據，推動股價顯著上漲，顯示市場對其業務執行力的高度認可。"
+    },
+    {
+      "rank": 2,
+      "title": "What Is Nutanix (NTNX) Telling Investors With Its New AI And Cloud Tools?",
+      "publisher": "Yahoo",
+      "date": "2026-08-29",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "宣布推出 Nutanix Enterprise AI 2.8，強化了公司在企業級 AI 管理工具市場的競爭力，有助於長期營收增長。"
+    },
+    {
+      "rank": 3,
+      "title": "Nutanix’s Rally Has a Bigger Story Than Earnings as AMD’s AI Bet Takes Shape",
+      "publisher": "MarketBeat",
+      "date": "2026-08-27",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 Nutanix 的漲勢不僅僅是因為財報，更受益於 AI 基礎設施生態系的整體擴張，與 AMD 等合作夥伴的協同效應顯現。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Nutanix (NTNX) Grew ARR 16% but Its Fiscal 2027 Free Cash Flow Guidance is More Measured",
+      "publisher": "Yahoo",
+      "date": "2026-08-29",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "儘管年度經常性收入 (ARR) 增長 16%，但公司對 2027 財年的自由現金流指引較為保守，引發投資人對營運槓桿正常化速度的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom Boosts VMware AI Push to Challenge Nutanix & Microsoft",
+      "publisher": "Yahoo",
+      "date": "2026-09-01",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "Broadcom 透過 VMware VCF 9.1 加強 AI 推動力度，直接對 Nutanix 在混合雲與企業 AI 市場的市占率構成威脅。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "EXLS or NTNX: Which Is the Better Value Stock Right Now?",
+      "publisher": "Zacks",
+      "date": "2026-09-03",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "此文為價值投資比較分析，並未提供關於 Nutanix 基本面的重大新消息，僅作為投資組合配置的參考。"
+    },
+    {
+      "rank": 2,
+      "title": "Nutanix (NTNX) Q4 2026 Earnings Call Transcript",
+      "publisher": "Motley Fool",
+      "date": "2026-08-31",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "此為財報會議逐字稿，內容已反映在先前的財報新聞中，無額外市場影響。"
+    },
+    {
+      "rank": 3,
+      "title": "NTNX Q2 Deep Dive: External Storage and Cloud Partnerships Drive Growth Amid Supply Constraints",
+      "publisher": "StockStory",
+      "date": "2026-08-28",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "深入探討供應鏈限制下的成長策略，雖提供細節，但屬於對已發布財報的補充解讀。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,120 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-09-05",
+  "source_file": "cache/2026-09-05/candidates/news/NFLX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 3,
+    "neutral_count": 7,
+    "overall_sentiment": "mixed",
+    "key_theme": "Netflix 積極擴展體育直播與廣告業務，但受英國訂閱價格調漲引發的股價波動及總體經濟利率風險影響，市場情緒呈現多空拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Netflix (NFLX) Takes NFL Games To Bars And Restaurants Nationwide",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 15:08",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "透過與 EverPass Media 合作，將 NFL 賽事直播擴展至全美商業場所，顯著提升了 Netflix 在體育直播領域的變現能力與市場影響力。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix Stock Rebound Fuels Ad Growth Talk: A Sign of More Upside?",
+      "publisher": "Yahoo",
+      "date": "2026-09-03 14:26",
+      "impact": "medium",
+      "category": "業務發展",
+      "reason": "廣告業務在 AI 工具與程式化購買的推動下展現強勁動能，成為支撐股價長期成長的關鍵驅動力。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Netflix Stock Gained 13% in August",
+      "publisher": "Yahoo",
+      "date": "2026-09-03 10:47",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "八月份股價反彈 13 %，顯示市場對於 Netflix 在低點後的價值修復與基本面改善持正面態度。"
+    },
+    {
+      "rank": 4,
+      "title": "Netflix (NFLX) Unveils New Partnership, Is It Still Below Fair Value?",
+      "publisher": "Yahoo",
+      "date": "2026-09-02 01:20",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "與 Stella Artois 進行跨國行銷合作，有助於提升品牌曝光度並探索多元化營收來源。"
+    },
+    {
+      "rank": 5,
+      "title": "Netflix Is Down 46% From Its High. Is This a Once-in-a-Lifetime Buying Opportunity?",
+      "publisher": "Yahoo",
+      "date": "2026-09-01 15:50",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "分析師指出廣告業務成長與股票回購計畫，認為目前股價處於長期投資的吸引力區間。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "NFLX Stock Falls 4% As Netflix Hikes UK Subscription Prices",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 17:35",
+      "impact": "high",
+      "category": "定價策略",
+      "reason": "英國訂閱價格調漲（部分方案超過 20 英鎊）引發市場擔憂用戶流失，導致股價單日下跌 4 %。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix Falls 4% as Rate Repricing Pressures Long-Duration Growth",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 16:24",
+      "impact": "medium",
+      "category": "總體經濟",
+      "reason": "美國公債殖利率上升對成長型科技股造成估值壓力，Netflix 作為長天期成長股受利率敏感度影響顯著。"
+    },
+    {
+      "rank": 3,
+      "title": "S&P 500, Dow End Lower As Blowout Jobs Report Fans Rate Hike Fears",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 23:18",
+      "impact": "low",
+      "category": "總體經濟",
+      "reason": "強勁的就業報告引發市場對聯準會升息的擔憂，整體大盤走弱連帶壓抑 Netflix 等科技股表現。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Walt Disney vs. Netflix: Which Media Stock Is a Better Buy in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 17:40",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "針對 Netflix 與 Disney 的估值與風險報酬進行比較，屬於中立的投資觀點分析。"
+    },
+    {
+      "rank": 2,
+      "title": "Is It Worth Investing in Netflix (NFLX) Based on Wall Street's Bullish Views?",
+      "publisher": "Yahoo",
+      "date": "2026-09-03 13:30",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "探討華爾街券商平均建議，但未提供新的基本面催化劑，僅為市場共識的整理。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix’s Acquisition Wishlist: Which Streaming Target Has the Best Odds?",
+      "publisher": "Yahoo",
+      "date": "2026-09-03 14:50",
+      "impact": "low",
+      "category": "併購傳聞",
+      "reason": "討論潛在併購目標，屬於市場臆測性質，尚未有實質交易發生。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

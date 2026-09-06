@@ -1,0 +1,111 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-09-05",
+  "source_file": "cache/2026-09-05/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 1,
+    "neutral_count": 4,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "CrowdStrike 受惠於 AI 網路安全需求強勁，獲多家分析師上調目標價並調升長期成長展望，市場地位穩固。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike Raises Long-Term Growth Targets as AI Opportunity Expands, Oppenheimer Says",
+      "publisher": "Yahoo",
+      "date": "2026-09-03 18:05",
+      "impact": "high",
+      "category": "財報與展望",
+      "reason": "公司因應 AI 網路安全需求擴大，正式調升長期成長目標，顯示管理層對未來營收動能具備高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Scotiabank Maintains Sector Outperform on CrowdStrike Holdings, Raises Price Target to $265",
+      "publisher": "Benzinga",
+      "date": "2026-09-04 09:40",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Scotiabank 分析師 Patrick Colville 維持優於大盤評級並調升目標價至 265 美元，反映市場對其競爭優勢的認可。"
+    },
+    {
+      "rank": 3,
+      "title": "Jim Cramer Explains Why CrowdStrike (CRWD) Upended the Tech Bear Thesis",
+      "publisher": "Yahoo",
+      "date": "2026-09-03 18:54",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "知名財經評論員 Jim Cramer 多次公開稱讚 CrowdStrike 為網路安全領域的「重量級選手」，有效提振投資人信心。"
+    },
+    {
+      "rank": 4,
+      "title": "VAST Data and CrowdStrike Deliver First-of-Its-Kind Cybersecurity Across the AI Operating System",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 18:45",
+      "impact": "medium",
+      "category": "產品合作",
+      "reason": "與 VAST Data 合作提供 AI 作業系統原生安全防護，進一步擴大其在 AI 基礎設施的技術護城河。"
+    },
+    {
+      "rank": 5,
+      "title": "Commvault (CVLT) Turns Cyberattacks Into Automated Recovery Through New CrowdStrike (CRWD) Deal",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 17:50",
+      "impact": "medium",
+      "category": "產品合作",
+      "reason": "與 Commvault 達成技術整合，將自動化恢復功能納入 Falcon 平台，增強產品生態系統的黏著度。"
+    },
+    {
+      "rank": 6,
+      "title": "Bullish Tilt: CrowdStrike Option Strategy Geared for Upside Gains",
+      "publisher": "Yahoo",
+      "date": "2026-09-03 12:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "技術面顯示股價穩守 50 日與 200 日均線，選擇權市場布局偏向看漲，顯示市場情緒樂觀。"
+    },
+    {
+      "rank": 7,
+      "title": "The malware that hijacked crypto payments for 8 years — CrowdStrike and federal authorities dismantled Sality",
+      "publisher": "Yahoo",
+      "date": "2026-09-03 17:45",
+      "impact": "low",
+      "category": "企業成就",
+      "reason": "協助聯邦當局瓦解長期惡意軟體網路，展現公司在威脅情報與執法合作上的專業實力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Zscaler Falls 4% as FY2027 Growth Guidance Overshadows Earnings Beat; CrowdStrike Slips",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 16:06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受同業 Zscaler 財報後指引疲軟影響，導致網路安全類股整體出現獲利了結賣壓，屬於產業連動影響。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "The Gap Between CRWD Stock And Its Own Numbers",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 21:39",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "文章對股價漲幅與基本面數據的差距提出質疑，提醒投資人關注估值風險，屬中性觀點分析。"
+    },
+    {
+      "rank": 2,
+      "title": "AI Is Driving an Increased Need for Cybersecurity. Here's the Best Way to Invest.",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 15:05",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "肯定公司在 AI 安全領域的領先地位，但同時指出目前股價偏高，投資建議持保留態度。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

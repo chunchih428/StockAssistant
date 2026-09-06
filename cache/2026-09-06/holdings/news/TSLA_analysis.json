@@ -1,0 +1,84 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla",
+  "analysis_date": "2026-09-05",
+  "source_file": "cache/2026-09-05/holdings/news/TSLA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 4,
+    "bearish_count": 12,
+    "neutral_count": 4,
+    "overall_sentiment": "bearish",
+    "key_theme": "Cybercab 發布會未達市場預期，加上聯邦監管機構針對安全性展開調查，導致股價顯著回調。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Tesla's Ashok Elluswamy Says Intelligence, Not Sensors Are The 'Core Issue' For Self-Driving",
+      "publisher": "Benzinga",
+      "date": "2026-09-04 06:50",
+      "impact": "medium",
+      "category": "技術研發",
+      "reason": "Tesla AI 主管強調人工智慧而非感測器是自動駕駛的核心，展現公司在軟體技術上的長期願景與競爭優勢。"
+    },
+    {
+      "rank": 2,
+      "title": "100% Tesla and SpaceX will merge, the combined entity will be must-have for investors: Ross Gerber",
+      "publisher": "CNBC",
+      "date": "2026-09-03 21:48",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "市場分析師提出 Tesla 與 SpaceX 合併的長期願景，認為這將創造極具價值的投資標的，雖屬投機性觀點但具話題性。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "TSLA Stock Slides 6% — Wells Fargo Says Cybercab Launch Likely Fell Short Of Investor Expectations",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 16:09",
+      "impact": "high",
+      "category": "財報與市場反應",
+      "reason": "富國銀行指出 Cybercab 發布會缺乏驚喜且細節不足，導致市場預期落空，股價單日下跌約 6 %。"
+    },
+    {
+      "rank": 2,
+      "title": "No steering wheel, no problem: Can Tesla speed by Cybercab probe?",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 21:16",
+      "impact": "high",
+      "category": "法規與監管",
+      "reason": "美國國家公路交通安全管理局 (NHTSA) 對 Cybercab 的安全性合規性展開調查，此監管風險對自動駕駛業務構成重大不確定性。"
+    },
+    {
+      "rank": 3,
+      "title": "TSLA Slides Premarket As Cybercab Event Draws ‘Bust’ Call",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 09:38",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場對 Cybercab 發布會評價兩極，部分分析師直接以「失敗」形容，加劇了投資人的拋售壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Stocks making the biggest moves midday: Tesla, Ciena, Meta, Snowflake, Ultragenyx Pharmaceutical & more",
+      "publisher": "CNBC",
+      "date": "2026-09-03 13:18",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為盤中股價波動的例行性報導，未提供新的基本面分析，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla launches Cybercab service in Austin",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 14:27",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "報導 Tesla 在奧斯汀啟動 Cybercab 服務，屬於已預期的營運進展，市場反應已反映在股價中。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
