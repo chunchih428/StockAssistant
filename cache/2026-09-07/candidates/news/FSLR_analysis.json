@@ -1,0 +1,65 @@
+{
+  "ticker": "FSLR",
+  "company": "First Solar",
+  "analysis_date": "2026-09-05",
+  "source_file": "cache/2026-09-05/candidates/news/FSLR.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 0,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管政策性關稅支持長期基本面，但短期股價仍受市場波動與獲利了結壓力影響。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "First Solar upgraded, Celsius downgraded: Wall Street's top analyst calls",
+      "publisher": "The Fly",
+      "date": "2026-08-27",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "華爾街分析師給予 First Solar 正面評級調整，顯示市場對其長期競爭優勢與獲利前景持樂觀態度。"
+    },
+    {
+      "rank": 2,
+      "title": "First Solar (FSLR) Looks Repriced As Policy Support Shapes A More Bullish Valuation View",
+      "publisher": "Yahoo",
+      "date": "2026-08-29",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "政策支持力度增強，市場重新評估其估值模型，認為當前價格已反映更具吸引力的長期成長潛力。"
+    },
+    {
+      "rank": 3,
+      "title": "Here Are Thursday’s Top Wall Street Analyst Research Calls",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-08-27",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "作為當日重點研究報告之一，機構投資者對 First Solar 的關注度提升，有助於維持市場流動性與信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "First Solar (FSLR) Sold Off After the Tariffs. It’s the Solar Stock Built to Benefit From Them",
+      "publisher": "Yahoo",
+      "date": "2026-08-31",
+      "impact": "medium",
+      "category": "法規與政策",
+      "reason": "儘管關稅政策長期利多，但短期內市場對 0.38 美元 / 瓦的進口價格限制反應過度，導致獲利了結賣壓。"
+    },
+    {
+      "rank": 2,
+      "title": "Here's Why First Solar (FSLR) Fell More Than Broader Market",
+      "publisher": "Yahoo",
+      "date": "2026-09-04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 1.43 %，表現弱於大盤，反映出短期技術性修正與市場情緒波動。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

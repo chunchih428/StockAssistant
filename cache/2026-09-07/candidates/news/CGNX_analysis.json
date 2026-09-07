@@ -1,0 +1,75 @@
+{
+  "ticker": "CGNX",
+  "company": "Cognex",
+  "analysis_date": "2026-09-05",
+  "source_file": "cache/2026-09-05/candidates/news/CGNX.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場正處於財報後的調整期，分析師對未來獲利預期與股價回升潛力存在分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Wall Street Analysts See a 27.01% Upside in Cognex (CGNX): Can the Stock Really Move This High?",
+      "publisher": "Zacks",
+      "date": "2026-08-27",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "華爾街分析師給出 27.01% 的潛在上漲空間，顯示市場對該公司長期價值與技術領先地位仍具信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Can Cognex (CGNX) Run Higher on Rising Earnings Estimates?",
+      "publisher": "Zacks",
+      "date": "2026-08-27",
+      "impact": "medium",
+      "category": "財報預測",
+      "reason": "獲利預估值的上調通常是股價反彈的先行指標，顯示市場對其未來營運表現持正面看法。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cognex (CGNX) Down 9.8% Since Last Earnings Report: Can It Rebound?",
+      "publisher": "Yahoo",
+      "date": "2026-09-04",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "財報發布後股價下跌 9.8%，反映市場對其近期財報表現或財測指引感到失望，短期賣壓沉重。"
+    },
+    {
+      "rank": 2,
+      "title": "Reflecting On Specialized Technology Stocks’ Q2 Earnings: Cognex (NASDAQ:CGNX)",
+      "publisher": "Yahoo",
+      "date": "2026-09-03",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "回顧 Q2 財報表現，指出其在專業科技股中的表現相對平淡，缺乏強勁的成長動能支撐。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Cognex to Present at the Morgan Stanley 14th Annual Laguna Conference",
+      "publisher": "Yahoo",
+      "date": "2026-09-02",
+      "impact": "low",
+      "category": "公司活動",
+      "reason": "出席投資人會議為常規企業活動，主要視管理層在會議中釋出的訊息而定，目前僅為行程公告。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Elastic (ESTC) Stock Outpacing Its Computer and Technology Peers This Year?",
+      "publisher": "Yahoo",
+      "date": "2026-09-01",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為同產業個股的績效比較，並未針對 CGNX 本身釋出具體的營運利多或利空消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

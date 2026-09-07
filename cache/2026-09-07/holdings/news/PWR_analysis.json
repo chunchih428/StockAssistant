@@ -1,0 +1,56 @@
+{
+  "ticker": "PWR",
+  "company": "Quanta Services",
+  "analysis_date": "2026-09-05",
+  "source_file": "cache/2026-09-05/holdings/news/PWR.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "Quanta Services 憑藉穩健的股利政策與分析師的買入評級，持續獲得市場關注與正面評價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Wall Street Analysts See Quanta Services (PWR) as a Buy: Should You Invest?",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 14:30",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "根據平均經紀商建議 (ABR)，分析師普遍給予買入評級，顯示市場對該公司未來營運表現持樂觀態度，此為最具指標性的正面訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "Quanta Services Announces Quarterly Cash Dividend",
+      "publisher": "Yahoo",
+      "date": "2026-09-02 21:05",
+      "impact": "medium",
+      "category": "股利政策",
+      "reason": "公司宣布發放季度現金股利，展現了穩定的現金流與對股東回饋的承諾，有助於吸引長期投資者並支撐股價。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Revisiting Stock Picks Dexcom, Bristol Myers Squibb, Quanta Services",
+      "publisher": "Yahoo",
+      "date": "2026-09-03 05:51",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "該報導屬於回顧性質的投資組合檢視，並未提供新的基本面利多或利空資訊，僅作為投資經驗的總結。"
+    },
+    {
+      "rank": 2,
+      "title": "The Zacks Analyst Blog Highlights Broadcom, Nvidia, Palantir, Fortinet and Quanta Services",
+      "publisher": "Yahoo",
+      "date": "2026-09-01 14:04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該文章將 Quanta Services 列入市場關注清單，主要背景為市場等待關鍵數據與利率決策，並非針對公司本身的特定營運變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
