@@ -1,0 +1,93 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-09-08",
+  "source_file": "cache/2026-09-08/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管財報後股價出現短期回調，但市場普遍看好 Broadcom 在 AI 基礎設施與客製化晶片領域的長期成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "With AI Revenue Set to Surge 400% Over the Next 2 Years, Broadcom Stock Looks Like a Buy on Recent Dip",
+      "publisher": "Yahoo",
+      "date": "2026-09-05 17:45",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "預測未來兩年 AI 營收將成長 400%，強調股價回調提供了極佳的買入機會，基本面強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "AVGO Stock’s 27% Selloff Is Sending A Signal – But Morningstar Sees AI Demand Getting Stronger Through 2030",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 11:58",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "Morningstar 指出 Broadcom 的 2028 年展望優於預期，AI 晶片需求將持續至 2030 年，抵銷了短期股價跌幅的負面情緒。"
+    },
+    {
+      "rank": 3,
+      "title": "Broadcom Inc. (AVGO)’s AI Opportunity Expands Across AI Infrastructure",
+      "publisher": "Yahoo",
+      "date": "2026-09-07 18:18",
+      "impact": "medium",
+      "category": "產業趨勢",
+      "reason": "強調超大規模資料中心（Hyperscalers）對客製化晶片的強勁需求，Broadcom 在 AI 基礎設施市場的擴張動能明確。"
+    },
+    {
+      "rank": 4,
+      "title": "Is AVGO Stock Poised for a Rebound After Broadcom's Strong Q3 Results?",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 13:15",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "財報顯示營業利潤率高達 67.9%，自由現金流（FCF）利潤率超過 46%，強大的獲利能力支撐股價反彈預期。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs",
+      "publisher": "CNBC",
+      "date": "2026-09-02 16:22",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "雖然年度展望強勁，但當季營收預測不如市場預期，導致股價在財報後出現短期賣壓。"
+    },
+    {
+      "rank": 2,
+      "title": "Nvidia’s Hugging Face Deal Is a Hedge against Broadcom’s Custom Silicon Threat",
+      "publisher": "Yahoo",
+      "date": "2026-09-06 11:51",
+      "impact": "low",
+      "category": "競爭分析",
+      "reason": "Nvidia 透過投資 Hugging Face 進行防禦，顯示 Broadcom 的客製化晶片業務已對 Nvidia 構成實質威脅，但也加劇了競爭壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Broadcom Inc. (AVGO) Is a Trending Stock: Facts to Know Before Betting on It",
+      "publisher": "Yahoo",
+      "date": "2026-09-07 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為熱門股盤點，提供投資人基本資訊，未對股價走勢提供明確多空觀點。"
+    },
+    {
+      "rank": 2,
+      "title": "LULU, AVGO, DELL, SNOW, GOOGL: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+      "publisher": "Benzinga",
+      "date": "2026-09-05 09:25",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "反映散戶在社交媒體上的討論熱度，屬於市場情緒觀察，對實際基本面影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

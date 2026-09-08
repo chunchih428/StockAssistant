@@ -1,0 +1,102 @@
+{
+  "ticker": "ETN",
+  "company": "Eaton",
+  "analysis_date": "2026-09-08",
+  "source_file": "cache/2026-09-08/holdings/news/ETN.json",
+  "summary": {
+    "total_articles": 16,
+    "bullish_count": 5,
+    "bearish_count": 4,
+    "neutral_count": 7,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司積極擴張產能以應對 AI 與數據中心需求，但高估值引發市場對股價上漲空間的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Eaton expands manufacturing for modular electrical enclosures with $242+ million investment in new Arkansas facility",
+      "publisher": "Yahoo",
+      "date": "2026-09-02 12:30",
+      "impact": "high",
+      "category": "資本支出",
+      "reason": "Eaton 宣布投資 2.42 億美元於阿肯色州建設新廠，旨在擴大 Fibrebond 產能，直接受惠於 AI 與電網現代化帶來的強勁需求，具備長期成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Eaton (ETN) Stock Gets Fair Value Bump As Analysts Back AI Data Center Growth",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 10:07",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師因應 AI 數據中心成長趨勢，將 Eaton 的公平價值預估從 464.59 美元上調至 475.57 美元，反映市場對其核心業務前景的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "$100 Invested In Eaton Corp 5 Years Ago Would Be Worth This Much Today",
+      "publisher": "Benzinga",
+      "date": "2026-09-04 18:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "回顧過去 5 年表現，Eaton 年化報酬率超越市場 8.93%，展現長期穩健的獲利能力與市場競爭優勢。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Eaton Stock Looks Expensive Until You Price The Factory Ramp",
+      "publisher": "Yahoo",
+      "date": "2026-09-03 22:29",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "文章指出 Eaton 目前本益比約 39.7 倍，估值偏高，除非未來產能擴張能顯著轉化為獲利，否則股價進一步上漲空間受限。"
+    },
+    {
+      "rank": 2,
+      "title": "Eaton: Strong Secular Growth, But Valuation Limits Upside",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-03 14:39",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "儘管肯定公司在數據中心與航太領域的成長動能，但強調目前高昂的估值已反映大部分利多，限制了短期股價的爆發力。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Eaton Corporation Stock Underperforming the Nasdaq?",
+      "publisher": "Yahoo",
+      "date": "2026-09-01 11:03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討 Eaton 過去一年表現落後於納斯達克指數，儘管分析師仍看好，但相對績效表現引發投資人關注。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Eaton to participate in the Morgan Stanley 14th Annual Laguna Conference on September 16",
+      "publisher": "Yahoo",
+      "date": "2026-09-03 10:45",
+      "impact": "low",
+      "category": "公司活動",
+      "reason": "公司宣布參與投資者會議，屬於常規營運溝通，未包含具體財務預測或重大變動。"
+    },
+    {
+      "rank": 2,
+      "title": "Formerra Receives 2026 Eaton Supplier Excellence Award",
+      "publisher": "Yahoo",
+      "date": "2026-09-03 14:45",
+      "impact": "low",
+      "category": "企業獎項",
+      "reason": "頒發供應商卓越獎屬於企業日常供應鏈管理，對股價影響極小。"
+    },
+    {
+      "rank": 3,
+      "title": "Modular Data Center Structural Steel Skid Market Outlook 2026-2030",
+      "publisher": "Yahoo",
+      "date": "2026-09-02 12:28",
+      "impact": "low",
+      "category": "產業研究",
+      "reason": "產業報告提及 Eaton 為市場主要參與者，屬於行業趨勢分析，非公司特定利多。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

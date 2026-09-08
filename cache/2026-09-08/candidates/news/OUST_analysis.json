@@ -1,0 +1,55 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-09-08",
+  "source_file": "cache/2026-09-08/candidates/news/OUST.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 4,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Ouster 透過深化與 GeoCue 及 Trossen Robotics 的策略合作，並結合強勁的 Q2 財報表現，正加速轉型為「實體 AI 」領域的關鍵技術供應商。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ouster: Waiting For Physical AI Liftoff",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-07",
+      "impact": "high",
+      "category": "財務表現與展望",
+      "reason": "該文綜合分析了 Ouster 的財務健康狀況，包括創紀錄的 5,500 萬美元 Q2 營收、強勁的現金流（4.5 億美元）以及在實體 AI 領域的成長潛力，為投資人提供了全面的看多論點。"
+    },
+    {
+      "rank": 2,
+      "title": "Ouster Is Becoming A Serious Physical AI Player",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-04",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "報導指出 Ouster 透過 Rev8、Stereolabs 與 BlueCity 等產品線，成功將業務版圖從單純的 LiDAR 硬體擴展至 AI 與智慧基礎設施，展現了多元化的成長動能。"
+    },
+    {
+      "rank": 3,
+      "title": "GeoCue Elevates Survey-Grade Drone Mapping with Ouster's BABA-Compliant Native Color Rev8 Digital Lidar",
+      "publisher": "Yahoo",
+      "date": "2026-09-02",
+      "impact": "medium",
+      "category": "產品合作",
+      "reason": "Ouster 與 GeoCue 達成合作，將其 Rev8 LiDAR 整合至 TrueView 系統中，此舉有助於提升在測繪與無人機市場的市占率，並證明其產品具備高階應用價值。"
+    },
+    {
+      "rank": 4,
+      "title": "How Trossen Robotics Collaboration Could Strengthen Ouster's Prospects",
+      "publisher": "Yahoo",
+      "date": "2026-09-01",
+      "impact": "low",
+      "category": "產品合作",
+      "reason": "透過與 Trossen Robotics 的合作，Ouster 的 Stereolabs 技術將應用於實體 AI 訓練，強化了其在機器人視覺領域的技術生態系布局。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

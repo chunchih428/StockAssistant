@@ -1,0 +1,38 @@
+{
+  "ticker": "CEVA",
+  "company": "CEVA",
+  "analysis_date": "2026-09-06",
+  "source_file": "cache/2026-09-06/candidates/news/CEVA.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管 CEVA 在神經處理市場展現成長潛力且 Q2 財報表現優異，但近期股價回調反映出市場對其高估值的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Analysing CEVA’s (CEVA) Growth in Neural Processing Markets",
+      "publisher": "Insider Monkey",
+      "date": "2026-09-04",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "該報導強調 CEVA 在神經處理單元 (NPU) 市場的技術領先地位與成長動能，顯示公司核心業務具備長期競爭優勢，為股價提供基本面支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "CEVA Stock Slides 19% in a Month: Should You Buy the Dip or Wait?",
+      "publisher": "Yahoo",
+      "date": "2026-09-01",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管 Q2 財報優於預期，但股價單月下跌 19 %，反映出市場對於 CEVA 當前高估值的修正壓力，投資人對其溢價空間持保留態度。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}
