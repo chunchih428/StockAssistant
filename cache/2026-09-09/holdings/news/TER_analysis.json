@@ -1,0 +1,93 @@
+{
+  "ticker": "TER",
+  "company": "Teradyne, Inc.",
+  "analysis_date": "2026-09-08",
+  "source_file": "cache/2026-09-08/holdings/news/TER.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 4,
+    "bearish_count": 3,
+    "neutral_count": 2,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管近期股價因總體經濟因素與油價波動出現回調，但 Teradyne 受惠於 AI 資料中心強勁需求與新產品 UltraFLEXplus 的推出，基本面仍維持成長動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Teradyne Launches Advanced UltraFLEXplus Instruments Engineered for AI and Data Center Computing Devices",
+      "publisher": "Yahoo",
+      "date": "2026-09-01 14:00",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Teradyne 推出針對 AI 與資料中心運算裝置的新型 UltraFLEXplus 儀器，直接切入高成長的 AI 硬體測試市場，具備長期營收成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Teradyne (NASDAQ:TER) Delivers High Growth and Improving Fundamentals",
+      "publisher": "ChartMill",
+      "date": "2026-09-04 11:40",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "分析指出公司在營收、利潤率、現金流及股東權益報酬率 (ROE) 等關鍵指標表現優異，符合成長型投資策略。"
+    },
+    {
+      "rank": 3,
+      "title": "Teradyne Stock Plunges 15% in a Month: Should You Buy the Dip?",
+      "publisher": "Yahoo",
+      "date": "2026-09-03 17:34",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "雖然股價短期回調，但文章強調 AI 資料中心需求強勁及第三季財測正面，為投資人提供逢低布局的觀點。"
+    },
+    {
+      "rank": 4,
+      "title": "FormFactor, Entegris, Penguin Solutions, Teradyne, and Marvell Technology Stocks Trade Up",
+      "publisher": "Yahoo",
+      "date": "2026-09-05 02:14",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場情緒好轉，投資人忽略升息預期，帶動半導體類股集體反彈。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Entegris, Penguin Solutions, Teradyne, Applied Materials, and KLA Corporation Stocks Trade Down",
+      "publisher": "Yahoo",
+      "date": "2026-09-01 22:54",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受原油價格上漲與美國公債殖利率攀升影響，半導體類股普遍面臨賣壓，反映總體經濟環境對科技股的負面壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Jim Cramer: This Industrial Stock Goes Down When Crude Oil Goes Higher",
+      "publisher": "Benzinga",
+      "date": "2026-09-01 08:02",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "指出 Teradyne 股價與油價呈現負相關，油價上漲會增加市場對通膨與成本的擔憂，進而壓抑股價表現。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Teradyne (TER) Rises Higher Than Market: Key Facts",
+      "publisher": "Yahoo",
+      "date": "2026-09-02 22:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為單日交易數據回顧，顯示股價上漲 1.84%，屬於常規市場波動報導，無重大基本面變動。"
+    },
+    {
+      "rank": 2,
+      "title": "Teradyne to Present at the 2026 Goldman Sachs Communacopia + Technology Conference",
+      "publisher": "Yahoo",
+      "date": "2026-09-02 14:35",
+      "impact": "low",
+      "category": "公司活動",
+      "reason": "執行長 Greg Smith 將出席投資人會議，屬於例行性投資人關係活動，市場預期偏向中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,120 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla",
+  "analysis_date": "2026-09-08",
+  "source_file": "cache/2026-09-08/holdings/news/TSLA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 3,
+    "bearish_count": 12,
+    "neutral_count": 5,
+    "overall_sentiment": "bearish",
+    "key_theme": "Cybercab 發布會表現不如預期，引發市場對 Tesla AI 轉型策略與監管風險的強烈質疑。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cybercabs are a game changer, says Mike Khouw. Here's how he's trading Tesla",
+      "publisher": "CNBC",
+      "date": "2026-09-04 12:56",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師認為 Cybercab 具備改變產業遊戲規則的潛力，為選擇權交易者提供看漲機會。"
+    },
+    {
+      "rank": 2,
+      "title": "Cathie Wood Has Stuck With Tesla Through Repeated Missed Robotaxi Deadlines. Here's Why She's Still Buying.",
+      "publisher": "Yahoo",
+      "date": "2026-09-07 14:05",
+      "impact": "medium",
+      "category": "投資觀點",
+      "reason": "知名投資人 Cathie Wood 持續加碼，顯示其對 Tesla 長期 AI 與自動駕駛願景的堅定信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Tesla Plus SpaceX Could Become a ‘Must-Have’ Investment, Ross Gerber Says",
+      "publisher": "Yahoo",
+      "date": "2026-09-07 17:00",
+      "impact": "low",
+      "category": "投資觀點",
+      "reason": "投資人 Ross Gerber 看好 Tesla 與 SpaceX 在 AI 領域的協同效應，認為兩者結合具備長期投資價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cybercab a Cyberflop? Tesla’s Robotaxi Launch Delivers Tiny Fleet, Big Investigation.",
+      "publisher": "Yahoo",
+      "date": "2026-09-07 13:00",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Cybercab 發布會僅推出 45 輛車，且隨即面臨 NHTSA 監管調查，嚴重打擊市場對自動駕駛擴張的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla's stock drops 6% as Cybercab update 'underwhelms' Wall Street",
+      "publisher": "CNBC",
+      "date": "2026-09-04 13:33",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "發布會內容未能滿足華爾街預期，導致股價單日下跌 6 %，反映投資人對缺乏具體定價與量產細節的不滿。"
+    },
+    {
+      "rank": 3,
+      "title": "Goldman Sachs Delivers Stark Message on Tesla Stock — Tesla's Cybercab Faces a Major Test",
+      "publisher": "Yahoo",
+      "date": "2026-09-07 19:12",
+      "impact": "medium",
+      "category": "分析報告",
+      "reason": "高盛指出 AI 執行力比車輛成本更重要，暗示 Tesla 目前的技術落地能力面臨嚴峻考驗。"
+    },
+    {
+      "rank": 4,
+      "title": "Tesla Says This Time Is Different. Wall Street Is Split on Whether to Believe It",
+      "publisher": "Yahoo",
+      "date": "2026-09-07 15:43",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "儘管營收成長 25 %，但財報獲利錯失預期近 40 %，且現金消耗嚴重，引發市場對基本面與 AI 願景脫節的擔憂。"
+    },
+    {
+      "rank": 5,
+      "title": "Tesla Wants to Be Seen as an AI Company",
+      "publisher": "Yahoo",
+      "date": "2026-09-07 11:29",
+      "impact": "medium",
+      "category": "公司策略",
+      "reason": "管理層積極將 Tesla 定位為 AI 公司，但財報數據顯示核心汽車業務仍面臨壓力，市場對此轉型持懷疑態度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Tesla Stock Under $360 a Share an Obvious Buy in September?",
+      "publisher": "Yahoo",
+      "date": "2026-09-07 17:54",
+      "impact": "low",
+      "category": "投資觀點",
+      "reason": "探討股價估值與買入時機，屬於市場常見的技術性分析，未提供新的基本面催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Elon Musk Owns 28% of Tesla, a Stake Worth Nearly $350 Billion. Here's Why His Ownership Level Matters for Shareholders.",
+      "publisher": "Yahoo",
+      "date": "2026-09-07 17:07",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "分析 Elon Musk 的持股結構對股東的影響，屬於長期治理層面的討論，對短期股價影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "Tokenized Nvidia and Tesla Are Becoming Trending Crypto Trades, CoinMarketCap Says",
+      "publisher": "Benzinga",
+      "date": "2026-09-07 12:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "提及代幣化股票的交易趨勢，反映散戶投機行為，與公司實際營運無直接關聯。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

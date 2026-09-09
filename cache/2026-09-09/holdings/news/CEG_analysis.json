@@ -1,0 +1,65 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy",
+  "analysis_date": "2026-09-08",
+  "source_file": "cache/2026-09-08/holdings/news/CEG.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 數據中心對核能電力需求的強勁增長，Constellation Energy 的長期營收能見度與 EPS 成長前景備受市場看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "These 2 AI Power Stocks Jumped While the S&P 500 Fell",
+      "publisher": "Yahoo",
+      "date": "2026-09-07 16:01",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "在 S&P 500 指數下跌的環境下，CEG 逆勢上漲 4.9 %，顯示市場資金高度認可其作為 AI 基礎設施電力供應商的價值。"
+    },
+    {
+      "rank": 2,
+      "title": "Can Rising C&I Demand Drive Constellation Energy's Long-Term Growth?",
+      "publisher": "Yahoo",
+      "date": "2026-09-01 18:22",
+      "impact": "medium",
+      "category": "業務發展",
+      "reason": "透過與商業及工業 (C&I) 客戶簽訂長期核能供電合約，顯著提升了公司的營收穩定性與 EPS 成長潛力。"
+    },
+    {
+      "rank": 3,
+      "title": "Nuclear Stock Face-Off: Is Constellation Energy or Vistra the Better Buy Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-09-07 02:22",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析指出 CEG 擁有規模更大的核能平台，在能源轉型趨勢下具備競爭優勢，被視為投資組合中的優質標的。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Constellation Energy Stock Underperforming the Dow?",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 15:50",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "雖然過去一年表現落後於道瓊指數，但分析師對其未來展望仍持高度樂觀態度，屬於技術性回顧而非基本面惡化。"
+    },
+    {
+      "rank": 2,
+      "title": "Better Energy Play: NextEra vs. Constellation Energy",
+      "publisher": "Motley Fool",
+      "date": "2026-09-03 16:35",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "將 CEG 與 NextEra 進行比較，兩者各有不同的成長策略與投資價值，屬於中性的產業比較分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

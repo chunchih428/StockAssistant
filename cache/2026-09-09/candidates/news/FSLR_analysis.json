@@ -1,0 +1,66 @@
+{
+  "ticker": "FSLR",
+  "company": "First Solar",
+  "analysis_date": "2026-09-08",
+  "source_file": "cache/2026-09-08/candidates/news/FSLR.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對於 First Solar 在關稅政策下的長期競爭優勢與短期訂單積壓縮減風險存在顯著分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "First Solar: Noise Down, Stock Up",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-06 18:12",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析指出扣除 45X 稅收抵免後的估值合理，且營收與利潤率呈現改善趨勢，政策風險正在緩解，為股價提供支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "First Solar: Can The Backlog Continue Growing",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-07 10:09",
+      "impact": "high",
+      "category": "營運風險",
+      "reason": "指出訂單積壓量縮減、關稅政策波動以及工廠產能利用率不足等結構性風險，對公司長期成長動能構成壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Here's Why First Solar (FSLR) Fell More Than Broader Market",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導股價單日下跌 1.43 %，反映出短期市場賣壓與投資人對近期股價表現的負面情緒。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Which Solar Stock Has Dominated in 2026: SolarEdge, Enphase Energy, or First Solar?",
+      "publisher": "Yahoo",
+      "date": "2026-09-07 15:30",
+      "impact": "low",
+      "category": "產業比較",
+      "reason": "該文對比了太陽能產業三大巨頭的年度表現，屬於產業回顧性質，未對 First Solar 未來走勢提供明確方向性預測。"
+    },
+    {
+      "rank": 2,
+      "title": "First Solar (FSLR) Sold Off After the Tariffs. It’s the Solar Stock Built to Benefit From Them",
+      "publisher": "Insider Monkey",
+      "date": "2026-08-31 22:25",
+      "impact": "medium",
+      "category": "政策影響",
+      "reason": "探討關稅政策對股價的雙面影響，既指出短期賣壓，又強調其長期受惠於保護主義的潛力，多空因素相互抵銷。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

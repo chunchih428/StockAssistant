@@ -1,0 +1,84 @@
+{
+  "ticker": "IBIT",
+  "company": "Bitcoin",
+  "analysis_date": "2026-09-08",
+  "source_file": "cache/2026-09-08/holdings/news/IBIT.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 16,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "比特幣現貨 ETF 出現自 2026 年初以來最大單日資金淨流入，顯示機構投資者需求強勁，且聯準會利率政策轉向寬鬆預期進一步推升市場情緒。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bitcoin ETFs Pull In $730 Million for the First Time Since January",
+      "publisher": "Benzinga",
+      "date": "2026-09-04 09:00",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "單日淨流入達 7.3 億美元，創下 2026 年以來最高紀錄，其中 IBIT 佔據主導地位，顯示機構資金回流跡象明顯。"
+    },
+    {
+      "rank": 2,
+      "title": "I Think iShares Bitcoin Trust (IBIT) Is the Best Bitcoin ETF to Buy Right Now",
+      "publisher": "Yahoo",
+      "date": "2026-09-03 12:05",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析指出 BlackRock 的規模優勢與流動性使其成為市場首選，有助於鞏固 IBIT 在同類產品中的市佔率。"
+    },
+    {
+      "rank": 3,
+      "title": "Crypto Market Today, Sept. 3: Bitcoin Reclaims $81,000 on Fed Rate Pause Signals",
+      "publisher": "Yahoo",
+      "date": "2026-09-03 21:26",
+      "impact": "medium",
+      "category": "總體經濟",
+      "reason": "聯準會理事 Waller 表示支持維持利率不變，降低了貨幣緊縮風險，直接改善了比特幣等風險資產的投資環境。"
+    },
+    {
+      "rank": 4,
+      "title": "How BlackRock (BLK) is Quietly Turning Bitcoin Whales Into Wall Street Clients",
+      "publisher": "Yahoo",
+      "date": "2026-09-06 20:32",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "BlackRock 調降比特幣轉換門檻，顯示其積極將大型加密貨幣持有者轉化為華爾街客戶，有利於長期資產管理規模 (AUM) 增長。"
+    },
+    {
+      "rank": 5,
+      "title": "Bitcoin Has No Label but Its Closest Rival Is Gold, BlackRock Exec Says",
+      "publisher": "Yahoo",
+      "date": "2026-09-07 15:15",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "BlackRock 高層將比特幣定位為投資組合多元化工具與抗通膨資產，有助於提升機構投資者對 IBIT 的長期配置意願。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bitcoin holds below $80,000 as jobs data lifts Fed hike bets",
+      "publisher": "Yahoo",
+      "date": "2026-09-05 09:54",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "就業數據引發市場對聯準會升息的擔憂，導致比特幣價格回落至 8 萬美元下方，對短期股價造成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Weekly Wrap: Bitcoin’s Win Streak Continues",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 19:25",
+      "impact": "low",
+      "category": "市場回顧",
+      "reason": "總結比特幣連續三週上漲的趨勢，屬於市場常規回顧，對股價無直接催化作用。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
