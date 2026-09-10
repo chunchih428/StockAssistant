@@ -1,0 +1,65 @@
+{
+  "ticker": "BE",
+  "company": "Bloom Energy Corporation",
+  "analysis_date": "2026-09-08",
+  "source_file": "cache/2026-09-08/holdings/news/BE.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 7,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Bloom Energy 獲納入 S&P 500 指數引發市場強烈買盤，並伴隨分析師調升評級與 AI 基礎設施需求看漲的正面預期。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "BE Stock Soars Overnight On S&P 500 Inclusion: Analyst Sees Upside Of Over 28%",
+      "publisher": "Stocktwits",
+      "date": "2026-09-08 01:24",
+      "impact": "high",
+      "category": "指數調整",
+      "reason": "獲納入 S&P 500 指數將帶來被動資金流入，分析師預期股價仍有 28% 以上的上漲空間，為近期最強勁的催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Bloom Energy Just Won Another Catalyst (Rating Upgrade)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-05 23:48",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "除了指數效應外，公司獲評級雙重調升，且管理層上調 2026 年財測與利潤率展望，顯示基本面強勁。"
+    },
+    {
+      "rank": 3,
+      "title": "NVDA Is Booming, But BlackRock Sounds the Alarm on a $100 Billion AI Debt Problem: Are AI Bottleneck Plays BE, VRT, MU the Next Winners?",
+      "publisher": "Benzinga",
+      "date": "2026-09-01 07:22",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "BlackRock 指出 AI 基礎設施瓶頸，將 Bloom Energy 列為潛在受惠股，強化了市場對其作為 AI 電力供應商的長期成長邏輯。"
+    },
+    {
+      "rank": 4,
+      "title": "What Makes Bloom Energy (BE) a Compelling Investment Bet?",
+      "publisher": "Yahoo",
+      "date": "2026-09-03 13:29",
+      "impact": "low",
+      "category": "投資研究",
+      "reason": "Sands Capital 在其投資信中將 Bloom Energy 列為精選成長標的，反映機構投資人對其長期成長潛力的認可。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Bloom Energy (BE) Stock Outpacing Its Oils-Energy Peers This Year?",
+      "publisher": "Yahoo",
+      "date": "2026-09-02 13:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為單純的績效比較分析，旨在探討其與同業的相對表現，未對股價產生直接的買賣訊號影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

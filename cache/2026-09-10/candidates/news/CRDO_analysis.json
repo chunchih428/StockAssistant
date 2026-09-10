@@ -1,0 +1,93 @@
+{
+  "ticker": "CRDO",
+  "company": "Credo Technology Group Holding Ltd",
+  "analysis_date": "2026-09-09",
+  "source_file": "cache/2026-09-09/candidates/news/CRDO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 7,
+    "neutral_count": 3,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管 Credo 第一季營收成長強勁且 AI 連接需求持續，但市場對其毛利率壓縮與研發費用上升感到擔憂，導致股價在財報後出現劇烈波動。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Credo (CRDO) Q1 2027 Earnings Call Transcript — Revenue hit $479 million with seventh consecutive quarter of triple-digit growth.",
+      "publisher": "Yahoo",
+      "date": "2026-09-08 22:58",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第一季營收達 4.79 億美元，連續七季實現三位數成長，顯示其在 AI 資料中心連接領域的強勁市場地位。"
+    },
+    {
+      "rank": 2,
+      "title": "Credo's Meltdown Is A Gift As Durable Capex Meets Cooling AI Trade (Upgrade)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-06 09:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師認為股價回調提供了買入機會，強調 AI 連接需求與超大規模資料中心資本支出將持續推動公司成長。"
+    },
+    {
+      "rank": 3,
+      "title": "Credo Technology Group Holding (CRDO) Achieved PCIe 6.x Compliance For Its Toucan Retimer",
+      "publisher": "Yahoo",
+      "date": "2026-09-02 14:09",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Toucan Retimer 獲得 PCIe 6.x 合規認證，強化了公司在高速傳輸技術領域的競爭護城河。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Is Credo Technology Stock Sinking Wednesday? — Credo Technology beat Q1 earnings expectations, but CRDO stock dropped as shrinking margins and rising R&D expenses",
+      "publisher": "Benzinga",
+      "date": "2026-09-02 05:51",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "儘管營收優於預期，但毛利率下滑與研發費用激增引發投資人對獲利能力的擔憂，導致股價重挫。"
+    },
+    {
+      "rank": 2,
+      "title": "Credo: Yes, It Is Much Cheaper Now, But No, It Is Not Yet A Buy",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-07 06:08",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "指出 GAAP 毛利率壓力、剩餘履約義務 (RPO) 下降以及客戶過度集中的風險，認為目前估值調整尚未完全反映基本面隱憂。"
+    },
+    {
+      "rank": 3,
+      "title": "CRDO Stock Stares At Worst Week In 2 Years As Analysts Across Wall Street Wonder If Credo’s Optical Growth Can Keep Pace",
+      "publisher": "Yahoo",
+      "date": "2026-09-03 08:20",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "華爾街多家機構下調目標價，反映市場對其光通訊業務成長能否持續保持高水準的質疑。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Dow, S&P 500, Nasdaq Futures Tread Water As August Jobs Data Looms: TSLA, LULU, PL, CRDO Stocks In Focus",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 03:05",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅提及 CRDO 為市場關注焦點，與總體經濟數據發布相關，並非針對公司基本面的分析。"
+    },
+    {
+      "rank": 2,
+      "title": "Most Active Options Report: DELL, CRDO, GTLB, RUN, ALLY",
+      "publisher": "Yahoo",
+      "date": "2026-09-02 15:52",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅反映選擇權交易活躍度，屬於市場技術面資訊，不代表公司營運方向。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

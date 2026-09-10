@@ -1,0 +1,102 @@
+{
+  "ticker": "NOW",
+  "company": "ServiceNow",
+  "analysis_date": "2026-09-08",
+  "source_file": "cache/2026-09-08/candidates/news/NOW.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 6,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "ServiceNow 近期股價強勁反彈引發市場多空激辯，AI 業務擴張與企業合作帶來成長動能，但高層內部拋售與估值過高疑慮仍壓抑漲勢。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "ServiceNow Leads Five Stocks To Watch Near Buy Points",
+      "publisher": "Investor's Business Daily",
+      "date": "2026-09-05",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "技術面分析顯示該股處於買入點附近，顯示市場對其近期動能持正面看法。"
+    },
+    {
+      "rank": 2,
+      "title": "NOW Broadens Aramco AI Footprint as CRM & MSFT Expand AI Ambitions",
+      "publisher": "Yahoo",
+      "date": "2026-09-02",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "與 Aramco Digital 的合作將 AI 工作流推廣至 50 多個國家，顯著提升其在全球企業 AI 市場的競爭力。"
+    },
+    {
+      "rank": 3,
+      "title": "Is ServiceNow (NOW) Quietly Becoming the Default AI Commerce Platform for Enterprise Partners?",
+      "publisher": "Yahoo",
+      "date": "2026-09-02",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Pricefx 選擇 ServiceNow AI 平台作為其 Deal Optimization App 的基礎，驗證了其作為企業級 AI 平台的生態系統價值。"
+    },
+    {
+      "rank": 4,
+      "title": "Guidewire Software, HubSpot, CrowdStrike, ServiceNow, and Dynatrace Shares Are Soaring",
+      "publisher": "Yahoo",
+      "date": "2026-09-03",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "軟體類股整體回調後出現強勁反彈，顯示市場對 ServiceNow 等雲端軟體巨頭的成長信心回升。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "ServiceNow: Sell Before The AI Reckoning Comes Back",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-05",
+      "impact": "high",
+      "category": "投資建議",
+      "reason": "分析師指出近期 30% 的漲幅脫離基本面，主要由市場情緒驅動，建議投資人獲利了結以規避潛在修正。"
+    },
+    {
+      "rank": 2,
+      "title": "Paul Fipps Implements A Sell Strategy: Offloads $300K In ServiceNow Stock",
+      "publisher": "Benzinga",
+      "date": "2026-09-02",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "總裁 Paul Fipps 進行內部拋售，加上董事 Paul Edward Chamberlain 亦拋售 36.5 萬美元股票，引發市場對內部人看法的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "ServiceNow (NOW) Stock Looks Reasonable On Cash Flow While Earnings Look Stretched",
+      "publisher": "Yahoo",
+      "date": "2026-09-05",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "儘管現金流表現尚可，但財報顯示估值過高，且過去一年股價下跌 22.7% 反映了市場對其獲利能力的質疑。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Jim Cramer Breaks Down P/E Multiples Explaining Why NVIDIA (NVDA) Looks Cheaper Than ServiceNow",
+      "publisher": "Yahoo",
+      "date": "2026-09-05",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "Jim Cramer 透過本益比比較，指出 ServiceNow 相較於 NVIDIA 估值較貴，屬於中性觀點的估值比較。"
+    },
+    {
+      "rank": 2,
+      "title": "How Is ServiceNow's Stock Performance Compared to Other Software - Application Stocks?",
+      "publisher": "Yahoo",
+      "date": "2026-09-01",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "報導指出該股表現落後同業，但華爾街分析師仍維持中性偏多的評級，反映市場觀望態度。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

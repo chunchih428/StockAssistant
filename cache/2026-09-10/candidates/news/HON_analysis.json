@@ -1,0 +1,84 @@
+{
+  "ticker": "HON",
+  "company": "Honeywell",
+  "analysis_date": "2026-09-08",
+  "source_file": "cache/2026-09-08/candidates/news/HON.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "mixed",
+    "key_theme": "Honeywell 正處於業務轉型與結構重組期，市場對其拆分後的價值評估存在分歧，且面臨網路安全合規風險與股價表現落後的挑戰。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Airport Security Solutions, Global, 2025-2030 Now Available",
+      "publisher": "Yahoo",
+      "date": "2026-09-07 10:04",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Honeywell 被列為全球機場安全解決方案的主要供應商，顯示其在智慧機場基礎設施領域具備長期競爭優勢與市場份額。"
+    },
+    {
+      "rank": 2,
+      "title": "Global Data Center Access Control Market Outlook 2026-2030",
+      "publisher": "Yahoo",
+      "date": "2026-09-02 12:43",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "資料中心存取控制市場預計至 2030 年將達 23.4 億美元，Honeywell 作為關鍵參與者，有望受惠於 AI 與物聯網帶動的安防需求成長。"
+    },
+    {
+      "rank": 3,
+      "title": "Honeywell Technologies Announces Participation at Upcoming Investor Conference",
+      "publisher": "Yahoo",
+      "date": "2026-09-03 11:00",
+      "impact": "low",
+      "category": "投資人關係",
+      "reason": "參與投資人會議通常有助於管理層與市場溝通公司策略，對股價有正面引導作用。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Honeywell Aerospace Agrees To Pay Over $2M To Settle Cybersecurity Allegations",
+      "publisher": "Yahoo",
+      "date": "2026-09-01 21:00",
+      "impact": "medium",
+      "category": "法規與訴訟",
+      "reason": "雖然 200 萬美元罰款金額對 Honeywell 財務影響有限，但網路安全合規問題可能損害其在國防與航太領域的聲譽，導致股價短期下跌 2.5 %。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Honeywell International Stock Underperforming the Dow?",
+      "publisher": "Yahoo",
+      "date": "2026-09-01 11:14",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "過去 12 個月股價表現落後於道瓊工業指數，反映出市場對其成長動能的擔憂，儘管分析師看法仍偏向中性偏多。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Honeywell Is Now Three Companies. Here's Which Piece I'd Actually Own.",
+      "publisher": "Yahoo",
+      "date": "2026-09-05 02:35",
+      "impact": "low",
+      "category": "企業策略",
+      "reason": "針對公司拆分後的業務進行觀點分析，屬於投資建議性質，對股價無直接驅動影響。"
+    },
+    {
+      "rank": 2,
+      "title": "MITSY vs. HON: Which Stock Is the Better Value Option?",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 15:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為同業間的價值比較分析，未提供具體催化劑，對股價影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
