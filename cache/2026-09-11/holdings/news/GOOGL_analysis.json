@@ -1,0 +1,120 @@
+{
+  "ticker": "GOOGL",
+  "company": "Google",
+  "analysis_date": "2026-09-11",
+  "source_file": "cache/2026-09-11/holdings/news/GOOGL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 4,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Google 積極擴張 AI 基礎設施與能源布局，透過核能合約與海外數據中心投資強化長期競爭護城河。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Google Is Buying Half a Nuclear Plant’s Output Through 2049. Cheap Power Just Became the Real AI Moat.",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 17:47",
+      "impact": "high",
+      "category": "能源策略",
+      "reason": "簽署至 2049 年的長期核能供電合約，確保 AI 數據中心擁有穩定且成本可控的電力來源，建立顯著的能源護城河。"
+    },
+    {
+      "rank": 2,
+      "title": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe'",
+      "publisher": "CNBC",
+      "date": "2026-09-09 03:24",
+      "impact": "high",
+      "category": "資本支出",
+      "reason": "投入 150 億美元擴建芬蘭 AI 基礎設施，顯示公司在歐洲市場的強勁擴張決心與對 AI 運算需求的長期信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Alphabet's TPU Sales Could Drive Significant Google Cloud Upside, Oppenheimer Says",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 15:49",
+      "impact": "medium",
+      "category": "財報預測",
+      "reason": "分析師指出 TPU 自研晶片銷售潛力巨大，有望顯著提升 Google Cloud 的獲利能力與市場份額。"
+    },
+    {
+      "rank": 4,
+      "title": "Japan's Fanuc, Google Team Up On AI-Automated Welding Robots",
+      "publisher": "Benzinga",
+      "date": "2026-09-10 11:06",
+      "impact": "medium",
+      "category": "產品合作",
+      "reason": "與工業機器人龍頭 Fanuc 合作，將 Gemini AI 導入自動化焊接系統，展示 AI 應用從軟體擴展至工業製造領域。"
+    },
+    {
+      "rank": 5,
+      "title": "The Ohio State, Google launch 'largest foundational partnership'",
+      "publisher": "CNBC",
+      "date": "2026-09-09 08:51",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "與俄亥俄州立大學建立大規模基礎研究合作，有助於人才培育與 AI 技術的早期採用與生態系建立。"
+    },
+    {
+      "rank": 6,
+      "title": "GOOGLE & MITTI LABS PARTNER TO ELIMINATE METHANE AND SCALE CLIMATE-SMART AG PRACTICES",
+      "publisher": "Yahoo",
+      "date": "2026-09-11 03:00",
+      "impact": "low",
+      "category": "ESG 發展",
+      "reason": "透過碳權協議與印度新創合作，強化企業社會責任形象並推動氣候智慧農業技術。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "META Vs GOOGL: Cathie Wood’s ARK Makes A Nearly $56M Mega-Cap Tech Rotation",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 06:12",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "ARK 基金減持 Google 並轉向 Meta，反映部分大型機構投資人對兩者成長潛力的重新配置。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon, Meta and Google Confront Data Center Backlash",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 12:00",
+      "impact": "medium",
+      "category": "法規與監管",
+      "reason": "數據中心擴張面臨地方政府與社區的阻力，可能增加未來基礎設施建設的成本與時間風險。"
+    },
+    {
+      "rank": 3,
+      "title": "People Inc. CEO on AI-hungry Google: 'They don't share anything with us'",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 21:05",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "出版商對 Google 的 AI 數據抓取與合作模式表達不滿，反映潛在的法律與輿論壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Alphabet Stock Is Down 16% -- Is September the Month to Buy the Dip?",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 08:58",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "針對股價回調的技術性分析，探討買入機會，屬於市場觀點而非公司基本面變動。"
+    },
+    {
+      "rank": 2,
+      "title": "Hyperscalers Bet on AI & Quantum: Watch GOOGL, AMZN, IBM in September",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 19:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "產業概覽報導，將 Google 與 Amazon、IBM 並列為 AI 與量子運算領域的觀察標的。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

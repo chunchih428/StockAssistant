@@ -1,0 +1,47 @@
+{
+  "ticker": "TENB",
+  "company": "Tenable Holdings, Inc.",
+  "analysis_date": "2026-09-11",
+  "source_file": "cache/2026-09-11/candidates/news/TENB.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 0,
+    "bearish_count": 3,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司宣布發行 6.5 億美元可轉換優先票據，引發市場對股權稀釋的擔憂，導致股價顯著下跌。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "TENB Stock Tumbled Over 7% Today - Everything To Know About Its $650M Private Placement",
+      "publisher": "Stocktwits",
+      "date": "2026-09-10 13:39",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "此報導總結了市場對 Tenable 發行 6.5 億美元可轉換票據的負面反應，股價單日下跌超過 7 %，反映投資人對未來潛在股權稀釋及資本結構調整的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Tenable Holdings, Inc. Announces Proposed Private Placement of $650.0 Million of Convertible Senior Notes",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 11:00",
+      "impact": "medium",
+      "category": "資本運作",
+      "reason": "公司正式宣布發行 6.5 億美元可轉換優先票據，雖然資金用途通常用於營運或債務償還，但市場通常將此類融資視為對現有股東權益的稀釋風險，故列為利空。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Tenable Holdings Announces Private Placement Of $650M Of Convertible Senior Notes Due 2031",
+      "publisher": "Benzinga",
+      "date": "2026-09-10 07:12",
+      "impact": "low",
+      "category": "資本運作",
+      "reason": "此篇為初步公告，內容與 Yahoo 報導重複，僅補充了 2031 年到期及初始購買人選擇權細節，因資訊已包含在後續市場反應報導中，故歸類為中性資訊補充。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

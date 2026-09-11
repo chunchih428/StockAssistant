@@ -1,0 +1,120 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-09-11",
+  "source_file": "cache/2026-09-11/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 7,
+    "bearish_count": 5,
+    "neutral_count": 8,
+    "overall_sentiment": "mixed",
+    "key_theme": "Amazon 積極擴展 AI 基礎設施與合作夥伴關係，但面臨航空物流安全事故及高額資本支出帶來的獲利壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Qualcomm to build chips for Amazon — Qualcomm said it’s working with Amazon across “multiple generations of customized silicon” to help build out AWS’ AI inf",
+      "publisher": "CNBC",
+      "date": "2026-09-08 10:35",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "與 Qualcomm 合作開發客製化晶片，有助於 AWS 降低對 Nvidia 的依賴並優化 AI 基礎設施成本，具備長期競爭優勢。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon gives OpenAI's ad business a boost, letting its advertisers into ChatGPT",
+      "publisher": "CNBC",
+      "date": "2026-09-10 09:01",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "Amazon 首次開放廣告商進入 ChatGPT 生態，顯示其廣告業務正積極尋求外部 AI 平台流量，有助於提升廣告營收規模。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon adds cybersecurity veteran Kevin Mandia to board 2 years after he left Google",
+      "publisher": "CNBC",
+      "date": "2026-09-09 17:45",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "延攬資安專家 Kevin Mandia 加入董事會，強化了公司在雲端安全與 AI 治理方面的專業背景，對 AWS 的企業客戶信任度有正面幫助。"
+    },
+    {
+      "rank": 4,
+      "title": "Amazon backs Ariane with rocket launch orders as Europe battles to close its space gap",
+      "publisher": "CNBC",
+      "date": "2026-09-10 07:26",
+      "impact": "low",
+      "category": "業務拓展",
+      "reason": "透過 Kuiper 計畫與 Ariane 合作，展現 Amazon 在衛星通訊領域的長期佈局與執行力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Amazon’s Aviation Network Faces a Sobering Test after the Miami Crash",
+      "publisher": "Yahoo",
+      "date": "2026-09-11 01:08",
+      "impact": "high",
+      "category": "營運風險",
+      "reason": "邁阿密貨機墜毀事故引發對 Prime Air 物流網絡安全與監管的擔憂，可能導致營運成本上升或監管審查加劇。"
+    },
+    {
+      "rank": 2,
+      "title": "Is The AI Capex Surge A Threat To Amazon Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 18:06",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "2026 年預計高達 2,200 億美元的資本支出引發市場對自由現金流與投資回報率的疑慮。"
+    },
+    {
+      "rank": 3,
+      "title": "Anthropic Discloses Fourth Unauthorized System Hack During Cybersecurity Tests",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 10:46",
+      "impact": "medium",
+      "category": "資安風險",
+      "reason": "作為主要投資人，Anthropic 的系統漏洞會間接影響 Amazon 在 AI 領域的品牌聲譽與技術安全性評估。"
+    },
+    {
+      "rank": 4,
+      "title": "AMZN Is Betting Bigger On Whole Foods With $230M Investment — But Amazon’s Physical Stores Are Losing Steam",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 19:17",
+      "impact": "low",
+      "category": "實體零售",
+      "reason": "儘管持續投入資金，但實體零售業務成長動能疲軟，顯示該部門對整體營收貢獻有限。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Hyperscalers Bet on AI & Quantum: Watch GOOGL, AMZN, IBM in September",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 19:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "產業分析報告，將 Amazon 列為 AI 與量子運算的主要參與者，屬市場常規觀點。"
+    },
+    {
+      "rank": 2,
+      "title": "The Robotaxi Race is Spreading, Can Amazon and Alphabet Turn More Cities into Revenue?",
+      "publisher": "Yahoo",
+      "date": "2026-09-11 00:57",
+      "impact": "low",
+      "category": "技術研發",
+      "reason": "探討 Zoox 的自動駕駛進展，目前仍處於早期競爭階段，對短期股價影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "Cramer Thinks the US Debt Market Is Saturated. Amazon Just Went to London to Borrow",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 14:20",
+      "impact": "low",
+      "category": "財務融資",
+      "reason": "企業正常的資金調度行為，反映公司對流動性的管理，不構成重大負面消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
