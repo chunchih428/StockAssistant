@@ -1,0 +1,38 @@
+{
+  "ticker": "CEVA",
+  "company": "CEVA",
+  "analysis_date": "2026-09-09",
+  "source_file": "cache/2026-09-09/candidates/news/CEVA.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對 CEVA 在神經處理器市場的成長潛力持正面看法，但近期股價技術面出現顯著回調，引發投資人對進場時機的觀望。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Analysing CEVA’s (CEVA) Growth in Neural Processing Markets — Meridian Funds, managed by ArrowMark Partners, released its second-quarter 2026 investor letter for “Meridian Contrarian",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 14:41",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "Meridian Funds 在其投資信中強調了 CEVA 在神經處理器市場的長期成長潛力，顯示機構投資人對其核心技術競爭力仍具信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "CEVA Stock Slides 19% in a Month: Should You Buy the Dip or Wait?",
+      "publisher": "Zacks",
+      "date": "2026-09-01",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "CEVA 股價在一個月內下跌 19 %，反映出市場賣壓沉重，技術面轉弱，投資人對於是否應在當前價位進場持保留態度。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

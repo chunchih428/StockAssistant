@@ -1,0 +1,65 @@
+{
+  "ticker": "ARM",
+  "company": "Arm Holdings plc",
+  "analysis_date": "2026-09-11",
+  "source_file": "cache/2026-09-11/candidates/news/ARM.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 6,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 基礎設施需求強勁與 CPU 市場擴張，Arm 的技術布局與長期成長前景持續獲得機構投資人看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Arm Holdings (ARM): AI Infrastructure and CPU Demand Drive Upbeat Outlook",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 12:03",
+      "impact": "high",
+      "category": "市場展望",
+      "reason": "American Century Investments 在投資信中強調 AI 基礎設施與 CPU 需求是推動 Arm 成長的核心動力，反映了機構對其長期獲利能力的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Arm Refreshes For Agentic AI",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-09 09:30",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Arm 在 Arm Everywhere 活動中宣布針對 Agentic AI 優化 IP 產品組合，顯示公司正積極搶占 AI 軟體代理市場的技術制高點。"
+    },
+    {
+      "rank": 3,
+      "title": "Rising CPU Demand Positions Arm Holdings (ARM) for Gains",
+      "publisher": "Yahoo",
+      "date": "2026-09-07 13:09",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Sands Capital 報告指出 CPU 需求回升將直接有利於 Arm 的授權業務，此為該主題的代表性報導，涵蓋了投資機構對其基本面的正面評價。"
+    },
+    {
+      "rank": 4,
+      "title": "What's Going On With Arm Holdings Stock Tuesday?",
+      "publisher": "Benzinga",
+      "date": "2026-09-08 09:40",
+      "impact": "medium",
+      "category": "股價表現",
+      "reason": "Arm 股價隨晶片類股同步走高，顯示市場情緒正向，且技術面支撐強勁，吸引投資人關注。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "AI Could Eventually Crack Cancer and Drug Discovery, Says Arm CEO",
+      "publisher": "Yahoo",
+      "date": "2026-09-08 14:36",
+      "impact": "low",
+      "category": "高層觀點",
+      "reason": "執行長 Rene Haas 對 AI 在醫療領域的願景發表看法，雖具備長期品牌價值，但對短期股價與財務表現無直接影響，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

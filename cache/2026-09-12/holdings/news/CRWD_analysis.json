@@ -1,0 +1,102 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-09-11",
+  "source_file": "cache/2026-09-11/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 16,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "CrowdStrike 憑藉在 AI 安全領域的領先地位與強勁的營收成長，獲得市場分析師與產業巨頭（如 Nvidia）的高度認可。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Nvidia CEO Jensen Huang Just Called CrowdStrike Its Top Security Partner",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 11:30",
+      "impact": "high",
+      "category": "市場合作",
+      "reason": "Nvidia 執行長黃仁勳公開將 CrowdStrike 定位為頂級安全合作夥伴，顯著提升了公司在 AI 安全生態系中的戰略地位。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike (CRWD) Is Becoming a Vendor of Choice for Agentic AI Security",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 10:59",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Scotiabank 指出 CrowdStrike 正成為代理式 AI 安全的首選供應商，反映出其技術轉型成功，具備長期成長動能。"
+    },
+    {
+      "rank": 3,
+      "title": "Wipro and CrowdStrike Launch CISO Command Center to Transform Enterprise Cybersecurity Operations",
+      "publisher": "Yahoo",
+      "date": "2026-09-09 13:04",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "與 Wipro 合作推出 CISO 指揮中心，有助於擴大企業級客戶的滲透率，並強化其諮詢導向的資安策略。"
+    },
+    {
+      "rank": 4,
+      "title": "CrowdStrike Advances Project QuiltWorks with Regional Partner Expertise Across North America",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 15:50",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "透過 Project QuiltWorks 的地理在地化，強化了北美區域的合作夥伴生態，有助於提升銷售效率。"
+    },
+    {
+      "rank": 5,
+      "title": "CrowdStrike (CRWD) Stock Faces High Expectations After Strong Gains, DA Davidson Stays Bullish",
+      "publisher": "Yahoo",
+      "date": "2026-09-05 14:42",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "儘管股價年內漲幅已超過 83%，DA Davidson 等機構仍維持看多觀點，顯示市場對其基本面成長信心充足。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare Surges 9% on OpenAI Security Partnership, Zscaler Rises 3%",
+      "publisher": "Yahoo",
+      "date": "2026-09-09 15:28",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "競爭對手 Cloudflare 因與 OpenAI 合作而股價大漲，短期內可能對 CrowdStrike 造成資金排擠效應。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike Holdings, Inc. (CRWD) Presents at Goldman Sachs Communacopia + Technology Conference 2026",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-10 18:47",
+      "impact": "low",
+      "category": "投資人會議",
+      "reason": "公司參與大型科技論壇，主要為例行性業務說明，未釋出重大超預期訊息。"
+    },
+    {
+      "rank": 2,
+      "title": "Is CrowdStrike Holdings (CRWD) Stock Still the Better Cybersecurity Bet as Rubrik (RBRK) Accelerates?",
+      "publisher": "Yahoo",
+      "date": "2026-09-09 22:05",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "文章對比了 CrowdStrike 與 Rubrik 的財報表現，屬於中性的產業競爭分析，未對股價產生直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "What Is Really Behind CrowdStrike Stock's Doubling?",
+      "publisher": "Yahoo",
+      "date": "2026-09-11 01:06",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "回顧過去一年股價翻倍的歷史原因，屬於總結性報導，對未來股價走勢無直接指引。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "ETN",
+  "company": "Eaton",
+  "analysis_date": "2026-09-11",
+  "source_file": "cache/2026-09-11/holdings/news/ETN.json",
+  "summary": {
+    "total_articles": 18,
+    "bullish_count": 8,
+    "bearish_count": 3,
+    "neutral_count": 7,
+    "overall_sentiment": "bullish",
+    "key_theme": "Eaton 受惠於資料中心與電氣化需求強勁，儘管近期股價出現短期回調，但分析師調升評級與擴大產能的長期成長動能依然穩固。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "UBS Upgrades Eaton Corp to Buy, Raises Price Target to $515",
+      "publisher": "Benzinga",
+      "date": "2026-09-08 10:34",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "UBS 分析師 Amit Mehrotra 將評級由中立調升至買進，並將目標價大幅上調至 515 美元，顯示市場對其成長前景信心增強。"
+    },
+    {
+      "rank": 2,
+      "title": "Eaton to Boost U.S. Power Capacity With $242M Arkansas Plant",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 18:05",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "Eaton 宣布投資 2.42 億美元於阿肯色州建設新廠，旨在擴大 Fibrebond 產能以支持 AI 資料中心與電網現代化需求，具備長期營收成長潛力。"
+    },
+    {
+      "rank": 3,
+      "title": "Eaton (ETN) Stock Gets Fair Value Bump As Analysts Back AI Data Center Growth",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 10:07",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師因應 AI 資料中心需求上調其合理價值至 475.57 美元，反映市場對其在基礎設施領域核心地位的認可。"
+    },
+    {
+      "rank": 4,
+      "title": "Eaton and Autodesk Help Simplify and Accelerate Delivery of Increasingly Complex Electrical Systems in Commercial Buildings",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 12:33",
+      "impact": "low",
+      "category": "產品合作",
+      "reason": "與 Autodesk 合作優化商業建築電氣系統交付流程，有助於提升營運效率與客戶黏著度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Eaton (ETN) Dipped More Than Broader Market Today",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 21:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價近期出現連續回調，跌幅超過大盤，顯示在經歷一段漲勢後，市場出現獲利了結賣壓。"
+    },
+    {
+      "rank": 2,
+      "title": "Eaton: Portfolio Transformation Is Working, But The Stock Is Not Cheap",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-04 04:16",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "儘管肯定其轉型策略，但分析指出目前股價估值偏高，限制了進一步的上漲空間。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Eaton vs. Vertiv: Which Industrials Stock Is a Better Buy in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-09-09 13:05",
+      "impact": "low",
+      "category": "市場比較",
+      "reason": "針對 Eaton 與 Vertiv 的投資價值進行比較，屬於產業內的投資組合配置分析，無明確多空方向。"
+    },
+    {
+      "rank": 2,
+      "title": "$100 Invested In Eaton Corp 5 Years Ago Would Be Worth This Much Today",
+      "publisher": "Benzinga",
+      "date": "2026-09-04 18:30",
+      "impact": "low",
+      "category": "歷史績效",
+      "reason": "回顧過去 5 年的股價表現，屬於歷史數據回顧，對當前股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
