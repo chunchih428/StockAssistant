@@ -1,0 +1,84 @@
+{
+  "ticker": "FSLR",
+  "company": "First Solar",
+  "analysis_date": "2026-09-11",
+  "source_file": "cache/2026-09-11/candidates/news/FSLR.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 First Solar 的長期成長潛力持樂觀態度，特別是獲得分析師給予超配評級與目標價調升，抵銷了部分產業政策波動帶來的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Piper Sandler Initiates Coverage On First Solar with Overweight Rating, Announces Price Target of $260",
+      "publisher": "Benzinga",
+      "date": "2026-09-09 13:02",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Dimple Gosai 給予 FSLR 超配 (Overweight) 評級，並設定 260 美元的目標價，顯示市場對其未來股價表現具備強勁信心。"
+    },
+    {
+      "rank": 2,
+      "title": "First Solar (FSLR) Gains As Market Dips: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 21:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "在整體市場下跌的環境下，FSLR 逆勢上漲 2%，顯示該股具備相對抗跌性與買盤支撐。"
+    },
+    {
+      "rank": 3,
+      "title": "First Solar: Noise Down, Stock Up",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-06 18:12",
+      "impact": "medium",
+      "category": "投資分析",
+      "reason": "分析指出 FSLR 在排除 45X 稅收抵免後的估值合理，且營收與利潤率持續改善，政策風險正在緩解。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "First Solar: Can The Backlog Continue Growing",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-07 10:09",
+      "impact": "medium",
+      "category": "投資分析",
+      "reason": "報告指出訂單積壓 (Backlog) 可能縮減，加上關稅政策波動與工廠產能利用率不足，對公司長期成長構成風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Here's Why First Solar (FSLR) Fell More Than Broader Market",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 1.43%，表現弱於大盤，反映出市場對短期波動的敏感度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "SolarEdge Falls 4% on Analyst Day Despite Joint NVIDIA 800 VDC Paper; Enphase Energy and First Solar Edge Higher",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 16:07",
+      "impact": "low",
+      "category": "產業動態",
+      "reason": "此新聞主要關注 SolarEdge 的下跌，FSLR 的上漲僅是隨產業板塊連動，並非公司本身有重大消息。"
+    },
+    {
+      "rank": 2,
+      "title": "Which Solar Stock Has Dominated in 2026: SolarEdge, Enphase Energy, or First Solar?",
+      "publisher": "Yahoo",
+      "date": "2026-09-07 15:30",
+      "impact": "low",
+      "category": "產業動態",
+      "reason": "回顧性文章，比較 2026 年太陽能股表現，未對未來股價走勢提供新的預測或影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

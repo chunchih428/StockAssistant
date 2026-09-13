@@ -1,0 +1,102 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-09-11",
+  "source_file": "cache/2026-09-11/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 4,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "Apple 成功推出首款摺疊手機 iPhone Duo 與 iPhone 18 Pro 系列，市場看好其硬體創新帶動的新一輪換機週期。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple makes biggest change to iPhone release cadence in 7 years in Ternus' first showcase as CEO",
+      "publisher": "CNBC",
+      "date": "2026-09-10 09:13",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "執行長 John Ternus 上任後首場發表會，推出首款摺疊手機與 iPhone 18 Pro，標誌著產品發布節奏的重大轉變，被視為推動未來成長的關鍵。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple's iPhone Duo, AI Strategy Strengthen Growth Outlook, Morgan Stanley Says",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 15:28",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "摩根士丹利指出，iPhone Duo 與 Siri AI 的結合顯著增強了 Apple 的長期成長前景，硬體與軟體創新同步加速。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple's Foldable Duo Represents 'Notable Form-Factor Change' for iPhone Lineup, UBS Says",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 17:31",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "瑞銀認為摺疊手機代表了 iPhone 產品線顯著的規格變革，有助於 Apple 擴大市占率。"
+    },
+    {
+      "rank": 4,
+      "title": "Apple’s iPhone 18 Upgrade Cycle Likely to Boost Some Suppliers",
+      "publisher": "The Wall Street Journal",
+      "date": "2026-09-11 03:01",
+      "impact": "medium",
+      "category": "供應鏈動態",
+      "reason": "iPhone 18 系列的換機週期預計將帶動供應鏈需求，對整體生態系產生正面外溢效應。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Apple Prioritizing Volume Over Margins With Modest Pricing Strategy, Morgan Stanley Says",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 15:48",
+      "impact": "medium",
+      "category": "財報預測",
+      "reason": "摩根士丹利分析指出 Apple 採取較保守的定價策略，優先考慮銷量而非利潤率，可能對短期毛利率造成壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple Raises Prices on Existing iPhone Models in India by Up to 41%",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 11:13",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "在印度市場大幅調漲舊款 iPhone 價格高達 41%，可能影響該地區的銷售成長動能與消費者接受度。"
+    },
+    {
+      "rank": 3,
+      "title": "The new Apple Watch can take notes on all of your conversations – and it could be controversial",
+      "publisher": "Yahoo",
+      "date": "2026-09-11 02:54",
+      "impact": "low",
+      "category": "產品爭議",
+      "reason": "新款 Apple Watch 的全時錄音與摘要功能引發隱私爭議，可能面臨監管審查風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "To $370? Here Are 10 Top Analyst Forecasts For Thursday",
+      "publisher": "Benzinga",
+      "date": "2026-09-10 08:50",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析師對 AAPL 目標價調整不一，市場反應呈現分歧，未有單一明確方向。"
+    },
+    {
+      "rank": 2,
+      "title": "Dow, S&P 500, Nasdaq Futures Edge Higher Ahead Of PPI, Jobless Claims",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 08:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受總體經濟數據（PPI、失業救濟金）公布前夕影響，市場情緒偏向觀望，AAPL 股價隨大盤波動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

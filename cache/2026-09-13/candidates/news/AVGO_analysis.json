@@ -1,0 +1,93 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-09-11",
+  "source_file": "cache/2026-09-11/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 6,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "Broadcom 憑藉強勁的 AI 晶片營收與 2028 年 2300 億美元的營收展望維持長期多頭邏輯，但面臨市場對競爭對手（如 OpenAI 與 Samsung 合作）的擔憂及大型基金減持的短期壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Broadcom (AVGO) Q3 2026 Earnings Call Transcript — Custom AI accelerators drove record revenue with $230B AI projection by 2028.",
+      "publisher": "Yahoo",
+      "date": "2026-09-09 21:28",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司發布了極具野心的 2028 年 AI 營收目標（2300 億美元），證明其在客製化 AI 加速器市場的領導地位，為股價提供強勁支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Prediction: Broadcom Could Become One of the World’s Most Valuable Tech Companies",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 15:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 Broadcom 的 AI 半導體營收年增率高達 221%，即便股價處於高點下方，其成長動能仍被視為具備成為全球市值最高科技公司之一的潛力。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Broadcom Providing 2028 Guidance Is a Big Deal for AVGO Stock Bulls",
+      "publisher": "Yahoo",
+      "date": "2026-09-09 15:29",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "明確的長期指引有助於穩定投資人信心，抵銷了短期市場波動帶來的負面情緒。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "OpenAI Picked Broadcom for Its First Custom AI Chip. The Race for Number Two Just Got Dangerous.",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 16:40",
+      "impact": "high",
+      "category": "市場競爭",
+      "reason": "OpenAI 與 Samsung 的合作引發市場對 Broadcom 在客製化晶片市場市佔率流失的擔憂，導致股價短期承壓。"
+    },
+    {
+      "rank": 2,
+      "title": "Billionaire Stanley Druckenmiller Has Sold Micron, Broadcom, and Intel.",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 12:46",
+      "impact": "medium",
+      "category": "機構動向",
+      "reason": "知名投資人 Stanley Druckenmiller 的減持行為可能引發市場跟風賣壓，反映出大型基金對半導體產業配置的調整。"
+    },
+    {
+      "rank": 3,
+      "title": "Broadcom Stock Slipped While Its Revenue Schedule Got Longer",
+      "publisher": "Yahoo",
+      "date": "2026-09-09 15:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價在過去三個月表現落後大盤，反映出市場對於營收成長節奏與估值壓縮的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Comparing Broadcom With Industry Competitors In Semiconductors & Semiconductor Equipment Industry",
+      "publisher": "Benzinga",
+      "date": "2026-09-10 05:58",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "此類文章多為常規的產業數據對比，提供投資人參考資訊，對股價無直接催化作用。"
+    },
+    {
+      "rank": 2,
+      "title": "Jim Cramer has strong message for Nvidia, Broadcom investors",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 14:07",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "名嘴評論通常具備市場熱度，但缺乏具體的財務數據支撐，對股價影響力有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

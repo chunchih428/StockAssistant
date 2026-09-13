@@ -1,0 +1,66 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy",
+  "analysis_date": "2026-09-11",
+  "source_file": "cache/2026-09-11/holdings/news/CEG.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "Constellation Energy 透過收購 Rhode Island State Energy Center 擴張資產組合，並持續受惠於 AI 資料中心對核能電力的強勁需求。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "CEG, SHEL Stocks Rise Overnight: Constellation Energy To Acquire Rhode Island State Energy Center From Shell For $715M",
+      "publisher": "Yahoo",
+      "date": "2026-09-11 01:20",
+      "impact": "high",
+      "category": "併購交易",
+      "reason": "Constellation Energy 以 7.15 億美元收購 Rhode Island State Energy Center，此舉有助於擴大其發電資產規模，市場反應正面，故選此篇作為代表。"
+    },
+    {
+      "rank": 2,
+      "title": "These 2 AI Power Stocks Jumped While the S&P 500 Fell",
+      "publisher": "Yahoo",
+      "date": "2026-09-07 16:01",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "在大盤下跌背景下，CEG 股價逆勢上漲 4.9 %，顯示市場對其作為 AI 電力供應商的價值認同度極高。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Constellation Energy's Biggest AI Power Deal Doesn't Start Paying Until June 2027",
+      "publisher": "Yahoo",
+      "date": "2026-09-08 23:58",
+      "impact": "low",
+      "category": "營運展望",
+      "reason": "指出與 Meta 的重大核能合約需至 2027 年 6 月才開始產生現金流，提醒投資人短期內獲利貢獻有限，屬於對預期心理的修正。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Nuclear Stock Face-Off: Is Constellation Energy or Vistra the Better Buy Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-09-07 02:22",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "對比 CEG 與 Vistra 的投資價值，分析兩者各有優劣，未對股價產生明確的單向推動力。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Constellation Energy Stock Underperforming the Dow?",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 15:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "討論過去一年股價表現與道瓊指數的比較，雖然提及過去表現落後，但同時指出分析師對未來持高度樂觀態度，正負抵銷。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

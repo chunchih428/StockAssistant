@@ -1,0 +1,65 @@
+{
+  "ticker": "HON",
+  "company": "Honeywell",
+  "analysis_date": "2026-09-11",
+  "source_file": "cache/2026-09-11/candidates/news/HON.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 0,
+    "bearish_count": 3,
+    "neutral_count": 2,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場對 Honeywell 轉型後的業務結構與航太部門訂單風險存有疑慮，導致近期股價表現疲軟。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Honeywell International Inc. (HON) Declines More Than Market",
+      "publisher": "Yahoo",
+      "date": "2026-09-09 22:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日下跌 1.59 %，表現落後於大盤，顯示短期賣壓較重，投資人信心不足。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Honeywell Aerospace Stock Riskier Than Its Order Book Looks?",
+      "publisher": "Trefis",
+      "date": "2026-09-08",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "分析指出航太部門雖有龐大訂單，但潛在風險可能高於帳面數據，引發市場對獲利品質的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Honeywell Is Now Three Companies. Here's Which Piece I'd Actually Own.",
+      "publisher": "Yahoo",
+      "date": "2026-09-05 02:35",
+      "impact": "low",
+      "category": "公司策略",
+      "reason": "針對 Honeywell 拆分為三家公司的結構調整進行評論，暗示投資人需審慎評估各業務板塊的價值，對整體估值產生不確定性。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Airport Security Solutions, Global, 2025-2030 Now Available",
+      "publisher": "Yahoo",
+      "date": "2026-09-07 10:04",
+      "impact": "low",
+      "category": "產業報告",
+      "reason": "僅提及 Honeywell 為機場安防市場的 100 多家供應商之一，屬於產業概況報告，對公司短期股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "MITSY vs. HON: Which Stock Is the Better Value Option?",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 15:40",
+      "impact": "low",
+      "category": "投資評比",
+      "reason": "屬於常見的股票價值比較分析，未提供具體利多或利空消息，僅供投資人參考。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

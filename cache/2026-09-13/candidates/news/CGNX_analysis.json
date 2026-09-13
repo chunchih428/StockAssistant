@@ -1,0 +1,37 @@
+{
+  "ticker": "CGNX",
+  "company": "Cognex",
+  "analysis_date": "2026-09-11",
+  "source_file": "cache/2026-09-11/candidates/news/CGNX.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 0,
+    "bearish_count": 2,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司股價在財報發布後表現疲軟，市場對其後續成長動能與獲利前景持保守態度。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cognex (CGNX) Down 9.8% Since Last Earnings Report: Can It Rebound?",
+      "publisher": "Yahoo",
+      "date": "2026-09-04 15:30",
+      "impact": "medium",
+      "category": "股價表現",
+      "reason": "股價自上季財報發布後累計下跌 9.8 %，顯示市場對其短期營運表現與未來獲利預期感到擔憂，投資人正密切關注後續反彈的可能性。"
+    },
+    {
+      "rank": 2,
+      "title": "Reflecting On Specialized Technology Stocks’ Q2 Earnings: Cognex (NASDAQ:CGNX)",
+      "publisher": "StockStory",
+      "date": "2026-09-03",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "針對第 2 季財報進行回顧分析，該報告指出 Cognex 在專業科技領域的表現未達市場預期，反映出公司在當前市場環境下所面臨的成長壓力。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

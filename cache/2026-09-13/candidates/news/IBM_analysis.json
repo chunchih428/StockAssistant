@@ -1,0 +1,102 @@
+{
+  "ticker": "IBM",
+  "company": "International Business Machines Corporation",
+  "analysis_date": "2026-09-11",
+  "source_file": "cache/2026-09-11/candidates/news/IBM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 6,
+    "bearish_count": 5,
+    "neutral_count": 9,
+    "overall_sentiment": "mixed",
+    "key_theme": "IBM 積極布局量子運算與 AI 領域並取得技術合作進展，但股價面臨市場對其核心業務成長動能的質疑與技術性回調壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "IBM and Lockheed Martin Announce Swiss Quantum Innovation Hub at ETH Zurich",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 07:00",
+      "impact": "medium",
+      "category": "技術合作",
+      "reason": "IBM 與 Lockheed Martin 於瑞士蘇黎世聯邦理工學院建立量子創新中心，並部署瑞士首台 IBM 量子電腦，顯示其在歐洲量子運算市場的戰略擴張。"
+    },
+    {
+      "rank": 2,
+      "title": "IBM and NASA Release Open-Source AI Model to Support Lunar Exploration",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 12:00",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "IBM 與 NASA 共同發布開源月球 AI 模型，強化了 IBM 在企業級 AI 與科學研究領域的技術領導地位。"
+    },
+    {
+      "rank": 3,
+      "title": "Cleveland Clinic, RIKEN and IBM Team Advance to Finals for 2026 ACM Gordon Bell Prize",
+      "publisher": "Yahoo",
+      "date": "2026-09-09 04:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "入圍 ACM Gordon Bell 獎項肯定了 IBM 在高效能運算與科學研究的技術實力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Is IBM Stock A Buy After Missing On Transaction Processing?",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 17:43",
+      "impact": "high",
+      "category": "財報分析",
+      "reason": "市場對 IBM 交易處理業務表現不佳感到擔憂，且股價在過去三個月內回調 12.9%，顯示投資人對其核心業務成長性存疑。"
+    },
+    {
+      "rank": 2,
+      "title": "IBM Slips as Its $5 Billion AI Security Bet Finds a Builder",
+      "publisher": "Yahoo",
+      "date": "2026-09-09 18:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管投入 50 億美元於 AI 安全領域，但市場對於該投資能否轉化為實質的軟體成長仍持保留態度。"
+    },
+    {
+      "rank": 3,
+      "title": "Arista vs. IBM: Which Cloud AI Stock Should Investors Buy Now?",
+      "publisher": "Yahoo",
+      "date": "2026-09-09 13:46",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析師指出 Arista 在雲端 AI 成長機會與股價表現上優於 IBM，對 IBM 的相對投資吸引力造成負面影響。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "IBM (IBM) Dips More Than Broader Market: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "單純的股價波動報告，反映市場整體走勢與 IBM 當日 2.47% 的跌幅，未包含重大基本面變化。"
+    },
+    {
+      "rank": 2,
+      "title": "Hyperscalers Bet on AI & Quantum: Watch GOOGL, AMZN, IBM in September",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 19:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 IBM 與其他科技巨頭並列為 AI 與量子運算投資標的，屬於產業趨勢觀察，對股價無直接催化作用。"
+    },
+    {
+      "rank": 3,
+      "title": "Rocket Software Launches Rocket® z/Assurance™ for IBM Z® Environments",
+      "publisher": "Yahoo",
+      "date": "2026-09-09 12:33",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "合作夥伴 Rocket Software 發布針對 IBM Z 環境的產品，對 IBM 本身營收影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
