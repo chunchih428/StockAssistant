@@ -1,0 +1,102 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-09-14",
+  "source_file": "cache/2026-09-14/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "Broadcom 憑藉強勁的 AI 客製化晶片需求與亮眼財報表現，持續獲得市場分析師看好，儘管面臨歐盟對 VMware 授權模式的監管審查壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Broadcom CEO Hock Tan Says Demand Already Exceeds Broadcom's $115 Billion AI Forecast",
+      "publisher": "Yahoo",
+      "date": "2026-09-13 13:20",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "執行長 Hock Tan 指出 AI 晶片需求已超越 1150 億美元的預測，顯示公司在 AI 基礎設施領域的成長動能極強，直接推升市場對其未來獲利的預期。"
+    },
+    {
+      "rank": 2,
+      "title": "Wall Street Analyst Sees Between 19% to 37% Upside in These 5 AI Chip Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-09-13 10:05",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Piper Sandler 將 Broadcom 納入研究覆蓋範圍並給予「增持」評級，顯示華爾街對其股價後市具備顯著上漲空間的共識。"
+    },
+    {
+      "rank": 3,
+      "title": "Broadcom’s Anthropic Ramp Puts Google’s TPU Business in a Different Light",
+      "publisher": "Yahoo",
+      "date": "2026-09-13 11:38",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Broadcom 的客製化 AI 硬體業務在 Anthropic 等客戶推動下轉化為實質營收，證明其在 AI 供應鏈中的關鍵地位。"
+    },
+    {
+      "rank": 4,
+      "title": "Broadcom's AI Chip Revenue Grew 221% Last Quarter",
+      "publisher": "Yahoo",
+      "date": "2026-09-12 11:03",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "AI 晶片營收年增 221 %，顯示公司成功轉型並在高效能運算市場取得巨大市占率。"
+    },
+    {
+      "rank": 5,
+      "title": "Forget AMD. Here's Who Nvidia Really Needs to Be Worried About.",
+      "publisher": "Yahoo",
+      "date": "2026-09-11 15:05",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 Broadcom 的客製化晶片模式對 Nvidia 的通用 GPU 模式構成強大競爭威脅，吸引了尋求替代方案的超大規模資料中心客戶。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Broadcom’s VMware Curbs Face Fresh EU Antitrust Scrutiny",
+      "publisher": "Benzinga",
+      "date": "2026-09-11 07:43",
+      "impact": "medium",
+      "category": "法規",
+      "reason": "歐盟對 VMware 的雲端授權變更展開反壟斷調查，可能導致罰款或被迫調整商業模式，對公司軟體部門的獲利能力構成潛在風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Billionaire Stanley Druckenmiller Dumped Broadcom, Intel, and Micron for This Chip Stock",
+      "publisher": "Yahoo",
+      "date": "2026-09-12 08:23",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "知名投資人 Stanley Druckenmiller 減持 Broadcom，反映出大型機構投資人對半導體板塊配置的調整，可能對短期股價情緒造成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Broadcom vs. Micron Technology: Which Technology Stock Is a Better Buy in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-09-12 18:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此類文章為投資組合比較分析，旨在探討不同半導體公司的估值與成長潛力，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Jim Cramer Provided Live Commentary For This AI Stock’s Post Earnings Share Price Movement",
+      "publisher": "Yahoo",
+      "date": "2026-09-12 10:49",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "媒體評論員對股價走勢的追蹤報導，屬於市場情緒觀察，不構成實質基本面變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

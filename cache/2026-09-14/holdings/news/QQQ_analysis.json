@@ -1,0 +1,174 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-09-14",
+  "source_file": "cache/2026-09-14/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 17,
+    "bullish_count": 3,
+    "bearish_count": 5,
+    "neutral_count": 9,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管面臨地緣政治緊張與通膨數據帶來的市場波動，投資人對 QQQ 的資金流入仍具韌性，但市場對衍生性商品稅務與費用結構的討論日益增加。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Iran War, Inflation Fears Trigger $40 Billion Large-Cap Exodus — But VOO, QQQ Buck the Trend",
+      "publisher": "Benzinga",
+      "date": "2026-09-11 11:28",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管地緣政治風險導致大型股出現資金外流，但 QQQ 展現出資金吸納的韌性，顯示投資人對其長期配置價值仍具信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Breadth Slips Back to a Negative Bias as SPY and IWM Lose Short-Term Support",
+      "publisher": "ChartMill",
+      "date": "2026-09-09 11:44",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "在整體市場廣度轉弱的情況下，QQQ 表現出相對抗跌的技術面韌性，優於其他大盤指數。"
+    },
+    {
+      "rank": 3,
+      "title": "Exchange-Traded Funds, US Equities Rise After Midday",
+      "publisher": "Yahoo",
+      "date": "2026-09-11 17:13",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "反映當日盤中市場情緒回穩，QQQ 跟隨大盤指數走高。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Nasdaq, Dow, S&P 500 Futures Rise After 4-Day Market Slide As CPI Looms Large",
+      "publisher": "Yahoo",
+      "date": "2026-09-11 08:33",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場對即將公布的 CPI 數據感到擔憂，導致零售投資人情緒轉向看空 QQQ，反映出對通膨壓力的避險心態。"
+    },
+    {
+      "rank": 2,
+      "title": "QQQI’s 14% Yield Loses Its Only Tax Break Inside an IRA",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 21:45",
+      "impact": "low",
+      "category": "產品分析",
+      "reason": "針對 QQQI 等衍生產品的稅務結構分析，指出其在退休帳戶中的稅務劣勢，可能影響長期投資人的持有意願。"
+    },
+    {
+      "rank": 3,
+      "title": "TQQQ Gained 59.18% While QQQ Gained 24.99%. Here Is Why That Is Not Triple.",
+      "publisher": "Yahoo",
+      "date": "2026-09-09 21:45",
+      "impact": "low",
+      "category": "產品分析",
+      "reason": "教育投資人關於槓桿 ETF 的成本損耗問題，提醒投資人 QQQ 衍生產品的追蹤誤差風險。"
+    },
+    {
+      "rank": 4,
+      "title": "QQQ vs QQQM: Same Index, Same Stocks, Different Fee",
+      "publisher": "Yahoo",
+      "date": "2026-09-08 21:45",
+      "impact": "low",
+      "category": "產品分析",
+      "reason": "比較 QQQ 與 QQQM 的費用差異，指出 QQQM 對長期持有者更具成本優勢，對 QQQ 的競爭力構成壓力。"
+    },
+    {
+      "rank": 5,
+      "title": "Exchange-Traded Funds, US Equities Fall After Midday",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 17:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "反映當日盤中市場賣壓，QQQ 隨大盤同步下跌。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Tesla’s Drag on XLY Was Softened by Amazon’s Gain; QQQ Felt Almost Nothing",
+      "publisher": "Yahoo",
+      "date": "2026-09-11 12:05",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析成分股權重對 ETF 的影響，指出 QQQ 受單一成分股波動的影響相對有限，表現平穩。"
+    },
+    {
+      "rank": 2,
+      "title": "How a 66-Year-Old’s $800,000 in JEPQ and QQQI Pays $8,200 a Month",
+      "publisher": "Yahoo",
+      "date": "2026-09-11 21:45",
+      "impact": "low",
+      "category": "產品分析",
+      "reason": "純粹的理財案例分享，討論 QQQ 相關衍生產品的現金流收益，對股價本身無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Trump’s $5K Free Money Could Be A Market Bonanza; PPI Pushes Fed Rate-Hike Odds To 70%",
+      "publisher": "Benzinga",
+      "date": "2026-09-10 11:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "綜合性市場評論，提及 PPI 數據對聯準會升息預期的影響，對 QQQ 影響中性。"
+    },
+    {
+      "rank": 4,
+      "title": "VOO vs. QQQ: Which Popular ETF Is Right for Your Portfolio in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-09-09 18:11",
+      "impact": "low",
+      "category": "產品分析",
+      "reason": "常見的 ETF 比較分析，旨在協助投資人進行資產配置，不涉及對 QQQ 的看多或看空觀點。"
+    },
+    {
+      "rank": 5,
+      "title": "Questcorp Defines Near-Surface Gold Discovery Corridor at Union Norte",
+      "publisher": "Yahoo",
+      "date": "2026-09-09 07:01",
+      "impact": "low",
+      "category": "其他",
+      "reason": "此新聞涉及代碼為 QQQ 的礦業公司 Questcorp Mining，與 Invesco QQQ Trust 無關，屬代碼誤植。"
+    },
+    {
+      "rank": 6,
+      "title": "How To Trade SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA",
+      "publisher": "Benzinga",
+      "date": "2026-09-08 10:57",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "技術分析教學文章，提供交易策略建議，不構成對股價走勢的預測。"
+    },
+    {
+      "rank": 7,
+      "title": "QQQ Charged 0.20% for Years. The Fee Only Fell After Shareholders Approved a Structural Change",
+      "publisher": "Yahoo",
+      "date": "2026-09-07 21:15",
+      "impact": "low",
+      "category": "產品分析",
+      "reason": "回顧性報導 QQQ 過去的費用結構調整，屬於歷史資訊，對當前股價影響有限。"
+    },
+    {
+      "rank": 8,
+      "title": "QQQX Vs. GPIQ: The ETF Is Better Than The CEF",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-09 14:54",
+      "impact": "low",
+      "category": "產品分析",
+      "reason": "針對封閉式基金 QQQX 的分析，與 QQQ 本身無直接關聯。"
+    },
+    {
+      "rank": 9,
+      "title": "Exchange-Traded Funds Mixed, US Equities Fall After Midday",
+      "publisher": "Yahoo",
+      "date": "2026-09-08 17:23",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "盤中市場波動報導，顯示 QQQ 當日表現與大盤趨勢一致。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

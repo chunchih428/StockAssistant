@@ -1,0 +1,120 @@
+{
+  "ticker": "GOOGL",
+  "company": "Google",
+  "analysis_date": "2026-09-14",
+  "source_file": "cache/2026-09-14/holdings/news/GOOGL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "Alphabet 憑藉 Google Cloud 的強勁成長與 AI 基礎設施的資本支出效率，展現出強大的市場競爭力與長期獲利潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Google Just Dropped a Bombshell on AI Spending — Alphabet’s $200 Billion AI Bet Is Starting to Pay Off Big",
+      "publisher": "Yahoo",
+      "date": "2026-09-12 18:56",
+      "impact": "high",
+      "category": "財報與資本支出",
+      "reason": "Google 揭露其 AI 伺服器投資回本週期不到兩年，自研晶片更僅需一年，顯示資本支出效率極高，有助於提升長期獲利能力。"
+    },
+    {
+      "rank": 2,
+      "title": "Sundar Pichai Says Alphabet's Cloud Backlog Hit $514 Billion After 82% Revenue Growth Last Quarter",
+      "publisher": "Yahoo",
+      "date": "2026-09-13 12:23",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "Google Cloud 營收成長達 82%，且積壓訂單高達 5,140 億美元，顯示雲端業務已成為公司核心成長引擎。"
+    },
+    {
+      "rank": 3,
+      "title": "Google’s $15 Billion Finland AI Build Is Good News for Nvidia, With One Important Catch",
+      "publisher": "Yahoo",
+      "date": "2026-09-11 23:12",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "Google 投入 150 億美元於芬蘭建設 AI 資料中心，強化全球 AI 基礎設施佈局，展現其在 AI 競賽中的領先地位。"
+    },
+    {
+      "rank": 4,
+      "title": "Google Boosts AI Coding Armory by Completing Mechanize AI Talent Deal, Former CEO Joins DeepMind",
+      "publisher": "Benzinga",
+      "date": "2026-09-11 22:52",
+      "impact": "medium",
+      "category": "人才併購",
+      "reason": "透過併購 Mechanize 並延攬其人才加入 DeepMind，顯著增強了 Google 在程式碼生成與聊天機器人領域的技術實力。"
+    },
+    {
+      "rank": 5,
+      "title": "Cramer Warned Google Was Coming for Adobe, and Now Gemini Is Inside Hollywood’s Editing Software",
+      "publisher": "Yahoo",
+      "date": "2026-09-11 18:26",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Gemini AI 整合進好萊塢編輯軟體，顯示 Google 成功將 AI 應用滲透至專業軟體市場，挑戰 Adobe 等傳統巨頭。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Meta May Overtake Google Search in Ad Revenue This Year, Bernstein Says",
+      "publisher": "Yahoo",
+      "date": "2026-09-12 08:46",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "Bernstein 分析指出 Meta 廣告營收可能超越 Google 搜尋，對 Google 的核心廣告業務構成潛在威脅。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Cathie Wood Is Selling Google and Buying More Meta Platforms Stock",
+      "publisher": "Yahoo",
+      "date": "2026-09-12 12:43",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "知名投資人 Cathie Wood 減持 Google 並轉向 Meta，反映部分市場資金在 AI 浪潮下對兩者成長潛力的重新評估。"
+    },
+    {
+      "rank": 3,
+      "title": "‘The Oil of the Next 50 Years’ — Trump Touts AI Data Centers Delivering Wealth and Investment to Communities",
+      "publisher": "Yahoo",
+      "date": "2026-09-12 14:44",
+      "impact": "low",
+      "category": "政治風險",
+      "reason": "川普點名 Google 在錯誤的國家建設資料中心，暗示未來可能面臨地緣政治或監管壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Alphabet (GOOGL) Beats Stock Market Upswing: What Investors Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-09-11 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為單日股價波動回顧，未包含重大基本面變動。"
+    },
+    {
+      "rank": 2,
+      "title": "How Far Could Alphabet Stock Move On You In A Year?",
+      "publisher": "Yahoo",
+      "date": "2026-09-11 19:34",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "基於選擇權市場的波動率分析，屬於技術性市場觀察。"
+    },
+    {
+      "rank": 3,
+      "title": "Alphabet Inc. (GOOGL) Is a Trending Stock: Facts to Know Before Betting on It",
+      "publisher": "Yahoo",
+      "date": "2026-09-11 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "整理公司基本資訊，無具體利多或利空消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
