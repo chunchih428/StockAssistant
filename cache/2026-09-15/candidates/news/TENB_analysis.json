@@ -1,0 +1,46 @@
+{
+  "ticker": "TENB",
+  "company": "Tenable Holdings, Inc.",
+  "analysis_date": "2026-09-14",
+  "source_file": "cache/2026-09-14/candidates/news/TENB.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 0,
+    "bearish_count": 6,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司宣布發行 7.25 億美元可轉換公司債導致股權稀釋疑慮，加上分析師下調評級，引發股價顯著下跌。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Wedbush Assumes Tenable Holdings at Underperform, Announces Price Target of $29",
+      "publisher": "Benzinga",
+      "date": "2026-09-11 08:31",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Wedbush 分析師 Steven Wahrhaftig 給予 Tenable 「劣於大盤」 (Underperform) 評級，並設定 29 美元的目標價，顯示市場對其未來成長與估值持悲觀態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Tenable Holdings, Inc. Announces Pricing of Upsized $725.0 Million Offering of Convertible Senior Notes",
+      "publisher": "Yahoo",
+      "date": "2026-09-11 03:23",
+      "impact": "high",
+      "category": "資本運作",
+      "reason": "公司將可轉換公司債發行規模擴大至 7.25 億美元，此舉通常會引發市場對股權稀釋的擔憂，且該消息涵蓋了先前 6.5 億美元計畫的最終定價結果，為最具代表性的資本結構變動新聞。"
+    },
+    {
+      "rank": 3,
+      "title": "TENB Stock Tumbled Over 7% Today - Everything To Know About Its $650M Private Placement",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 13:39",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出股價因發債消息下跌超過 7 %，並解釋了資金用途包括回購股票與支付上限買入交易 (capped call transactions) 的成本，反映了投資人對資本配置策略的負面反應。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-09-14",
+  "source_file": "cache/2026-09-14/candidates/news/NFLX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 5,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對於 Netflix 的長期成長潛力與廣告業務擴張持樂觀態度，但近期面臨佛羅里達州隱私訴訟及南非監管調查等法律風險，導致股價波動加劇。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Netflix Stock Will Be Worth More by 2028: My Case for Buying NFLX Now",
+      "publisher": "Yahoo",
+      "date": "2026-09-13 23:50",
+      "impact": "high",
+      "category": "投資建議",
+      "reason": "分析師認為管理層執行力強勁，且在近期股價回調後估值具備吸引力，適合長期持有至 2028 年。"
+    },
+    {
+      "rank": 2,
+      "title": "Prediction: Netflix's Advertising Business Passes $6 Billion in 2027",
+      "publisher": "Yahoo",
+      "date": "2026-09-09 06:01",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "預測廣告業務將成為未來營收成長的關鍵驅動力，預計 2027 年營收可突破 60 億美元。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Is Netflix Growing Fastest And Falling Furthest?",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 13:52",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "數據顯示 Netflix 過去 12 個月的營收成長率超越 Amazon、Apple 與 Disney，基本面表現強勁。"
+    },
+    {
+      "rank": 4,
+      "title": "3 of the Best Growth Stocks to Buy for Less Than $100 Right Now",
+      "publisher": "Yahoo",
+      "date": "2026-09-08 09:20",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "將 Netflix 列為低於 100 美元價位中具備成長潛力的優質標的。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Netflix Said It Was Different From Facebook. A New Lawsuit Says It Tracked Kids for Ads Anyway.",
+      "publisher": "Yahoo",
+      "date": "2026-09-11 15:10",
+      "impact": "high",
+      "category": "法律訴訟",
+      "reason": "佛羅里達州針對 Netflix 秘密追蹤兒童用戶以投放廣告提起訴訟，恐面臨數十億美元的潛在罰款與商譽損失。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix Faces South Africa Price Probe, Putting Stock Under Pressure",
+      "publisher": "Benzinga",
+      "date": "2026-09-08 12:02",
+      "impact": "medium",
+      "category": "法規監管",
+      "reason": "南非監管機構對 Netflix 展開消費者定價調查，增加國際市場營運的不確定性。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix (NFLX) Shares Pressured by Weak Q2 Outlook",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 11:55",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "投資機構指出第二季財測疲軟，對短期股價表現構成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "NFLX Is Opening Up Box Office Numbers For Six Upcoming Films",
+      "publisher": "Yahoo",
+      "date": "2026-09-08 19:24",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "Netflix 調整電影發行策略，將公開六部電影的票房數據，市場正觀察此舉對串流訂閱模式的影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Do Options Traders Know Something About Netflix Stock We Don't?",
+      "publisher": "Yahoo",
+      "date": "2026-09-11 12:48",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "選擇權市場出現異常波動，顯示投資人對短期股價走勢看法分歧。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Wall Street’s Breakup Fantasy Doesn’t Work for Netflix",
+      "publisher": "Yahoo",
+      "date": "2026-09-08 11:40",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "針對市場傳言拆分業務進行分析，結論認為拆分對 Netflix 的財務結構並無實質助益。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

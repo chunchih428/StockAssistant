@@ -1,0 +1,37 @@
+{
+  "ticker": "CEVA",
+  "company": "CEVA",
+  "analysis_date": "2026-09-13",
+  "source_file": "cache/2026-09-13/candidates/news/CEVA.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司透過與 LG Electronics 的策略合作強化 UWB 技術布局，並持續在神經處理器市場展現成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ceva and LG Electronics Partner to Accelerate UWB Adoption Across Automotive, Industrial and Consumer SoCs",
+      "publisher": "Yahoo",
+      "date": "2026-09-09 11:00",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "與 LG Electronics 建立合作夥伴關係，將加速 CEVA 的超寬頻 (UWB) 技術在汽車、工業及消費性 SoC 領域的應用，預期將顯著提升授權收入與市場滲透率。"
+    },
+    {
+      "rank": 2,
+      "title": "Analysing CEVA’s (CEVA) Growth in Neural Processing Markets",
+      "publisher": "Insider Monkey",
+      "date": "2026-09-04 14:41",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析報告指出 CEVA 在神經處理器 (NPU) 市場的成長動能強勁，顯示其在邊緣運算 AI 領域的技術布局已開始轉化為實質的市場競爭力。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

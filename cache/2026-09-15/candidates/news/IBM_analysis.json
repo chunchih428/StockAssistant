@@ -1,0 +1,84 @@
+{
+  "ticker": "IBM",
+  "company": "International Business Machines Corporation",
+  "analysis_date": "2026-09-14",
+  "source_file": "cache/2026-09-14/candidates/news/IBM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 6,
+    "neutral_count": 4,
+    "overall_sentiment": "mixed",
+    "key_theme": "IBM 積極布局量子計算與 AI 領域，雖技術合作頻傳利多，但近期股價受交易處理業務疲軟及獲利變現能力疑慮影響而承壓。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "IBM and NASA Release Open-Source AI Model to Support Lunar Exploration",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 12:00",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "IBM 與 NASA 合作推出開源月球 AI 模型，展現其在科學 AI 領域的技術領先地位，有助於擴大商業 AI 應用版圖。"
+    },
+    {
+      "rank": 2,
+      "title": "IBM, Lockheed Martin Announce Swiss Quantum Innovation Hub at ETH Zurich",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 07:00",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "IBM 與 Lockheed Martin 合作在瑞士建立量子計算中心，透過國防抵銷協議深化歐洲市場布局，強化量子技術商業化進程。"
+    },
+    {
+      "rank": 3,
+      "title": "Hyperscalers Bet on AI & Quantum: Watch GOOGL, AMZN, IBM in September",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 19:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析師指出 IBM 在雲端、AI 與量子計算領域的多元化布局，使其在超大規模運算支出增加的趨勢下具備長期競爭優勢。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Is IBM Stock A Buy After Missing On Transaction Processing?",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 17:43",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "IBM 交易處理業務表現不如預期，導致股價在過去三個月回調 12.9 %，反映市場對核心業務成長動能的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "IBM Falls While Its Moon AI Scores 23% Better",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 18:48",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管 AI 技術表現優異，但市場擔憂開源模式的免費性質限制了短期獲利變現能力，導致股價在利多消息下反而下跌。"
+    },
+    {
+      "rank": 3,
+      "title": "IBM (IBM) Dips More Than Broader Market: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "IBM 股價單日下跌 2.47 %，表現弱於大盤，顯示投資人對近期技術布局的熱情不足以抵銷對基本面疲軟的疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "eXp University’s FastCAP Wins Two Gold Awards in Global Field Beating Out 3M, IBM, and Pepsi",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此新聞為第三方獎項評比，IBM 僅作為被比較對象，對其股價無實質影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

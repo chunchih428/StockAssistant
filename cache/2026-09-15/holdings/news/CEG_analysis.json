@@ -1,0 +1,57 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy",
+  "analysis_date": "2026-09-14",
+  "source_file": "cache/2026-09-14/holdings/news/CEG.json",
+  "summary": {
+    "total_articles": 8,
+    "bullish_count": 5,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "Constellation Energy 透過收購 RISEC 資產擴大發電組合，持續強化其在 AI 數據中心電力供應市場的領導地位。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Constellation to Acquire Rhode Island State Energy Center ( RISEC ) from Shell",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 19:10",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "公司宣布以 7.15 億美元收購 RISEC，此舉直接擴大其發電資產組合，有助於提升長期營收成長潛力，選定此篇作為代表是因為它是官方公告，資訊最為精確。"
+    },
+    {
+      "rank": 2,
+      "title": "These 2 AI Power Stocks Jumped While the S & P 500 Fell",
+      "publisher": "Yahoo",
+      "date": "2026-09-07 16:01",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "CEG 股價在市場下跌時逆勢上漲 4.9 %，顯示投資人對其作為 AI 電力供應商的市場地位具有高度信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Constellation Energy's Biggest AI Power Deal Doesn't Start Paying Until June 2027",
+      "publisher": "Yahoo",
+      "date": "2026-09-08 23:58",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "市場提醒投資人與 Meta 的重大合約貢獻營收尚需等待九個月，短期內可能無法立即反映在財報獲利上，屬於對預期心理的修正。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Nuclear Stock Face-Off: Is Constellation Energy or Vistra the Better Buy Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-09-07 02:22",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此篇為產業競爭對比分析，客觀比較 CEG 與 Vistra 的優劣勢，未對股價產生直接的買賣訊號影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

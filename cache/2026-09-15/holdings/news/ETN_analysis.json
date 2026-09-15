@@ -1,0 +1,84 @@
+{
+  "ticker": "ETN",
+  "company": "Eaton",
+  "analysis_date": "2026-09-14",
+  "source_file": "cache/2026-09-14/holdings/news/ETN.json",
+  "summary": {
+    "total_articles": 13,
+    "bullish_count": 4,
+    "bearish_count": 4,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管獲得 UBS 分析師調升評級與目標價的利多支撐，但近期股價面臨估值過高與市場回調的壓力，多空因素交織。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "UBS Upgrades Eaton Corp to Buy, Raises Price Target to $515",
+      "publisher": "Benzinga",
+      "date": "2026-09-08 10:34",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "UBS 分析師 Amit Mehrotra 將評級從「中立」調升至「買入」，並將目標價大幅上調至 515 美元，顯示對公司成長潛力的強烈信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Eaton and Autodesk Help Simplify and Accelerate Delivery of Increasingly Complex Electrical Systems in Commercial Buildings",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 12:33",
+      "impact": "medium",
+      "category": "產品合作",
+      "reason": "與 Autodesk 的合作有助於加速複雜電力系統的交付，強化了 Eaton 在商業建築市場的技術領先地位與競爭優勢。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Eaton (ETN) Dipped More Than Broader Market Today",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 21:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價近期表現弱於大盤，反映出投資人在高位獲利了結的壓力，以及市場對其短期波動的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Is Eaton Priced Above Peers That Earn More Per Sale?",
+      "publisher": "Yahoo",
+      "date": "2026-09-11 19:18",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "文章質疑 Eaton 的高估值溢價，指出其獲利能力相較於同業並未顯著優勢，可能引發投資人對股價過熱的疑慮。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Eaton Stock Amplifying A Risk You Already Own?",
+      "publisher": "Yahoo",
+      "date": "2026-09-11 01:16",
+      "impact": "low",
+      "category": "風險評估",
+      "reason": "探討 Eaton 在資料中心設備領域的風險敞口，提醒投資人注意該產業的潛在波動性對投資組合的影響。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Eaton vs. Vertiv: Which Industrials Stock Is a Better Buy in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-09-09 13:05",
+      "impact": "low",
+      "category": "市場比較",
+      "reason": "針對 Eaton 與 Vertiv 的比較分析，未給出明確買賣建議，僅提供投資人評估產業競爭格局的參考資訊。"
+    },
+    {
+      "rank": 2,
+      "title": "VWDRY vs. ETN: Which Stock Is the Better Value Option?",
+      "publisher": "Yahoo",
+      "date": "2026-09-07 16:40",
+      "impact": "low",
+      "category": "市場比較",
+      "reason": "純粹的價值投資比較分析，旨在協助投資人進行資產配置，對股價本身無直接催化作用。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
