@@ -1,0 +1,111 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-09-14",
+  "source_file": "cache/2026-09-14/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 11,
+    "bearish_count": 4,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "Apple 在新任執行長 John Ternus 的帶領下推出首款摺疊手機 iPhone Duo，市場對其硬體創新與長期成長潛力持正面看法，儘管面臨中國市場價格競爭壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple makes biggest change to iPhone release cadence in 7 years in Ternus' first showcase as CEO",
+      "publisher": "CNBC",
+      "date": "2026-09-10 09:13",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "新任執行長 John Ternus 首次亮相並推出首款摺疊手機，標誌著 Apple 產品發布節奏的重大轉變，被視為推動未來成長的關鍵催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple Bought Back More Than $880 Billion of Its Own Stock During Tim Cook's 15 Years as CEO",
+      "publisher": "Yahoo",
+      "date": "2026-09-13 20:05",
+      "impact": "medium",
+      "category": "財務表現",
+      "reason": "回顧過去 15 年高達 8,800 億美元的庫藏股回購，凸顯 Apple 強大的現金流與對股東價值的長期承諾。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple, Taiwan Semi Lead Five Stocks Near Buy Points",
+      "publisher": "Yahoo",
+      "date": "2026-09-12 16:22",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "技術分析顯示 Apple 股價接近買入點，配合新產品發布的市場預期，吸引投資人關注。"
+    },
+    {
+      "rank": 4,
+      "title": "Can New iPhone Duo Power Apple's Stock Higher?",
+      "publisher": "Yahoo",
+      "date": "2026-09-13 14:13",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "分析師認為 iPhone Duo 的創新設計有望成為 Apple 股價上漲的強勁驅動力。"
+    },
+    {
+      "rank": 5,
+      "title": "Warren Buffett Made Apple Berkshire Hathaway's Single Largest Stock Position",
+      "publisher": "Yahoo",
+      "date": "2026-09-13 17:36",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "回顧巴菲特長期持有 Apple 的績效，強化了市場對該公司長期投資價值的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "The iPhone Duo enters China’s crowded foldable market — and faces a price test",
+      "publisher": "CNBC",
+      "date": "2026-09-10 20:19",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "iPhone Duo 在中國市場面臨小米與華為等低價摺疊手機的激烈競爭，價格策略將成為市場考驗。"
+    },
+    {
+      "rank": 2,
+      "title": "Jim Cramer Flips the Script: Why Older Investors Should Ditch Growth Stocks for 30-Year Treasuries",
+      "publisher": "Yahoo",
+      "date": "2026-09-12 16:39",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "Jim Cramer 建議退休投資人減少對成長股（如 Apple）的配置，轉向債券，可能對短期散戶情緒造成壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "Sonera Acquisition Bodes Well for Apple Stock in the Long Term, But Negative Catalysts Appear to Be Weighing on the Firm’s Performance",
+      "publisher": "Yahoo",
+      "date": "2026-09-13 19:12",
+      "impact": "low",
+      "category": "企業併購",
+      "reason": "儘管收購 Sonera 有利長期發展，但市場仍擔憂短期內存在的負面催化劑影響股價表現。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Apple wants AI to listen all day without creeping people out",
+      "publisher": "Yahoo",
+      "date": "2026-09-13 14:37",
+      "impact": "low",
+      "category": "產品研發",
+      "reason": "探討 Apple 在 AI 穿戴裝置上的隱私解決方案，屬於技術研發層面的討論，對股價影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "SpaceX vs. Apple: Wall Street Sees Strong Upside for One of These Stocks and Remains Neutral On the Other",
+      "publisher": "Yahoo",
+      "date": "2026-09-13 22:50",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "華爾街對 Apple 的目標價看法趨於中性，顯示市場在產品發布後進入觀望期。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
