@@ -1,0 +1,102 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-09-14",
+  "source_file": "cache/2026-09-14/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "CrowdStrike 憑藉與 NVIDIA 的戰略合作及在 AI 代理安全領域的領先地位，獲得華爾街分析師強勁看好與目標價上調。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Wedbush Assumes CrowdStrike Holdings at Outperform, Announces Price Target of $250",
+      "publisher": "Benzinga",
+      "date": "2026-09-11 08:26",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Wedbush 給予 CrowdStrike 「優於大盤」評級並設定 250 美元目標價，顯示機構投資人對其在網路安全市場的競爭力高度認可。"
+    },
+    {
+      "rank": 2,
+      "title": "Jensen Huang Says Cybersecurity Is AI’s Next Blockbuster App. CrowdStrike Is Already Building It With Nvidia",
+      "publisher": "Yahoo",
+      "date": "2026-09-11 22:57",
+      "impact": "high",
+      "category": "戰略合作",
+      "reason": "NVIDIA 執行長黃仁勳公開點名網路安全為 AI 下一個殺手級應用，並強調與 CrowdStrike 的合作，顯著提升市場對其技術護城河的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "CrowdStrike Expands AI Capabilities With Autonomous Product Launch",
+      "publisher": "Yahoo",
+      "date": "2026-09-13 13:00",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "於 Fal.Con 2026 大會發布 Falcon Guardian 與 SafeMind，強化自主 AI 安全功能，有助於鞏固其在企業級資安市場的領導地位。"
+    },
+    {
+      "rank": 4,
+      "title": "CrowdStrike (CRWD) Is Becoming a Vendor of Choice for Agentic AI Security",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 10:59",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Scotiabank 指出 CrowdStrike 正成為代理 AI 安全的首選供應商，預期將持續帶動營收成長動能。"
+    },
+    {
+      "rank": 5,
+      "title": "Wipro and CrowdStrike Launch CISO Command Center to Transform Enterprise Cybersecurity Operations",
+      "publisher": "Yahoo",
+      "date": "2026-09-09 13:04",
+      "impact": "low",
+      "category": "業務擴張",
+      "reason": "與 Wipro 合作推出 CISO 指揮中心，進一步擴大企業級服務版圖，展現其在大型企業市場的滲透力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike Holdings Registers Resale Of 2.12M Class A Shares By Selling Stockholder",
+      "publisher": "Benzinga",
+      "date": "2026-09-11 17:16",
+      "impact": "medium",
+      "category": "股權變動",
+      "reason": "現有股東註冊轉售 212 萬股 A 類普通股，短期內可能對股價造成籌碼面壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Cloudflare Surges 9% on OpenAI Security Partnership, Zscaler Rises 3%",
+      "publisher": "Yahoo",
+      "date": "2026-09-09 15:28",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "競爭對手 Cloudflare 因與 OpenAI 達成合作而股價大漲，顯示資安領域競爭激烈，可能分流部分投資人關注度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Adobe vs. CrowdStrike: Which Technology Stock Is a Better Buy in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-09-11 16:55",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "此類文章為投資組合比較分析，對股價無直接影響，僅提供投資人不同產業間的配置參考。"
+    },
+    {
+      "rank": 2,
+      "title": "Here is What to Know Beyond Why CrowdStrike (CRWD) is a Trending Stock",
+      "publisher": "Yahoo",
+      "date": "2026-09-11 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場熱度與交易量分析，屬於技術性與情緒面的報導，未涉及公司基本面重大變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

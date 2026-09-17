@@ -1,0 +1,84 @@
+{
+  "ticker": "FSLR",
+  "company": "First Solar",
+  "analysis_date": "2026-09-14",
+  "source_file": "cache/2026-09-14/candidates/news/FSLR.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管面臨產業政策波動與產能利用率挑戰，First Solar 仍獲得分析師給予正面評級與目標價，顯示市場對其長期競爭力持樂觀態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Piper Sandler Initiates Coverage On First Solar with Overweight Rating, Announces Price Target of $260",
+      "publisher": "Benzinga",
+      "date": "2026-09-09 13:02",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Piper Sandler 分析師 Dimple Gosai 給予 FSLR 「優於大盤」 (Overweight) 評級，並設定 260 美元目標價，顯示機構投資人看好其未來成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "First Solar (FSLR) Gains As Market Dips: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 21:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "在整體市場下跌的背景下，FSLR 逆勢上漲 2%，顯示該股在當前市場環境中具備相對強勢的買盤支撐。"
+    },
+    {
+      "rank": 3,
+      "title": "SolarEdge Falls 4% on Analyst Day Despite Joint NVIDIA 800 VDC Paper; Enphase Energy and First Solar Edge Higher",
+      "publisher": "Yahoo",
+      "date": "2026-09-10 16:07",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "與同業 SolarEdge 表現分歧，FSLR 在太陽能板塊中展現出較佳的抗跌性與相對強勢的股價表現。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "First Solar: Can The Backlog Continue Growing",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-07 10:09",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "該報告指出訂單積壓 (Backlog) 可能縮減、關稅政策不確定性以及工廠產能利用率不足等風險，對公司長期獲利能力提出質疑。"
+    },
+    {
+      "rank": 2,
+      "title": "Here's Why First Solar (FSLR) Fell More Than Broader Market",
+      "publisher": "Zacks",
+      "date": "2026-09-04 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導分析了 FSLR 股價跌幅大於大盤的原因，反映出市場對於該公司短期波動性的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Which Solar Stock Has Dominated in 2026: SolarEdge, Enphase Energy, or First Solar?",
+      "publisher": "Yahoo",
+      "date": "2026-09-07 15:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此篇為回顧性分析，比較 2026 年以來太陽能板塊各公司的表現差異，未對未來股價走勢提供明確指引。"
+    },
+    {
+      "rank": 2,
+      "title": "First Solar (FSLR) Gets Bullish Coverage Despite Recent Stock Weakness",
+      "publisher": "Yahoo",
+      "date": "2026-09-11 22:43",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "此篇為對 Piper Sandler 評級報告的後續總結，內容與先前發布的評級新聞重複，故歸類為中性資訊彙整。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

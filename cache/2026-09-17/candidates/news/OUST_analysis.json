@@ -1,0 +1,75 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-09-14",
+  "source_file": "cache/2026-09-14/candidates/news/OUST.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 2,
+    "bearish_count": 3,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司在 Physical AI 與 LiDAR 領域展現強勁成長潛力，但高估值、獲利能力延遲及稀釋風險引發市場多空分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ouster: Waiting For Physical AI Liftoff",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-07 10:30",
+      "impact": "medium",
+      "category": "營運展望",
+      "reason": "公司 Q2 營收達 5500 萬美元，且擁有 4.5 億美元現金儲備，顯示在 Physical AI 領域的成長動能強勁，為長期發展奠定基礎。"
+    },
+    {
+      "rank": 2,
+      "title": "Flyability and Ouster Showcase Proven Lidar Partnership at INTERGEO 2026",
+      "publisher": "Yahoo",
+      "date": "2026-09-09 11:00",
+      "impact": "low",
+      "category": "產品合作",
+      "reason": "透過與 Flyability 的合作展示，強化了 Ouster 在工業檢測領域的技術領先地位與市場應用實證。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ouster: The Story Is Better Than The Numbers, Sell",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-08 09:22",
+      "impact": "high",
+      "category": "財務分析",
+      "reason": "分析師給予賣出評級，指出 LiDAR 定價壓力及獲利時程可能延後至 2028 年，且當前目標價過於樂觀。"
+    },
+    {
+      "rank": 2,
+      "title": "Ouster: Dilution May Have Peaked, But Profitability Must Now Follow",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-09 05:37",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "儘管 Q2 營收成長 56%，但持續的股權稀釋與現金流出抵銷了每股收益的成長，市場對獲利能力轉正的壓力增加。"
+    },
+    {
+      "rank": 3,
+      "title": "Ouster, Inc. (OUST) Falls More Steeply Than Broader Market",
+      "publisher": "Yahoo",
+      "date": "2026-09-09 22:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 3.33%，反映出市場在獲利了結壓力下對該股波動性的敏感度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ouster Is Up 70% YTD: Time to Buy More, Hold or Book Profits?",
+      "publisher": "Yahoo",
+      "date": "2026-09-09 14:06",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "文章綜合討論了今年以來 70% 的漲幅與潛在風險，平衡了成長題材與高估值、虧損現實，未給出明確方向。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
