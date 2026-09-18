@@ -1,0 +1,93 @@
+{
+  "ticker": "BE",
+  "company": "Bloom Energy Corporation",
+  "analysis_date": "2026-09-18",
+  "source_file": "cache/2026-09-18/holdings/news/BE.json",
+  "summary": {
+    "total_articles": 15,
+    "bullish_count": 9,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "Bloom Energy 憑藉其創新的 800V DC 原生燃料電池技術成功打入 AI 資料中心市場，並受惠於 S&P 500 指數納入預期與強勁的成長前景，帶動股價表現。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy’s 800V DC-Native Power Can Cut Billions from AI Data Center Costs",
+      "publisher": "Yahoo",
+      "date": "2026-09-16 13:00",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "公司發布針對 AI 資料中心設計的 800V DC 原生燃料電池解決方案，能顯著降低資本支出並提升能源效率，為公司開闢了巨大的市場成長空間。"
+    },
+    {
+      "rank": 2,
+      "title": "Bloom Energy Stock Jumps On 'Meaningful' Data-Center Catalyst",
+      "publisher": "Yahoo",
+      "date": "2026-09-16 16:55",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "市場高度關注 Bloom Energy 納入 S&P 500 指數的潛力，加上 2026 年獲利預期強勁，成為推升股價的主要催化劑。"
+    },
+    {
+      "rank": 3,
+      "title": "Bloom Energy: Valuation Attractive, Buy This Dip",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-14 22:13",
+      "impact": "medium",
+      "category": "投資建議",
+      "reason": "分析師指出 AI 資料中心需求強勁，且公司上調了 2026 財年財測，認為當前估值具吸引力，建議投資人逢低買進。"
+    },
+    {
+      "rank": 4,
+      "title": "Why Are BE, FCEL, GEV Stocks Rising Overnight?",
+      "publisher": "Yahoo",
+      "date": "2026-09-17 02:08",
+      "impact": "medium",
+      "category": "法規",
+      "reason": "美國眾議院通過「費率支付者保護法案」，旨在將電力基礎設施責任轉移至科技與資料中心營運商，有利於 Bloom Energy 這類能源解決方案供應商。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy Corp. (BE) Short Position Weighs on Performance Amid Small-Cap AI Rally",
+      "publisher": "Yahoo",
+      "date": "2026-09-16 13:05",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Wasatch Global Investors 在其 Q2 投資信中提到對 Bloom Energy 的空頭部位，顯示部分機構投資人對其股價表現持保留態度。"
+    },
+    {
+      "rank": 2,
+      "title": "BE Stock Falls Most In Nearly A Month: Why This Analyst Sees Over 36% Upside",
+      "publisher": "Yahoo",
+      "date": "2026-09-15 01:13",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受 AI 產業領袖對安全性提出疑慮影響，導致市場情緒波動，造成股價短期回調。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy Hits the Road with ESPN College Football Campus Tour",
+      "publisher": "Yahoo",
+      "date": "2026-09-11 16:00",
+      "impact": "low",
+      "category": "品牌行銷",
+      "reason": "公司參與 ESPN 校園巡迴活動，屬於品牌曝光與公關性質，對股價無直接財務影響。"
+    },
+    {
+      "rank": 2,
+      "title": "AMD, BE, CRWV In Focus: Situational Awareness Has Been Reportedly Buying Options",
+      "publisher": "Yahoo",
+      "date": "2026-09-11 15:48",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出有機構進行選擇權交易，屬於市場資金流向觀察，不代表公司基本面變化。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

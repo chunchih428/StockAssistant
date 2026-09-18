@@ -1,0 +1,102 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-09-18",
+  "source_file": "cache/2026-09-18/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 8,
+    "bearish_count": 4,
+    "neutral_count": 8,
+    "overall_sentiment": "bullish",
+    "key_theme": "iPhone 18 系列強勁的市場需求與電信商補貼策略，有效抵銷了高定價帶來的潛在銷售壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple iPhone 18 Demand Should Hold Up On Higher Carrier Incentives, BofA Says",
+      "publisher": "Yahoo",
+      "date": "2026-09-17 13:12",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "美國電信商將 iPhone 18 Pro Max 的最高折抵額度提升至 1,200 美元，美銀分析師 Wamsi Mohan 指出此舉將有效支撐換機需求，抵銷高定價影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple’s new Siri narrows the gap with rival AI assistants",
+      "publisher": "CNBC",
+      "date": "2026-09-15 23:27",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "新版 Siri AI 在個人化情境理解上獲得正面評價，顯示 Apple 在 AI 競爭中正逐步縮小與對手的技術差距。"
+    },
+    {
+      "rank": 3,
+      "title": "Warren Buffett Has More Than 50% of His Portfolio in These 3 Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-09-17 23:20",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Apple 仍是波克夏海瑟威投資組合的核心持股，長期投資價值持續獲得市場認可。"
+    },
+    {
+      "rank": 4,
+      "title": "Apple Touts Big Emmy Wins: Will Marketing Do A Big Job?",
+      "publisher": "Yahoo",
+      "date": "2026-09-17 12:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Apple TV+ 獲得艾美獎肯定，有助於提升服務部門的品牌價值與訂閱吸引力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Apple (AAPL) Faces a $2.7 Billion UK Lawsuit over its App Tracking Rules",
+      "publisher": "Yahoo",
+      "date": "2026-09-17 16:44",
+      "impact": "high",
+      "category": "法規",
+      "reason": "面臨 27 億美元的英國集體訴訟，指控其應用程式追蹤規則涉及不公平競爭，可能對營收與監管環境造成壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "What Happens To Apple Stock If Its Margin Keeps Slipping?",
+      "publisher": "Yahoo",
+      "date": "2026-09-16 17:31",
+      "impact": "medium",
+      "category": "財報",
+      "reason": "市場擔憂利潤率下滑趨勢，若硬體成本無法有效控制，將對長期獲利能力構成挑戰。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple (AAPL) Challenges Secret UK Order For An iPhone Backdoor",
+      "publisher": "Yahoo",
+      "date": "2026-09-17 23:19",
+      "impact": "medium",
+      "category": "法規",
+      "reason": "與英國政府針對加密後門的法律爭議，可能引發隱私保護與政府監管之間的長期衝突。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Bank of America flags surprising iPhone 18 pre-order trend",
+      "publisher": "Yahoo",
+      "date": "2026-09-17 18:33",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "iPhone 18 預購趨勢與往年不同，華爾街分析師對其解讀分歧，市場觀望情緒濃厚。"
+    },
+    {
+      "rank": 2,
+      "title": "S&P 500, Nasdaq, Dow Futures Inch Higher As Investors Digest First Rate Hike Since 2023",
+      "publisher": "Yahoo",
+      "date": "2026-09-16 23:29",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "聯準會升息 25 個基點至 3.75%-4%，屬於總體經濟環境變動，對 Apple 股價影響為系統性風險。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

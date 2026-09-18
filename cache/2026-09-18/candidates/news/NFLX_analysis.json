@@ -1,0 +1,129 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-09-18",
+  "source_file": "cache/2026-09-18/candidates/news/NFLX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 7,
+    "neutral_count": 4,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對於 Netflix 在直播賽事與廣告業務的長期成長潛力持樂觀態度，但近期股價波動與總體經濟壓力導致投資人對其估值與競爭力存在分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "The Next $100 Billion of Netflix’s Value Could Come From Here, 98% Upside Ahead",
+      "publisher": "Yahoo",
+      "date": "2026-09-17 14:30",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "分析指出 Netflix 的廣告業務正處於爆發期，預期將成為未來 1,000 億美元市值的核心驅動力，具備極高的成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix (NFLX) Could Be 5% Undervalued As Live Events And Ads Shape The Next Phase",
+      "publisher": "Yahoo",
+      "date": "2026-09-16 05:13",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Evercore 指出直播活動與廣告支援方案將重塑 Netflix 的成長階段，認為當前股價被低估約 5 %。"
+    },
+    {
+      "rank": 3,
+      "title": "Bill Ackman's Pershing Square Took a New Stake in Netflix in 2026",
+      "publisher": "Yahoo",
+      "date": "2026-09-17 13:40",
+      "impact": "medium",
+      "category": "機構投資",
+      "reason": "知名投資人 Bill Ackman 重新買入 Netflix 股票，顯示機構投資人對其在經歷股價修正後的長期價值重拾信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Netflix Content Chief Shrugs Off YouTube Threat: ‘Young People Only Watch Short Things’ Isn’t True",
+      "publisher": "Benzinga",
+      "date": "2026-09-17 06:25",
+      "impact": "low",
+      "category": "產品策略",
+      "reason": "內容長 Bela Bajaria 強調直播與廣告策略將持續驅動全球用戶獲取，並反駁了 YouTube 對年輕族群的壟斷威脅。"
+    },
+    {
+      "rank": 5,
+      "title": "Netflix Stock Has Fallen 35% or More Before. History Says Every One of Those Drops Ended at a New High.",
+      "publisher": "Yahoo",
+      "date": "2026-09-17 08:07",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "歷史數據顯示 Netflix 過去多次經歷 35 % 以上的跌幅後均能創下新高，為長期投資人提供信心支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Netflix vs. Disney: Which Streaming Stock Has an Edge Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-09-17 17:11",
+      "impact": "medium",
+      "category": "競爭分析",
+      "reason": "Disney 憑藉多元化成長、串流媒體獲利能力及豐富的內容庫，在當前市場環境下被認為比 Netflix 更具競爭優勢。"
+    },
+    {
+      "rank": 2,
+      "title": "MarketBeat's Most Downgraded Stocks in Q3: 2 Look Cheap, 1 Looks Risky",
+      "publisher": "Yahoo",
+      "date": "2026-09-15 16:50",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Netflix 面臨近期分析師降評壓力，儘管仍維持買入共識，但降評頻率增加反映市場對其短期表現的擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix (NFLX) Suffers a Larger Drop Than the General Market: Key Insights",
+      "publisher": "Yahoo",
+      "date": "2026-09-15 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 3 %，表現弱於大盤，反映出市場對其短期股價動能的負面情緒。"
+    },
+    {
+      "rank": 4,
+      "title": "Netflix Stock Edges Lower Tuesday: What's Happening?",
+      "publisher": "Benzinga",
+      "date": "2026-09-15 11:55",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "總體經濟摩擦持續對 Netflix 股價造成壓力，導致投資人避險情緒上升。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Netflix content chief Bela Bajaria defines event strategy as streamer eyes more live sports",
+      "publisher": "CNBC",
+      "date": "2026-09-17 06:00",
+      "impact": "low",
+      "category": "產品策略",
+      "reason": "說明公司對國際 NFL 賽事的開放態度，屬於營運策略的例行說明，未有具體合約簽署。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix (NFLX) Joins A New Streaming Policy Coalition",
+      "publisher": "Yahoo",
+      "date": "2026-09-17 15:11",
+      "impact": "low",
+      "category": "法規與政策",
+      "reason": "與 Amazon、YouTube 成立聯盟進行遊說，屬於企業常規的政策參與行為。"
+    },
+    {
+      "rank": 3,
+      "title": "Duolingo beats Netflix by 80 spots in new power ranking",
+      "publisher": "Yahoo",
+      "date": "2026-09-16 23:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為第三方機構的排名變動，對 Netflix 的實際財務影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
