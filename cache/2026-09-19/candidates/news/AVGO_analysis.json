@@ -1,0 +1,75 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-09-18",
+  "source_file": "cache/2026-09-18/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 11,
+    "bearish_count": 6,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管市場對 AI 支出週期存有疑慮，Broadcom 強勁的 AI 營收成長與執行長 Hock Tan 的樂觀展望仍支撐其長期投資價值。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Hock Tan Just Guided Broadcom's AI Revenue to Reach $230 Billion by 2028. Should You Believe Him?",
+      "publisher": "Yahoo",
+      "date": "2026-09-16 17:05",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "執行長 Hock Tan 對 AI 營收的長期指引極具野心，且過去表現顯示其預測往往保守，實際成長常優於預期，為股價提供強大支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Wall Street Sees 56% Upside in Broadcom After Summer Selloff",
+      "publisher": "Yahoo",
+      "date": "2026-09-16 13:35",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "華爾街分析師認為近期股價回調與基本面脫節，預估有 56% 的上漲空間，反映市場對其 AI 晶片業務的長期信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Jim Cramer on Broadcom (AVGO): “The Stock May Be Too Cheap to Ignore”",
+      "publisher": "Yahoo",
+      "date": "2026-09-17 21:42",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名財經評論員 Jim Cramer 公開表示該股估值過低，具備投資吸引力，有助於提振散戶信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Billionaire Stanley Druckenmiller Dumped Broadcom and 11X'd His Fund's Stake in This Trillion-Dollar Dual-Industry Leader",
+      "publisher": "Yahoo",
+      "date": "2026-09-17 10:26",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "知名億萬富翁投資人 Stanley Druckenmiller 減持 Broadcom，此類機構投資人的動向對市場情緒具有顯著負面影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom (AVGO) Shares Fell As Slower AI Development Raised Demand Concerns",
+      "publisher": "Yahoo",
+      "date": "2026-09-16 15:11",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場擔憂 AI 產業發展放緩將影響晶片需求，導致半導體板塊整體回調，Broadcom 亦受此宏觀情緒拖累。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Competitor Analysis: Evaluating Broadcom And Competitors In Semiconductors & Semiconductor Equipment Industry",
+      "publisher": "Benzinga",
+      "date": "2026-09-17 05:58",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導屬於常規的產業競爭分析，提供投資人客觀的比較視角，未對股價產生直接的短期驅動作用。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

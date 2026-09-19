@@ -1,0 +1,75 @@
+{
+  "ticker": "ARM",
+  "company": "Arm Holdings plc",
+  "analysis_date": "2026-09-18",
+  "source_file": "cache/2026-09-18/candidates/news/ARM.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 2,
+    "bearish_count": 3,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "Arm 執行長對資料中心與 AI 晶片營收成長展現高度信心，但市場仍擔憂高估值與半導體產業的週期性回調。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Arm’s CEO Says the Chip Designer Is Even More Confident in Hitting $2B AI Chip Sales Target. The Stock Is Rallying",
+      "publisher": "Yahoo",
+      "date": "2026-09-17 17:49",
+      "impact": "high",
+      "category": "營運展望",
+      "reason": "執行長公開重申並強化對 20 億美元 AI 晶片銷售目標的信心，直接提振市場對其成長潛力的預期，並帶動股價反彈。"
+    },
+    {
+      "rank": 2,
+      "title": "Arm CEO Expresses Confidence in Data Center CPU Revenue Demand",
+      "publisher": "Yahoo",
+      "date": "2026-09-17 08:51",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "強調資料中心 CPU 的強勁需求，為公司核心業務提供穩健的成長敘事，與 AI 晶片目標相輔相成。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "ARM Stock Declines 39% in 3 Months: Is This a Buying Opportunity?",
+      "publisher": "Yahoo",
+      "date": "2026-09-16 17:28",
+      "impact": "high",
+      "category": "財務分析",
+      "reason": "指出 36.47 倍的營收倍數（P/S ratio）過高，且面臨半導體產業週期性波動的風險，反映市場對其高估值的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Arm Holdings (ARM) Cheap After The AI Stock Pullback?",
+      "publisher": "Yahoo",
+      "date": "2026-09-15 05:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受 AI 產業整體回調影響，股價單日下跌超過 8 %，顯示投資人對 AI 類股的獲利了結壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Is Arm Holdings Stock Falling Monday?",
+      "publisher": "Benzinga",
+      "date": "2026-09-14 12:29",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "股價跌至 240.40 美元，主要受半導體板塊整體修正拖累，技術面顯示需關注 233.50 美元的支撐位。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "What's Going On With Arm Holdings Stock Tuesday?",
+      "publisher": "Benzinga",
+      "date": "2026-09-15 12:10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "在市場整體疲軟的情況下，ARM 逆勢上漲 3 %，顯示個股表現與大盤出現分歧，屬於短期技術性波動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

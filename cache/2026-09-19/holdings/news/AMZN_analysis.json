@@ -1,0 +1,102 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-09-18",
+  "source_file": "cache/2026-09-18/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 4,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "Amazon 透過與 Generac 簽署數據中心備用電源協議強化基礎設施，同時在廣告市場競爭中保持優勢，儘管面臨監管審查與海外設施受損的挑戰。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
+      "publisher": "CNBC",
+      "date": "2026-09-16 17:02",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "Amazon 與 Generac 簽署長期備用電源供應協議，並獲得認股權證，此舉確保了數據中心關鍵基礎設施的穩定性，被市場視為推動未來成長的重大催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon lifts minimum hourly wage to $20 for US operations staff",
+      "publisher": "Yahoo",
+      "date": "2026-09-17 09:09",
+      "impact": "medium",
+      "category": "人力資源",
+      "reason": "調升美國營運人員最低時薪至 20 美元，有助於提升員工留任率並降低長期營運風險，顯示公司財務狀況足以支撐薪資結構調整。"
+    },
+    {
+      "rank": 3,
+      "title": "TTD Stock In Focus: Morningstar Sees Market Share Shrinking As Amazon, Google And Meta Ramp Up Ad Competition",
+      "publisher": "Yahoo",
+      "date": "2026-09-17 06:09",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "Morningstar 指出 Amazon 的廣告平台正持續擴大市佔率，對競爭對手 The Trade Desk 構成壓力，反映 Amazon 在高利潤廣告業務的強勁成長動能。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Amazon's AWS Unable to Restore Services in UAE, Bahrain Zones Six Months After Drone Strikes",
+      "publisher": "Yahoo",
+      "date": "2026-09-16 15:23",
+      "impact": "medium",
+      "category": "營運風險",
+      "reason": "AWS 在中東地區的數據中心因無人機襲擊導致服務中斷超過半年仍無法恢復，顯示地緣政治風險對雲端基礎設施的長期負面影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon, Walmart Face FTC Probe Call Over AI Chatbots And ‘Made In USA’ Claims",
+      "publisher": "Yahoo",
+      "date": "2026-09-17 20:21",
+      "impact": "low",
+      "category": "法規監管",
+      "reason": "美國參議員要求 FTC 調查 Alexa 購物功能是否對美國製造產品存在不公平競爭，雖目前僅為調查呼籲，但增加了監管不確定性。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon Can Absorb the 21 Air Suspension. Replacing Its Fleet Is a Different Story.",
+      "publisher": "Yahoo",
+      "date": "2026-09-17 21:44",
+      "impact": "low",
+      "category": "物流營運",
+      "reason": "合作夥伴 21 Air 停飛導致 Amazon 損失 7 架貨機，雖對整體機隊影響有限，但填補運力缺口仍需時間與成本。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "S&P 500, Nasdaq, Dow End Higher As Drop In Oil Prices Allays Inflationary Concerns",
+      "publisher": "Yahoo",
+      "date": "2026-09-17 22:22",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "大盤整體上漲主要受油價下跌與通膨擔憂緩解驅動，Amazon 股價隨大盤走勢波動，並非公司特定消息。"
+    },
+    {
+      "rank": 2,
+      "title": "AI Security Debate — Amazon Says AI Models To Be Released Only When 'Ready And Safe'",
+      "publisher": "Yahoo",
+      "date": "2026-09-17 23:40",
+      "impact": "low",
+      "category": "企業治理",
+      "reason": "Amazon 對 AI 部署採取謹慎態度，符合業界標準，對股價影響中性。"
+    },
+    {
+      "rank": 3,
+      "title": "Understanding Amazon.com's Position In Broadline Retail Industry Compared To Competitors",
+      "publisher": "Benzinga",
+      "date": "2026-09-17 05:58",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "此類文章為例行性的產業競爭力分析，未提供新的重大財務或營運資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
