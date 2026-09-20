@@ -1,0 +1,84 @@
+{
+  "ticker": "TENB",
+  "company": "Tenable Holdings, Inc.",
+  "analysis_date": "2026-09-18",
+  "source_file": "cache/2026-09-18/candidates/news/TENB.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 3,
+    "bearish_count": 3,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司近期股價強勁上漲與 AI 成長潛力受到市場肯定，但面臨可轉債發行帶來的稀釋疑慮及分析師對估值過高的降評壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Tenable: AI Is Becoming A Growth Catalyst",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-16 13:45",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "分析師給予買進評級，強調 AI 技術成為推動平台採用率與客戶支出增加的核心催化劑，且利潤率持續改善。"
+    },
+    {
+      "rank": 2,
+      "title": "Tenable (TENB) Moves 16.5% Higher: Will This Strength Last?",
+      "publisher": "Yahoo",
+      "date": "2026-09-15 07:21",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日大漲 16.5% 且成交量高於平均，反映市場對其近期業務表現的強烈買盤信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Tenable (TENB) Stock Still Looks Undervalued Despite Its 54% Run",
+      "publisher": "Yahoo",
+      "date": "2026-09-15 06:11",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "儘管年初至今漲幅已達 54.3%，市場觀點仍認為其估值相對於成長潛力而言尚屬偏低。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Wedbush Assumes Tenable Holdings at Underperform, Announces Price Target of $29",
+      "publisher": "Benzinga",
+      "date": "2026-09-11 08:31",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Wedbush 分析師 Steven Wahrhaftig 給予「劣於大盤」評級，並設定 29 美元的目標價，顯示對當前股價溢價的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Tenable Holdings, Inc. Announces Pricing of Upsized $725.0 Million Offering of Convertible Senior Notes",
+      "publisher": "Yahoo",
+      "date": "2026-09-11 03:23",
+      "impact": "medium",
+      "category": "資本運作",
+      "reason": "公司宣布發行 7.25 億美元的可轉債，市場通常擔憂此舉將導致現有股權稀釋，並對股價造成短期賣壓。"
+    },
+    {
+      "rank": 3,
+      "title": "Tenable: Better Fundamentals, Tougher Entry Point (Rating Downgrade)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-16 11:35",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "儘管認可公司基本面，但分析師因股價近期漲幅過大導致進場點位不佳，進而下調評級。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "TENB Stock Tumbled Over 7% Today - Everything To Know About Its $650M Private Placement",
+      "publisher": "Stocktwits",
+      "date": "2026-09-10 13:39",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此報導與可轉債發行相關，因內容與後續更新的 7.25 億美元發行公告重疊，故列為中性參考，反映市場對融資消息的即時反應。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

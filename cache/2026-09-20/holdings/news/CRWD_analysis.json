@@ -1,0 +1,102 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-09-18",
+  "source_file": "cache/2026-09-18/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 資安需求強勁與亮眼的財報表現，CrowdStrike 股價屢創新高，並獲得市場分析師與產業權威機構的高度評價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "The Ultimate Cyber Shield: CrowdStrike Rises Past $235",
+      "publisher": "Yahoo",
+      "date": "2026-09-16 13:45",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第 2 季財報表現亮眼，營收成長達 25.6 %，年度經常性收入 (ARR) 成長 51 %，強勁的財務數據是推動股價創下 52 週新高的核心動力。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike Named a Leader in Threat Intelligence by Independent Research Firm",
+      "publisher": "Yahoo",
+      "date": "2026-09-17 14:49",
+      "impact": "medium",
+      "category": "市場地位",
+      "reason": "被獨立研究機構評選為威脅情報領域的領導者，強化了其在資安市場的技術護城河與品牌競爭力。"
+    },
+    {
+      "rank": 3,
+      "title": "Jim Cramer Highlights CrowdStrike (CRWD) as AI Security Concerns Lift Cybersecurity Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-09-17 21:58",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名財經評論員 Jim Cramer 公開看好 CrowdStrike 在 AI 資安領域的領先地位，有助於提升散戶與機構投資人的信心。"
+    },
+    {
+      "rank": 4,
+      "title": "CrowdStrike Named the Only Customers’ Choice in the 2026 Gartner® Peer Insights™",
+      "publisher": "Yahoo",
+      "date": "2026-09-16 12:07",
+      "impact": "medium",
+      "category": "產品評價",
+      "reason": "獲得 Gartner 客戶選擇獎，證明其在身分威脅偵測與回應 (ITDR) 領域的產品滿意度極高，有利於長期市占率擴張。"
+    },
+    {
+      "rank": 5,
+      "title": "Why Did CRWD, OKTA, IOVA Shares Climb To 52-Week Highs Today?",
+      "publisher": "Yahoo",
+      "date": "2026-09-18 03:47",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "反映了整體資安產業的順風效應，CrowdStrike 作為龍頭股受惠於資金追捧，股價動能強勁。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Is CrowdStrike Holdings (CRWD) Priced For Perfection On Sales?",
+      "publisher": "Yahoo",
+      "date": "2026-09-16 20:10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場擔憂股價已反映過多樂觀預期，若未來成長速度無法維持高檔，可能面臨估值修正壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "The Case for Selling CrowdStrike Stock",
+      "publisher": "Yahoo",
+      "date": "2026-09-16 11:22",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "儘管公司成長強勁，但部分分析觀點認為股價漲幅過快，建議投資人獲利了結，屬於正常的市場多空分歧。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Bernstein Maintains Market Perform on CrowdStrike Holdings, Raises Price Target to $132",
+      "publisher": "Benzinga",
+      "date": "2026-09-17 07:55",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "雖然調升目標價，但維持「市場表現」評級，顯示分析師對目前股價水位持保留態度，認為已達合理估值。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike Stock Pauses Wednesday: What's Going On?",
+      "publisher": "Benzinga",
+      "date": "2026-09-16 09:12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價短暫回檔主要受宏觀因素（聯準會利率決策）影響，非公司基本面惡化，屬於市場情緒的正常波動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
