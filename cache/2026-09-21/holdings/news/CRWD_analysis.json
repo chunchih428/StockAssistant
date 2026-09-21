@@ -1,0 +1,84 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-09-21",
+  "source_file": "cache/2026-09-21/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "人工智慧 安全需求激增推動 CrowdStrike 股價創下歷史新高，儘管市場對高估值存在擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike CEO sends strong six-word message on AI cyber safety",
+      "publisher": "Yahoo",
+      "date": "2026-09-19 18:35",
+      "impact": "high",
+      "category": "公司策略",
+      "reason": "執行長 George Kurtz 強調 AI 帶來的安全風險不會消失，此言論強化了市場對 CrowdStrike 核心業務的長期需求信心，推動股價創下歷史收盤新高。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike Gets Higher Targets From BofA, Stephens",
+      "publisher": "Yahoo",
+      "date": "2026-09-18 15:11",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "美國銀行 (BofA) 與 Stephens & Co. 同步上調目標價，反映華爾街對其 AI 安全平台在企業市場的戰略地位持高度肯定。"
+    },
+    {
+      "rank": 3,
+      "title": "CrowdStrike Named a Leader in Threat Intelligence by Independent Research Firm",
+      "publisher": "Yahoo",
+      "date": "2026-09-17 14:49",
+      "impact": "medium",
+      "category": "產品認證",
+      "reason": "獲 Forrester Wave 評選為外部威脅情報領域的領導者，進一步鞏固其在網路安全市場的技術領先地位。"
+    },
+    {
+      "rank": 4,
+      "title": "Why CrowdStrike, Palo Alto Networks, SentinelOne, and Other Cybersecurity Stocks Surged This Week",
+      "publisher": "Yahoo",
+      "date": "2026-09-20 21:20",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場對 AI 驅動的網路威脅日益焦慮，導致資金湧入網路安全板塊，CrowdStrike 作為行業龍頭直接受惠。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cybersecurity Rally Hits a Valuation Reality Check",
+      "publisher": "Benzinga",
+      "date": "2026-09-18 17:05",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "隨著股價年內漲幅超過 100%，市場開始對其高估值進行修正，投資人擔憂漲勢是否已過度反映未來成長。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike, HubSpot, Intuit, Cloudflare, and Okta Shares Plummet",
+      "publisher": "Yahoo",
+      "date": "2026-09-19 00:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受市場整體波動影響，部分獲利了結賣壓導致股價在盤中出現修正，屬於短期技術性回調。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "B of A Securities Maintains Neutral on CrowdStrike Holdings, Raises Price Target to $260",
+      "publisher": "Benzinga",
+      "date": "2026-09-18 13:54",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "儘管上調了目標價，但分析師 Tal Liani 維持中性評級，顯示對當前股價水平與未來成長空間的審慎態度。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

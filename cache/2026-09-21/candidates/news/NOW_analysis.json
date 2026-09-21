@@ -1,0 +1,120 @@
+{
+  "ticker": "NOW",
+  "company": "ServiceNow",
+  "analysis_date": "2026-09-21",
+  "source_file": "cache/2026-09-21/candidates/news/NOW.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 5,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場資金從 AI 硬體板塊輪動至企業軟體，加上 ServiceNow 在 AI 治理與工作流自動化領域的持續創新，推動股價表現強勁。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "ServiceNow Jumps 6.4% as AI Slowdown Flips the Software Trade",
+      "publisher": "Yahoo",
+      "date": "2026-09-14 20:58",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "投資人將資金從 AI 硬體轉向企業軟體，因市場對 AI 模型開發速度放緩的擔憂，反而凸顯了 ServiceNow 等軟體公司在企業應用端的實質獲利能力。"
+    },
+    {
+      "rank": 2,
+      "title": "ServiceNow Shares Rise 2.6% After Analysts Raise Price Targets",
+      "publisher": "Yahoo",
+      "date": "2026-09-14 11:04",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "多家華爾街投行上調目標價，反映市場對其營收成長與 AI 產品變現能力的信心增強。"
+    },
+    {
+      "rank": 3,
+      "title": "ServiceNow (NOW) Debuts AI Control Tower For Enterprise AI Governance",
+      "publisher": "Yahoo",
+      "date": "2026-09-15 18:17",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出 AI Control Tower 與 Context Engine，強化企業 AI 治理與安全性，進一步鞏固其在企業級 AI 工作流的領導地位。"
+    },
+    {
+      "rank": 4,
+      "title": "These 3 Agentic AI Stocks Have More Than Hype Behind Their Growth Stories",
+      "publisher": "Yahoo",
+      "date": "2026-09-19 12:35",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報告指出 ServiceNow 在 Agentic AI 領域具備實質的企業採用率與財報成長支撐，非僅是市場炒作。"
+    },
+    {
+      "rank": 5,
+      "title": "Adaptiva Joins ServiceNow Build Partner Program to Expand Access to CMDB Integration",
+      "publisher": "Yahoo",
+      "date": "2026-09-14 13:00",
+      "impact": "low",
+      "category": "合作夥伴",
+      "reason": "透過與 Adaptiva 的合作擴展 CMDB 整合能力，有助於提升平台生態系統的廣度與客戶黏著度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "ServiceNow (NOW) Stock Falls Amid Market Uptick",
+      "publisher": "Yahoo",
+      "date": "2026-09-18 21:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "近期股價出現 2.17% 的回調，顯示在短期漲幅過大後，部分投資人進行獲利了結。"
+    },
+    {
+      "rank": 2,
+      "title": "This ServiceNow Bear Signal Has Never Been Wrong",
+      "publisher": "Yahoo",
+      "date": "2026-09-17 17:58",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "技術面顯示股價在 320 日移動平均線面臨壓力，被分析師視為潛在的賣出訊號。"
+    },
+    {
+      "rank": 3,
+      "title": "ServiceNow Stock Leads 3 Large Cap Growth Names Facing Higher Rate Pressure",
+      "publisher": "Yahoo",
+      "date": "2026-09-18 16:14",
+      "impact": "low",
+      "category": "總體經濟",
+      "reason": "美國聯邦債務壓力與利率上升環境，對高成長型科技股的估值構成潛在壓抑。"
+    },
+    {
+      "rank": 4,
+      "title": "Atlassian vs. ServiceNow: Which Cloud Software Stock Has an Edge?",
+      "publisher": "Yahoo",
+      "date": "2026-09-15 14:01",
+      "impact": "low",
+      "category": "競爭分析",
+      "reason": "分析指出 Atlassian 在估值與雲端動能上可能具備相對優勢，對 ServiceNow 形成競爭壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Dow Jones Futures Rise; ServiceNow, Twilio Lead New Buys As Fed Hike Looms",
+      "publisher": "Yahoo",
+      "date": "2026-09-15 23:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此類新聞為市場盤前動態彙整，將 ServiceNow 列為熱門買入標的，但主要受大盤情緒驅動。"
+    },
+    {
+      "rank": 2,
+      "title": "Company News for Sep 15, 2026",
+      "publisher": "Yahoo",
+      "date": "2026-09-15 13:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為每日公司新聞摘要，無具體利多或利空資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

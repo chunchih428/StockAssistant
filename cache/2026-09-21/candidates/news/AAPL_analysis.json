@@ -1,0 +1,201 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-09-21",
+  "source_file": "cache/2026-09-21/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 8,
+    "bearish_count": 5,
+    "neutral_count": 7,
+    "overall_sentiment": "mixed",
+    "key_theme": "Apple 正處於 iPhone 18 系列與摺疊機 Duo 的產品發布週期，市場對於高階需求與 AI 伺服器布局存在多空分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Prediction: Even With the $1,999 Price Tag, Apple's Foldable iPhone Duo Will Be a Hit and Apple Will Join Nvidia in the $5 Trillion Club.",
+      "publisher": "Yahoo",
+      "date": "2026-09-20 16:37",
+      "impact": "high",
+      "category": "市場展望",
+      "reason": "分析師看好高價位摺疊機 iPhone Duo 的市場潛力，認為其將推動 Apple 市值邁向 5 兆美元大關。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple gets bullish Wall Street call as iPhone demand jumps",
+      "publisher": "Yahoo",
+      "date": "2026-09-19 16:03",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "基於消費者調查顯示 iPhone 需求強勁，華爾街分析師上調了 Apple 的目標價。"
+    },
+    {
+      "rank": 3,
+      "title": "How to Play AAPL Stock Amid Reports Apple Is Building Its Own AI Server",
+      "publisher": "Yahoo",
+      "date": "2026-09-20 13:06",
+      "impact": "medium",
+      "category": "技術布局",
+      "reason": "報導指出 Apple 積極投入企業級 AI 伺服器領域，有助於強化其長期 AI 競爭力。"
+    },
+    {
+      "rank": 4,
+      "title": "History Says You Should Know These 3 Things Before Buying Apple Stock (AAPL)",
+      "publisher": "Yahoo",
+      "date": "2026-09-19 11:22",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "歷史數據顯示 Apple 股價表現強勁，投資人對其長期成長動能保持樂觀。"
+    },
+    {
+      "rank": 5,
+      "title": "Jim Cramer sends strong signal to Apple stock investors",
+      "publisher": "Yahoo",
+      "date": "2026-09-20 16:33",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "知名財經評論員 Jim Cramer 對 Apple 釋出正面訊號，影響市場情緒。"
+    },
+    {
+      "rank": 6,
+      "title": "Apple begins iPhone 18 rollout ahead of its biggest premium bet yet: the foldable Duo",
+      "publisher": "CNBC",
+      "date": "2026-09-18 12:47",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Apple 啟動 iPhone 18 系列銷售，並預告高階摺疊機 Duo 即將上市，展現產品線擴張策略。"
+    },
+    {
+      "rank": 7,
+      "title": "Bank of America does the math on Apple's $1,200 iPhone offer",
+      "publisher": "Yahoo",
+      "date": "2026-09-19 22:07",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "銀行分析指出 Apple 提供高額換購優惠，有助於刺激消費者升級意願。"
+    },
+    {
+      "rank": 8,
+      "title": "Apple (AAPL)’s New CEO Bets Big on a $1,999 Foldable iPhone",
+      "publisher": "Yahoo",
+      "date": "2026-09-20 23:39",
+      "impact": "medium",
+      "category": "高層決策",
+      "reason": "新任執行長推動高單價摺疊機策略，被視為公司轉型的重要里程碑。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "John Ternus's First iPhone Launch Prompted a Bank of America Price Target Cut. Is Apple Stock a Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-09-19 12:50",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "由於記憶體處理器供應鏈緊張，導致 Bank of America 下調 Apple 目標價。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple Wants to Enter the AI Inference Market. It Will Have to Swallow Its Pride First.",
+      "publisher": "Yahoo",
+      "date": "2026-09-20 20:30",
+      "impact": "medium",
+      "category": "技術布局",
+      "reason": "Apple 欲進入 AI 推論市場，但計畫仍需依賴競爭對手 Nvidia 的技術，顯示其自主性受限。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple’s iPhone 18 launch tests premium demand after big stock run",
+      "publisher": "CNBC",
+      "date": "2026-09-18 16:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場對 iPhone 18 Pro 的初期需求訊號呈現分歧，投資人擔憂高階市場需求疲軟。"
+    },
+    {
+      "rank": 4,
+      "title": "Apple's new CEO says its AI already has your personal info",
+      "publisher": "Yahoo",
+      "date": "2026-09-20 18:09",
+      "impact": "low",
+      "category": "隱私議題",
+      "reason": "關於 Siri AI 存取個人隱私的疑慮，可能引發用戶對數據安全的負面觀感。"
+    },
+    {
+      "rank": 5,
+      "title": "Greg Abel Recently Plowed $4.2 Billion Into Warren Buffett's Favorite Stock, and It Wasn't Apple",
+      "publisher": "Yahoo",
+      "date": "2026-09-20 11:10",
+      "impact": "low",
+      "category": "投資動態",
+      "reason": "報導指出波克夏高層將資金投入其他標的而非 Apple，暗示機構投資人配置策略的轉變。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "iPhone 18 Pro Hits Stores, Samsung Retakes Smartphone Throne and More: This Week in Appleverse",
+      "publisher": "Benzinga",
+      "date": "2026-09-20 07:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "綜合報導本週 Apple 的多項動態，包含產品發布與競爭對手動向，屬於中性市場回顧。"
+    },
+    {
+      "rank": 2,
+      "title": "Coinbase Files With CFTC To List US Single-Stock Perpetual Futures, Including AAPL And TSLA Contracts",
+      "publisher": "Yahoo",
+      "date": "2026-09-19 15:11",
+      "impact": "low",
+      "category": "金融衍生品",
+      "reason": "Coinbase 申請上市 AAPL 期貨合約，對公司基本面無直接影響，僅為市場交易工具增加。"
+    },
+    {
+      "rank": 3,
+      "title": "Jim Cramer shares his expectations for Apple's new hardware releases",
+      "publisher": "CNBC",
+      "date": "2026-09-18 19:29",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "評論員對硬體發布的預期，屬於市場常見的分析觀點，未帶來實質利多或利空。"
+    },
+    {
+      "rank": 4,
+      "title": "Apple’s three-part iPhone rollout complicates the demand read",
+      "publisher": "CNBC",
+      "date": "2026-09-18 18:01",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "指出分階段發布策略增加了市場解讀需求的難度，屬於中性觀察。"
+    },
+    {
+      "rank": 5,
+      "title": "iPhone 18 pro lands on shelves Friday",
+      "publisher": "CNBC",
+      "date": "2026-09-18 13:55",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "單純報導產品上市時間，屬於例行性新聞。"
+    },
+    {
+      "rank": 6,
+      "title": "Apple's iPhone 18 Pro hits shelves: Here's what you need to know",
+      "publisher": "CNBC",
+      "date": "2026-09-18 12:07",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "產品上市的資訊彙整，無顯著情緒偏向。"
+    },
+    {
+      "rank": 7,
+      "title": "‘Daring Fireball’ blogger John Gruber reviews Apple’s new phones",
+      "publisher": "CNBC",
+      "date": "2026-09-18 11:03",
+      "impact": "low",
+      "category": "產品評論",
+      "reason": "部落客對新手機的個人觀點分享，對股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,66 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-09-21",
+  "source_file": "cache/2026-09-21/candidates/news/OUST.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 2,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司發布具備高精度與彩色成像功能的全新 REV8 OS1 Max 產品，雖獲華爾街分析師看好，但面臨高層內部持股減持與近期股價回檔的壓力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ouster Raises the Bar on High-Altitude Drone Mapping with The World’s First Native Color Lidar and 2x Accuracy & Precision Breakthrough on REV8 OS1 Max",
+      "publisher": "Yahoo",
+      "date": "2026-09-15 02:00",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Ouster 推出全球首款原生彩色雷射雷達 REV8 OS1 Max，在精度與精確度上實現 2 倍提升，顯著增強了公司在無人機測繪市場的競爭力，為未來營收成長提供技術支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Ouster (OUST) a Buy as Wall Street Analysts Look Optimistic?",
+      "publisher": "Yahoo",
+      "date": "2026-09-16 13:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "基於平均經紀商建議 (ABR)，華爾街分析師對 Ouster 持樂觀態度，建議將其納入投資組合，反映市場對其長期成長潛力的認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ouster's CEO Sells 30,385 Shares Worth $1 Million Amid a 16% Return Over the Past 12 Months",
+      "publisher": "Yahoo",
+      "date": "2026-09-17 06:07",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "執行長拋售價值 100 萬美元的股票，儘管可能是例行性規劃，但內部人減持往往會引發投資人對公司未來股價表現的疑慮。"
+    },
+    {
+      "rank": 2,
+      "title": "Ouster, Inc. (OUST) Suffers a Larger Drop Than the General Market: Key Insights",
+      "publisher": "Yahoo",
+      "date": "2026-09-15 22:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 2%，表現弱於大盤，顯示短期內市場存在獲利了結或賣壓，技術面呈現回檔修正。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Reported Earlier, Ouster Launches Rev8 OS1 Max, World's First Native Color Lidar With 2x Accuracy And Precision Over Rev7",
+      "publisher": "Benzinga",
+      "date": "2026-09-15 03:45",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "此新聞為 9 月 15 日產品發布的重複報導，內容與首篇發布稿一致，故歸類為中性，僅作為資訊補充。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

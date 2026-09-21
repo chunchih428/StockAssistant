@@ -1,0 +1,38 @@
+{
+  "ticker": "CGNX",
+  "company": "Cognex",
+  "analysis_date": "2026-09-21",
+  "source_file": "cache/2026-09-21/candidates/news/CGNX.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "分析師維持買入評級與目標價，且公司透過參與大型投資者會議積極溝通營運展望。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Needham Reiterates Buy on Cognex, Maintains $80 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-09-15 06:33",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Needham 分析師 Robert Jamieson 重申對 Cognex 的買入評級，並維持 80 美元的目標價，顯示市場對該公司長期成長潛力與技術護城河仍具信心。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Cognex Corporation (CGNX) Presents at Morgan Stanley's 14th Annual Laguna Conference Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-16 15:21",
+      "impact": "low",
+      "category": "投資者會議",
+      "reason": "公司參與 Morgan Stanley 的年度會議，主要為例行性的營運說明與市場溝通，未釋出具體的重大財務預測調整或突發性利多/利空消息，故視為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

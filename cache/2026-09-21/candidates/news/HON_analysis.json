@@ -1,0 +1,102 @@
+{
+  "ticker": "HON",
+  "company": "Honeywell",
+  "analysis_date": "2026-09-21",
+  "source_file": "cache/2026-09-21/candidates/news/HON.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 6,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司持續推動自動化業務轉型，並在國防與航空領域獲得合約與市場需求支撐，儘管面臨小額網路安全合規罰款，整體營運展望正向。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Honeywell Sees Strong Start as Pure-Play Automation Push Gains Momentum",
+      "publisher": "Yahoo",
+      "date": "2026-09-16 06:02",
+      "impact": "high",
+      "category": "公司營運展望",
+      "reason": "執行長 Vimal Kapur 指出公司在自動化領域的轉型進展順利，且早期表現優於預期，顯示核心業務成長動能強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "Honeywell Technologies Modernizes Barracks Access Management for U.S. Marine Corps Worldwide",
+      "publisher": "Yahoo",
+      "date": "2026-09-15 12:00",
+      "impact": "medium",
+      "category": "業務合約",
+      "reason": "成功為美國海軍陸戰隊部署集中式門禁管理平台，展現公司在安全解決方案領域的技術實力與政府業務拓展能力。"
+    },
+    {
+      "rank": 3,
+      "title": "Honeywell CEO Calls GE-CPP Deal Positive Amid Persistent Supply Constraints",
+      "publisher": "Yahoo",
+      "date": "2026-09-18 16:52",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "執行長對產業併購持正面態度，認為這有助於緩解供應鏈限制，對 Honeywell 航空業務的長期穩定性具有正面意義。"
+    },
+    {
+      "rank": 4,
+      "title": "Europe Molecular Sieves Market Forecasts Growth",
+      "publisher": "Yahoo",
+      "date": "2026-09-15 09:15",
+      "impact": "low",
+      "category": "市場趨勢",
+      "reason": "歐洲分子篩市場預計將持續成長，Honeywell 作為主要參與者，將受惠於綠氫與煉油升級帶來的需求增加。"
+    },
+    {
+      "rank": 5,
+      "title": "Aircraft Mission Computers Market Outlook 2026-2035",
+      "publisher": "Yahoo",
+      "date": "2026-09-15 08:08",
+      "impact": "low",
+      "category": "市場趨勢",
+      "reason": "航空電子現代化需求推升任務電腦市場，Honeywell 在此領域的技術佈局將長期受惠於國防與民航升級需求。"
+    },
+    {
+      "rank": 6,
+      "title": "Aircraft Lightning Protection Market Outlook 2026-2035",
+      "publisher": "Yahoo",
+      "date": "2026-09-14 08:39",
+      "impact": "low",
+      "category": "市場趨勢",
+      "reason": "隨著航空安全標準提升，Honeywell 在飛機防雷系統的市場地位將持續提供穩定的業務來源。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Honeywell Aerospace settles with DOJ for $2M over cybersecurity claims",
+      "publisher": "Yahoo",
+      "date": "2026-09-14 11:54",
+      "impact": "low",
+      "category": "法規與訴訟",
+      "reason": "因未遵守國防部網路安全合約要求而支付 200 萬美元和解金，雖金額對財務影響有限，但對公司聲譽與合規管理構成負面影響。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Honeywell International Inc. (HON) Presents at Morgan Stanley's 14th Annual Laguna Conference Transcript",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-15 17:01",
+      "impact": "low",
+      "category": "投資人會議",
+      "reason": "公司參與投資人會議並進行業務說明，屬於常規性投資人關係活動，未有重大突發性利多或利空消息。"
+    },
+    {
+      "rank": 2,
+      "title": "Honeywell International Inc. (HON) Gains As Market Dips: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-09-15 22:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為單日股價波動紀錄，反映市場交易行為，並非由特定重大基本面消息驅動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
