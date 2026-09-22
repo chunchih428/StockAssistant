@@ -1,0 +1,111 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-09-21",
+  "source_file": "cache/2026-09-21/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 5,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "Amazon 積極投資 AI 基礎設施與雲端運算，儘管面臨法律訴訟與物流營運挑戰，但市場對其長期成長潛力與 AI 變現能力持樂觀態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Amazon’s AI Bet is Already Starting to Pay Off",
+      "publisher": "Yahoo",
+      "date": "2026-09-18",
+      "impact": "high",
+      "category": "財報與營運",
+      "reason": "AWS 雲端業務成長創下 18 季以來新高，顯示 AI 投資已開始轉化為實質營收，對股價具備強勁支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
+      "publisher": "CNBC",
+      "date": "2026-09-16",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "透過與 Generac 簽署備用電力供應協議並取得認股權，展現 Amazon 為 AI 資料中心確保能源供應的策略前瞻性。"
+    },
+    {
+      "rank": 3,
+      "title": "Prediction: Anthropic's IPO Will Be a Big Winner for Alphabet and Amazon Investors",
+      "publisher": "Yahoo",
+      "date": "2026-09-20",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Anthropic 的 IPO 預期將為 Amazon 的投資組合帶來顯著資本利得，並強化其在 AI 生態系的影響力。"
+    },
+    {
+      "rank": 4,
+      "title": "Billionaire David Tepper Has 40% of His Fund in Just 3 AI Stocks. Are They Still Buys?",
+      "publisher": "Yahoo",
+      "date": "2026-09-20",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名對沖基金經理人 David Tepper 將 Amazon 列為前三大持股，顯示機構投資人對其 AI 轉型策略的信心。"
+    },
+    {
+      "rank": 5,
+      "title": "Amazon (AMZN) Taps the UK Bond Market for the First Time to Help Fund its AI Buildout",
+      "publisher": "Yahoo",
+      "date": "2026-09-20",
+      "impact": "low",
+      "category": "財務融資",
+      "reason": "成功發行 42.5 億英鎊債券，顯示公司融資能力強大，資金將專注於 AI 基礎設施建設。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Amazon (AMZN) Sued Again, This Time over How it Treats Pregnant Warehouse Workers",
+      "publisher": "Yahoo",
+      "date": "2026-09-20",
+      "impact": "medium",
+      "category": "法律訴訟",
+      "reason": "面臨全國性集體訴訟，可能引發勞工權益爭議並增加法律合規成本，對公司聲譽造成負面影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Investigators Dig into Landing Speed and Runway Safety After Amazon (AMZN)’s Fatal Miami Crash",
+      "publisher": "Yahoo",
+      "date": "2026-09-20",
+      "impact": "medium",
+      "category": "營運風險",
+      "reason": "涉及致命空難的調查可能導致物流營運受阻，並面臨聯邦監管機構更嚴格的飛安審查。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon cargo delivery company files for Chapter 11 bankruptcy",
+      "publisher": "Yahoo",
+      "date": "2026-09-19",
+      "impact": "low",
+      "category": "供應鏈風險",
+      "reason": "合作的貨運公司破產可能導致物流配送中斷，雖影響有限，但凸顯供應鏈管理壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Streaming’s Biggest Rivals Just Became Allies in Washington",
+      "publisher": "Yahoo",
+      "date": "2026-09-20",
+      "impact": "low",
+      "category": "法規與政策",
+      "reason": "與 Netflix 和 Google 在華盛頓進行政策遊說合作，屬於產業常態，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon says AI needs ‘strong safeguards’ in place before being released",
+      "publisher": "Yahoo",
+      "date": "2026-09-18",
+      "impact": "low",
+      "category": "產業趨勢",
+      "reason": "呼籲 AI 安全監管是科技巨頭的標準立場，旨在降低監管風險，對營運影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
