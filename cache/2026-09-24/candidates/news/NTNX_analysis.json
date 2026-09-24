@@ -1,0 +1,56 @@
+{
+  "ticker": "NTNX",
+  "company": "Nutanix, Inc.",
+  "analysis_date": "2026-09-21",
+  "source_file": "cache/2026-09-21/candidates/news/NTNX.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 4,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "Nutanix 憑藉 Gartner 魔力象限領導者地位與策略性合作夥伴關係，展現強勁的市場競爭力與未來現金流成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Nutanix Recognized as a Leader in the Gartner® Magic Quadrant™ for Server Virtualization Platforms",
+      "publisher": "Yahoo",
+      "date": "2026-09-16 15:00",
+      "impact": "high",
+      "category": "市場地位",
+      "reason": "獲選為 Gartner 魔力象限領導者，且在「執行能力」與「願景完整性」指標上表現優異，顯著提升品牌信譽與市場競爭優勢。"
+    },
+    {
+      "rank": 2,
+      "title": "The Bull Case For Nutanix (NTNX) Could Change Following New Gartner Nod And Parallels Deal",
+      "publisher": "Yahoo",
+      "date": "2026-09-17 05:16",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "除了 Gartner 的肯定外，與 Parallels 的合作擴展至 Nutanix Prism 支援，有助於擴大生態系統並增加客戶黏著度。"
+    },
+    {
+      "rank": 3,
+      "title": "Nutanix (NTNX) Stock Looks Cheap Against Future Cash Flow Estimates",
+      "publisher": "Yahoo",
+      "date": "2026-09-17 06:13",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "基於未來現金流預測，分析認為當前股價被低估，且公司過去 3 年實現 103.6 % 的報酬率，顯示其長期成長動能強勁。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Nutanix Eyes External Storage, AI Growth as Supply-Chain Pressures Persist",
+      "publisher": "Yahoo",
+      "date": "2026-09-14 10:02",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "公司積極轉型為雲端平台提供商並布局 AI 領域，但同時面臨供應鏈壓力，正負因素抵銷，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
