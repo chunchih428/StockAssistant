@@ -1,0 +1,93 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy",
+  "analysis_date": "2026-09-25",
+  "source_file": "cache/2026-09-25/holdings/news/CEG.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 7,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管面臨短期股權拋售壓力，Constellation Energy 憑藉強大的核能資產組合、策略性併購與機構分析師的看漲目標價，展現出強勁的長期成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Morgan Stanley Maintains Overweight on Constellation Energy, Raises Price Target to $369",
+      "publisher": "Benzinga",
+      "date": "2026-09-18 09:30",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "摩根士丹利分析師 David Arcaro 將目標價從 $364 上調至 $369，並維持「加碼」評級，顯示市場對其核心業務與成長前景的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Could Constellation Energy (CEG)’s $715 Million Shell (SHEL) Deal Accelerate its Power Growth?",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 22:16",
+      "impact": "high",
+      "category": "併購活動",
+      "reason": "公司宣布以 7.15 億美元收購 RISEC，此舉將擴大其發電產能，進一步鞏固其在能源市場的成長動能。"
+    },
+    {
+      "rank": 3,
+      "title": "Constellation Energy, Toyota Motor North America Ink 15-Year Renewable Energy Deal",
+      "publisher": "Benzinga",
+      "date": "2026-09-21 10:27",
+      "impact": "medium",
+      "category": "商業合作",
+      "reason": "與豐田汽車簽署 15 年期再生能源購電協議，展現了公司在長期穩定營收與綠能轉型方面的競爭優勢。"
+    },
+    {
+      "rank": 4,
+      "title": "I Own Constellation for the Nuclear Fleet, Not the AI Headlines",
+      "publisher": "Yahoo",
+      "date": "2026-09-20 18:50",
+      "impact": "medium",
+      "category": "市場觀點",
+      "reason": "強調公司擁有全美最大的核能機組，在電力需求攀升的背景下，具備極佳的防禦性與成長性，不僅限於 AI 題材。"
+    },
+    {
+      "rank": 5,
+      "title": "3 Alternative-Energy Stocks That Could Withstand Fed's Rate Hike",
+      "publisher": "Yahoo",
+      "date": "2026-09-18 13:24",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析指出 CEG 在高利率環境下具備較強的抗壓能力，相較於其他再生能源股更具財務韌性。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Constellation Energy Stock Fell 13% Last Week. Analysts Still See 37% Upside From Here.",
+      "publisher": "Yahoo",
+      "date": "2026-09-21 07:31",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管長期看好，但近期因股權拋售壓力導致股價在 9 月上旬出現 13% 的回調，反映出短期籌碼面的不穩定。"
+    },
+    {
+      "rank": 2,
+      "title": "Equity Overhang Weighs on Constellation Energy (CEG) Despite Solid Core Fundamentals",
+      "publisher": "Yahoo",
+      "date": "2026-09-18 12:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "指出市場存在「股權過剩」的拋售壓力，這對股價短期表現構成阻力，儘管基本面依然強勁。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Constellation Energy Corporation (CEG) Beats Stock Market Upswing: What Investors Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-09-21 21:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為單日股價變動的技術性回顧，報導股價上漲 2.91%，未包含新的基本面消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

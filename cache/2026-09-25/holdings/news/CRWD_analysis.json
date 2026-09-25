@@ -1,0 +1,111 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-09-25",
+  "source_file": "cache/2026-09-25/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 安全需求激增與強勁的平台擴張動能，CrowdStrike 股價創下 52 週新高，並獲得華爾街分析師與產業龍頭的正面背書。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike Stock Hits 52-Week High - Here's Why",
+      "publisher": "Benzinga",
+      "date": "2026-09-23 13:12",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價突破 260.64 美元創下 52 週新高，反映市場對其技術領先地位與成長潛力的強烈信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Morgan Stanley Maintains Overweight on CrowdStrike Holdings, Raises Price Target to $254",
+      "publisher": "Benzinga",
+      "date": "2026-09-21 13:54",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "摩根士丹利分析師 Keith Weiss 維持「加碼」評級並上調目標價，顯示機構投資人對其長期獲利能力的認可。"
+    },
+    {
+      "rank": 3,
+      "title": "Not Palantir. Not Micron. The $325 Billion Nvidia Partner That Jim Cramer Just Called a \"Must Buy\" Stock",
+      "publisher": "Yahoo",
+      "date": "2026-09-23 14:07",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Nvidia 執行長黃仁勳將 CrowdStrike 視為頂級網路安全合作夥伴，獲得市場名嘴 Jim Cramer 強力推薦，顯著提升品牌能見度。"
+    },
+    {
+      "rank": 4,
+      "title": "Can Strong Momentum in Next-Gen SIEM Drive CRWD's Platform Expansion?",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 13:25",
+      "impact": "medium",
+      "category": "財報與營運",
+      "reason": "新一代 SIEM 年度經常性收入 (ARR) 超過 6.95 億美元，證明平台整合策略成功，有助於提升客戶黏著度。"
+    },
+    {
+      "rank": 5,
+      "title": "CrowdStrike Named a Leader in Proactive Security Platforms by Independent Research Firm",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 14:50",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "獲獨立研究機構評選為主動式安全平台領導者，強化其在競爭激烈的資安市場中的技術護城河。"
+    },
+    {
+      "rank": 6,
+      "title": "Could CrowdStrike (CRWD)’s Snowflake (SNOW) Partnership Unlock a New AI Growth Engine?",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 20:36",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "與 Snowflake 的合作有望透過 AI 數據分析能力，開拓新的成長引擎，提升長期營收潛力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike Slips as Palo Alto Automates Vulnerability Hunting",
+      "publisher": "Yahoo",
+      "date": "2026-09-22 18:30",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "競爭對手 Palo Alto Networks 透過自動化漏洞掃描技術，直接威脅 CrowdStrike 的核心市場份額。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike vs. Figma: Which Technology Stock Is a Better Buy in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 14:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管成長強勁，但市場仍擔憂其過去的聲譽受損問題，導致估值溢價面臨壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "CrowdStrike vs. Palantir Technologies: Which Technology Stock Is a Better Buy in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-09-22 15:35",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "與 Palantir 相比，CrowdStrike 的估值倍數較高，且持續受到過去負面事件的聲譽影響。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Investors Heavily Search CrowdStrike (CRWD): Here is What You Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-09-22 13:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅反映投資人搜尋熱度增加，並未提供實質性的財務或營運變動資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

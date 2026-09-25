@@ -1,0 +1,75 @@
+{
+  "ticker": "FFIV",
+  "company": "F5",
+  "analysis_date": "2026-09-25",
+  "source_file": "cache/2026-09-25/candidates/news/FFIV.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 4,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "F5 積極擴展 AI 安全防護工具與自動化防禦技術，市場對其長期競爭優勢持正面看法，儘管部分分析指出股價已來到相對高檔。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Snowflake, F5, onsemi, Impinj, and Power Integrations Shares Are Soaring, What You Need To Know",
+      "publisher": "StockStory",
+      "date": "2026-09-17",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "報導指出 F5 股價表現強勁，反映市場對其業務動能的認可，為近期股價上漲提供直接的市場情緒支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "F5 Agentic AI Detection Expands Bot Defense Against Automated Account Abuse",
+      "publisher": "InvestorsHub",
+      "date": "2026-09-15",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "F5 推出針對 Agentic AI 的檢測功能，強化了在自動化帳戶濫用防禦領域的技術護城河，有助於提升企業客戶黏著度。"
+    },
+    {
+      "rank": 3,
+      "title": "F5 (FFIV) Adds AI Guardrails And Bot Defenses As Enterprise AI Risks Grow",
+      "publisher": "Simply Wall St.",
+      "date": "2026-09-16",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "針對企業 AI 風險增加的趨勢，F5 推出 AI 防護欄與機器人防禦機制，精準切入市場需求，具備長期營收增長潛力。"
+    },
+    {
+      "rank": 4,
+      "title": "Is F5’s (FFIV) AI Security Push Quietly Redefining Its Long-Term Competitive Edge?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-09-16",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "深度分析 F5 的 AI 安全策略如何重塑其競爭優勢，強化投資人對公司轉型策略的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "F5 (FFIV) Launches New AI Security Tools Following A Run That Looks Fully Valued",
+      "publisher": "Simply Wall St.",
+      "date": "2026-09-16",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "儘管產品創新，但分析師認為股價在經歷近期漲勢後已來到「充分估值」區間，暗示短期上漲空間有限，存在回調風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "BILL or FFIV: Which Is the Better Value Stock Right Now?",
+      "publisher": "Zacks",
+      "date": "2026-09-23",
+      "impact": "low",
+      "category": "投資評比",
+      "reason": "將 F5 與 BILL 進行價值投資比較，屬於常規的市場篩選分析，未提供對 F5 基本面有重大影響的新資訊，故列為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
