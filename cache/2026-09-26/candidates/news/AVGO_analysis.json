@@ -1,0 +1,102 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-09-25",
+  "source_file": "cache/2026-09-25/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "Broadcom 憑藉強勁的 AI 晶片需求與長期財測展望獲得市場看好，儘管面臨中國數據中心供應鏈審查的潛在風險，但整體成長動能仍被視為核心驅動力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Broadcom's Latest Prediction Makes the Stock a No-Brainer Buy Right Now",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 20:43",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "Broadcom 針對 2028 財年提出的強勁指引，顯示其在 AI 晶片領域的長期競爭力與獲利能力，被市場視為買入訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom (AVGO) Is Up 7.4% After Massive Buybacks And AI Chip Deals With Hyperscalers",
+      "publisher": "Yahoo",
+      "date": "2026-09-23 02:13",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "公司完成 4,100 萬股的股票回購計畫，結合與超大規模雲端服務商的 AI 晶片合作，直接推升股價表現。"
+    },
+    {
+      "rank": 3,
+      "title": "Broadcom Just Named Its Next AI Customer. It Isn’t Google.",
+      "publisher": "Yahoo",
+      "date": "2026-09-22 22:20",
+      "impact": "medium",
+      "category": "業務拓展",
+      "reason": "確認 Anthropic 成為 Broadcom 的 AI 成長驅動力，顯示其客戶群多元化，降低對單一客戶的依賴。"
+    },
+    {
+      "rank": 4,
+      "title": "EXCLUSIVE: Beyond Nvidia: Why Jensen Investment's Allen Bond Favors Broadcom, KLAC, Amphenol",
+      "publisher": "Benzinga",
+      "date": "2026-09-23 13:09",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "專業投資機構將 Broadcom 列為 AI 基礎設施受益股，強調其在硬體生態系中的關鍵地位。"
+    },
+    {
+      "rank": 5,
+      "title": "Prediction: Broadcom Will Be a $3 Trillion Company by the End of 2030",
+      "publisher": "Yahoo",
+      "date": "2026-09-22 12:46",
+      "impact": "low",
+      "category": "市場預測",
+      "reason": "基於管理層的營收預測，分析師看好其長期市值成長潛力，強化投資人信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Broadcom Faces China Data Center Threat as Beijing Finds Its Switches in Up to 90% of State-Owned Firms: Report",
+      "publisher": "Benzinga",
+      "date": "2026-09-23 03:58",
+      "impact": "high",
+      "category": "法規與地緣政治",
+      "reason": "中國審查 Broadcom 在國有數據中心的市佔率，並推動國產化替代，對其核心交換器業務構成潛在的地緣政治風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom Falls 2% as $230 Billion AI Target Doubles the Delivery Test",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 19:20",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場對 2,300 億美元的 AI 營收目標提出質疑，認為實現該目標需極高的供應鏈執行力與利潤率，導致股價短期回調。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "3 Companies With a Strong History of Dividend Growth",
+      "publisher": "Yahoo",
+      "date": "2026-09-23 23:15",
+      "impact": "low",
+      "category": "股利政策",
+      "reason": "將 Broadcom 列為長期股利成長股，屬於穩健投資屬性，對股價短期波動影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Where Will Broadcom Stock Be in 5 Years?",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 05:50",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析師認為未來五年成長難以複製過去的爆發力，屬於中性觀點，提醒投資人回歸理性預期。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
