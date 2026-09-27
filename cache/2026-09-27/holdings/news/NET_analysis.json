@@ -1,0 +1,84 @@
+{
+  "ticker": "NET",
+  "company": "Cloudflare",
+  "analysis_date": "2026-09-25",
+  "source_file": "cache/2026-09-25/holdings/news/NET.json",
+  "summary": {
+    "total_articles": 18,
+    "bullish_count": 9,
+    "bearish_count": 4,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "Cloudflare 受惠於 AI 基礎設施需求與邊緣運算市場擴張，股價近期表現強勁，但市場亦開始關注高估值下的成長放緩風險與內部人賣股行為。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare (NET) Shares Skyrocket, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-09-22 00:54",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Cloudflare 股價單日大漲 6.8 %，反映市場對其在雲端安全與邊緣運算領域的強勁需求信心，並帶動整體邊緣安全類股走勢。"
+    },
+    {
+      "rank": 2,
+      "title": "Can Rising Adoption of Agentic AI Accelerate NET's Revenue Growth?",
+      "publisher": "Yahoo",
+      "date": "2026-09-18 14:06",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "AI 代理 (Agentic AI) 的普及與 Workers 平台的採用率提升，被視為推動 Cloudflare 未來營收加速成長的關鍵催化劑。"
+    },
+    {
+      "rank": 3,
+      "title": "What Does Cloudflare (NET) New AI Crawler Control Mean For Website Owners?",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 22:15",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出 AI 爬蟲「可問責」標籤，強化了 Cloudflare 在 AI 數據治理領域的市場地位，有助於吸引重視數據隱私的企業客戶。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare’s Insiders Just Sold $44 Million Into the Rally",
+      "publisher": "Yahoo",
+      "date": "2026-09-19 10:10",
+      "impact": "medium",
+      "category": "公司治理",
+      "reason": "內部人於股價上漲期間拋售 4,400 萬美元股票，可能引發投資人對公司內部對當前估值看法及未來成長動能的疑慮。"
+    },
+    {
+      "rank": 2,
+      "title": "What Happens To Cloudflare Stock If Its Growth Cools?",
+      "publisher": "Yahoo",
+      "date": "2026-09-22 20:01",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析指出 Cloudflare 股價已處於 3 年高點，若未來成長速度放緩，高本益比將面臨修正壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Why the Market Dipped But Cloudflare (NET) Gained Today",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 20:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管大盤下跌，Cloudflare 逆勢上漲 1.89 %，顯示其作為防禦性成長股的特性，但此漲幅主要受市場情緒驅動，無重大基本面變動。"
+    },
+    {
+      "rank": 2,
+      "title": "Is It Worth Investing in Cloudflare (NET) Based on Wall Street's Bullish Views?",
+      "publisher": "Yahoo",
+      "date": "2026-09-21 13:30",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "華爾街平均建議維持「買入」，但分析師提醒過度樂觀的預期可能已反映在當前股價中。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

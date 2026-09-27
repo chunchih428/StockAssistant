@@ -1,0 +1,111 @@
+{
+  "ticker": "ARM",
+  "company": "Arm Holdings plc",
+  "analysis_date": "2026-09-25",
+  "source_file": "cache/2026-09-25/candidates/news/ARM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 1,
+    "neutral_count": 4,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Meta 的 Muse AI 代理技術引發市場對 CPU 需求激增的預期，推動 Arm 股價強勁上漲。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Arm Holdings (ARM) Soars 17% on Ambitious $2B Revenue Goal; Hedge Funds Bullish",
+      "publisher": "Yahoo",
+      "date": "2026-09-21 18:48",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Arm 宣布 20 億美元的 AI 處理器營收目標，並獲得避險基金青睞，股價單日大漲 17 %，為近期最強勁的催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Meta’s Muse Highlights Arm’s Growing Role in AI Infrastructure",
+      "publisher": "Yahoo",
+      "date": "2026-09-22 19:00",
+      "impact": "high",
+      "category": "產品合作",
+      "reason": "Meta 的 Muse AI 代理技術被視為推動 CPU 需求的核心，Arm 作為基礎架構提供商，其市場地位與成長潛力獲得市場高度認可。"
+    },
+    {
+      "rank": 3,
+      "title": "Arm Holdings (ARM) Stock Gains On AI CPU Demand Surge",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 23:11",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "延續 AI 硬體需求強勁的趨勢，Arm 在半導體類股整體反彈中持續受惠，顯示市場對其長期成長動能的信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Critical Role of ARM Holdings (ARM) In Powering the Next Wave of Agentic AI",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 14:32",
+      "impact": "medium",
+      "category": "產業分析",
+      "reason": "投資機構指出 Arm 在代理型 AI (Agentic AI) 運算中的關鍵地位，進一步鞏固其作為 AI 基礎設施核心的投資價值。"
+    },
+    {
+      "rank": 5,
+      "title": "Virtus SGA U.S. Large Cap Growth Q2 2026 Contributors And Detractors",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-23 12:25",
+      "impact": "low",
+      "category": "財報表現",
+      "reason": "大型成長型基金將 Arm 列為第二季績效的主要貢獻者，反映了機構投資人對其基本面成長的肯定。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Arm Holdings: AI-Driven Melt-Up Overly Done - Growth Prospects Mostly Priced In",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-23 09:44",
+      "impact": "medium",
+      "category": "投資評級",
+      "reason": "分析師認為 Arm 的 AI 成長潛力已充分反映在股價中，且目前估值過高，建議投資人採取觀望態度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Better Artificial Intelligence Stock: Arm Holdings vs. NVIDIA",
+      "publisher": "Yahoo",
+      "date": "2026-09-21 16:53",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "文章對比了 Arm 與 NVIDIA 的營收成長與利潤率，旨在協助投資人評估不同 AI 標的的風險報酬，未給予明確買賣建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Better Artificial Intelligence Stock: Arm Holdings vs. ASML",
+      "publisher": "Yahoo",
+      "date": "2026-09-21 01:52",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "透過對比 Arm 與 ASML 的本益比與壟斷地位，分析兩者在 AI 供應鏈中的不同角色，屬於中性的投資比較分析。"
+    },
+    {
+      "rank": 3,
+      "title": "Better Artificial Intelligence Stock: Arm Holdings vs. SK Hynix",
+      "publisher": "Yahoo",
+      "date": "2026-09-20 03:29",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "探討設計端 (Arm) 與製造端 (SK Hynix) 在 AI 時代的不同成長邏輯，提供投資人多元視角，不具備強烈多空傾向。"
+    },
+    {
+      "rank": 4,
+      "title": "ARM Vs. AMD: Who Is Going to Win the Agentic AI CPU Revival War?",
+      "publisher": "Yahoo",
+      "date": "2026-09-23 15:30",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "分析 Arm 與 AMD 在代理型 AI CPU 市場的競爭態勢，兩者皆被視為贏家，屬於產業競爭格局的客觀評估。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

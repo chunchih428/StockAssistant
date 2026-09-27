@@ -1,0 +1,84 @@
+{
+  "ticker": "FSLR",
+  "company": "First Solar",
+  "analysis_date": "2026-09-25",
+  "source_file": "cache/2026-09-25/candidates/news/FSLR.json",
+  "summary": {
+    "total_articles": 11,
+    "bullish_count": 1,
+    "bearish_count": 8,
+    "neutral_count": 2,
+    "overall_sentiment": "bearish",
+    "key_theme": "高利率環境導致專案融資成本上升，加上訂單能見度放緩與分析師下調目標價，拖累 FSLR 股價跌至 52 週新低。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "First Solar (FSLR) Stock Still Looks Below Fair Value Following Its 115% Run",
+      "publisher": "Yahoo",
+      "date": "2026-09-19 01:10",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "儘管股價近期回調，但分析認為該股仍低於其內在價值，長期成長潛力依然受到關注。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "FSLR Stock Hits Fresh 52-Week Low As Target Cuts, Slower Booking Visibility Weigh",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 20:13",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "GLJ Research 將目標價從 314.43 美元大幅下調至 250 美元，且市場對公司訂單能見度感到擔憂，導致股價觸及 52 週新低。"
+    },
+    {
+      "rank": 2,
+      "title": "Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 15:55",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "美國 10 年期公債殖利率飆升至 5.14%，高融資成本直接衝擊太陽能專案開發，導致 FSLR 等類股集體重挫。"
+    },
+    {
+      "rank": 3,
+      "title": "First Solar (FSLR) Suffers a Larger Drop Than the General Market",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 20:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "單日跌幅達 10.48%，顯示市場賣壓沉重，且表現顯著弱於大盤，反映投資人對該產業信心不足。"
+    },
+    {
+      "rank": 4,
+      "title": "First Solar (FSLR) Slides On Mixed Expectations",
+      "publisher": "Yahoo",
+      "date": "2026-09-18 13:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場對公司未來營運預期分歧，導致股價單日下跌 5.57%，反映出投資人對成長動能的疑慮。"
+    },
+    {
+      "rank": 5,
+      "title": "First Solar CTO Markus Gloeckler Sells 800 Shares for $160,000",
+      "publisher": "Yahoo",
+      "date": "2026-09-18 16:50",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "技術長透過預先安排的 10b5-1 交易計畫賣出股票，雖屬常規操作，但在股價疲軟時仍可能引發市場負面聯想。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is First Solar Stock Underperforming the Nasdaq?",
+      "publisher": "Yahoo",
+      "date": "2026-09-18 18:21",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "探討 FSLR 過去一年表現落後於 Nasdaq 指數的現象，分析師觀點呈現中性偏謹慎，未有明確買進或賣出訊號。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

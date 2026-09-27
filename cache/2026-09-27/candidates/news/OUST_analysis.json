@@ -1,0 +1,75 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-09-25",
+  "source_file": "cache/2026-09-25/candidates/news/OUST.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "Ouster 憑藉 INTERGEO 2026 的技術展示與新產品應用獲得市場關注，儘管面臨短期股價波動與內部人減持，但整體成長動能與估值潛力仍受分析師看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ouster (OUST) Could Be 30% Below Fair Value After INTERGEO 2026 Launches",
+      "publisher": "Yahoo",
+      "date": "2026-09-22",
+      "impact": "high",
+      "category": "市場估值",
+      "reason": "該報導指出 Ouster 在 INTERGEO 2026 展示技術後，市場估值可能被低估達 30 %，顯示出強勁的成長潛力與市場對其技術競爭力的認可。"
+    },
+    {
+      "rank": 2,
+      "title": "What's Driving Demand for Ouster's Rev8 OS1 Max Digital Lidar?",
+      "publisher": "Yahoo",
+      "date": "2026-09-24",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Rev8 OS1 Max 在航空測繪領域的需求增加，證明了公司數位光達技術在工業應用中的高解析度優勢，有助於提升長期營收預期。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Ouster (OUST) a Buy as Wall Street Analysts Look Optimistic?",
+      "publisher": "Zacks",
+      "date": "2026-09-16",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "華爾街分析師對 Ouster 的樂觀態度為股價提供了支撐，反映出市場對其商業模式與未來獲利能力的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ouster's CEO Sells 30,385 Shares Worth $1 Million Amid a 16% Return Over the Past 12 Months",
+      "publisher": "Motley Fool",
+      "date": "2026-09-17",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "執行長出售價值 100 萬美元的股票，雖然可能是例行性財務規劃，但通常會引發投資人對公司內部觀點的擔憂，對短期股價情緒有負面影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Ouster, Inc. (OUST) Suffers a Larger Drop Than the General Market: Key Insights",
+      "publisher": "Yahoo",
+      "date": "2026-09-23",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 2.16 %，表現弱於大盤，反映出短期獲利了結賣壓或市場對近期漲幅的修正。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ouster (OUST) Showcases New Color Lidar For Industrial Inspections At INTERGEO 2026",
+      "publisher": "Yahoo",
+      "date": "2026-09-22",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "此新聞與「Ouster (OUST) Could Be 30% Below Fair Value」報導內容高度重疊，主要描述與 Flyability 的合作展示，作為技術進展的客觀事實報導。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

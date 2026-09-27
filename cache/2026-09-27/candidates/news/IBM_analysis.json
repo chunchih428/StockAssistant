@@ -1,0 +1,102 @@
+{
+  "ticker": "IBM",
+  "company": "International Business Machines Corporation",
+  "analysis_date": "2026-09-25",
+  "source_file": "cache/2026-09-25/candidates/news/IBM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 4,
+    "neutral_count": 7,
+    "overall_sentiment": "mixed",
+    "key_theme": "IBM 積極拓展區塊鏈與 AI 企業級應用，但市場對其成長動能與估值合理性仍存有疑慮。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "IBM Announces Its Digital Asset Haven Clients Can Now Connect To Permissioned Blockchain Networks, Including Swift's",
+      "publisher": "Benzinga",
+      "date": "2026-09-24 06:18",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "IBM 宣布其 Digital Asset Haven 平台整合 Swift 區塊鏈帳本，並提供地端部署選項，強化了在金融科技領域的企業級解決方案競爭力。"
+    },
+    {
+      "rank": 2,
+      "title": "THG and IBM Sign Global Partnership to Bring IDTrust as Agentic AI Identity Solution on IBM Cloud Catalog",
+      "publisher": "Yahoo",
+      "date": "2026-09-23 14:02",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "與 The Hashgraph Group 建立全球合作夥伴關係，將 IDTrust 引入 IBM Cloud，有助於提升其在 AI 身份驗證市場的市占率。"
+    },
+    {
+      "rank": 3,
+      "title": "IBM Gains 2.2% as z17 Enters an Agentic AI Laboratory",
+      "publisher": "Yahoo",
+      "date": "2026-09-23 18:21",
+      "impact": "medium",
+      "category": "產品研發",
+      "reason": "z17 大型主機進入 AI 實驗室應用，展示了 IBM 在硬體與 AI 軟體整合上的技術領先地位。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Is IBM Stock's Upside Built On Growth It Is Not Guiding To?",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 19:50",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "分析師質疑 IBM 股價上漲缺乏明確的成長指引支撐，且過去一年表現落後於 S&P 500 指數，反映市場對其獲利能力的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "IBM (IBM) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 20:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "IBM 單日下跌 2.37%，跌幅超過大盤，顯示短期賣壓較重，投資人情緒轉趨保守。"
+    },
+    {
+      "rank": 3,
+      "title": "Could IBM (IBM) and Lockheed Martin (LMT)’s Quantum Bet Face a Long Road to Returns?",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 22:25",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "指出與 Lockheed Martin 的量子運算合作雖然具備長期潛力，但距離實際商業化獲利仍有漫長道路，短期難以貢獻營收。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "IBM's Gary Cohn on AI oversight: 'We want to inspire creativity again'",
+      "publisher": "Yahoo",
+      "date": "2026-09-23 14:44",
+      "impact": "low",
+      "category": "高層觀點",
+      "reason": "副董事長 Gary Cohn 針對 AI 監管與生產力發表的評論，屬於企業形象宣傳，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Verizon launches $70 million free AI training program",
+      "publisher": "Yahoo",
+      "date": "2026-09-23 17:58",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "IBM 參與 Verizon 的 AI 培訓計畫，屬於企業社會責任與品牌曝光，對財務貢獻有限。"
+    },
+    {
+      "rank": 3,
+      "title": "Global Digital Transformation (DX) Market to Reach US$7.3 Trillion by 2034",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 08:50",
+      "impact": "low",
+      "category": "市場趨勢",
+      "reason": "產業報告將 IBM 列為數位轉型市場的主要參與者之一，屬於宏觀產業分析，非公司特定利多。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
