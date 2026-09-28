@@ -1,0 +1,66 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-09-28",
+  "source_file": "cache/2026-09-28/candidates/news/OUST.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "Ouster 透過 INTERGEO 2026 展示與 Flyability 的合作成果，成功推動數位光達技術在工業檢測與無人機市場的應用擴張。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ouster (OUST) Could Be 30% Below Fair Value After INTERGEO 2026 Launches",
+      "publisher": "Yahoo",
+      "date": "2026-09-22 23:22",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "分析師指出該公司股價被低估約 30 %，主要受惠於 INTERGEO 2026 展會中展示的技術突破，具備強勁的成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Ouster, Inc. Showcases New Color Lidar For Industrial Inspections At INTERGEO 2026",
+      "publisher": "Yahoo",
+      "date": "2026-09-22 21:16",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "透過與 Flyability 的合作，將數位光達整合至 Elios 3 無人機，展示了在工業檢測領域的實際應用價值，有助於提升市場滲透率。"
+    },
+    {
+      "rank": 3,
+      "title": "What's Driving Demand for Ouster's Rev8 OS1 Max Digital Lidar?",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 15:24",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Rev8 OS1 Max 數位光達在航空測繪領域需求強勁，其高解析度彩色光達技術能顯著提升檢測效率，為公司帶來明確的營收驅動力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ouster, Inc. (OUST) Suffers a Larger Drop Than the General Market: Key Insights",
+      "publisher": "Yahoo",
+      "date": "2026-09-23 22:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 2.16 %，表現遜於大盤，主要反映短期市場獲利了結或技術性修正，非基本面惡化。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Ouster's Flyability Collaboration Expanding Lidar Applications?",
+      "publisher": "Yahoo",
+      "date": "2026-09-25 13:40",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "此篇為對先前合作案的深度探討，確認了雙方在危險環境檢測的合作深化，屬於對既有正面消息的補充說明，未產生新的市場衝擊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

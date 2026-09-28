@@ -1,0 +1,84 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy",
+  "analysis_date": "2026-09-28",
+  "source_file": "cache/2026-09-28/holdings/news/CEG.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 5,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "Constellation Energy 受惠於 AI 數據中心電力需求增長，透過收購 RISEC 資產與簽署 Toyota 長期再生能源合約強化成長動能，儘管近期股價經歷技術性回調，但分析師仍看好其長期上漲空間。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "CEG Shares Climb Overnight: This Analyst Sees Nearly 45% Upside From Here",
+      "publisher": "Yahoo",
+      "date": "2026-09-21 00:52",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Morgan Stanley 將目標價從 364 美元上調至 369 美元，並維持「加碼」評級，顯示機構投資人對其 AI 電力供應商地位的強烈信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Could Constellation Energy (CEG)’s $715 Million Shell (SHEL) Deal Accelerate its Power Growth?",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 22:16",
+      "impact": "high",
+      "category": "併購活動",
+      "reason": "以 7.15 億美元收購 RISEC 資產，直接擴大發電規模，有助於滿足 AI 產業對穩定基載電力的迫切需求。"
+    },
+    {
+      "rank": 3,
+      "title": "Constellation Energy, Toyota Motor North America Ink 15-Year Renewable Energy Deal",
+      "publisher": "Benzinga",
+      "date": "2026-09-21 10:27",
+      "impact": "medium",
+      "category": "業務合作",
+      "reason": "與 Toyota 簽署 15 年期再生能源合約，展現公司在長期能源供應合約的競爭力，有助於穩定未來現金流。"
+    },
+    {
+      "rank": 4,
+      "title": "Constellation Energy Corporation (CEG) Beats Stock Market Upswing",
+      "publisher": "Yahoo",
+      "date": "2026-09-21 21:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日上漲 2.91 %，反映市場對其基本面與 AI 題材的正面情緒回歸。"
+    },
+    {
+      "rank": 5,
+      "title": "Can Constellation Energy Reduce EFOF and Improve Fleet Performance?",
+      "publisher": "Yahoo",
+      "date": "2026-09-22 16:11",
+      "impact": "low",
+      "category": "營運績效",
+      "reason": "透過降低非計畫性停機（EFOF）提升核能與再生能源機組的可用率，有助於優化營運效率與利潤率。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Constellation Energy Stock Fell 13% Last Week. Analysts Still See 37% Upside From Here.",
+      "publisher": "Yahoo",
+      "date": "2026-09-21 07:31",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管長期看好，但 9 月上旬經歷 13 % 的股價回調，顯示短期內存在獲利了結賣壓與技術性修正壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Constellation vs. Vistra: Which AI Power Stock Is the Better Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-09-25 04:11",
+      "impact": "low",
+      "category": "市場比較",
+      "reason": "該報導旨在比較 CEG 與 Vistra 的投資價值，屬於產業分析性質，未對 CEG 本身產生直接利多或利空影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

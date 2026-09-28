@@ -1,0 +1,56 @@
+{
+  "ticker": "FFIV",
+  "company": "F5",
+  "analysis_date": "2026-09-28",
+  "source_file": "cache/2026-09-28/candidates/news/FFIV.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 安全需求與強勁的機構資金流入，F5 股價表現優於大盤，長期投資回報顯著。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "AI Security, Institutional Inflows Push F5 Shares Up 75% YTD",
+      "publisher": "Yahoo",
+      "date": "2026-09-25 13:09",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "AI 安全領域的技術優勢與機構投資者的持續買入，推動 F5 今年迄今股價上漲 75 %，顯示市場對其核心業務的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "If You Invested $100 In F5 Stock 20 Years Ago, You Would Have This Much Today",
+      "publisher": "Benzinga",
+      "date": "2026-09-24 10:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "過去 20 年間 F5 的年化報酬率超越大盤 6.04 %，證明公司具備長期價值創造能力，有助於吸引長線投資者。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "How Is F5's Stock Performance Compared to Other Software - Infrastructure Stocks?",
+      "publisher": "Yahoo",
+      "date": "2026-09-25 14:28",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管 F5 表現優於同業，但華爾街分析師態度保持謹慎樂觀，顯示市場對其估值與未來成長空間仍有觀望情緒。"
+    },
+    {
+      "rank": 2,
+      "title": "BILL or FFIV: Which Is the Better Value Stock Right Now?",
+      "publisher": "Zacks",
+      "date": "2026-09-23 15:40",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "將 F5 與 BILL 進行價值投資比較，屬於常規的市場分析報告，未提供具體利多或利空消息，對股價影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

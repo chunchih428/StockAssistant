@@ -1,0 +1,111 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-09-28",
+  "source_file": "cache/2026-09-28/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 13,
+    "bearish_count": 2,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "美國司法部終結對 CrowdStrike 的調查消除法律不確定性，加上公司在 AI 安全領域的技術布局與市場領導地位持續推動股價動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "US Justice Department Closes Investigation of CrowdStrike Deals",
+      "publisher": "Bloomberg",
+      "date": "2026-09-25 13:21",
+      "impact": "high",
+      "category": "法律監管",
+      "reason": "美國司法部正式終結對 CrowdStrike 分銷協議的刑事與民事調查且未提出任何指控，消除了市場對公司營運合規性的重大疑慮，為股價帶來顯著利多。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike Named a Leader in Proactive Security Platforms by Independent Research Firm",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 14:50",
+      "impact": "medium",
+      "category": "市場地位",
+      "reason": "獲得獨立研究機構評選為「主動式安全平台」領導者，進一步鞏固其在網路安全領域的技術領先地位，有助於提升企業客戶的採購信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Can Strong Momentum in Next-Gen SIEM Drive CRWD's Platform Expansion?",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 13:25",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "下一代 SIEM 產品的年度經常性收入 (ARR) 已突破 6.95 億美元，顯示平台整合策略成功，為公司帶來強勁的營收成長動能。"
+    },
+    {
+      "rank": 4,
+      "title": "CrowdStrike (CRWD) Joined A Founding Alliance To Secure AI Agents",
+      "publisher": "Yahoo",
+      "date": "2026-09-25 06:10",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "作為 Blueprint Alliance 的創始成員，CrowdStrike 展現了在 AI 代理安全領域的技術前瞻性，有助於長期市場擴張。"
+    },
+    {
+      "rank": 5,
+      "title": "Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-09-26 09:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "知名財經評論員 Jim Cramer 公開推薦 CrowdStrike 作為 AI 領域的投資標的，提升了市場對該股的關注度與投資情緒。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike Stock Slides Amid Akamai's $11.6 Billion Deal",
+      "publisher": "Benzinga",
+      "date": "2026-09-25 13:58",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受 Akamai 宣布 116 億美元併購案影響，網路安全板塊出現資金輪動與短期拋售壓力，導致 CrowdStrike 股價隨大盤波動下滑。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike vs. Figma: Which Technology Stock Is a Better Buy in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 14:50",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析指出儘管公司成長強勁，但仍面臨過去事件帶來的聲譽損害與高估值壓力，相較於其他成長股可能存在估值修正風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "S&P 500, Dow, Nasdaq End Week Higher On Chipmaker Strength",
+      "publisher": "Yahoo",
+      "date": "2026-09-25 22:51",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該新聞主要報導大盤走勢，CrowdStrike 僅被提及為市場焦點個股之一，並未對公司基本面產生直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike (CRWD) Up 13.9% Since Last Earnings Report: Can It Continue?",
+      "publisher": "Yahoo",
+      "date": "2026-09-25 14:30",
+      "impact": "low",
+      "category": "財報分析",
+      "reason": "回顧性分析財報後股價表現，屬於技術性盤點，未提供新的基本面催化劑。"
+    },
+    {
+      "rank": 3,
+      "title": "If You Invested $100 In CrowdStrike Holdings Stock 5 Years Ago",
+      "publisher": "Benzinga",
+      "date": "2026-09-25 16:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "長期績效回顧文章，對當前股價走勢無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
