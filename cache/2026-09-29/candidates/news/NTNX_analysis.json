@@ -1,0 +1,57 @@
+{
+  "ticker": "NTNX",
+  "company": "Nutanix, Inc.",
+  "analysis_date": "2026-09-28",
+  "source_file": "cache/2026-09-28/candidates/news/NTNX.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "Nutanix 透過併購 Ryax Technologies 強化 AI 基礎設施與 GPU 調度能力，並持續擴展雲端合作夥伴生態系。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Nutanix Acquires Ryax Technologies To Tackle GPU Bottlenecks In Agentic AI",
+      "publisher": "Yahoo",
+      "date": "2026-09-22 14:36",
+      "impact": "high",
+      "category": "企業併購",
+      "reason": "併購 Ryax Technologies 具備高度戰略意義，能解決企業在部署 Agentic AI 時面臨的 GPU 瓶頸，並將技術整合至 NKP 與 NAI 平台，有助於提升產品競爭力與長期營收潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Nexcess Expands Service Offerings with Managed Cloud Powered by Nutanix",
+      "publisher": "Yahoo",
+      "date": "2026-09-22 12:45",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "Nexcess 選擇 Nutanix 作為託管雲服務的基礎，顯示其技術在大型雲端服務供應商中的採用率提升，有助於擴大市場份額與品牌影響力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Is Nutanix (NTNX) Down 1.8% Since Last Earnings Report?",
+      "publisher": "Yahoo",
+      "date": "2026-09-25 14:30",
+      "impact": "low",
+      "category": "股價表現",
+      "reason": "財報公布後股價出現 1.8 % 的小幅回調，反映市場對短期獲利成長動能的檢視，屬於財報後的正常波動。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "G or NTNX: Which Is the Better Value Stock Right Now?",
+      "publisher": "Zacks",
+      "date": "2026-09-24 14:40",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "此類文章為常見的價值投資比較分析，並未提供新的基本面資訊，對股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

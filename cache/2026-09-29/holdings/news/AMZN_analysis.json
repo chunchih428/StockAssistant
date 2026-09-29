@@ -1,0 +1,201 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-09-28",
+  "source_file": "cache/2026-09-28/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 8,
+    "bearish_count": 7,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "AWS 的雲端成長與 AI 資本支出帶來的長期潛力，與地緣政治風險及營運中斷挑戰形成多空拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Is Amazon Stock a Buy, Hold, or Sell Below $250? — AWS is accelerating at its fastest pace in 18 quarters",
+      "publisher": "Yahoo",
+      "date": "2026-09-27 18:15",
+      "impact": "high",
+      "category": "財報分析",
+      "reason": "AWS 雲端業務成長速度創下 18 季以來新高，且擁有高達 5,000 億美元的合約積壓，顯示核心業務動能強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon Is Spending $220 Billion on Data Centers. Here's Why That Makes The Stock an Incredible Buy",
+      "publisher": "Yahoo",
+      "date": "2026-09-26 12:05",
+      "impact": "medium",
+      "category": "資本支出",
+      "reason": "儘管資本支出龐大，但分析認為這些投資能帶來具體的長期回報，支撐股價成長潛力。"
+    },
+    {
+      "rank": 3,
+      "title": "What Does Best Buy (BBY) Fire TV Deal Mean For Its Ad Business?",
+      "publisher": "Yahoo",
+      "date": "2026-09-27 14:06",
+      "impact": "medium",
+      "category": "商業合作",
+      "reason": "與 Best Buy 擴大 Fire TV 廣告合作，有助於強化 Amazon 在聯網電視廣告市場的市占率與變現能力。"
+    },
+    {
+      "rank": 4,
+      "title": "Amazon offers one inbound shipment to reach eight countries",
+      "publisher": "Yahoo",
+      "date": "2026-09-27 14:28",
+      "impact": "low",
+      "category": "產品服務",
+      "reason": "簡化跨境物流流程，提升賣家使用意願，有助於擴大電商生態系的規模效應。"
+    },
+    {
+      "rank": 5,
+      "title": "Amazon copies Costco move that benefits members and workers",
+      "publisher": "Yahoo",
+      "date": "2026-09-27 14:17",
+      "impact": "low",
+      "category": "營運策略",
+      "reason": "透過優化會員與員工福利策略，有望提升客戶忠誠度與員工留任率。"
+    },
+    {
+      "rank": 6,
+      "title": "Amazon Taps Prysmian and Rio Tinto for Low-Carbon Data Center Cables",
+      "publisher": "Yahoo",
+      "date": "2026-09-27 23:36",
+      "impact": "low",
+      "category": "ESG 發展",
+      "reason": "與供應商合作低碳基礎設施，符合長期 ESG 目標，並確保資料中心建設的供應鏈穩定。"
+    },
+    {
+      "rank": 7,
+      "title": "Amazon Expands Multichannel Tools for Sellers",
+      "publisher": "Yahoo",
+      "date": "2026-09-25 09:10",
+      "impact": "low",
+      "category": "產品服務",
+      "reason": "新增多通路管理工具，增強賣家對 Amazon 平台的依賴度與營運效率。"
+    },
+    {
+      "rank": 8,
+      "title": "Amazon Has No Dividend. Here's Why Long-Term Investors Should Own It Anyway.",
+      "publisher": "Yahoo",
+      "date": "2026-09-26 08:35",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "強調公司資本配置效率高，長期資本增值潛力遠大於發放股息，適合長期投資人。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Amazon.com (AMZN) Confirmed Iranian Drone Strikes Hit AWS Data Centers",
+      "publisher": "Yahoo",
+      "date": "2026-09-26 14:10",
+      "impact": "high",
+      "category": "地緣政治風險",
+      "reason": "資料中心遭無人機攻擊屬於重大安全與營運風險，可能影響客戶對 AWS 穩定性的信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon (AMZN) Pauses a Cargo Carrier after a Fatal Crash",
+      "publisher": "Yahoo",
+      "date": "2026-09-27 23:53",
+      "impact": "medium",
+      "category": "營運中斷",
+      "reason": "貨運合作夥伴發生致命事故導致營運暫停，可能造成物流網絡短期壓力與額外成本。"
+    },
+    {
+      "rank": 3,
+      "title": "Houston, Amazon.com Has a Problem -- and It's in Europe!",
+      "publisher": "Yahoo",
+      "date": "2026-09-27 13:05",
+      "impact": "medium",
+      "category": "衛星通訊",
+      "reason": "衛星發射計畫受阻，影響其低軌衛星星座的擴張時程，對長期通訊布局不利。"
+    },
+    {
+      "rank": 4,
+      "title": "Anthropic's IPO is a $300 billion test for Amazon",
+      "publisher": "Yahoo",
+      "date": "2026-09-27 01:47",
+      "impact": "medium",
+      "category": "投資風險",
+      "reason": "作為 Anthropic 的主要投資者，其 IPO 表現將直接影響 Amazon 的帳面價值與戰略布局成效。"
+    },
+    {
+      "rank": 5,
+      "title": "Amazon Stock: Is AI Capex Outrunning the Payback?",
+      "publisher": "Yahoo",
+      "date": "2026-09-25 15:40",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "市場擔憂 2,200 億美元的 AI 資本支出過高，若回報速度不及預期，將壓縮自由現金流。"
+    },
+    {
+      "rank": 6,
+      "title": "Meta's standoff with Amazon over Muse could be a sign of things to come",
+      "publisher": "CNBC",
+      "date": "2026-09-23 17:04",
+      "impact": "low",
+      "category": "反壟斷風險",
+      "reason": "與 Meta 的衝突凸顯了大型科技公司在 AI 領域的競爭與潛在的反壟斷監管壓力。"
+    },
+    {
+      "rank": 7,
+      "title": "Amazon Turned $1,000 Into $5,239 Over Ten Years but Recent Buyers Face a Rougher Reality",
+      "publisher": "Yahoo",
+      "date": "2026-09-26 11:45",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "提醒近期買入的投資人面臨較高的波動與估值壓力，與過去十年的高成長期相比，短期獲利難度增加。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Amazon (AMZN) Calls for AI Safeguards Without a Slowdown",
+      "publisher": "Yahoo",
+      "date": "2026-09-28 00:41",
+      "impact": "low",
+      "category": "法規政策",
+      "reason": "呼籲 AI 安全規範但強調不減緩發展，屬於企業公關立場，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Seattle tower across from Amazon sold for $12.5M after a $97M deal in 2019",
+      "publisher": "Yahoo",
+      "date": "2026-09-28 01:00",
+      "impact": "low",
+      "category": "房地產市場",
+      "reason": "反映西雅圖辦公室房地產市場疲軟，雖與 Amazon 總部相關，但對公司核心業務影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "I'd Buy Amazon Stock While It Sits 12% Below Its Record",
+      "publisher": "Yahoo",
+      "date": "2026-09-27 21:34",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "分析師觀點，認為股價折價提供買入機會，屬於市場情緒面分析。"
+    },
+    {
+      "rank": 4,
+      "title": "Amazon Opened Seller Central to Walmart and eBay but Blocked Meta’s Muse",
+      "publisher": "Yahoo",
+      "date": "2026-09-27 09:48",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "整合與封鎖並存的策略調整，反映公司在生態系開放性上的權衡。"
+    },
+    {
+      "rank": 5,
+      "title": "Let’s Take a Closer Look at Amazon’s (AMZN) Debt-Fueled AI Buildout",
+      "publisher": "Yahoo",
+      "date": "2026-09-25 23:20",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "針對債務融資 AI 建設的討論，屬於中性財務觀察，未有明確利多或利空結論。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

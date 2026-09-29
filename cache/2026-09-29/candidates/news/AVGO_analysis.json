@@ -1,0 +1,93 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-09-28",
+  "source_file": "cache/2026-09-28/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 11,
+    "bearish_count": 4,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管面臨中國監管審查的短期逆風，Broadcom 強勁的 AI 基礎設施需求與長期獲利成長預期，仍使多數分析師維持看多觀點。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Broadcom Stock Is Back Where It Ended 2025, but Its Earnings Are About 43% Higher. Is It a Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-09-27 07:03",
+      "impact": "high",
+      "category": "財報分析",
+      "reason": "指出公司獲利成長 43% 但股價卻回落至去年底水平，顯示估值具備吸引力，且 AI 需求預測持續上調。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom's Latest Prediction Makes the Stock a No-Brainer Buy Right Now",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 20:43",
+      "impact": "high",
+      "category": "市場展望",
+      "reason": "公司針對 2028 財年提出的激進成長指引，被視為長期投資的強大催化劑。"
+    },
+    {
+      "rank": 3,
+      "title": "Analysts Keep Hiking Broadcom Price Targets, But AVGO Is Flat",
+      "publisher": "Yahoo",
+      "date": "2026-09-27 14:00",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師在 Q3 財報後持續調升目標價，顯示華爾街對其基本面信心強勁。"
+    },
+    {
+      "rank": 4,
+      "title": "3 Companies With a Strong History of Dividend Growth",
+      "publisher": "Yahoo",
+      "date": "2026-09-23 23:15",
+      "impact": "low",
+      "category": "股利政策",
+      "reason": "Broadcom 作為長期股利成長股，吸引追求穩定收益的投資人。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "AVGO Stock Falls Premarket: China Reportedly Audits Broadcom’s Grip On State-Backed Data Centers",
+      "publisher": "Yahoo",
+      "date": "2026-09-23 08:23",
+      "impact": "high",
+      "category": "法規監管",
+      "reason": "中國對其數據中心業務進行審查，引發市場對地緣政治風險與營收穩定性的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom Falls 2% as $230 Billion AI Target Doubles the Delivery Test",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 19:20",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場質疑其 2300 億美元 AI 目標的執行難度，包括供應鏈與利潤率壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Nvidia vs. Broadcom: Whose AI Bull Case is Better?",
+      "publisher": "Yahoo",
+      "date": "2026-09-26 08:22",
+      "impact": "low",
+      "category": "產業比較",
+      "reason": "將 Broadcom 與 Nvidia 進行比較，分析兩者在 AI 領域的競爭優勢，屬於中性產業分析。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom vs. Marvell: The AI Supercycle Is Big Enough for Both",
+      "publisher": "Yahoo",
+      "date": "2026-09-27 15:52",
+      "impact": "low",
+      "category": "產業比較",
+      "reason": "探討 Broadcom 與 Marvell 在 AI 基礎設施的共存關係，未對股價產生直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

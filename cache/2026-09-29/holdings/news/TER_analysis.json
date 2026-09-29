@@ -1,0 +1,120 @@
+{
+  "ticker": "TER",
+  "company": "Teradyne, Inc.",
+  "analysis_date": "2026-09-28",
+  "source_file": "cache/2026-09-28/holdings/news/TER.json",
+  "summary": {
+    "total_articles": 13,
+    "bullish_count": 7,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Teradyne 憑藉 AI 測試需求增長、與 GS Microelectronics 的戰略合作以及新產品 Iris 100 的推出，展現強勁的成長動能與市場擴張力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Teradyne Partners With GS Microelectronics On New Semiconductor Test Center",
+      "publisher": "Yahoo",
+      "date": "2026-09-22 17:13",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "與 GSME 建立多年合作夥伴關係，共同建設半導體測試與評估中心，針對 AI、矽光子與車用晶片市場，有助於鞏固其在複雜晶片測試領域的領先地位。"
+    },
+    {
+      "rank": 2,
+      "title": "Teradyne Strengthens AI Test Portfolio: Can It Beat KLAC & COHU?",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 15:16",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Iris 100 測試系統擴展了光學測試組合，強化了公司在 AI 驅動測試領域的競爭優勢，使其在與 KLA 與 Cohu 的競爭中更具韌性。"
+    },
+    {
+      "rank": 3,
+      "title": "Teradyne (NASDAQ:TER) Delivers High Growth and Improving Fundamentals Across the Board",
+      "publisher": "ChartMill",
+      "date": "2026-09-25 12:20",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "在 Navellier 的成長篩選指標中獲得 8 / 10 分，顯示其在盈餘修正、銷售成長與現金流方面表現優異，基本面強勁。"
+    },
+    {
+      "rank": 4,
+      "title": "Teradyne Introduces Iris 100: Production-Proven Test System for MicroLED Devices",
+      "publisher": "Yahoo",
+      "date": "2026-09-21 06:00",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出針對 MicroLED 設備的生產級測試平台，進一步擴大產品應用範圍至新興顯示技術市場。"
+    },
+    {
+      "rank": 5,
+      "title": "Teradyne (TER) Opens Bengaluru Office To Support India Chip Manufacturing",
+      "publisher": "Simply Wall St.",
+      "date": "2026-09-18 15:12",
+      "impact": "low",
+      "category": "市場擴張",
+      "reason": "在印度班加羅爾設立辦事處，顯示公司積極布局全球半導體供應鏈，以支持當地晶片製造需求。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Teradyne (TER) Sees a More Significant Dip Than Broader Market",
+      "publisher": "Yahoo",
+      "date": "2026-09-23 22:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 2.4 %，表現弱於大盤，反映短期市場獲利了結或技術性修正壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Robotics Earnings Week: Momentum vs. Value as Four Automation Names Report",
+      "publisher": "ChartMill",
+      "date": "2026-09-25 12:06",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "即將面臨財報發布的關鍵測試，市場對於機器人與自動化板塊的動能與價值評估存在分歧，可能導致股價波動。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Teradyne (TER) Surpasses Market Returns: Some Facts Worth Knowing",
+      "publisher": "Yahoo",
+      "date": "2026-09-25 21:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導股價單日上漲 2.74 %，屬於市場常態性波動紀錄，無重大基本面變動。"
+    },
+    {
+      "rank": 2,
+      "title": "Reflecting On Semiconductor Manufacturing Stocks’ Q2 Earnings: Teradyne (NASDAQ:TER)",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 19:12",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "回顧第二季財報表現，屬於歷史數據回顧，對當前股價影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "Power Integrations, Penguin Solutions, Photronics, Amkor, and Teradyne Shares Are Soaring",
+      "publisher": "Yahoo",
+      "date": "2026-09-22 21:41",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "歸因於 AI 產業整體樂觀情緒帶動的板塊聯動上漲，非公司單一利多消息。"
+    },
+    {
+      "rank": 4,
+      "title": "Chip Earnings Wave to Test Whether Semiconductor Rally Broadens Beyond AI Leaders",
+      "publisher": "ChartMill",
+      "date": "2026-09-21 12:06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "產業分析文章，探討半導體需求是否擴散，屬於總體產業趨勢觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

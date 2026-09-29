@@ -1,0 +1,93 @@
+{
+  "ticker": "FSLR",
+  "company": "First Solar",
+  "analysis_date": "2026-09-28",
+  "source_file": "cache/2026-09-28/candidates/news/FSLR.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 2,
+    "bearish_count": 6,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "受高利率環境導致融資成本上升、訂單能見度放緩以及市場對太陽能產業信心不足影響，FSLR 股價近期持續下探 52 週新低。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Roth Says US Polysilicon Crackdown Could Provide A Tailwind",
+      "publisher": "Yahoo",
+      "date": "2026-09-25 17:31",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Roth 分析師指出，美國對多晶矽進口的嚴格監管將減少市場庫存積壓，這對作為美國本土製造商的 First Solar 而言是潛在的長期利多。"
+    },
+    {
+      "rank": 2,
+      "title": "First Solar (FSLR) Stock Still Looks Below Fair Value Following Its 115% Run",
+      "publisher": "Simply Wall St.",
+      "date": "2026-09-19 01:10",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "儘管股價經歷大幅上漲，但分析認為該公司目前估值仍低於其內在價值，具備長期投資潛力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "First Solar (FSLR) Hits Fresh 52-Week Low As Target Cuts, Slower Booking Visibility Weigh",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 20:13",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "GLJ Research 將目標價從 $314.43 下調至 $250，且市場對公司訂單能見度放緩感到擔憂，導致股價跌破關鍵支撐位。"
+    },
+    {
+      "rank": 2,
+      "title": "Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 15:55",
+      "impact": "high",
+      "category": "總體經濟",
+      "reason": "10 年期公債殖利率飆升至 5.14%，導致太陽能專案融資成本激增，直接打擊了 FSLR 等太陽能類股的獲利預期與市場情緒。"
+    },
+    {
+      "rank": 3,
+      "title": "First Solar (FSLR) Suffers a Larger Drop Than the General Market: Key Insights",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 20:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "單日股價重挫 10.48%，跌幅顯著大於大盤，顯示市場對該公司短期基本面信心動搖。"
+    },
+    {
+      "rank": 4,
+      "title": "First Solar Stock Hits Fresh 52-Week Low: What's Happening?",
+      "publisher": "Benzinga",
+      "date": "2026-09-24 13:24",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價持續下探 52 週新低，反映出賣壓沉重且缺乏買盤支撐，技術面呈現惡化趨勢。"
+    },
+    {
+      "rank": 5,
+      "title": "Why First Solar (FSLR) Dipped More Than Broader Market Today",
+      "publisher": "Yahoo",
+      "date": "2026-09-23 21:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "單日下跌 4.42%，顯示在缺乏利多消息下，資金持續從太陽能板塊撤出。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "First Solar (FSLR) Keeps Hitting New Lows While Wall Street Says Buy. Who’s Right?",
+      "publisher": "Yahoo",
+      "date": "2026-09-26 00:15",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "文章探討了華爾街買入建議與股價持續下跌之間的矛盾，並未提供新的基本面資訊，僅為市場情緒的觀察總結。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
