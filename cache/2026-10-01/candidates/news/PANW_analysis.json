@@ -1,0 +1,56 @@
+{
+  "ticker": "PANW",
+  "company": "Palo Alto Networks",
+  "analysis_date": "2026-10-01",
+  "source_file": "cache/2026-10-01/candidates/news/PANW.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "Palo Alto Networks 受益於 AI 驅動的資安防禦技術升級，市場對其持續性服務模式與競爭優勢持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Palo Alto Networks Stocks Surges 2.4% as AI Defense Becomes Continuous Service",
+      "publisher": "GuruFocus.com",
+      "date": "2026-09-30T16:57:04Z",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "將 AI 防禦轉型為持續性服務模式，顯著提升了營收的可預測性與客戶黏著度，直接推動股價上漲 2.4 %。"
+    },
+    {
+      "rank": 2,
+      "title": "BlackBerry Advances 5% on Continued QNX Momentum; Palo Alto Networks Gains 4%, CrowdStrike Edges Up 2%",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-09-30T15:41:53Z",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "PANW 在市場整體資安板塊走強的背景下表現優於同業 CrowdStrike，顯示資金對其技術領先地位的認可。"
+    },
+    {
+      "rank": 3,
+      "title": "All In On Cybersecurity: The Choice Between Palo Alto Networks or Crowdstrike Not Difficult",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-09-30T13:15:24Z",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析師觀點傾向於 PANW 在資安領域的長期投資價值高於競爭對手，強化了市場對其基本面的信心。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is AI-Driven Edge Security Integration With Nvidia’s Stack Altering The Investment Case For Palo Alto Networks (PANW)?",
+      "publisher": "Simply Wall St.",
+      "date": "2026-10-01T01:23:37Z",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "探討與 Nvidia 技術堆疊整合對投資案例的影響，目前處於評估階段，尚未對股價產生明確的利多或利空訊號。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

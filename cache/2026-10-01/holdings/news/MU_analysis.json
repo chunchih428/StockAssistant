@@ -1,0 +1,84 @@
+{
+  "ticker": "MU",
+  "company": "Micron Technology",
+  "analysis_date": "2026-10-01",
+  "source_file": "cache/2026-10-01/holdings/news/MU.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "mixed",
+    "key_theme": "美光發布強勁的第 4 季財報並提供優於預期的財測，AI 需求持續強勁，但市場對資本支出增加的擔憂導致股價出現波動。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Micron Forecast Tops Estimates on Booming AI Memory Demand",
+      "publisher": "Yahoo",
+      "date": "2026-09-30 21:00",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "美光第 4 季財報營收與 EPS 雙雙優於預期，且第 1 季財測強勁，顯示 AI 記憶體需求依然處於爆發性成長階段。"
+    },
+    {
+      "rank": 2,
+      "title": "Micron Says Humanoid Robots Could Be Next Big Memory Driver",
+      "publisher": "Yahoo",
+      "date": "2026-10-01 03:25",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "美光指出人形機器人將成為記憶體與儲存晶片的新成長引擎，為長期營收成長提供新的想像空間。"
+    },
+    {
+      "rank": 3,
+      "title": "MU Stock Muted Despite Blowout Quarter: Analysts Weigh In As Retail Gets More Bullish",
+      "publisher": "Yahoo",
+      "date": "2026-10-01 02:01",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "美光技術領先中國競爭對手至少兩個節點，展現強大的護城河與定價能力，獲得分析師正面評價。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "MU Stock Drops After Hours: Micron’s Heightened Capex Forecast Overpowers Q4 Beat",
+      "publisher": "Yahoo",
+      "date": "2026-09-30 22:25",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "儘管財報表現亮眼，但美光調高資本支出（Capex）預測，引發市場對獲利能力與現金流的擔憂，導致盤後股價下跌。"
+    },
+    {
+      "rank": 2,
+      "title": "Dow, S&P 500, Nasdaq Futures Rise Despite Soaring Treasury Yields",
+      "publisher": "Yahoo",
+      "date": "2026-10-01 02:38",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "美國 10 年期公債殖利率飆升至 5.3%，高利率環境對科技股估值構成壓力，間接影響美光股價表現。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Sandisk Bets on AI and Enterprise SSDs: Can It Outpace MU & STX?",
+      "publisher": "Yahoo",
+      "date": "2026-09-30 17:12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討競爭對手 SanDisk 在 AI 儲存領域的佈局，對美光而言屬於產業競爭常態，未對基本面產生立即影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Stock Market Today: Dow Jones, Nasdaq 100 Futures Fall as Investors Digest Fed's Preferred Inflation Gauge",
+      "publisher": "Benzinga",
+      "date": "2026-09-30 08:44",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場消化聯準會通膨數據，屬於總體經濟層面的波動，對美光個股影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "IBM",
+  "company": "International Business Machines Corporation",
+  "analysis_date": "2026-10-01",
+  "source_file": "cache/2026-10-01/candidates/news/IBM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 2,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "IBM 憑藉 AI 軟體部署、量子運算技術與企業級雲端解決方案的持續創新，在多個高成長 IT 市場中保持競爭優勢。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "IBM Introduces Self-Hosted Deployment for IBM Bob to Help Enterprises Advance AI Sovereignty and Governance",
+      "publisher": "Yahoo",
+      "date": "2026-10-01 04:01",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "推出自託管部署功能，直接回應企業對於 AI 主權與治理的嚴格需求，有助於擴大 IBM 在企業級 AI 市場的市占率。"
+    },
+    {
+      "rank": 2,
+      "title": "IBM Stock Moves Higher as Nvidia Partnership Puts Identity Around Agents",
+      "publisher": "Yahoo",
+      "date": "2026-09-29 17:16",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "與 Nvidia 的合作強化了 AI 代理的安全性與治理能力，將 IBM 的軟體與基礎設施與領先的 AI 平台連結，具備顯著的技術綜效。"
+    },
+    {
+      "rank": 3,
+      "title": "Should You Buy IBM Stock For Its Cash?",
+      "publisher": "Yahoo",
+      "date": "2026-09-29 18:55",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "IBM 的自由現金流收益率達 6.3 %，優於標普 500 指數中位數的 4.5 %，顯示其強勁的財務韌性與股東回報潛力。"
+    },
+    {
+      "rank": 4,
+      "title": "IBM Study: As AI Scales Enterprise-Wide, CFOs Play an Expanded Role in Transformation",
+      "publisher": "Yahoo",
+      "date": "2026-09-30 12:00",
+      "impact": "low",
+      "category": "市場研究",
+      "reason": "透過發布產業研究報告，鞏固 IBM 在企業 AI 轉型領域的顧問地位，有助於提升品牌影響力。"
+    },
+    {
+      "rank": 5,
+      "title": "Fusemachines Accelerates AI Twin Development Through Access to IBM Fusion Infrastructure",
+      "publisher": "Yahoo",
+      "date": "2026-09-28 11:30",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "透過合作夥伴提供基礎設施，加速 AI 模型開發，展示了 IBM 基礎設施在 AI 生態系統中的關鍵支撐作用。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "IBM Stocks Fall Over 2% While Agent Identity Becomes Infrastructure",
+      "publisher": "Yahoo",
+      "date": "2026-09-28 19:16",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價短期出現超過 2 % 的回調，反映市場對於技術轉型過程中基礎設施整合成本或競爭壓力的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "A Year Ago, We Called IBM the Next Nvidia. It Lost Money but Still Beat Every Quantum Startup.",
+      "publisher": "Yahoo",
+      "date": "2026-09-29 15:40",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "評論指出 IBM 在量子運算領域的獲利能力尚未兌現，儘管技術領先，但商業化進程仍面臨挑戰。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Multiple Market Reports (Application Integration, IT Operations, Digital Transformation, etc.)",
+      "publisher": "Yahoo",
+      "date": "2026-09-29",
+      "impact": "low",
+      "category": "市場研究",
+      "reason": "彙整多份市場報告，顯示 IBM 在應用整合、數位轉型與量子運算等領域均被列為關鍵參與者，屬於產業常態性分析，對股價影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Investors Heavily Search International Business Machines Corporation (IBM): Here is What You Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-09-28 12:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為投資人搜尋熱度分析，未包含具體財務或營運變動，對股價無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "PwC UK picks Jeremy Bassinder as chief AI officer",
+      "publisher": "Yahoo",
+      "date": "2026-09-28 10:53",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "前 IBM 員工轉任 PwC，顯示 IBM 人才庫的專業度受市場肯定，但對 IBM 本身營運無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
