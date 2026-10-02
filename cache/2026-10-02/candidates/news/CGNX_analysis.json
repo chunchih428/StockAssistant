@@ -1,0 +1,75 @@
+{
+  "ticker": "CGNX",
+  "company": "Cognex",
+  "analysis_date": "2026-10-01",
+  "source_file": "cache/2026-10-01/candidates/news/CGNX.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 2,
+    "bearish_count": 3,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "Cognex 透過 5 億美元收購 RealSense 擴張機器視覺版圖，雖具長期成長潛力，但市場對其高估值與短期獲利空間存有疑慮。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Cognex Acquires RealSense for $500M to Expand Robotic Vision Platform",
+      "publisher": "MarketBeat",
+      "date": "2026-09-22",
+      "impact": "high",
+      "category": "併購案",
+      "reason": "Cognex 以 5 億美元收購 RealSense，此舉直接強化了公司在機器視覺與自動化領域的技術平台，被視為長期擴張市場份額的關鍵策略。"
+    },
+    {
+      "rank": 2,
+      "title": "Cognex: AI And Robotics Have Potential, But Near-Term Upside Looks Limited",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管短期股價受限，但該分析指出 Cognex 在物流、包裝與半導體領域的需求強勁，且 AI 產品與 RealSense 的整合將持續推動長期成長。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cognex (CGNX) Stock Could Be Expensive On Its $500 Million Vision Deal",
+      "publisher": "Yahoo",
+      "date": "2026-09-24",
+      "impact": "high",
+      "category": "估值分析",
+      "reason": "市場擔憂 2026 年股價漲幅過大，加上 5 億美元的收購案可能導致估值過高，投資人對其溢價空間產生質疑。"
+    },
+    {
+      "rank": 2,
+      "title": "Cognex (CGNX) On RealSense Deal And Chip Push Looks Cheap Or Fully Valued",
+      "publisher": "Yahoo",
+      "date": "2026-09-24",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "針對 RealSense 收購案與 In-Sight 1750 新品發布，市場對其是否已充分反映價值存在分歧，部分觀點認為股價已達合理上限。"
+    },
+    {
+      "rank": 3,
+      "title": "Deal Dispatch: Jana Calls For Six Flags Review, Cognex Corp Buys RealSense, Brightline Bankruptcy",
+      "publisher": "Benzinga",
+      "date": "2026-09-25",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 Cognex 的收購案與其他企業破產或重組消息並列，暗示市場對資本配置的審慎態度，可能對短期股價情緒造成壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Robotics Earnings Week: Momentum vs. Value as Four Automation Names Report",
+      "publisher": "ChartMill",
+      "date": "2026-09-25",
+      "impact": "low",
+      "category": "財報預覽",
+      "reason": "僅作為自動化產業財報季的預覽報導，將 Cognex 列為觀察名單，未對公司基本面做出明確多空判斷。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,66 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-10-01",
+  "source_file": "cache/2026-10-01/candidates/news/NFLX.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 3,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對於 Netflix 的長期護城河與成長潛力存在分歧，多頭看好其市場地位，空頭則擔憂 YouTube 的競爭壓力與估值修正。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Netflix Stock Upgraded To Buy As Investors Miss Big Picture",
+      "publisher": "Investor's Business Daily",
+      "date": "2026-09-29T20:11:39Z",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師將 Netflix 評級上調至「買入」，認為市場過度關注短期波動而忽略了其長期獲利能力與市場主導地位。"
+    },
+    {
+      "rank": 2,
+      "title": "Most Investors Are Wrong About Selling Netflix. Here's What I'd Do Instead.",
+      "publisher": "Motley Fool",
+      "date": "2026-09-30T03:50:00Z",
+      "impact": "medium",
+      "category": "市場觀點",
+      "reason": "文章強調 Netflix 的商業模式韌性，建議投資人應忽略短期雜訊，長期持有以獲取成長紅利。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix Just Keeps Falling: Here’s Why One Wall Street Pro Remains Resolute That 90% Await Today’s Buyers",
+      "publisher": "24/7 Wall St.",
+      "date": "2026-09-30T11:15:43Z",
+      "impact": "medium",
+      "category": "市場觀點",
+      "reason": "儘管股價近期下跌，但華爾街專家仍看好其未來潛在漲幅，認為當前價格為長期投資人提供進場機會。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Netflix (NFLX) Faces Downgrades As YouTube Pressure Puts Fair Value In Focus",
+      "publisher": "Simply Wall St.",
+      "date": "2026-09-30T06:05:44Z",
+      "impact": "high",
+      "category": "競爭分析",
+      "reason": "指出 YouTube 在串流媒體領域的競爭壓力日益增加，導致部分機構下調 Netflix 評級，並引發對其合理估值的重新評估。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Netflix (NFLX) vs Spotify (SPOT): Which Subscription Stock Has a Wider Moat?",
+      "publisher": "Insider Monkey",
+      "date": "2026-09-30T05:09:30Z",
+      "impact": "low",
+      "category": "產業比較",
+      "reason": "此篇為 Netflix 與 Spotify 的商業模式比較分析，旨在探討訂閱制公司的護城河差異，未對股價產生直接的短期買賣訊號。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

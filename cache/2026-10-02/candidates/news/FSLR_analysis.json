@@ -1,0 +1,93 @@
+{
+  "ticker": "FSLR",
+  "company": "First Solar",
+  "analysis_date": "2026-10-01",
+  "source_file": "cache/2026-10-01/candidates/news/FSLR.json",
+  "summary": {
+    "total_articles": 17,
+    "bullish_count": 5,
+    "bearish_count": 9,
+    "neutral_count": 3,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管近期因高利率與庫存壓力導致股價觸及 52 週新低，但分析師開始上調評級，顯示市場對其長期基本面與政策利多仍存有期待。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "KeyBanc Just Upgraded First Solar Stock. Here's Why.",
+      "publisher": "Yahoo",
+      "date": "2026-09-28 20:08",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "KeyBanc 分析師 Sophie Karp 將評級從「減持」上調至「產業權重」，此舉顯著改善了市場對該股的悲觀情緒，並帶動股價反彈。"
+    },
+    {
+      "rank": 2,
+      "title": "FSLR Stock Heads For Its Worst Week In Over A Month — Roth Says US Polysilicon Crackdown Could Provide A Tailwind",
+      "publisher": "Yahoo",
+      "date": "2026-09-25 17:31",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Roth 分析師指出美國對多晶矽的進口限制將成為 First Solar 的長期順風，有助於緩解庫存壓力並提升競爭優勢。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing: First Solar Sinks 8%",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 15:55",
+      "impact": "high",
+      "category": "宏觀經濟",
+      "reason": "10 年期公債殖利率飆升至 5.14 %，導致太陽能專案融資成本激增，直接衝擊 First Solar 等類股的估值與獲利預期。"
+    },
+    {
+      "rank": 2,
+      "title": "First Solar Faces Pricing Pressure Amid High Inventory, Slow Project Starts, KeyBanc Says",
+      "publisher": "Yahoo",
+      "date": "2026-09-28 17:45",
+      "impact": "medium",
+      "category": "營運風險",
+      "reason": "KeyBanc 指出美國市場庫存水位過高且專案啟動緩慢，導致中短期內面臨定價壓力，影響利潤率表現。"
+    },
+    {
+      "rank": 3,
+      "title": "Piper Sandler Maintains Overweight on First Solar, Lowers Price Target to $251",
+      "publisher": "Benzinga",
+      "date": "2026-09-30 08:05",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "儘管維持「增持」評級，但 Piper Sandler 下調目標價至 251 美元，反映了對近期市場環境與獲利成長放緩的擔憂。"
+    },
+    {
+      "rank": 4,
+      "title": "FSLR Stock Hits Fresh 52-Week Low As Target Cuts, Slower Booking Visibility Weigh",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 20:13",
+      "impact": "high",
+      "category": "股價表現",
+      "reason": "GLJ Research 將目標價大幅下調至 250 美元，加上訂單能見度下降，導致股價跌破 52 週新低，引發市場恐慌性拋售。"
+    },
+    {
+      "rank": 5,
+      "title": "First Solar: Why The Market Still Doesn't Believe The Story (Rating Downgrade)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-29 09:58",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "市場對該公司基本面仍存疑，認為當前的折價反映了產業風險，投資人信心尚未完全恢復。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Investors Heavily Search First Solar, Inc. (FSLR): Here is What You Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-09-30 12:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為 Zacks.com 使用者搜尋熱度統計，未提供具體財務或營運基本面變動資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

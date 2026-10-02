@@ -1,0 +1,93 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy",
+  "analysis_date": "2026-10-01",
+  "source_file": "cache/2026-10-01/holdings/news/CEG.json",
+  "summary": {
+    "total_articles": 15,
+    "bullish_count": 8,
+    "bearish_count": 2,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "Constellation Energy 與 Amazon 簽署 20 年核能供電協議，強化其作為 AI 數據中心電力供應核心的市場地位。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Constellation and Amazon Announce 20-Year Power Purchase Agreement Adding 190 Megawatts of Nuclear Capacity at Calvert Cliffs",
+      "publisher": "Yahoo",
+      "date": "2026-09-30 20:00",
+      "impact": "high",
+      "category": "商業合作",
+      "reason": "與 Amazon 簽署長期核能供電協議，並投入 30 億美元擴建 Calvert Cliffs 核電廠，直接受惠於 AI 數據中心對穩定清潔能源的強勁需求。"
+    },
+    {
+      "rank": 2,
+      "title": "Constellation Energy: A More Attractive Entry Point Into The Nuclear Power Boom",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-30 14:18",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析師看好其在美國核能市場的壟斷地位，認為數據中心電力需求將持續推動公司長期獲利成長。"
+    },
+    {
+      "rank": 3,
+      "title": "BlackRock Says AI Value Is Shifting Beyond Software, Flags ‘Physical AI’: Why MU, VRT And CEG Are in Focus",
+      "publisher": "Benzinga",
+      "date": "2026-09-29 04:53",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "貝萊德將 CEG 列為「實體 AI 」關鍵受惠股，強調電力基礎設施在 AI 產業鏈中的瓶頸價值。"
+    },
+    {
+      "rank": 4,
+      "title": "CEG vs. D: Which Energy Stock Has Better Long-Term Upside Potential?",
+      "publisher": "Yahoo",
+      "date": "2026-09-28 16:32",
+      "impact": "low",
+      "category": "投資評級",
+      "reason": "相較於同業，CEG 在資本回報率 (ROIC) 與獲利成長性上表現更優，具備更佳的長期投資潛力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "CEG, NRG, TLN Stocks In Spotlight: TD Cowen Warns Of ‘Acute’ Uncertainty After FERC Delays PJM’s Plan To Meet AI Demand",
+      "publisher": "Yahoo",
+      "date": "2026-09-30 17:51",
+      "impact": "medium",
+      "category": "監管風險",
+      "reason": "FERC 延遲 PJM 的電力擴容計畫，引發市場對 AI 相關電力供應鏈短期內面臨監管不確定性的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Constellation Energy: Premium Company At A Premium Price",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-29 13:03",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "儘管公司基本面強勁，但目前股價已反映高溢價，未來能源價格上漲帶來的額外獲利空間可能有限。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Constellation Energy vs. Vistra: Nuclear's Two Biggest AI Bets, and why I'm Picking One.",
+      "publisher": "Yahoo",
+      "date": "2026-09-29 13:10",
+      "impact": "low",
+      "category": "市場比較",
+      "reason": "針對 CEG 與 Vistra 的投資價值進行比較，屬於產業內部的配置選擇，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Investors Heavily Search Constellation Energy Corporation (CEG): Here is What You Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-09-28 12:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅反映散戶投資人對該股票的搜尋熱度增加，並未提供新的基本面資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
