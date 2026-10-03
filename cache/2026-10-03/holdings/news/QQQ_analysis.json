@@ -1,0 +1,102 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-10-01",
+  "source_file": "cache/2026-10-01/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 6,
+    "bearish_count": 6,
+    "neutral_count": 8,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對 QQQ 的長期成長潛力與零售情緒持正面看法，但高利率環境與估值過高風險引發了投資人對短期波動的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why Are Nasdaq Futures Rising Premarket? Retail sentiment toward SPY and QQQ stayed ‘bullish.’",
+      "publisher": "Yahoo",
+      "date": "2026-09-30 08:29",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "零售投資人情緒持續看多，顯示市場對科技股指數的信心依然穩固，支撐了盤前走勢。"
+    },
+    {
+      "rank": 2,
+      "title": "If You'd Invested $1,000 in the Invesco QQQ Trust (QQQ) 10 Years Ago, Here's How Much You'd Have Today",
+      "publisher": "Yahoo",
+      "date": "2026-09-29 22:20",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "強調 QQQ 長期績效顯著優於 S&P 500，強化了該 ETF 作為長期投資工具的品牌價值。"
+    },
+    {
+      "rank": 3,
+      "title": "Zacks Investment Ideas feature highlights: QQQ eyes a breakout as summer consolidation fades",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 09:34",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "技術面顯示 QQQ 在經歷夏季盤整後，具備向上突破的潛力，吸引技術派投資人關注。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bond Vigilantes Crash The Party: This Could Get Uglier — Treasury yields surge (10Y 5.13%) as stocks slide",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-24 11:11",
+      "impact": "high",
+      "category": "總體經濟",
+      "reason": "10 年期公債殖利率飆升至 5.13%，對高估值的科技股構成沉重壓力，直接威脅 QQQ 的短期表現。"
+    },
+    {
+      "rank": 2,
+      "title": "The Invesco QQQ Trust Recently Hit a New All-Time High. Is It Still a Good ETF to Buy Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-09-29 12:20",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "指出指數處於歷史高點且科技股估值過高，提醒投資人需警惕潛在的回調風險。"
+    },
+    {
+      "rank": 3,
+      "title": "Buy SPY Or QQQ, Hold Software, And Sell Semiconductors",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-24 12:43",
+      "impact": "medium",
+      "category": "投資策略",
+      "reason": "分析師建議減碼半導體類股，由於半導體在 QQQ 中佔比極高，此觀點對 QQQ 構成結構性利空。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Vanguard S&P 500 ETF vs. Invesco QQQ: Which ETF Is the Better Buy for Investors?",
+      "publisher": "Yahoo",
+      "date": "2026-09-30 02:33",
+      "impact": "low",
+      "category": "投資比較",
+      "reason": "僅為投資人提供資產配置的比較分析，並未對 QQQ 本身給出買進或賣出的明確方向。"
+    },
+    {
+      "rank": 2,
+      "title": "QQQM Charges 0.15% and QQQ Charges 0.18%. A Wide Spread Can Take That Back on a Single Trade",
+      "publisher": "Yahoo",
+      "date": "2026-09-29 23:31",
+      "impact": "low",
+      "category": "費用分析",
+      "reason": "探討 QQQ 與 QQQM 的費用結構與流動性差異，屬於投資細節討論，對股價無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "The Biggest Names in Food and Social Media Come Together at the 2026 Food Network New York City Wine & Food Festival presented by Invesco QQQ",
+      "publisher": "Yahoo",
+      "date": "2026-09-29 15:15",
+      "impact": "low",
+      "category": "品牌行銷",
+      "reason": "屬於企業品牌贊助活動，對公司財務基本面或股價走勢無實質影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

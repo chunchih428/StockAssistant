@@ -1,0 +1,93 @@
+{
+  "ticker": "GEN",
+  "company": "Gen Digital",
+  "analysis_date": "2026-10-01",
+  "source_file": "cache/2026-10-01/candidates/news/GEN.json",
+  "summary": {
+    "total_articles": 16,
+    "bullish_count": 5,
+    "bearish_count": 6,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場高度關注 Gen Digital 對 GoDaddy 的潛在收購案，儘管公司重申財測以穩定信心，但併購帶來的股價波動與市場對資本配置的擔憂仍造成多空拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Gen Digital Affirms FY2027 Adj EPS Guidance of $2.87-$2.97 and Sales Guidance",
+      "publisher": "Benzinga",
+      "date": "2026-09-29 04:15",
+      "impact": "high",
+      "category": "財報預測",
+      "reason": "公司重申 2027 財年調整後每股盈餘與營收指引，且預期表現處於指引區間高標，有效緩解市場對營運穩定性的疑慮。"
+    },
+    {
+      "rank": 2,
+      "title": "Gen Digital CEO addresses GoDaddy acquisition rumors",
+      "publisher": "Investing.com",
+      "date": "2026-09-28 21:11",
+      "impact": "medium",
+      "category": "公司策略",
+      "reason": "執行長針對收購傳聞進行說明，有助於釐清市場不確定性，並在消息發布後帶動股價反彈 5 %。"
+    },
+    {
+      "rank": 3,
+      "title": "Gen Digital Potential GoDaddy Deal Could Be Transformational, RBC Says",
+      "publisher": "MT Newswires",
+      "date": "2026-09-25 15:29",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師認為若收購 GoDaddy 成真，將對公司業務產生轉型性的正面影響，具備長期成長潛力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Gen Digital (GEN) Wants to Buy GoDaddy. So Why Did Its Own Stock Crash 12%?",
+      "publisher": "Yahoo",
+      "date": "2026-09-25 23:40",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "市場對收購案的資金壓力與整合風險感到擔憂，導致股價在消息傳出後一度重挫 12 %。"
+    },
+    {
+      "rank": 2,
+      "title": "RBC Capital Maintains Sector Perform on Gen Digital, Lowers Price Target to $26",
+      "publisher": "Benzinga",
+      "date": "2026-09-25 09:52",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "儘管維持評級，但下調目標價反映了市場對併購案及其對資產負債表影響的審慎態度。"
+    },
+    {
+      "rank": 3,
+      "title": "Gen Digital (GEN) Loses 32.7% in 4 Weeks",
+      "publisher": "Yahoo",
+      "date": "2026-09-29 12:35",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "過去四週股價累積跌幅達 32.7 %，顯示近期賣壓沉重，技術面雖處於超賣區，但整體趨勢仍偏弱。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Stock of the Day: Is This the Bottom for Gen Digital?",
+      "publisher": "Benzinga",
+      "date": "2026-09-28 16:15",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "分析師探討股價是否觸底，指出 20.50 美元為關鍵支撐位，屬於技術面觀察，無基本面變動。"
+    },
+    {
+      "rank": 2,
+      "title": "Update: Market Chatter: Gen Digital Makes Initial Takeover Approach for GoDaddy",
+      "publisher": "MT Newswires",
+      "date": "2026-09-25 11:52",
+      "impact": "low",
+      "category": "市場傳聞",
+      "reason": "僅為市場傳聞的更新，確認了收購意向，但未有具體交易條款或進展，市場反應已在先前價格中反映。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

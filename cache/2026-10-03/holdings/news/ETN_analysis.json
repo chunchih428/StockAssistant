@@ -1,0 +1,102 @@
+{
+  "ticker": "ETN",
+  "company": "Eaton",
+  "analysis_date": "2026-10-01",
+  "source_file": "cache/2026-10-01/holdings/news/ETN.json",
+  "summary": {
+    "total_articles": 17,
+    "bullish_count": 11,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Eaton 透過收購 COL Group 與擴大美國製造產能，持續強化在資料中心與電網現代化領域的長期成長動能，並獲得分析師正面評級支持。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Eaton signs agreement to acquire COL Group, expanding manufacturing capacity and capabilities for data center and utility markets in EMEA",
+      "publisher": "Yahoo",
+      "date": "2026-09-25 10:45",
+      "impact": "high",
+      "category": "併購案",
+      "reason": "Eaton 以 9.23 億美元收購 COL Group，旨在擴大歐洲、中東與非洲 (EMEA) 地區的製造產能與資料中心業務，此舉被視為強化長期競爭力的關鍵策略。"
+    },
+    {
+      "rank": 2,
+      "title": "Wells Fargo Initiates Coverage On Eaton Corp with Overweight Rating, Announces Price Target of $503",
+      "publisher": "Benzinga",
+      "date": "2026-09-25 09:17",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "富國銀行分析師 Stephen Tusa 給予 Eaton「加碼」(Overweight) 評級，並設定 503 美元的目標價，顯示市場對其成長前景的高度信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Could Eaton Corporation (ETN)’s $242 Million Expansion Power its Next Data Center Growth Phase?",
+      "publisher": "Yahoo",
+      "date": "2026-09-24 20:30",
+      "impact": "medium",
+      "category": "資本支出",
+      "reason": "公司投入 2.42 億美元擴大美國製造產能，直接回應資料中心對電力設備的強勁需求，有助於鞏固其市場領導地位。"
+    },
+    {
+      "rank": 4,
+      "title": "Eaton Trades at a Premium to Industry: What Investors Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-09-30 16:24",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管股價處於溢價狀態，但報告強調其在資料中心、電網現代化與航太領域的成長動能強勁，支撐了其高估值。"
+    },
+    {
+      "rank": 5,
+      "title": "Eaton, AMD, SpaceX And A Health Care Stock: CNBC’s ‘Final Trades’",
+      "publisher": "Benzinga",
+      "date": "2026-09-30 08:07",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "CNBC 交易員將 Eaton 列入投資組合推薦名單，反映出市場對該公司在工業與科技領域整合能力的認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Eaton (ETN) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "publisher": "Yahoo",
+      "date": "2026-09-28 20:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 1.95%，表現弱於大盤，主要反映短期獲利了結壓力與市場波動。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Eaton (ETN) Priced Beyond What Its Cash Flow Can Support?",
+      "publisher": "Yahoo",
+      "date": "2026-09-25 03:11",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "市場對於 Eaton 近期股價漲幅是否過度偏離現金流支撐提出質疑，提醒投資人關注估值過高的風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Vertiv (VRT) vs. Eaton (ETN): Which AI Power Stock Is the Better Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-09-28 20:11",
+      "impact": "low",
+      "category": "產業比較",
+      "reason": "文章對比 Eaton 與 Vertiv 在 AI 電力設備領域的競爭力，未給出明確買賣建議，僅提供投資人產業分析視角。"
+    },
+    {
+      "rank": 2,
+      "title": "Zacks Industry Outlook Highlights Eaton, Emerson Electric, A. O. Smith and EnerSys",
+      "publisher": "Yahoo",
+      "date": "2026-09-25 08:42",
+      "impact": "low",
+      "category": "產業報告",
+      "reason": "Zacks 針對工業設備產業進行展望分析，將 Eaton 列為重點觀察對象，屬於中性的產業趨勢報導。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
