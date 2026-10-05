@@ -1,0 +1,93 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla",
+  "analysis_date": "2026-10-05",
+  "source_file": "cache/2026-10-05/holdings/news/TSLA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 6,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Tesla 第三季交付量優於預期帶動股價上漲，市場焦點轉向 Robotaxi 與 Optimus 等長期成長動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Tesla reports 486,532 vehicle deliveries for third quarter, topping expectations",
+      "publisher": "CNBC",
+      "date": "2026-10-02 09:20",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "第三季交付量達 486,532 輛，顯著優於市場預期，成為推動股價上漲的核心催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Dan Ives Explains Why 2027 Could Be Tesla's Golden Year with Robotaxis and Optimus",
+      "publisher": "Yahoo",
+      "date": "2026-10-05 00:53",
+      "impact": "medium",
+      "category": "市場展望",
+      "reason": "分析師 Dan Ives 看好 Robotaxi 與 Optimus 機器人將使 2027 年成為 Tesla 的黃金年份，強化長期投資信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Tesla Stock Rises Overnight After Musk Says ‘Something May Come Of’ TSMC Talks On Terafab",
+      "publisher": "Yahoo",
+      "date": "2026-10-05 03:55",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "Elon Musk 暗示與 TSMC 在 Terafab 項目上有潛在合作機會，市場對其晶片製造與技術整合前景持正面態度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Tesla Robotaxi's Nighttime Problem? Elon Musk Says It's 'Grey Kittens on Grey Tarmac'",
+      "publisher": "Benzinga",
+      "date": "2026-10-04 04:44",
+      "impact": "medium",
+      "category": "產品技術",
+      "reason": "Elon Musk 公開承認 Robotaxi 在夜間辨識物體存在技術挑戰，顯示自動駕駛技術距離完全成熟仍有障礙。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla Delays Roadster Reveal",
+      "publisher": "Benzinga",
+      "date": "2026-10-04 10:00",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "Roadster 車型發表再度延遲，反映出公司在產品時程控管上的不確定性。"
+    },
+    {
+      "rank": 3,
+      "title": "You Can Do Better Than Tesla. Buy Micron Instead.",
+      "publisher": "Yahoo",
+      "date": "2026-10-04 17:50",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "部分分析師認為 Tesla 目前估值過高，相較於其他半導體產業標的，投資吸引力相對較弱。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Tesla. SpaceX. Starlink. James Altucher Says the Experts Called All Three Dead, and They're Doing It Again",
+      "publisher": "Yahoo",
+      "date": "2026-10-04 13:00",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "針對市場對 Musk 旗下公司長期以來的懷疑論進行反思，屬於觀點類文章，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
+      "publisher": "CNBC",
+      "date": "2026-10-02 12:56",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為盤中波動整理，未提供新的基本面資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

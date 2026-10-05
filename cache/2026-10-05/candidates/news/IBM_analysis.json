@@ -1,0 +1,93 @@
+{
+  "ticker": "IBM",
+  "company": "International Business Machines Corporation",
+  "analysis_date": "2026-10-05",
+  "source_file": "cache/2026-10-05/candidates/news/IBM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "IBM 透過推動地端 AI 部署策略與高層人事調整獲得市場認可，並受惠於 Accenture 強勁財報帶動的科技諮詢產業復甦預期。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "IBM Jumps 5% as Bob Coding Agent Gains Self-Hosted Deployment",
+      "publisher": "Yahoo",
+      "date": "2026-10-01 13:23",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "IBM 擴展其 Bob 編碼代理至地端部署，此舉直接回應企業對資料隱私與安全的需求，成為推動股價上漲的核心催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Accenture Soars 23% as Record Bookings Dispel AI Demand Fears; IBM Climbs 5%",
+      "publisher": "Yahoo",
+      "date": "2026-10-01 14:11",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Accenture 發布強勁財報，顯示 AI 諮詢需求依然旺盛，消除了市場對科技諮詢產業成長放緩的擔憂，連帶提振 IBM 股價。"
+    },
+    {
+      "rank": 3,
+      "title": "IBM Elects Frank Baker to its Board of Directors",
+      "publisher": "Yahoo",
+      "date": "2026-10-01 20:15",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "任命私募股權高管 Frank Baker 加入董事會，市場預期將強化 IBM 在資本配置與 AI 基礎設施領域的策略執行力。"
+    },
+    {
+      "rank": 4,
+      "title": "Secure File Transfer Market Forecasts Growth from $5.69B (2026) to $8.34B by 2031",
+      "publisher": "Yahoo",
+      "date": "2026-10-02 08:04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "IBM 被列為安全檔案傳輸市場的主要參與者，該市場預計將持續成長，有利於 IBM 長期營收穩定性。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "IBM (IBM) Stock Could Be 18% Undervalued Following Z Shortfall Scrutiny",
+      "publisher": "Yahoo",
+      "date": "2026-10-02 15:06",
+      "impact": "medium",
+      "category": "法律監管",
+      "reason": "儘管提及股價被低估，但文中指出近期面臨法律審查與業績未達預期的壓力，對股價短期表現構成負面影響。"
+    },
+    {
+      "rank": 2,
+      "title": "New IBM CHRO Study: Canadian Employees Worry AI Is Eroding Skills",
+      "publisher": "Yahoo",
+      "date": "2026-10-02 04:01",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "研究顯示員工對 AI 侵蝕技能的擔憂，反映出企業在推動 AI 轉型時可能面臨的社會與內部組織阻力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "What Should IBM Stock Investors Be Watching Now?",
+      "publisher": "Yahoo",
+      "date": "2026-10-02 09:22",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章旨在引導投資人關注公司基本面與潛在問題，屬於中性的投資分析觀點，未提供明確買賣建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Quantum Computing Is Having a Moment",
+      "publisher": "Yahoo",
+      "date": "2026-10-02 07:00",
+      "impact": "low",
+      "category": "技術發展",
+      "reason": "探討量子運算產業的整體趨勢，雖然 IBM 是領先者，但該技術對短期財務貢獻仍不明確。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

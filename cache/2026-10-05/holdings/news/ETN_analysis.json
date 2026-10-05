@@ -1,0 +1,93 @@
+{
+  "ticker": "ETN",
+  "company": "Eaton",
+  "analysis_date": "2026-10-05",
+  "source_file": "cache/2026-10-05/holdings/news/ETN.json",
+  "summary": {
+    "total_articles": 16,
+    "bullish_count": 10,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司透過擴建奧地利廠房與收購 COL Group 等策略，積極布局電氣化與資料中心市場，獲分析師看好長期成長動能。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Eaton Increases European Manufacturing Capacity With 5,000 m² Schrems Expansion",
+      "publisher": "Benzinga",
+      "date": "2026-10-01 03:47",
+      "impact": "high",
+      "category": "產能擴張",
+      "reason": "公司擴建奧地利 Schrems 廠房以應對電氣化與關鍵基礎設施需求，此舉直接強化歐洲市場競爭力，為長期營收成長提供實質支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Eaton to acquire COL Group for $923m",
+      "publisher": "Yahoo",
+      "date": "2026-09-28 08:21",
+      "impact": "high",
+      "category": "併購活動",
+      "reason": "以 9.23 億美元收購義大利 COL Group，旨在強化 EMEA 地區的資料中心電力分配能力，符合公司轉型策略。"
+    },
+    {
+      "rank": 3,
+      "title": "Eaton Analyst Sees Strong Orders, Raises 2027 EPS Forecast",
+      "publisher": "Yahoo",
+      "date": "2026-10-02 17:55",
+      "impact": "high",
+      "category": "財報預測",
+      "reason": "執行長 Paulo Ruiz 指出訂單強勁，分析師隨即上調 2027 年每股盈餘 (EPS) 預測，顯示市場對其獲利能力信心增強。"
+    },
+    {
+      "rank": 4,
+      "title": "Can Eaton's Strategic Acquisitions Boost Further Long-Term Growth?",
+      "publisher": "Yahoo",
+      "date": "2026-09-28 16:07",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出收購策略有效擴展 AI 資料中心與航太領域版圖，有助於提升長期營收與市場份額。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Eaton Trades at a Premium to Industry: What Investors Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-09-30 16:24",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "指出 Eaton 目前股價相較於同業存在溢價，反映市場對其高成長預期，若未來成長放緩可能面臨估值修正風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Eaton (ETN) Registers a Bigger Fall Than the Market",
+      "publisher": "Yahoo",
+      "date": "2026-09-28 20:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "單日股價下跌 1.95 %，表現弱於大盤，反映短期獲利了結賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Vertiv (VRT) vs. Eaton (ETN): Which AI Power Stock Is the Better Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-09-28 20:11",
+      "impact": "low",
+      "category": "產業比較",
+      "reason": "針對 AI 電力供應領域進行同業比較，未給出明確買賣建議，僅提供投資人產業背景分析。"
+    },
+    {
+      "rank": 2,
+      "title": "Eaton Corporation, PLC (ETN) is Attracting Investor Attention",
+      "publisher": "Yahoo",
+      "date": "2026-10-01 12:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅報導投資人對該股關注度提升，屬於市場情緒觀察，無具體基本面利多或利空消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,66 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy",
+  "analysis_date": "2026-10-05",
+  "source_file": "cache/2026-10-05/holdings/news/CEG.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 16,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Constellation Energy 與 Amazon 簽署為期 20 年的核能購電協議，顯著提升營收能見度並推動 Calvert Cliffs 核電廠的擴建投資。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Constellation and Amazon Announce 20-Year Power Purchase Agreement Adding 190 Megawatts of Nuclear Capacity at Calvert Cliffs",
+      "publisher": "Yahoo",
+      "date": "2026-09-30 20:00",
+      "impact": "high",
+      "category": "商業合作",
+      "reason": "這是近期最核心的利多消息，雙方簽署 20 年長約，涵蓋 690 MW 核電供應，並帶動 30 億美元的基礎設施投資，確立了公司在 AI 電力需求成長下的長期成長動能。"
+    },
+    {
+      "rank": 2,
+      "title": "Constellation Energy Has Crushed Investors in 2026: 75% Gains Are Coming According to One Pro Analyst on Wall Street",
+      "publisher": "Yahoo",
+      "date": "2026-10-01 11:15",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "華爾街分析師看好公司擁有全美最大的核電艦隊，且財測持續上調，預期未來仍有顯著上漲空間。"
+    },
+    {
+      "rank": 3,
+      "title": "Constellation Energy (CEG) Could Be 26% Below Fair Value As Amazon Deal Lands",
+      "publisher": "Yahoo",
+      "date": "2026-10-04 10:06",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "基於 Amazon 合作案的落地，市場評估該股目前股價仍低於公允價值約 26 %，具備投資吸引力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "CEG, NRG, TLN Stocks In Spotlight: TD Cowen Warns Of ‘Acute’ Uncertainty After FERC Delays PJM’s Plan To Meet AI Demand",
+      "publisher": "Yahoo",
+      "date": "2026-09-30 17:51",
+      "impact": "medium",
+      "category": "法規監管",
+      "reason": "FERC 延遲了 PJM 滿足 AI 電力需求的計畫，引發市場對電力供應鏈擴張速度的短期不確定性擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Gain as Iran Receives US Proposal To Restore Ceasefire",
+      "publisher": "Benzinga",
+      "date": "2026-10-01 08:39",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導主要討論總體經濟與地緣政治對大盤的影響，CEG 僅被提及為市場焦點股之一，無特定公司基本面消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

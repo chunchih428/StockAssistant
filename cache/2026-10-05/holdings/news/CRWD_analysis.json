@@ -1,0 +1,102 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-10-05",
+  "source_file": "cache/2026-10-05/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 16,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "人工智慧 需求強勁推動 CrowdStrike 業務成長，股價屢創 52 週新高並獲分析師調升目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "TD Cowen Maintains Buy on CrowdStrike Holdings, Raises Price Target to $280",
+      "publisher": "Benzinga",
+      "date": "2026-10-02 09:55",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師 Shaul Eyal 維持買入評級並上調目標價至 280 美元，顯示市場對其成長動能的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Did NVDA, HPE, CRWD Stocks Rise To 52-Week Highs Last Week?",
+      "publisher": "Yahoo",
+      "date": "2026-10-05 03:47",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價觸及 52 週新高，反映出市場對其在 AI 領域的強勁需求與產業順風的正面回饋。"
+    },
+    {
+      "rank": 3,
+      "title": "CrowdStrike Holdings (CRWD) Falcon Is Now Available In An AI Marketplace",
+      "publisher": "Yahoo",
+      "date": "2026-09-30 11:13",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "將 Falcon 平台整合至 OpenAI Marketplace，有助於擴大企業級客戶觸及範圍並強化 AI 競爭優勢。"
+    },
+    {
+      "rank": 4,
+      "title": "Will the Rising Adoption of AI Agents Boost CRWD's Identity Business?",
+      "publisher": "Yahoo",
+      "date": "2026-10-01 14:21",
+      "impact": "medium",
+      "category": "業務發展",
+      "reason": "AI 代理的普及增加了對身分驗證與存取安全的需求，直接利好 CrowdStrike 的身分安全業務。"
+    },
+    {
+      "rank": 5,
+      "title": "2 Cybersecurity Stocks With Serious Long-Term Wealth-Building Potential",
+      "publisher": "Yahoo",
+      "date": "2026-10-03 07:35",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "長期成長潛力獲得市場認可，與 Palo Alto Networks 並列為網路安全領域的成長首選。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike (CRWD) Stock May Be Overvalued On Blueprint Alliance News",
+      "publisher": "Yahoo",
+      "date": "2026-09-30 21:14",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "市場觀點認為在股價強勁上漲後，目前的估值可能已過高，存在回調風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Salesforce vs. CrowdStrike: Which Tech Stock Is a Better Buy in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-10-02 14:49",
+      "impact": "low",
+      "category": "投資比較",
+      "reason": "對比 Salesforce 的獲利能力與 CrowdStrike 的高估值，提供投資人不同維度的考量，無明確多空導向。"
+    },
+    {
+      "rank": 2,
+      "title": "Issues with AI models only going to get worse, says CrowdStrike President Michael Sentonas",
+      "publisher": "CNBC",
+      "date": "2026-10-02 17:25",
+      "impact": "low",
+      "category": "產業趨勢",
+      "reason": "總裁針對 AI 模型風險發表評論，雖強調挑戰，但同時也暗示了對安全解決方案的持續需求。"
+    },
+    {
+      "rank": 3,
+      "title": "Is CrowdStrike Stock Paying You Enough For The Swings?",
+      "publisher": "Yahoo",
+      "date": "2026-09-30 15:40",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "探討股價波動性與報酬率的關係，屬於中性的交易策略分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
