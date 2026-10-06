@@ -1,0 +1,37 @@
+{
+  "ticker": "CGNX",
+  "company": "Cognex",
+  "analysis_date": "2026-10-05",
+  "source_file": "cache/2026-10-05/candidates/news/CGNX.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 0,
+    "bearish_count": 2,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "儘管 Cognex 在 AI 與機器人領域具備技術優勢，但市場擔憂短期估值過高及成長動能受限，導致分析師給予保守評級。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cognex: Wait For A Better Time To Buy",
+      "publisher": "SeekingAlpha",
+      "date": "2026-10-03 07:23",
+      "impact": "medium",
+      "category": "投資評級",
+      "reason": "分析師認為雖然 Cognex 擁有 AI 增強的差異化產品組合，但目前股價估值過高，建議投資人等待更好的進場時機，維持「持有」評級。"
+    },
+    {
+      "rank": 2,
+      "title": "Cognex: AI And Robotics Have Potential, But Near-Term Upside Looks Limited",
+      "publisher": "SeekingAlpha",
+      "date": "2026-09-30 23:08",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "報告指出公司受惠於物流、包裝及半導體需求，且 AI 與 RealSense 技術具備長期潛力，但短期內股價上漲空間有限，反映市場對其近期獲利成長的審慎態度。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

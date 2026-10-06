@@ -1,0 +1,47 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-10-05",
+  "source_file": "cache/2026-10-05/candidates/news/OUST.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "Ouster 憑藉 Rev8 產品採用與智慧基礎設施領域的強勁成長，持續擴大在 Physical AI 感測市場的應用範疇。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ouster Partners with Seneca to Advance Autonomous Drone Technology for Wildfire Response Operations",
+      "publisher": "Yahoo",
+      "date": "2026-10-01 11:00",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "透過與 Seneca 合作將 LiDAR 技術導入無人機進行森林大火救援，顯示 Ouster 在 Physical AI 領域的應用場景持續擴大，有助於提升市場滲透率。"
+    },
+    {
+      "rank": 2,
+      "title": "OUST vs. INVZ: Which LiDAR Manufacturer Is Worth Holding Onto Now?",
+      "publisher": "Yahoo",
+      "date": "2026-09-28 14:51",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析指出 Ouster 在 Rev8 產品採用率與智慧基礎設施專案上表現優於競爭對手 Innoviz，強勁的營收成長動能使其在 LiDAR 產業中更具投資價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ouster, Inc. (OUST) Dips More Than Broader Market: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-09-29 21:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 2.2 %，表現弱於大盤，主要反映短期市場交易波動與獲利了結賣壓，並非公司基本面出現惡化。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}
