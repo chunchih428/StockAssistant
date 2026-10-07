@@ -1,0 +1,138 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-10-05",
+  "source_file": "cache/2026-10-05/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 5,
+    "bearish_count": 8,
+    "neutral_count": 7,
+    "overall_sentiment": "mixed",
+    "key_theme": "Amazon 積極布局 AI 基礎設施與能源合作，但面臨數據中心社區反彈、AI 代理競爭威脅及勞資糾紛等多重挑戰。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "What a 20-Year Deal With Amazon Means for Constellation Energy Stock",
+      "publisher": "Yahoo",
+      "date": "2026-10-04 18:30",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "Amazon 投資 30 億美元於核能電廠，確保數據中心長期能源供應，展現其在 AI 基礎設施建設的領先布局。"
+    },
+    {
+      "rank": 2,
+      "title": "Narrative AI agents will threaten Amazon is false, says Rosenblatt's Scott Devitt",
+      "publisher": "CNBC",
+      "date": "2026-09-30 17:25",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析師反駁 AI 代理將威脅 Amazon 電商地位的觀點，為市場對 AI 競爭的過度擔憂提供正面緩解。"
+    },
+    {
+      "rank": 3,
+      "title": "The S&P 500 Is Not Enough: My 3-Stock Starter Portfolio for New Investors",
+      "publisher": "Yahoo",
+      "date": "2026-10-03 17:35",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "將 Amazon 列為投資組合核心成長股，反映市場對其長期競爭力的認可。"
+    },
+    {
+      "rank": 4,
+      "title": "Amazon vs. Alphabet: Which AI Cloud Stock Makes the Better Case After the Spending Bill?",
+      "publisher": "Yahoo",
+      "date": "2026-10-04 23:24",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "指出 AWS 的營運利潤幾乎是 Google Cloud 的兩倍，凸顯其在雲端市場的獲利能力優勢。"
+    },
+    {
+      "rank": 5,
+      "title": "\"Boy Room\" made about $15,000 on TikTok before Amazon partnership",
+      "publisher": "Yahoo",
+      "date": "2026-10-03 11:00",
+      "impact": "low",
+      "category": "行銷合作",
+      "reason": "透過網紅行銷合作擴大品牌影響力，有助於提升電商平台的用戶黏著度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Amazon AWS CEO reveals surprising risk to AI stocks and U.S. economy",
+      "publisher": "Yahoo",
+      "date": "2026-10-04 16:03",
+      "impact": "high",
+      "category": "營運風險",
+      "reason": "數據中心面臨地方社區對電力與水資源的抗議，增加基礎設施擴張的法規與社會成本。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon Wants to Move $8 Billion in Nvidia Chips Off Its Books",
+      "publisher": "Yahoo",
+      "date": "2026-10-04 15:38",
+      "impact": "medium",
+      "category": "財務結構",
+      "reason": "透過特殊目的公司將 80 億美元晶片資產移出資產負債表，引發市場對 AI 資本支出模式與財務透明度的疑慮。"
+    },
+    {
+      "rank": 3,
+      "title": "Meta's Muse AI: Good or Bad for E-Commerce? Shopify and Amazon Are Taking Opposite Approaches.",
+      "publisher": "Yahoo",
+      "date": "2026-10-03 22:50",
+      "impact": "medium",
+      "category": "競爭威脅",
+      "reason": "Meta 的 AI 代理可能改變購物路徑，對 Amazon 的電商市占率構成潛在結構性威脅。"
+    },
+    {
+      "rank": 4,
+      "title": "Amazon (AMZN) Workers Strike At New York SWF1 Warehouse Over Safety Concerns",
+      "publisher": "Yahoo",
+      "date": "2026-10-02 17:08",
+      "impact": "low",
+      "category": "勞資糾紛",
+      "reason": "倉庫員工罷工反映內部管理與勞工安全問題，可能影響物流效率與企業形象。"
+    },
+    {
+      "rank": 5,
+      "title": "Amazon Stock Is Underperforming Amid Agentic AI Fears",
+      "publisher": "Yahoo",
+      "date": "2026-10-04 15:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價表現落後大盤，主要受 AI 代理技術帶來的市場恐慌情緒壓抑。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "MU, HPE, AMZN, META, SPCX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
+      "publisher": "Yahoo",
+      "date": "2026-10-05 01:54",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅提及散戶關注度，未提供實質基本面影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon Is Spending Another $1 Billion on AI Data Centers",
+      "publisher": "Yahoo",
+      "date": "2026-10-04 15:16",
+      "impact": "low",
+      "category": "資本支出",
+      "reason": "說明數據中心相關支出，屬於常規業務擴張範疇。"
+    },
+    {
+      "rank": 3,
+      "title": "Should You Buy Amazon Stock (AMZN) in October?",
+      "publisher": "Yahoo",
+      "date": "2026-10-02 22:50",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "提供技術面與基本面回顧，未給出明確買賣訊號。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,74 @@
+{
+  "ticker": "GEN",
+  "company": "Gen Digital",
+  "analysis_date": "2026-10-05",
+  "source_file": "cache/2026-10-05/candidates/news/GEN.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 5,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司重申 FY2027 與 Q2 財測優於市場預期，且 CEO 對併購傳聞的正面回應帶動股價強勁反彈。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Reported earlier, Gen Digital Affirms FY2027 Adj EPS Guidance of $2.87-$2.97 vs $2.90 Est; Affirms FY2027 Sales Guidance of $5.375B-$5.475B vs $5.373B Est",
+      "publisher": "Benzinga",
+      "date": "2026-09-29 04:15",
+      "impact": "high",
+      "category": "財報預測",
+      "reason": "公司重申 FY2027 財測，調整後 EPS 區間中位數優於分析師預期，且營收展望維持在區間高標，顯示業務營運穩健。"
+    },
+    {
+      "rank": 2,
+      "title": "Gen Digital CEO addresses GoDaddy acquisition rumors",
+      "publisher": "Yahoo",
+      "date": "2026-09-28 21:11",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "CEO Vincent Pilette 對併購傳聞進行回應，市場解讀正面，帶動盤後股價上漲 5 %。"
+    },
+    {
+      "rank": 3,
+      "title": "Gen Digital (GEN) Soars 5.6%: Is Further Upside Left in the Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-10-01 08:05",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價在成交量放大下強勁上漲 5.6 %，顯示市場買盤回籠，動能轉強。"
+    },
+    {
+      "rank": 4,
+      "title": "Gen Digital (GEN) Loses 32.7% in 4 Weeks, Here's Why a Trend Reversal May be Around the Corner",
+      "publisher": "Yahoo",
+      "date": "2026-09-29 12:35",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "分析指出股價在 4 週內下跌 32.7 % 後已進入超賣區，賣壓可能已耗盡，具備反彈潛力。"
+    },
+    {
+      "rank": 5,
+      "title": "Reported earlier, Gen Digital Affirms Q2 Adj EPS Guidance of $0.71-$0.73 vs $0.69 Est",
+      "publisher": "Benzinga",
+      "date": "2026-09-29 04:13",
+      "impact": "medium",
+      "category": "財報預測",
+      "reason": "Q2 財測優於市場預期，且營運追蹤數據顯示處於財測區間高標，為短期股價提供支撐。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Stock of the Day: Is This the Bottom for Gen Digital?",
+      "publisher": "Benzinga",
+      "date": "2026-09-28 16:15",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "探討股價是否觸及 20.50 美元支撐位，屬於技術面觀察，對基本面影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

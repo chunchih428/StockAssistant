@@ -1,0 +1,129 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-10-05",
+  "source_file": "cache/2026-10-05/candidates/news/NFLX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 4,
+    "bearish_count": 13,
+    "neutral_count": 3,
+    "overall_sentiment": "bearish",
+    "key_theme": "共同執行長 Ted Sarandos 公開承認成長放緩，引發市場對 Netflix 在 YouTube 競爭壓力下用戶參與度下滑的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Netflix Stock Just Got a Stunning Upgrade After a Brutal 2026 Selloff",
+      "publisher": "Yahoo",
+      "date": "2026-10-01 23:50",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "德意志銀行 (Deutsche Bank) 給予升評，認為市場過度反應，忽略了 Netflix 在國際市場的長期成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Disney Licenses Slew of Titles to Netflix",
+      "publisher": "Benzinga",
+      "date": "2026-10-02 11:16",
+      "impact": "low",
+      "category": "內容授權",
+      "reason": "透過與 Disney 達成授權協議，引入《冰原歷險記》等熱門 IP，有助於豐富內容庫並提升用戶黏著度。"
+    },
+    {
+      "rank": 3,
+      "title": "Don't Sell Netflix: NFLX Is the One Streaming Pick I'd Add to Today",
+      "publisher": "Yahoo",
+      "date": "2026-10-04 23:35",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "儘管近期股價表現疲軟，但分析師認為其作為串流媒體龍頭的長期價值未變，建議逢低布局。"
+    },
+    {
+      "rank": 4,
+      "title": "Netflix (NFLX) Is Pushing Further Into Live Programming And Cloud Gaming",
+      "publisher": "Yahoo",
+      "date": "2026-10-02 00:10",
+      "impact": "low",
+      "category": "業務轉型",
+      "reason": "公司積極拓展直播節目與雲端遊戲，試圖建立多元化的內容護城河，以應對單一串流業務的成長瓶頸。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Netflix co-CEO says streaming giant \"isn't growing as fast as I want us to\"",
+      "publisher": "Yahoo",
+      "date": "2026-10-01 17:36",
+      "impact": "high",
+      "category": "高層發言",
+      "reason": "共同執行長 Ted Sarandos 親口承認成長速度不如預期，此言論直接導致市場信心動搖，並引發後續分析師降評。"
+    },
+    {
+      "rank": 2,
+      "title": "YouTube's Lead Over Netflix in TV Viewing Keeps Growing",
+      "publisher": "Yahoo",
+      "date": "2026-10-03 23:58",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "數據顯示 YouTube 在電視觀看時間的市占率持續超越 Netflix，顯示串流媒體面臨嚴峻的注意力爭奪戰。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Netflix Lost 14% in September",
+      "publisher": "Yahoo",
+      "date": "2026-10-02 01:05",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "九月份股價下跌 14%，主要反映了市場對用戶參與度趨勢疲軟的擔憂，投資人信心明顯不足。"
+    },
+    {
+      "rank": 4,
+      "title": "Netflix’s Problem Isn’t Subscribers, It’s Losing the Attention War",
+      "publisher": "Yahoo",
+      "date": "2026-10-01 13:00",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "分析指出 Netflix 的核心問題在於無法在注意力經濟中勝出，多元化嘗試（遊戲、直播）被質疑可能稀釋品牌核心價值。"
+    },
+    {
+      "rank": 5,
+      "title": "$1,000 Invested in Netflix (NFLX) at the Start of 2026 Is Worth This Much Today",
+      "publisher": "Yahoo",
+      "date": "2026-10-02 08:49",
+      "impact": "low",
+      "category": "財務表現",
+      "reason": "強調今年以來股價表現不佳，導致投資人虧損，加劇了市場對其成長動能的負面情緒。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Dow, S&P 500, Nasdaq Futures Rise Ahead Of Key Jobs Report",
+      "publisher": "Yahoo",
+      "date": "2026-10-02 02:37",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此新聞主要討論總體經濟數據（就業報告）對大盤的影響，Netflix 僅被列為關注個股之一，無特定利多或利空。"
+    },
+    {
+      "rank": 2,
+      "title": "Cramer's Made Dash: Netflix",
+      "publisher": "CNBC",
+      "date": "2026-09-29 09:36",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "Jim Cramer 的日常評論，未提供具體的財務預測或重大變動，屬於市場雜訊。"
+    },
+    {
+      "rank": 3,
+      "title": "Why You Should Think About Netflix Differently Now",
+      "publisher": "Yahoo",
+      "date": "2026-10-02 14:58",
+      "impact": "low",
+      "category": "業務轉型",
+      "reason": "探討公司策略轉型，但未明確指出對股價的具體影響，僅為觀點分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

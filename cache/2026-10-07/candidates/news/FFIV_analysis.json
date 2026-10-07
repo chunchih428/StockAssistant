@@ -1,0 +1,47 @@
+{
+  "ticker": "FFIV",
+  "company": "F5",
+  "analysis_date": "2026-10-05",
+  "source_file": "cache/2026-10-05/candidates/news/FFIV.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 1,
+    "bearish_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "F5 獲得 IDC MarketScape 產業領導地位認可，但市場分析認為其股價估值已趨於充分反映利多。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "F5 Named a Leader in the 2026 IDC MarketScape for Worldwide WAAP Platforms for the Second Time",
+      "publisher": "Yahoo",
+      "date": "2026-10-01 13:00",
+      "impact": "medium",
+      "category": "產品認證",
+      "reason": "F5 連續兩年獲 IDC MarketScape 評選為全球 WAAP 平台領導者，顯示其在應用程式與 API 安全領域的技術競爭力穩固，有助於提升客戶信任度與市場市佔率。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "F5 (FFIV) Wins IDC MarketScape Nod On A Story That Looks Fully Valued",
+      "publisher": "Yahoo",
+      "date": "2026-10-02 11:10",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "此篇報導涵蓋了 IDC 獲獎消息，但重點在於分析師認為該利多已充分反映在當前股價中，缺乏進一步推升股價的動能，故歸類為中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Corning (GLW) Stock Outpacing Its Computer and Technology Peers This Year?",
+      "publisher": "Yahoo",
+      "date": "2026-09-29 12:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該文章主要進行產業同儕績效比較，僅將 F5 作為對照組，並未提供關於 F5 營運或財務狀況的實質性分析，對股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
