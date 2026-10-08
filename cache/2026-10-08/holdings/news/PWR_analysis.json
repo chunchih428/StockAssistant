@@ -1,0 +1,93 @@
+{
+  "ticker": "PWR",
+  "company": "Quanta Services",
+  "analysis_date": "2026-10-08",
+  "source_file": "cache/2026-10-08/holdings/news/PWR.json",
+  "summary": {
+    "total_articles": 14,
+    "bullish_count": 11,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 資料中心建設帶動的電力基礎設施需求，Quanta Services 憑藉強勁的積壓訂單與現金流表現，持續獲得市場看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Big Tech Will Spend $735 Billion on Data Centers. This Boring Electrical Contractor Collects the Checks.",
+      "publisher": "Yahoo",
+      "date": "2026-10-02 09:15",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "指出 Quanta Services 是 AI 巨頭資本支出下的核心受益者，負責關鍵的電力傳輸與變電站建設，具備長期成長護城河。"
+    },
+    {
+      "rank": 2,
+      "title": "Quanta Targets Up to $2.5B FCF: Can Cash Momentum Stay Strong?",
+      "publisher": "Yahoo",
+      "date": "2026-10-05 15:29",
+      "impact": "high",
+      "category": "財務分析",
+      "reason": "公司設定 2026 年自由現金流目標達 20 億至 25 億美元，顯示其營運效率與收款能力強勁，支撐股價動能。"
+    },
+    {
+      "rank": 3,
+      "title": "Jim Cramer: This 'Terrific' Industrial Stock Is 'Done Going Down'",
+      "publisher": "Benzinga",
+      "date": "2026-10-05 07:58",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名財經評論員 Jim Cramer 公開推薦，認為該工業股已擺脫下跌趨勢，具備成長潛力。"
+    },
+    {
+      "rank": 4,
+      "title": "Quanta Services (NYSE:PWR) Shows High Growth and Improving Fundamentals",
+      "publisher": "ChartMill",
+      "date": "2026-10-07 11:21",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "透過量化篩選模型顯示公司在盈餘修正、營收成長及現金流表現上均優於市場預期。"
+    },
+    {
+      "rank": 5,
+      "title": "2 Growth Stocks With Strong Earnings Prospects to Buy in October",
+      "publisher": "Yahoo",
+      "date": "2026-10-01 18:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "將 Quanta Services 與 NVIDIA 並列為 10 月份具備強勁盈餘成長前景的投資標的。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Truist Securities Maintains Buy on Quanta Services, Lowers Price Target to $945",
+      "publisher": "Benzinga",
+      "date": "2026-10-05 12:52",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "雖然維持買入評級，但下調目標價反映了市場對高估值環境下執行風險的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Quanta Services (PWR) Fully Priced After The Sector Rally And Cash Flow Lift?",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 09:19",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討在股價經歷 5.4% 的強勁反彈後，市場是否已充分反映其基本面利多，持保留觀察態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Quanta Services vs. MasTec: Is Better Cash Flow Worth a 73% Earnings Premium?",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 02:54",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "透過與同業 MasTec 比較，分析其 73% 的盈餘溢價是否合理，屬於估值合理性的中性探討。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

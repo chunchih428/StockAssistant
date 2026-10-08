@@ -1,0 +1,111 @@
+{
+  "ticker": "META",
+  "company": "Meta",
+  "analysis_date": "2026-10-08",
+  "source_file": "cache/2026-10-08/holdings/news/META.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "Meta 積極布局 AI 代理人與生物科技領域，市場看好其 AI 變現潛力與生態系擴張，儘管面臨監管調查與隱私疑慮。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Meta Platforms (META) Commits $300 Million To Biohub And Backs Indiana Solar",
+      "publisher": "Yahoo",
+      "date": "2026-10-08 02:11",
+      "impact": "high",
+      "category": "策略投資",
+      "reason": "Meta 投入 3 億美元參與 18 億美元的 AI 生物科技計畫，展現公司在 AI 應用場景的多元化布局，長期利好估值。"
+    },
+    {
+      "rank": 2,
+      "title": "Opinion: It Does Not Matter if Muse Generates “8% of Revenue” for Meta – Zuckerberg Can Win Regardless",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 19:15",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "德意志銀行分析師預測 Muse AI 代理人至 2030 年可貢獻 8% 營收，顯示市場對 Meta AI 變現能力的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots",
+      "publisher": "CNBC",
+      "date": "2026-10-06 14:15",
+      "impact": "medium",
+      "category": "產業合作",
+      "reason": "Meta 與 Walmart、Stripe 等巨頭建立 AI 代理人商業標準，有助於鞏固其在 AI 生態系統中的領導地位。"
+    },
+    {
+      "rank": 4,
+      "title": "Dan Niles: Public cloud compute will be next phase of Meta monetizing AI",
+      "publisher": "CNBC",
+      "date": "2026-10-05 12:15",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "投資專家指出公有雲運算將成為 Meta AI 變現的下一階段，為股價提供長期成長動能。"
+    },
+    {
+      "rank": 5,
+      "title": "Micron’s profits surge as Meta’s AI spending accelerates",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 14:36",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Meta 的 AI 資本支出持續增加，帶動供應鏈如 Micron 的獲利，間接驗證 Meta 在 AI 基礎建設的投入強度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "UK Opens Investigation Into Instagram Instants. Here’s What the Worst Case Means for Meta Stock.",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 10:21",
+      "impact": "medium",
+      "category": "法規監管",
+      "reason": "英國 Ofcom 對 Instagram Instants 展開調查，潛在的監管罰款或業務限制對股價構成短期壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Meta Muse is building dossiers on its 4 million users — and their friends",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 13:46",
+      "impact": "low",
+      "category": "隱私爭議",
+      "reason": "關於 Muse AI 建立用戶檔案的報導引發隱私擔憂，可能導致公眾輿論壓力與監管審查風險。"
+    },
+    {
+      "rank": 3,
+      "title": "A $37 million Meta scheme and five deputies earn a 'Godfather' 78 months in prison",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 17:44",
+      "impact": "low",
+      "category": "法律訴訟",
+      "reason": "涉及 Meta 廣告系統的詐騙案件判決，雖屬單一犯罪事件，但反映平台廣告生態系統的安全性挑戰。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Anthropic, OpenAI, Meta and Google executives testify under oath at NYC council meeting",
+      "publisher": "CNBC",
+      "date": "2026-10-05 14:01",
+      "impact": "low",
+      "category": "法規監管",
+      "reason": "高層出席聽證會屬於例行性監管溝通，未有具體負面結果，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Stocks are hitting records despite surging yields. Cramer explains why",
+      "publisher": "CNBC",
+      "date": "2026-10-05 18:18",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Jim Cramer 提及 Meta 協助推動大盤創新高，屬於市場情緒分析，非公司基本面變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

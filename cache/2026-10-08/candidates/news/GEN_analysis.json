@@ -1,0 +1,47 @@
+{
+  "ticker": "GEN",
+  "company": "Gen Digital",
+  "analysis_date": "2026-10-08",
+  "source_file": "cache/2026-10-08/candidates/news/GEN.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司發布 2027 財年第一季財報後股價表現強勁，市場正評估其作為價值型股票的投資吸引力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Gen Digital (GEN) Soars 5.6%: Is Further Upside Left in the Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-10-01 08:05",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價單日上漲 5.6 % 且成交量高於平均，顯示市場對公司近期表現與未來成長動能持高度樂觀態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Gen Digital Q1 2027 Earnings Call: Complete Transcript",
+      "publisher": "Benzinga",
+      "date": "2026-10-05 05:01",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "透過第一季財報會議內容，投資人可深入了解公司營運狀況與財務指標，為後續股價走勢提供基本面支撐。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "GEN or TT: Which Is the Better Value Stock Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 14:40",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "此類文章屬於比較性質的投資分析，旨在探討 GEN 與 TT 的價值投資屬性，並未提供具體利多或利空消息，對股價影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
