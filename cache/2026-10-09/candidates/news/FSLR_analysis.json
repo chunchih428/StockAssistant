@@ -1,0 +1,93 @@
+{
+  "ticker": "FSLR",
+  "company": "First Solar",
+  "analysis_date": "2026-10-08",
+  "source_file": "cache/2026-10-08/candidates/news/FSLR.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 2,
+    "bearish_count": 4,
+    "neutral_count": 3,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司面臨庫存過剩與關稅壓力等營運逆風，但透過專利訴訟保護技術優勢，且市場對即將到來的財報表現仍抱持期待。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "First Solar (FSLR) Could Be 34% Below Fair Value As Earnings Near",
+      "publisher": "Yahoo",
+      "date": "2026-10-03 01:10",
+      "impact": "medium",
+      "category": "投資評級",
+      "reason": "分析指出 FSLR 目前股價較公允價值折價約 34%，在財報公布前夕提供潛在的買入安全邊際。"
+    },
+    {
+      "rank": 2,
+      "title": "Will First Solar (FSLR) Beat Estimates Again in Its Next Earnings Report?",
+      "publisher": "Yahoo",
+      "date": "2026-10-01 15:10",
+      "impact": "low",
+      "category": "財報預測",
+      "reason": "基於公司過去優異的財報驚喜紀錄，市場預期其在即將到來的財報中可能再次超越分析師預期。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "How Investors Are Reacting To First Solar (FSLR) Inventory Glut, New Tariffs And Slower Project Starts",
+      "publisher": "Yahoo",
+      "date": "2026-10-02 17:09",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "整合了庫存過剩、15% 新關稅以及專案啟動放緩等三重利空，這些因素直接壓抑了公司的獲利能力與訂單成長動能。"
+    },
+    {
+      "rank": 2,
+      "title": "First Solar (FSLR) Faces 15% Tariff And Inventory Glut As Solar Pricing Stays Tight",
+      "publisher": "Yahoo",
+      "date": "2026-10-01 17:11",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "此篇與上述新聞主題重疊，強調太陽能板定價壓力持續，高庫存水位將導致新訂單獲利空間被壓縮。"
+    },
+    {
+      "rank": 3,
+      "title": "First Solar (FSLR) Stock Declines While Market Improves: Some Information for Investors",
+      "publisher": "Yahoo",
+      "date": "2026-10-01 20:45",
+      "impact": "low",
+      "category": "股價表現",
+      "reason": "反映公司股價在市場整體走揚時卻出現 -1.74% 的逆勢下跌，顯示短期賣壓較重。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "First Solar Files Patent Infringement Lawsuit Against JA Solar & American Panel Solutions",
+      "publisher": "Yahoo",
+      "date": "2026-10-01 20:44",
+      "impact": "medium",
+      "category": "法律訴訟",
+      "reason": "公司針對競爭對手發起專利侵權訴訟，雖有助於長期保護技術護城河，但短期內法律訴訟成本與不確定性增加，市場反應兩極。"
+    },
+    {
+      "rank": 2,
+      "title": "How to Play FSLR Stock as First Solar Wages an International Solar Panel Legal Battle",
+      "publisher": "Yahoo",
+      "date": "2026-10-06 12:45",
+      "impact": "low",
+      "category": "法律訴訟",
+      "reason": "針對上述專利訴訟的後續分析，探討投資人應如何應對法律戰帶來的波動，未提供新的基本面資訊。"
+    },
+    {
+      "rank": 3,
+      "title": "What Does NVIDIA Offer That First Solar Does Not?",
+      "publisher": "Yahoo",
+      "date": "2026-10-05 14:12",
+      "impact": "low",
+      "category": "產業分析",
+      "reason": "將 FSLR 與 NVIDIA 進行產業比較，雖兩者皆屬半導體範疇，但商業模式差異巨大，對 FSLR 股價無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

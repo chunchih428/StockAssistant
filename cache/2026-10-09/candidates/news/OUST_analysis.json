@@ -1,0 +1,56 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-10-08",
+  "source_file": "cache/2026-10-08/candidates/news/OUST.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "Ouster 透過深化無人機與 AI 視覺領域的策略合作，持續擴大其感測技術在工業與自動化市場的應用範疇。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ouster Partners with Seneca to Advance Autonomous Drone Technology for Wildfire Response Operations",
+      "publisher": "Yahoo",
+      "date": "2026-10-01 11:00",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "Ouster 與 Seneca 建立合作夥伴關係，將 Rev8 原生彩色光達整合至無人機系統中，有助於提升在森林大火應對等高價值工業領域的市佔率與技術影響力。"
+    },
+    {
+      "rank": 2,
+      "title": "AVerMedia and Stereolabs Accelerate AI Vision Deployment with NVIDIA JetPack 7.2",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 11:00",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "子公司 Stereolabs 透過與 AVerMedia 及 NVIDIA 的技術整合，強化了 AI 視覺部署能力，顯示 Ouster 在 Physical AI 生態系中的技術整合優勢。"
+    },
+    {
+      "rank": 3,
+      "title": "Is Ouster (OUST) Using Drone Lidar Partnerships To Quietly Redefine Its Autonomy Strategy?",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 00:16",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場分析指出 Ouster 正透過無人機光達合作案重新定義其自動化策略，顯示公司正積極轉型並開拓非傳統車用市場，具備長期成長潛力。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ouster, Inc. (OUST) Outpaces Stock Market Gains: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-10-06 21:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此為針對股價單日波動（+1.79%）的技術性回顧報導，未包含新的基本面消息，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
