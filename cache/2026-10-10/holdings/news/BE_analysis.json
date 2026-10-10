@@ -1,0 +1,66 @@
+{
+  "ticker": "BE",
+  "company": "Bloom Energy Corporation",
+  "analysis_date": "2026-10-08",
+  "source_file": "cache/2026-10-08/holdings/news/BE.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "Bloom Energy 受惠於 AI 資料中心對潔淨能源的強勁需求，透過擴產與市場看好帶動股價長期成長潛力，儘管短期股價波動劇烈。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy Is Building Like Demand Is About to Explode. Investors Need to Pay Attention.",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 03:41",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "公司積極擴建產能以應對預期中的需求爆發，顯示管理層對未來營收成長具備高度信心，且股價曾單日大漲 15 %，反映市場對其成長策略的正面回饋。"
+    },
+    {
+      "rank": 2,
+      "title": "Jim Cramer Says This Stock is His Favorite AI Power Play",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 09:09",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "知名財經評論員 Jim Cramer 將 Bloom Energy 定位為 AI 資料中心電力供應的首選標的，此類公開背書有助於提升機構投資人的關注度與市場情緒。"
+    },
+    {
+      "rank": 3,
+      "title": "What's Going On With Bloom Energy Stock Tuesday? — Bloom Energy (NYSE: BE) stock gains as clean fuel cell demand grows for AI data centers amid bullish analyst targets",
+      "publisher": "Benzinga",
+      "date": "2026-10-06 10:32",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "AI 資料中心對潔淨能源需求持續成長，加上分析師給予正面目標價，為股價提供了堅實的基本面支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Here's Why Bloom Energy (BE) Fell More Than Broader Market — Bloom Energy (BE) closed at $286.66 in the latest trading session, marking a -3.08% move from the prior day.",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 21:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 3.08 %，表現弱於大盤，主要反映了近期急漲後的獲利了結賣壓，屬於高波動成長股的正常技術性修正。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy (BE) Moved, So What Is Behind The Attention? — Bloom Energy (BE) just bought a 158,000 square foot building to expand its fuel cell production capacity",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 07:16",
+      "impact": "low",
+      "category": "企業營運",
+      "reason": "報導詳細說明了公司購買 15.8 萬平方英尺廠房的擴產細節，此舉為公司長期成長的必要資本支出，對股價影響中性偏多，已整合至 bullish 類別的擴產分析中。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

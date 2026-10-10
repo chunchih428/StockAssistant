@@ -1,0 +1,66 @@
+{
+  "ticker": "CRDO",
+  "company": "Credo Technology Group Holding Ltd",
+  "analysis_date": "2026-10-08",
+  "source_file": "cache/2026-10-08/candidates/news/CRDO.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場高度看好 Credo 從銅纜技術轉向光學收發器帶來的長期成長潛力，儘管面臨分析師短期目標價調整的波動。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Credo: The Transformation From Copper To Optical Is A Major Opportunity Still Under-Appreciated",
+      "publisher": "SeekingAlpha",
+      "date": "2026-10-05 08:23",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "該文深入分析了 Credo 從主動式電纜 (AEC) 轉向光學收發器的技術轉型，認為市場尚未充分定價其長期成長潛力，是目前最具建設性的基本面觀點。"
+    },
+    {
+      "rank": 2,
+      "title": "Credo (CRDO) Grew Revenue 114.70%. Why Can Nobody Price It?",
+      "publisher": "Yahoo",
+      "date": "2026-10-05 00:36",
+      "impact": "medium",
+      "category": "財報表現",
+      "reason": "強調公司營收成長高達 114.70%，反映出強勁的市場需求，並質疑市場對其估值的合理性，暗示股價仍有上漲空間。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Credo Technology Stock Is Surging 8% on an Unemployment Jump",
+      "publisher": "Yahoo",
+      "date": "2026-10-02 16:04",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管宏觀經濟數據疲軟，但半導體板塊出現反彈，Credo 表現優於大盤，顯示資金對該公司在 AI 基礎設施領域的配置需求強勁。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "AMD To Rally More Than 10%? Here Are 10 Top Analyst Forecasts For Monday",
+      "publisher": "Benzinga",
+      "date": "2026-10-05 08:25",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "雖然整體市場消息多樣，但文中提到分析師下調了 CRDO 的目標價，這對短期股價情緒構成壓力，故列為利空。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Credo Technology Group (CRDO) Up 17.9% Since Last Earnings Report: Can It Continue?",
+      "publisher": "Yahoo",
+      "date": "2026-10-01 14:30",
+      "impact": "low",
+      "category": "財報回顧",
+      "reason": "該報導主要回顧過去 30 天的股價表現與財報數據，屬於中性的市場回顧，未提供新的買賣訊號或重大基本面變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
