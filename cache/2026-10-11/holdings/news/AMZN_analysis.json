@@ -1,0 +1,120 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-10-08",
+  "source_file": "cache/2026-10-08/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 3,
+    "neutral_count": 8,
+    "overall_sentiment": "bullish",
+    "key_theme": "AWS 的 AI 雲端服務成長強勁與資本配置效率提升，持續吸引機構投資人與分析師看好其長期價值。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Is Amazon Stock Poised to Rally on AI Services Revenue Expansion?",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 13:40",
+      "impact": "high",
+      "category": "財報與營運展望",
+      "reason": "AWS 的 AI 服務營收呈現三位數成長，且利潤率持續擴張，被視為推動股價上漲的核心催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon Turned $10,000 Into More Than $230,000. Can It Happen Again?",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 15:30",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "AWS 創下四年半以來最快成長速度，儘管資本支出增加，但市場仍對其長期成長潛力抱持高度信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Cathie Wood Bets $31M On Amazon, CoreWeave And Meta",
+      "publisher": "Benzinga",
+      "date": "2026-10-07 09:02",
+      "impact": "medium",
+      "category": "機構投資動向",
+      "reason": "ARK Invest 加碼買入 3,100 萬美元的 Amazon 股票，顯示知名基金經理人對其 AI 布局的認可。"
+    },
+    {
+      "rank": 4,
+      "title": "Now Is the Perfect Time to Buy Amazon and Alphabet Stock",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 19:09",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析指出 Amazon 作為 AI 基礎建設的主要受益者，目前估值具備吸引力。"
+    },
+    {
+      "rank": 5,
+      "title": "eDreams ODIGEO and Amazon Alexa Collaborate to Bring AI Travel Search to Alexa+",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 07:28",
+      "impact": "low",
+      "category": "產品合作",
+      "reason": "透過與 eDreams ODIGEO 合作，強化 Alexa 的 AI 旅遊搜尋功能，有助於提升生態系黏著度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Amazon cuts fewer than 1,000 jobs across teams",
+      "publisher": "Yahoo",
+      "date": "2026-10-08 02:48",
+      "impact": "medium",
+      "category": "組織調整",
+      "reason": "儘管裁員規模小於 1,000 人，但持續的組織精簡反映出公司在營運成本控制上的壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Q3 2026 insider stock sales: Nvidia's Mark Stevens tops AI sellers",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 13:35",
+      "impact": "low",
+      "category": "內部人交易",
+      "reason": "Jeff Bezos 進行股票減持，雖屬常見的財務規劃，但仍可能引發市場對短期股價動能的疑慮。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon Prime settlement payments are going out. Are you eligible?",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 14:43",
+      "impact": "low",
+      "category": "法律訴訟",
+      "reason": "針對 Prime 會員的賠償金發放，雖金額對財務影響有限，但涉及法律合規與品牌形象議題。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Amazon.com (AMZN) Acquired A Former Los Angeles Headquarters Campus",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 16:12",
+      "impact": "low",
+      "category": "市場擴張",
+      "reason": "收購 Forever 21 舊址作為物流中心，屬於正常的基礎設施擴張，對短期股價影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "SPCX Stock Eyes 2-Week Winning Streak: FCC Weighs New Spectrum For SpaceX And Amazon",
+      "publisher": "Yahoo",
+      "date": "2026-10-08 05:28",
+      "impact": "low",
+      "category": "法規監管",
+      "reason": "FCC 對衛星頻譜的審查涉及 Amazon 與 SpaceX 的競爭，目前尚無定論，影響尚不明確。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon's October Big Deal Days sale is back",
+      "publisher": "CNBC",
+      "date": "2026-10-06 06:30",
+      "impact": "low",
+      "category": "促銷活動",
+      "reason": "例行性的促銷活動，市場已充分預期，對股價無顯著邊際影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

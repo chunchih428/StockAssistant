@@ -1,0 +1,102 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-10-08",
+  "source_file": "cache/2026-10-08/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 5,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "Broadcom 憑藉強勁的 AI 客製化晶片業務與大規模融資計畫展現成長韌性，儘管面臨總體經濟與市場競爭壓力，其長期基礎設施地位仍受看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Broadcom (AVGO) Is Up 5.8% After Unveiling Massive AI Chip Financing Plan for Anthropic",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 16:13",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "Broadcom 宣布為 Anthropic 提供大規模 AI 晶片融資計畫，顯示其在 AI 基礎設施領域的強大議價能力與成長動能，直接推動股價上漲。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom's AI Revenue Is Growing at 221%. Here's Why Custom Chips Could Be a Bigger Business Than GPUs.",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 11:53",
+      "impact": "high",
+      "category": "財報分析",
+      "reason": "AI 相關營收成長高達 221%，且客製化晶片業務被視為比通用 GPU 更具長期護城河的商業模式，強化了投資人對其獲利能力的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Broadcom (AVGO) Is Seen As Resilient To 32 Gigawatt Power Shortfalls",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 23:17",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "摩根士丹利指出 Broadcom 對資料中心電力短缺具有較強的韌性，在 AI 基礎設施受限的環境下，其競爭優勢更為凸顯。"
+    },
+    {
+      "rank": 4,
+      "title": "Broadcom vs. Qualcomm: Rapid Growth vs. Flat Revenue",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 17:20",
+      "impact": "medium",
+      "category": "產業競爭",
+      "reason": "Broadcom 營收在兩年內成長近三倍，與 Qualcomm 的營收停滯形成鮮明對比，凸顯其在 AI 轉型中的成功策略。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Broadcom Remains So Full of Promise And Continues to Disappoint",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 11:15",
+      "impact": "medium",
+      "category": "市場情緒",
+      "reason": "儘管 AI 業務成長強勁，但股價在財報後屢次出現回調，反映市場對其高估值與成長預期的落差感到失望。"
+    },
+    {
+      "rank": 2,
+      "title": "What's Going On With Broadcom Stock Wednesday?",
+      "publisher": "Benzinga",
+      "date": "2026-10-07 09:03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受美國公債殖利率上升與科技股整體賣壓影響，股價出現短期波動，屬於總體經濟因素導致的被動下跌。"
+    },
+    {
+      "rank": 3,
+      "title": "Warren Buffett's $863 Million \"Secret\" Portfolio Dumped Alphabet and Broadcom",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 09:26",
+      "impact": "low",
+      "category": "投資動向",
+      "reason": "巴菲特旗下投資組合減持 Broadcom，雖金額對公司基本面影響有限，但可能對散戶投資人心理造成負面影響。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Broadcom, Oracle And SpaceX Tap Private Credit For AI Hardware",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 23:37",
+      "impact": "low",
+      "category": "融資計畫",
+      "reason": "報導 Broadcom 與其他科技巨頭尋求私人信貸以資助 AI 晶片開發，此為企業擴張的常規財務操作，對股價影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom (AVGO) Is Lagging the Market This Year. Is It a Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 18:42",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "文章探討 Broadcom 今年表現落後大盤的原因，提供多空雙方觀點，未給出明確買賣建議，屬於中性分析報導。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

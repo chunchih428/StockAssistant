@@ -1,0 +1,147 @@
+{
+  "ticker": "IBM",
+  "company": "International Business Machines Corporation",
+  "analysis_date": "2026-10-08",
+  "source_file": "cache/2026-10-08/candidates/news/IBM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 11,
+    "bearish_count": 2,
+    "neutral_count": 7,
+    "overall_sentiment": "bullish",
+    "key_theme": "IBM 透過量子運算技術突破、與 SAP 的策略合作以及資安防禦能力的提升，持續強化其在企業級 AI 與雲端市場的競爭優勢。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "IBM Advances to Stage C of DARPA Quantum Benchmarking Initiative",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 21:30",
+      "impact": "high",
+      "category": "技術研發",
+      "reason": "IBM 進入 DARPA 量子基準計畫的最終階段，顯示其在量子運算領域的領先地位，有助於長期技術護城河的建立。"
+    },
+    {
+      "rank": 2,
+      "title": "IBM Launches SAP Cloud ERP Offering for Midsize Companies",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 10:27",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "透過與 SAP 合作推出針對中型企業的雲端 ERP 解決方案，IBM 有效擴展其市場觸角並加速企業客戶的 AI 轉型。"
+    },
+    {
+      "rank": 3,
+      "title": "IBM and Red Hat Remediate More Than 400 Previously Unknown Open Source Vulnerabilities",
+      "publisher": "Yahoo",
+      "date": "2026-10-06 13:00",
+      "impact": "medium",
+      "category": "資安防護",
+      "reason": "IBM 與 Red Hat 透過 Lightwell 計畫修復 400 多個開源漏洞，顯著提升了其軟體生態系統的安全性與客戶信任度。"
+    },
+    {
+      "rank": 4,
+      "title": "Zapata Quantum Joins IBM Quantum Network to Accelerate Mission-Driven Quantum Application Development",
+      "publisher": "Yahoo",
+      "date": "2026-10-06 12:00",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "Zapata Quantum 加入 IBM 量子網路，進一步擴大 IBM 量子生態系的應用場景與商業價值。"
+    },
+    {
+      "rank": 5,
+      "title": "IBM Brings AI to Customer-Managed Infrastructure: Should You Invest?",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 12:46",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "IBM 擴展自託管 AI 部署功能，滿足企業對安全性與混合雲架構的需求，有助於鞏固其在混合雲市場的地位。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "What Happens To IBM Stock If Its Slowdown Lasts?",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 22:47",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "股價在過去三個月內下跌 26%，市場擔憂其成長放緩的趨勢是否會持續，對投資人信心造成壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "What is IBM’s (IBM) Economic Moat, and is it Widening or Narrowing?",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 01:13",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師質疑 IBM 的經濟護城河是否正在縮小，反映出市場對其核心業務競爭力的長期疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Jim Cramer Sticks to His Wait-a-Quarter Rule on IBM",
+      "publisher": "Yahoo",
+      "date": "2026-10-06 21:51",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "知名評論員 Jim Cramer 維持觀望態度，建議投資人等待下一季財報表現，未給出明確買賣建議。"
+    },
+    {
+      "rank": 2,
+      "title": "IT Asset Disposition (ITAD) - Global Strategic Business Report",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 21:16",
+      "impact": "low",
+      "category": "產業報告",
+      "reason": "產業研究報告提及 IBM 在 IT 資產處置市場的參與，屬於常規產業分析，對股價無直接催化作用。"
+    },
+    {
+      "rank": 3,
+      "title": "IT Operations Analytics - Global Strategic Business Report",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 21:15",
+      "impact": "low",
+      "category": "產業報告",
+      "reason": "報告指出 IT 營運分析市場成長潛力，IBM 被列為主要參與者，屬產業趨勢觀察。"
+    },
+    {
+      "rank": 4,
+      "title": "Digital Transformation - Global Strategic Business Report",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 21:11",
+      "impact": "low",
+      "category": "產業報告",
+      "reason": "數位轉型市場規模預測，IBM 為主要競爭者之一，屬於宏觀產業資訊。"
+    },
+    {
+      "rank": 5,
+      "title": "Data Virtualization - Global Strategic Business Report",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 14:54",
+      "impact": "low",
+      "category": "產業報告",
+      "reason": "資料虛擬化市場成長報告，IBM 被列為關鍵廠商，對短期股價影響有限。"
+    },
+    {
+      "rank": 6,
+      "title": "Commercial Quantum Computing Solutions Market Global Report 2026",
+      "publisher": "Yahoo",
+      "date": "2026-10-06 11:32",
+      "impact": "low",
+      "category": "產業報告",
+      "reason": "商業量子運算市場報告，強調 IBM 在該領域的領導地位，屬產業背景資訊。"
+    },
+    {
+      "rank": 7,
+      "title": "Algorhythm Appoints New Independent Director",
+      "publisher": "Yahoo",
+      "date": "2026-10-06 13:00",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "Algorhythm 公司聘請前 IBM 高管擔任董事，對 IBM 本身股價無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
