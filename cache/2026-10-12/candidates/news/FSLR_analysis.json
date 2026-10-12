@@ -1,0 +1,75 @@
+{
+  "ticker": "FSLR",
+  "company": "First Solar",
+  "analysis_date": "2026-10-12",
+  "source_file": "cache/2026-10-12/candidates/news/FSLR.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管股價自 6 月高點回調且目標價遭下調，但分析師仍看好其估值吸引力與成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "First Solar Has Lost 43% From Its June High: Goldman Sachs Sees 51% Upside",
+      "publisher": "Yahoo",
+      "date": "2026-10-08 15:17",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "高盛分析師 Brian Lee 指出 FSLR 自 6 月高點大幅回調後，目前股價具備 51% 的潛在上漲空間，顯示機構投資人對其長期基本面仍具信心。"
+    },
+    {
+      "rank": 2,
+      "title": "First Solar (NASDAQ:FSLR): A GARP Stock Passing Growth-at-a-Reasonable-Price Tests",
+      "publisher": "ChartMill",
+      "date": "2026-10-08 11:50",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "該分析顯示 FSLR 符合彼得林區的 GARP 選股標準，擁有 27% 的 EPS 成長率與強健的資產負債表，估值具備吸引力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Goldman Sachs Maintains Buy on First Solar, Lowers Price Target to $272",
+      "publisher": "Benzinga",
+      "date": "2026-10-08 08:34",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "雖然維持「買入」評級，但高盛將目標價從 310 美元下調至 272 美元，反映出市場對短期股價動能的修正預期。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "How to Play FSLR Stock as First Solar Wages an International Solar Panel Legal Battle",
+      "publisher": "Yahoo",
+      "date": "2026-10-06 12:45",
+      "impact": "low",
+      "category": "法規與訴訟",
+      "reason": "涉及光伏太陽能電池的國際法律訴訟，目前影響尚不明確，屬於營運過程中的常態性法律風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Should Qualcomm Stock Holders Look At First Solar Instead?",
+      "publisher": "Yahoo",
+      "date": "2026-10-09 23:13",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 FSLR 與 QCOM 進行產業比較，僅為投資組合配置建議，未提供具體公司基本面變動資訊。"
+    },
+    {
+      "rank": 3,
+      "title": "What Does NVIDIA Offer That First Solar Does Not?",
+      "publisher": "Yahoo",
+      "date": "2026-10-05 14:12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討半導體產業內不同商業模式的差異，對 FSLR 本身股價無直接催化影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

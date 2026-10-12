@@ -1,0 +1,47 @@
+{
+  "ticker": "GTLB",
+  "company": "GitLab Inc.",
+  "analysis_date": "2026-10-12",
+  "source_file": "cache/2026-10-12/candidates/news/GTLB.json",
+  "summary": {
+    "total_articles": 3,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "GitLab 透過推出 「受控軟體工廠」 (Governed Software Factory) 與 AI 代理功能，強化其 DevSecOps 平台的長期競爭力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "GitLab Announces the Foundation for the Governed Software Factory",
+      "publisher": "Yahoo",
+      "date": "2026-10-06 13:04",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "GitLab 正式推出 「受控軟體工廠」 基礎架構，此舉旨在提升 DevSecOps 的自動化與安全性，直接增強其核心產品的市場價值與企業客戶黏著度。"
+    },
+    {
+      "rank": 2,
+      "title": "Is GitLab’s (GTLB) Governed AI Push Quietly Redefining Its Long‑Term Platform Ambitions? — In early October 2026, GitLab Inc. announced an expanded governed software factory, adding new AI-driven Duo Agent flows",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 12:16",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "該報導深入分析了 GitLab 整合 AI Duo Agent 的策略意義，認為這將重新定義其平台願景，有助於提升長期營收成長潛力。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Will Flywire’s (FLYW) New Tech Veteran Director Subtly Reframe Its Long‑Term Platform Ambitions? — In September 2026, Flywire Corporation appointed Sabrina Farmer, a senior Microsoft executive and former GitLab CTO",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 11:12",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "此新聞主要關於 Flywire 的人事變動，僅提及前 GitLab CTO Sabrina Farmer 的背景，對 GitLab 本身的營運與股價無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

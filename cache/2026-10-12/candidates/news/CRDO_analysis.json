@@ -1,0 +1,84 @@
+{
+  "ticker": "CRDO",
+  "company": "Credo Technology Group Holding Ltd",
+  "analysis_date": "2026-10-12",
+  "source_file": "cache/2026-10-12/candidates/news/CRDO.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 4,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場高度看好 Credo 從主動式電纜 (AEC) 向光學傳輸技術轉型的成長潛力，儘管面臨同業競爭與分析師目標價調整的雜音。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Credo: The Market Is Wrong About Optics, And That's Creating A Buying Opportunity",
+      "publisher": "SeekingAlpha",
+      "date": "2026-10-08 08:16",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "分析師指出市場低估了 Credo 在光學傳輸領域的轉型價值，隨著 AEC 與光學營收激增，該公司正轉型為 AI 連接平台，具備長期成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Credo: $3,000 Per GPU, And That's Not Even My Buy Thesis",
+      "publisher": "SeekingAlpha",
+      "date": "2026-10-10 06:20",
+      "impact": "medium",
+      "category": "投資評級",
+      "reason": "給予「謹慎買入」評級，並設定 2029 財年目標價為 274 美元，暗示 26% 的上漲空間，強調其在 AI GPU 生態系中的關鍵連接地位。"
+    },
+    {
+      "rank": 3,
+      "title": "Credo Technology (CRDO) Joins the Co-Packaged Optics Race: Could It Unlock a New AI Growth Opportunity?",
+      "publisher": "Yahoo",
+      "date": "2026-10-08 14:27",
+      "impact": "medium",
+      "category": "產品技術",
+      "reason": "加入 Open Co-packaged Interface (Open CPO) 多源協議，顯示公司積極布局先進封裝光學技術，為 AI 基礎設施提供新的成長引擎。"
+    },
+    {
+      "rank": 4,
+      "title": "Credo (CRDO) Grew Revenue 114.70%. Why Can Nobody Price It?",
+      "publisher": "Yahoo",
+      "date": "2026-10-05 00:36",
+      "impact": "medium",
+      "category": "財報表現",
+      "reason": "營收年增率高達 114.70%，強勁的財務數據證明其市場需求旺盛，市場對其估值定價仍存在分歧，反映出成長動能強勁。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "AMD To Rally More Than 10%? Here Are 10 Top Analyst Forecasts For Monday",
+      "publisher": "Benzinga",
+      "date": "2026-10-05 08:25",
+      "impact": "low",
+      "category": "投資評級",
+      "reason": "儘管整體市場看好，但該報導提及分析師下調了 CRDO 的目標價，這可能引發短期市場對其估值過高的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "ALAB Expands PCIe Portfolio With Aries 7: Can it Beat MRVL & CRDO?",
+      "publisher": "Yahoo",
+      "date": "2026-10-09 13:51",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "Astera Labs 擴展 PCIe 產品線，加劇了與 Credo 在 AI 連接領域的競爭，屬於產業常態性競爭動態，對短期股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Credo: The Transformation From Copper To Optical Is A Major Opportunity Still Under-Appreciated",
+      "publisher": "SeekingAlpha",
+      "date": "2026-10-05 08:23",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "此篇內容與 10 月 8 日的 SeekingAlpha 文章主題高度重疊，均強調從銅纜轉向光學的機會，故選取 10 月 8 日文章作為代表，此篇視為補充觀點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
