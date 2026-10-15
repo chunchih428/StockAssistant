@@ -1,0 +1,93 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-10-13",
+  "source_file": "cache/2026-10-13/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "CrowdStrike 受惠於 Falcon 平台在 OpenAI 市集上架及強勁的財報表現，獲分析師調升目標價，市場對其成長動能持樂觀態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Needham Maintains Buy on CrowdStrike Holdings, Raises Price Target to $310",
+      "publisher": "Benzinga",
+      "date": "2026-10-09 06:14",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Needham 分析師 Mike Cikos 將目標價從 250 美元調升至 310 美元，主要看好 Falcon Flex 訂閱模式與新一代 SIEM 解決方案帶來的強勁成長動能。"
+    },
+    {
+      "rank": 2,
+      "title": "The Bull Case For CrowdStrike (CRWD) Could Change Following Falcon’s Launch In The OpenAI Marketplace",
+      "publisher": "Yahoo",
+      "date": "2026-10-13 04:29",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "CrowdStrike 宣布 Falcon 平台進駐 OpenAI 市集，此舉象徵公司在 AI 安全領域的戰略擴張，有助於提升平台滲透率。"
+    },
+    {
+      "rank": 3,
+      "title": "CrowdStrike (CRWD) Is Accelerating Again. Is 219 Times Earnings Too Far Ahead?",
+      "publisher": "Yahoo",
+      "date": "2026-10-12 12:47",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "公司管理層指出 2027 財年第二季為歷史最佳季度，強勁的業績表現支撐了市場對其高估值的信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Wall Street Left Software for Dead: 4 Stocks Institutions Are Buying Back",
+      "publisher": "Yahoo",
+      "date": "2026-10-09 12:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "機構投資者重新買入軟體股，CrowdStrike 被列為重點回補標的，顯示市場資金流向轉趨正面。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike Recommends Stockholders Reject Tutanota's $260/Share Mini-Tender Offer",
+      "publisher": "Yahoo",
+      "date": "2026-10-09 21:07",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "公司建議股東拒絕 Tutanota 的迷你收購要約，該要約價格低於市場預期，且屬於投機性收購，對股價影響有限但需關注治理層面。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike vs. UiPath: Which Technology Stock Is a Better Buy in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-10-10 17:55",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章指出 CrowdStrike 雖成長強勁但仍面臨獲利挑戰，相較於已轉虧為盈的同業，其高估值溢價可能在市場波動時面臨修正壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike Is Up 124% in 2026, Fortinet Is Up 142%: Take Profits, or Hold On for the Ride?",
+      "publisher": "Yahoo",
+      "date": "2026-10-12 19:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討投資人面對今年三位數漲幅後的獲利了結與續抱決策，屬於市場情緒的中性分析，無實質基本面變動。"
+    },
+    {
+      "rank": 2,
+      "title": "Is It Worth Investing in CrowdStrike (CRWD) Based on Wall Street's Bullish Views?",
+      "publisher": "Yahoo",
+      "date": "2026-10-09 12:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "綜合分析華爾街券商建議，雖然平均評級看多，但文章對高估值是否合理持保留態度，屬於觀點平衡的報導。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

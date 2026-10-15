@@ -1,0 +1,102 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-10-12",
+  "source_file": "cache/2026-10-12/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 6,
+    "bearish_count": 6,
+    "neutral_count": 8,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場高度關注 Amazon 擬以 70 億美元收購 Decart AI 的戰略布局，同時面臨雲端安全漏洞、高層人事異動及 AI 資本支出過高的多重挑戰。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Amazon Reportedly in Talks to Buy Decart for $7 Billion",
+      "publisher": "Yahoo",
+      "date": "2026-10-12 01:32",
+      "impact": "high",
+      "category": "併購交易",
+      "reason": "Amazon 擬以 70 億美元收購 AI 新創公司 Decart，此舉旨在強化其雲端服務與客製化晶片業務，被視為提升 AI 競爭力的重大戰略布局。"
+    },
+    {
+      "rank": 2,
+      "title": "More personalization for fans: NBA and AWS on their new multi-year partnership",
+      "publisher": "CNBC",
+      "date": "2026-10-08 23:39",
+      "impact": "medium",
+      "category": "商業合作",
+      "reason": "AWS 與 NBA 達成多年合作協議，展示了雲端技術在體育媒體與數據分析領域的應用，有助於鞏固 AWS 的市場領導地位。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon and Alphabet Just Committed $420 Billion to Data Centers",
+      "publisher": "Yahoo",
+      "date": "2026-10-11 18:18",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Amazon 與 Alphabet 在資料中心投入巨資，顯示雲端基礎設施需求強勁，長期利好雲端服務營收成長。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Amazon.com (AMZN) Patched Critical AWS Bedrock AgentCore Security Flaws",
+      "publisher": "Yahoo",
+      "date": "2026-10-10 17:12",
+      "impact": "high",
+      "category": "資安風險",
+      "reason": "AWS Bedrock 平台被揭露存在關鍵安全漏洞，可能影響企業客戶對雲端服務的信任度，並引發監管機構審查。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon (AMZN) Wants Investors to Finance $8 Billion of Nvidia Chips. Is AI Spending Getting Too Heavy?",
+      "publisher": "Yahoo",
+      "date": "2026-10-10 22:11",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "市場質疑 Amazon 在 AI 基礎設施（如 Nvidia 晶片）上的資本支出過高，恐對短期現金流與獲利能力造成壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon Reshuffles Alexa Leadership Right After Introducing New Tablet Lineup",
+      "publisher": "Yahoo",
+      "date": "2026-10-11 05:26",
+      "impact": "medium",
+      "category": "高層異動",
+      "reason": "在推出新產品線之際進行 Alexa 部門高層人事調整，引發市場對產品策略穩定性與執行力的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Amazon overhauls aging devices lineup with higher-priced Alexa tablet",
+      "publisher": "CNBC",
+      "date": "2026-10-08 08:59",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "Amazon 更新硬體產品線，取消低價 Fire 平板轉向高價 Alexa 平板，屬於正常的產品組合優化，對整體營收影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Not Alphabet. Not Amazon. Microsoft Trades at Big Tech's Cheapest Valuation.",
+      "publisher": "Yahoo",
+      "date": "2026-10-11 20:14",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析師比較科技巨頭估值，指出 Microsoft 相較於 Amazon 具有估值優勢，屬於市場觀點分析，對股價無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon Fuel Up Fridays Returns: How Prime Members Can Save Big at the Gas Pump",
+      "publisher": "Yahoo",
+      "date": "2026-10-10 17:00",
+      "impact": "low",
+      "category": "促銷活動",
+      "reason": "恢復 Prime 會員加油折扣活動，屬於常規的會員忠誠度計畫，對財務表現影響微小。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

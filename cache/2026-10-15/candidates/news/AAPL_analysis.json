@@ -1,0 +1,93 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-10-12",
+  "source_file": "cache/2026-10-12/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 2,
+    "bearish_count": 12,
+    "neutral_count": 6,
+    "overall_sentiment": "bearish",
+    "key_theme": "iPhone 18 Pro 需求疲軟導致供應鏈訂單削減，加上潛在競爭對手 SpaceX 的威脅，壓抑了市場對 Apple 的短期信心。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple Has Consistently Lost the Smart-Home Race. A New Partnership With LG Could Change That.",
+      "publisher": "Yahoo",
+      "date": "2026-10-11 17:26",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "Apple 與 LG 合作開發智慧家庭設備（門鈴、鎖、攝影機），有助於補足其在智慧家庭市場長期落後的劣勢，具備長期成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "publisher": "Yahoo",
+      "date": "2026-10-10 19:50",
+      "impact": "low",
+      "category": "技術研發",
+      "reason": "透過收購與技術授權強化 AI 生成內容能力，顯示公司在軟體服務領域持續進行策略性佈局。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Apple faces fresh iPhone demand concerns as Pro component cuts come earlier than usual",
+      "publisher": "CNBC",
+      "date": "2026-10-09 19:01",
+      "impact": "high",
+      "category": "產品銷售",
+      "reason": "供應鏈數據顯示 iPhone 18 Pro 零件訂單削減幅度達 15 %，且時間點早於往年，反映出市場對旗艦機型需求疲軟的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Elon Musk Will ‘Eventually’ Make a Phone, Says Gene Munster: Starlink Device Will Be a ‘Bigger Problem’ for Apple",
+      "publisher": "Yahoo",
+      "date": "2026-10-12 00:30",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "SpaceX 擬開發 Starlink 專用智慧型手機，分析師認為這將對 Apple 的高階手機市占率構成長期威脅。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple names new M&A chief in latest change under new CEO: Report",
+      "publisher": "CNBC",
+      "date": "2026-10-08 13:53",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "新任執行長上任後持續進行管理層調整，頻繁的人事變動可能引發市場對公司策略穩定性的疑慮。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Tim Cook Told Apple CEO John Ternus ‘Don’t Mimic Me’ Before Stepping Aside",
+      "publisher": "Yahoo",
+      "date": "2026-10-11 09:45",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "Tim Cook 卸任執行長轉任執行董事長，並強調交接順利，屬於正常的企業傳承，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Stocktwits Tech Watch: ASML, TSMC Earnings This Week And Apple’s Next Home Play",
+      "publisher": "Yahoo",
+      "date": "2026-10-12 05:03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "提及 Apple 的智慧家庭佈局，但重點在於觀察半導體供應鏈財報，屬於市場觀察性質。"
+    },
+    {
+      "rank": 3,
+      "title": "Siri AI at Day 28: Apple Ships the HomePad Screen Oct 13",
+      "publisher": "Yahoo",
+      "date": "2026-10-11 08:27",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "報導即將舉行的產品發表會，屬於例行性產品更新，市場已預期相關進度。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

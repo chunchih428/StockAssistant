@@ -1,0 +1,93 @@
+{
+  "ticker": "ARM",
+  "company": "Arm Holdings plc",
+  "analysis_date": "2026-10-12",
+  "source_file": "cache/2026-10-12/candidates/news/ARM.json",
+  "summary": {
+    "total_articles": 13,
+    "bullish_count": 2,
+    "bearish_count": 8,
+    "neutral_count": 3,
+    "overall_sentiment": "bearish",
+    "key_theme": "公司與 Qualcomm 之間關於授權合約與權利金的法律訴訟引發市場對其商業模式穩定性的高度擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "ARM Stock Rebounds 11.5% in a Month: Is it a Buy Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-10-08 17:10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管面臨法律挑戰，但 ARM 在 AI 與資料中心領域的成長動能依然強勁，支撐了股價在一個月內反彈 11.5 %。"
+    },
+    {
+      "rank": 2,
+      "title": "ARM vs. Marvell Technology: What Revenue Trends for These Artificial Intelligence Companies Tell Investors",
+      "publisher": "Yahoo",
+      "date": "2026-10-07 17:55",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析顯示 ARM 在最新一季的營收表現出現加速跡象，展現出在 AI 晶片市場的競爭潛力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Arm Holdings Has a $4.9 Billion Business Model on Trial. Here’s What It Means for ARM Stock.",
+      "publisher": "Yahoo",
+      "date": "2026-10-11 13:15",
+      "impact": "high",
+      "category": "法律訴訟",
+      "reason": "此篇報導深入探討了與 Qualcomm 的訴訟對 ARM 核心權利金商業模式的潛在威脅，涉及金額高達 49 億美元，是目前市場最大的風險點。"
+    },
+    {
+      "rank": 2,
+      "title": "Arm Holdings Stock Fell 6% in a Day as an OpenAI Revenue Report Hit Chip Stocks.",
+      "publisher": "Yahoo",
+      "date": "2026-10-09 16:27",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受 OpenAI 營收報告影響，晶片類股普遍遭到拋售，ARM 單日下跌 6 %，反映出市場對高估值（43.54 倍預期營收）的敏感度。"
+    },
+    {
+      "rank": 3,
+      "title": "Arm Holdings (ARM): Semiconductor Sector Sell-Off and Supply Execution Questions Weigh on Stock",
+      "publisher": "Yahoo",
+      "date": "2026-10-08 13:09",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Artisan Partners 指出半導體產業賣壓以及對 ARM 供應鏈執行能力的疑慮，對股價造成壓力。"
+    },
+    {
+      "rank": 4,
+      "title": "Qualcomm vs. Arm Holdings Q4 2026 trial: royalties and contract breach",
+      "publisher": "Yahoo",
+      "date": "2026-10-05 13:34",
+      "impact": "high",
+      "category": "法律訴訟",
+      "reason": "彙整了 Qualcomm 指控 ARM 扣留晶片測試工具及洩漏終止合約威脅，此類法律糾紛直接影響與 Meta 等客戶的合作關係。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Arm Announces Earnings Release Date for Second Quarter Fiscal Year Ending 2027",
+      "publisher": "Yahoo",
+      "date": "2026-10-05 13:00",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "僅為例行性的財報發布日期公告，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Zacks Investment Ideas feature highlights: Arm Holdings, Advanced Micro Devices, Marvell, Applied Optoelectronics and Nebius",
+      "publisher": "Yahoo",
+      "date": "2026-10-05 12:01",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為投資機構的選股清單提及，未提供具體買賣建議或重大基本面分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
