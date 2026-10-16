@@ -1,0 +1,120 @@
+{
+  "ticker": "ARM",
+  "company": "Arm Holdings plc",
+  "analysis_date": "2026-10-16",
+  "source_file": "cache/2026-10-16/candidates/news/ARM.json",
+  "summary": {
+    "total_articles": 14,
+    "bullish_count": 5,
+    "bearish_count": 6,
+    "neutral_count": 3,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司面臨與 Qualcomm 的法律訴訟敗訴風險，但其核心授權業務成長動能與 AI 生態系地位仍獲市場長期看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Can ARM's 13% Contract Value Growth Sustain Momentum in Q2?",
+      "publisher": "Yahoo",
+      "date": "2026-10-15 17:51",
+      "impact": "high",
+      "category": "財報預期",
+      "reason": "年化合約價值成長 13 % 至 17.3 億美元，顯示授權業務動能強勁，為即將到來的第二季財報提供正面支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "What Does Arm Holdings (ARM) Winning An AI Ecosystem Award Really Signal?",
+      "publisher": "Yahoo",
+      "date": "2026-10-13 01:33",
+      "impact": "medium",
+      "category": "產業地位",
+      "reason": "獲得 AI 生態系貢獻獎，進一步鞏固其在人工智慧運算架構中的核心領導地位。"
+    },
+    {
+      "rank": 3,
+      "title": "Arm Holdings (ARM) is Positioned as Specialized Computing Demand Outlasts Near-Term Shortages",
+      "publisher": "Yahoo",
+      "date": "2026-10-12 13:41",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "Baillie Gifford 等機構看好其在特殊運算需求下的長期定位，認為其商業模式具備抗週期能力。"
+    },
+    {
+      "rank": 4,
+      "title": "Arm Holdings Has a $4.9 Billion Business Model on Trial",
+      "publisher": "Yahoo",
+      "date": "2026-10-11 13:15",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "儘管面臨訴訟，分析師仍強調其 49 億美元商業模式的長期價值與授權費用的護城河。"
+    },
+    {
+      "rank": 5,
+      "title": "Heavy Unusual Call Option Activity in Chip Designer Arm Holdings Plc",
+      "publisher": "Yahoo",
+      "date": "2026-10-13 17:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "出現異常大量的買權 (Call Option) 交易，顯示部分投資人對股價後市仍持樂觀態度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "ARM-QCOM Lawsuit: Delaware Jury Delivers Verdict In High-Stakes Qualcomm-ARM Licensing Battle",
+      "publisher": "Yahoo",
+      "date": "2026-10-13 19:59",
+      "impact": "high",
+      "category": "法律訴訟",
+      "reason": "德拉瓦州聯邦陪審團裁定 Arm 在與 Qualcomm 的授權協議中違約，此判決直接衝擊其授權業務的法律穩定性。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Arm Holdings Stock Was Falling Today",
+      "publisher": "Yahoo",
+      "date": "2026-10-14 19:52",
+      "impact": "medium",
+      "category": "總體經濟",
+      "reason": "受 CPI 數據高於預期影響，科技股普遍遭到拋售，Arm 作為高估值科技股受市場情緒拖累。"
+    },
+    {
+      "rank": 3,
+      "title": "Arm Holdings Stock Fell 6% in a Day as an OpenAI Revenue Report Hit Chip Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-10-09 16:27",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "OpenAI 營收報告引發市場對 AI 晶片需求持續性的擔憂，導致半導體類股集體回調。"
+    },
+    {
+      "rank": 4,
+      "title": "Why Is Arm Stock Falling on Friday?",
+      "publisher": "Benzinga",
+      "date": "2026-10-09 14:08",
+      "impact": "low",
+      "category": "法律訴訟",
+      "reason": "市場對與 Qualcomm 的訴訟案存在不確定性，導致股價在判決前夕出現避險性賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "ARM Stock Is Up 123% This Year. Is It Too Late to Get In?",
+      "publisher": "Yahoo",
+      "date": "2026-10-14 18:15",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "回顧今年以來 123 % 的漲幅，文章旨在探討估值合理性，並未提供明確買賣建議。"
+    },
+    {
+      "rank": 2,
+      "title": "What's Going on With Arm Stock on Tuesday?",
+      "publisher": "Benzinga",
+      "date": "2026-10-13 12:18",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導當日股價在半導體板塊拋售潮中的表現，屬於盤中波動紀錄，無重大基本面變化。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

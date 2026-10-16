@@ -1,0 +1,93 @@
+{
+  "ticker": "FSLR",
+  "company": "First Solar",
+  "analysis_date": "2026-10-16",
+  "source_file": "cache/2026-10-16/candidates/news/FSLR.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 11,
+    "bearish_count": 4,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管面臨利率環境與稅收抵免政策的不確定性，市場對 First Solar 的長期定價能力與 AI 電力需求帶來的成長潛力持樂觀態度，並獲得多家券商上調評級。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Truist sees 50% upside for First Solar as pricing supported into 2030s",
+      "publisher": "Yahoo",
+      "date": "2026-10-12 14:31",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Truist Securities 將 First Solar 評級上調至「買進」，並看好其定價能力可延續至 2030 年代，預期股價有 50% 以上的上漲空間。"
+    },
+    {
+      "rank": 2,
+      "title": "Morgan Stanley Maintains Overweight on First Solar, Raises Price Target to $326",
+      "publisher": "Benzinga",
+      "date": "2026-10-14 10:32",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "摩根士丹利分析師 Andrew Percoco 維持「加碼」評級，並將目標價大幅上調至 326 美元，顯示對公司基本面與市場地位的強烈信心。"
+    },
+    {
+      "rank": 3,
+      "title": "First Solar Climbs 4% as Truist Buy Call and December Tariff Floor Reset Panel Pricing Outlook",
+      "publisher": "Yahoo",
+      "date": "2026-10-13 18:03",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受惠於關稅政策調整預期與分析師買進建議，First Solar 股價單日上漲 4%，反映市場對其競爭優勢的認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "NextEra, First Solar, Enphase Among Clean Tech Firms Facing Q3 Valuation Impact on Higher Rates, Morgan Stanley Says",
+      "publisher": "Yahoo",
+      "date": "2026-10-14 15:03",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "摩根士丹利指出高利率環境對清潔能源板塊的估值造成壓力，First Solar 作為該領域代表性企業，面臨資本成本上升的挑戰。"
+    },
+    {
+      "rank": 2,
+      "title": "FSLR Stock Slips Overnight: First Solar's AI Power Demand Opportunity Faces Tax Credit Test, Says Analyst",
+      "publisher": "Yahoo",
+      "date": "2026-10-13 07:58",
+      "impact": "medium",
+      "category": "產業分析",
+      "reason": "晨星公司將 First Solar 的估值下調至 191 美元，理由是稅收抵免政策即將到期以及市場競爭加劇，抵銷了部分 AI 電力需求帶來的利多。"
+    },
+    {
+      "rank": 3,
+      "title": "Barclays Maintains Overweight on First Solar, Lowers Price Target to $259",
+      "publisher": "Benzinga",
+      "date": "2026-10-15 10:26",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "巴克萊銀行雖維持「加碼」評級，但將目標價下調至 259 美元，反映對短期獲利空間的保守調整。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "First Solar, Inc. to Announce Third Quarter 2026 Financial Results on October 29, 2026",
+      "publisher": "Yahoo",
+      "date": "2026-10-15 13:05",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "公司正式宣布財報發布日期，屬於例行性公告，市場正等待 10 月 29 日的具體數據。"
+    },
+    {
+      "rank": 2,
+      "title": "Earnings Preview: What to Expect From First Solar's Report",
+      "publisher": "Yahoo",
+      "date": "2026-10-13 14:32",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "市場預期公司第三季將實現高個位數的獲利成長，目前處於財報發布前的觀望期。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

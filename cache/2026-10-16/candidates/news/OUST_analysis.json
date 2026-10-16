@@ -1,0 +1,75 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-10-16",
+  "source_file": "cache/2026-10-16/candidates/news/OUST.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "Ouster 憑藉在 AI 機器人與無人機領域的技術應用獲得市場看好，儘管股價短期波動，但長期成長潛力與分析師目標價仍具吸引力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ouster: The Eyes Of Physical AI Are Ready To Scale",
+      "publisher": "SeekingAlpha",
+      "date": "2026-10-12 17:03",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "分析師給予 Ouster 強力買入評級，並設定 2028 年目標價為 88.27 美元，看好其作為物理 AI 視覺感測器的擴展潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Ouster (OUST) Lands Seneca Drone Deal On Undervalued Narrative Test",
+      "publisher": "Yahoo",
+      "date": "2026-10-14 01:20",
+      "impact": "medium",
+      "category": "業務合作",
+      "reason": "Ouster 與 Seneca 達成合作，將其 Rev8 OS1 Max 雷射雷達硬體應用於無人機領域，證明了產品在極端環境下的可靠性。"
+    },
+    {
+      "rank": 3,
+      "title": "Betting On The Future Of AI Robotics With Ouster (OUST)",
+      "publisher": "Yahoo",
+      "date": "2026-10-13 20:05",
+      "impact": "medium",
+      "category": "市場趨勢",
+      "reason": "強調機器人與自動化是 AI 領域的下一個兆美元投資浪潮，Ouster 作為關鍵感測技術供應商，長期成長前景看好。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ouster, Inc. (OUST) Dips More Than Broader Market: What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-10-13 21:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 5.21 %，表現弱於大盤，反映出市場在財報公布前的獲利了結或短期技術性修正。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ouster Announces Date for Third Quarter 2026 Earnings Call",
+      "publisher": "Yahoo",
+      "date": "2026-10-13 11:00",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "公司正式宣布 2026 年第三季財報會議日期，屬於例行性公告，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Ouster Reports Q2 2026 Results: Full Earnings Call Transcript",
+      "publisher": "Benzinga",
+      "date": "2026-10-13 04:07",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "提供第二季財報會議紀錄，屬於歷史資訊回顧，市場已反應相關數據。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
