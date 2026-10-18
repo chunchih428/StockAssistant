@@ -1,0 +1,93 @@
+{
+  "ticker": "TER",
+  "company": "Teradyne, Inc.",
+  "analysis_date": "2026-10-16",
+  "source_file": "cache/2026-10-16/holdings/news/TER.json",
+  "summary": {
+    "total_articles": 15,
+    "bullish_count": 7,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "Teradyne 透過與 FormFactor 的策略合作及推出 Edge AI 測試平台強化競爭優勢，儘管面臨宏觀經濟通膨壓力與估值討論，市場對其 AI 晶片測試業務前景仍持正面態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "FormFactor and Teradyne Announce Strategic Collaboration to Accelerate Next-Generation Semiconductor Testing",
+      "publisher": "Yahoo",
+      "date": "2026-10-12 20:01",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "兩家公司宣布廣泛的技術合作，並涉及 3 億美元的投資，旨在加速 AI 與高效能運算晶片的測試技術，顯著提升 Teradyne 在半導體測試領域的護城河。"
+    },
+    {
+      "rank": 2,
+      "title": "Teradyne Introduces UltraFLEXplus S Series for Edge AI Applications",
+      "publisher": "Yahoo",
+      "date": "2026-10-12 13:00",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出專為 Edge AI 晶片設計的 UltraFLEXplus S 系列測試平台，直接切入高成長的 AI 測試市場，有助於擴大營收來源。"
+    },
+    {
+      "rank": 3,
+      "title": "Teradyne Boosts Test Portfolio With Titan HP: Can It Beat KLAC & COHU?",
+      "publisher": "Yahoo",
+      "date": "2026-10-12 15:11",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "透過 Titan HP 平台強化產品組合，展現其在與 KLA (KLAC) 及 Cohu (COHU) 等競爭對手對抗中的技術領先地位。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "FormFactor, Teradyne, Applied Materials, AMD, and Intel Shares Plummet, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-10-15 17:36",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受高於預期的通膨數據影響，市場對宏觀經濟環境產生擔憂，導致半導體類股普遍下跌，TER 股價亦受拖累。"
+    },
+    {
+      "rank": 2,
+      "title": "Here's Why Teradyne (TER) Fell More Than Broader Market",
+      "publisher": "Yahoo",
+      "date": "2026-10-12 21:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "TER 股價單日下跌 4.68%，表現弱於大盤，反映出投資人對其短期波動的敏感度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Teradyne to Announce Third Quarter 2026 Results",
+      "publisher": "Yahoo",
+      "date": "2026-10-13 20:30",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "公司預告即將發布 2026 年第三季財報，屬於例行性公告，市場正等待實際數據以評估獲利能力。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Teradyne (TER) Too Expensive For Its Earnings Power?",
+      "publisher": "Yahoo",
+      "date": "2026-10-14 17:15",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "分析師針對 TER 的高估值與獲利能力進行討論，市場對於其股價是否已反映未來成長潛力存在分歧。"
+    },
+    {
+      "rank": 3,
+      "title": "TÜV Rheinland North America Honors Teradyne with 2026 Excellence in Safety and Sustainability Leadership Award",
+      "publisher": "Yahoo",
+      "date": "2026-10-14 12:16",
+      "impact": "low",
+      "category": "企業獎項",
+      "reason": "獲得安全與永續發展領導獎，雖提升企業形象，但對短期股價與財務表現影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

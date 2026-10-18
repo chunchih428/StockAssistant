@@ -1,0 +1,102 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-10-16",
+  "source_file": "cache/2026-10-16/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 13,
+    "bearish_count": 2,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "Apple 憑藉強勁的 AI 策略合作、中國市場擴張及新硬體產品發布，推動股價創下歷史新高。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple shares hit all-time high after announcing new home products",
+      "publisher": "CNBC",
+      "date": "2026-10-13 17:22",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "公司股價創下歷史新高，反映市場對其新硬體產品線（如 HomeView）及生態系統擴張的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple Intelligence Gets a China Launch Date, but Apple’s China Sales Were Already Up 22%",
+      "publisher": "Yahoo",
+      "date": "2026-10-15 11:47",
+      "impact": "high",
+      "category": "市場擴張",
+      "reason": "Apple Intelligence 獲准進入中國市場，且既有銷售額已成長 22 %，顯示其在關鍵市場的競爭力依然強勁。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple and Meta team up to make Muse AI model run on Mac computers",
+      "publisher": "CNBC",
+      "date": "2026-10-15 13:16",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "與 Meta 合作將 Muse AI 模型引入 Mac，強化了 Apple 在邊緣運算與 AI 軟體生態的布局。"
+    },
+    {
+      "rank": 4,
+      "title": "Apple joins Nvidia in the $5 trillion market cap club",
+      "publisher": "Yahoo",
+      "date": "2026-10-15 13:20",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市值突破 5 兆美元大關，象徵 Apple 在全球科技產業的領導地位與投資人對其長期價值的認可。"
+    },
+    {
+      "rank": 5,
+      "title": "Apple’s iPhone market share climbs to 22%, just one point behind Samsung",
+      "publisher": "CNBC",
+      "date": "2026-10-12 18:06",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "iPhone 市占率攀升至 22 %，顯示其在智慧型手機市場的市占率持續擴大，縮小與三星的差距。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "OpenAI escalates trade secret fight with Apple",
+      "publisher": "CNBC",
+      "date": "2026-10-14 12:27",
+      "impact": "medium",
+      "category": "法規與訴訟",
+      "reason": "與 OpenAI 的商業機密訴訟升級，可能帶來法律風險及潛在的技術合作阻礙。"
+    },
+    {
+      "rank": 2,
+      "title": "Nvidia, Apple, Broadcom in 'fierce' battle to get chip manufacturing space at TSMC",
+      "publisher": "CNBC",
+      "date": "2026-10-15 10:19",
+      "impact": "low",
+      "category": "供應鏈",
+      "reason": "台積電產能受限導致晶片供應競爭加劇，可能影響 Apple 未來產品的生產時程與成本。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Apple (AAPL): Can Longer iPhone Ownership Still Produce More Profit per Customer?",
+      "publisher": "Yahoo",
+      "date": "2026-10-15 13:38",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "探討 iPhone 使用週期延長對獲利能力的影響，屬於長期經營模式的策略性分析，無立即股價影響。"
+    },
+    {
+      "rank": 2,
+      "title": "iPhone Duo Preorders Begin Friday. Is Apple’s First Foldable Phone Reason Alone to Buy the Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-10-15 22:57",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "針對摺疊手機預購的市場預測，屬於投資觀點討論，尚未有具體銷售數據支持。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
