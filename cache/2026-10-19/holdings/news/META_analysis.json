@@ -1,0 +1,93 @@
+{
+  "ticker": "META",
+  "company": "Meta",
+  "analysis_date": "2026-10-19",
+  "source_file": "cache/2026-10-19/holdings/news/META.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 3,
+    "bearish_count": 4,
+    "neutral_count": 13,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場高度關注 Meta 即將公布的第 3 季財報，其 AI 資本支出與獲利展望將成為驗證 AI 產業投資熱潮的關鍵指標。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "5 big analyst AI moves: Meta gets Street-high PT; Salesforce double upgraded",
+      "publisher": "Yahoo",
+      "date": "2026-10-18 07:48",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師給予 Meta 華爾街最高目標價，顯示市場對其 AI 變現能力與長期成長潛力仍具高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple and Meta team up to make Muse AI model run on Mac computers",
+      "publisher": "CNBC",
+      "date": "2026-10-15 13:16",
+      "impact": "medium",
+      "category": "產品合作",
+      "reason": "Meta 與 Apple 達成合作，將 Muse AI 模型導入 Mac 系統，有助於擴大 Meta AI 生態系的開發者基礎與應用場景。"
+    },
+    {
+      "rank": 3,
+      "title": "What Advanced Micro Devices Buyers Were Betting On Before A 137% Rally",
+      "publisher": "Yahoo",
+      "date": "2026-10-18 04:17",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出 Meta 與 Anthropic 簽署了 AMD 加速器的大型採購合約，證實 Meta 在 AI 基礎設施建設上的積極投入。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Meta's $18 billion teen-safety deal is about to hit earnings",
+      "publisher": "Yahoo",
+      "date": "2026-10-18 14:37",
+      "impact": "high",
+      "category": "財報預測",
+      "reason": "高額的青少年安全和解金將直接衝擊當季獲利，且市場對其高達 2,050 億美元的 AI 預算感到擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+      "publisher": "CNBC",
+      "date": "2026-10-18 08:00",
+      "impact": "medium",
+      "category": "法規風險",
+      "reason": "Meta 的 AI 可穿戴設備面臨隱私法規挑戰，可能導致未來的監管壓力與法律合規成本上升。"
+    },
+    {
+      "rank": 3,
+      "title": "Meta Faces Brazil Election Scrutiny Over Instagram Restrictions on Lula’s Accounts Ahead of Runoff",
+      "publisher": "Benzinga",
+      "date": "2026-10-18 04:16",
+      "impact": "low",
+      "category": "法規風險",
+      "reason": "Meta 在巴西面臨選舉審查與政治偏見指控，可能引發當地市場的營運風險與聲譽損害。"
+    },
+    {
+      "rank": 4,
+      "title": "Meta, Tesla Q3 earnings will be fighting rising AI skepticism",
+      "publisher": "Yahoo",
+      "date": "2026-10-19 01:17",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場對 AI 投資回報的懷疑情緒升溫，若 Meta 財報無法證明 AI 支出能轉化為實質獲利，股價恐面臨修正壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "What To Expect In Markets This Week: SPCX, TSLA, META, NFLX, IBM Earnings And More",
+      "publisher": "Yahoo",
+      "date": "2026-10-18 13:58",
+      "impact": "low",
+      "category": "財報預測",
+      "reason": "此類新聞為例行性的財報週前瞻，彙整了多間科技巨頭的動態，對 Meta 本身無特殊利多或利空影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

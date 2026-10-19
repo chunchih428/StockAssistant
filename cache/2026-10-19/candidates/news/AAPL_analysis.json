@@ -1,0 +1,93 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-10-19",
+  "source_file": "cache/2026-10-19/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 2,
+    "neutral_count": 6,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "iPhone Duo 的強勁預購需求與市值突破 5 兆美元，展現了 Apple 在高階摺疊機市場的定價能力與 AI 策略布局的成功。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "iPhone Duo Preorders Sell Out Rapidly As Delivery Estimates Slip Into January",
+      "publisher": "Yahoo",
+      "date": "2026-10-18 13:12",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "iPhone Duo 預購需求極為強勁，交貨期已排至 2027 年 1 月，顯示消費者對 1,999 美元高價位摺疊機的高度接受度，有利於提升平均售價 (ASP)。"
+    },
+    {
+      "rank": 2,
+      "title": "iPhone Duo Preorders, AAPL Crosses $5 Trillion and More: This Week in Appleverse",
+      "publisher": "Benzinga",
+      "date": "2026-10-18 07:00",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Apple 市值正式突破 5 兆美元大關，反映市場對其生態系與 AI 轉型的高度信心，鞏固其全球科技龍頭地位。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple and Meta team up to make Muse AI model run on Mac computers",
+      "publisher": "CNBC",
+      "date": "2026-10-15 13:16",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "Apple 與 Meta 合作將 Muse AI 模型導入 Mac，強化了 Apple 硬體在 AI 運算領域的競爭力，有助於推動高階 Mac 的銷售。"
+    },
+    {
+      "rank": 4,
+      "title": "Apple's iPhone Duo Demand Tracking 'Solidly Out Of The Gate', Says Analyst As AAPL Stock Caps Off Best Week Since September Launch",
+      "publisher": "Yahoo",
+      "date": "2026-10-17 09:11",
+      "impact": "medium",
+      "category": "分析師觀點",
+      "reason": "Evercore ISI 等機構分析師確認預購需求強勁，且股價表現強勢，顯示市場對新產品週期的樂觀預期。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+      "publisher": "CNBC",
+      "date": "2026-10-18 08:00",
+      "impact": "low",
+      "category": "法規與隱私",
+      "reason": "AI 穿戴裝置的隱私問題引發法律疑慮，可能對 Apple 的品牌聲譽與未來監管環境造成潛在壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Nvidia, Apple, Broadcom in 'fierce' battle to get chip manufacturing space at TSMC",
+      "publisher": "CNBC",
+      "date": "2026-10-15 10:19",
+      "impact": "low",
+      "category": "供應鏈",
+      "reason": "台積電產能吃緊，Apple 與 Nvidia 等巨頭競爭晶片製造空間，可能導致供應鏈瓶頸並影響產品出貨效率。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "AAPL, TSLA, NFLX, GME, RKLB: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
+      "publisher": "Yahoo",
+      "date": "2026-10-19 02:04",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅提及散戶對 Apple 股票的關注度，屬於市場情緒觀察，對公司基本面無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Own VGT? Here's How Much of It Is Really Nvidia, Apple, Microsoft, and Broadcom.",
+      "publisher": "Yahoo",
+      "date": "2026-10-18 13:28",
+      "impact": "low",
+      "category": "投資組合",
+      "reason": "分析科技 ETF 的持股權重，屬於投資組合配置分析，對 Apple 本身股價無直接催化作用。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
