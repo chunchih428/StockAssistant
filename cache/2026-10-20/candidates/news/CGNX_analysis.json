@@ -1,0 +1,57 @@
+{
+  "ticker": "CGNX",
+  "company": "Cognex",
+  "analysis_date": "2026-10-19",
+  "source_file": "cache/2026-10-19/candidates/news/CGNX.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "分析師看好機器視覺與機器人技術的長期成長潛力，儘管總體經濟通膨壓力導致短期股價波動。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Barclays Maintains Overweight on Cognex, Raises Price Target to $85",
+      "publisher": "Benzinga",
+      "date": "2026-10-12 15:20",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Barclays 分析師 Guy Hardwick 維持對 Cognex 的「加碼」評級，並將目標價從 $80 上調至 $85，顯示市場對其業務前景信心增強。"
+    },
+    {
+      "rank": 2,
+      "title": "Jumping On The Robotics Train: Initiating Buy On Cognex",
+      "publisher": "SeekingAlpha",
+      "date": "2026-10-12 08:14",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "該報告指出 Cognex 在機器視覺領域的成長動能，並將 RealSense 機器人技術視為關鍵催化劑，給予買入建議。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cognex, Insight Enterprises, and SAIC Stocks Trade Down, What You Need To Know",
+      "publisher": "Yahoo",
+      "date": "2026-10-14 19:32",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受 9 月份通膨數據上升及能源成本增加影響，導致整體市場情緒疲軟，Cognex 股價隨大盤出現短期回調。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Cognex Announces Third Quarter 2026 Earnings Release and Conference Call Dates",
+      "publisher": "Yahoo",
+      "date": "2026-10-15 12:00",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "公司僅公告第三季財報發布日期與電話會議時間，屬於例行性行政公告，對股價無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

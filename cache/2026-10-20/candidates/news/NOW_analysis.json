@@ -1,0 +1,102 @@
+{
+  "ticker": "NOW",
+  "company": "ServiceNow",
+  "analysis_date": "2026-10-19",
+  "source_file": "cache/2026-10-19/candidates/news/NOW.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 2,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司發布 EmployeeWorks AI 平台與 AI Passport 強化企業自動化能力，並獲得多家投行上調目標價，雖短期股價出現獲利了結回調，但市場對其 AI 成長潛力與營運穩定性持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "ServiceNow (NOW) Unveils EmployeeWorks AI Platform",
+      "publisher": "Yahoo",
+      "date": "2026-10-15 17:12",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "公司推出新一代 EmployeeWorks AI 平台與 AI Passport，展現其在企業 AI 自動化領域的技術領先地位，為長期營收成長提供強大動能。"
+    },
+    {
+      "rank": 2,
+      "title": "Piper Sandler Maintains Overweight on ServiceNow, Raises Price Target to $175",
+      "publisher": "Benzinga",
+      "date": "2026-10-16 05:46",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Piper Sandler 分析師 Billy Fitzsimmons 維持加碼評級並將目標價上調至 $175，反映市場對其 AI 變現能力的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Mizuho Maintains Outperform on ServiceNow, Raises Price Target to $170",
+      "publisher": "Benzinga",
+      "date": "2026-10-15 13:43",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Mizuho 分析師 Gregg Moskowitz 維持優於大盤評級並上調目標價，認可公司在企業軟體市場的強勁競爭力。"
+    },
+    {
+      "rank": 4,
+      "title": "TD Cowen Maintains Buy on ServiceNow, Raises Price Target to $165",
+      "publisher": "Benzinga",
+      "date": "2026-10-15 09:33",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "TD Cowen 分析師 Derrick Wood 上調目標價至 $165，顯示華爾街對 ServiceNow 獲利成長前景的共識。"
+    },
+    {
+      "rank": 5,
+      "title": "ServiceNow Climbs 5% After Denying Decagon Acquisition Interest",
+      "publisher": "Yahoo",
+      "date": "2026-10-15 16:58",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "公司明確否認收購 Decagon 的傳聞，消除了市場對潛在併購稀釋股權或資本配置不當的疑慮，帶動股價上漲。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Here's Why ServiceNow (NOW) Fell More Than Broader Market",
+      "publisher": "Yahoo",
+      "date": "2026-10-16 20:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價在經歷前一日的強勁漲幅後，於 10 月 16 日出現 4.87% 的回調，主要受獲利了結賣壓及科技股整體疲軟影響。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "ServiceNow vs. Workday: Here's What Revenue Growth Trends Between These Software Companies Tell Investors",
+      "publisher": "Yahoo",
+      "date": "2026-10-18 21:24",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "對比 ServiceNow 與 Workday 的營收成長趨勢，分析兩者在企業軟體領域的定位，屬於產業分析性質，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike vs. ServiceNow: Comparing Revenue Trends Between These Growing Software Giants",
+      "publisher": "Yahoo",
+      "date": "2026-10-16 06:53",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 ServiceNow 與 CrowdStrike 進行營收趨勢比較，提供投資人產業競爭格局的參考，不構成買賣建議。"
+    },
+    {
+      "rank": 3,
+      "title": "Better High-Growth Software Stock for 2026: Figma vs. ServiceNow",
+      "publisher": "Yahoo",
+      "date": "2026-10-15 16:35",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討 Figma 與 ServiceNow 的風險與估值差異，屬於投資組合配置的比較分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

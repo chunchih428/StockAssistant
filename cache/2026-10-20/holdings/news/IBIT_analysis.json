@@ -1,0 +1,93 @@
+{
+  "ticker": "IBIT",
+  "company": "Bitcoin",
+  "analysis_date": "2026-10-19",
+  "source_file": "cache/2026-10-19/holdings/news/IBIT.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 1,
+    "bearish_count": 5,
+    "neutral_count": 3,
+    "overall_sentiment": "bearish",
+    "key_theme": "近期 IBIT 面臨顯著的資金淨流出壓力，導致市場對其短期資金動能產生疑慮，儘管技術面顯示出潛在的突破跡象。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bitcoin's Recovery Sets Up This Limited-Risk Spread",
+      "publisher": "Yahoo",
+      "date": "2026-10-12 16:20",
+      "impact": "medium",
+      "category": "技術分析",
+      "reason": "該報導指出 IBIT 已突破下降趨勢線並完成杯柄型態，技術指標顯示買入訊號，為近期少數看多觀點。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "BlackRock’s Bitcoin ETF Lost $165 Million in a Week. Is Wall Street Pulling Back?",
+      "publisher": "Yahoo",
+      "date": "2026-10-18 14:31",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "彙整了近期資金流出狀況，單週流出 1.65 億美元引發華爾街對機構投資者是否撤資的擔憂，具備高度代表性。"
+    },
+    {
+      "rank": 2,
+      "title": "Bitcoin ETF Records $260 Million Outflows, Led by Fidelity and BlackRock",
+      "publisher": "Yahoo",
+      "date": "2026-10-15 13:02",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "報導指出 10 月 14 日單日淨流出達 2.61 億美元，顯示整體現貨比特幣 ETF 市場面臨賣壓，IBIT 為主要參與者之一。"
+    },
+    {
+      "rank": 3,
+      "title": "Bitcoin ETF Outflows Reach $65 Million as BlackRock Bleeds Cash",
+      "publisher": "Yahoo",
+      "date": "2026-10-13 10:59",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "報導指出 IBIT 單日流出 6540 萬美元，且佔據當日整體 ETF 流出量的絕大部分，對短期股價動能造成負面影響。"
+    },
+    {
+      "rank": 4,
+      "title": "Who Really Owns the Bitcoin Inside BlackRock’s ETF?",
+      "publisher": "Yahoo",
+      "date": "2026-10-17 16:00",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "探討 IBIT 底層資產所有權鏈條的透明度問題，可能引發投資人對託管結構的疑慮，屬於潛在的負面情緒因素。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Bitcoin price holds above $81,000 as ETF outflows weigh on sentiment",
+      "publisher": "Yahoo",
+      "date": "2026-10-17 06:18",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "比特幣價格維持在 8.1 萬美元以上，但 ETF 的資金流出與價格走勢形成拉鋸，市場情緒呈現中性偏謹慎。"
+    },
+    {
+      "rank": 2,
+      "title": "Bitcoin Bounces Above $83,000, XRP, ETH Claw Back Overnight Losses",
+      "publisher": "Benzinga",
+      "date": "2026-10-13 08:09",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "雖然提到 ETF 流出壓力，但重點在於比特幣價格反彈，對 IBIT 股價影響呈現多空抵銷。"
+    },
+    {
+      "rank": 3,
+      "title": "Bitcoin, Nvidia And Tesla ETFs Lead Wall Street’s Most Traded Funds",
+      "publisher": "Benzinga",
+      "date": "2026-10-14 11:11",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅提及 IBIT 在成交量上的市場地位，並未對其價格趨勢提供明確的利多或利空訊號。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
