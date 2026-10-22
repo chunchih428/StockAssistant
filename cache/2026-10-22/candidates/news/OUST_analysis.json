@@ -1,0 +1,37 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-10-22",
+  "source_file": "cache/2026-10-22/candidates/news/OUST.json",
+  "summary": {
+    "total_articles": 2,
+    "bullish_count": 2,
+    "bearish_count": 0,
+    "neutral_count": 0,
+    "overall_sentiment": "bullish",
+    "key_theme": "Ouster 的感測器技術在烏克蘭戰場的實戰應用獲得驗證，展現了其在 Physical AI 領域的技術領先地位與市場價值。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ouster Sensors Play Key Role in Forterra's Lancer Completing 1,426 Missions and 88 Casualty Evacuation Operations in Ukraine",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 11:00",
+      "impact": "high",
+      "category": "產品應用與市場驗證",
+      "reason": "Ouster 的感測器成功支援 Forterra 的 Lancer 車輛在烏克蘭執行超過 1,400 次任務，證明其產品在極端環境下的可靠性與軍事應用潛力，有助於提升公司在國防與自動駕駛領域的品牌價值。"
+    },
+    {
+      "rank": 2,
+      "title": "Ouster, Inc. (OUST) Beats Stock Market Upswing: What Investors Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-10-19 21:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "OUST 股價收於 28.86 美元，展現出優於大盤的強勢表現，顯示市場資金對該公司近期發展持正面態度，技術面走勢良好。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

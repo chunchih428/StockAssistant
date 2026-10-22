@@ -1,0 +1,102 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-10-22",
+  "source_file": "cache/2026-10-22/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "Broadcom 憑藉強勁的 AI 晶片營收成長與 VMware 軟體業務的持續擴張，展現出穩健的長期成長潛力，儘管市場對 AI 支出可持續性與 CEO 的謹慎言論仍存有疑慮。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Broadcom’s AI Revenue Surges 221%, But is Growth Becoming Too Dependent on AI Spending?",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 15:25",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "AI 晶片營收年增 221 %，顯示公司在 AI 基礎設施領域的市場領導地位，儘管市場擔憂依賴度，但強勁的成長數據是股價的核心支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom Launches Arcot Scam Defense to Block Social Engineering Fraud",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 13:00",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "推出 Arcot Scam Defense 防詐騙功能，強化了公司在金融科技與資安領域的產品組合，有助於提升軟體業務的附加價值。"
+    },
+    {
+      "rank": 3,
+      "title": "Broadcom Announces Continued Infrastructure Agreement with FedEx to Support Global Operations",
+      "publisher": "Yahoo",
+      "date": "2026-10-20 13:00",
+      "impact": "medium",
+      "category": "業務合作",
+      "reason": "與 FedEx 達成持續性的基礎設施軟體合作，證明了 VMware 軟體組合在大型企業客戶中的黏著度與長期價值。"
+    },
+    {
+      "rank": 4,
+      "title": "NVIDIA Gets the Attention, but Broadcom Could Deliver the Bigger Surprise",
+      "publisher": "Yahoo",
+      "date": "2026-10-20 13:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 Broadcom 的 AI 晶片成長超乎華爾街預期，且股價相較於高點有 30 % 以上的折價，具備投資吸引力。"
+    },
+    {
+      "rank": 5,
+      "title": "$4,000 in These 4 Non-Nvidia Chip Stocks Could Be Worth This Much by 2030",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 20:05",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 Broadcom 列為 2030 年前具備高報酬潛力的半導體股之一，強化了長期投資者的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "AVGO Stock Edges Up Overnight After 10-Year Docomo Deal, But Retail Stays On Edge Over CEO’s AI ‘Casino’ Remarks",
+      "publisher": "Yahoo",
+      "date": "2026-10-20 03:08",
+      "impact": "medium",
+      "category": "高層言論",
+      "reason": "CEO Hock Tan 將 AI 市場比喻為「賭場」並警告資本限制，引發零售投資人對 AI 支出可持續性的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Companies object to tokenized listings on OKX-ICE platform",
+      "publisher": "Yahoo",
+      "date": "2026-10-19 19:00",
+      "impact": "low",
+      "category": "法規與合規",
+      "reason": "Broadcom 反對其股票在未經授權的代幣化平台 OKX-ICE 上交易，顯示公司對品牌與合規性的嚴格控管，雖非營運利空，但涉及法律糾紛。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Broadcom (AVGO) vs. Texas Instruments (TXN): Higher Income or Stronger Dividend Coverage?",
+      "publisher": "Yahoo",
+      "date": "2026-10-19 18:57",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為同業間的股息與財務指標比較，未對公司基本面產生實質影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Has Buying Broadcom Stock's Dips Paid Off?",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 13:55",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討歷史買入策略的成效，屬於技術性分析，對當前股價驅動有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,129 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-10-22",
+  "source_file": "cache/2026-10-22/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 6,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對 Amazon 在 AI 基礎設施的龐大資本支出與雲端成長潛力看法分歧，同時面臨物流自動化帶來的利潤改善與數據中心建設調整的雙重影響。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Call of the Day: Morgan Stanley names Amazon a top pick — Morgan Stanley named Amazon its top pick and raised its price target to $350 from $335, implying over 30% upside.",
+      "publisher": "CNBC",
+      "date": "2026-10-19 17:54",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "摩根士丹利將 Amazon 列為首選股，並將目標價上調至 350 美元，顯示華爾街對其長期成長動能的高度信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon logistics automation offers long-term margin gains, Jefferies says",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 19:43",
+      "impact": "medium",
+      "category": "營運效率",
+      "reason": "Jefferies 指出物流自動化將顯著提升零售利潤率，為公司長期獲利能力提供結構性支撐。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon plans €16bn investment across Germany in 2027",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 12:22",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "在德國宣布 160 億歐元的投資計畫，展現了公司在歐洲市場持續擴張基礎設施的決心與實力。"
+    },
+    {
+      "rank": 4,
+      "title": "Amazon (AMZN): Can Custom AI Silicon Outpace Capex Commitments?",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 15:16",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Trainium AI 晶片開放給所有 PyTorch 開發者使用，有助於降低對外部供應商的依賴並提升 AI 運算效率。"
+    },
+    {
+      "rank": 5,
+      "title": "Amazon eyes 300K holiday hires",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 16:40",
+      "impact": "low",
+      "category": "營運展望",
+      "reason": "計畫招募 30 萬名季節性員工，顯示公司預期年底購物旺季需求強勁。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Amazon's Nvidia Chips Are Sitting in Warehouses Without Power as AI Spending Soars",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 18:06",
+      "impact": "high",
+      "category": "營運風險",
+      "reason": "報導指出高價購買的 Nvidia 晶片因電力基礎設施不足而閒置，凸顯了 AI 資本支出效率低下的風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon abandons $427 million GW campus data center plan and pledges land donations worth $65 million instead",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 18:19",
+      "impact": "medium",
+      "category": "資本支出",
+      "reason": "放棄 4.27 億美元的數據中心計畫，反映了公司在基礎設施擴張策略上的不確定性與調整。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon Stock Could Climb Higher as AWS Becomes an Even Bigger Growth Engine",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 16:00",
+      "impact": "medium",
+      "category": "財報分析",
+      "reason": "雖然 AWS 成長強勁，但 2000 億美元的資本支出計畫與負現金流引發市場對獲利能力的擔憂。"
+    },
+    {
+      "rank": 4,
+      "title": "Why is Amazon still sending settlement checks? FTC refunds explained",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 17:24",
+      "impact": "low",
+      "category": "法規監管",
+      "reason": "持續處理 FTC 的退款賠償，提醒投資人公司仍面臨監管機構的審查壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Amazon vs. Target: Where Should Long-Term Investors Put Their Money?",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 02:20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "對比 Amazon 與 Target 的投資價值，屬於常規的市場比較分析，無重大新訊息。"
+    },
+    {
+      "rank": 2,
+      "title": "With Amazon Earnings On Tap, Here's How To Ride Out The Volatility",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 17:58",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對財報前夕的波動性提供交易建議，屬於市場情緒觀察，非公司基本面變動。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon or Alphabet: If I Could Only Own One for the Next Decade, It Would Be This One",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 17:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "關於 Amazon 與 Alphabet 的長期投資選擇討論，屬於觀點分享。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

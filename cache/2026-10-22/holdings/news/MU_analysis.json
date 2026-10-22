@@ -1,0 +1,120 @@
+{
+  "ticker": "MU",
+  "company": "Micron Technology",
+  "analysis_date": "2026-10-22",
+  "source_file": "cache/2026-10-22/holdings/news/MU.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 3,
+    "neutral_count": 7,
+    "overall_sentiment": "bullish",
+    "key_theme": "Micron 憑藉 AI 記憶體技術藍圖與關鍵礦物投資布局獲得市場看好，儘管面臨勞資爭議與估值討論，但整體基本面與成長潛力仍受分析師肯定。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Micron Technology Maps AI Memory Future With HBM, DRAM and NAND Roadmap",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 17:04",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "公司明確提出針對 AI 需求的 HBM、DRAM 與 NAND 產品藍圖，強化了其在 AI 硬體供應鏈中的核心競爭地位。"
+    },
+    {
+      "rank": 2,
+      "title": "Micron Stock Moves Higher: What's Going On?",
+      "publisher": "Benzinga",
+      "date": "2026-10-20 12:37",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Cantor Fitzgerald 看好其後續上漲空間，並指出記憶體市場供需持續緊俏，有利於公司獲利表現。"
+    },
+    {
+      "rank": 3,
+      "title": "Musk Love: Micron Is “Reasonable” on Memory Prices While Others Price-Gouge",
+      "publisher": "Yahoo",
+      "date": "2026-10-19 18:06",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Elon Musk 公開讚賞 Micron 在記憶體定價上採取合理策略，有助於鞏固與大型客戶的長期合作關係。"
+    },
+    {
+      "rank": 4,
+      "title": "Micron Technology To Invest In Critical Minerals Under Its $3B Investment Plan",
+      "publisher": "Benzinga",
+      "date": "2026-10-20 07:35",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "宣布 30 億美元的關鍵礦物處理投資計畫，展現公司在供應鏈垂直整合與地緣政治風險控管上的積極作為。"
+    },
+    {
+      "rank": 5,
+      "title": "Micron (MU) Looks Cheap at 5 Times Forward Earnings. Can Its Profit Boom Last?",
+      "publisher": "Yahoo",
+      "date": "2026-10-19 15:36",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "分析指出 5 倍的預期本益比顯示股價被低估，且公司正處於記憶體定價週期的上升階段。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Micron Workers In Taiwan Announce Strike Over Escalating Bonus Dispute",
+      "publisher": "Yahoo",
+      "date": "2026-10-20 13:16",
+      "impact": "medium",
+      "category": "勞資關係",
+      "reason": "台灣廠區的罷工威脅可能影響生產效率，儘管後續已達成協議，但短期內仍對營運穩定性造成干擾。"
+    },
+    {
+      "rank": 2,
+      "title": "Micron (MU) Stock Looks Fully Valued After A Critical Minerals Deal",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 01:23",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場觀點認為在經歷大幅上漲後，股價已充分反映利多，後續上漲動能可能減弱。"
+    },
+    {
+      "rank": 3,
+      "title": "Does Micron (MU) Have an Economic Moat at All?",
+      "publisher": "Yahoo",
+      "date": "2026-10-18 14:31",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "質疑公司在記憶體產業的護城河深度，反映出投資人對於產業週期性波動的長期擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Micron Technology Reaches Labour-Management Agreement With Taiwan’s Taichung Union",
+      "publisher": "Benzinga",
+      "date": "2026-10-21 03:01",
+      "impact": "low",
+      "category": "勞資關係",
+      "reason": "勞資雙方達成協議並撤銷調解，消除了罷工風險，屬於事件平息後的正面中性消息。"
+    },
+    {
+      "rank": 2,
+      "title": "The Zacks Analyst Blog Highlights Microsoft, Palantir Technologies, Micron Technology, Lam Research and IonQ",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 12:16",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為產業趨勢的綜合性報導，提及 Micron 作為 AI 相關受惠股，未提供具體新資訊。"
+    },
+    {
+      "rank": 3,
+      "title": "INTC, AMD, MU, SNDK: US Chip Stocks Rebound After Worst Week Since March",
+      "publisher": "Yahoo",
+      "date": "2026-10-19 04:54",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "反映半導體類股整體市場情緒的技術性反彈，並非針對 Micron 個股的特定利多。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
