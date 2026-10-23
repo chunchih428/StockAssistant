@@ -1,0 +1,102 @@
+{
+  "ticker": "NOW",
+  "company": "ServiceNow",
+  "analysis_date": "2026-10-22",
+  "source_file": "cache/2026-10-22/candidates/news/NOW.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "AI 產品強勁成長與企業採用率提升，帶動分析師調升目標價與市場樂觀情緒。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "ServiceNow Rallies 43% in Three Months as AI Contract Value Tops $1 Billion",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 13:22",
+      "impact": "high",
+      "category": "財報與業務成長",
+      "reason": "AI 合約價值突破 10 億美元大關，顯示其 AI Workflow Factory 產品在全球市場的強勁變現能力。"
+    },
+    {
+      "rank": 2,
+      "title": "ServiceNow gets Street-high $266 price target as AI adoption boosts growth outlook",
+      "publisher": "Yahoo",
+      "date": "2026-10-20 12:20",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "分析師給出華爾街最高目標價 266 美元，反映市場對其 AI 驅動成長前景的高度信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Truist Securities Maintains Buy on ServiceNow, Raises Price Target to $180",
+      "publisher": "Benzinga",
+      "date": "2026-10-21 09:59",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Truist Securities 維持買入評級並調升目標價，顯示機構投資人對其長期獲利能力的認可。"
+    },
+    {
+      "rank": 4,
+      "title": "ServiceNow Announces Updates For Governance, Security Across Its AI Offering With Nvidia",
+      "publisher": "Benzinga",
+      "date": "2026-10-21 07:37",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "與 Nvidia 深度合作強化 AI 治理與安全性，提升了企業級客戶對其平台的信任度與競爭門檻。"
+    },
+    {
+      "rank": 5,
+      "title": "These 2 software stocks are new Top Picks at BMO",
+      "publisher": "Yahoo",
+      "date": "2026-10-20 10:37",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "BMO Capital Markets 將 ServiceNow 列為首選股，進一步強化了市場對該股的買入動能。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "ServiceNow Research Study Warns Security Leaders: Ungoverned Agentic AI Exposure Is Compounding Inside Enterprises",
+      "publisher": "Yahoo",
+      "date": "2026-10-20 13:00",
+      "impact": "medium",
+      "category": "市場風險",
+      "reason": "公司發布研究報告指出企業內部 AI 治理不足的風險，雖旨在推廣治理工具，但亦凸顯了 AI 部署的潛在安全隱憂。"
+    },
+    {
+      "rank": 2,
+      "title": "ServiceNow (NOW) Needs Stronger Cash Flow to Support Its AI Expansion",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 14:15",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "指出 AI 擴張帶來的平台成本上升，強調公司需更強勁的現金流以支撐長期資本支出。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "ServiceNow's Quarterly Earnings Preview: What You Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 07:59",
+      "impact": "low",
+      "category": "財報預告",
+      "reason": "僅為財報發布前的市場預期整理，未包含具體利多或利空資訊。"
+    },
+    {
+      "rank": 2,
+      "title": "Here is What to Know Beyond Why ServiceNow, Inc. (NOW) is a Trending Stock",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 12:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對股價趨勢的技術性與基本面事實整理，屬於中性市場觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

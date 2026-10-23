@@ -1,0 +1,66 @@
+{
+  "ticker": "NTNX",
+  "company": "Nutanix, Inc.",
+  "analysis_date": "2026-10-22",
+  "source_file": "cache/2026-10-22/candidates/news/NTNX.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "Nutanix 透過與 NVIDIA、Supermicro 及 Netris 的策略合作，積極擴展 AI 生態系統以降低企業部署成本，抵銷了近期股價波動的負面情緒。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Nutanix Builds a Faster Foundation for Production AI",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 11:30",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Nutanix 擴展其 AI 生態系統，整合 NVIDIA、Supermicro 與 Netris 技術，旨在加速企業 AI 基礎設施部署，此舉強化了公司在 AI 領域的競爭優勢。"
+    },
+    {
+      "rank": 2,
+      "title": "Nutanix and Supermicro Take on Runaway AI Costs with Jointly Engineered System for Private Inference",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 11:30",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "透過與 Supermicro 共同開發針對私有推理的系統，解決企業 AI 部署成本過高的痛點，有助於提升產品的市場滲透率。"
+    },
+    {
+      "rank": 3,
+      "title": "Brokers Suggest Investing in Nutanix (NTNX): Read This Before Placing a Bet",
+      "publisher": "Yahoo",
+      "date": "2026-10-15 12:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "券商平均建議評級 (ABR) 維持在「買入」水準，顯示市場分析師對 Nutanix 的長期成長潛力與基本面仍持正面看法。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Nutanix (NTNX) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-10-16 20:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 4.32 %，表現弱於大盤，反映出短期市場賣壓或技術性修正，但未有基本面惡化的具體消息。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Nutanix and Netris Announce Strategic Collaboration to Deliver a Multitenant Infrastructure Stack",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 11:30",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "此合作內容已涵蓋在 Nutanix 擴展 AI 生態系統的整體新聞中，故將此篇視為該主題的細節補充，對股價影響已反映在主要利多新聞中。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

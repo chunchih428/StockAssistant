@@ -1,0 +1,111 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy",
+  "analysis_date": "2026-10-23",
+  "source_file": "cache/2026-10-23/holdings/news/CEG.json",
+  "summary": {
+    "total_articles": 16,
+    "bullish_count": 11,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "受惠於 AI 資料中心對核能電力需求的強勁成長，Constellation Energy 獲得多家券商調升目標價與正面評級，且與 Google 簽署長期購電協議，基本面展望極佳。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Constellation Energy (CEG) Signs Google Nuclear Deal, Is It Still Undervalued?",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 15:15",
+      "impact": "high",
+      "category": "商業合作",
+      "reason": "與 Google 簽署為期 20 年的核能購電協議，確立了公司作為 AI 基礎設施關鍵電力供應商的地位，具備長期營收穩定性。"
+    },
+    {
+      "rank": 2,
+      "title": "Morgan Stanley Maintains Overweight on Constellation Energy, Raises Price Target to $378",
+      "publisher": "Benzinga",
+      "date": "2026-10-21 12:18",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "摩根士丹利分析師 David Arcaro 維持「加碼」評級並調升目標價至 378 美元，反映市場對其核能資產價值重估的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "HSBC Initiates Coverage On Constellation Energy with Buy Rating, Announces Price Target of $335",
+      "publisher": "Benzinga",
+      "date": "2026-10-22 08:00",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "匯豐銀行分析師 Meike Becker 給予「買進」評級，顯示大型機構對公司在能源轉型中的領導地位持正面看法。"
+    },
+    {
+      "rank": 4,
+      "title": "Why Constellation Energy Corporation (CEG) is Poised to Beat Earnings Estimates Again",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 15:10",
+      "impact": "medium",
+      "category": "財報預測",
+      "reason": "基於公司過往優異的財報表現紀錄，市場預期其在 AI 驅動的電力需求下，有望再次超越獲利預期。"
+    },
+    {
+      "rank": 5,
+      "title": "CIBC Initiates Coverage On Constellation Energy with Outperformer Rating, Announces Price Target of $358",
+      "publisher": "Benzinga",
+      "date": "2026-10-16 08:20",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "CIBC 給予「優於大盤」評級，進一步強化了華爾街對該股成長潛力的共識。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Is This Number The Biggest Risk To Constellation Energy Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-10-19 21:28",
+      "impact": "medium",
+      "category": "財務風險",
+      "reason": "指出公司負債高達 247 億美元，在資本密集型的能源產業中，高負債可能在利率波動時增加財務壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Musk Says AI Is Short on Power. Here’s Why Constellation Energy Still Has a Rules Problem",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 20:29",
+      "impact": "low",
+      "category": "法規監管",
+      "reason": "提及公司在核能擴張過程中仍面臨法規與政策限制，可能影響專案執行進度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Nuclear Energy Analyst Roundup: Wall Street Weighs In On OKLO, SMR, CEG, VST, LEU Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 01:59",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "綜合性產業報導，將 CEG 與其他核能股進行比較，未提供針對 CEG 的新觀點。"
+    },
+    {
+      "rank": 2,
+      "title": "Bloom Energy vs. Constellation Energy: Which AI Power Stock Is the Better Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 14:05",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "比較兩家能源公司在 AI 領域的競爭力，屬於產業分析性質，對股價無直接催化作用。"
+    },
+    {
+      "rank": 3,
+      "title": "Constellation Energy And 2 Other Top Nuclear Power Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 00:16",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "討論油價波動對核能股的間接影響，屬於總體經濟背景分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

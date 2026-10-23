@@ -1,0 +1,93 @@
+{
+  "ticker": "VOO",
+  "company": "S&P 500",
+  "analysis_date": "2026-10-22",
+  "source_file": "cache/2026-10-22/holdings/news/VOO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 6,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管企業財報表現強勁且市場具備長期成長潛力，但 AI 類股波動、油價上漲及市場內部結構脆弱性引發了投資人對短期回調的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "A Record Number of S&P 500 Companies Issued Upbeat Guidance Before Earnings Season",
+      "publisher": "Yahoo",
+      "date": "2026-10-18 09:37",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "72 家標普 500 指數成分股公司發布優於預期的財測，顯示企業獲利基本面強勁，為指數提供支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "The Bull Market Isn't Sick Anymore",
+      "publisher": "SeekingAlpha",
+      "date": "2026-10-19 10:13",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "強調企業獲利廣度改善及庫藏股回購增加，支撐牛市延續，特別是等權重指數表現具吸引力。"
+    },
+    {
+      "rank": 3,
+      "title": "3 Reasons the Vanguard S&P 500 ETF Could Be Worth Holding for the Next 20 Years",
+      "publisher": "Yahoo",
+      "date": "2026-10-17 20:23",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "長期持有 VOO 的價值主張明確，強調指數化投資在跨越 20 年週期中的複利效應與抗風險能力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "S&P 500 Index Outlook: Strong Earnings Meet AI Rout, $110 Oil Prices",
+      "publisher": "Benzinga",
+      "date": "2026-10-17 13:30",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "AI 類股回調與油價飆升至 110 美元，對市場情緒造成顯著壓力，抵銷了部分財報利多。"
+    },
+    {
+      "rank": 2,
+      "title": "This Market Is Rotten Under The Hood - I'm Making These 3 Moves",
+      "publisher": "SeekingAlpha",
+      "date": "2026-10-18 07:30",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "指出市場結構脆弱，獲利過度集中於半導體與能源產業，隱含市場下行風險。"
+    },
+    {
+      "rank": 3,
+      "title": "S&P 500 Falls As Investors Shift Forward-Looking Focus Back To Q4 2026",
+      "publisher": "SeekingAlpha",
+      "date": "2026-10-19 09:22",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "標普 500 指數單週下跌 1.95%，反映投資人對第四季宏觀經濟前景的擔憂加劇。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "VOO, VTI, SPY, or IVV? How These 4 Index Funds Differ",
+      "publisher": "Yahoo",
+      "date": "2026-10-16 09:20",
+      "impact": "low",
+      "category": "產品比較",
+      "reason": "僅為投資人提供不同指數型基金的細節比較，對 VOO 本身股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "How Long Does It Take to Build a $1 Million Portfolio by Investing in VOO?",
+      "publisher": "Yahoo",
+      "date": "2026-10-20 12:35",
+      "impact": "low",
+      "category": "投資教育",
+      "reason": "探討長期投資規劃的數學計算，屬於教育性質，不影響短期市場價格。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
