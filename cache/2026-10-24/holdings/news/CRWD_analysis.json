@@ -1,0 +1,111 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-10-23",
+  "source_file": "cache/2026-10-23/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 13,
+    "bearish_count": 4,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "CrowdStrike 與 NVIDIA 擴大 AI 安全合作夥伴關係，帶動市場信心與股價上漲，儘管高估值仍引發部分投資人擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike and NVIDIA Expand AI Agent Security from Software to Silicon",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 11:30",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "CrowdStrike 與 NVIDIA 擴大合作，將 AI 代理安全防護從軟體層延伸至矽晶片層，此技術領先地位強化了其在資安市場的護城河，是近期股價上漲的主要驅動力。"
+    },
+    {
+      "rank": 2,
+      "title": "Mizuho Maintains Outperform on CrowdStrike Holdings, Raises Price Target to $275",
+      "publisher": "Benzinga",
+      "date": "2026-10-22 07:57",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Mizuho 分析師 Gregg Moskowitz 維持對 CrowdStrike 的「優於大盤」評級，並將目標價調升至 275 美元，顯示專業機構對其成長前景的認可。"
+    },
+    {
+      "rank": 3,
+      "title": "Rapid7, CrowdStrike, Cloudflare, Okta, and JFrog shares skyrocket, what you need to know",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 20:38",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "整體網路安全板塊情緒轉佳，帶動 CrowdStrike 股價同步走高，反映出市場對資安需求持續成長的共識。"
+    },
+    {
+      "rank": 4,
+      "title": "CrowdStrike (CRWD) Joins Founding Group Shaping Trusted AI Standards For SMBs",
+      "publisher": "Yahoo",
+      "date": "2026-10-20 12:12",
+      "impact": "low",
+      "category": "產業影響力",
+      "reason": "成為 GTIA 管理智慧聯盟的創始成員，有助於提升公司在中小企業 AI 安全標準制定中的話語權。"
+    },
+    {
+      "rank": 5,
+      "title": "QIZ is Now Available for Purchase on the CrowdStrike Marketplace",
+      "publisher": "Yahoo",
+      "date": "2026-10-19 15:03",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "透過 Marketplace 上架新產品，持續擴大生態系與營收來源。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Should One Cost Scare You About CrowdStrike Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 13:39",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "針對公司營運成本結構提出質疑，提醒投資人高成長背後的獲利能力與成本控制風險。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike vs. Docusign: Which Technology Stock Is a Better Buy in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-10-20 18:55",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "指出 CrowdStrike 擁有 192 倍的預期本益比，相較於其他科技股估值偏高，若成長放緩可能面臨修正壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "What Are CrowdStrike Investors Betting On?",
+      "publisher": "Yahoo",
+      "date": "2026-10-19 21:20",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "強調公司 231 倍的本益比過度依賴未來高成長預期，市場對其「完美定價」的擔憂依然存在。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ent Appoints Kevin Arsenault Chief Revenue Officer",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 17:35",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "前 CrowdStrike 高管轉職至其他公司，對 CrowdStrike 本身營運無直接影響，僅為產業人才流動。"
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike (CRWD) is Attracting Investor Attention: Here is What You Should Know",
+      "publisher": "Yahoo",
+      "date": "2026-10-19 12:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為市場關注度分析，未提供新的基本面資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

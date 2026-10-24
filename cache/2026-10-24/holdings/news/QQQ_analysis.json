@@ -1,0 +1,111 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-10-22",
+  "source_file": "cache/2026-10-22/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 11,
+    "bullish_count": 2,
+    "bearish_count": 7,
+    "neutral_count": 2,
+    "overall_sentiment": "bearish",
+    "key_theme": "科技股近期面臨賣壓與市場情緒轉弱，投資人對於 AI 資本支出與總體經濟環境的擔憂加劇，導致 QQQ 短期技術面承壓。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Tech Stock Sell-Off: 1 Unstoppable ETF to Buy on the Dip in 2026",
+      "publisher": "Yahoo",
+      "date": "2026-10-17 16:37",
+      "impact": "medium",
+      "category": "市場觀點",
+      "reason": "儘管近期科技股出現拋售，但分析師仍將 Invesco QQQ Trust 視為成長型投資人長期可靠的投資標的，建議投資人可逢低布局。"
+    },
+    {
+      "rank": 2,
+      "title": "Double Size, Double Leverage: Why We Supercharged This QQQ Trade",
+      "publisher": "Yahoo",
+      "date": "2026-10-16 20:20",
+      "impact": "low",
+      "category": "交易策略",
+      "reason": "文章強調在震盪行情中，透過槓桿操作來放大 QQQ 交易優勢的策略，反映出部分交易者仍積極尋求獲利機會。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Michael Burry's 'Red October' Warning: Why QQQ and SMH Could Face More Pain",
+      "publisher": "Benzinga",
+      "date": "2026-10-15 14:04",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "知名投資人 Michael Burry 警告市場可能觸頂，指出即便債券殖利率下降也未能支撐科技股，暗示 QQQ 可能面臨進一步下跌風險。"
+    },
+    {
+      "rank": 2,
+      "title": "3 Reasons QQQ Could Fall 10% Soon, and 1 Reason It Could Rally Into 2027",
+      "publisher": "Yahoo",
+      "date": "2026-10-15 18:02",
+      "impact": "high",
+      "category": "風險評估",
+      "reason": "文章詳細列舉了 QQQ 可能下跌 10 % 的三大理由，反映出市場對於科技股估值與動能減弱的深層擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Broad Selling Breaks the Fragile Recovery as Small Caps Sink",
+      "publisher": "ChartMill",
+      "date": "2026-10-15 09:06",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場廣度轉為負面，且 QQQ 已跌破關鍵支撐位，顯示技術面趨勢轉弱，賣壓沉重。"
+    },
+    {
+      "rank": 4,
+      "title": "Meta's AI Spending Could Hit $205 Billion in 2027: Why Magnificent 7 ETFs Face a Crucial Test",
+      "publisher": "Benzinga",
+      "date": "2026-10-16 16:41",
+      "impact": "medium",
+      "category": "財報預期",
+      "reason": "Meta 預計 2027 年 AI 支出高達 2,050 億美元，市場質疑 AI 驅動的廣告成長是否足以支撐如此龐大的資本支出，這對作為科技權值股代表的 QQQ 構成潛在壓力。"
+    },
+    {
+      "rank": 5,
+      "title": "Health Care and Crude Led the Week While Tech Lost Its Grip",
+      "publisher": "Yahoo",
+      "date": "2026-10-16 13:10",
+      "impact": "low",
+      "category": "市場回顧",
+      "reason": "報導指出科技板塊近期表現疲軟，Invesco QQQ Trust 價格下跌，顯示資金正從科技股輪動至其他板塊。"
+    },
+    {
+      "rank": 6,
+      "title": "QQQ: How To Set Up A Bear Put Spread In This Hot Tech Index",
+      "publisher": "Yahoo",
+      "date": "2026-10-19 14:47",
+      "impact": "low",
+      "category": "交易策略",
+      "reason": "文章建議投資人建立賣權價差（Bear Put Spread）策略，顯示市場對 QQQ 短期走勢持看空態度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Why Are Nasdaq Futures Falling Premarket? ... retail sentiment toward SPY has dipped into ‘bearish’ territory and has moderated to ‘neutral’ for QQQ.",
+      "publisher": "Yahoo",
+      "date": "2026-10-20 08:52",
+      "impact": "low",
+      "category": "市場情緒",
+      "reason": "零售投資人對 QQQ 的情緒轉為中性，顯示市場在經歷拋售後進入觀望階段。"
+    },
+    {
+      "rank": 2,
+      "title": "QQQ vs. Cheaper Nasdaq-100 ETFs: Why BlackRock And State Street Aren't Winning Investors Yet",
+      "publisher": "Benzinga",
+      "date": "2026-10-16 15:22",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "儘管 BlackRock 與 State Street 推出低成本競爭產品，但數據顯示 QQQ 仍保有市場優勢，資金流出有限，競爭格局暫未改變。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

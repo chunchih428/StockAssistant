@@ -1,0 +1,83 @@
+{
+  "ticker": "NTAP",
+  "company": "NetApp",
+  "analysis_date": "2026-10-22",
+  "source_file": "cache/2026-10-22/holdings/news/NTAP.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 4,
+    "bearish_count": 0,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "NetApp 憑藉 AI 基礎設施布局與穩健的技術合作，展現出強勁的市場動能與投資人關注度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Savvy Investors Love This Often Overlooked Clue. It's Flashing Now For This Nvidia, Google Partner.",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 12:01",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "該報導指出 NetApp 作為 Nvidia 與 Google 的合作夥伴，在 AI 基礎設施領域展現出極高的韌性，並觸發了專業投資人關注的技術指標，具備長期成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "NetApp (NTAP) Rises Higher Than Market: Key Facts",
+      "publisher": "Yahoo",
+      "date": "2026-10-20 21:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價表現優於大盤，單日上漲 1.14 %，顯示市場對其近期營運表現給予正面回饋。"
+    },
+    {
+      "rank": 3,
+      "title": "ePlus Named NetApp North America Flash Partner of the Year",
+      "publisher": "Yahoo",
+      "date": "2026-10-20 12:30",
+      "impact": "medium",
+      "category": "合作夥伴",
+      "reason": "透過與 ePlus 的合作獲獎，強化了 NetApp 在北美快閃儲存市場的通路影響力與市占率。"
+    },
+    {
+      "rank": 4,
+      "title": "NetApp (NTAP) Targets Governed Data Discovery Across ONTAP And StorageGRID",
+      "publisher": "Yahoo",
+      "date": "2026-10-17 20:13",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "與 Diskover Data 合作整合數據發現功能，提升了 ONTAP 與 StorageGRID 產品線的競爭力，有助於吸引重視數據治理的企業客戶。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "How Much Of NetApp Stock's Rise Did The Business Earn?",
+      "publisher": "Yahoo",
+      "date": "2026-10-19 12:55",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "文章探討股價漲幅與基本面獲利的關聯性，屬於中性的價值評估，未提供明確的買賣建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Here is What to Know Beyond Why NetApp, Inc. (NTAP) is a Trending Stock",
+      "publisher": "Yahoo",
+      "date": "2026-10-15 12:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅針對該股成為熱門搜尋標的進行背景分析，屬於市場情緒觀察，對股價無直接驅動影響。"
+    },
+    {
+      "rank": 3,
+      "title": "NetApp (NASDAQ:NTAP) Passes Minervini Trend Template and High Growth Momentum, But Setup Lags",
+      "publisher": "ChartMill",
+      "date": "2026-10-16 08:41",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "雖然符合成長動能指標，但技術面設定仍有滯後，分析師將其列為觀察名單而非立即買入標的，屬於中性偏保守的技術觀點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,84 @@
+{
+  "ticker": "META",
+  "company": "Meta",
+  "analysis_date": "2026-10-22",
+  "source_file": "cache/2026-10-22/holdings/news/META.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 1,
+    "neutral_count": 7,
+    "overall_sentiment": "bullish",
+    "key_theme": "Meta 第三季財報營收成長 26 % 超出預期，AI 投資效益顯現且資本支出計畫趨於審慎，帶動市場正面情緒。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "META Stock Jumps 3% After-Hours After Q3 Revenue Beats Expectations, With A Narrowed AI Capex Outlook And New Non-Voting Class C Stock",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 21:25",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "營收成長 26 % 優於預期，且公司主動縮減 AI 資本支出計畫，顯示管理層對資本配置的紀律，股價盤後上漲 3 %。"
+    },
+    {
+      "rank": 2,
+      "title": "Meta’s Muse Hits Over 10M Users Since Launch: Zuckerberg Says Company Gearing Up To Serve 1B People",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 01:24",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "AI 產品 Muse 用戶數突破 1,000 萬，執行長 Zuckerberg 強調長期目標為服務 10 億用戶，展現強勁的成長潛力。"
+    },
+    {
+      "rank": 3,
+      "title": "Meta: 3 Key Takeaways for Long-Term Investors",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 02:21",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 AI 驅動的內容處理降低了單位成本，進而提升利潤率，為長期投資價值提供支撐。"
+    },
+    {
+      "rank": 4,
+      "title": "Meta Found a Way to Raise Money Without Handing Out More Votes",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 04:40",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "發行無投票權的 C 類股為公司提供靈活的融資管道，解決了資本支出導致自由現金流轉負的財務壓力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Meta Platforms (META) Hit With $25 Billion New Mexico Privacy Verdict",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 03:12",
+      "impact": "high",
+      "category": "法規與訴訟",
+      "reason": "新墨西哥州陪審團裁定 Meta 因數據隱私違規需賠償 250 億美元，此巨額罰款對公司財務與聲譽構成重大負面風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "How Are Dow, S&P 500, Nasdaq Futures Trading After META, TSLA Earnings?",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 03:11",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導財報公布後市場對大盤期貨的反應，屬於綜合性市場觀察，對 Meta 個股影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Meta earnings preview: Capex and Muse are in the spotlight",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 14:05",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "財報公布前的預測性報導，重點關注資本支出與 AI 產品，隨財報正式發布後已轉為歷史資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
