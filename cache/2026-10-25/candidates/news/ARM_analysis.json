@@ -1,0 +1,56 @@
+{
+  "ticker": "ARM",
+  "company": "Arm Holdings plc",
+  "analysis_date": "2026-10-22",
+  "source_file": "cache/2026-10-22/candidates/news/ARM.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 2,
+    "bearish_count": 3,
+    "neutral_count": 0,
+    "overall_sentiment": "mixed",
+    "key_theme": "Arm Holdings 面臨與 Qualcomm 的法律訴訟敗訴風險，雖然基本面受惠於 AI 需求與合約價值成長，但高估值與法律不確定性導致股價承壓。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "The Next AI Stock Wall Street Is Starting to Pay Attention To",
+      "publisher": "Yahoo",
+      "date": "2026-10-16 16:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Arm 今年股價已上漲超過 120 %，市場看好其從智慧型手機擴展至 AI 資料中心晶片架構的長期成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Can ARM's 13% Contract Value Growth Sustain Momentum in Q2?",
+      "publisher": "Yahoo",
+      "date": "2026-10-15 17:51",
+      "impact": "medium",
+      "category": "財報預期",
+      "reason": "年度化合約價值 (ACV) 成長 13 % 至 17.3 億美元，顯示在財報公布前授權業務動能強勁。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Arm Stock Verdict Risk Grows After Qualcomm License Breach Ruling",
+      "publisher": "Yahoo",
+      "date": "2026-10-18 13:13",
+      "impact": "high",
+      "category": "法律訴訟",
+      "reason": "特拉華州陪審團裁定 Arm 違反與 Qualcomm 的架構授權協議，此判決增加了公司授權模式的法律風險與未來營收不確定性。選此篇為代表，因其明確指出法律裁決對股價的具體風險。"
+    },
+    {
+      "rank": 2,
+      "title": "What's Going On With Arm Stock Friday?",
+      "publisher": "Benzinga",
+      "date": "2026-10-16 08:48",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "投資人對法律挫折、過高的估值以及獲利了結賣壓感到擔憂，導致股價動能減弱。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}

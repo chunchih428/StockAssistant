@@ -1,0 +1,156 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-10-22",
+  "source_file": "cache/2026-10-22/candidates/news/NFLX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 5,
+    "bearish_count": 10,
+    "neutral_count": 5,
+    "overall_sentiment": "bearish",
+    "key_theme": "Netflix 第三季財報雖符合預期，但因第四季財測疲軟及廣告業務成長疑慮，導致股價顯著回調。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Needham's Laura Martin: Netflix sell off overdone, ad growth upside ahead",
+      "publisher": "CNBC",
+      "date": "2026-10-19 16:29",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析師認為市場對 Netflix 的拋售過度，強調廣告業務仍具備長期成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Netflix's Fundamental Positioning Remains Intact Despite Q4 Headwinds, UBS Says",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 16:55",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "瑞銀指出儘管面臨短期逆風，但 Netflix 的基本面地位依然穩固。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix's Ad Demand Intact With Potential to Expand Revenue, Wedbush Securities Says",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 16:27",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "Wedbush 指出廣告需求依然強勁，未來仍有擴大營收的空間。"
+    },
+    {
+      "rank": 4,
+      "title": "How the Termination Fee and Low Valuation Create Asymmetric Upside for Netflix (NFLX)",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 14:22",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "投資機構認為目前的低估值創造了不對稱的上漲空間。"
+    },
+    {
+      "rank": 5,
+      "title": "What Makes Netflix (NFLX) an Attractive Bet?",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 12:54",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "L1 Capital 強調 Netflix 在國際市場的長期吸引力。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Netflix meets Q3 estimates, but streamer's stock slides on weak outlook",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 13:25",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "雖然 Q3 財報符合預期，但疲軟的財測引發市場對成長放緩的擔憂，導致股價下跌。"
+    },
+    {
+      "rank": 2,
+      "title": "NFLX Stock Heads For 26-Month Low After Needham Downgrade, Wall Street Price Target Cuts",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 12:51",
+      "impact": "high",
+      "category": "市場分析",
+      "reason": "遭分析師降評且目標價遭下調，市場對其內容策略與 YouTube 的競爭壓力感到擔憂。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix (NFLX) Stock Price Falls As Q3 Earnings Stir Valuation Doubts",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 02:16",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "財報公布後，市場開始質疑其高估值與成長敘事的一致性。"
+    },
+    {
+      "rank": 4,
+      "title": "Netflix's Q3 Results Not 'Narrative Changer,' BofA Says",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 15:11",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "美銀認為財報結果未能改變市場對其成長停滯的負面敘事。"
+    },
+    {
+      "rank": 5,
+      "title": "Candle Media’s Kevin Mayer on Netflix: ‘They need some more fresh hits'",
+      "publisher": "CNBC",
+      "date": "2026-10-20 11:50",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "前迪士尼高管指出 Netflix 目前缺乏足夠的熱門內容來支撐訂閱成長。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Here's what to expect when Netflix reports earnings after the bell",
+      "publisher": "CNBC",
+      "date": "2026-10-20 12:00",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "財報公布前的預期分析，主要關注廣告業務與參與度指標。"
+    },
+    {
+      "rank": 2,
+      "title": "Options Action: Big move priced into Netflix",
+      "publisher": "CNBC",
+      "date": "2026-10-20 11:01",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "期權市場顯示投資人預期財報後將有大幅波動，屬於技術面觀察。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix (NFLX): Can Local-Language Hits Improve Returns on Content Spending?",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 14:41",
+      "impact": "low",
+      "category": "產品策略",
+      "reason": "探討非英語內容對投資回報率的影響，屬於長期策略分析。"
+    },
+    {
+      "rank": 4,
+      "title": "NFLX Q3 Deep Dive: Management Highlights Content Strategy, U.S. Execution, and Ad Expansion",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 12:38",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "對財報會議內容的詳細整理，客觀陳述管理層觀點。"
+    },
+    {
+      "rank": 5,
+      "title": "Is Netflix still making the prestige content subscribers are used to?",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 17:38",
+      "impact": "low",
+      "category": "產品策略",
+      "reason": "針對內容品質的質疑，屬於市場輿論討論，對股價短期影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

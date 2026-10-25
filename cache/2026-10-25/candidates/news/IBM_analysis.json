@@ -1,0 +1,74 @@
+{
+  "ticker": "IBM",
+  "company": "International Business Machines Corporation",
+  "analysis_date": "2026-10-22",
+  "source_file": "cache/2026-10-22/candidates/news/IBM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 0,
+    "neutral_count": 5,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "IBM 第三季財報表現亮眼，軟體業務成長與 AI 需求帶動營收與獲利優於預期，市場信心顯著增強。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "IBM Stock Jumps After Q3 Earnings And Revenue Beat Expectations",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 21:33",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "IBM 第三季營收與獲利均超越華爾街預期，軟體業務成長 9 %，且執行長 Arvind Krishna 強調基礎設施需求強勁，顯示公司轉型策略奏效。"
+    },
+    {
+      "rank": 2,
+      "title": "IBM Stock Rallies as Earnings Offer Glimmer of Recovery",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 21:49",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司不僅財報優於預期，更上調了自由現金流展望，顯示結構性成本控制與獲利能力提升，為長期投資人注入強心針。"
+    },
+    {
+      "rank": 3,
+      "title": "IBM shares climb on earnings beat",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 20:46",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "財報公布後股價在盤後交易上漲超過 4 %，延續了當日正規交易的 3.96 % 漲幅，反映市場對其業績的高度認可。"
+    },
+    {
+      "rank": 4,
+      "title": "Procore Partners With IBM To Upgrade Asset Lifecycle Management Through Integration Of Its Services With IBM Maximo Application Suite",
+      "publisher": "Benzinga",
+      "date": "2026-10-21 09:06",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "IBM 與 Procore 達成合作，將其 Maximo 應用套件整合至資產生命週期管理服務中，有助於擴大在建築管理軟體領域的市場影響力。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Document AI Market Size, Share, Trends, and Global Forecast to 2031",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 09:12",
+      "impact": "low",
+      "category": "市場研究",
+      "reason": "報告指出文件 AI 市場規模將持續成長，IBM 被列為主要參與者之一，屬於產業趨勢分析，對股價無直接短期影響。"
+    },
+    {
+      "rank": 2,
+      "title": "IBM Q3 Earnings Preview: Wall Street Expects 8 % EPS Growth",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 12:13",
+      "impact": "low",
+      "category": "財報預測",
+      "reason": "此為財報公布前的市場預期分析，在實際財報公布後已失去參考價值，故歸類為中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

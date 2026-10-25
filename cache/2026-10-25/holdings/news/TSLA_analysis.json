@@ -1,0 +1,201 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla",
+  "analysis_date": "2026-10-22",
+  "source_file": "cache/2026-10-22/holdings/news/TSLA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 8,
+    "bearish_count": 6,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "Tesla 第三季財報表現好壞參半，市場焦點集中在 FSD 軟體營收強勁與 AI 基礎設施布局，但同時面臨營收未達預期、資本支出縮減及 SpaceX 合併傳聞帶來的股價波動。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Tesla Third-Quarter Earnings Top Views as Automotive, Energy Generation Sales Decline",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 20:58",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "Tesla 第三季調整後每股盈餘優於市場預期，顯示公司在成本控制與核心業務獲利能力上具備韌性。"
+    },
+    {
+      "rank": 2,
+      "title": "Full self-driving is a 'differentiator' for Tesla amid declining sales",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 20:43",
+      "impact": "medium",
+      "category": "產品發展",
+      "reason": "Morningstar 分析師指出 FSD 軟體營收強勁，成為 Tesla 在電動車銷售放緩環境下的關鍵差異化競爭優勢。"
+    },
+    {
+      "rank": 3,
+      "title": "Tesla Semi enters volume production as 2027 rollout approaches",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 00:16",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Tesla Semi 電動卡車進入量產階段，標誌著公司在商用車市場的重大進展，有助於長期營收多元化。"
+    },
+    {
+      "rank": 4,
+      "title": "What Intel (INTC) Joining The Terafab AI Chip Project Mean?",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 01:22",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "Tesla 與 Intel 及 SpaceX 合作開發 Terafab AI 晶片，展現公司在 AI 基礎設施領域的垂直整合能力。"
+    },
+    {
+      "rank": 5,
+      "title": "Tesla says it will start selling Cybercabs by end of year",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 00:17",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "公司宣布年底前將開始銷售 Cybercab，儘管面臨監管挑戰，但此舉顯示自動駕駛技術商業化的積極進程。"
+    },
+    {
+      "rank": 6,
+      "title": "Why Tesla Stock Is Putting AI Infrastructure Leaders On More Watchlists",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 03:17",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場開始將 Tesla 與 SpaceX 視為 AI 基礎設施的關鍵組成，提升了公司在科技投資組合中的估值吸引力。"
+    },
+    {
+      "rank": 7,
+      "title": "SpaceX shares soar on possible tie-up with Tesla",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 23:23",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場對 SpaceX 與 Tesla 的潛在合併抱持高度興趣，帶動了投資人對 Elon Musk 旗下資產的整體信心。"
+    },
+    {
+      "rank": 8,
+      "title": "S&P 500, Nasdaq Gain, Powered By Meta, Tesla Stock",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 23:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Tesla 財報後的市場表現支撐了納斯達克指數上漲，反映出投資人對其 AI 轉型故事的認可。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "TSLA Stock Reverses After-Hours Gains As Tesla Cuts Full-Year Capex Guidance To $20B, Musk Tempers Optimus Timeline",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 23:56",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司下調全年資本支出至 200 億美元，且 Musk 對 Optimus 機器人時間表的保守態度，引發市場對成長動能的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "TSLA Stock Trades Flat After Hours Following Drop In Q3 Revenue, Earnings, And Heavy AI Spending",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 21:13",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "第三季營收 280 億美元低於分析師預期的 283 億美元，且高額 AI 支出對獲利造成壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "TSLA, SPCX Slip Overnight: Musk Reportedly Pushes Merger Before Trump’s Exit",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 01:44",
+      "impact": "medium",
+      "category": "公司治理",
+      "reason": "關於 Musk 推動 SpaceX 與 Tesla 合併的傳聞引發市場對股權稀釋與公司治理的疑慮，導致股價盤後走跌。"
+    },
+    {
+      "rank": 4,
+      "title": "U.S. stock futures fall as investors weigh Tesla, Meta earnings",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 01:40",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "投資人對 Tesla 財報細節的審慎評估，導致美股期貨下跌，反映出市場對高成長股估值的敏感度。"
+    },
+    {
+      "rank": 5,
+      "title": "‘Could Happen This Week’: Ross Gerber Says SpaceX Could Make $420 Tesla Bid, Spurred by 'Pretty Poor' Earnings From TSLA",
+      "publisher": "Benzinga",
+      "date": "2026-10-21 06:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "投資人 Ross Gerber 的言論加劇了市場對 Tesla 財報表現不佳的負面情緒，並引發對潛在併購案的投機性波動。"
+    },
+    {
+      "rank": 6,
+      "title": "Tesla Earnings Beat, FSD Revenue Strong, But TSLA Falls With Elon Musk On Call",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 22:44",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "儘管財報優於預期，但 Musk 在電話會議中的發言未能有效提振市場信心，導致股價在盤後出現賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "How Are Dow, S&P 500, Nasdaq Futures Trading After META, TSLA Earnings?",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 03:11",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為財報後的市場概況報導，無實質影響股價的新資訊。"
+    },
+    {
+      "rank": 2,
+      "title": "What Tesla (TSLA) Said on Its Q3 Earnings Call",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 00:04",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "僅為財報會議內容的摘要整理，屬於資訊傳遞性質。"
+    },
+    {
+      "rank": 3,
+      "title": "Nasdaq Futures Rise Premarket As SpaceX AI Boom Lifts Chip Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 08:41",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導提及 Tesla 與 AI 相關的市場情緒，但主要焦點在於整體科技股走勢。"
+    },
+    {
+      "rank": 4,
+      "title": "Dow Jones Futures Fall; Meta, Tesla Are Earnings Movers After SpaceX Leads Bullish Nasdaq Move",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 23:47",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場技術面分析，描述 Tesla 作為財報驅動因素的表現。"
+    },
+    {
+      "rank": 5,
+      "title": "3 AI Infrastructure Stocks Retail Investors May Be Watching After Tesla SpaceX Merger Talk",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 01:20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對散戶投資人的觀察清單分析，對 Tesla 本身股價無直接影響。"
+    },
+    {
+      "rank": 6,
+      "title": "Former Tesla president Jon McNeill says GM must quickly address its hybrid vehicle issues",
+      "publisher": "CNBC",
+      "date": "2026-10-20 10:39",
+      "impact": "low",
+      "category": "產業動態",
+      "reason": "前 Tesla 高層對競爭對手 GM 的評論，與 Tesla 自身營運無直接關聯。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
