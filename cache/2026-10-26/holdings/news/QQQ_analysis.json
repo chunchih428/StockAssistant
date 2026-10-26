@@ -1,0 +1,56 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-10-26",
+  "source_file": "cache/2026-10-26/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 0,
+    "bearish_count": 3,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "市場對 AI 泡沫化的擔憂加劇，導致投資人轉向防禦性資產，並對 Nasdaq 100 指數的短期走勢轉趨保守。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Safe Haven Trade: SCHD Outperforms VOO and QQQ as AI Bubble Fears Mount",
+      "publisher": "Benzinga",
+      "date": "2026-10-24 13:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場對 AI 產業泡沫化的擔憂導致資金流向防禦性資產（如 SCHD），使 QQQ 面臨資金外流壓力，反映出投資人風險偏好下降。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Are Nasdaq Futures Falling Premarket? CRWV, NBIS, TSLA, SPCX, MU, ASTS, NFLX, SLS Stocks In Focus",
+      "publisher": "Yahoo",
+      "date": "2026-10-20 08:52",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Nasdaq 期貨盤前下跌，且散戶情緒對 QQQ 的看法已轉為中性偏保守，顯示市場對科技股短期動能缺乏信心。"
+    },
+    {
+      "rank": 3,
+      "title": "QQQ: How To Set Up A Bear Put Spread In This Hot Tech Index",
+      "publisher": "Yahoo",
+      "date": "2026-10-19 14:47",
+      "impact": "low",
+      "category": "衍生性商品",
+      "reason": "市場分析師建議透過 Bear Put Spread 策略來應對 QQQ 的潛在回調，顯示專業投資圈正針對指數下跌風險進行避險操作。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "QQMG: QQQ's Unknown Rival With More Growth, More Risk",
+      "publisher": "SeekingAlpha",
+      "date": "2026-10-21 07:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導僅是將 QQQ 與競爭對手 QQMG 進行比較，強調風險與報酬的權衡，並未對 QQQ 本身的價值產生直接的利多或利空影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

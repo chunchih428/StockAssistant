@@ -1,0 +1,111 @@
+{
+  "ticker": "IBIT",
+  "company": "Bitcoin",
+  "analysis_date": "2026-10-26",
+  "source_file": "cache/2026-10-26/holdings/news/IBIT.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 8,
+    "bearish_count": 7,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "比特幣 ETF 資金流向呈現劇烈波動，近期從強勁淨流入轉為單日大規模淨流出，市場情緒隨宏觀波動與價格阻力位測試而反覆震盪。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "BlackRock's iconic fund posts strongest day in over 12 months",
+      "publisher": "Yahoo",
+      "date": "2026-10-20 19:30",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "IBIT 錄得超過 12 個月以來最強勁的單日資金流入，顯示機構投資者對該產品的強烈需求，為股價提供強力支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 16:31",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "比特幣現貨 ETF 在三天內吸引超過 10 億美元淨流入，成功扭轉 10 月初的虧損，顯示市場買盤動能強勁。"
+    },
+    {
+      "rank": 3,
+      "title": "BlackRock Files Its Third Bitcoin ETF, A 'Buffer' Fund That Targets Investors Seeking Downside Protection",
+      "publisher": "Yahoo",
+      "date": "2026-10-20 14:35",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "BlackRock 申請推出具備下檔保護的緩衝型比特幣 ETF，顯示資產管理巨頭持續擴大加密貨幣產品線，有利於長期生態發展。"
+    },
+    {
+      "rank": 4,
+      "title": "The Floor Is Lava: BlackRock Joins Protected Bitcoin ETF Party",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 04:01",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場對於波動率管理型比特幣產品的接受度提高，這類創新產品有助於吸引更多風險厭惡型投資者進入 IBIT 生態。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bitcoin ETFs Just Had Their Biggest Outflow Day Since June",
+      "publisher": "Yahoo",
+      "date": "2026-10-24 15:37",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "單日淨流出達 6.356 億美元，創下自 6 月以來最大單日流出量，顯示投資者在價格接近 8.5 萬美元阻力位時獲利了結意願強烈。"
+    },
+    {
+      "rank": 2,
+      "title": "Bitcoin News: BlackRock Just Moved $262 Million in Bitcoin to Coinbase. Is More Selling Coming?",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 16:16",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "BlackRock 將 2.62 億美元比特幣轉移至 Coinbase Prime，引發市場對潛在拋售壓力的擔憂，加劇了短期市場恐慌。"
+    },
+    {
+      "rank": 3,
+      "title": "Bitcoin Bulls Get ‘Trapped’ on Dump to $82,000: 4 Reasons Why BTC Sold Off",
+      "publisher": "Benzinga",
+      "date": "2026-10-22 08:17",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "比特幣未能突破 8.43 萬美元關鍵價位，導致多頭部位被套牢，技術面轉弱引發後續賣壓。"
+    },
+    {
+      "rank": 4,
+      "title": "Weekly Wrap: Bitcoin Under Pressure As Market Volatility Intensifies",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 21:12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "宏觀市場波動加劇，導致比特幣及相關 ETF 承受賣壓，短期內股價表現受整體金融市場情緒拖累。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Can Bitcoin Get Back Above $85,000 in November?",
+      "publisher": "Yahoo",
+      "date": "2026-10-24 21:40",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "針對 11 月價格走勢的預測分析，屬於市場觀點，對當前股價無直接實質影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Where Could Bitcoin End October? We Asked ChatGPT AI",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 17:00",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "基於 AI 的價格預測，缺乏實質基本面支撐，僅供市場參考。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

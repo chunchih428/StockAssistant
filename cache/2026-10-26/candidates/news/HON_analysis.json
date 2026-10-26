@@ -1,0 +1,111 @@
+{
+  "ticker": "HON",
+  "company": "Honeywell",
+  "analysis_date": "2026-10-26",
+  "source_file": "cache/2026-10-26/candidates/news/HON.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "Honeywell 第 3 季財報表現亮眼，受惠於自動化需求與能源領域成長，促使公司上調全年財測並獲得多家投行調升目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Honeywell Technologies Reports Third Quarter Results, Raises Full-Year 2026 Outlook",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 10:00",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司發布第 3 季財報，有機銷售成長達 7 %，並因自動化與能源需求強勁而上調全年財測，為股價提供強勁支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "Citigroup Maintains Buy on Honeywell Intl, Raises Price Target to $271",
+      "publisher": "Benzinga",
+      "date": "2026-10-23 14:46",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "花旗銀行分析師 Andrew Kaplowitz 維持買入評級，並將目標價調升至 271 美元，反映市場對其轉型為自動化專家的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Evercore ISI Group Maintains Outperform on Honeywell Intl, Raises Price Target to $270",
+      "publisher": "Benzinga",
+      "date": "2026-10-23 10:49",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Evercore ISI 分析師 Alexander Virgo 給予優於大盤評級，並調升目標價至 270 美元，認可其利潤率擴張與現金流表現。"
+    },
+    {
+      "rank": 4,
+      "title": "Honeywell (HON) Unveils Forge Cognition To Bring AI Into Facility Operations",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 11:16",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "推出 Forge Cognition AI 平台，展示公司在設施管理領域的技術創新與數位化轉型能力。"
+    },
+    {
+      "rank": 5,
+      "title": "Honeywell aims fire prevention products at battery installations, data centers",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 15:57",
+      "impact": "low",
+      "category": "市場擴張",
+      "reason": "透過 Forge 平台擴展消防與安全產品線，精準切入高成長的資料中心與電池儲能市場。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Honeywell Technologies CEO Says Business Is Growing Faster Than Expected",
+      "publisher": "Yahoo",
+      "date": "2026-10-24 18:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "儘管財報表現良好，但盤前交易中股價出現小幅回調，顯示部分投資人採取獲利了結策略。"
+    },
+    {
+      "rank": 2,
+      "title": "RBC Capital Maintains Outperform on Honeywell Intl, Lowers Price Target to $269",
+      "publisher": "Benzinga",
+      "date": "2026-10-23 10:17",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "RBC 分析師 Jeffrey Reive 雖維持優於大盤評級，但下調目標價至 269 美元，反映對短期估值調整的謹慎態度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Resideo Announces Expected Q1 Software Update to Honeywell Home Smart Thermostats",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 20:11",
+      "impact": "low",
+      "category": "合作夥伴",
+      "reason": "此為 Resideo 針對 Honeywell 品牌恆溫器進行的軟體更新，對 Honeywell 本身財務影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Honeywell Aerospace (HONA) Stock Looks Below Fair Value on Cash Flow",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 09:09",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "文章探討航太部門的現金流與法律風險，觀點較為中立，未對整體股價產生立即性影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Honeywell International Inc. (HON) vs. ETN and EMR: Can a More Focused Industrial Platform Turn Into the Next Growth Phase?",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 20:24",
+      "impact": "low",
+      "category": "產業比較",
+      "reason": "將 Honeywell 與同業進行比較，屬於產業分析性質，對短期股價無直接催化作用。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

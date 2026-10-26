@@ -1,0 +1,93 @@
+{
+  "ticker": "IBM",
+  "company": "International Business Machines Corporation",
+  "analysis_date": "2026-10-26",
+  "source_file": "cache/2026-10-26/candidates/news/IBM.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 4,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "IBM 第三季財報表現優於預期並獲得多家投行上調目標價，但 CEO 對 AI 支出前景的審慎言論引發市場對獲利能力的擔憂，導致股價出現震盪。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "These Analysts Boost Their Forecasts On IBM Following Upbeat Q3 Results",
+      "publisher": "Benzinga",
+      "date": "2026-10-22 14:33",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "IBM 第三季營收與獲利雙雙優於預期，並上調自由現金流預測，促使 Jefferies 與 Citigroup 等機構將目標價調升至 280 美元，顯示市場對其基本面轉強的認可。"
+    },
+    {
+      "rank": 2,
+      "title": "IBM Q3 Results Better Than Expected With All Three Business Lines Accelerating, RBC Says",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 14:59",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "RBC 指出 IBM 三大業務部門均呈現加速成長態勢，顯示公司轉型策略在軟體與基礎設施領域取得實質進展。"
+    },
+    {
+      "rank": 3,
+      "title": "Quantum Stocks: Defense Giants Northrop, Lockheed Take Aim At Frontier Technologies",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 14:52",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "IBM 在量子運算領域與國防巨頭的合作潛力，為其長期技術護城河提供正面支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "IBM’s CEO Just Issued a Warning Message on AI Spending. He Ended Up Hurting His Own Stock.",
+      "publisher": "Yahoo",
+      "date": "2026-10-24 11:39",
+      "impact": "high",
+      "category": "高層言論",
+      "reason": "CEO Arvind Krishna 對企業 AI 支出效益提出質疑，認為開源模型已足夠強大，此番言論引發投資人對 IBM AI 業務獲利空間的擔憂，導致財報利多被抵銷。"
+    },
+    {
+      "rank": 2,
+      "title": "IBM Is America’s Worst Big Tech Company",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 18:15",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "該評論質疑 IBM 財報數據背後的真實成長動能，認為管理層過度美化轉型成果，對長期投資價值持負面看法。"
+    },
+    {
+      "rank": 3,
+      "title": "IBM (IBM) stock trades down, here is why",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 16:21",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管財報亮眼，但股價在盤中下跌 2.9%，反映出市場對其毛利率表現及未來成長持續性的高度敏感與獲利了結賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "UBS Maintains Neutral on IBM, Raises Price Target to $243",
+      "publisher": "Benzinga",
+      "date": "2026-10-22 15:43",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "UBS 維持中立評級，雖調升目標價至 243 美元，但顯示對其估值空間仍持保留態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Final Trades: Devon Energy, Lockheed Martin, Goldman Sachs and IBM",
+      "publisher": "CNBC",
+      "date": "2026-10-23 13:07",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅作為投資組合觀察名單提及，未對股價產生直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
