@@ -1,0 +1,147 @@
+{
+  "ticker": "NOW",
+  "company": "ServiceNow",
+  "analysis_date": "2026-10-26",
+  "source_file": "cache/2026-10-26/candidates/news/NOW.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 13,
+    "bearish_count": 2,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場高度期待 ServiceNow 即將公布的第三季財報，且 AI 產品線的強勁成長動能與分析師目標價上調，支撐了股價的看漲情緒。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bank of America Boosts ServiceNow Forecast Ahead of Earnings: Here's What Could Fuel Growth",
+      "publisher": "Benzinga",
+      "date": "2026-10-23 13:01",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "美國銀行將目標價上調至 180 美元，明確指出 AI 需求是推動第三季財報表現的關鍵催化劑。"
+    },
+    {
+      "rank": 2,
+      "title": "Guggenheim Maintains Buy on ServiceNow, Raises Price Target to $175",
+      "publisher": "Benzinga",
+      "date": "2026-10-23 11:09",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Guggenheim 分析師將目標價從 125 美元大幅調升至 175 美元，反映對公司長期成長潛力的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "What Is ServiceNow (NOW) Really Launching With Its New Governed AI Agent?",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 04:23",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "與 NVIDIA 合作推出 Arc AI 代理，展現公司在企業級 AI 自動化領域的技術領先地位。"
+    },
+    {
+      "rank": 4,
+      "title": "ServiceNow Exec at AUSA Defense Business Will be 'Major Driver' Over Next Year",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 16:39",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "公司高層指出國防與國家安全業務將成為未來一年的主要成長驅動力，顯示營收來源多元化。"
+    },
+    {
+      "rank": 5,
+      "title": "Thrive scales customer experience with ServiceNow AI, achieving 73% first-contact resolution",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 13:00",
+      "impact": "low",
+      "category": "客戶案例",
+      "reason": "具體的客戶成功案例證明了 AI 產品能顯著提升客戶營運效率，有助於推廣銷售。"
+    },
+    {
+      "rank": 6,
+      "title": "Polen Focus Growth Strategy Highlights ServiceNow, Inc. (NOW) on AI Revenue Growth",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 14:21",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "機構投資人公開肯定其 AI 營收成長策略，增強市場對其基本面的信心。"
+    },
+    {
+      "rank": 7,
+      "title": "Boardwalktech Partners with ServiceNow to Automate Business and Financial Controls",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 11:00",
+      "impact": "low",
+      "category": "策略合作",
+      "reason": "透過與 Boardwalktech 合作擴展 IRM 平台功能，增強了產品的生態系統價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "ServiceNow (NOW) Needs Stronger Cash Flow to Support Its AI Expansion",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 14:15",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "指出 AI 擴張成本高昂，若現金流無法跟上，可能對未來的獲利能力與資本配置造成壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "ServiceNow’s Moment of Truth: Can Agentic AI Growth Justify a Premium 80x Earnings Multiple on Oct. 28?",
+      "publisher": "Yahoo",
+      "date": "2026-10-24 15:47",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "質疑 80 倍本益比的估值是否過高，若財報未能展現超預期的成長，可能面臨股價修正風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "ServiceNow Wants to Be No. 1 in Security. Here’s What Its $7.75 Billion Armis Bet Must Show on October 28",
+      "publisher": "Yahoo",
+      "date": "2026-10-24 20:28",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對 Armis 併購案的觀察，市場正等待財報中關於整合進度的具體數據，目前持觀望態度。"
+    },
+    {
+      "rank": 2,
+      "title": "ServiceNow (NOW) Advances While Market Declines: Some Information for Investors",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 20:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為股價波動的技術性回顧，未包含新的基本面消息。"
+    },
+    {
+      "rank": 3,
+      "title": "Curious about ServiceNow (NOW) Q3 Performance? Explore Wall Street Estimates for Key Metrics",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 12:15",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "整理市場預期數據，屬於財報前的例行性資訊彙整。"
+    },
+    {
+      "rank": 4,
+      "title": "Hyperscalers Microsoft, Amazon Line Up With Earnings, Along With ServiceNow, Intel",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 15:11",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 ServiceNow 與其他大型科技股進行財報前瞻比較，屬於產業概況報導。"
+    },
+    {
+      "rank": 5,
+      "title": "ServiceNow Just Gained 10% in a Month: Take Profits, or Buy More?",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 12:35",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "針對近期漲幅的獲利了結與加碼建議，屬於投資策略討論，無明確方向性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

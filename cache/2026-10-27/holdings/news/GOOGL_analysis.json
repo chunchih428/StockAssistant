@@ -1,0 +1,156 @@
+{
+  "ticker": "GOOGL",
+  "company": "Google",
+  "analysis_date": "2026-10-26",
+  "source_file": "cache/2026-10-26/holdings/news/GOOGL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 6,
+    "bearish_count": 3,
+    "neutral_count": 11,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場高度關注 Alphabet 即將公布的第 3 季財報，特別是 Google Cloud 的營收成長與 AI 資本支出之間的平衡。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Sundar Pichai Reported Alphabet's Cloud Revenue Grew 82% Last Quarter While the Gemini App Reached 950 Million Monthly Users",
+      "publisher": "Yahoo",
+      "date": "2026-10-25 15:29",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "雲端業務營收成長 82 % 且 Gemini 用戶數達 9.5 億，顯示 AI 變現能力強勁，為股價提供強力支撐。"
+    },
+    {
+      "rank": 2,
+      "title": "GOOGL's $250B AI Chip Opportunity Takes Aim At NVDA",
+      "publisher": "Yahoo",
+      "date": "2026-10-25 14:46",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師指出 Google 透過自研晶片挑戰 NVIDIA 的硬體經濟模式，具備長期獲利潛力。"
+    },
+    {
+      "rank": 3,
+      "title": "Constellation Energy Pledges 890 MW of Uprates for Google: “Growing Energy Needs”",
+      "publisher": "Yahoo",
+      "date": "2026-10-25 13:31",
+      "impact": "medium",
+      "category": "基礎建設",
+      "reason": "與 Constellation Energy 簽署 3,590 MW 的核能電力協議，確保 AI 資料中心長期能源供應穩定。"
+    },
+    {
+      "rank": 4,
+      "title": "Alphabet (GOOGL): Investing Behind AI Demand and TPU Growth",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 16:51",
+      "impact": "low",
+      "category": "投資觀點",
+      "reason": "Broyhill Asset Management 看好其在 AI 需求與 TPU 成長上的投資策略。"
+    },
+    {
+      "rank": 5,
+      "title": "Google's next TV gadget may do much more than stream",
+      "publisher": "Yahoo",
+      "date": "2026-10-25 18:17",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "硬體升級將 Gemini 整合至家庭娛樂設備，有助於擴大 AI 生態系應用場景。"
+    },
+    {
+      "rank": 6,
+      "title": "What Investors Overlooked Before Intel's 127% Run",
+      "publisher": "Yahoo",
+      "date": "2026-10-24 14:10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "提及 Google 與 Intel 的合作關係，顯示其在硬體供應鏈布局的廣度。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Alphabet (GOOGL) Cloud Outage And Share Token Fight Put Regulation In Focus",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 13:13",
+      "impact": "medium",
+      "category": "法規與風險",
+      "reason": "倫敦雲端服務中斷事件引發監管機構關注，可能增加營運風險與合規成本。"
+    },
+    {
+      "rank": 2,
+      "title": "Google’s Ex-CEO Says China Trails US by 6 Months in AI Race, but Could Still Win Due to This Strategy: ‘We’re Already Losing’",
+      "publisher": "Yahoo",
+      "date": "2026-10-25 03:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "前執行長 Eric Schmidt 對 AI 競爭局勢的擔憂，暗示地緣政治風險可能影響長期競爭力。"
+    },
+    {
+      "rank": 3,
+      "title": "The $500 Billion Question: Can Google Cloud’s Massive AI Backlog Outrun Its Mind-Boggling CapEx Boom on Oct. 28?",
+      "publisher": "Yahoo",
+      "date": "2026-10-24 15:39",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "市場擔憂龐大的資本支出（CapEx）是否能被雲端 AI 營收成長有效抵銷，存在獲利壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Dow Jones Futures: Microsoft, Google, Amazon Lead Earnings Wave; What To Do In Mixed Market",
+      "publisher": "Yahoo",
+      "date": "2026-10-25 15:27",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "彙整多篇關於財報週市場預期的報導，屬於市場情緒觀察，無具體公司利多或利空消息。"
+    },
+    {
+      "rank": 2,
+      "title": "Peter Schiff Says Google Gemini Challenged Government’s Case Against His Bank: ‘Did Nothing Wrong’",
+      "publisher": "Yahoo",
+      "date": "2026-10-25 04:17",
+      "impact": "low",
+      "category": "法律訴訟",
+      "reason": "涉及外部銀行訴訟案，雖提及 Gemini，但對 Alphabet 本身財務影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "Eric Schmidt Rejects AI Bubble Fears, Says Anthropic Is Growing Twice as Fast as Google Did",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 22:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "評論 AI 產業發展，對 Google 競爭對手 Anthropic 的成長描述屬中性產業分析。"
+    },
+    {
+      "rank": 4,
+      "title": "Countdown to Alphabet (GOOGL) Q3 Earnings: Wall Street Forecasts for Key Metrics",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 12:15",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "單純整理華爾街分析師的財報預測數據，不具備方向性影響。"
+    },
+    {
+      "rank": 5,
+      "title": "Marissa Mayer studied AI in the ’90s before joining Google",
+      "publisher": "Yahoo",
+      "date": "2026-10-24 02:00",
+      "impact": "low",
+      "category": "人物專訪",
+      "reason": "關於前高層的歷史回顧，對目前股價無實質影響。"
+    },
+    {
+      "rank": 6,
+      "title": "Bro went from a 700-person village in Slovakia to Google then built an app that makes $2k/day",
+      "publisher": "Yahoo",
+      "date": "2026-10-24 17:31",
+      "impact": "low",
+      "category": "人物專訪",
+      "reason": "個人創業故事，與 Alphabet 公司營運無直接關聯。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

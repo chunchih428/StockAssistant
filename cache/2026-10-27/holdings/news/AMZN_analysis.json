@@ -1,0 +1,174 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-10-26",
+  "source_file": "cache/2026-10-26/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 6,
+    "bearish_count": 3,
+    "neutral_count": 11,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場高度聚焦即將公布的第三季財報，特別是 AWS 的雲端成長動能與 AI 資本支出對獲利的影響。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Morgan Stanley Sees Amazon Stock Surging 100% with AWS Hitting $1 Trillion in Revenue Sooner Than People Think",
+      "publisher": "Yahoo",
+      "date": "2026-10-25 17:30",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "摩根士丹利看好 AWS 在 AI 與倉儲機器人領域的長期成長潛力，給予 350 美元目標價，預期營收規模將顯著擴張。"
+    },
+    {
+      "rank": 2,
+      "title": "The Hidden $496 Billion Catalyst Waiting to Ignite Amazon Stock on Oct. 29",
+      "publisher": "Yahoo",
+      "date": "2026-10-25 15:42",
+      "impact": "high",
+      "category": "財報預測",
+      "reason": "AWS 擁有高達 4,960 億美元的積壓訂單，顯示雲端業務需求強勁，是支撐股價的重要催化劑。"
+    },
+    {
+      "rank": 3,
+      "title": "Prediction: Amazon Stock Will Skyrocket After Oct. 29 Thanks to AWS Growth",
+      "publisher": "Yahoo",
+      "date": "2026-10-25 08:33",
+      "impact": "medium",
+      "category": "財報預測",
+      "reason": "基於第二季 AWS 強勁表現的歷史經驗，市場預期第三季財報將再次因雲端成長而推升股價。"
+    },
+    {
+      "rank": 4,
+      "title": "What Does American Electric Power Company (AEP) Gain From Its 960 MW Nuclear Plan?",
+      "publisher": "Yahoo",
+      "date": "2026-10-25 03:14",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "Amazon 與 AEP 及 X-energy 達成 960 MW 核能開發協議，展現其為資料中心確保穩定能源供應的長期布局。"
+    },
+    {
+      "rank": 5,
+      "title": "Amazon's $75 AI wearable hides a bigger $144-a-year bet",
+      "publisher": "Yahoo",
+      "date": "2026-10-25 20:23",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "推出 AI 可穿戴設備 Bee，透過訂閱制模式創造經常性收入，顯示 Amazon 在 AI 消費端應用的創新嘗試。"
+    },
+    {
+      "rank": 6,
+      "title": "Generac Q3 Earnings Preview: Can The Amazon AI Deal Deliver A Major Beat?",
+      "publisher": "Yahoo",
+      "date": "2026-10-25 14:42",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Generac 與 Amazon 的資料中心合約成為市場關注焦點，間接證實 Amazon 在基礎設施建設上的積極投入。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Amazon.com (AMZN) Cancels $427 Million Loudoun County Data Center Project",
+      "publisher": "Yahoo",
+      "date": "2026-10-24 22:11",
+      "impact": "medium",
+      "category": "營運調整",
+      "reason": "因當地社區反對，Amazon 取消了 4.27 億美元的資料中心計畫，顯示大型基礎設施擴張面臨監管與社會阻力。"
+    },
+    {
+      "rank": 2,
+      "title": "Can Walmart's New Bundled Subscription Beat Amazon?",
+      "publisher": "Yahoo",
+      "date": "2026-10-25 16:47",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "Walmart 推出 120 美元的綑綁式會員服務，直接挑戰 Amazon Prime 的市場份額，增加零售端的競爭壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon’s AWS Has Already Sold “a Good Chunk” of 2028 Capacity",
+      "publisher": "Yahoo",
+      "date": "2026-10-24 16:15",
+      "impact": "low",
+      "category": "財務狀況",
+      "reason": "儘管 AWS 產能預售情況良好，但高昂的現金消耗速度引發投資人對獲利能力的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "What To Expect In Markets This Week: GOOGL, MSFT, AMZN, INTC, HOOD, LLY Earnings, Fed Meeting And More",
+      "publisher": "Yahoo",
+      "date": "2026-10-25 15:27",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此類新聞為市場週報，彙整了包括 Amazon 在內的多家科技巨頭財報與聯準會會議預告，屬於市場例行資訊。"
+    },
+    {
+      "rank": 2,
+      "title": "3 Big Tech Earnings Reports to Watch as AI Bills Keep Growing",
+      "publisher": "Yahoo",
+      "date": "2026-10-26 01:09",
+      "impact": "low",
+      "category": "財報預測",
+      "reason": "重複提及科技巨頭財報與 AI 支出議題，為市場預期心理的整理報導。"
+    },
+    {
+      "rank": 3,
+      "title": "Microsoft, Alphabet, and Amazon Make Up About 15% of the S&P 500. All 3 Report Earnings Within 2 Days.",
+      "publisher": "Yahoo",
+      "date": "2026-10-26 00:27",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析三大科技巨頭對標普 500 指數的權重影響，屬於總體經濟與指數分析範疇。"
+    },
+    {
+      "rank": 4,
+      "title": "Dow Jones Futures Rise With Microsoft, Google, Amazon Ahead; Will Doom Or Bloom Control Market?",
+      "publisher": "Yahoo",
+      "date": "2026-10-25 23:28",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對道瓊期貨走勢的技術性分析，將 Amazon 財報視為影響大盤的變數之一。"
+    },
+    {
+      "rank": 5,
+      "title": "The Fed, Inflation, Verizon, Boeing, Alphabet, GE Vernova, Amazon, and Many More Stocks to Watch This Week",
+      "publisher": "Yahoo",
+      "date": "2026-10-25 19:12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "本週市場觀察清單，僅提及 Amazon 為財報週重點公司之一，無具體個股分析。"
+    },
+    {
+      "rank": 6,
+      "title": "Halloween Candy Sales Check: Here's what Amazon is selling",
+      "publisher": "Yahoo",
+      "date": "2026-10-25 14:17",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "關於萬聖節糖果銷售的消費趨勢報導，對 Amazon 整體營收影響極小。"
+    },
+    {
+      "rank": 7,
+      "title": "Should Aggregators block AI Agents?",
+      "publisher": "Yahoo",
+      "date": "2026-10-25 06:30",
+      "impact": "low",
+      "category": "產業趨勢",
+      "reason": "探討聚合平台是否應封鎖 AI 代理的產業議題，Amazon 被列為討論對象之一，尚無具體政策影響。"
+    },
+    {
+      "rank": 8,
+      "title": "Bro went from a 700-person village in Slovakia to Google then built an app that makes $2k/day",
+      "publisher": "Yahoo",
+      "date": "2026-10-24 17:31",
+      "impact": "low",
+      "category": "人物專訪",
+      "reason": "關於個人創業者的故事，僅提及曾被 Amazon 收購，對公司股價無實質影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

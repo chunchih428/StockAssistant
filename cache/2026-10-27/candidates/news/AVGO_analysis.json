@@ -1,0 +1,93 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-10-26",
+  "source_file": "cache/2026-10-26/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 6,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管 Broadcom 在 AI 晶片領域營收成長強勁且獲分析師給予高目標價，但近期股價回調與市場對 AI 融資瓶頸的擔憂導致多空看法分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Tigress Financial Initiates Coverage On Broadcom with Buy Rating, Announces Price Target of $600",
+      "publisher": "Benzinga",
+      "date": "2026-10-22 09:16",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Tigress Financial 分析師 Ivan Feinseth 給予買入評級與 600 美元目標價，看好其在 AI 領域的長期成長潛力，認為目前股價回調提供了極佳的進場點。"
+    },
+    {
+      "rank": 2,
+      "title": "Prediction: Broadcom Stock Could Crush the S&P 500 Through 2030",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 16:00",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "文章指出 Broadcom 的 AI 營收爆發式成長，且華爾街分析師觀點高度一致，預期其長期表現將優於大盤。"
+    },
+    {
+      "rank": 3,
+      "title": "Broadcom (AVGO) Debuts Arcot Scam Defense For Real Time Payment Fraud Detection",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 03:14",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "公司推出 Arcot Scam Defense 防詐騙功能，展現其在軟體與資安領域的持續創新能力，有助於多元化營收來源。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Broadcom’s Hock Tan Says AI’s Next Bottleneck Isn’t Chips, Power, or Memory. It’s Not a Tech Problem at All.",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 11:03",
+      "impact": "high",
+      "category": "高層觀點",
+      "reason": "執行長 Hock Tan 指出 AI 產業面臨融資瓶頸，此言論引發市場對 AI 資本支出持續性的擔憂，對半導體類股構成潛在壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom Inc. (AVGO) Suffers a Larger Drop Than the General Market: Key Insights",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 20:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價單日下跌 4.31%，表現弱於大盤，反映出近期市場對晶片股的拋售情緒與技術面修正壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "Snowflake vs. Broadcom: Which Enterprise AI Stock Is the Smarter Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 14:06",
+      "impact": "low",
+      "category": "競爭分析",
+      "reason": "分析師比較顯示 Snowflake 在企業 AI 營收成長上可能優於 Broadcom，導致部分資金配置轉向其他 AI 概念股。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Broadcom vs. Dell Technologies: Which Stock Is AI Powering to Be a Better Buy in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-10-24 17:40",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "對比 Broadcom 的高利潤率與 Dell 的低估值，屬於成長型與價值型投資的策略性討論，並未對股價產生直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Nvidia vs. Broadcom: One Grew AI Revenue 221% Last Quarter. The Other Grew 117%.",
+      "publisher": "Yahoo",
+      "date": "2026-10-24 14:30",
+      "impact": "low",
+      "category": "競爭分析",
+      "reason": "客觀比較兩大 AI 晶片巨頭的營收成長數據，強調兩者在不同細分市場的領先地位，屬於中性的產業現況分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

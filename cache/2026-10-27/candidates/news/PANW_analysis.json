@@ -1,0 +1,102 @@
+{
+  "ticker": "PANW",
+  "company": "Palo Alto Networks",
+  "analysis_date": "2026-10-26",
+  "source_file": "cache/2026-10-26/candidates/news/PANW.json",
+  "summary": {
+    "total_articles": 13,
+    "bullish_count": 9,
+    "bearish_count": 2,
+    "neutral_count": 2,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "受惠於強勁的網路安全需求與 AI 驅動的技術升級，Palo Alto Networks 近期股價表現強勢，並獲得市場分析師的高度看好。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Palo Alto and Crowdstrike Jumped 6%, and Okta Up 5% as Evercore Survey Flags Stronger Cyber Demand",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 18:16",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Evercore 的調查顯示網路安全需求強勁，直接推動 Palo Alto Networks 股價上漲 6.5 %，為近期最強勁的利多訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "Palo Alto +3% on Deutsche Bank AI Call as CEO Warns: “More of These, Not Less”",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 16:41",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "德意志銀行將 Palo Alto 列為 AI 領域的領先企業，強化了市場對其技術競爭力的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Palo Alto CEO Nikesh Arora Warns Companies to Assume They Will Get ‘Breached’ and Fix Their ‘Technology Debt’ as AI Uncovers Critical Software Flaws",
+      "publisher": "Benzinga",
+      "date": "2026-10-24 04:35",
+      "impact": "medium",
+      "category": "公司策略",
+      "reason": "執行長 Nikesh Arora 強調 AI 時代下的安全威脅，凸顯公司產品在協助企業解決技術債與防禦漏洞上的關鍵地位。"
+    },
+    {
+      "rank": 4,
+      "title": "Zacks Market Edge Highlights: Palantir Technologies, BP, Palo Alto Networks, Visa and AbbVie",
+      "publisher": "Yahoo",
+      "date": "2026-10-19 12:00",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Zacks 指出該公司在市場低迷中展現出強勁的獲利成長預期，具備抗跌與成長雙重優勢。"
+    },
+    {
+      "rank": 5,
+      "title": "Here’s How Much You Would Have Made Owning Palo Alto Networks Stock In The Last 10 Years",
+      "publisher": "Benzinga",
+      "date": "2026-10-23 17:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "回顧過去 10 年的優異績效，年化報酬率超越市場 17.77 %，增強長期投資人的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Palo Alto Networks (PANW) Pays a Large Part of Its Wage Bill in Stock. What Does That Do to Profit?",
+      "publisher": "Yahoo",
+      "date": "2026-10-20 14:49",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "指出公司大量以股票支付薪酬，可能對股權稀釋與實際獲利能力造成潛在壓力，是投資人需關注的負面因素。"
+    },
+    {
+      "rank": 2,
+      "title": "Palo Alto Networks (PANW) Stock Dips While Market Gains: Key Facts",
+      "publisher": "Yahoo",
+      "date": "2026-10-20 20:45",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "短期股價回調 1.92 %，反映市場在漲勢中的獲利了結賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Fortinet (FTNT) vs. CSCO and PANW: Can Its Hardware-Software Advantage Support Long-Term Growth?",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 20:46",
+      "impact": "low",
+      "category": "產業競爭",
+      "reason": "將 Palo Alto 與競爭對手 Fortinet 及 Cisco 進行比較，屬於產業分析性質，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Is AI Security Expansion Altering The Investment Case For Palo Alto Networks Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-10-19 23:23",
+      "impact": "low",
+      "category": "產業趨勢",
+      "reason": "探討 AI 安全擴張對投資案例的影響，屬於中性的產業趨勢分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
