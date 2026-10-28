@@ -1,0 +1,111 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-10-26",
+  "source_file": "cache/2026-10-26/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 3,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "CrowdStrike 受惠於與 NVIDIA 的 AI 安全合作擴張以及強勁的市場需求調查，股價表現強勢。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike and NVIDIA Expand AI Agent Security from Software to Silicon",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 11:30",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "CrowdStrike 與 NVIDIA 擴大合作，將 AI 安全防護從軟體層延伸至晶片層，強化了其在 AI 安全領域的技術護城河，直接推動股價上漲。"
+    },
+    {
+      "rank": 2,
+      "title": "Cybersecurity Stocks Rise as Evercore Survey Flags Strengthening Demand: Okta, CrowdStrike and Palo Alto Climb 4%",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 14:53",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Evercore 的通路調查顯示網路安全需求強勁，市場情緒轉向樂觀，帶動 CrowdStrike 與同業股價同步走高。"
+    },
+    {
+      "rank": 3,
+      "title": "Mizuho Maintains Outperform on CrowdStrike Holdings, Raises Price Target to $275",
+      "publisher": "Benzinga",
+      "date": "2026-10-22 07:57",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Mizuho 分析師 Gregg Moskowitz 維持買入評級並上調目標價，反映了市場對公司成長前景的信心。"
+    },
+    {
+      "rank": 4,
+      "title": "CrowdStrike CEO Says a Wave of Cyber Attacks Are Coming",
+      "publisher": "Yahoo",
+      "date": "2026-10-24 13:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "CEO George Kurtz 對 PHP 漏洞引發的潛在攻擊潮發出警告，雖然是風險提示，但客觀上增加了企業對 CrowdStrike 解決方案的需求。"
+    },
+    {
+      "rank": 5,
+      "title": "What Is CrowdStrike (CRWD) Asking With A Reported $500 Million Security Deal?",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 16:11",
+      "impact": "medium",
+      "category": "併購消息",
+      "reason": "傳出以 5 億美元收購 Orion Security System Ltd.，顯示公司積極透過併購擴張技術版圖。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Up Over 100% in 2026, Is CrowdStrike Still a Buy? — The cybersecurity specialist's stock has done well, but its business is lagging.",
+      "publisher": "Yahoo",
+      "date": "2026-10-25 19:02",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "文章質疑在股價今年上漲超過 100% 後，其業務成長是否能支撐高估值，提醒投資人注意獲利回吐風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Should One Cost Scare You About CrowdStrike Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 13:39",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "針對公司成本結構提出隱憂，雖然未指明具體項目，但對高成長股的成本控制提出質疑。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike vs. SentinelOne: Which Cybersecurity Stock Is a Better Buy in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 11:43",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "對比兩家公司優劣勢，CrowdStrike 具備規模與獲利能力，SentinelOne 則具備動能，屬於中性的投資比較分析。"
+    },
+    {
+      "rank": 2,
+      "title": "Adobe vs. CrowdStrike: Which Technology Stock Is a Better Buy in 2026?",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 13:09",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "針對不同領域的科技股進行比較，對 CrowdStrike 本身並無直接利多或利空影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Ent Appoints Kevin Arsenault Chief Revenue Officer",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 17:35",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "前 CrowdStrike 高管轉任他職，對 CrowdStrike 本身營運影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

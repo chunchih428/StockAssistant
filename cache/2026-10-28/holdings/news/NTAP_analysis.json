@@ -1,0 +1,65 @@
+{
+  "ticker": "NTAP",
+  "company": "NetApp",
+  "analysis_date": "2026-10-26",
+  "source_file": "cache/2026-10-26/holdings/news/NTAP.json",
+  "summary": {
+    "total_articles": 5,
+    "bullish_count": 4,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "NetApp 受益於 AI 基礎設施需求強勁，市場對其儲存解決方案的成長潛力與股價韌性持正面看法。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Savvy Investors Love This Often Overlooked Clue. It's Flashing Now For This Nvidia, Google Partner.",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 12:01",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "文章強調 NetApp 作為 Nvidia 與 Google 的合作夥伴，在 AI 基礎設施領域展現出強大的市場韌性，並具備吸引機構投資者的技術指標訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "NetApp vs. IBM: Which Enterprise Storage Stock is the Better Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 12:39",
+      "impact": "medium",
+      "category": "產業分析",
+      "reason": "透過與 IBM 的比較，突顯了 NetApp 在 AI 驅動的企業儲存需求下的成長優勢，並暗示其在估值與獲利預期上具備競爭力。"
+    },
+    {
+      "rank": 3,
+      "title": "NetApp (NTAP) Rises Higher Than Market: Key Facts",
+      "publisher": "Yahoo",
+      "date": "2026-10-20 21:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出 NetApp 股價單日上漲 1.14 %，表現優於大盤，反映出市場對該公司近期營運表現的正面情緒。"
+    },
+    {
+      "rank": 4,
+      "title": "ePlus Named NetApp North America Flash Partner of the Year",
+      "publisher": "Yahoo",
+      "date": "2026-10-20 12:30",
+      "impact": "low",
+      "category": "合作夥伴關係",
+      "reason": "ePlus 獲得 NetApp 年度北美 Flash 合作夥伴獎項，顯示 NetApp 在全快閃儲存陣列市場的通路生態系運作良好，有助於推動銷售成長。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "How Much Of NetApp Stock's Rise Did The Business Earn?",
+      "publisher": "Yahoo",
+      "date": "2026-10-19 12:55",
+      "impact": "low",
+      "category": "財務分析",
+      "reason": "該文章以中立角度探討 NetApp 股價上漲背後的業務基本面支撐，旨在分析股價漲幅是否與實際營運獲利相符，屬於投資人教育性質的分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

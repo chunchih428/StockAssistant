@@ -1,0 +1,57 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-10-26",
+  "source_file": "cache/2026-10-26/candidates/news/OUST.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "mixed",
+    "key_theme": "Ouster 的雷射雷達技術在烏克蘭國防任務中展現應用價值，但市場對於其估值與股價波動性仍存在分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ouster Sensors Play Key Role in Forterra's Lancer Completing 1,426 Missions and 88 Casualty Evacuation Operations in Ukraine",
+      "publisher": "Yahoo",
+      "date": "2026-10-21 11:00",
+      "impact": "high",
+      "category": "業務拓展",
+      "reason": "Ouster 的傳感器技術成功應用於 Forterra 的 Lancer 無人車系統，並在烏克蘭執行超過 1,400 次任務，證明了其產品在極端環境下的可靠性與軍事應用潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "Top 3 Tech Stocks That Are Set To Fly In October — Oversold IT stocks Entegris, Applied Optoelectronics and Ouster show RSI near 30",
+      "publisher": "Benzinga",
+      "date": "2026-10-23 06:07",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "技術分析顯示 Ouster 的 RSI 指標接近 30，處於超賣區間，暗示股價可能出現反彈，吸引尋求價值回歸的投資人關注。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ouster (OUST) Stock Still Looks Overvalued Despite Ukraine Defense Missions",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 04:27",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "儘管公司在國防領域取得進展，分析指出其股價相對於業務基本面仍顯得過高，且過去幾年股價波動劇烈，增加了投資風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ouster, Inc. (OUST) Beats Stock Market Upswing: What Investors Need to Know",
+      "publisher": "Yahoo",
+      "date": "2026-10-19 21:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為單日股價變動的例行性報導，漲幅 1.51 % 屬於正常市場波動範圍，未包含重大基本面變動資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

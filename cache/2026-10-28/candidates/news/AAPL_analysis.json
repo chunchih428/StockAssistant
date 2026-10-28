@@ -1,0 +1,102 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-10-26",
+  "source_file": "cache/2026-10-26/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 5,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "新款折疊式 iPhone Duo 的強勁市場需求與銷售表現，成功帶動 Apple 市值重回全球首位，抵銷了部分關於創新力減弱的市場質疑。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple Just Passed Nvidia as the World’s Most Valuable Company on iPhone Duo Day",
+      "publisher": "Yahoo",
+      "date": "2026-10-24 11:15",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "iPhone Duo 的熱銷直接推動 Apple 市值超越 Nvidia，重返全球市值最高公司寶座，顯示市場對其新產品線的強烈信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple seeks more iPhone Duo supplies amid strong demand for debut foldable- report",
+      "publisher": "Yahoo",
+      "date": "2026-10-26 00:10",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Apple 要求供應商增加產能以應對強勁需求，證實了首款折疊機的市場接受度遠超預期，有利於未來營收增長。"
+    },
+    {
+      "rank": 3,
+      "title": "Gene Munster Says Apple’s $2,200 iPhone Duo Could Add $8B To FY27 Revenue",
+      "publisher": "Yahoo",
+      "date": "2026-10-24 09:24",
+      "impact": "medium",
+      "category": "財報預測",
+      "reason": "分析師 Gene Munster 預估 iPhone Duo 將貢獻 80 億美元的額外營收，且銷量有望達到 2,000 萬台，遠高於華爾街預期的 1,200 萬台。"
+    },
+    {
+      "rank": 4,
+      "title": "Apple’s iPhone Duo shows encouraging early demand signals",
+      "publisher": "CNBC",
+      "date": "2026-10-23 17:22",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "綜合報導顯示 iPhone Duo 在全球旗艦店引發排隊熱潮，儘管價格高昂，但初期需求訊號依然強勁。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Peter Thiel Says Apple Did ‘Nothing New’ After Steve Jobs",
+      "publisher": "Benzinga",
+      "date": "2026-10-25 02:41",
+      "impact": "medium",
+      "category": "市場評論",
+      "reason": "Peter Thiel 公開批評 Apple 在 Steve Jobs 去世後缺乏創新，僅被視為一家管理良好的價值型股票，可能影響長期成長估值。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Demand for Apple’s iPhone 18 Pro Weakening? Jefferies Reports Shorter Delivery Times and Order Cuts",
+      "publisher": "Yahoo",
+      "date": "2026-10-24 14:51",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Jefferies 報告指出 iPhone 18 Pro 的交貨時間縮短且訂單遭到削減，顯示舊款旗艦機型需求可能出現疲軟。"
+    },
+    {
+      "rank": 3,
+      "title": "Apple's $1,999 iPhone Duo appears to have an app problem",
+      "publisher": "Yahoo",
+      "date": "2026-10-24 17:17",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "儘管硬體熱銷，但部分主流應用程式尚未針對折疊螢幕進行優化，可能影響初期用戶體驗。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Apple’s Market Cap Grew From $350 Billion to $4.6 Trillion During Tim Cook's 15 Years as CEO",
+      "publisher": "Yahoo",
+      "date": "2026-10-25 20:05",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "回顧 Tim Cook 的 15 年任期成就，並探討新任 CEO John Ternus 面臨的挑戰，屬於中性的經營層面分析。"
+    },
+    {
+      "rank": 2,
+      "title": "Here's How Many Shares of Apple Stock You'd Need for $100 in Yearly Dividends",
+      "publisher": "Yahoo",
+      "date": "2026-10-24 21:09",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "純粹的股息收益率計算分析，對股價短期波動影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
