@@ -1,0 +1,57 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-10-29",
+  "source_file": "cache/2026-10-29/candidates/news/OUST.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 3,
+    "bearish_count": 1,
+    "neutral_count": 2,
+    "overall_sentiment": "bullish",
+    "key_theme": "子公司 Stereolabs 發布新款 AI 電腦 ZED Box 2 帶動市場樂觀情緒，抵銷了對估值過高的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ouster Stock Surges After Stereolabs Unveils ZED Box 2",
+      "publisher": "Benzinga",
+      "date": "2026-10-27 14:22",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Ouster 旗下子公司 Stereolabs 推出搭載 NVIDIA Jetson Thor 的 ZED Box 2 系列 AI 電腦，顯著增強了公司在機器人視覺與空間 AI 領域的技術競爭力，直接推動股價上漲。"
+    },
+    {
+      "rank": 2,
+      "title": "Top 3 Tech Stocks That Are Set To Fly In October",
+      "publisher": "Benzinga",
+      "date": "2026-10-23 06:07",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 Ouster 的 RSI 指標接近 30，處於超賣區間，技術面上具備反彈潛力，吸引價值型投資人關注。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Ouster (OUST) Stock Still Looks Overvalued Despite Ukraine Defense Missions",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 04:27",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管公司在國防領域有所斬獲，但市場擔憂其當前股價相對於基本面仍顯得過高，且過去幾年股價波動劇烈，增加了投資風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ouster Q3 Earnings on Deck: Buy, Hold or Sell OUST Stock Now?",
+      "publisher": "Yahoo",
+      "date": "2026-10-27 11:55",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "此報導為財報前瞻分析，指出 Rev8 需求加速與智慧基礎設施擴張為正面因素，但同時提醒估值壓力，屬於中性觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

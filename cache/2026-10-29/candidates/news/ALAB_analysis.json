@@ -1,0 +1,84 @@
+{
+  "ticker": "ALAB",
+  "company": "Astera Labs",
+  "analysis_date": "2026-10-29",
+  "source_file": "cache/2026-10-29/candidates/news/ALAB.json",
+  "summary": {
+    "total_articles": 7,
+    "bullish_count": 4,
+    "bearish_count": 2,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場對 AI 基礎設施需求強勁，推動 Astera Labs 營收預期大幅成長，儘管財報前夕存在估值與技術面波動的雜音。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Astera Labs Gains Ahead of Q3 as Scorpio Switches Set Up a 40% Sequential Jump",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 09:44",
+      "impact": "high",
+      "category": "財報預期",
+      "reason": "公司預測 Q3 營收將達 5.4 億至 5.6 億美元，較 Q2 的 3.924 億美元大幅成長約 40 %，主要受惠於 Scorpio 交換器產品的強勁需求。"
+    },
+    {
+      "rank": 2,
+      "title": "Astera Labs (ALAB) Stock May Be 12% Undervalued On Cash Flow",
+      "publisher": "Yahoo",
+      "date": "2026-10-24 19:09",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "基於現金流折現模型分析，認為 ALAB 目前股價被低估約 12 %，即便經歷近期回調，長期成長潛力仍受市場看好。"
+    },
+    {
+      "rank": 3,
+      "title": "Astera Labs Shares Rise 6% After Key Trading Signal",
+      "publisher": "Benzinga",
+      "date": "2026-10-27 16:28",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價在觸及 269.83 美元的關鍵技術訊號後上漲 6 %，顯示市場買盤動能強勁，技術面轉強。"
+    },
+    {
+      "rank": 4,
+      "title": "Credo Soars 7% as Super Micro’s $4 Billion Forecast Hike Signals “Increased Demand for AI Platforms”",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 17:30",
+      "impact": "low",
+      "category": "產業趨勢",
+      "reason": "受惠於 Super Micro 上調財測帶動的 AI 類股整體情緒，Astera Labs 作為 AI 基礎設施供應鏈一環，股價隨產業趨勢同步走高。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Astera Labs, Inc. (ALAB) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
+      "publisher": "Yahoo",
+      "date": "2026-10-27 13:00",
+      "impact": "medium",
+      "category": "財報預期",
+      "reason": "分析指出 ALAB 目前缺乏財報超預期的關鍵指標組合，暗示市場對即將到來的財報表現可能過於樂觀，存在獲利不如預期的風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Astera Labs (ALAB) Detracts Despite Strong Core Business",
+      "publisher": "Yahoo",
+      "date": "2026-10-27 11:20",
+      "impact": "low",
+      "category": "投資組合管理",
+      "reason": "Fred Alger Management 在其投資信中提到 ALAB 儘管核心業務強勁，但近期對投資組合績效產生了負面拖累，反映出機構投資者的獲利了結或部位調整。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Was There Any Sign Astera Labs Stock Would Run?",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 08:22",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "該報導旨在回顧股價波動的歷史成因，並未提供新的基本面資訊或未來展望，屬於中性的市場回顧分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

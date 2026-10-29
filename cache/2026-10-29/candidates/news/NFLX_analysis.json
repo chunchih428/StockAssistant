@@ -1,0 +1,102 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "analysis_date": "2026-10-29",
+  "source_file": "cache/2026-10-29/candidates/news/NFLX.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 1,
+    "bearish_count": 14,
+    "neutral_count": 5,
+    "overall_sentiment": "bearish",
+    "key_theme": "近期財報後股價持續疲軟，市場對於用戶參與度下降、廣告業務成長放緩以及大規模裁員帶來的營運不確定性感到擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Netflix and ServiceNow Have Fallen More Than 30% From Their Records. Both Are Stocks to Buy and Hold Through 2030.",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 08:08",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "儘管近期股價表現不佳，但分析師認為從長期投資視角（至 2030 年）來看，目前估值已具備買入價值。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Netflix Drops 4% as Engagement Worries Outweigh Earnings Beat; Disney and Spotify Slip",
+      "publisher": "Yahoo",
+      "date": "2026-10-26 16:49",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "儘管財報數據優於預期，但用戶參與度下降的數據引發市場對串流媒體成長動能的質疑，導致股價顯著下跌。"
+    },
+    {
+      "rank": 2,
+      "title": "What Does Netflix (NFLX) Leadership Shakeup Mean For Its Streaming Future?",
+      "publisher": "Yahoo",
+      "date": "2026-10-27 22:15",
+      "impact": "high",
+      "category": "高層異動",
+      "reason": "公司宣布裁員約 1,000 人並進行組織重組，市場擔憂此舉反映內部營運壓力及對未來成長策略的不確定性。"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix's Advertising Business Expands Rapidly: Can Momentum Continue?",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 12:40",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "廣告業務雖有成長，但面臨推廣延遲與財測下調的風險，削弱了投資人對其作為新成長引擎的信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Why Netflix reportedly walked away from Xbox licensing deal",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 01:37",
+      "impact": "medium",
+      "category": "商業合作",
+      "reason": "與 Xbox 的授權談判破裂，顯示 Netflix 在擴展內容分發管道與跨平台合作上遭遇阻礙。"
+    },
+    {
+      "rank": 5,
+      "title": "YouTube Is Beating Netflix in the Living Room",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 10:45",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "競爭對手 YouTube 在客廳觀影市場的市占率提升，直接威脅 Netflix 的核心串流媒體地位。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Reed Hastings Could Get Richer From Anthropic IPO: Here's How Many Shares Netflix Co-Founder Owns",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 18:31",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "此報導聚焦於創辦人 Reed Hastings 的個人投資組合，對 Netflix 本身的營運基本面影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "'Top Treasury trade official leaving for Netflix' - Axios",
+      "publisher": "Benzinga",
+      "date": "2026-10-28 09:14",
+      "impact": "low",
+      "category": "高層異動",
+      "reason": "報導財政部官員轉職至 Netflix，屬於一般性人事變動，對股價短期影響中性。"
+    },
+    {
+      "rank": 3,
+      "title": "Congressman Could Be Down 2.65x Annual Salary by Betting on Netflix Stock",
+      "publisher": "Yahoo",
+      "date": "2026-10-27 00:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為國會議員個人投資績效的追蹤報導，不涉及公司營運層面的變動。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

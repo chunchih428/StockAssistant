@@ -1,0 +1,120 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-10-29",
+  "source_file": "cache/2026-10-29/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 3,
+    "neutral_count": 8,
+    "overall_sentiment": "bullish",
+    "key_theme": "市場高度聚焦 Amazon 即將公布的第 3 季財報，特別是 AWS 的雲端成長動能與 AI 資本支出的獲利回報能力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Amazon Earnings Preview: Why Wall Street Is Bullish On Cloud Growth",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 17:50",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "華爾街對 Amazon 第 3 季財報持樂觀態度，主要預期雲端業務 AWS 在 AI 需求帶動下將展現強勁成長。"
+    },
+    {
+      "rank": 2,
+      "title": "UBS Thinks the Street Is Too Low on AWS. Amazon’s Quarter Is the Test",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 15:04",
+      "impact": "high",
+      "category": "分析師觀點",
+      "reason": "瑞銀 (UBS) 指出市場低估了 AWS 的獲利能力，認為即將公布的財報將成為驗證其獲利潛力的關鍵測試。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon’s EPS Is “Absolutely Exploding,” Says Josh Brown.",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 17:26",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名投資人 Josh Brown 看好 Amazon 每股盈餘 (EPS) 的爆發性成長，為財報前夕增添市場信心。"
+    },
+    {
+      "rank": 4,
+      "title": "Amazon expands smart home footprint with new Echo Show 16 and Alexa hardware",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 13:38",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "Amazon 發布 5 款全新 Alexa 智慧家庭裝置，持續擴大其硬體生態系統與市場滲透率。"
+    },
+    {
+      "rank": 5,
+      "title": "iBusiness Funding Expands Access to SBA Financing for Amazon Sellers",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 13:30",
+      "impact": "low",
+      "category": "市場擴張",
+      "reason": "透過整合 SBA 融資服務至賣家中心，有助於提升第三方賣家的營運能力，進而鞏固電商平台交易額。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Big Tech Earnings Face a $600 Billion Question: Is AI Spending Paying Off?",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 12:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場擔憂科技巨頭在 AI 領域的高額資本支出是否能轉化為實質獲利，這對 Amazon 的財報表現構成潛在壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
+      "publisher": "CNBC",
+      "date": "2026-10-27 14:41",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "公司內部備忘錄要求工程師謹慎使用 AI，反映出對 AI 成本控制與資源分配的擔憂，可能影響短期開發效率。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon paid $3.5M for 1,000+ trailer moves that never happened",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 13:00",
+      "impact": "low",
+      "category": "法律訴訟",
+      "reason": "涉及 350 萬美元的物流詐欺案件，雖金額對 Amazon 整體營收影響有限，但凸顯供應鏈管理漏洞。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "How Microsoft, Coca-Cola And Amazon Are Adapting Their Offices For AI Age",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 22:58",
+      "impact": "low",
+      "category": "產業趨勢",
+      "reason": "探討企業如何因應 AI 時代調整辦公空間，屬於產業趨勢分析，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Global Product Take-Back Program Market Report 2026",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 20:58",
+      "impact": "low",
+      "category": "產業報告",
+      "reason": "關於產品回收計畫的市場研究報告，僅提及 Amazon 為參與者之一，缺乏具體財務影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Ex-Amazon VP tells us what it’s really like working with Jeff Bezos",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 14:35",
+      "impact": "low",
+      "category": "公司文化",
+      "reason": "前高管分享工作經驗，屬於個人觀點與職場軼事，對公司基本面無影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

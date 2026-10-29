@@ -1,0 +1,75 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-10-29",
+  "source_file": "cache/2026-10-29/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 1,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "neutral",
+    "key_theme": "市場對於 QQQ 的成本結構與 AI 泡沫風險存在分歧，同時 ETF 產品間的競爭與策略性配置討論持續增加。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "What Few Investors Realize About QQQ’s Dividend — Most QQQ investors never think about its dividend, but the payout has quietly done something surprising over the past five years",
+      "publisher": "Yahoo",
+      "date": "2026-10-27 12:10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章指出 QQQ 的股利表現優於投資人預期，這為長期持有者提供了額外的價值支撐，有助於提升投資人信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Safe Haven Trade: SCHD Outperforms VOO and QQQ as AI Bubble Fears Mount",
+      "publisher": "Benzinga",
+      "date": "2026-10-24 13:15",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場對 AI 泡沫的擔憂導致資金流向防禦型 ETF (如 SCHD)，這對以科技股為主的 QQQ 構成潛在的資金流出壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Forget QQQ: The Company Behind It Runs the Same Index for $30 Less a Year on a $100K Balance",
+      "publisher": "Yahoo",
+      "date": "2026-10-26 21:03",
+      "impact": "low",
+      "category": "產品競爭",
+      "reason": "指出 Invesco 旗下有費用率更低的同質產品，這可能導致部分成本敏感型投資人轉移資金，對 QQQ 的資產管理規模 (AUM) 成長造成微幅負面影響。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Food Network New York City Wine & Food Festival presented by Invesco QQQ Took Over New York City",
+      "publisher": "Yahoo",
+      "date": "2026-10-26 19:59",
+      "impact": "low",
+      "category": "品牌行銷",
+      "reason": "此為品牌贊助活動，雖有助於提升 Invesco QQQ 的品牌曝光度，但對 ETF 本身的股價與財務基本面無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "VOO vs. QQQ: Here's the ETF I'd Personally Buy and Hold for Decades",
+      "publisher": "Yahoo",
+      "date": "2026-10-26 15:40",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "屬於市場分析觀點，針對不同投資目標進行比較，未對 QQQ 的資產組合或市場地位產生實質改變。"
+    },
+    {
+      "rank": 3,
+      "title": "Market Volatility Playbook: Trade the Noise, Get Paid to Ignore the Rest",
+      "publisher": "Yahoo",
+      "date": "2026-10-25 11:55",
+      "impact": "low",
+      "category": "交易策略",
+      "reason": "僅提及 QQQ 作為波動率交易的標的之一，屬於技術性操作建議，對長期投資價值影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

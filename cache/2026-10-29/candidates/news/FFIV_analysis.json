@@ -1,0 +1,93 @@
+{
+  "ticker": "FFIV",
+  "company": "F5",
+  "analysis_date": "2026-10-29",
+  "source_file": "cache/2026-10-29/candidates/news/FFIV.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 7,
+    "bearish_count": 6,
+    "neutral_count": 7,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管 F5 第 4 季財報營收優於預期且與 Oracle 達成 AI 安全合作，但市場對其硬體更換成長放緩及高昂的 AI 投資成本感到擔憂，導致股價大幅回調。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "F5 (FFIV) Q4 2026 Earnings Call Transcript — AI security bookings surged 300% as F5 expands platform adoption.",
+      "publisher": "Yahoo",
+      "date": "2026-10-27 23:19",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司公布第 4 季財報，營收達 9.17 億美元，年增 13%，且 AI 安全訂單激增 300%，顯示其在 AI 基礎設施領域的成長潛力。"
+    },
+    {
+      "rank": 2,
+      "title": "F5 and Oracle Collaborate to Strengthen Application Security in the AI Era",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 13:00",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "F5 與 Oracle 宣布合作，將 F5 的安全服務整合至 Oracle Cloud Infrastructure，有助於擴大其在雲端安全市場的市占率。"
+    },
+    {
+      "rank": 3,
+      "title": "Evercore ISI Group Maintains Outperform on F5, Raises Price Target to $500",
+      "publisher": "Benzinga",
+      "date": "2026-10-28 09:14",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Evercore ISI 分析師維持對 F5 的「優於大盤」評級，並將目標價上調至 500 美元，反映對公司長期成長前景的信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why F5 (FFIV) stock is falling today — Shares of application security provider F5 (NASDAQ:FFIV) fell 19.4% in the afternoon session after the company reported",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 02:22",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "儘管財報數據亮眼，但市場對公司硬體更換業務成長放緩以及高昂的 AI 轉型成本感到極度擔憂，導致股價單日重挫 19.4%。"
+    },
+    {
+      "rank": 2,
+      "title": "F5 Stock Is Having Its Worst Day in Over a Decade. Blame Its Costly AI Push.",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 17:03",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "報導指出這是 F5 十三年來最糟糕的單日表現，投資人對於公司為了 AI 發展所投入的成本與獲利能力產生質疑。"
+    },
+    {
+      "rank": 3,
+      "title": "F5 (FFIV) Stock Could Be 14% Overvalued Despite Fresh AI Infrastructure News",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 14:13",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "分析指出即便有 AI 題材加持，F5 的股價仍可能被高估約 14%，這加劇了市場在財報後的獲利了結賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Here Are Wednesday’s Top Wall Street Analyst Research Calls",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 11:58",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "該報導僅列出當日多檔股票的分析師研究報告，F5 僅為其中之一，未提供具體影響市場情緒的深度分析。"
+    },
+    {
+      "rank": 2,
+      "title": "This Whirlpool Analyst Turns Bearish; Here Are Top 5 Downgrades For Wednesday",
+      "publisher": "Benzinga",
+      "date": "2026-10-28 08:36",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "提及 F5 遭到降評，但主要焦點在於 Whirlpool 等其他公司，對 F5 本身的影響力有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

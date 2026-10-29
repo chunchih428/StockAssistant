@@ -1,0 +1,111 @@
+{
+  "ticker": "BE",
+  "company": "Bloom Energy Corporation",
+  "analysis_date": "2026-10-29",
+  "source_file": "cache/2026-10-29/holdings/news/BE.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 8,
+    "bearish_count": 8,
+    "neutral_count": 4,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管 Bloom Energy 第三季財報營收與獲利表現亮眼並上調全年展望，但因營運現金流轉負及市場對其高估值與成長持續性的擔憂，導致股價在財報後出現顯著波動。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy Q3 Earnings Call Highlights Guidance Hike & Capacity Plan",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 12:41",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第三季財報表現強勁，營收成長 138.1%，並上調 2026 年全年展望，顯示在 AI 與電力需求激增背景下，其製造產能擴張策略具備執行力。"
+    },
+    {
+      "rank": 2,
+      "title": "BE Q3 Earnings Beat Estimates on Strong Product Sales, View Up",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 14:49",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "財報顯示營收與獲利均優於華爾街預期，產品銷售強勁且利潤率改善，證明其在分散式電源市場的競爭優勢。"
+    },
+    {
+      "rank": 3,
+      "title": "BE Stock Extends Selloff After Q3 Print, But Morgan Stanley Sees A Production Ramp Ahead",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 13:53",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "摩根士丹利對公司擴大生產規模的能力表示信心，並上調了出貨量預測，為股價提供長期支撐。"
+    },
+    {
+      "rank": 4,
+      "title": "BE Stock Extends Dip Overnight: Retail Bulls Hold Firm As CEO Says Power Demand Will 'Skyrocket' Beyond AI",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 01:12",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "執行長 KR Sridhar 強調電力需求將超越 AI 領域，顯示公司對未來市場需求的樂觀預期，有助於穩定長期投資人信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy Drops 11% After a Record Quarter Burns $181 Million",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 16:50",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "儘管營收創新高，但第三季營運現金流流出 1.81 億美元，引發市場對公司資本效率與現金消耗速度的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "BE Stock Sees Worst Single-Day Fall In 3 Months — Jefferies Trims Price Target",
+      "publisher": "Yahoo",
+      "date": "2026-10-24 07:31",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Jefferies 將目標價下調至 242 美元，並指出公司缺乏與 Oracle 等大型合作夥伴的具體進展更新，導致股價單日重挫。"
+    },
+    {
+      "rank": 3,
+      "title": "Bloom Energy: Buckle Up, Things Are About To Change (Rating Downgrade)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-10-27 15:29",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師給予賣出評級，認為短期需求被過度誇大，且單位經濟效益不可持續，對公司長期獲利能力提出質疑。"
+    },
+    {
+      "rank": 4,
+      "title": "Bloom Energy Stock Faces Pressure Amid Cash Flow Concerns, Oppenheimer Says",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 15:33",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Oppenheimer 指出營運資金需求增加正對公司現金流造成壓力，短期內股價將面臨修正風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Is Bloom Energy (BE) Stock Cheap After AI Demand And Cash Flow Concerns?",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 05:10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章探討了股價在經歷三年大漲後的估值合理性，並平衡了 AI 需求與現金流風險，未給出明確方向。"
+    },
+    {
+      "rank": 2,
+      "title": "BE Stock Dips Overnight After 3 Weeks In The Red: Analyst Sees Share Prices ‘Heavily Weighted On Optimistic Expectations’",
+      "publisher": "Yahoo",
+      "date": "2026-10-26 01:55",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "晨星將公司股票列入審查，認為股價已反映過多樂觀預期，市場正處於重新評估階段。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
