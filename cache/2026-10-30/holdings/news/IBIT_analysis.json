@@ -1,0 +1,93 @@
+{
+  "ticker": "IBIT",
+  "company": "Bitcoin",
+  "analysis_date": "2026-10-29",
+  "source_file": "cache/2026-10-29/holdings/news/IBIT.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 7,
+    "bearish_count": 8,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "比特幣 ETF 資金流向呈現高度波動，市場在機構買盤回流與總體經濟不確定性引發的拋售壓力之間拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bitcoin Back Above $80K, IBIT Breaks Outflow Spell",
+      "publisher": "Benzinga",
+      "date": "2026-10-27 15:59",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "IBIT 成功終止流出趨勢並吸引 1.1 億美元淨流入，顯示機構投資者在比特幣回升至 8 萬美元關卡時展現買入信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 16:31",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "現貨比特幣 ETF 在三天內吸引超過 10 億美元資金，成功扭轉 10 月份的流出頹勢，顯示市場需求強勁。"
+    },
+    {
+      "rank": 3,
+      "title": "3 Reasons Why Bitcoin Is Worth Buying Right Now",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 23:29",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "分析師指出當前市場技術面與資金面具備買入訊號，為長期持有者提供正面觀點。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bitcoin ETFs Just Had Their Biggest Outflow Day Since June",
+      "publisher": "Yahoo",
+      "date": "2026-10-24 15:37",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "單日流出 6.356 億美元為 6 月以來最大規模，反映投資者在市場波動加劇時的避險拋售行為。"
+    },
+    {
+      "rank": 2,
+      "title": "Hyperliquid’s Biggest Traders Are Shorting Bitcoin for the First Time Since March",
+      "publisher": "Yahoo",
+      "date": "2026-10-27 22:19",
+      "impact": "medium",
+      "category": "市場情緒",
+      "reason": "大型交易員轉向做空，顯示專業投資者對短期比特幣價格走勢持保守或看跌態度。"
+    },
+    {
+      "rank": 3,
+      "title": "Bitcoin News: BlackRock Just Moved $262 Million in Bitcoin to Coinbase",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 16:16",
+      "impact": "medium",
+      "category": "公司動態",
+      "reason": "貝萊德將價值 2.62 億美元的比特幣轉移至 Coinbase，引發市場對潛在拋售壓力的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Bitcoin Holds $79,200 Before the Fed, Coinbase Earnings and a $10.9B Expiry",
+      "publisher": "Yahoo",
+      "date": "2026-10-26 13:32",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場正處於聯準會決策、Coinbase 財報與期權到期前的觀望期，價格波動受多重宏觀因素制約。"
+    },
+    {
+      "rank": 2,
+      "title": "Do Bitcoin ETF Flows Really Predict Future Bitcoin Price Moves?",
+      "publisher": "Yahoo",
+      "date": "2026-10-27 03:07",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "研究指出 ETF 資金流向與價格走勢的相關性並非絕對，提醒投資者需綜合考量其他指標。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

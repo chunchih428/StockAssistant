@@ -1,0 +1,102 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-10-29",
+  "source_file": "cache/2026-10-29/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 14,
+    "bearish_count": 2,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Broadcom 透過與 Anthropic 簽署高達 630 億美元的 AI 晶片融資協議，展現強勁的 AI 成長動能，獲得多家分析師上調評級與目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Wall Street Banks Provide $63 Billion To Finance Broadcom AI Chips For Anthropic",
+      "publisher": "Yahoo",
+      "date": "2026-10-27 14:34",
+      "impact": "high",
+      "category": "重大合約",
+      "reason": "Broadcom 成功獲得銀行團 630 億美元融資支持其 AI 晶片業務，此舉被視為 AI 週期持續強勁的關鍵證據，預計將帶來高達 300 億美元的潛在營收。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom: DA Davidson upgrades AVGO, says Anthropic S-1 shows AI cycle isn’t over",
+      "publisher": "Yahoo",
+      "date": "2026-10-27 11:50",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "D.A. Davidson 將 Broadcom 評級上調至買入，並將目標價調升至 400 美元，顯示市場對其 AI 基礎設施需求的信心回升。"
+    },
+    {
+      "rank": 3,
+      "title": "Rosenblatt’s $600 Target Says Broadcom’s Selloff Went Too Far",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 15:52",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Rosenblatt Securities 重申買入評級並維持 600 美元目標價，認為近期股價回調幅度過大，提供良好的進場點。"
+    },
+    {
+      "rank": 4,
+      "title": "AMD, Broadcom, and Micron stocks lead chip sector higher for third day in a row",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 12:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "受惠於半導體類股整體回升，Broadcom 連續三日領漲，顯示市場資金重新回流 AI 硬體供應鏈。"
+    },
+    {
+      "rank": 5,
+      "title": "These Dividend-Paying Stocks Offer Notable AI Exposure: AVGO VRT",
+      "publisher": "Yahoo",
+      "date": "2026-10-27 23:23",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "Broadcom 被列為具備 AI 成長動能且提供穩定股息的優質標的，吸引長期價值型投資人關注。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Broadcom Drops 6% in a Month: Buy, Sell or Hold the AVGO Stock?",
+      "publisher": "Yahoo",
+      "date": "2026-10-27 18:10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "近期股價單月下跌 5.8%，主要受毛利率壓力、供應鏈限制及客戶過度集中等結構性問題影響，引發市場擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom CEO says capital is ‘available’ after banks wavered",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 02:03",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "報導指出銀行團曾一度考慮退出融資協議，儘管最終達成，但反映出大型 AI 專案在融資過程中的潛在不確定性。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "What Does Seagate Technology Holdings (STX) Mozaic Milestone Mean For AI Storage?",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 02:08",
+      "impact": "low",
+      "category": "技術合作",
+      "reason": "Seagate 與 Broadcom 在 Mozaic 硬碟技術達成互通性里程碑，對 Broadcom 而言屬於業務生態系的正常擴展，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Broadcom And 2 More Quality Value Stocks To Watch",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 04:33",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "文章將 Broadcom 列為值得關注的價值股，屬於一般性的市場觀察，無具體利多或利空催化。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

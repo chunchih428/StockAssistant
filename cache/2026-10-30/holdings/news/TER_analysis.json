@@ -1,0 +1,84 @@
+{
+  "ticker": "TER",
+  "company": "Teradyne, Inc.",
+  "analysis_date": "2026-10-29",
+  "source_file": "cache/2026-10-29/holdings/news/TER.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "mixed",
+    "key_theme": "Teradyne 發布了強勁的第 3 季財報，營收與 EPS 均優於預期，主要受惠於 AI 相關需求，但股價卻在財報後出現獲利了結的下跌走勢。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Teradyne (TER) Q3 2026 Earnings Call Transcript — AI demand drove 70% revenue growth and 150% EPS surge.",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 17:04",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第 3 季財報表現亮眼，營收年增 70 %，EPS 激增 150 %，主要由 AI 基礎設施需求強勁驅動，顯示其在半導體測試設備領域的領導地位。"
+    },
+    {
+      "rank": 2,
+      "title": "Teradyne Q3 Adj. EPS $2.29 Beats $2.04 Estimate, Sales $1.306B Beat $1.264B Estimate",
+      "publisher": "Benzinga",
+      "date": "2026-10-27 16:30",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "實際 EPS 為 2.29 美元，優於市場預期的 2.04 美元；營收 13.06 億美元亦超越預期的 12.64 億美元，展現強勁的獲利能力。"
+    },
+    {
+      "rank": 3,
+      "title": "Equities Bounce: 3 Top Ranked Stocks to Buy Now (TER, LRCX, ATI)",
+      "publisher": "Yahoo",
+      "date": "2026-10-27 17:03",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師將 Teradyne 列為具備長期成長潛力與合理估值的首選標的，看好其在 AI 基礎設施的長期布局。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Teradyne Stock Falls Despite Chip-Gear Maker Beating Q3 Goals",
+      "publisher": "Yahoo",
+      "date": "2026-10-27 21:10",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管財報優於預期，但股價在財報公布後出現下跌，顯示市場可能存在「利多出盡」的獲利了結賣壓，或對未來展望持謹慎態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Teradyne (NASDAQ:TER) exceeds Q3 expectations but stock drops",
+      "publisher": "Yahoo",
+      "date": "2026-10-27 20:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出儘管基本面強勁，但股價表現與財報結果背離，反映出投資人對半導體設備股短期波動的擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Teradyne (TER) to report earnings tomorrow: here is what to expect",
+      "publisher": "Yahoo",
+      "date": "2026-10-26 09:02",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "財報公布前的預測性報導，整理市場對營收與 EPS 的預期，屬於事件前瞻，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Teradyne, Inc. Q3 2026 Earnings Call Summary",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 12:30",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "僅為財報會議的摘要整理，提供投資人回顧會議重點，不包含新的市場觀點或分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

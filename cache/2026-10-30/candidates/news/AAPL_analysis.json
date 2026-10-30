@@ -1,0 +1,102 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-10-29",
+  "source_file": "cache/2026-10-29/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 5,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "Apple 透過推出首款觸控螢幕 MacBook Pro 與 HomeView 擴展產品線，儘管面臨 iPhone Duo 螢幕瑕疵與韓國監管罰款的短期雜音，市場仍對其成長策略持正面態度。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display and Touch for the first time on Mac",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 17:11",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Apple 正式推出首款搭載觸控螢幕與 PROLED XDR 顯示技術的 MacBook Pro，此舉打破長期不採用觸控螢幕的策略，預計將刺激高階筆電市場的換機需求。"
+    },
+    {
+      "rank": 2,
+      "title": "New Touch Screen MacBooks Point to Fresh Device Strategy for Apple",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 17:32",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出在執行長 John Ternus 的領導下，Apple 採取更頻繁的產品更新節奏，展現出更具侵略性的市場擴張策略。"
+    },
+    {
+      "rank": 3,
+      "title": "November Is Already Dated: HomeView Ships Nov 13",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 00:13",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "確認 Apple HomeView 將於 11 月 13 日上市，為年底購物旺季提供新的營收成長動能。"
+    },
+    {
+      "rank": 4,
+      "title": "Apple Stock And Other Quality Growth Names For Higher Rates",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 22:09",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "在聯準會維持利率不變的環境下，Apple 被視為具備強勁基本面的優質成長股，適合投資人進行防禦性配置。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
+      "publisher": "CNBC",
+      "date": "2026-10-26 14:43",
+      "impact": "medium",
+      "category": "產品品質",
+      "reason": "針對 iPhone Duo 摺疊機出現螢幕瑕疵的報導，Apple 已確認問題並承諾透過 AppleCare 進行更換，雖有保固機制，但初期品質問題可能影響品牌聲譽與生產良率。"
+    },
+    {
+      "rank": 2,
+      "title": "Google and Apple Fined in Korea Over Prohibited App Market Practices",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 09:53",
+      "impact": "low",
+      "category": "法規",
+      "reason": "Apple 因違反韓國應用程式市場規範遭罰款 208.1 億韓元，雖金額對 Apple 財務影響有限，但顯示全球監管壓力持續存在。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Seeking Clues to Apple (AAPL) Q4 Earnings? A Peek Into Wall Street Projections for Key Metrics",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 12:15",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "市場分析師針對 Q4 財報進行預測，屬於財報發布前的常規市場預期整理，未提供具體利多或利空訊號。"
+    },
+    {
+      "rank": 2,
+      "title": "33 Wall Street Giants Block Tokenized Stocks, But Apple and Tesla Stay Silent",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 00:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Apple 對於代幣化股票的監管議題保持沉默，未對公司營運產生直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Final Trades: Delta Air Lines, American Tower, UnitedHealth and Apple",
+      "publisher": "CNBC",
+      "date": "2026-10-27 13:05",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "投資委員會將 Apple 列為觀察名單，屬於市場分析師的例行性投資建議，無特定方向性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
