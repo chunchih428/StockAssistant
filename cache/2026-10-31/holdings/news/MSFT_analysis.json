@@ -1,0 +1,84 @@
+{
+  "ticker": "MSFT",
+  "company": "Microsoft",
+  "analysis_date": "2026-10-29",
+  "source_file": "cache/2026-10-29/holdings/news/MSFT.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 2,
+    "neutral_count": 8,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Microsoft 憑藉強勁的雲端運算與 AI 需求，在 2027 財年第一季財報中繳出亮眼成績，成功抵銷市場對資本支出過高的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "MSFT Stock Gains 3% After-Hours As AI Demand Powers Q1 Cloud Revenue, Q2 Guidance Beat With Positive Cash Flows",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 23:13",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "Microsoft 財報表現優異，營收達 923 億美元，年增 19%，且 Azure 雲端業務成長強勁，顯示 AI 需求已轉化為實質營收。"
+    },
+    {
+      "rank": 2,
+      "title": "Microsoft (MSFT) Q1 2027 Earnings Call Transcript — Cloud revenue surged 30% as AI adoption accelerated across enterprise customers.",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 05:29",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "雲端營收激增 30%，證實企業端對 AI 解決方案的採用率正在加速，為長期成長奠定基礎。"
+    },
+    {
+      "rank": 3,
+      "title": "Microsoft's Satya Nadella says 24 new data centers built during Q1",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 22:18",
+      "impact": "medium",
+      "category": "基礎建設",
+      "reason": "單季新建 24 座資料中心，展現公司在 AI 基礎設施上的強大執行力與擴張決心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Is Microsoft (MSFT) Offering Buyouts To 60,000 Employees?",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 00:19",
+      "impact": "medium",
+      "category": "人力資源",
+      "reason": "針對 6 萬名員工提出自願離職計畫，引發市場對於組織結構調整或潛在營運成本壓力的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "S&P 500, Nasdaq Futures Dip As Weaker-Than-Expected Alphabet Earnings Reignite AI Spending Worries",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 00:10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "雖然 Microsoft 財報亮眼，但同業 Alphabet 財報疲軟引發市場對整體科技業 AI 資本支出過高的系統性擔憂。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Dow, S&P 500, Nasdaq Futures Mixed After Fed Holds Rates Steady",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 02:59",
+      "impact": "low",
+      "category": "總體經濟",
+      "reason": "聯準會維持利率不變，符合市場預期，對 Microsoft 股價影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Here's what options traders see before Alphabet, Microsoft report after the bell",
+      "publisher": "CNBC",
+      "date": "2026-10-28 11:12",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "財報公布前的選擇權市場波動預測，屬於事件前的市場情緒觀察，不影響公司基本面。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

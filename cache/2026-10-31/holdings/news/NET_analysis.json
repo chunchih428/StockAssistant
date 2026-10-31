@@ -1,0 +1,102 @@
+{
+  "ticker": "NET",
+  "company": "Cloudflare",
+  "analysis_date": "2026-10-29",
+  "source_file": "cache/2026-10-29/holdings/news/NET.json",
+  "summary": {
+    "total_articles": 16,
+    "bullish_count": 9,
+    "bearish_count": 3,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Cloudflare 憑藉 AI 驅動的電商與工作空間解決方案擴大市場影響力，並獲得華爾街分析師調升目標價，市場情緒偏向樂觀。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Wells Fargo Maintains Overweight on Cloudflare, Raises Price Target to $400",
+      "publisher": "Benzinga",
+      "date": "2026-10-28 10:16",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Wells Fargo 分析師 Ryan Macwilliams 維持對 Cloudflare 的「加碼」評級，並將目標價調升至 400 美元，顯示對公司長期成長潛力的強烈信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Cloudflare (NET) Expands AI Reach With Browser Shopping And Workplace Tools",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 06:10",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "公司宣布與 Commerce.com 合作推出 AI 購物代理，並發布 Cloudflare OS AI 工作空間工具，展現其在 AI 應用領域的技術落地能力。"
+    },
+    {
+      "rank": 3,
+      "title": "Qualys, Tenable, Cloudflare, CrowdStrike, and Okta shares skyrocket, what you need to know",
+      "publisher": "Yahoo",
+      "date": "2026-10-24 06:32",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受網路安全產業整體利多消息驅動，Cloudflare 股價隨板塊同步上漲，反映市場對資安需求的高度關注。"
+    },
+    {
+      "rank": 4,
+      "title": "Brown Advisory Sees Accelerating Growth at Cloudflare, Inc. (NET)",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 13:43",
+      "impact": "medium",
+      "category": "機構觀點",
+      "reason": "Brown Advisory 在其 Q3 投資信中指出 Cloudflare 的成長正在加速，強化了機構投資人對該公司基本面的正面預期。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Cloudflare (NET) Could Be 49% Overvalued Following Fresh AI Commerce Traction",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 07:09",
+      "impact": "medium",
+      "category": "估值分析",
+      "reason": "儘管有 AI 題材支撐，但分析指出該股目前估值可能過高，存在 49% 的溢價風險，提醒投資人注意股價回調壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Cloudflare (NET) Stock May Trade At A Rich Sales Premium",
+      "publisher": "Yahoo",
+      "date": "2026-10-23 04:27",
+      "impact": "low",
+      "category": "估值分析",
+      "reason": "市場對於 Cloudflare 的營收倍數估值過高表示擔憂，認為其股價已反映過多樂觀預期。"
+    },
+    {
+      "rank": 3,
+      "title": "Cloudflare Inc - Class A (NYSE:NET) Meets Minervini Trend Template but Setup Rating Calls for Patience",
+      "publisher": "ChartMill",
+      "date": "2026-10-28 13:11",
+      "impact": "low",
+      "category": "技術分析",
+      "reason": "雖然符合成長趨勢模板，但技術面設定評級較弱，建議投資人採取觀望態度，短期內可能缺乏強勁的買入訊號。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Cloudflare (NET) Exceeds Market Returns: Some Facts to Consider",
+      "publisher": "Yahoo",
+      "date": "2026-10-26 20:50",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "單純報導股價單日漲幅 1.88%，屬於例行性的市場回顧，對長期投資決策影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Clustering and Load Balancing Market Report 2026: Global Size, Trends, and Forecast to 2030",
+      "publisher": "Yahoo",
+      "date": "2026-10-26 14:54",
+      "impact": "low",
+      "category": "產業報告",
+      "reason": "產業報告提及 Cloudflare 為市場主要參與者之一，屬於行業背景資訊，未對公司產生直接的股價催化作用。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

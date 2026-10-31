@@ -1,0 +1,84 @@
+{
+  "ticker": "FSLR",
+  "company": "First Solar",
+  "analysis_date": "2026-10-29",
+  "source_file": "cache/2026-10-29/candidates/news/FSLR.json",
+  "summary": {
+    "total_articles": 14,
+    "bullish_count": 4,
+    "bearish_count": 4,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司在南卡羅來納州啟動新產能並獲得分析師調升目標價，儘管面臨太陽能產業整體疲軟與財報前夕的市場觀望情緒，但基本面擴張仍為股價提供支撐。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "First Solar Opens $330M South Carolina Plant, Targets 3.4 GW Capacity by 2027",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 04:04",
+      "impact": "high",
+      "category": "產能擴張",
+      "reason": "公司正式啟用位於南卡羅來納州價值 3.3 億美元的製造設施，預計至 2027 年將增加 3.4 GW 的產能，顯示公司長期成長策略執行力強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "First Solar Rises 5% as Guggenheim Lifts Its Target to $299 Ahead of Q3 Earnings",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 16:17",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Guggenheim 分析師 Joseph Osha 將目標價從 282 美元上調至 299 美元，反映市場對其財報表現與未來成長的信心，帶動股價單日上漲 5%。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Enphase Energy Sinks 20% on Weak Q4 Guidance as Residential Solar Slump Deepens",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 13:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "同業 Enphase Energy 因住宅太陽能需求疲軟導致股價重挫，引發市場對整體太陽能產業景氣循環的擔憂，對 FSLR 股價造成連帶壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "First Solar (FSLR) Earnings Expected to Grow: Should You Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-10-22 13:00",
+      "impact": "low",
+      "category": "財報預測",
+      "reason": "分析指出公司目前缺乏財報超預期的關鍵指標，對短期獲利爆發力持保留態度，提醒投資人注意財報公布前的風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "First Solar (FSLR) Q3 earnings report preview: what to look for",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 17:18",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "針對即將到來的 Q3 財報進行前瞻分析，列出投資人應關注的重點，屬於中性的市場資訊整理。"
+    },
+    {
+      "rank": 2,
+      "title": "Solar Earnings Season Is a Quality Test, Not a Sector Rally",
+      "publisher": "ChartMill",
+      "date": "2026-10-27 13:06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章強調太陽能財報季是檢驗公司品質的時刻，而非全面性的產業反彈，對 FSLR 的評價保持客觀中立。"
+    },
+    {
+      "rank": 3,
+      "title": "First Solar (NASDAQ:FSLR): A Decent Value Stock Trading at a Discount",
+      "publisher": "ChartMill",
+      "date": "2026-10-22 09:10",
+      "impact": "low",
+      "category": "價值分析",
+      "reason": "從價值投資角度分析，認為 FSLR 具備良好的獲利能力與成長性，目前估值合理，屬於長線觀點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

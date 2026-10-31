@@ -1,0 +1,120 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla",
+  "analysis_date": "2026-10-29",
+  "source_file": "cache/2026-10-29/holdings/news/TSLA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 6,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "Tesla 近期受惠於財報後市場對自動駕駛與機器人業務的樂觀預期，加上分析師調升評級，股價呈現強勁反彈，儘管仍面臨 Cybertruck 銷售疲軟與部分監管挑戰。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Tesla Gains Another 4% as ARK Restates $4,400 Robotaxi Target and Musk Teases “A Storm of Cybercabs”",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 16:33",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "ARK Invest 重申對 Robotaxi 的高額目標價，加上執行長 Elon Musk 的樂觀言論，直接推動股價連續上漲。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Tesla's Narrative Shifting? Why the Stock Deserves a Second Look",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 14:18",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出電動車需求回升、利潤率改善及 AI 進展，顯示公司基本面出現轉折點，股價兩日內上漲 9.5%。"
+    },
+    {
+      "rank": 3,
+      "title": "Call of the Day: Barclay's upgrades Tesla",
+      "publisher": "CNBC",
+      "date": "2026-10-26 17:55",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "Barclays 的評級上調為市場注入信心，是近期股價連續上漲的關鍵催化劑之一。"
+    },
+    {
+      "rank": 4,
+      "title": "TSLA Q3 Earnings Call Highlights Autonomy and Expansion Plans",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 13:00",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "財報會議強調 FSD 採用率提升與 200 億美元資本支出計畫，展現公司在自動駕駛與機器人領域的長期願景。"
+    },
+    {
+      "rank": 5,
+      "title": "Tesla Could Go Beyond Robotaxis Into Underground Travel And Electric Aviation",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 11:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場對 Tesla 跨足地下交通與航空領域的潛力進行炒作，進一步擴大投資人對其生態系的想像空間。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Tesla (TSLA) Could Be 223% Overvalued After Flat Revenue And Lower Profit",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 10:20",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "財報顯示營收持平於 280 億美元且獲利下滑，分析師質疑其高估值與基本面不符。"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla Cancels Cybertruck in Two Countries: An Omen for the Vehicle's Future?",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 14:30",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Cybertruck 在部分國家取消銷售，顯示該車款銷售表現不如預期，可能影響未來營收成長。"
+    },
+    {
+      "rank": 3,
+      "title": "Man repairs 2 wrecked Teslas, they pass inspection, but the carmaker cuts fast charging anyway",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 11:30",
+      "impact": "low",
+      "category": "法規與安全",
+      "reason": "公司限制維修車輛使用超級充電站，引發消費者對維修權與品牌控制力的爭議。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "SpaceX, Tesla and Anthropic may reshape the S&P 500—but not right away",
+      "publisher": "CNBC",
+      "date": "2026-10-27 08:00",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討未來納入 S&P 500 指數的可能性，對短期股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "33 Wall Street Giants Block Tokenized Stocks, But Apple and Tesla Stay Silent",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 00:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "公司對代幣化股票議題保持沉默，未對業務產生直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "Final Trades: RTX, Tesla and Nutrien",
+      "publisher": "CNBC",
+      "date": "2026-10-28 13:02",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為投資委員會對個股的觀察，未提供具體買賣建議或重大消息。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
