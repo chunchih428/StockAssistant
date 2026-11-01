@@ -1,0 +1,111 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "analysis_date": "2026-11-01",
+  "source_file": "cache/2026-11-01/holdings/news/AMZN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 3,
+    "bearish_count": 15,
+    "neutral_count": 2,
+    "overall_sentiment": "bearish",
+    "key_theme": "儘管 Amazon 第三季財報營收符合預期且 AWS 成長強勁，但市場對 AI 資本支出帶來的獲利壓力感到擔憂，導致股價短期承壓。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Amazon Is 16% Off Its High After a Record Quarter: Take Profits, or Buy More?",
+      "publisher": "Yahoo",
+      "date": "2026-10-31 11:27",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "文章指出 Amazon 第三季營收成長 12% 至 2,019 億美元，AWS 成長 39% 至 460 億美元，強調在股價回調 16% 後，強勁的基本面提供了潛在的買入機會。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon Plans to Spend More on AI. Here’s Why the Stock is a Once-in-a-Decade Buy Hiding in Plain Sight.",
+      "publisher": "Yahoo",
+      "date": "2026-10-31 08:30",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析師認為市場過度反應短期支出，忽略了 Amazon 在 AI 領域的長期競爭優勢，將當前股價下跌視為十年一遇的布局良機。"
+    },
+    {
+      "rank": 3,
+      "title": "Andy Jassy Says West Is 'Very Hungry' For More Western Open Source AI Models as Amazon Adds China's Kimi and GLM to Bedrock",
+      "publisher": "Yahoo",
+      "date": "2026-10-31 23:30",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "Amazon 擴展 Bedrock AI 平台，納入中國 Kimi 與 GLM 模型，顯示其在 AI 生態系中保持開放與多元化的策略，有助於吸引更多開發者。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Amazon falls on concerns over cloud growth and AI spending",
+      "publisher": "CNBC",
+      "date": "2026-10-30 11:14",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "這是多篇報導的代表，彙整了市場對 AWS 成長未達預期以及 AI 資本支出過高導致獲利重置的擔憂，直接導致股價下跌。"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon (AMZN) Stock Slips As Q3 Earnings Reflect Profit Reset",
+      "publisher": "Yahoo",
+      "date": "2026-10-31 15:13",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "指出儘管銷售額增加，但利潤率受到資本支出壓力的嚴重打擊，反映出市場對公司獲利能力的重新評估。"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon Is Borrowing Against Its Own Data Center Gear to Fund More Data Centers",
+      "publisher": "Yahoo",
+      "date": "2026-10-31 15:48",
+      "impact": "medium",
+      "category": "財務策略",
+      "reason": "公司首次採取以數據中心設備作為抵押的借貸工具，顯示為了支撐龐大的 AI 基礎設施支出，公司正積極尋求額外的融資管道。"
+    },
+    {
+      "rank": 4,
+      "title": "The AI Red Queen Effect: Why Big Tech Can’t Afford to Stop Spending",
+      "publisher": "Yahoo",
+      "date": "2026-10-31 15:30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "探討科技巨頭陷入「紅皇后效應」，必須持續投入數千億美元以維持競爭力，這種結構性的高支出壓力對短期獲利構成負面影響。"
+    },
+    {
+      "rank": 5,
+      "title": "AppLovin, 8x8, Elastic, Shopify, and F5 shares are falling, what you need to know",
+      "publisher": "Yahoo",
+      "date": "2026-10-31 09:55",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "此類報導彙整了多篇因 Amazon 與 Intel 財報不如預期，導致相關軟體與硬體供應鏈股價連帶下跌的市場情緒。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Amazon in focus as the Nasdaq slides — The Investment Committee debates how to navigate the selloff in tech.",
+      "publisher": "CNBC",
+      "date": "2026-10-30 12:23",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "討論在 Nasdaq 整體回調背景下，投資人應如何看待 Amazon 的部位，屬於宏觀市場觀點，並非針對公司基本面的利多或利空。"
+    },
+    {
+      "rank": 2,
+      "title": "Jeff Bezos' father fled Cuba at 16 with three shirts — then invested $245,573 in life savings to help launch Amazon",
+      "publisher": "Yahoo",
+      "date": "2026-10-31 09:30",
+      "impact": "low",
+      "category": "公司歷史",
+      "reason": "關於創辦人背景的敘事性報導，對股價無直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

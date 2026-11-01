@@ -1,0 +1,56 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster",
+  "analysis_date": "2026-11-01",
+  "source_file": "cache/2026-11-01/candidates/news/OUST.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 3,
+    "bearish_count": 0,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "子公司 Stereolabs 發布新款 AI 運算平台 ZED Box 2，推動股價上漲，市場同時關注即將到來的 Q3 財報表現。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Ouster Stock Surges After Stereolabs Unveils ZED Box 2",
+      "publisher": "Benzinga",
+      "date": "2026-10-27 14:22",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Ouster 股價因子公司 Stereolabs 推出 ZED Box 2 系列 AI 電腦而顯著上漲，顯示市場對其在自動化移動機器人與空間 AI 領域的技術擴張持高度正面態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Ouster Unit Stereolabs Launches Its ZED Box 2 Series Of AI Computers Engineered For Autonomous Mobile Robots, Robot Vision And Spatial AI Systems",
+      "publisher": "Benzinga",
+      "date": "2026-10-27 07:14",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "該產品搭載 NVIDIA Jetson Thor 晶片，具備強大的 AI 運算能力，強化了 Ouster 在工業自動化與機器視覺市場的競爭優勢，為長期營收成長提供動能。"
+    },
+    {
+      "rank": 3,
+      "title": "Stereolabs Launches ZED Box 2 Series for Physical AI and Vision in Production Robots",
+      "publisher": "Yahoo",
+      "date": "2026-10-27 11:00",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "此為官方新聞稿，詳細說明了 ZED Box 2 在生產機器人中的應用，進一步確認了公司在 3D AI 視覺領域的技術領先地位。"
+    }
+  ],
+  "bearish": [],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Ouster Q3 Earnings on Deck: Buy, Hold or Sell OUST Stock Now?",
+      "publisher": "Yahoo",
+      "date": "2026-10-27 11:55",
+      "impact": "medium",
+      "category": "財報預期",
+      "reason": "文章探討了 Q3 財報前的市場觀望情緒，雖然提到 Rev8 需求加速與智慧基礎設施擴張的利多，但也提醒了高估值與持續虧損的風險，因此對股價影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

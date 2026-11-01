@@ -1,0 +1,147 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "analysis_date": "2026-11-01",
+  "source_file": "cache/2026-11-01/candidates/news/AAPL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 4,
+    "bearish_count": 9,
+    "neutral_count": 7,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場高度關注即將公布的 Q4 財報，同時在產品創新（觸控 MacBook）與潛在成本壓力、監管罰款及 iPhone Duo 供應鏈問題之間拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bernstein's Mark Newman: Apple is the defensive safe haven within tech",
+      "publisher": "CNBC",
+      "date": "2026-10-30 14:47",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師認為 Apple 在科技股波動中具備防禦性價值，被視為資金避風港。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
+      "publisher": "CNBC",
+      "date": "2026-10-28 13:08",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Apple 推出首款觸控螢幕 MacBook Pro，象徵產品線重大創新與策略轉向，有望刺激換機需求。"
+    },
+    {
+      "rank": 3,
+      "title": "Starting to see cracks in the AI trade, says Keith Fitz-Gerald",
+      "publisher": "CNBC",
+      "date": "2026-10-29 23:10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "投資專家在 AI 泡沫疑慮下，仍將 Apple 列為首選投資標的，顯示其基本面受市場認可。"
+    },
+    {
+      "rank": 4,
+      "title": "What Apple Doubters Got Wrong",
+      "publisher": "Yahoo",
+      "date": "2026-10-31 08:08",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "回顧過去一年表現，強調長期持有 Apple 的投資價值，反駁市場過度悲觀的看法。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Bank of America forecasts a much weaker December quarter for Apple",
+      "publisher": "CNBC",
+      "date": "2026-10-30 18:30",
+      "impact": "high",
+      "category": "財報預測",
+      "reason": "美銀預測 Apple 12 月季度表現疲軟，主要受記憶體晶片成本上升影響，直接衝擊獲利預期。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple's valuation looks stretched before earnings, says MoffettNathanson's Craig Moffett",
+      "publisher": "CNBC",
+      "date": "2026-10-30 17:39",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師指出 Apple 在財報公布前估值過高，暗示股價可能面臨回調壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "A tiny hinge part may be behind iPhone Duo screen failures",
+      "publisher": "CNBC",
+      "date": "2026-10-30 08:00",
+      "impact": "medium",
+      "category": "產品品質",
+      "reason": "新款摺疊機 iPhone Duo 傳出鉸鏈零件導致螢幕故障，恐影響品牌聲譽與後續銷售。"
+    },
+    {
+      "rank": 4,
+      "title": "Apple (AAPL) Fined In South Korea Over Unfair App Store Practices",
+      "publisher": "Yahoo",
+      "date": "2026-10-30 17:10",
+      "impact": "low",
+      "category": "法規",
+      "reason": "南韓監管機構對 Apple App Store 的不公平行為開罰，雖金額未揭露，但增加法律合規風險。"
+    },
+    {
+      "rank": 5,
+      "title": "Dow Jones Futures Loom After Stock Market Sell-Off; Apple, Palantir, Midterm Elections In Focus",
+      "publisher": "Yahoo",
+      "date": "2026-11-01 02:44",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場整體拋售潮下，Apple 被列為防禦性觀察標的，反映市場對科技股整體信心不足。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "What to expect from Apple's Q4 earnings this Monday",
+      "publisher": "Yahoo",
+      "date": "2026-10-30 20:23",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "整理財報前瞻資訊，屬於例行性市場報導，不具備明確多空傾向。"
+    },
+    {
+      "rank": 2,
+      "title": "Apple iPhone Duo Wait Times Trend Lower But Remain Elevated, UBS Says",
+      "publisher": "Yahoo",
+      "date": "2026-10-30 17:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "iPhone Duo 等待時間縮短，反映供應鏈改善，但需求仍維持高檔，影響中性。"
+    },
+    {
+      "rank": 3,
+      "title": "Hands-on with Apple's first touchscreen laptop: Touch is totally optional",
+      "publisher": "CNBC",
+      "date": "2026-10-28 18:18",
+      "impact": "low",
+      "category": "產品評測",
+      "reason": "針對新產品的體驗報導，客觀描述功能，未對股價產生直接影響。"
+    },
+    {
+      "rank": 4,
+      "title": "MKBHD drops a blunt verdict on Apple's touchscreen MacBook Pro",
+      "publisher": "Yahoo",
+      "date": "2026-10-31 15:17",
+      "impact": "low",
+      "category": "產品評測",
+      "reason": "知名科技評論員對新產品給出評價，屬於市場觀點分享，對股價影響有限。"
+    },
+    {
+      "rank": 5,
+      "title": "New Book from AAPL Equips Physician Leaders to Drive Systemic Change",
+      "publisher": "Yahoo",
+      "date": "2026-10-30 12:51",
+      "impact": "low",
+      "category": "其他",
+      "reason": "此新聞涉及的是「美國醫師領導協會 (AAPL)」，與蘋果公司 (Apple Inc.) 無關，屬資訊誤植。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

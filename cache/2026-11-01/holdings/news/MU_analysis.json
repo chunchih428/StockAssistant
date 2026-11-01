@@ -1,0 +1,111 @@
+{
+  "ticker": "MU",
+  "company": "Micron Technology",
+  "analysis_date": "2026-11-01",
+  "source_file": "cache/2026-11-01/holdings/news/MU.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 9,
+    "bearish_count": 8,
+    "neutral_count": 3,
+    "overall_sentiment": "mixed",
+    "key_theme": "記憶體產業受惠於 AI 需求強勁，但近期因同業 Samsung 財報不如預期及雲端巨頭資本支出展望保守，導致股價出現震盪。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bank of America Names Top Stock Pick in Memory Sector",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 17:28",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "美國銀行將 Micron 列為記憶體產業首選個股，維持買入評級，顯示機構投資人對其長期競爭力與 AI 記憶體市場地位具備信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Micron Stock Gains as SK Hynix Reports Record Revenue Above 100 Trillion Won",
+      "publisher": "Benzinga",
+      "date": "2026-10-28 10:07",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "SK Hynix 公布創紀錄的第 3 季財報，並預測 AI 記憶體需求將持續至 2030 年，此利多帶動 Micron 股價同步上漲。"
+    },
+    {
+      "rank": 3,
+      "title": "Best Growth Stocks to Buy for October 29th",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 08:04",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Micron 被 Zacks 列入 #1 強力買入成長股名單，反映其財務成長動能獲得量化指標肯定。"
+    },
+    {
+      "rank": 4,
+      "title": "5 Stocks With High ROE to Bet on as AI-Infused Rally Spurs Markets",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 14:27",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Micron 因具備高股東權益報酬率 (ROE) 被視為 AI 驅動市場行情下的優質標的。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Micron Shares Fall 2.6% as Samsung Earnings Miss Forecasts Despite Record Chip Profits",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 15:01",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "Samsung 電子財報不如預期，引發市場對記憶體產業競爭與獲利能力的擔憂，導致 Micron 股價隨之修正。"
+    },
+    {
+      "rank": 2,
+      "title": "INTC, AMD, AVGO, MU Decline On Samsung’s Profit Miss, Lighter Capex From Microsoft, Alphabet",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 07:02",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Microsoft 與 Alphabet 資本支出展望保守，加上 Samsung 財報利空，雙重打擊市場對 AI 基礎設施供應鏈的成長預期。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Is Micron (MU) Down 14.9% Since Last Earnings Report?",
+      "publisher": "Yahoo",
+      "date": "2026-10-30 14:30",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "回顧過去 30 天股價表現，顯示市場對 Micron 上次財報後的獲利前景仍存在修正壓力。"
+    },
+    {
+      "rank": 4,
+      "title": "Learn Why The Bull Case For Micron Stock Could Change Following Memory Shortage Warning",
+      "publisher": "Yahoo",
+      "date": "2026-10-30 07:16",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "針對記憶體短缺警告的討論，提醒投資人需重新評估 Micron 的多頭論點是否因供需變化而動搖。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Micron Technology (MU) Ex Dividend Date Lands As AI Memory Narrative Points To Value",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 15:09",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "公司宣布每股 0.15 美元的現金股利，屬於例行性財務活動，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Jim Cramer Says Micron Shouldn't Follow 'Whatever' SK Hynix Does",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 03:26",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "Jim Cramer 呼籲投資人應獨立看待 Micron 的基本面，而非僅隨 SK Hynix 的股價波動，屬市場觀點分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

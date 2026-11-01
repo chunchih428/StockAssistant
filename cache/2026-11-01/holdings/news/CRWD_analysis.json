@@ -1,0 +1,102 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "analysis_date": "2026-11-01",
+  "source_file": "cache/2026-11-01/holdings/news/CRWD.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 6,
+    "bearish_count": 8,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管 CrowdStrike 在 AI 資安領域具備長期成長潛力與強勁的產品需求，但近期面臨高估值壓力、CEO 大額減持股票以及同業 Fortinet 財報疲軟引發的板塊連帶下跌風險。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why Mizuho Is Sweetening on CrowdStrike Stock Thanks to the Guardian Launch",
+      "publisher": "Yahoo",
+      "date": "2026-10-29",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "Mizuho 看好 Falcon Guardian 產品對公司未來營收的貢獻，認為其具備進一步上漲空間。"
+    },
+    {
+      "rank": 2,
+      "title": "Jim Cramer Says Sell Fortinet and Buy Palo Alto and CrowdStrike Instead",
+      "publisher": "Yahoo",
+      "date": "2026-10-30",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "知名分析師 Jim Cramer 建議投資人將資金從 Fortinet 轉向 CrowdStrike，顯示市場對其競爭優勢的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "CrowdStrike (CRWD) Flags 129% Law Firm Attack Jump As AI Security Push Deepens",
+      "publisher": "Yahoo",
+      "date": "2026-10-30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "發布 2026 年法律威脅報告，顯示資安需求激增，有助於推動其 AI 資安產品的市場滲透率。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike CEO Made Millions as Cybersecurity Stocks Rallied",
+      "publisher": "Yahoo",
+      "date": "2026-10-30",
+      "impact": "high",
+      "category": "高層異動",
+      "reason": "CEO George Kurtz 出售 8 萬股股票套現約 2,000 萬美元，加上先前報導的 3,500 萬美元減持，引發投資人對公司內部人看法的疑慮。"
+    },
+    {
+      "rank": 2,
+      "title": "Fortinet Tumbles 20% as Service Revenue Forecast Cut Overshadows Beat; Palo Alto Drops 5%, CrowdStrike Falls 4%",
+      "publisher": "Yahoo",
+      "date": "2026-10-29",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "同業 Fortinet 財報指引疲軟導致股價重挫，引發資安板塊連帶下跌，CrowdStrike 亦受市場情緒拖累。"
+    },
+    {
+      "rank": 3,
+      "title": "CrowdStrike (CRWD) Stock Looks Overvalued On Its 5x Three Year Run",
+      "publisher": "Yahoo",
+      "date": "2026-10-29",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出該股過去三年漲幅達 5 倍，目前估值過高，存在回調風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "CrowdStrike’s Global Partner Ecosystem Doubles Down on Fal.Con Europe 2026",
+      "publisher": "Yahoo",
+      "date": "2026-10-29",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "公司宣布 70 家合作夥伴參與歐洲大會，屬於例行性的生態系推廣活動，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "BB vs. CRWD: Which Cybersecurity Stock Is the Smarter Buy Now?",
+      "publisher": "Yahoo",
+      "date": "2026-10-28",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對 Blackberry 與 CrowdStrike 的比較分析，提供投資人參考，未有明確買賣建議。"
+    },
+    {
+      "rank": 3,
+      "title": "Does The Move In CrowdStrike Stock Change Anything?",
+      "publisher": "Yahoo",
+      "date": "2026-10-29",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討股價波動的技術性分析，未提供具體基本面變動資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,120 @@
+{
+  "ticker": "GOOGL",
+  "company": "Google",
+  "analysis_date": "2026-11-01",
+  "source_file": "cache/2026-11-01/holdings/news/GOOGL.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 1,
+    "bearish_count": 14,
+    "neutral_count": 5,
+    "overall_sentiment": "bearish",
+    "key_theme": "Alphabet 因財報表現不如預期及 AI 資本支出過高引發市場擔憂，導致市值大幅蒸發並拖累整體科技股表現。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Yes, Alphabet Stock Got Hammered. No, We’re Not Selling.",
+      "publisher": "Yahoo",
+      "date": "2026-10-31 06:41",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "分析師認為 Alphabet 目前股價已處於罕見的折價狀態，相較於 Apple 的歷史估值具備回升潛力，建議長期投資者不應恐慌拋售。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Alphabet (GOOGL) Stock Sees Fair Value Cut After Q3 Miss And Higher AI Spending",
+      "publisher": "Yahoo",
+      "date": "2026-10-31 13:13",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "因 Q3 財報表現未達預期且 AI 資本支出持續攀升，分析師將其合理價值從 429.46 美元下調至 408.09 美元，直接打擊市場信心。"
+    },
+    {
+      "rank": 2,
+      "title": "Alphabet lost $482 billion in market cap in 1 day. The fix? Have its chatbot suggest you stuff to buy",
+      "publisher": "Yahoo",
+      "date": "2026-10-30 15:30",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Alphabet 單日市值蒸發約 4,820 億美元，創下史上最慘烈跌幅，反映出投資人對其核心搜尋業務被 AI 蠶食的深層恐懼。"
+    },
+    {
+      "rank": 3,
+      "title": "France Wants a 5.5-Cent-per-Gigabyte Tax on Netflix, Google and Meta",
+      "publisher": "Yahoo",
+      "date": "2026-10-31 17:07",
+      "impact": "medium",
+      "category": "法規監管",
+      "reason": "法國政府提議對 Google 等科技巨頭徵收流量稅，若實施將增加公司營運成本並影響獲利能力。"
+    },
+    {
+      "rank": 4,
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as Amazon, Intel earnings rattle investors",
+      "publisher": "Yahoo",
+      "date": "2026-10-30 08:32",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Alphabet 與 Amazon、Intel 等科技巨頭財報表現疲軟，共同引發市場對科技股估值過高的修正壓力。"
+    },
+    {
+      "rank": 5,
+      "title": "Applied Optoelectronics Plunges 15%, Coherent Tumbles 13% as Hyperscaler Spending Fears Hit AI Optics Stocks",
+      "publisher": "Yahoo",
+      "date": "2026-10-30 16:57",
+      "impact": "medium",
+      "category": "產業影響",
+      "reason": "Alphabet 的高額資本支出引發市場對 AI 基礎設施投資回報的質疑，導致相關供應鏈股價連帶重挫。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "GOOGL, AMZN, INTC and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+      "publisher": "Benzinga",
+      "date": "2026-10-31 08:30",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅反映散戶投資人在社群媒體（如 Reddit、X）上的討論熱度，屬於市場情緒觀察，對股價無直接基本面影響。"
+    },
+    {
+      "rank": 2,
+      "title": "Machine Translation Market Research Report 2026-2036 Featuring Google",
+      "publisher": "Yahoo",
+      "date": "2026-10-30 15:45",
+      "impact": "low",
+      "category": "產業研究",
+      "reason": "產業研究報告指出機器翻譯市場成長前景，Google 為主要參與者之一，屬於長期產業趨勢分析，對短期股價影響有限。"
+    },
+    {
+      "rank": 3,
+      "title": "Global Secure Multiparty Computation Market to Reach $2 Billion by 2032",
+      "publisher": "Yahoo",
+      "date": "2026-10-30 15:27",
+      "impact": "low",
+      "category": "產業研究",
+      "reason": "提及 Google 在安全多方計算領域的布局，屬於技術發展層面，對當前財報與股價波動影響較小。"
+    },
+    {
+      "rank": 4,
+      "title": "META, AMZN, ORCL, GOOGL In Focus: Big Tech Bonds Offer Better Opportunity Than Stocks, BofA Says",
+      "publisher": "Yahoo",
+      "date": "2026-10-30 17:55",
+      "impact": "low",
+      "category": "投資建議",
+      "reason": "美銀建議投資人轉向科技巨頭的債券而非股票，屬於資產配置建議，並非針對 Alphabet 本身營運的負面評價。"
+    },
+    {
+      "rank": 5,
+      "title": "Final Trade: GOOGL, TPR, NOW, DVN",
+      "publisher": "CNBC",
+      "date": "2026-10-30 18:20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為財經節目針對當日交易的總結，未提供新的基本面資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

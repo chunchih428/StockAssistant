@@ -1,0 +1,75 @@
+{
+  "ticker": "ALAB",
+  "company": "Astera Labs",
+  "analysis_date": "2026-11-01",
+  "source_file": "cache/2026-11-01/candidates/news/ALAB.json",
+  "summary": {
+    "total_articles": 6,
+    "bullish_count": 1,
+    "bearish_count": 3,
+    "neutral_count": 2,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場對 ALAB 的 AI 需求前景持樂觀態度，但高估值壓力與財報公布前的獲利了結賣壓導致股價波動加劇。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Astera Labs Shares Rise 6% After Key Trading Signal",
+      "publisher": "Benzinga",
+      "date": "2026-10-27 16:28",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "技術面出現關鍵買進訊號，推動股價單日上漲近 6 %，顯示市場對其短期動能仍有信心。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Should You Buy, Sell, or Hold ALAB Stock Before Q3 Earnings Release?",
+      "publisher": "Yahoo",
+      "date": "2026-10-30 16:23",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "儘管 AI 需求強勁，但市場擔憂高估值與利潤率壓力，這篇報導綜合了財報前夕的多空因素，代表了當前投資人對高估值風險的審慎態度。"
+    },
+    {
+      "rank": 2,
+      "title": "Here's Why Astera Labs, Inc. (ALAB) Fell More Than Broader Market",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 21:15",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 2.28 %，表現弱於大盤，反映出在財報公布前夕，部分投資人選擇獲利了結。"
+    },
+    {
+      "rank": 3,
+      "title": "Astera Labs, Inc. (ALAB) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
+      "publisher": "Yahoo",
+      "date": "2026-10-27 13:00",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "分析指出該公司缺乏財報超預期的關鍵指標組合，暗示市場對即將到來的財報表現預期較為保守。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Astera Labs (ALAB) Detracts Despite Strong Core Business",
+      "publisher": "Yahoo",
+      "date": "2026-10-27 11:20",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Fred Alger Management 指出儘管核心業務強勁，但股價表現仍受壓，屬於機構投資人對持股的長期觀點，對短期股價影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "Was There Any Sign Astera Labs Stock Would Run?",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 08:22",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "回顧性分析文章，探討股價波動的成因，未提供新的基本面資訊，對市場情緒影響中性。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
