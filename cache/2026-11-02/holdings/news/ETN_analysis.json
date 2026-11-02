@@ -1,0 +1,93 @@
+{
+  "ticker": "ETN",
+  "company": "Eaton",
+  "analysis_date": "2026-11-01",
+  "source_file": "cache/2026-11-01/holdings/news/ETN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 2,
+    "neutral_count": 6,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 驅動的資料中心電力需求激增，市場對 Eaton 即將公布的第 3 季財報持樂觀態度，儘管面臨高估值與潛在市場波動的討論。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Will AI Power Demand Spark a Blowout Quarter for Eaton (ETN) on Nov. 3?",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 09:22",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "Eaton 已連續 6 季超越 EPS 預期，市場高度期待其在 AI 資料中心電力需求爆發下的財報表現。"
+    },
+    {
+      "rank": 2,
+      "title": "Eaton's Aerospace Business Broadens Growth Beyond Electrical",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 17:14",
+      "impact": "medium",
+      "category": "業務擴張",
+      "reason": "航空航太部門貢獻 15.5% 的營收，顯示公司成長動能不僅限於電力業務，具備多元化成長潛力。"
+    },
+    {
+      "rank": 3,
+      "title": "The High-Voltage Stopgap That Could Save the AI Buildout",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 07:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Eaton 的「側車」變壓器技術對於保護資料中心伺服器至關重要，確立了其在 AI 基礎設施供應鏈中的核心地位。"
+    },
+    {
+      "rank": 4,
+      "title": "Eaton declares quarterly dividend payable November 27, 2026",
+      "publisher": "Yahoo",
+      "date": "2026-10-27 18:47",
+      "impact": "low",
+      "category": "股利政策",
+      "reason": "公司宣布發放季度股利，展現穩健的現金流與對股東回饋的承諾。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Can Eaton Stock Fall 30%?",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 14:49",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析師針對高估值提出風險警示，探討股價在過度擴張後可能出現的修正空間。"
+    },
+    {
+      "rank": 2,
+      "title": "Eaton (ETN) Stock Looks Fairly Valued Despite Its 142% Run",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 01:08",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "儘管過去 5 年漲幅達 142%，但市場觀點認為目前股價已達合理估值，進一步上漲空間可能受限。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Eaton vs. nVent: Which Electrical Equipment Stock Has an Edge?",
+      "publisher": "Yahoo",
+      "date": "2026-10-30 17:40",
+      "impact": "low",
+      "category": "同業比較",
+      "reason": "對比 Eaton 與 nVent 在資料中心市場的競爭優勢，兩者皆受惠於 AI 趨勢，未有明顯勝負。"
+    },
+    {
+      "rank": 2,
+      "title": "Data Center Rack Market Size, Share, and Trend Analysis",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 16:00",
+      "impact": "low",
+      "category": "產業趨勢",
+      "reason": "報告指出 Eaton 為全球資料中心機架市場的主要參與者之一，屬產業常態性資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

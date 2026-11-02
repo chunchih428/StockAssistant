@@ -1,0 +1,102 @@
+{
+  "ticker": "BE",
+  "company": "Bloom Energy Corporation",
+  "analysis_date": "2026-11-01",
+  "source_file": "cache/2026-11-01/holdings/news/BE.json",
+  "summary": {
+    "total_articles": 9,
+    "bullish_count": 4,
+    "bearish_count": 3,
+    "neutral_count": 2,
+    "overall_sentiment": "mixed",
+    "key_theme": "公司發布強勁的 Q3 財報並上調 2026 年財測，但隨即面臨做空機構針對供應鏈的質疑以及分析師對估值過高的擔憂，導致股價多空拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy Q3 Earnings Call Highlights Guidance Hike & Capacity Plan",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 12:41",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司公布優於預期的 Q3 財報，並因應 AI 帶動的電力需求激增而上調 2026 年財測，同時宣布擴大產能，顯示基本面強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "Bloom Energy: Ignore The Panic. Focus On The Explosive Growth Potential",
+      "publisher": "SeekingAlpha",
+      "date": "2026-10-30 10:26",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師強調應忽略短期市場恐慌，專注於 AI 驅動的營收成長潛力，維持買入評級。"
+    },
+    {
+      "rank": 3,
+      "title": "Bloom Energy or Plug Power: Which Offers Better Long-Term Upside Now?",
+      "publisher": "Yahoo",
+      "date": "2026-10-30 15:15",
+      "impact": "medium",
+      "category": "產業分析",
+      "reason": "比較顯示 BE 在獲利能力、流動性及營收成長方面均優於同業 Plug Power，具備較佳的長期投資價值。"
+    },
+    {
+      "rank": 4,
+      "title": "What's Going on With Bloom Energy Stock on Monday?",
+      "publisher": "Benzinga",
+      "date": "2026-10-26 08:42",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導確認股價在財報公布後出現上漲，反映市場對公司上調財測的正面反應。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Watching Bloom Energy; Hunterbrook Media Issues Report Titled, “Bloom: Chinese Scandium Supply Route Restarts”; States Hunterbrook Capital Is Short $BE",
+      "publisher": "Benzinga",
+      "date": "2026-10-30 12:23",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "做空機構 Hunterbrook Capital 發布報告質疑其供應鏈，特別是關於中國鈧供應路線的重啟，引發市場對營運風險的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "Bloom Energy: Buckle Up, Things Are About To Change (Rating Downgrade)",
+      "publisher": "SeekingAlpha",
+      "date": "2026-10-27 15:29",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師將評級下調至賣出，理由是認為近期需求被過度誇大，且單位經濟效益不可持續。"
+    },
+    {
+      "rank": 3,
+      "title": "BE Stock Dips Overnight After 3 Weeks In The Red: Analyst Sees Share Prices ‘Heavily Weighted On Optimistic Expectations’",
+      "publisher": "Yahoo",
+      "date": "2026-10-26 01:55",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Morningstar 將 BE 股票列入審查，指出股價已反映過多樂觀預期，且近期股價表現疲軟。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy Corporation 2026 Q3 - Results - Earnings Call Presentation",
+      "publisher": "SeekingAlpha",
+      "date": "2026-10-25 19:05",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "原始財報簡報資料，提供投資人客觀數據參考，無主觀評論。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Bloom Energy (BE) Stock Cheap After AI Demand And Cash Flow Concerns?",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 05:10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "探討 AI 需求與現金流疑慮之間的平衡，分析師對估值是否便宜持保留態度，呈現多空觀點並陳。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

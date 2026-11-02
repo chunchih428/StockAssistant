@@ -1,0 +1,84 @@
+{
+  "ticker": "FSLR",
+  "company": "First Solar",
+  "analysis_date": "2026-11-01",
+  "source_file": "cache/2026-11-01/candidates/news/FSLR.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 1,
+    "bearish_count": 14,
+    "neutral_count": 5,
+    "overall_sentiment": "bearish",
+    "key_theme": "儘管 第三 季獲利優於預期且宣布 5 億美元庫藏股計畫，但營收下滑、財測下調以及市場對政策不確定性與需求疲軟的擔憂，導致多家券商同步下調目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "First Solar, Inc. Announces Third Quarter 2026 Financial Results, Updates Guidance, and Announces $500 Million Share Repurchase Program",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 20:02",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "公司宣布 5 億美元的庫藏股計畫，顯示管理層對長期價值具備信心，且第三季獲利表現優於市場預期。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "First Solar Analysts Cut Their Forecasts After Q3 Earnings",
+      "publisher": "Benzinga",
+      "date": "2026-10-30 08:57",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "此篇彙整了多間券商（如 JP Morgan、Morgan Stanley、RBC 等）在財報後同步下調目標價的行動，反映市場對其營收成長放緩與財測下調的集體擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "FSLR Q3 deep dive: bookings slowdown and pricing strength amid policy uncertainty",
+      "publisher": "Yahoo",
+      "date": "2026-10-31 23:39",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "深入分析指出訂單成長放緩與政策不確定性，這是導致股價承壓的核心基本面因素。"
+    },
+    {
+      "rank": 3,
+      "title": "GLJ Research Downgrades First Solar to Hold, Announces $161 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-10-30 10:56",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "GLJ Research 將評級從買進下調至持有，並給出顯著低於市場共識的目標價，對股價造成負面心理影響。"
+    },
+    {
+      "rank": 4,
+      "title": "First Solar (FSLR) Faces Interest Rate Pressure Despite Strong Margins and Backlog, Ariel Global Fund Says",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 16:56",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "指出高利率環境對太陽能專案融資的負面影響，即便公司擁有強勁的積壓訂單，仍難以抵銷宏觀經濟的逆風。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "First Solar, CubicPV Enter into US Patent Licensing Agreement",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 20:01",
+      "impact": "low",
+      "category": "商業合作",
+      "reason": "與 CubicPV 簽署專利授權協議屬於常規業務發展，對短期財務影響有限，市場反應中性。"
+    },
+    {
+      "rank": 2,
+      "title": "First Solar (FSLR) Stock May Trade At A Discount Following Factory Expansion Plans",
+      "publisher": "Yahoo",
+      "date": "2026-10-30 19:07",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對股價折價的討論，屬於市場情緒分析，未對公司基本面產生立即性改變。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

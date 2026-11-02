@@ -1,0 +1,111 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy",
+  "analysis_date": "2026-11-01",
+  "source_file": "cache/2026-11-01/holdings/news/CEG.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 3,
+    "neutral_count": 5,
+    "overall_sentiment": "bullish",
+    "key_theme": "Constellation Energy 獲得 50 億美元聯邦貸款承諾以擴大核能產能，受惠於 AI 資料中心對穩定電力的強勁需求，推動市場對其長期成長前景的樂觀預期。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Constellation Secures Conditional DOE Loan Commitment of up to $5 Billion to Expand Nuclear Output",
+      "publisher": "Yahoo",
+      "date": "2026-10-27 17:35",
+      "impact": "high",
+      "category": "政府政策與融資",
+      "reason": "公司正式獲得美國能源部 50 億美元的條件性貸款承諾，用於升級與擴大核能發電產能，直接強化其作為 AI 資料中心電力供應商的市場地位。"
+    },
+    {
+      "rank": 2,
+      "title": "Morgan Stanley Maintains Overweight on Constellation Energy, Raises Price Target to $391",
+      "publisher": "Benzinga",
+      "date": "2026-10-30 14:00",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "摩根士丹利分析師 David Arcaro 維持「加碼」評級並上調目標價至 391 美元，反映市場對其核能資產價值重估的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Why Constellation Energy Is Becoming a Bigger Part of the AI Trade",
+      "publisher": "Yahoo",
+      "date": "2026-10-30 13:23",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 Google、Amazon 與 Meta 等科技巨頭對穩定電力的需求，使核能成為 AI 產業鏈的核心，CEG 的戰略地位顯著提升。"
+    },
+    {
+      "rank": 4,
+      "title": "TD Cowen Maintains Buy on Constellation Energy, Raises Price Target to $374",
+      "publisher": "Benzinga",
+      "date": "2026-10-27 11:14",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師 Shelby Tucker 上調目標價至 374 美元，顯示專業機構對公司長期獲利成長的正面看法。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "CIBC Maintains Outperformer on Constellation Energy, Lowers Price Target to $343",
+      "publisher": "Benzinga",
+      "date": "2026-10-28 18:39",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "儘管維持優於大盤評級，但分析師 Mark Jarvi 下調目標價，反映對短期估值過高或市場波動的風險考量。"
+    },
+    {
+      "rank": 2,
+      "title": "Wells Fargo Maintains Overweight on Constellation Energy, Lowers Price Target to $352",
+      "publisher": "Benzinga",
+      "date": "2026-10-28 11:10",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "分析師 Shahriar Pourreza 下調目標價，顯示在股價大幅上漲後，機構對其短期上行空間的修正。"
+    },
+    {
+      "rank": 3,
+      "title": "Are You Sure You Understand Constellation Energy Stock's Risk?",
+      "publisher": "Yahoo",
+      "date": "2026-10-27 20:42",
+      "impact": "low",
+      "category": "風險評估",
+      "reason": "提醒投資人注意公司股價在經歷大幅上漲後的潛在波動風險與估值過高問題。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Constellation Energy Corporation Declares Dividend",
+      "publisher": "Yahoo",
+      "date": "2026-10-30 15:00",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "公司宣布季度股利，屬於例行性財務活動，對股價影響中性。"
+    },
+    {
+      "rank": 2,
+      "title": "CEG vs. DUK: Which Utility Stock Offers Better Growth Potential?",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 16:01",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "將 CEG 與 Duke Energy 進行比較分析，提供投資人不同選擇視角，無明確多空導向。"
+    },
+    {
+      "rank": 3,
+      "title": "Earnings Preview: What To Expect From Constellation Energy's Report",
+      "publisher": "Yahoo",
+      "date": "2026-10-27 10:33",
+      "impact": "low",
+      "category": "財報預告",
+      "reason": "市場對即將到來的第三季財報進行預期分析，屬於市場常規資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
