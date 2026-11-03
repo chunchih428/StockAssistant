@@ -1,0 +1,110 @@
+{
+  "ticker": "QQQ",
+  "company": "QQQ",
+  "analysis_date": "2026-11-02",
+  "source_file": "cache/2026-11-02/holdings/news/QQQ.json",
+  "summary": {
+    "total_articles": 10,
+    "bullish_count": 0,
+    "bearish_count": 4,
+    "neutral_count": 6,
+    "overall_sentiment": "bearish",
+    "key_theme": "Alphabet 財報暴跌引發市場對 QQQ 高度集中於大型科技股與 AI 支出放緩的擔憂。"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Alphabet's $482B Wipeout Sparks AI Spending Fears: Is QQQ's Big Tech Exposure Becoming a Risk?",
+      "publisher": "Benzinga",
+      "date": "2026-10-30 08:30",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Alphabet 市值蒸發 4820 億美元，凸顯 QQQ 對大型科技股的高度集中風險，市場擔憂 AI 資本支出回報率不足。"
+    },
+    {
+      "rank": 2,
+      "title": "Alphabet Is Having Its Worst Earnings Day Ever. Here’s What It Means for Your ETFs",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 14:48",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "Alphabet 創下史上最差單日跌幅，由於該股在 QQQ 中權重極高，導致投資人直接承受顯著帳面損失。"
+    },
+    {
+      "rank": 3,
+      "title": "Stocktwits Passport Portfolio: SPY, DIA Edge Higher In October, Beating QQQ And Asian Stocks Amid Tech Volatility",
+      "publisher": "Yahoo",
+      "date": "2026-10-30 06:43",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "科技股波動加劇導致 QQQ 在 10 月表現落後於標普 500 指數 (SPY) 與道瓊指數 (DIA)，顯示資金正流向防禦性板塊。"
+    },
+    {
+      "rank": 4,
+      "title": "This Little-Known ETF Owns QQQ’s Stocks Without the Big Bet on Nvidia",
+      "publisher": "Yahoo",
+      "date": "2026-10-30 15:14",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "市場出現替代性 ETF 宣傳，強調能規避 QQQ 對單一晶片大廠（Nvidia）過度曝險的風險，可能導致部分資金分流。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "VTI vs. QQQ: Here's the ETF I'd Personally Buy and Hold for Decades",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 11:50",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "針對 VTI 與 QQQ 的長期持有比較，屬常見的投資組合配置討論，對股價無直接影響。"
+    },
+    {
+      "rank": 2,
+      "title": "VOO vs. QQQ: Here's the ETF I'd Personally Buy and Hold for Decades",
+      "publisher": "Yahoo",
+      "date": "2026-10-26 15:40",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "與 VTI 比較文類似，探討 VOO 與 QQQ 的潛在報酬差異，屬於投資教育性質內容。"
+    },
+    {
+      "rank": 3,
+      "title": "What Few Investors Realize About QQQ’s Dividend",
+      "publisher": "Yahoo",
+      "date": "2026-10-27 12:10",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "分析 QQQ 的股息表現，提供投資人關於該 ETF 收益特性的資訊，不影響短期股價。"
+    },
+    {
+      "rank": 4,
+      "title": "Forget QQQ: The Company Behind It Runs the Same Index for $30 Less a Year on a $100K Balance",
+      "publisher": "Yahoo",
+      "date": "2026-10-26 21:03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "討論 Invesco 旗下追蹤相同指數但費用率不同的產品，屬於成本效益分析，對 QQQ 本身流動性影響有限。"
+    },
+    {
+      "rank": 5,
+      "title": "Food Network New York City Wine & Food Festival presented by Invesco QQQ",
+      "publisher": "Yahoo",
+      "date": "2026-10-26 19:59",
+      "impact": "low",
+      "category": "品牌行銷",
+      "reason": "Invesco QQQ 贊助紐約美食節，屬於品牌行銷活動，與基金績效或市場表現無關。"
+    },
+    {
+      "rank": 6,
+      "title": "Market Volatility Playbook: Trade the Noise, Get Paid to Ignore the Rest",
+      "publisher": "Yahoo",
+      "date": "2026-10-25 11:55",
+      "impact": "low",
+      "category": "投資策略",
+      "reason": "提供利用 QQQ 選擇權進行波動率交易的策略建議，屬於技術性操作分析。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
