@@ -1,0 +1,111 @@
+{
+  "ticker": "ARM",
+  "company": "Arm Holdings plc",
+  "analysis_date": "2026-11-04",
+  "source_file": "cache/2026-11-04/candidates/news/ARM.json",
+  "summary": {
+    "total_articles": 13,
+    "bullish_count": 3,
+    "bearish_count": 6,
+    "neutral_count": 4,
+    "overall_sentiment": "mixed",
+    "key_theme": "市場高度關注 Arm 即將公布的 Q2 財報，多空雙方在 AI 需求成長潛力與高估值回調風險之間拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "ECARX Signs Non-Binding MoU With Arm Holdings To Develop High Performance AI Computing Platforms",
+      "publisher": "Benzinga",
+      "date": "2026-11-02 07:03",
+      "impact": "medium",
+      "category": "策略合作",
+      "reason": "Arm 與 ECARX 簽署合作備忘錄，共同開發高效能 AI 運算平台，顯示其在車用與 AI 領域的技術生態持續擴張。"
+    },
+    {
+      "rank": 2,
+      "title": "Arm Holdings: Data Centers Will Continue To Offset Weak Mobile, But Upside Only In My Bull Case",
+      "publisher": "SeekingAlpha",
+      "date": "2026-10-28 18:02",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "分析指出資料中心業務的成長足以抵銷智慧型手機市場的疲軟，長期看好其在機器人與車用領域的授權金潛力。"
+    },
+    {
+      "rank": 3,
+      "title": "If You Invest $1,000 in Arm Holdings Today, Here’s What It Could Be Worth by 2030",
+      "publisher": "Yahoo",
+      "date": "2026-11-02 14:03",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "強調公司從手機晶片轉型至超大規模資料中心與自有矽晶片策略的長期價值，對未來成長持正面看法。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Why Arm Holdings Stock Lost 29% Last Month",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 04:38",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "上個月股價重挫 29%，主要受 CoreWeave 相關擔憂及半導體產業整體情緒轉弱影響，反映市場對高估值個股的修正壓力。"
+    },
+    {
+      "rank": 2,
+      "title": "Arm Holdings Fell Nearly 10% on Intel’s Warning",
+      "publisher": "Yahoo",
+      "date": "2026-11-02 13:26",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "受 Intel 財報預警拖累，市場擔憂半導體產業需求放緩，導致 Arm 股價單日下跌近 10%，顯示其股價對同業消息高度敏感。"
+    },
+    {
+      "rank": 3,
+      "title": "Ahead of Arm Earnings, Here's What Barchart Data Says Comes Next for ARM Stock",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 20:38",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "選擇此篇作為代表，因其引用選擇權市場數據，指出投資人預期財報公布後股價將面臨劇烈波動與下行壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Arm Is Up 88% in 2026 and Down 55% From Its High: Take Profits, or Buy More?",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 05:38",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "針對今年以來的大幅漲跌進行回顧，提供投資人獲利了結或加碼的兩難分析，未給出明確操作建議。"
+    },
+    {
+      "rank": 2,
+      "title": "Arm Holdings (ARM) Faces An Earnings Test As AI And Royalty Questions Shape Valuation",
+      "publisher": "Yahoo",
+      "date": "2026-11-02 20:16",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "探討財報前夕市場對 AI 授權金與估值合理性的疑問，屬於財報前的觀望性分析。"
+    },
+    {
+      "rank": 3,
+      "title": "ARM to Post Q2 Earnings: Should the Stock Be in Your Portfolio Now?",
+      "publisher": "Yahoo",
+      "date": "2026-11-02 17:20",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "評估財報前的投資價值，指出成長前景與高估值之間的矛盾，維持中立觀點。"
+    },
+    {
+      "rank": 4,
+      "title": "Dear Arm Stock Fans, Mark Your Calendars for November 4",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 14:43",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "單純提醒財報公布日期，並提及市場關注 AI 需求是否轉化為實際營收，屬資訊性質新聞。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

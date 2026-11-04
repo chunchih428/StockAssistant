@@ -1,0 +1,102 @@
+{
+  "ticker": "BE",
+  "company": "Bloom Energy Corporation",
+  "analysis_date": "2026-11-04",
+  "source_file": "cache/2026-11-04/holdings/news/BE.json",
+  "summary": {
+    "total_articles": 11,
+    "bullish_count": 6,
+    "bearish_count": 2,
+    "neutral_count": 3,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 驅動的電力需求成長與強勁的財報展望，加上與 California Resources Corporation 的策略合作，推動股價強勢反彈。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "BE Stock Heads For Best Week In Over A Month: This Analyst Says Bloom’s Demand Trends Are Getting ‘Harder To Ignore’ — Barclays upgraded Bloom Energy stock to ‘Overweight’ from ‘Equal Weight’ with a price target of $289",
+      "publisher": "Yahoo",
+      "date": "2026-11-04 01:10",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "Barclays 將評級上調至「加碼」，並給出高目標價，顯示市場對其電力需求趨勢的認可度顯著提升。"
+    },
+    {
+      "rank": 2,
+      "title": "BE Stock Rallies After-Hours On CRC Tie-Up Targeting 1GW Of Fuel-Cell Capacity",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 00:10",
+      "impact": "high",
+      "category": "策略合作",
+      "reason": "與 California Resources Corporation 簽署合作備忘錄，目標開發 1 GW 的燃料電池產能，為公司帶來長期的營收成長潛力。"
+    },
+    {
+      "rank": 3,
+      "title": "Bloom Energy Q3 Earnings Call Highlights Guidance Hike & Capacity Plan",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 12:41",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司上調 2026 年財測，並積極擴張製造產能以應對 AI 數據中心帶來的強勁電力需求。"
+    },
+    {
+      "rank": 4,
+      "title": "Bloom Energy: Ignore The Panic. Focus On The Explosive Growth Potential",
+      "publisher": "SeekingAlpha",
+      "date": "2026-10-30 10:26",
+      "impact": "medium",
+      "category": "市場觀點",
+      "reason": "強調公司基本面穩健，且由 AI 驅動的營收成長潛力足以抵銷市場短期恐慌。"
+    },
+    {
+      "rank": 5,
+      "title": "S&P 500 Top Movers: Gainers and Losers on Nov. 3, 2026",
+      "publisher": "ChartMill",
+      "date": "2026-11-03 17:36",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "反映股價在近期市場交易中表現強勢，位居標普 500 指數漲幅榜前列。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Watching Bloom Energy; Hunterbrook Media Issues Report Titled, “Bloom: Chinese Scandium Supply Route Restarts”; States Hunterbrook Capital Is Short $BE",
+      "publisher": "Benzinga",
+      "date": "2026-10-30 12:23",
+      "impact": "medium",
+      "category": "放空報告",
+      "reason": "Hunterbrook Capital 發布放空報告，質疑其供應鏈（鈧元素）的穩定性，對公司營運透明度構成挑戰。"
+    },
+    {
+      "rank": 2,
+      "title": "Bloom Energy Corporation (BE) Weighed on Clough Capital’s Portfolio in Q3 2026",
+      "publisher": "Yahoo",
+      "date": "2026-11-02 19:26",
+      "impact": "low",
+      "category": "機構持倉",
+      "reason": "機構投資人 Clough Capital 在第三季減持，顯示部分資本對其短期波動持謹慎態度。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Bloom Energy or Plug Power: Which Offers Better Long-Term Upside Now?",
+      "publisher": "Yahoo",
+      "date": "2026-10-30 15:15",
+      "impact": "low",
+      "category": "產業比較",
+      "reason": "對比同業 Plug Power，指出 BE 在獲利能力上較佳，但同時提及估值溢價問題，觀點中立。"
+    },
+    {
+      "rank": 2,
+      "title": "Is Bloom Energy (BE) Stock Cheap After AI Demand And Cash Flow Concerns?",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 05:10",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "探討 AI 需求與現金流疑慮之間的平衡，對股價是否被低估持保留態度。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

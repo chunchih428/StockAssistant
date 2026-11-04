@@ -1,0 +1,111 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "analysis_date": "2026-11-04",
+  "source_file": "cache/2026-11-04/candidates/news/AVGO.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 4,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "Broadcom 受惠於 AI 基礎設施需求強勁與客製化晶片業務擴張，儘管面臨同業競爭與潛在財務風險，市場長期看好其在 AI 供應鏈的關鍵地位。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Broadcom Emerges as Anthropic IPO’s Big Winner",
+      "publisher": "Yahoo",
+      "date": "2026-11-02",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Broadcom 作為 AI 基礎設施與客製化晶片供應商，在 Anthropic 的 AI 擴張中扮演關鍵角色，被視為 AI 浪潮下的長期贏家。"
+    },
+    {
+      "rank": 2,
+      "title": "Why Broadcom (AVGO) Anchors Our 10 Best Tech Stocks for the Next 5 Years",
+      "publisher": "Yahoo",
+      "date": "2026-11-03",
+      "impact": "medium",
+      "category": "市場分析",
+      "reason": "獲選為未來 5 年最佳科技股之一，顯示分析師對其長期營收成長與 AI 晶片業務的穩定性具備高度信心。"
+    },
+    {
+      "rank": 3,
+      "title": "ETFs Bought $183.8 Million of Broadcom (AVGO) on Friday",
+      "publisher": "Yahoo",
+      "date": "2026-11-03",
+      "impact": "medium",
+      "category": "資金流向",
+      "reason": "機構投資人透過 ETF 大舉買入，顯示市場對該股的配置需求依然強勁，有助於支撐股價表現。"
+    },
+    {
+      "rank": 4,
+      "title": "Broadcom’s Supply Bottlenecks – Not Demand – Continue to Offer Investors a Discount I Keep Buying",
+      "publisher": "Yahoo",
+      "date": "2026-11-02",
+      "impact": "medium",
+      "category": "投資建議",
+      "reason": "指出股價回調主因是供應瓶頸而非需求疲軟，這為長期投資人提供了買入機會，強調基本面依然穩健。"
+    },
+    {
+      "rank": 5,
+      "title": "What Is Broadcom (AVGO) Changing In AI Security And Fraud Defense?",
+      "publisher": "Yahoo",
+      "date": "2026-11-04",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "推出 TrueSource Spring Enterprise 等新安全產品，顯示公司持續擴大在 AI 安全與防詐騙領域的技術護城河。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Broadcom Sinks 5.5% as Its $43 Billion Anthropic Backstop Meets an Intel-Led Chip Rout",
+      "publisher": "Yahoo",
+      "date": "2026-10-31",
+      "impact": "high",
+      "category": "財務風險",
+      "reason": "Broadcom 涉及高達 430 億美元的 Anthropic 融資擔保，市場擔憂其潛在財務責任與風險敞口。"
+    },
+    {
+      "rank": 2,
+      "title": "Marvell’s Lumentum Buy Threatens Broadcom’s AI Optics Lead, Says TrendForce",
+      "publisher": "Yahoo",
+      "date": "2026-11-03",
+      "impact": "medium",
+      "category": "市場競爭",
+      "reason": "Marvell 收購 Lumentum 將提升其在 AI 光學領域的市佔率，對 Broadcom 的市場領導地位構成直接威脅。"
+    },
+    {
+      "rank": 3,
+      "title": "AMD Expands AI Footprint With Meta: Can It Outpace NVDA & AVGO?",
+      "publisher": "Yahoo",
+      "date": "2026-10-30",
+      "impact": "low",
+      "category": "市場競爭",
+      "reason": "AMD 與 Meta 的合作擴大，加劇了 AI 晶片市場的競爭壓力，可能稀釋 Broadcom 未來的成長份額。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "The Zacks Analyst Blog Highlights AMD, NVIDIA, Broadcom and Intel",
+      "publisher": "Yahoo",
+      "date": "2026-11-03",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅為產業概覽報導，提及 Broadcom 在 AI 領域的地位，未提供具體利多或利空的新觀點。"
+    },
+    {
+      "rank": 2,
+      "title": "Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 Chipset - Global Strategic Business Report 2026",
+      "publisher": "Yahoo",
+      "date": "2026-11-02",
+      "impact": "low",
+      "category": "產業報告",
+      "reason": "產業研究報告指出市場成長趨勢，Broadcom 被列為主要競爭者之一，屬於常規產業競爭資訊。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

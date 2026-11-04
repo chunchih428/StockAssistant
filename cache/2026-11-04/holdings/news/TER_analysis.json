@@ -1,0 +1,93 @@
+{
+  "ticker": "TER",
+  "company": "Teradyne, Inc.",
+  "analysis_date": "2026-11-04",
+  "source_file": "cache/2026-11-04/holdings/news/TER.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 12,
+    "bearish_count": 5,
+    "neutral_count": 3,
+    "overall_sentiment": "mixed",
+    "key_theme": "儘管第 3 季財報表現亮眼且 AI 需求強勁，但近期股價面臨顯著修正，市場對於估值與未來成長空間存在多空分歧。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Teradyne Q3 Earnings Beat Estimates, Revenues Increase Year over Year",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 17:03",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "第 3 季營收年增 70 % 至 13 億美元，EPS 激增 150 %，主要受惠於 AI 相關測試需求與記憶體測試業務的強勁成長。"
+    },
+    {
+      "rank": 2,
+      "title": "Teradyne (TER) is an Incredible Growth Stock: 3 Reasons Why",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 16:45",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析指出 Teradyne 具備穩健的成長屬性，在 AI 硬體與自動化領域的長期布局有望使其持續優於大盤表現。"
+    },
+    {
+      "rank": 3,
+      "title": "Cathie Wood Makes Major Shift After Big Tech Gains",
+      "publisher": "Yahoo",
+      "date": "2026-11-02 18:40",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "ARK Invest 執行長 Cathie Wood 大幅加碼 Teradyne，顯示機構投資人對其在 AI 基礎設施領域的長期潛力持正面態度。"
+    },
+    {
+      "rank": 4,
+      "title": "Down 38.9% in 4 Weeks, Here's Why You Should You Buy the Dip in Teradyne (TER)",
+      "publisher": "Yahoo",
+      "date": "2026-11-02 13:35",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "技術面分析顯示股價已進入超賣區間，且近期沉重的賣壓可能已耗盡，提供投資人逢低布局的機會。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Teradyne Lost 17% in a Week. UBS Still Sees 61% Upside",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 20:20",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "儘管財報優於預期，但股價單週重挫 17 %，反映市場對高估值的修正壓力，UBS 雖維持買進評等，但下調目標價至 430 美元。"
+    },
+    {
+      "rank": 2,
+      "title": "Teradyne (TER) Stock May Be Above Fair Value Despite Record AI Demand",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 08:24",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "市場擔憂即便 AI 需求強勁，但 Teradyne 的股價漲幅已過大，目前估值可能已高於合理水平，存在回調風險。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "FLEX or TER: Which Is the Better Value Stock Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 15:40",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "將 Teradyne 與 Flex 進行價值投資比較，屬於中性的選股分析，未對公司基本面提出重大變動觀點。"
+    },
+    {
+      "rank": 2,
+      "title": "S&P 500 After-Hours Gainers: Tuesday Postmarket Movers",
+      "publisher": "ChartMill",
+      "date": "2026-11-03 22:06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "僅單純列出盤後交易的漲幅個股，屬於市場波動的客觀數據紀錄，無特定分析觀點。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,120 @@
+{
+  "ticker": "IBIT",
+  "company": "Bitcoin",
+  "analysis_date": "2026-11-04",
+  "source_file": "cache/2026-11-04/holdings/news/IBIT.json",
+  "summary": {
+    "total_articles": 17,
+    "bullish_count": 2,
+    "bearish_count": 10,
+    "neutral_count": 5,
+    "overall_sentiment": "bearish",
+    "key_theme": "Binance 交易所發生 63 億美元的重大駭客攻擊事件，導致市場恐慌並引發比特幣 ETF 出現大規模資金淨流出。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "'Incredible' That Bitcoin Outperformed Gold Last Week Despite $6.3 Billion Binance Hack, Says Analyst",
+      "publisher": "Benzinga",
+      "date": "2026-11-02 03:29",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "分析師指出比特幣在面對歷史級別的駭客攻擊下，價格表現仍優於黃金，顯示出其資產類別的韌性。"
+    },
+    {
+      "rank": 2,
+      "title": "3 Reasons Why Bitcoin Is Worth Buying Right Now",
+      "publisher": "Yahoo",
+      "date": "2026-10-28 23:29",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "儘管市場動盪，仍有觀點認為比特幣具備長期買入價值，為投資人提供正面信心支撐。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Investors Pull $643 Million From Bitcoin ETFs After the Biggest Crypto Hack in History",
+      "publisher": "Yahoo",
+      "date": "2026-10-31 11:29",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Binance 遭駭事件導致投資人信心崩潰，單日從比特幣 ETF 撤資 6.43 億美元，直接衝擊 IBIT 的資產規模與股價。"
+    },
+    {
+      "rank": 2,
+      "title": "Bitcoin ETFs Lose $1 Billion as Midterms, Binance Hack Weigh on Sentiment",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 15:18",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "兩日內累計流出超過 10 億美元，顯示駭客事件與政治不確定性已對 ETF 資金流造成持續性壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "Binance's $6.3B Hack Sends Bitcoin ETF Tumbling 5%, but This ETF Is Up 21%: What's Driving the Divergence?",
+      "publisher": "Benzinga",
+      "date": "2026-10-30 11:37",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "明確指出 IBIT 因 Binance 駭客事件導致股價單日下跌 5.24 %，反映出該事件對現貨 ETF 的直接負面影響。"
+    },
+    {
+      "rank": 4,
+      "title": "BTC USD Holds $78,000 As OneKey’s Founder Warns North Korean Hackers May Already Have BlackRock’s IBIT on Their List",
+      "publisher": "Yahoo",
+      "date": "2026-11-02 09:24",
+      "impact": "medium",
+      "category": "風險警示",
+      "reason": "市場傳出駭客可能將目標轉向 BlackRock 的 IBIT，引發投資人對資產安全性的擔憂。"
+    },
+    {
+      "rank": 5,
+      "title": "Bitcoin Price Today: BTC Fell to a 5-Week Low After $1.3 Billion in Longs Were Liquidated",
+      "publisher": "Yahoo",
+      "date": "2026-10-30 14:53",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "高達 13 億美元的多頭部位遭到強制平倉，導致比特幣跌至五週低點，連帶拖累 IBIT 表現。"
+    },
+    {
+      "rank": 6,
+      "title": "Bitcoin Looks Like A 'Relative Dud' Against Gold And US Treasuries, Says Bloomberg's Mike McGlone",
+      "publisher": "Yahoo",
+      "date": "2026-10-31 16:49",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "彭博分析師認為比特幣自 2021 年以來的波動性與回報不成正比，相較於黃金與美債表現遜色。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Tether Says It Holds 150,000 Bitcoin, 50,000 More Than Its Reserve Report Showed",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 17:47",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Tether 持有量高於預期雖顯示市場需求，但對 IBIT 本身無直接財務關聯，僅為市場資訊。"
+    },
+    {
+      "rank": 2,
+      "title": "Franklin Templeton Just Launched ETFs That Turn Stock Dividends Into Bitcoin",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 21:03",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "競爭對手推出新產品，顯示加密貨幣 ETF 生態系持續擴張，對 IBIT 影響中性。"
+    },
+    {
+      "rank": 3,
+      "title": "MSBT: Cheap Bitcoin Exposure Still Depends On The ETF Plumbing",
+      "publisher": "SeekingAlpha",
+      "date": "2026-11-03 05:39",
+      "impact": "low",
+      "category": "市場分析",
+      "reason": "針對 Morgan Stanley 比特幣信託的分析，探討費用與流動性，對 IBIT 投資人參考價值有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
