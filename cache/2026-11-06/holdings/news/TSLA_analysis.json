@@ -1,0 +1,129 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla",
+  "analysis_date": "2026-11-04",
+  "source_file": "cache/2026-11-04/holdings/news/TSLA.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 4,
+    "bearish_count": 10,
+    "neutral_count": 6,
+    "overall_sentiment": "mixed",
+    "key_theme": "Tesla 在中國市場銷售表現穩健，但面臨競爭加劇、機構減持以及對潛在 SpaceX 合併案的市場疑慮，整體情緒呈現多空拉鋸。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Tesla's China-Made Vehicle Sales Rise 10.3% in October",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 18:22",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "Tesla 10 月份中國製車輛銷售達 67,829 輛，年增 10.3%，顯示在關鍵市場仍具備成長動能。"
+    },
+    {
+      "rank": 2,
+      "title": "35 ETFs Add to Tesla (TSLA) Holdings on Friday",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 11:02",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "多達 35 檔 ETF 在 10 月 30 日淨買入價值 7,630 萬美元的 Tesla 股票，顯示機構投資者在低檔進行配置。"
+    },
+    {
+      "rank": 3,
+      "title": "US Battery Energy Storage Industry Report Forecasts Investment Growth",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 14:41",
+      "impact": "low",
+      "category": "產業趨勢",
+      "reason": "儲能產業預計至 2035 年投資額將成長至 454.2 億美元，Tesla 作為主要參與者將長期受惠於能源轉型。"
+    },
+    {
+      "rank": 4,
+      "title": "Prediction: At 1.6 Million Robots, Optimus Is “Greater Than the Revenue From Tesla.”",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 11:35",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "分析師預測 Optimus 機器人業務未來潛在營收將超越汽車本業，為公司長期估值提供想像空間。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Gary Black Says Tesla Is Losing EV Share to ‘No-Name’ Rivals",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 17:30",
+      "impact": "high",
+      "category": "市場競爭",
+      "reason": "知名投資人 Gary Black 指出 Tesla 儘管具備先發優勢，但在電動車市占率正流失給小型競爭對手，且行銷策略亟需改進。"
+    },
+    {
+      "rank": 2,
+      "title": "State Street Consumer Discretionary (XLY) Sells Amazon and Tesla on Oct. 30",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 11:05",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "大型基金 State Street 減持 Tesla 股票，賣出金額達 1.847 億美元，對股價短期造成賣壓。"
+    },
+    {
+      "rank": 3,
+      "title": "TSLA Stock Slips Overnight: Trump Vows To Shield Musk — But Influencer Flags ‘Tougher Than Ever’ SpaceX Merger Vote",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 08:15",
+      "impact": "medium",
+      "category": "公司治理",
+      "reason": "市場對於 Tesla 與 SpaceX 潛在合併案的投票門檻感到擔憂，認為執行難度極高，增加了不確定性。"
+    },
+    {
+      "rank": 4,
+      "title": "Investors Are Fleeing to Apple and Selling NVIDIA and Tesla",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 11:22",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "資金流向顯示投資者正從「七巨頭」中的 Tesla 與 NVIDIA 撤出，轉向 Apple，反映市場風險偏好轉變。"
+    },
+    {
+      "rank": 5,
+      "title": "Tesla Stocks Move Lower With Fort Worth Robotaxi Expansion in Focus",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 18:13",
+      "impact": "low",
+      "category": "產品發布",
+      "reason": "Robotaxi 擴展至 Fort Worth 地區，但市場對其具體的營運經濟效益仍持保留態度，導致股價承壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Elon Musk’s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 17:46",
+      "impact": "low",
+      "category": "法規與合規",
+      "reason": "Tesla 與 SpaceX 反對將其股票納入 OKX-ICE 的代幣化交易平台，屬於公司保護股權結構的常規操作。"
+    },
+    {
+      "rank": 2,
+      "title": "Elon Musk Slams ‘Banal’ Cars and Fashion of Today, Calls For a ‘Total Reset’",
+      "publisher": "Yahoo",
+      "date": "2026-11-04 03:30",
+      "impact": "low",
+      "category": "公司治理",
+      "reason": "Elon Musk 的個人言論，雖展現其願景，但對公司短期財務或營運無直接影響。"
+    },
+    {
+      "rank": 3,
+      "title": "AMD, Nvidia Could Join Tesla On Samsung’s Texas Chip Plant Customer List",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 12:14",
+      "impact": "low",
+      "category": "供應鏈",
+      "reason": "提及 Tesla 為三星德州廠客戶，屬於供應鏈既有資訊，對股價影響有限。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

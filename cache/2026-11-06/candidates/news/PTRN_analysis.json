@@ -1,0 +1,28 @@
+{
+  "ticker": "PTRN",
+  "company": "Pattern Group - Series A",
+  "analysis_date": "2026-11-04",
+  "source_file": "cache/2026-11-04/candidates/news/PTRN.json",
+  "summary": {
+    "total_articles": 1,
+    "bullish_count": 0,
+    "bearish_count": 1,
+    "neutral_count": 0,
+    "overall_sentiment": "bearish",
+    "key_theme": "分析師下調目標價反映市場對該公司估值的保守預期"
+  },
+  "bullish": [],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Pattern Group (PTRN) Stock Sees Modest Fair Value Cut As Analyst Targets Tighten",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 12:10",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師將 Pattern Group 的公允價值估計從 28.13 美元下調至 26.38 美元，顯示市場對該公司未來獲利能力或成長前景的預期轉趨保守，對股價構成短期壓力。"
+    }
+  ],
+  "neutral": [],
+  "_schema_version": "1.1"
+}
