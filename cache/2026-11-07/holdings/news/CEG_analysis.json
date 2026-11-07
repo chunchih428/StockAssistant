@@ -1,0 +1,93 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy",
+  "analysis_date": "2026-11-04",
+  "source_file": "cache/2026-11-04/holdings/news/CEG.json",
+  "summary": {
+    "total_articles": 19,
+    "bullish_count": 9,
+    "bearish_count": 6,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "受惠於 AI 資料中心對核能需求的強勁增長，以及獲得 50 億美元政府貸款支持，Constellation Energy 的長期成長前景獲得市場看好，儘管近期股價出現波動與分析師目標價調整。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Why Constellation Energy Is Becoming a Bigger Part of the AI Trade",
+      "publisher": "Yahoo",
+      "date": "2026-10-30",
+      "impact": "high",
+      "category": "市場動態",
+      "reason": "獲得 50 億美元聯邦貸款承諾，將有助於擴大核能產能，以滿足 Google、Amazon 與 Meta 等科技巨頭對 AI 資料中心穩定電力的需求。"
+    },
+    {
+      "rank": 2,
+      "title": "Morgan Stanley Maintains Overweight on Constellation Energy, Raises Price Target to $391",
+      "publisher": "Benzinga",
+      "date": "2026-10-30",
+      "impact": "high",
+      "category": "分析師評級",
+      "reason": "摩根士丹利分析師 David Arcaro 維持「加碼」評級，並將目標價上調至 391 美元，顯示對公司核能資產價值的高度信心。"
+    },
+    {
+      "rank": 3,
+      "title": "What Could Constellation Energy (CEG) Gain From A 200 MW Salem Uprate?",
+      "publisher": "Yahoo",
+      "date": "2026-11-04",
+      "impact": "medium",
+      "category": "產品發布",
+      "reason": "與 PSEG Power 合作推動 Salem 核電廠 200 MW 的產能提升計畫，直接增強了公司在電力供應市場的競爭優勢。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Wells Fargo Maintains Overweight on Constellation Energy, Lowers Price Target to $352",
+      "publisher": "Benzinga",
+      "date": "2026-10-28",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "儘管維持加碼評級，但富國銀行下調目標價至 352 美元，反映出市場對短期估值與資本支出的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "CIBC Maintains Outperformer on Constellation Energy, Lowers Price Target to $343",
+      "publisher": "Benzinga",
+      "date": "2026-10-28",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "CIBC 分析師 Mark Jarvi 下調目標價至 343 美元，顯示在強勁漲勢後，部分機構對其股價溢價空間轉趨保守。"
+    },
+    {
+      "rank": 3,
+      "title": "Constellation Energy Corporation (CEG) Declines More Than Market: Some Information for Investors",
+      "publisher": "Yahoo",
+      "date": "2026-11-02",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價單日下跌 1.9 %，表現落後大盤，反映出投資人獲利了結的賣壓。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Constellation Energy Corporation Declares Dividend",
+      "publisher": "Yahoo",
+      "date": "2026-10-30",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "公司宣布發放季度股息，屬於例行性財務決策，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Constellation Energy vs. NextEra Energy: Which Utilities Stock Is a Better Buy for 2027?",
+      "publisher": "Yahoo",
+      "date": "2026-11-02",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "針對同業競爭的比較分析，提供了投資組合配置的觀點，但未對公司基本面產生直接影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

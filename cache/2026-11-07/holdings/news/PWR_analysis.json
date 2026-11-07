@@ -1,0 +1,102 @@
+{
+  "ticker": "PWR",
+  "company": "Quanta Services",
+  "analysis_date": "2026-11-04",
+  "source_file": "cache/2026-11-04/holdings/news/PWR.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 1,
+    "neutral_count": 4,
+    "overall_sentiment": "bullish",
+    "key_theme": "公司第 3 季財報表現亮眼，憑藉創紀錄的 637 億美元積壓訂單與強勁的電力基礎設施需求，獲得多家投行上調目標價。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "QUANTA SERVICES REPORTS THIRD QUARTER 2026 RESULTS",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 10:55",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司第 3 季財報營收與每股盈餘均優於市場預期，且積壓訂單達到 637 億美元的歷史新高，顯示電力基礎設施需求強勁。"
+    },
+    {
+      "rank": 2,
+      "title": "Truist Securities Reiterates Buy on Quanta Services, Raises Price Target to $967",
+      "publisher": "Benzinga",
+      "date": "2026-10-30 12:52",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師 Jamie Cook 重申買入評級並大幅上調目標價至 967 美元，反映對公司長期成長動能的高度信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Citigroup Maintains Buy on Quanta Services, Raises Price Target to $882",
+      "publisher": "Benzinga",
+      "date": "2026-10-30 17:44",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "花旗分析師 Andrew Kaplowitz 維持買入評級並上調目標價，肯定公司在電力基礎設施領域的市場領導地位。"
+    },
+    {
+      "rank": 4,
+      "title": "Evercore ISI Group Maintains Outperform on Quanta Services, Raises Price Target to $850",
+      "publisher": "Benzinga",
+      "date": "2026-10-30 08:42",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師 Durgesh Chopra 維持優於大盤評級並上調目標價，顯示市場對其獲利能力的認可。"
+    },
+    {
+      "rank": 5,
+      "title": "TD Cowen Maintains Buy on Quanta Services, Raises Price Target to $830",
+      "publisher": "Benzinga",
+      "date": "2026-10-30 16:11",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "分析師 Marc Bianchi 將目標價從 785 美元上調至 830 美元，反映財報後的正面展望。"
+    },
+    {
+      "rank": 6,
+      "title": "Bernstein names stocks to buy as data centre political risks appear overstated",
+      "publisher": "Yahoo",
+      "date": "2026-11-02 21:06",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "Bernstein 將 Quanta Services 列為數據中心相關風險被高估後的買入標的，增強市場信心。"
+    },
+    {
+      "rank": 7,
+      "title": "Construction Stocks Begin Turnaround Even As AI Spending Fears Mount",
+      "publisher": "Yahoo",
+      "date": "2026-10-30 15:58",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "報導指出 Quanta 與 MasTec 在財報後股價大漲，帶動建築類股反彈，顯示市場對其基本面轉強的共識。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Oppenheimer Maintains Outperform on Quanta Services, Lowers Price Target to $800",
+      "publisher": "Benzinga",
+      "date": "2026-11-02 12:55",
+      "impact": "low",
+      "category": "分析師評級",
+      "reason": "儘管維持優於大盤評級，但 Oppenheimer 分析師 Brent Thielman 下調了目標價，可能反映對未來估值空間的保守看法。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Quanta Services (PWR) Stock Cools As Q3 Earnings Reset The Debate",
+      "publisher": "Yahoo",
+      "date": "2026-10-31 17:13",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "股價在財報後小幅回調 2%，屬於獲利了結的正常市場行為，未改變長期多頭趨勢。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "HON",
+  "company": "Honeywell",
+  "analysis_date": "2026-11-04",
+  "source_file": "cache/2026-11-04/candidates/news/HON.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 10,
+    "bearish_count": 3,
+    "neutral_count": 7,
+    "overall_sentiment": "bullish",
+    "key_theme": "Honeywell 正積極透過工業 AI 平台與自動化技術轉型，並在航太業務分拆後展現出強勁的市場競爭力與成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Is AI Platform Launch Altering The Investment Case For Honeywell (HON)?",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 16:18",
+      "impact": "high",
+      "category": "產品發布",
+      "reason": "Honeywell 與 NVIDIA 及 Dell 合作推出 Forge Plant Cognition 工業 AI 平台，顯示公司在數位轉型與高科技工業解決方案的領先地位，有助於提升長期獲利能力。"
+    },
+    {
+      "rank": 2,
+      "title": "HONA Q3 Earnings Call Highlights Supply Chain Recovery and 2027 Growth",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 17:25",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "Honeywell 航太部門 Q3 財報優於預期，並上調 2026 年 EPS 展望，顯示供應鏈瓶頸緩解，為未來成長奠定基礎。"
+    },
+    {
+      "rank": 3,
+      "title": "Honeywell Technologies Helps Royal Caribbean Personalize the Guest Experience With Connected Cabin Automation System",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 12:00",
+      "impact": "medium",
+      "category": "市場擴張",
+      "reason": "與皇家加勒比郵輪的合作案展示了其互聯客艙自動化系統的商業應用價值，有助於擴大在智慧建築與服務領域的市占率。"
+    },
+    {
+      "rank": 4,
+      "title": "Bioprocess Automation Software Market Report 2026",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 14:18",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "生物製程自動化軟體市場預計以 12.2% 的年複合成長率成長，Honeywell 作為主要參與者將受惠於產業數位化趨勢。"
+    },
+    {
+      "rank": 5,
+      "title": "Advanced HVAC Control Market Forecast to Reach $14.8 Billion by 2035",
+      "publisher": "Yahoo",
+      "date": "2026-11-02 14:34",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "智慧建築 HVAC 控制市場持續擴大，Honeywell 在該領域的領導地位確保了穩定的長期營收來源。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "What Sent Honeywell Aerospace Stock Lower?",
+      "publisher": "Yahoo",
+      "date": "2026-10-31 13:57",
+      "impact": "medium",
+      "category": "股價波動",
+      "reason": "航太部門股價近期出現回調，反映市場對其分拆後獨立營運的執行力與供應鏈穩定性仍存有疑慮。"
+    },
+    {
+      "rank": 2,
+      "title": "Honeywell (HON) Stock May Sit Above Fair Value On Raised Outlook",
+      "publisher": "Yahoo",
+      "date": "2026-10-29 21:08",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "儘管展望上調，但分析指出股價可能已反映過多樂觀預期，相較於年初至今的表現，估值壓力依然存在。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "MARUY or HON: Which Is the Better Value Stock Right Now?",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 15:40",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "此類文章為常見的選股比較，並未提供新的基本面資訊，僅供投資人作為價值投資參考。"
+    },
+    {
+      "rank": 2,
+      "title": "Honeywell Technologies Announces Participation at Upcoming Investor Conference",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 13:00",
+      "impact": "low",
+      "category": "公司公告",
+      "reason": "例行性的投資人會議參與公告，對股價影響有限，主要為維持市場溝通。"
+    },
+    {
+      "rank": 3,
+      "title": "Honeywell Aerospace vs. GE Aerospace: Which Pure-Play Aerospace Stock Is the Better Buy?",
+      "publisher": "Yahoo",
+      "date": "2026-11-04 03:35",
+      "impact": "low",
+      "category": "投資分析",
+      "reason": "針對兩家航太巨頭的比較分析，屬於市場觀點討論，未對 Honeywell 本身營運產生實質影響。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

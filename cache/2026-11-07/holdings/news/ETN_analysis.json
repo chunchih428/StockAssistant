@@ -1,0 +1,102 @@
+{
+  "ticker": "ETN",
+  "company": "Eaton",
+  "analysis_date": "2026-11-04",
+  "source_file": "cache/2026-11-04/holdings/news/ETN.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 15,
+    "bearish_count": 3,
+    "neutral_count": 2,
+    "overall_sentiment": "strongly_bullish",
+    "key_theme": "Eaton 發布強勁的第三季財報，受惠於資料中心需求激增與積壓訂單成長，公司並上調了全年獲利指引，抵銷了部分市場對 AI 相關類股波動的擔憂。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Eaton Reports Record Third Quarter 2026 Results, with Strong Organic Growth, Accelerating Record Orders and Backlog; Raises Organic Growth Guidance",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 11:30",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司發布創紀錄的第 3 季財報，營收與獲利均優於預期，且積壓訂單成長 46 %，顯示強勁的市場需求，並上調全年有機成長指引。"
+    },
+    {
+      "rank": 2,
+      "title": "Eaton Corp Raises FY2026 Adj EPS Guidance from $13.40-$13.60 to $13.70-$13.80 vs $13.60 Est",
+      "publisher": "Benzinga",
+      "date": "2026-11-03 07:33",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "公司將 2026 全年調整後每股盈餘 (EPS) 指引上調至 13.70 美元至 13.80 美元，高於市場預期的 13.60 美元，展現管理層對未來獲利能力的信心。"
+    },
+    {
+      "rank": 3,
+      "title": "Eaton (ETN) Q3 Earnings and Revenues Top Estimates",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 11:45",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "第 3 季財報顯示獲利與營收分別超出預期 3.96 % 與 5.48 %，主要受惠於資料中心基礎設施的強勁需求。"
+    },
+    {
+      "rank": 4,
+      "title": "Vertiv Soars 6%, Eaton Up 7% as Bernstein Calls Election-Day Data Center Fears Overblown",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 15:20",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "Bernstein 分析師指出市場對美國資料中心建設的政治風險擔憂過度，帶動 Eaton 股價上漲 7 %，緩解了投資人對產業政策面的疑慮。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Eaton Just Dropped 16% in a Month. Is It Time to Sell, or Load Up?",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 19:04",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "儘管財報強勁，但該報導指出 Eaton 在過去一個月內因 AI 相關類股整體回調而下跌 16 %，反映出市場對高估值類股的波動性風險。"
+    },
+    {
+      "rank": 2,
+      "title": "Eaton Sales Up 28%; GAAP EPS Rises Just 7%: Rapid Earnings Reaction",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 15:06",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "指出 GAAP 每股盈餘僅成長 7 %，與營收 28 % 的成長幅度存在落差，暗示調整後與 GAAP 獲利之間的差距擴大，可能引發部分投資人對獲利品質的關注。"
+    },
+    {
+      "rank": 3,
+      "title": "Eaton Corp Sees Q4 GAAP EPS $3.28-$3.38 vs $3.48 Est",
+      "publisher": "Benzinga",
+      "date": "2026-11-03 07:33",
+      "impact": "low",
+      "category": "財報公布",
+      "reason": "第 4 季 GAAP 每股盈餘指引區間為 3.28 美元至 3.38 美元，低於市場預期的 3.48 美元，顯示短期內 GAAP 獲利可能面臨壓力。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Cramer's Mad Dash: Eaton",
+      "publisher": "CNBC",
+      "date": "2026-11-03 09:33",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "Jim Cramer 的日常評論，主要為市場觀點分享，未提供新的實質財務數據，對股價影響有限。"
+    },
+    {
+      "rank": 2,
+      "title": "Eaton Earnings Are Rock Solid. It Won’t Be Enough to Ease AI Concerns.",
+      "publisher": "Yahoo",
+      "date": "2026-11-03 12:56",
+      "impact": "low",
+      "category": "市場評論",
+      "reason": "評論認為 Eaton 財報表現穩健，但不足以完全消除市場對 AI 相關類股的整體擔憂，屬於中性偏謹慎的市場觀察。"
+    }
+  ],
+  "_schema_version": "1.1"
+}

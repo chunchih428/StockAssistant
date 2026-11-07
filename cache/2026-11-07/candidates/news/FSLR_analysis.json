@@ -1,0 +1,84 @@
+{
+  "ticker": "FSLR",
+  "company": "First Solar",
+  "analysis_date": "2026-11-04",
+  "source_file": "cache/2026-11-04/candidates/news/FSLR.json",
+  "summary": {
+    "total_articles": 20,
+    "bullish_count": 2,
+    "bearish_count": 17,
+    "neutral_count": 1,
+    "overall_sentiment": "bearish",
+    "key_theme": "儘管 Q3 獲利表現優於預期，但因營收下滑、下調全年財測以及多家券商因需求疲軟與政策不確定性而調降目標價，導致市場情緒轉趨保守。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "First Solar: 3 Key Takeaways for Long-Term Investors",
+      "publisher": "Yahoo",
+      "date": "2026-11-02 04:01",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "強調公司在貿易保護與美國本土製造方面的結構性優勢，認為這些護城河難以被競爭對手複製，對長期投資者具吸引力。"
+    },
+    {
+      "rank": 2,
+      "title": "First Solar (FSLR) Stock May Trade At A Discount Following Factory Expansion Plans",
+      "publisher": "Yahoo",
+      "date": "2026-10-30 19:07",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "指出近期股價回調後，工廠擴張計畫帶來的長期價值可能使股票處於折價狀態，提供潛在買入機會。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "First Solar Analysts Cut Their Forecasts After Q3 Earnings",
+      "publisher": "Benzinga",
+      "date": "2026-10-30 08:57",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "彙整了財報後多家券商（如 Barclays、Citigroup、JP Morgan 等）集體下調目標價的現象，反映市場對營收下滑與財測下修的擔憂。"
+    },
+    {
+      "rank": 2,
+      "title": "FSLR Q3 deep dive: bookings slowdown and pricing strength amid policy uncertainty",
+      "publisher": "Yahoo",
+      "date": "2026-10-31 23:39",
+      "impact": "high",
+      "category": "財報公布",
+      "reason": "深入分析 Q3 訂單放緩與政策不確定性，指出儘管定價能力尚存，但營收未達預期對股價造成顯著壓力。"
+    },
+    {
+      "rank": 3,
+      "title": "GLJ Research Downgrades First Solar to Hold, Announces $161 Price Target",
+      "publisher": "Benzinga",
+      "date": "2026-10-30 10:56",
+      "impact": "medium",
+      "category": "分析師評級",
+      "reason": "GLJ Research 將評級下調至「持有」，並給出顯著低於市場共識的 161 美元目標價，對市場信心造成負面影響。"
+    },
+    {
+      "rank": 4,
+      "title": "FSLR Q3 Earnings Call Highlights Pricing Shift and Outlook Cut",
+      "publisher": "Yahoo",
+      "date": "2026-10-30 13:00",
+      "impact": "medium",
+      "category": "財報公布",
+      "reason": "指出公司在財報會議中提到客戶決策延遲與需求疲軟，這是導致未來展望下調的核心原因。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Should You Buy First Solar Stock Now Or Wait?",
+      "publisher": "Yahoo",
+      "date": "2026-11-02 18:05",
+      "impact": "low",
+      "category": "市場動態",
+      "reason": "文章旨在探討投資時機，並未給出明確的買入或賣出建議，僅提供投資者評估現狀的框架。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
