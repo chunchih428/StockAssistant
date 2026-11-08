@@ -1,0 +1,57 @@
+{
+  "ticker": "CRDO",
+  "company": "Credo Technology Group Holding Ltd",
+  "analysis_date": "2026-11-05",
+  "source_file": "cache/2026-11-05/candidates/news/CRDO.json",
+  "summary": {
+    "total_articles": 4,
+    "bullish_count": 2,
+    "bearish_count": 1,
+    "neutral_count": 1,
+    "overall_sentiment": "bullish",
+    "key_theme": "儘管近期股價出現顯著回調，但市場仍看好 Credo 在 AI 連接需求與光學技術標準化方面的長期成長潛力。"
+  },
+  "bullish": [
+    {
+      "rank": 1,
+      "title": "Credo Technology Group Holding (CRDO) Secures OCP Approval For Two Optical Telemetry Standards",
+      "publisher": "Yahoo",
+      "date": "2026-11-04 21:13",
+      "impact": "medium",
+      "category": "技術標準與合作",
+      "reason": "與 Oracle 共同獲得 OCP 社群批准兩項光學遙測標準，顯示公司在資料中心連接技術領域的產業影響力與技術領先地位。"
+    },
+    {
+      "rank": 2,
+      "title": "Credo Technology Group Holding (CRDO) Stock Looks Below Fair Value On Cash Flow",
+      "publisher": "Yahoo",
+      "date": "2026-11-04 20:12",
+      "impact": "medium",
+      "category": "財務分析",
+      "reason": "基於現金流分析顯示股價目前低於公允價值，為長期投資者提供潛在的價值回升機會。"
+    }
+  ],
+  "bearish": [
+    {
+      "rank": 1,
+      "title": "Credo Stock Dips 27% in the Past Month: What Should Investors Do Next?",
+      "publisher": "Yahoo",
+      "date": "2026-11-04 17:50",
+      "impact": "medium",
+      "category": "市場動態",
+      "reason": "股價在一個月內下跌 26.6%，反映出市場情緒轉弱及短期賣壓，儘管基本面仍有 AI 需求支撐，但技術面走勢疲軟。"
+    }
+  ],
+  "neutral": [
+    {
+      "rank": 1,
+      "title": "Credo (CRDO) Revenue More Than Doubled. What Is It Selling Beyond Copper Cables?",
+      "publisher": "Yahoo",
+      "date": "2026-11-04 17:03",
+      "impact": "low",
+      "category": "市場觀點",
+      "reason": "文章討論公司營收翻倍的成長性，但將其列入「迷因股」名單，對基本面分析的參考價值較為中性，主要關注點在於產品組合的多元化。"
+    }
+  ],
+  "_schema_version": "1.1"
+}
